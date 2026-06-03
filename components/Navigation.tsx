@@ -63,7 +63,7 @@ export function BottomNav() {
 export function Logo() {
   return (
     <div className="flex items-center gap-3">
-      <img src="/favicon.png" alt="Spraakmaker Logo" className="w-[46px] h-[46px] rounded-xl flex-shrink-0 object-contain" />
+      <img src="/spfavicon.png" alt="Spraakmaker Logo" className="w-[46px] h-[46px] rounded-xl flex-shrink-0 object-contain" />
       {/* Yazılar */}
       <div className="flex flex-col select-none text-left justify-center">
         <span className="text-3xl font-bold tracking-tight text-[var(--ds-black)] font-sans leading-none lowercase">
