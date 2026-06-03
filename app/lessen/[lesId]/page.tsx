@@ -275,7 +275,7 @@ function Fase1({
         <p className="text-[10px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-40 mb-4">
           Nieuwe woorden — yeni kelimeler
         </p>
-        <div className="grid grid-cols-2 gap-[3px]">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-[3px]">
           {previewWords.map(([nl, tr]) => (
             <div
               key={nl}
@@ -465,14 +465,14 @@ function Fase2({
           }
           if (token.type === "space") {
             return (
-              <span key={i} style={{ whiteSpace: "pre" }}>
+              <span key={i} style={{ whiteSpace: "pre-wrap" }}>
                 {token.value}
               </span>
             );
           }
           if (token.type === "punct") {
             return (
-              <span key={i} style={{ whiteSpace: "pre" }}>
+              <span key={i} style={{ whiteSpace: "pre-wrap" }}>
                 {token.value}
               </span>
             );

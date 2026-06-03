@@ -136,7 +136,7 @@ function DrumSelector({
 
   return (
     <div className="flex-1 flex flex-col items-center min-w-0">
-      <span className="text-[10px] font-black uppercase tracking-widest text-[var(--ds-black)] opacity-60 mb-2 truncate w-full text-center">
+      <span className="text-xs md:text-sm font-black uppercase tracking-widest text-[var(--ds-black)] opacity-70 mb-2 truncate w-full text-center">
         {label}
       </span>
 
@@ -146,13 +146,14 @@ function DrumSelector({
         onTouchStart={handleTouchStart}
         onTouchEnd={handleTouchEnd}
         className="w-full h-[140px] md:h-[200px] border-[3px] border-[var(--ds-black)] bg-[var(--ds-white)] relative overflow-hidden flex flex-col justify-between py-2 cursor-pointer select-none transition-colors"
+        style={{ touchAction: "none" }}
       >
         {/* Top Fade overlay */}
-        <div className="absolute top-0 left-0 right-0 h-8 bg-gradient-to-b from-[var(--ds-white)] to-transparent pointer-events-none z-10 opacity-80" />
+        <div className="absolute top-0 left-0 right-0 h-10 bg-gradient-to-b from-[var(--ds-white)] to-transparent pointer-events-none z-10 opacity-90" />
 
         {/* Previous Item */}
-        <div className="h-[30px] md:h-[40px] flex items-center justify-center opacity-25 scale-90 transition-all duration-200 overflow-hidden text-center px-1">
-          <span className="text-[10px] md:text-sm font-bold text-[var(--ds-black)] truncate w-full">{prevItem?.nl}</span>
+        <div className="h-[30px] md:h-[40px] flex items-center justify-center opacity-30 scale-95 transition-all duration-200 overflow-hidden text-center px-1">
+          <span className="text-xs md:text-sm font-bold text-[var(--ds-black)] truncate w-full">{prevItem?.nl}</span>
         </div>
 
         {/* Active Item */}
@@ -162,20 +163,31 @@ function DrumSelector({
             color: "var(--ds-white)",
             borderColor: "var(--ds-black)",
           } : {}}
-          className={`h-[50px] md:h-[60px] flex flex-col items-center justify-center border-y-[3px] border-[var(--ds-black)] transition-all duration-200 text-center px-1 w-full z-0 ${
+          className={`h-[50px] md:h-[60px] flex flex-col items-center justify-center border-y-[3px] border-[var(--ds-black)] transition-all duration-200 text-center px-1 w-full z-0 overflow-hidden ${
             isCorrect ? "bg-[var(--ds-green)] text-[var(--ds-white)]" : `${activeBgClass} ${activeTextClass}`
           }`}
         >
-          <span className="text-xs md:text-base font-black truncate w-full">{activeItem.nl}</span>
+          <AnimatePresence mode="wait" initial={false}>
+            <motion.span
+              key={activeItem.nl}
+              initial={{ y: 12, opacity: 0 }}
+              animate={{ y: 0, opacity: 1 }}
+              exit={{ y: -12, opacity: 0 }}
+              transition={{ duration: 0.12 }}
+              className="text-sm md:text-lg font-black truncate w-full block"
+            >
+              {activeItem.nl}
+            </motion.span>
+          </AnimatePresence>
         </motion.div>
 
         {/* Next Item */}
-        <div className="h-[30px] md:h-[40px] flex items-center justify-center opacity-25 scale-90 transition-all duration-200 overflow-hidden text-center px-1">
-          <span className="text-[10px] md:text-sm font-bold text-[var(--ds-black)] truncate w-full">{nextItem?.nl}</span>
+        <div className="h-[30px] md:h-[40px] flex items-center justify-center opacity-30 scale-95 transition-all duration-200 overflow-hidden text-center px-1">
+          <span className="text-xs md:text-sm font-bold text-[var(--ds-black)] truncate w-full">{nextItem?.nl}</span>
         </div>
 
         {/* Bottom Fade overlay */}
-        <div className="absolute bottom-0 left-0 right-0 h-8 bg-gradient-to-t from-[var(--ds-white)] to-transparent pointer-events-none z-10 opacity-80" />
+        <div className="absolute bottom-0 left-0 right-0 h-10 bg-gradient-to-t from-[var(--ds-white)] to-transparent pointer-events-none z-10 opacity-90" />
       </div>
     </div>
   );
