@@ -1,36 +1,90 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Spraakmaker 🇳🇱
 
-## Getting Started
+<p align="center">
+  <img src="public/spraakmaker-logo.png" alt="Spraakmaker Logo" width="240" />
+</p>
 
-First, run the development server:
+**Spraakmaker** is an interactive, gamified, and modern web application designed for learning the Dutch language. Built with Next.js, Framer Motion, and Tailwind CSS, it offers a rich and responsive learning experience tailored to help users learn grammar, expand vocabulary, and practice building sentences.
 
+
+🌐 **Live URL:** [spraakmaker.fun](https://spraakmaker.fun)
+
+---
+
+## ✨ Features
+
+### 📖 Interactive Lessons (`Lessen`)
+* Structured lessons categorized by modules.
+* **Phase-based Learning:**
+  1. **Lezen (Reading):** Read engaging stories with clickable vocabulary translation popups.
+  2. **Herhaling (Review):** Consolidate newly learned words.
+  3. **Egzersizler (Exercises):** Grammar and structure drills.
+
+### 🗂 Spaced Repetition Vocabulary Builder (`Woordkaarten`)
+* **SM2 Spaced Repetition Algorithm:** Smart scheduling of cards based on review scores.
+* Filter cards by lesson groups: `ALLE` (All), `TC1-2`, `CODE+`, `INZICHT`, and `WW` (Verbs).
+* Interactive flip cards flanking clean navigation arrows and session score badges (`Faut` / `Goed`).
+
+### 🎮 Gamified Learning Modules (`Spellen`)
+* **Zin Bouwen:** Form correct sentences by dragging and dropping words.
+* **Vul In:** Grammar drills with fill-in-the-blanks challenges.
+* **Snelronde (Speed Round):** A fast-paced vocabulary test against the clock.
+* **Zin Motor:** Build sentences step-by-step using grammatical building blocks.
+* **Flitsen:** Rapid pronunciation and listening challenge with built-in timers.
+* **Voegwoorden & Signaalwoorden:** Targeted practice for conjunctions and signposts.
+* **Werkwoorden:** Verb conjugation trainer.
+
+### 🌐 Smart Immersion Mode (B1 & B2 Level)
+* Users selecting intermediate/advanced levels (B1/B2) get **immersion learning** where Turkish translation helpers are hidden behind a `[toon vertaling]` button to encourage thinking in Dutch.
+
+### 🎨 Harmonious UI Themes
+* **Modern UI:** Sleek glassmorphic styles, rounded corners, responsive layout fitting perfectly on mobile viewports, and custom slate navy & turquoise color palettes.
+* **De Stijl (Mondriaan) UI:** A retro, bold primary color layout inspired by Piet Mondrian's minimalist art style.
+
+---
+
+## 🛠 Tech Stack
+
+* **Framework:** Next.js 15 (App Router)
+* **Language:** TypeScript
+* **Styling:** Tailwind CSS, Vanilla CSS custom variables (`globals.css`)
+* **Animations:** Framer Motion
+* **Storage:** LocalStorage (for tracking study progress, stats, and high scores offline)
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+### 1. Clone the repository
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/yakupnuri/spraakmaker.git
+cd spraakmaker
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. Install dependencies
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 3. Run the development server
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Open [http://localhost:3000](http://localhost:3000) in your browser to start studying!
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 📸 Screenshots & Demos
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Modern Dashboard | Spaced Repetition Cards | Drag & Drop Game |
+|:---:|:---:|:---:|
+| ![Dashboard](public/manifest.json) | ![Cards](public/favicon.png) | ![Game](public/spraakmaker-logo.png) |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📝 License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is open-source and available under the [MIT License](LICENSE).
