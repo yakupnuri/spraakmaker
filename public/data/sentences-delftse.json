@@ -1,0 +1,5934 @@
+[
+  {
+    "nl": "NL",
+    "tr": "TR"
+  },
+  {
+    "nl": "Hallo, ik ben Inge.",
+    "tr": "Merhaba, ben Inge."
+  },
+  {
+    "nl": "Mijn naam is Inge van Dijk.",
+    "tr": "Benim adım Inge van Dijk."
+  },
+  {
+    "nl": "Ik ben docent.",
+    "tr": "Ben öğretmenim."
+  },
+  {
+    "nl": "Wie ben jij?",
+    "tr": "Sen kimsin?"
+  },
+  {
+    "nl": "Hoe heet je?",
+    "tr": "Adınız ne?"
+  },
+  {
+    "nl": "Wat is je naam?",
+    "tr": "Adınız ne?"
+  },
+  {
+    "nl": "Ik heet Paula.",
+    "tr": "Benim adım Paula."
+  },
+  {
+    "nl": "Mijn naam is Paula.",
+    "tr": "Benim adım Paula."
+  },
+  {
+    "nl": "Hallo Paula.",
+    "tr": "Merhaba Paula."
+  },
+  {
+    "nl": "Dag mevrouw.",
+    "tr": "Merhaba Bayan."
+  },
+  {
+    "nl": "Uit welk land kom je?",
+    "tr": "Hangi ülkedensin?"
+  },
+  {
+    "nl": "Wat zegt u?",
+    "tr": "Ne dedin?"
+  },
+  {
+    "nl": "Uit welk land kom je?",
+    "tr": "Hangi ülkedensin?"
+  },
+  {
+    "nl": "Waar kom je vandaan?",
+    "tr": "Nerelisin?"
+  },
+  {
+    "nl": "Ik kom uit Frankrijk.",
+    "tr": "Fransızım."
+  },
+  {
+    "nl": "En u meneer?",
+    "tr": "Ve siz efendim?"
+  },
+  {
+    "nl": "Hoe heet u?",
+    "tr": "Adın ne?"
+  },
+  {
+    "nl": "Wat is uw naam?",
+    "tr": "Adın ne?"
+  },
+  {
+    "nl": "Mijn naam is Alex Wang.",
+    "tr": "Benim adım Alex Wang."
+  },
+  {
+    "nl": "Waar komt u vandaan?",
+    "tr": "Nerelisin"
+  },
+  {
+    "nl": "Uit welk land komt u?",
+    "tr": "Hangi ülkedensin?"
+  },
+  {
+    "nl": "Ik kom uit China.",
+    "tr": "Ben çinliyim."
+  },
+  {
+    "nl": "Waar woont u?",
+    "tr": "Nerede yaşıyorsun"
+  },
+  {
+    "nl": "In welke stad?",
+    "tr": "Hangi şehirde?"
+  },
+  {
+    "nl": "Ik woon nu in den Haag.",
+    "tr": "Şimdi Lahey'de yaşıyorum."
+  },
+  {
+    "nl": "In welke straat?",
+    "tr": "Hangi sokakta?"
+  },
+  {
+    "nl": "In de Marktstraat, in het centrum.",
+    "tr": "Marktstraat'ta, merkezde."
+  },
+  {
+    "nl": "Op nummer 35.",
+    "tr": "35 numarada."
+  },
+  {
+    "nl": "Wat is uw telefoonnummer?",
+    "tr": "Telefon numaran nedir?"
+  },
+  {
+    "nl": "Mijn telefoonnummer 06-12345678.",
+    "tr": "Telefon numaram 06-12345678."
+  },
+  {
+    "nl": "Paula , woon jij ook in den Haag?",
+    "tr": "Paula, sen de Lahey'de mi yaşıyorsun?"
+  },
+  {
+    "nl": "Nee, ik woon in Rotterdam, dichtbij het centrum.",
+    "tr": "Hayır, Rotterdam'da yaşıyorum, merkeze yakın."
+  },
+  {
+    "nl": "De docent heet Inge.",
+    "tr": "Öğretmenin adı Inge."
+  },
+  {
+    "nl": "Van dijk is haar achternaam.",
+    "tr": "Van Dijk soyadıdır."
+  },
+  {
+    "nl": "Zij komt uit Nederland.",
+    "tr": "O Hollanda'dan."
+  },
+  {
+    "nl": "Meneer Wang komt niet uit Nederland.",
+    "tr": "Bay Wang, Hollanda'dan değil."
+  },
+  {
+    "nl": "Hij komt uit China.",
+    "tr": "O Çinli."
+  },
+  {
+    "nl": "Hij woont nu in Den Haag.",
+    "tr": "Şimdi Lahey'de yaşıyor."
+  },
+  {
+    "nl": "Paula komt uit Frankrijk.",
+    "tr": "Paula Fransa'dan."
+  },
+  {
+    "nl": "Zij woont nu in Rotterdam.",
+    "tr": "Şimdi Rotterdam'da yaşıyor."
+  },
+  {
+    "nl": "Hallo Amber. Uit welke land kom je?",
+    "tr": "Merhaba Amber. Hangi ülkedensin?"
+  },
+  {
+    "nl": "Ik kom uit Engeland.",
+    "tr": "İngiltere'liyim."
+  },
+  {
+    "nl": "Ik heb de Engelse en de Nederlands nationaliteit.",
+    "tr": "İngiliz ve Hollanda vatandaşlığına sahibim."
+  },
+  {
+    "nl": "Hoe lang woon je in Nederland?",
+    "tr": "Ne kadar süredir Hollanda'da yaşıyorsunuz?"
+  },
+  {
+    "nl": "Ik woon hier nu zes jaar.",
+    "tr": "Altı yıldır burada yaşıyorum."
+  },
+  {
+    "nl": "Wat is je leeftijd?",
+    "tr": "Yaşınız nedir?"
+  },
+  {
+    "nl": "Wanneer ben je geboren?",
+    "tr": "Sen ne zaman doğdun?"
+  },
+  {
+    "nl": "Ik ben geboren op 23 Maart 1987.",
+    "tr": "23 Mart 1987 doğumluyum."
+  },
+  {
+    "nl": "Woon je alleen, bij vrienden of bij familie?",
+    "tr": "Yalnız mı yaşıyorsun, arkadaşlarınla ​​mı yoksa ailenle mi?"
+  },
+  {
+    "nl": "Ik ben getrouwd met een Nederlander.",
+    "tr": "Bir Hollandalı ile evliyim."
+  },
+  {
+    "nl": "Zijn naam is Daan Bakker.",
+    "tr": "Adı Dan Bakker."
+  },
+  {
+    "nl": "We wonen in Delft.",
+    "tr": "Delft'te yaşıyoruz."
+  },
+  {
+    "nl": "Wonen jullie in het centrum?",
+    "tr": "Merkezde mi yaşıyorsun"
+  },
+  {
+    "nl": "Hebben jullie kinderen?",
+    "tr": "Çocuğun var mı?"
+  },
+  {
+    "nl": "Ja, we hebben twee kinderen.",
+    "tr": "Evet, iki çocuğumuz var."
+  },
+  {
+    "nl": "We hebben een jongen van drie jaar en een meisje van vijf maanden.",
+    "tr": "Üç yaşında bir oğlumuz ve beş aylık bir kızımız var."
+  },
+  {
+    "nl": "Ze heten Sam en Iris Bakker.",
+    "tr": "İsimleri Sam ve Iris Bakker."
+  },
+  {
+    "nl": "Amber komt uit Engeland.",
+    "tr": "Amber İngiltere'den."
+  },
+  {
+    "nl": "Ze is getrouwd. Haar man heet Daan Bakker .",
+    "tr": "O evli. Kocasının adı Daan Bakker."
+  },
+  {
+    "nl": "Ze hebben twee kinderen: een zoon en een dochter.",
+    "tr": "İki çocukları var: bir oğlu ve bir kızı."
+  },
+  {
+    "nl": "Amber is hun moeder en Daan hun vader.",
+    "tr": "Amber anneleri ve Daan babalarıdır."
+  },
+  {
+    "nl": "Paula is niet getrouwd.",
+    "tr": "Paula evli değil."
+  },
+  {
+    "nl": "Ze heeft geen kinderen.",
+    "tr": "Çocuğu yok."
+  },
+  {
+    "nl": "Welke dag is het vandaag?",
+    "tr": "Bugün günlerden ne?"
+  },
+  {
+    "nl": "Het is vandaag dinsdag.",
+    "tr": "Bugün Salı."
+  },
+  {
+    "nl": "Gisteren was het maandag.",
+    "tr": "Dün pazartesiydi."
+  },
+  {
+    "nl": "En morgen is het woensdag.",
+    "tr": "Ve yarın Çarşamba."
+  },
+  {
+    "nl": "Na woensdag volgen donderdag en vrijdag.",
+    "tr": "Çarşamba, Perşembe ve Cuma'dan sonra gelir."
+  },
+  {
+    "nl": "De laatste twee dagen van de week zijn zaterdag en zondag.",
+    "tr": "Haftanın son iki günü Cumartesi ve Pazar."
+  },
+  {
+    "nl": "Dan is het weekend.",
+    "tr": "Sonra hafta sonu."
+  },
+  {
+    "nl": "Wanneer werken de meeste mensen?",
+    "tr": "Çoğu insan ne zaman çalışır?"
+  },
+  {
+    "nl": "Van maandag tot en met vrijdag.",
+    "tr": "Pazartesiden Cumaya kadar."
+  },
+  {
+    "nl": "De meeste mensen zijn in het weekend vrij.",
+    "tr": "Çoğu insan hafta sonları ücretsizdir."
+  },
+  {
+    "nl": "We werken dan meestal niet.",
+    "tr": "Genelde çalışmıyoruz."
+  },
+  {
+    "nl": "We gaan dan naar familie.",
+    "tr": "Sonra aileye gidiyoruz."
+  },
+  {
+    "nl": "Of we gaan naar buiten met de kinderen, of met vrienden.",
+    "tr": "Ya da çocuklarla ya da arkadaşlarla dışarı çıkarız."
+  },
+  {
+    "nl": "We hebben ook tijd om boodschappen te doen.",
+    "tr": "Ayrıca biraz alışveriş yapmak için zamanımız var."
+  },
+  {
+    "nl": "Of andere leuke dingen, bijvoorbeeld Nederlands leren...",
+    "tr": "Veya başka eğlenceli şeyler, örneğin Hollandaca öğrenmek..."
+  },
+  {
+    "nl": "Op welke dagen zijn de winkels open?",
+    "tr": "Dükkanlar hangi günler açık?"
+  },
+  {
+    "nl": "De meeste winkels zijn op maandag tot en met zaterdag open en veel winkels ook op zondag.",
+    "tr": "Çoğu mağaza pazartesiden cumartesiye açıktır ve birçok mağaza pazar günleri de açıktır."
+  },
+  {
+    "nl": "Op maandagmorgen zijn veel winkels dicht.",
+    "tr": "Pazartesi sabahları birçok dükkan kapalıdır."
+  },
+  {
+    "nl": "Mensen die in een winkel werken zijn dus meestal niet in het weekend vrij.",
+    "tr": "Bu nedenle bir dükkanda çalışan insanlar genellikle hafta sonları ücretsiz değildir."
+  },
+  {
+    "nl": "Ze hebben op een andere dag vrij, bijvoorbeeld op maandag.",
+    "tr": "Örneğin Pazartesi günü başka bir izinleri var."
+  },
+  {
+    "nl": "Zijn scholen in het weekend dicht?",
+    "tr": "Okullar hafta sonları kapalı mı?"
+  },
+  {
+    "nl": "Ja, alle scholen zijn dicht in het weekend.",
+    "tr": "Evet, tüm okullar hafta sonları kapalıdır."
+  },
+  {
+    "nl": "In het weekend hebben kinderen geen les.",
+    "tr": "Çocukların hafta sonları dersi yoktur."
+  },
+  {
+    "nl": "Kinderen tot twaalf jaar hebben meestal ook vrij op woensdagmiddag.",
+    "tr": "On iki yaşına kadar olan çocuklar da genellikle Çarşamba öğleden sonra izinlidir."
+  },
+  {
+    "nl": "En ze hebben zes weken vrij in de zomer!",
+    "tr": "Ve yazın altı hafta izinleri var!"
+  },
+  {
+    "nl": "Hoe is dat in jullie land?",
+    "tr": "Senin ülkende bu nasıl?"
+  },
+  {
+    "nl": "Welke talen spreek jij Paula?",
+    "tr": "Paula'yı hangi dilleri konuşuyorsun?"
+  },
+  {
+    "nl": "Engels, Frans en een beetje Nederlands.",
+    "tr": "İngilizce, Fransızca ve biraz Hollandaca."
+  },
+  {
+    "nl": "Ik spreek Nederlands in de les en in de winkel.",
+    "tr": "Sınıfta ve dükkanda Hollandaca konuşuyorum."
+  },
+  {
+    "nl": "Maar op mijn werk spreken we Engels.",
+    "tr": "Ama iş yerinde İngilizce konuşuyoruz."
+  },
+  {
+    "nl": "Maar waarom leer je dan Nederlands?",
+    "tr": "Ama neden Hollandaca öğreniyorsun?"
+  },
+  {
+    "nl": "Waarom doe je deze cursus?",
+    "tr": "Neden bu kursu yapıyorsun?"
+  },
+  {
+    "nl": "Nederlands belangrijk.",
+    "tr": "Hollandaca önemli."
+  },
+  {
+    "nl": "Ik wil hier studeren en werken.",
+    "tr": "Burada okuyup çalışmak istiyorum."
+  },
+  {
+    "nl": "Is Nederlands een moeilijke taal?",
+    "tr": "Hollandaca zor bir dil mi?"
+  },
+  {
+    "nl": "Nee, Nederlands is niet moeilijk.",
+    "tr": "Hayır, Hollandaca zor değil."
+  },
+  {
+    "nl": "Het is een makkelijke taal.",
+    "tr": "Kolay bir dildir."
+  },
+  {
+    "nl": "En de docent spreekt langzaam en duidelijk.",
+    "tr": "Ve öğretmen yavaş ve net konuşuyor."
+  },
+  {
+    "nl": "Alle talen zijn makkelijk.",
+    "tr": "Tüm diller kolaydır."
+  },
+  {
+    "nl": "Mijn dochter is zes jaar en spreekt al goed Nederlands.",
+    "tr": "Kızım altı yaşında ve şimdiden iyi derecede Felemenkçe konuşuyor."
+  },
+  {
+    "nl": "En hoe leer jij Nederlands?",
+    "tr": "Ve Hollandacayi nasıl öğreniyorsun?"
+  },
+  {
+    "nl": "Ik luister goed naar de teksten van het Groene Boek.",
+    "tr": "Yeşil Kitap'ın metinlerini dikkatle dinliyorum."
+  },
+  {
+    "nl": "Wanneer heb je les?",
+    "tr": "Ne zaman dersin var."
+  },
+  {
+    "nl": "Hoeveel keer per week?",
+    "tr": "Haftada kaç kere?"
+  },
+  {
+    "nl": "Ik heb vier keer per week les: elke dag behalve vrijdag.",
+    "tr": "Haftada dört kez dersim var: Cuma hariç her gün."
+  },
+  {
+    "nl": "Dat is veel!Wat is je rooster?",
+    "tr": "Bu çok fazla! Programın nedir?"
+  },
+  {
+    "nl": "Ik zit in groep A.",
+    "tr": "Ben A grubundayım."
+  },
+  {
+    "nl": "Groep A begint `s ochtends om negen uur, en `s middags om een uur.",
+    "tr": "A Grubu sabah saat dokuzda ve öğleden sonra saat birde başlar."
+  },
+  {
+    "nl": "Elke les duurt een uur.",
+    "tr": "Her ders bir saat sürer."
+  },
+  {
+    "nl": "`s Ochtends hebben we les van negen tot tien uur, en `s middags van een tot twee uur.",
+    "tr": "Sabah 9'dan 22'ye kadar ve öğleden sonra 1'den 14'e kadar derslerimiz var."
+  },
+  {
+    "nl": "Wij hebben les in B25.",
+    "tr": "B25'te derslerimiz var."
+  },
+  {
+    "nl": "En wat doen jullie na de lessen en `s avonds?",
+    "tr": "Ve derslerden sonra ve akşamları ne yaparsınız?"
+  },
+  {
+    "nl": "Leren, Leren, Leren!",
+    "tr": "Öğren, Öğren, Öğren!"
+  },
+  {
+    "nl": "We leren dan de teksten voor de volgende dag.",
+    "tr": "Daha sonra ertesi gün için metinleri öğreniriz."
+  },
+  {
+    "nl": "We hebben twee teksten per dag, soms drie.",
+    "tr": "Günde iki, bazen üç metinimiz var."
+  },
+  {
+    "nl": "En in het weekend?",
+    "tr": "Ve hafta sonu?"
+  },
+  {
+    "nl": "In het weekend hebben we geen les.",
+    "tr": "Hafta sonları dersimiz yoktur."
+  },
+  {
+    "nl": "We leren dan voor maandag.",
+    "tr": "Pazartesi icin ders calisiyoruz."
+  },
+  {
+    "nl": "Iedereen heeft dan vrij, behalve wij!",
+    "tr": "O zaman biz hariç herkes bos!"
+  },
+  {
+    "nl": "Nick, hoe laat ben je meestal wakker?",
+    "tr": "Nick, genellikle saat kaçta uyanırsın?"
+  },
+  {
+    "nl": "Ik ben altijd om zes uur wakker.",
+    "tr": "Ben her zaman saat altıda ayaktayım."
+  },
+  {
+    "nl": "Dan eet ik brood en drink ik thee.",
+    "tr": "Sonra ekmek yiyip çay içerim."
+  },
+  {
+    "nl": "Waarom ben je zo vroeg wakker?",
+    "tr": "Neden bu kadar erken uyandın?"
+  },
+  {
+    "nl": "Moet je zo vroeg van huis?",
+    "tr": "Bu kadar erken ayrılmak zorunda mısın?"
+  },
+  {
+    "nl": "Ik moet om half negen op mijn werk zijn.",
+    "tr": "Sekiz buçukta işte olmam gerekiyor."
+  },
+  {
+    "nl": "Het is een lange reis.",
+    "tr": "Bu uzun bir yolculuk."
+  },
+  {
+    "nl": "Daarom ga ik niet met de fiets.",
+    "tr": "Bu yüzden bisikletle gitmiyorum."
+  },
+  {
+    "nl": "Hoe reis je?",
+    "tr": "Nasıl seyahat edersin?"
+  },
+  {
+    "nl": "Ik ga met de bus van kwart voor zeven naar het station.",
+    "tr": "Saat yediye çeyrek kala otobüsle istasyona gidiyorum."
+  },
+  {
+    "nl": "De bus komt om half acht aan bij het station.",
+    "tr": "Otobüs yedi buçukta istasyona varıyor."
+  },
+  {
+    "nl": "Dat is de officiële tijd.",
+    "tr": "Resmi süre bu."
+  },
+  {
+    "nl": "Maar de bus is niet altijd op tijd.",
+    "tr": "Ama otobüs her zaman zamanında gelmiyor."
+  },
+  {
+    "nl": "Gisteren was hij te laat.",
+    "tr": "Dün geç kaldı."
+  },
+  {
+    "nl": "Toen heb ik de trein gemist.",
+    "tr": "Sonra treni kaçırdım."
+  },
+  {
+    "nl": "Maar meestal mis ik hem niet, want hij vertrekt om kwart voor acht.",
+    "tr": "Ama genellikle onu kacirmiyorum çünkü sekize çeyrek kala ayrılıyor."
+  },
+  {
+    "nl": "Ik heb dus een kwartier op het station: vijftien minuten.",
+    "tr": "Yani istasyonda on beş dakikam var: on beş dakika."
+  },
+  {
+    "nl": "Soms vertrekt de trein ook te laat.",
+    "tr": "Bazen tren çok geç kalkar."
+  },
+  {
+    "nl": "Maar meestal komt hij op tijd.",
+    "tr": "Ama genellikle zamanında gelir."
+  },
+  {
+    "nl": "Wat doe je in die tijd op het station?",
+    "tr": "Bu süre zarfında istasyonda ne yapıyorsun?"
+  },
+  {
+    "nl": "Ik lees bijvoorbeeld de krant of leer voor mijn lessen Nederlands.",
+    "tr": "Örneğin, derslerim için gazete okuyorum veya Hollandaca öğreniyorum."
+  },
+  {
+    "nl": "Hoe laat kom je op je werk aan?",
+    "tr": "İşe saat kaçta varırsın?"
+  },
+  {
+    "nl": "Ik ben om vijf voor half negen op mijn werk.",
+    "tr": "Saat 9 u 25 gece işteyim."
+  },
+  {
+    "nl": "Ik eet meestal om een uur, en ik drink thee om vier uur.",
+    "tr": "Genelde saat birde yerim ve saat dörtte çay içerim."
+  },
+  {
+    "nl": "Tot hoe laat werk je?",
+    "tr": "Saat kaça kadar çalışıyorsun?"
+  },
+  {
+    "nl": "Hoe laat ga je weer naar huis?",
+    "tr": "Eve saat kaçta döneceksin?"
+  },
+  {
+    "nl": "Dat verschilt van dag tot dag.",
+    "tr": "Bu günden güne farklılık gösteriyor."
+  },
+  {
+    "nl": "Meestal werk ik tot half zes.",
+    "tr": "Genelde beş buçuğa kadar çalışırım."
+  },
+  {
+    "nl": "Maar gisteren werkte ik bijvoorbeeld tot kwart over vier.",
+    "tr": "Ama örneğin dün dördü çeyrek geçeye kadar çalıştım."
+  },
+  {
+    "nl": "Meestal kom ik om half acht`s avonds thuis.",
+    "tr": "Genelde akşam yedi buçukta eve gelirim."
+  },
+  {
+    "nl": "We eten om acht uur.",
+    "tr": "Sekizde yemek yiyoruz."
+  },
+  {
+    "nl": "Soms kijk ik een half uur televisie.",
+    "tr": "Bazen yarım saat televizyon izlerim."
+  },
+  {
+    "nl": "Daarna doe ik mijn huiswerk voor mijn Nederlandse les.",
+    "tr": "Sonra Hollandaca dersim için ödevimi yaparım."
+  },
+  {
+    "nl": "Maar om half tien stop ik.",
+    "tr": "Ama dokuz buçukta duruyorum."
+  },
+  {
+    "nl": "De dag is dan al bijna afgelopen.",
+    "tr": "O zamana kadar gün neredeyse biter."
+  },
+  {
+    "nl": "Dus ik heb het druk. Jij ook?",
+    "tr": "Yani meşgulüm. Sen de mi?"
+  },
+  {
+    "nl": "Hallo Amber .Waar doe jij je boodschappen?",
+    "tr": "Merhaba Amber Alışverişinizi nereden yapıyorsunuz?"
+  },
+  {
+    "nl": "Meestal doe ik in het weekend boodschappen in een supermarkt.",
+    "tr": "Alışverişimi genellikle hafta sonları bir süpermarkette yaparım."
+  },
+  {
+    "nl": "Ik koop alles voor de hele week.",
+    "tr": "Bütün hafta boyunca her şeyi satın alıyorum."
+  },
+  {
+    "nl": "Voor een week heb ik veel nodig dus ik maak een lijstje.",
+    "tr": "Bir haftada çok seye ihtiyacım oluyors , bu yüzden bir liste yapıyorum."
+  },
+  {
+    "nl": "Daar staat alles op: melk, brood, aardappelen, fruit,...",
+    "tr": "Orada her şey var: süt, ekmek, patates, meyve,..."
+  },
+  {
+    "nl": "Soms weet ik niet waar iets staat in de supermarkt.",
+    "tr": "Bazen süpermarkette bir şeyin nerede olduğunu bilmiyorum."
+  },
+  {
+    "nl": "Waar staat de melk?",
+    "tr": "Süt nerede?"
+  },
+  {
+    "nl": "O, daar zie ik iemand die kan helpen.",
+    "tr": "Oh, orada yardım edebilecek birini görüyorum."
+  },
+  {
+    "nl": "Meneer mag ik u wat vragen?",
+    "tr": "Beyfendi bişey sorabilirmiyim"
+  },
+  {
+    "nl": "Ik zie de melk nergens.",
+    "tr": "Sütü hiçbir yerde göremiyorum."
+  },
+  {
+    "nl": "Waar vind ik die?",
+    "tr": "Nereden bulabilirim?"
+  },
+  {
+    "nl": "Daar bij het brood links en dan rechts.",
+    "tr": "Orada ekmekte solda ve sonra sağda."
+  },
+  {
+    "nl": "Ik loop wel even met u mee.",
+    "tr": "Sizinle yürüyebilirim."
+  },
+  {
+    "nl": "Ik geloof dat ik alles heb.",
+    "tr": "Her şeye sahip olduğum inancındayım."
+  },
+  {
+    "nl": "O nee, ik heb geen koffie meer.",
+    "tr": "Oh hayır, kahvem bitti."
+  },
+  {
+    "nl": "O kijk: Twee halen, een betalen.",
+    "tr": "Oh bak: İki tane al, bir öde."
+  },
+  {
+    "nl": "Dat doe ik.",
+    "tr": "Yapacağım."
+  },
+  {
+    "nl": "Dan heb ik een pak koffie gratis.",
+    "tr": "O zaman bedava bir paket kahve içeceğim."
+  },
+  {
+    "nl": "Als ik alles heb ga ik naar de kassa om te betalen.",
+    "tr": "Her şeyim olduğunda, ödeme yapmak için kasaya gidiyorum."
+  },
+  {
+    "nl": "De mevrouw aan de kassa zegt:Goedemiddag en Tot ziens , fijn weekend!",
+    "tr": "Kasadaki bayan diyor ki: İyi günler ve hoşçakalın, iyi hafta sonları!"
+  },
+  {
+    "nl": "Dat is het hele gesprek.",
+    "tr": "Bütün konuşma bu."
+  },
+  {
+    "nl": "Soms ga ik op zaterdag naar de markt om groente en fruit te kopen.",
+    "tr": "Bazen cumartesi günleri sebze ve meyve almak için pazara giderim."
+  },
+  {
+    "nl": "Wat is het verschil tussen de markt en de supermarkt?",
+    "tr": "Market ve süpermarket arasındaki fark nedir?"
+  },
+  {
+    "nl": "Op de markt zijn de meeste producten goedkoop.",
+    "tr": "Pazardaki çoğu ürün ucuz."
+  },
+  {
+    "nl": "Goedkoper dan in de supermarkt.",
+    "tr": "Süpermarkette olduğundan daha ucuz."
+  },
+  {
+    "nl": "Dat is een belangrijk verschil.",
+    "tr": "Bu önemli bir fark."
+  },
+  {
+    "nl": "Hoe werkt de Delftse methode?",
+    "tr": "Delft yöntemi nasıl çalışır?"
+  },
+  {
+    "nl": "Leer je de teksten uit je hoofd?",
+    "tr": "Metinleri ezberliyor musun?"
+  },
+  {
+    "nl": "Nee, je moet de tekst verstaan en begrijpen zonder hulp. Dat kost tijd.",
+    "tr": "Hayır, metni yardım almadan duymaniz ve anlamanız gerekir. Bu zaman alır."
+  },
+  {
+    "nl": "Daarom leer je de tekst in stappen.",
+    "tr": "Bu yüzden metni adım adım öğrenirsiniz."
+  },
+  {
+    "nl": "Dat kost meestal twee of drie uur per tekst.",
+    "tr": "Bu genellikle metin başına iki veya üç saat sürer."
+  },
+  {
+    "nl": "Hier zijn de vijf stappen in de online cursus.",
+    "tr": "İşte çevrimiçi kurstaki beş adım."
+  },
+  {
+    "nl": "Ga in het menu naar Les.",
+    "tr": "Menüde Ders'e gidin."
+  },
+  {
+    "nl": "Je begint met stap een.",
+    "tr": "Birinci adımla başlarsınız."
+  },
+  {
+    "nl": "Je kijkt en luistert goed naar elke zin.",
+    "tr": "Her cümleyi dikkatle izliyor ve dinliyorsunuz."
+  },
+  {
+    "nl": "Aan het eind van de zin is een pauze.",
+    "tr": "Cümlenin sonunda bir duraklama var."
+  },
+  {
+    "nl": "De woorden zoek je op.",
+    "tr": "Kelimelere bakarsın."
+  },
+  {
+    "nl": "Je weet dan wat ze betekenen, en je begrijpt de zin.",
+    "tr": "O zaman ne anlama geldiklerini anlarsın ve cümleyi anlarsın."
+  },
+  {
+    "nl": "Spreken ze te snel?",
+    "tr": "Çok mu hızlı konuşuyorlar?"
+  },
+  {
+    "nl": "Versta je niet alles?",
+    "tr": "Her şeyi anlamıyor musun?"
+  },
+  {
+    "nl": "Luister een paar keer naar elke zin.",
+    "tr": "Her cümleyi birkaç kez dinleyin."
+  },
+  {
+    "nl": "Je zegt ook elke zin na, en je luistert naar je uitspraak.",
+    "tr": "Ayrıca her cümleyi tekrar ediyorsun ve telaffuzunu dinliyorsun."
+  },
+  {
+    "nl": "Zo leer je de uitspraak.",
+    "tr": "Böylece telaffuzu öğrenmiş olursunuz."
+  },
+  {
+    "nl": "Dus ik doe drie dingen : luisteren lezen en nazeggen?",
+    "tr": "Yani üç şey yapıyorum: dinle, oku ve tekrarla?"
+  },
+  {
+    "nl": "Ja, en dat doe je zo een paar keer.",
+    "tr": "Evet ve bunu birkaç kez yapıyorsun."
+  },
+  {
+    "nl": "Bij stap twee doe je dat ook.",
+    "tr": "Bunu ikinci adımda yaparsın."
+  },
+  {
+    "nl": "Maar nu heb je geen pauze na de zin.",
+    "tr": "Ama şimdi cümleden sonra bir duraklama yok."
+  },
+  {
+    "nl": "En bij stap drie en vier heb je ook geen hulp meer van de tekst.",
+    "tr": "Ve üçüncü ve dördüncü adımlarda, artık metinden herhangi bir yardımınız yok."
+  },
+  {
+    "nl": "Je kunt de woorden niet meer opzoeken.",
+    "tr": "Artık kelimelere bakamazsınız."
+  },
+  {
+    "nl": "Ik begrijp niet het.",
+    "tr": "Anlamıyorum."
+  },
+  {
+    "nl": "Ik leer de tekst eerst met hulp, daarna zonder hulp.",
+    "tr": "Metni önce yardımla, sonra yardım almadan öğrenirim."
+  },
+  {
+    "nl": "Zo leer ik de woorden, zo leer ik luisteren.",
+    "tr": "Kelimeleri böyle öğreniyorum, dinlemeyi böyle öğreniyorum."
+  },
+  {
+    "nl": "En zo oefen ik de uitspraak.",
+    "tr": "Ve telaffuz pratiği yapıyorum."
+  },
+  {
+    "nl": "Bij stap vijf krijg je antwoord op de vraag: ken ik de tekst goed?",
+    "tr": "Beşinci adımda şu soruya bir cevap alacaksınız: Metni iyi biliyor muyum?"
+  },
+  {
+    "nl": "In het menu toets vind je een luistertoets.",
+    "tr": "Menü düğmesinde bir dinleme düğmesi bulacaksınız."
+  },
+  {
+    "nl": "Je resultaat moet %80 of meer zijn.",
+    "tr": "Sonucunuz %80 ve üzeri olmalıdır."
+  },
+  {
+    "nl": "In het boek staat ook een tekst met gaten voor de controle.",
+    "tr": "Kitap ayrıca kontrol için bosluklari olan bir metin içerir."
+  },
+  {
+    "nl": "Die lees je hardop.",
+    "tr": "Yüksek sesle okudun."
+  },
+  {
+    "nl": "Schrijf niet in je boek.",
+    "tr": "Kitabınıza yazmayın."
+  },
+  {
+    "nl": "Je moet de teksten later herhalen.",
+    "tr": "Şarkı sözlerini daha sonra tekrarlamanız gerekir."
+  },
+  {
+    "nl": "Wat doe ik met de oefening?",
+    "tr": "Egzersizi ne yapacağım?"
+  },
+  {
+    "nl": "Die doe je alleen als je de tekst goed kent.",
+    "tr": "Bunu yalnızca metni iyi biliyorsanız yaparsınız."
+  },
+  {
+    "nl": "En in het boek heb je ook nog vragen.",
+    "tr": "Ve kitapta sizin de sorularınız var."
+  },
+  {
+    "nl": "Die zijn om te leren praten.",
+    "tr": "Onlar konuşmayı öğrenmek içindir."
+  },
+  {
+    "nl": "En wat doen we in de les?",
+    "tr": "Ve sınıfta ne yapıyoruz?"
+  },
+  {
+    "nl": "Praten, veel praten.",
+    "tr": "Konuş, çok konuş."
+  },
+  {
+    "nl": "Zo werkt de Delftse Methode.",
+    "tr": "Delft Metodu bu şekilde çalışır."
+  },
+  {
+    "nl": "Is een maaltijd in China anders dan in Nederland? Zeker.",
+    "tr": "Çin'deki bir yemek Hollanda'dakinden farklı mıdır?"
+  },
+  {
+    "nl": "Maar wat is een Nederlandse maaltijd?",
+    "tr": "Ama Hollanda yemeği nedir?"
+  },
+  {
+    "nl": "Vroeger was het antwoord op deze vraag makkelijk omdat iedereen ongeveer hetzelfde at.",
+    "tr": "Geçmişte bu sorunun cevabı kolaydı çünkü herkes aşağı yukarı aynı yiyordu."
+  },
+  {
+    "nl": "Nu niet meer. We eten nu producten uit bijna de hele wereld.",
+    "tr": "Artık değil. Artık neredeyse dünyanın her yerinden ürünler yiyoruz."
+  },
+  {
+    "nl": "Maar het aantal maaltijden is hetzelfde.",
+    "tr": "Ama öğün sayısı aynı."
+  },
+  {
+    "nl": "We eten drie keer per dag.",
+    "tr": "Günde üç öğün yemek yiyoruz."
+  },
+  {
+    "nl": "De eerste maaltijd is het ontbijt.",
+    "tr": "İlk öğün kahvaltıdır."
+  },
+  {
+    "nl": "Veel Nederlanders eten brood met kaas.",
+    "tr": "Pek çok Hollandalı ekmekle peynir yer."
+  },
+  {
+    "nl": "Ze drinken koffie, thee of melk.",
+    "tr": "Kahve, çay veya süt içerler."
+  },
+  {
+    "nl": "Mijn vriend neemt alleen een kop zwarte koffie.",
+    "tr": "Arkadaşım sadece bir fincan sade kahve alır."
+  },
+  {
+    "nl": "Is dat gezond?",
+    "tr": "Bu sağlıklı mı?"
+  },
+  {
+    "nl": "Krijgt hij zo genoeg energie?",
+    "tr": "Bu şekilde yeterli enerjiyi alıyor mu?"
+  },
+  {
+    "nl": "Ik denk het niet.",
+    "tr": "Ben öyle düşünmüyorum."
+  },
+  {
+    "nl": "De tweede maaltijd is `s middags, om ongeveer een uur.",
+    "tr": "İkinci öğün öğlen, saat bir civarında."
+  },
+  {
+    "nl": "Ook dan eten de meeste Nederlanders weer brood met kaas of vlees.",
+    "tr": "O zaman bile, çoğu Hollandalı yine peynirli veya etli ekmek yer."
+  },
+  {
+    "nl": "Vaak drinken ze daarbij melk.",
+    "tr": "Genellikle süt içerler."
+  },
+  {
+    "nl": "Soms eten ze ook iets warms, bijvoorbeeld soep.",
+    "tr": "Bazen çorba gibi sıcak şeyler de yerler."
+  },
+  {
+    "nl": "Ook zijn er mensen die eten kopen.",
+    "tr": "Yiyecek satın alanlar da var."
+  },
+  {
+    "nl": "Dat is makkelijk. Als je werkt, heb je vaak weinig tijd om te eten.",
+    "tr": "Bu kolay. Çalışırken, genellikle yemek için çok az zamanınız olur."
+  },
+  {
+    "nl": "De derde en belangrijkste maaltijd voor ons is het avondeten, om ongeveer zes uur.",
+    "tr": "Bizim için üçüncü ve en önemli öğün akşam yemeği, yaklaşık altıda."
+  },
+  {
+    "nl": "Dat is meestal warme maaltijd.",
+    "tr": "Bu genellikle sıcak bir yemektir."
+  },
+  {
+    "nl": "Vroeger aten we vooral groente en aardappelen met vlees, vis of kip.",
+    "tr": "Geçmişte ağırlıklı olarak sebze ve patatesi etli, balıklı veya tavuklu yerdik."
+  },
+  {
+    "nl": "Maar nu eten we ook pasta, rijst, en veel andere producten.",
+    "tr": "Ama şimdi makarna, pirinç ve diğer birçok ürünü de yiyoruz."
+  },
+  {
+    "nl": "Meestal drinken we daar water bij.",
+    "tr": "Genelde onunla su içeriz."
+  },
+  {
+    "nl": "Dus jullie hebben maar een warme maaltijd?",
+    "tr": "Yani sadece bir sıcak yemeğin mi var?"
+  },
+  {
+    "nl": "Dat verbaast me.",
+    "tr": "Bu beni şaşırtıyor."
+  },
+  {
+    "nl": "En zo vroeg!",
+    "tr": "Ve çok erken!"
+  },
+  {
+    "nl": "Bij ons eten we veel later.",
+    "tr": "Çok sonra yerimizde yemek yeriz."
+  },
+  {
+    "nl": "Ja misschien is dat typisch Nederlands.",
+    "tr": "Evet, belki bu tipik Hollandalı."
+  },
+  {
+    "nl": "Maar vertel eens, wat eten jullie?",
+    "tr": "Ama söyle bana, ne yiyorsun?"
+  },
+  {
+    "nl": "En wat vind jij lekker?",
+    "tr": "Ve nelerden hoşlanırsın?"
+  },
+  {
+    "nl": "Katja, vertel eens, hoe ben jij naar de les gekomen?",
+    "tr": "Katja, söyle bana, sınıfa nasıl geldin?"
+  },
+  {
+    "nl": "Met de bus.",
+    "tr": "Otobüsle."
+  },
+  {
+    "nl": "Ik ben bij het station uitgestapt.",
+    "tr": "İstasyonda indim."
+  },
+  {
+    "nl": "Van het station ben ik lopend naar school gegaan.",
+    "tr": "İstasyondan okula yürüdüm."
+  },
+  {
+    "nl": "Hoe lang duurde je reis?",
+    "tr": "Yolculuğunuz ne kadar sürdü?"
+  },
+  {
+    "nl": "Hoe lang heb je erover gedaan?",
+    "tr": "Ne kadar sürdü?"
+  },
+  {
+    "nl": "Ik heb er een half uur over gedaan.",
+    "tr": "Yarım saatimi aldı."
+  },
+  {
+    "nl": "Soms kom ik met de fiets.",
+    "tr": "Bazen bisikletle gelirim."
+  },
+  {
+    "nl": "Dat is sneller dan met de bus!",
+    "tr": "Bu otobüsten daha hızlı!"
+  },
+  {
+    "nl": "Bovendien is het meestal druk in de bus.",
+    "tr": "Ayrıca otobüslerde genellikle kalabalık oluyor."
+  },
+  {
+    "nl": "Dan kan ik niet zitten.",
+    "tr": "O zaman oturamam."
+  },
+  {
+    "nl": "De bus heeft ook vaak vertraging.",
+    "tr": "Otobüs de sık sık rötar yapıyor."
+  },
+  {
+    "nl": "Hij is dan te laat.",
+    "tr": "O zaman çok geç kalmıştır."
+  },
+  {
+    "nl": "En ik kom dan ook niet op tijd!",
+    "tr": "Ve zamanında olmayacağım!"
+  },
+  {
+    "nl": "Dat vind ik vervelend.",
+    "tr": "Bunu rahatsız edici buluyorum."
+  },
+  {
+    "nl": "Waarom kom je niet elke dag met de fiets?",
+    "tr": "Neden her gün bisikletle gelmiyorsun?"
+  },
+  {
+    "nl": "Nou, omdat het hier altijd regent.",
+    "tr": "Eh, çünkü burada her zaman yağmur yağar."
+  },
+  {
+    "nl": "En als je in de regen fietst, word je nat.",
+    "tr": "Ve yağmurda bisiklet sürersen ıslanırsın."
+  },
+  {
+    "nl": "Dat is nadeel.",
+    "tr": "Bu dezavantaj."
+  },
+  {
+    "nl": "Daan neem ik liever de bus.",
+    "tr": "Otobüse binmeyi tercih ederim."
+  },
+  {
+    "nl": "En wie komt er met de auto?",
+    "tr": "Ve kim arabayla geliyor?"
+  },
+  {
+    "nl": "Heeft er iemand een auto?",
+    "tr": "Arabası olan var mı?"
+  },
+  {
+    "nl": "Jij Lisa?Ja ik meneer.",
+    "tr": "Sen Lisa?Evet efendim."
+  },
+  {
+    "nl": "Ik heb een auto.",
+    "tr": "Bir arabam var."
+  },
+  {
+    "nl": "Kijk, daar staat hij: die kleine witte daar.",
+    "tr": "Bak, orada duruyor: şuradaki küçük beyaz olan."
+  },
+  {
+    "nl": "Ik kan niet zonder.",
+    "tr": "Onsuz yaşayamam."
+  },
+  {
+    "nl": "Er komt geen bus bij mij in de buurt.",
+    "tr": "Yakınımda otobüs yok."
+  },
+  {
+    "nl": "Met de auto kan ik overal naartoe.",
+    "tr": "Her yere arabayla gidebilirim."
+  },
+  {
+    "nl": "En het sneller.",
+    "tr": "Ve daha hızlı."
+  },
+  {
+    "nl": "Ik hoef nooit te wachten.",
+    "tr": "Asla beklemek zorunda değilim."
+  },
+  {
+    "nl": "Behalve als je in de file staat.",
+    "tr": "Trafik sıkışıklığında değilseniz."
+  },
+  {
+    "nl": "`s Ochtends is er altijd file.",
+    "tr": "Sabahları her zaman bir trafik sıkışıklığı vardır."
+  },
+  {
+    "nl": "Ja, dat is waar.",
+    "tr": "Evet bu doğru."
+  },
+  {
+    "nl": "Maar in de auto heb je meer ruimte.",
+    "tr": "Ama arabada daha fazla yeriniz var."
+  },
+  {
+    "nl": "Er zitten geen andere mensen in.",
+    "tr": "İçinde başka insan yok."
+  },
+  {
+    "nl": "Je bent alleen.",
+    "tr": "Yalnızsın."
+  },
+  {
+    "nl": "Je kunt naar de radio luisteren.",
+    "tr": "Radyo dinleyebilirsiniz."
+  },
+  {
+    "nl": "Ja, dat is wel een voordeel, maar de bus is misschien goedkoper!",
+    "tr": "Evet, bu bir avantaj ama otobüs daha ucuz olabilir!"
+  },
+  {
+    "nl": "De les is al een kwartier bezig.",
+    "tr": "Ders zaten on beş dakikadır devam ediyor."
+  },
+  {
+    "nl": "Fred komt binnen.",
+    "tr": "Fred girer."
+  },
+  {
+    "nl": "Goedemorgen, meneer!",
+    "tr": "Günaydın efendim!"
+  },
+  {
+    "nl": "Waarom ben je zo laat?",
+    "tr": "Neden bu kadar geç kaldın"
+  },
+  {
+    "nl": "Je woont niet ver weg.",
+    "tr": "Uzakta yaşamıyorsun."
+  },
+  {
+    "nl": "Het is maar vijf minuten met de fiets.",
+    "tr": "Bisikletle sadece beş dakikadır."
+  },
+  {
+    "nl": "Dat is dus dichtbij.",
+    "tr": "Yani bu yakın."
+  },
+  {
+    "nl": "Ja met de fiets ben ik hier binnen vijf minuten.",
+    "tr": "Evet, bisikletle beş dakikaya burada olurum."
+  },
+  {
+    "nl": "Maar vanochtend was mijn fiets kapot.",
+    "tr": "Ama bu sabah bisikletim bozuldu."
+  },
+  {
+    "nl": "Daarom moest ik lopen.",
+    "tr": "Bu yüzden yürümek zorunda kaldım."
+  },
+  {
+    "nl": "Dan doe ik er langer over.",
+    "tr": "O zaman daha fazla zaman alacak."
+  },
+  {
+    "nl": "Maar gisteren was je ook te laat.",
+    "tr": "Ama dün çok geç kaldın."
+  },
+  {
+    "nl": "Was je fiets gisteren ook kapot?",
+    "tr": "Dün bisikletin mi bozuldu?"
+  },
+  {
+    "nl": "Nee gisteren was de brug open.",
+    "tr": "Hayır, köprü dün açıktı."
+  },
+  {
+    "nl": "Dat kost ook veel tijd.",
+    "tr": "Bu da çok zaman alır."
+  },
+  {
+    "nl": "Daarom was ik te laat.",
+    "tr": "Bu yüzden geç kaldım."
+  },
+  {
+    "nl": "Sommige mensen hebben nooit geluk!",
+    "tr": "Bazı insanlar asla şanslı değildir!"
+  },
+  {
+    "nl": "Welke da is het vandaag?",
+    "tr": "Bugün hangi gün?"
+  },
+  {
+    "nl": "Hoe laat gaan de winkels dicht?",
+    "tr": "Dükkanlar ne zaman kapanır?"
+  },
+  {
+    "nl": "Hoe lang duurt de cursus?",
+    "tr": "Kurs ne kadar sürecek?"
+  },
+  {
+    "nl": "Wanneer ga je met vakantie?",
+    "tr": "Ne zaman tatile gidiyorsun?"
+  },
+  {
+    "nl": "Hoeveel keer per week heeft u les?",
+    "tr": "Haftada kaç kez dersiniz var?"
+  },
+  {
+    "nl": "Die vragen zijn belangrijk!",
+    "tr": "O sorular önemli!"
+  },
+  {
+    "nl": "We willen weten wanneer iet gebeurt, of hoe lang iets duurt.",
+    "tr": "Bir şeyin ne zaman olduğunu veya ne kadar sürdüğünü bilmek isteriz."
+  },
+  {
+    "nl": "Daarom verdelen we de tijd in jaren, maanden, weken, dagen, uren, minuten en seconden.",
+    "tr": "Bu yüzden zamanı yıllara, aylara, haftalara, günlere, saatlere, dakikalara ve saniyelere böleriz."
+  },
+  {
+    "nl": "Een maand heeft ongeveer vier weken en een week zeven dagen.",
+    "tr": "Bir ayın yaklaşık dört haftası ve bir haftanın yedi günü vardır."
+  },
+  {
+    "nl": "In Nederland hebben we vier seizoenen.",
+    "tr": "Hollanda'da dört mevsim yaşıyoruz."
+  },
+  {
+    "nl": "Het weer verschilt per seizoen.",
+    "tr": "Hava mevsime göre değişir."
+  },
+  {
+    "nl": "In de zomer is het warm.",
+    "tr": "Yazın hava sıcaktır."
+  },
+  {
+    "nl": "Tenminste, dat zeggen de Nederlanders.",
+    "tr": "En azından Hollandalılar böyle söylüyor."
+  },
+  {
+    "nl": "Tussen de 21 en de 25 graden vinden ze warm.",
+    "tr": "21 ile 25 derece arasında sıcak buluyorlar."
+  },
+  {
+    "nl": "Vaak schijnt de zon, maar het regent ook erg vaak.",
+    "tr": "Genellikle güneş parlar, ancak aynı zamanda çok sık yağmur yağar."
+  },
+  {
+    "nl": "In de maanden juli en augustus gaan veel mensen met vakantie.",
+    "tr": "Birçok insan Temmuz ve Ağustos aylarında tatile gider."
+  },
+  {
+    "nl": "Naar een land dat niet zo nat is, met meer zon en weinig regen!",
+    "tr": "Bu kadar ıslak olmayan, bol güneşli ve az yağmurlu bir ülkeye!"
+  },
+  {
+    "nl": "In september begint de herfst.",
+    "tr": "Sonbahar Eylül'de başlar."
+  },
+  {
+    "nl": "In oktober en november wordt het koud.",
+    "tr": "Ekim ve Kasım aylarında soğuk olur."
+  },
+  {
+    "nl": "De dagen zijn al korter.",
+    "tr": "Günler zaten kısalıyor."
+  },
+  {
+    "nl": "Het wordt vroeg donker.",
+    "tr": "Erken kararır."
+  },
+  {
+    "nl": "Het waait.",
+    "tr": "Rüzgarlı."
+  },
+  {
+    "nl": "Gele bladeren vallen van de bomen.",
+    "tr": "Sarı yapraklar ağaçlardan düşer."
+  },
+  {
+    "nl": "In december begint de winter.",
+    "tr": "Kış Aralık ayında başlar."
+  },
+  {
+    "nl": "Het wordt nog kouder.",
+    "tr": "Daha da soğuyor."
+  },
+  {
+    "nl": "In de lente komen er weer bladeren aan de bomen.",
+    "tr": "İlkbaharda yapraklar tekrar ağaçlarda belirir."
+  },
+  {
+    "nl": "We zien overal bloemen.",
+    "tr": "Her yerde çiçekler görüyoruz."
+  },
+  {
+    "nl": "Het wordt warmer, de temperatuur stijgt, de dagen zijn steeds langer.",
+    "tr": "Havalar ısınıyor, sıcaklık artıyor, günler uzuyor."
+  },
+  {
+    "nl": "Een mooi seizoen!",
+    "tr": "Güzel bir sezon!"
+  },
+  {
+    "nl": "Wat een heerlijk klimaat heeft Nederland.",
+    "tr": "Hollanda harika bir iklime sahiptir."
+  },
+  {
+    "nl": "Je hebt alles: zon, regen, wind.",
+    "tr": "Her şeye sahipsiniz: güneş, yağmur, rüzgar."
+  },
+  {
+    "nl": "Het weer is nooit hetzelfde, her verandert steeds.",
+    "tr": "Hava asla aynı değildir, her zaman değişir."
+  },
+  {
+    "nl": "Het is niet te warm, maar ook niet te koud.",
+    "tr": "Çok sıcak değil ama çok soğuk da değil."
+  },
+  {
+    "nl": "Het beste plekje van de wereld!",
+    "tr": "Dünyadaki en iyi yer!"
+  },
+  {
+    "nl": "Hoe wonen jullie eigenlijk?",
+    "tr": "Aslında nasıl yaşıyorsun?"
+  },
+  {
+    "nl": "Hebben jullie een eigen huis?",
+    "tr": "Kendi evin var mı?"
+  },
+  {
+    "nl": "Of huren jullie een woning?",
+    "tr": "Yoksa ev mi kiralıyorsunuz?"
+  },
+  {
+    "nl": "Of woon je op kamers dus bij iemand anders in huis?",
+    "tr": "Yoksa evde başka biriyle birlikte odalarda mı yaşıyorsunuz?"
+  },
+  {
+    "nl": "Woon je alleen met familie, of met een huisgenoot?",
+    "tr": "Ailenle mi yalnız yaşıyorsun yoksa ev arkadaşınla mı?"
+  },
+  {
+    "nl": "Katja, vertel een hoe je woont.",
+    "tr": "Katja, bana nasıl yaşadığını söyle."
+  },
+  {
+    "nl": "In mijn land woonde ik bij mijn moeder, maar hier woon ik op kamers.",
+    "tr": "Ülkemde annemle yaşadım ama burada odalarda yaşıyorum."
+  },
+  {
+    "nl": "Samen met een vriend en twee andere huisgenoten, allemaal mannen.",
+    "tr": "Bir arkadaş ve diğer iki oda arkadaşıyla birlikte, hepsi erkek."
+  },
+  {
+    "nl": "Wij hebben allemaal onze eigen kamer.",
+    "tr": "Hepimizin kendi odası var."
+  },
+  {
+    "nl": "Maar de badkamer, de wc en de keuken zijn beneden.",
+    "tr": "Ama banyo, tuvalet ve mutfak alt katta."
+  },
+  {
+    "nl": "Die gebruiken we samen.",
+    "tr": "Onları birlikte kullanıyoruz."
+  },
+  {
+    "nl": "Hebben jullie veel contact met die huisgenoten?",
+    "tr": "Ev arkadaslarinla iletişim kurmaktan çok hoşlandın mı?"
+  },
+  {
+    "nl": "Ja, het zijn Nederlandse studenten en ze zijn erg aardig.",
+    "tr": "Evet, onlar Hollandalı öğrenciler ve çok iyiler."
+  },
+  {
+    "nl": "We hebben veel contact met hen.",
+    "tr": "Onlarla çok fazla iletişimimiz var."
+  },
+  {
+    "nl": "We eten ook af en toe samen.",
+    "tr": "Ayrıca ara sıra birlikte yemek yiyoruz."
+  },
+  {
+    "nl": "Heb je veel ruimte?",
+    "tr": "Çok yerin var mı?"
+  },
+  {
+    "nl": "Hoe groet is je kamer?",
+    "tr": "Odanız ne kadar büyük?"
+  },
+  {
+    "nl": "Mijn kamer is vrij ruim: ongeveer 25 vierkante meter.",
+    "tr": "Odam oldukça geniş: yaklaşık 25 metrekare."
+  },
+  {
+    "nl": "Ik woon en werk er en ik slaap er ook.",
+    "tr": "Orada yaşıyorum ve çalışıyorum ve orada da uyuyorum."
+  },
+  {
+    "nl": "Mijn woonkamer is dus ook slaapkamer.",
+    "tr": "Hem oturma hem de bir yatak odası."
+  },
+  {
+    "nl": "De keuken is niet ruim: maar twee bij drie meter.",
+    "tr": "Mutfak geniş değil: sadece ikiye üç metre."
+  },
+  {
+    "nl": "En hij is donker.",
+    "tr": "Ve o karanlık."
+  },
+  {
+    "nl": "Er zitten geen ramen in.",
+    "tr": "İçinde pencere yok."
+  },
+  {
+    "nl": "Toch ben ik tevreden.",
+    "tr": "Yine de memnunum."
+  },
+  {
+    "nl": "Ik heb genoeg ruimte om te wonen en te studeren.",
+    "tr": "Yaşamak ve ders çalışmak için yeterli alanım var."
+  },
+  {
+    "nl": "Is het een dure kamer?",
+    "tr": "Pahalı bir oda mı?"
+  },
+  {
+    "nl": "Hoeveel betaal je ervoor, als ik vragen mag?",
+    "tr": "Sorabilirsem ne kadar ödedin?"
+  },
+  {
+    "nl": "Wat noemt u duur?",
+    "tr": "Pahalı dediğin nedir?"
+  },
+  {
+    "nl": "Ik betaal 400 euro per maand, inclusief water en internet.",
+    "tr": "Ayda su ve internet dahil 400 euro ödüyorum."
+  },
+  {
+    "nl": "Zelf vind ik dat een redelijke huur.",
+    "tr": "Şahsen bunun makul bir kira olduğunu düşünüyorum."
+  },
+  {
+    "nl": "Ik ben dus erg tevreden!",
+    "tr": "Bu yüzden çok memnunum!"
+  },
+  {
+    "nl": "Ja, dat vind ik ook redelijk.",
+    "tr": "Evet, bence de mantıklı."
+  },
+  {
+    "nl": "Hoe ben je aan die kamer gekomen?",
+    "tr": "O odayı nasıl aldın?"
+  },
+  {
+    "nl": "Via een vriend van mij.",
+    "tr": "Bir arkadaşım aracılığıyla."
+  },
+  {
+    "nl": "Die woont al lang in Nederland.",
+    "tr": "Uzun süredir Hollanda'da yaşıyor."
+  },
+  {
+    "nl": "En jij Lisa, woon jij ook op kamers?",
+    "tr": "Ve sen Lisa, sen de odalarda mı yaşıyorsun?"
+  },
+  {
+    "nl": "Nee, ik woon nog bij mijn vader, maar mijn vriend en ik gaan binnenkort samenwonen.",
+    "tr": "Hayır, hala babamla yaşıyorum ama erkek arkadaşım ve ben yakında birlikte taşınacağız."
+  },
+  {
+    "nl": "We willen een flat kopen.",
+    "tr": "Bir daire satın almak istiyoruz."
+  },
+  {
+    "nl": "We zoeken een flat met twee kamers en een keuken.",
+    "tr": "İki odalı ve mutfaklı bir daire arıyoruz."
+  },
+  {
+    "nl": "Het liefst dicht bij het centrum.",
+    "tr": "Tercihen merkeze yakın."
+  },
+  {
+    "nl": "Dus als jullie iets weten...",
+    "tr": "Yani bir şey biliyorsan..."
+  },
+  {
+    "nl": "Zeg Alex, heb je zin om volgende week zaterdag te komen eten?",
+    "tr": "Alex, gelecek cumartesi akşam yemeğine gelmek ister misin?"
+  },
+  {
+    "nl": "Om een uur of zes?",
+    "tr": "Saat altı civarında mı?"
+  },
+  {
+    "nl": "Lia en een paar anderen van de groep komen ook.",
+    "tr": "Lia ve gruptan birkaç kişi daha geliyor."
+  },
+  {
+    "nl": "Ja , leuk, Sara!",
+    "tr": "Evet, güzel Sarah!"
+  },
+  {
+    "nl": "Ik kom graag. Waar woon je?",
+    "tr": "Gelmek istiyorum. Nerede yaşıyorsun"
+  },
+  {
+    "nl": "In de Kerkstraat, op nummer 77.",
+    "tr": "Kerkstraat'ta, 77 numarada."
+  },
+  {
+    "nl": "Het is niet hel ver.",
+    "tr": "Çok uzak değil."
+  },
+  {
+    "nl": "Je kunt het lopen.",
+    "tr": "Yürüyebilirsin."
+  },
+  {
+    "nl": "Zal ik het even uitleggen?",
+    "tr": "Açıklayayım mı?"
+  },
+  {
+    "nl": "Dat is niet nodig, mijn mobiel wijst me de weg.",
+    "tr": "Bu gerekli değil, cep telefonum bana yolu gösteriyor."
+  },
+  {
+    "nl": "Trouwens, Lisa woont bij mij om de hoek, we kunnen samen gaan.",
+    "tr": "Ayrıca, Lisa benim evin köşesinde yaşıyor, birlikte gidebiliriz."
+  },
+  {
+    "nl": "Met z'n tweeën vinden we je huis wel.",
+    "tr": "İkimiz senin evini bulacağız."
+  },
+  {
+    "nl": "Oké tot dan.",
+    "tr": "Tamam görüşürüz."
+  },
+  {
+    "nl": "Zal ik iets meenemen?",
+    "tr": "Bir şey getireyim mi?"
+  },
+  {
+    "nl": "Nee hoor, dat hoeft niet.",
+    "tr": "Hayır, gerek yok."
+  },
+  {
+    "nl": "Alex en Lisa gaan op weg.",
+    "tr": "Alex ve Lisa yola çıktılar."
+  },
+  {
+    "nl": "Ze hebben allebei iets gekocht voor Sara: Alex heeft een boek gekocht en Lisa bloemen.",
+    "tr": "İkisi de Sara için bir şeyler satın aldı: Alex bir kitap aldı ve Lisa çiçek aldı."
+  },
+  {
+    "nl": "Alex zegt:''Ik weet uit mijn hoofd hoe we moeten lopen''.",
+    "tr": "Alex, \"Nasıl yürüneceğini ezbere biliyorum\" diyor."
+  },
+  {
+    "nl": "Maar na een paar straten vraagt hij:Moeten we hier links of rechtsaf?",
+    "tr": "Ama birkaç blok sonra soruyor: Buradan sola mı yoksa sağa mı dönelim?"
+  },
+  {
+    "nl": "Ik ben vergeten.",
+    "tr": "Unuttum."
+  },
+  {
+    "nl": "Lisa pakt haar mobiel.",
+    "tr": "Lisa cep telefonunu çıkarır."
+  },
+  {
+    "nl": "Waar gaan we naartoe?Van hier naar Kerkstraat 77.",
+    "tr": "Nereye gidiyoruz Buradan Kerkstraat 77'ye."
+  },
+  {
+    "nl": "Kijk. We moeten hier linksaf.",
+    "tr": "Bak. Burada sola donmeliyiz."
+  },
+  {
+    "nl": "We lopen rechtdoor.",
+    "tr": "Düz ilerliyoruz."
+  },
+  {
+    "nl": "Na 345 meter komen we bij een brede weg.",
+    "tr": "345 metre sonra geniş bir yola geliyoruz."
+  },
+  {
+    "nl": "Die weg moeten we oversteken.",
+    "tr": "O yolu geçmeliyiz."
+  },
+  {
+    "nl": "Dus we gaan eerst verder in dezelfde richting.",
+    "tr": "O halde önce aynı yönde devam edelim."
+  },
+  {
+    "nl": "Lisa en Alex steken de drukke brede weg over.",
+    "tr": "Lisa ve Alex işlek geniş yolun karşısına geçerler."
+  },
+  {
+    "nl": "Even later zijn ze op een plein met veel winkels.",
+    "tr": "Biraz sonra birçok dükkanın olduğu bir meydandalar."
+  },
+  {
+    "nl": "Daar moet het ongeveer zijn.",
+    "tr": "Orada olmalı."
+  },
+  {
+    "nl": "Ze zien een kerk, de Kerkstraat is nu dichtbij.",
+    "tr": "Bir kilise görüyorlar, şimdi Kerkstraat yakında."
+  },
+  {
+    "nl": "Het is over de brug de eerste straat rechts.",
+    "tr": "Köprünün sağındaki ilk caddedir."
+  },
+  {
+    "nl": "Kijk daar, aan de linkerkant, in dat hoge gebouw, daar woont Sara.",
+    "tr": "Soldaki şu yüksek binaya bak, Sarah orada yaşıyor."
+  },
+  {
+    "nl": "Op tweede verdieping. Nemen we de lift?",
+    "tr": "İkinci katta. Asansöre binelim mi?"
+  },
+  {
+    "nl": "Nee, kom, het zijn maar vier trappen.",
+    "tr": "Hayır, hadi, sadece dört merdiven var."
+  },
+  {
+    "nl": "Boven gaan ze links de hoek om.",
+    "tr": "En üstte sol köşeyi dönüyorlar."
+  },
+  {
+    "nl": "Nummer 77 is de laatste deur aan de linkerkant.",
+    "tr": "77 numara soldaki son kapıdır."
+  },
+  {
+    "nl": "Hoi Katja, hoe gaat het?",
+    "tr": "Merhaba Katya, nasılsın?"
+  },
+  {
+    "nl": "Goed. En met jou?",
+    "tr": "İyiyim. Ya sen?"
+  },
+  {
+    "nl": "Ook Goed.",
+    "tr": "Ben de iyiyim."
+  },
+  {
+    "nl": "Heb je een leuk weekend gehad?",
+    "tr": "İyi bir hafta sonu geçirdin mi?"
+  },
+  {
+    "nl": "Ja zeker, maar het was erg druk.",
+    "tr": "Evet, elbette, ama çok meşguldüm."
+  },
+  {
+    "nl": "Ik ben op bezoek geweest bij vrienden.",
+    "tr": "Arkadaşları ziyaret ediyordum"
+  },
+  {
+    "nl": "Die wonen pas drie maanden in Nederland.",
+    "tr": "Sadece üç aydır Hollanda'da yaşıyorlar."
+  },
+  {
+    "nl": "Ze wilden graag iets nieuws zien.",
+    "tr": "Yeni bir şey görmek istiyorlardı."
+  },
+  {
+    "nl": "Dus zondagmiddag zijn we naar het museum Beelden aan Zee gegaan.",
+    "tr": "Pazar öğleden sonra, Museum Beelden aan Zee'ye gittik."
+  },
+  {
+    "nl": "Dat is een prachtig museum.",
+    "tr": "Burasi harika bir müze."
+  },
+  {
+    "nl": "En er was geen lange rij, dus we waren snel binnen.",
+    "tr": "Ve uzun bir kuyruk yoktu, bu yüzden çabucak girdik."
+  },
+  {
+    "nl": "Dat klinkt goed.",
+    "tr": "Kulağa hoş geliyor."
+  },
+  {
+    "nl": "Hebben jullie daar ook gegeten?",
+    "tr": "Yemegi orada da mı yediniz?"
+  },
+  {
+    "nl": "Nee, we hebben bij hen thuis een Spaanse maaltijd gekookt.",
+    "tr": "Hayır, evlerinde İspanyol yemeği pişirdik."
+  },
+  {
+    "nl": "En daarna hebben we een film gekeken.",
+    "tr": "Ve sonra bir film izledik."
+  },
+  {
+    "nl": "Het was erg gezellig.",
+    "tr": "Çok guzeldi."
+  },
+  {
+    "nl": "We hadden een interessant gesprek over de verschillen tussen de Franse en Nederlandse cultuur.",
+    "tr": "Fransız ve Hollanda kültürü arasındaki farklar hakkında ilginç bir sohbet gerçekleştirdik."
+  },
+  {
+    "nl": "Ook hebben we erg gelachen.",
+    "tr": "Ve de çok güldük."
+  },
+  {
+    "nl": "Ik was wel laat thuis.",
+    "tr": "Eve geç kaldım."
+  },
+  {
+    "nl": "En jij Nick?",
+    "tr": "Ve sen Nick?"
+  },
+  {
+    "nl": "Wat heb je gedaan?",
+    "tr": "Sen ne yaptın?"
+  },
+  {
+    "nl": "Ik heb niets bijzonders gedaan.",
+    "tr": "Özel bir şey yapmadım."
+  },
+  {
+    "nl": "Ik slaap meestal uit op zaterdag.",
+    "tr": "Genelde cumartesileri uyurum."
+  },
+  {
+    "nl": "En dan ruim ik mijn kamer op en maak de badkamer schoon.",
+    "tr": "Sonra odamı toplarım ve banyoyu temizlerim."
+  },
+  {
+    "nl": "Afgelopen zaterdag heb ik tot elf uur uitgeslapen.",
+    "tr": "Geçen cumartesi saat on bire kadar uyudum."
+  },
+  {
+    "nl": "Daarna heb ik boodschappen gedaan op de markt, met mijn vriendin.",
+    "tr": "Sonra kız arkadaşımla pazara alışverişe gittik."
+  },
+  {
+    "nl": "Ik heb ook een paar mails gestuurd en m`n ouder gebeld.",
+    "tr": "Ayrıca birkaç e-posta gönderdim ve ailemi aradım."
+  },
+  {
+    "nl": "Die sliepen al. Dom van me!",
+    "tr": "Onlar uyumuslardı, aptallik ettim!"
+  },
+  {
+    "nl": "Ik vergeet altijd dat het daar veel later is.",
+    "tr": "Orada çok gec olduğunu hep unutuyorum."
+  },
+  {
+    "nl": "Op zondag zijn we naar de kerke gegaan.",
+    "tr": "Pazar günü kiliseye gittik."
+  },
+  {
+    "nl": "Dat doen we elke zondag.",
+    "tr": "Bunu her Pazar yaparız."
+  },
+  {
+    "nl": "En natuurlijk heb ik de teksten voor maandag geleerd.",
+    "tr": "Ve tabii ki Pazartesi için metinleri öğrendim."
+  },
+  {
+    "nl": "Had jij genoeg tijd om te leren?",
+    "tr": "Öğrenmek için yeterli zamanın oldu mu?"
+  },
+  {
+    "nl": "Eigenlijk niet. Ik had het erg druk omdat ik op zaterdag moet werken.",
+    "tr": "Tam olarak değil. Cumartesi günleri çalışmak zorunda olduğum için çok meşguldüm."
+  },
+  {
+    "nl": "Ik heb Nederlands gesproken in de pauze.",
+    "tr": "Mola sırasında Hollandaca konuştum."
+  },
+  {
+    "nl": "Ik heb een kwartier met een collega gepraat.",
+    "tr": "Bir meslektaşımla on beş dakika konuştum."
+  },
+  {
+    "nl": "Die stelde veel vragen.",
+    "tr": "Bir sürü soru sordu."
+  },
+  {
+    "nl": "En weet je wat hij zei:Tjonge, wat spreek jij al goed Nederlands!",
+    "tr": "Ve ne dediğini biliyorsun: Evlat, Felemenkçeyi çok iyi biliyorsun!"
+  },
+  {
+    "nl": "Kom jij uit een groot gezin?",
+    "tr": "Büyük bir aileden mi geliyorsun?"
+  },
+  {
+    "nl": "Hoeveel broers en zussen heb je?",
+    "tr": "Kaç kız, kaç erkek kardeşin var?"
+  },
+  {
+    "nl": "Ik heb drie broers en twee zussen.",
+    "tr": "Üç erkek ve iki kız kardeşim var."
+  },
+  {
+    "nl": "Een normaal gezin dus?",
+    "tr": "Yani normal bir aile mi?"
+  },
+  {
+    "nl": "Normaal?Dat vind ik groot!",
+    "tr": "Normal mi? Bence buyuk!"
+  },
+  {
+    "nl": "Twee of drie kinderen, dat is hier normaal.",
+    "tr": "İki veya üç çocuk, bu normal."
+  },
+  {
+    "nl": "Vaak is er maar een kind.",
+    "tr": "Çoğu zaman sadece bir çocuk vardır."
+  },
+  {
+    "nl": "Een kind? Dat meen je niet, Mark!",
+    "tr": "Bir çoçuk? Ciddi değilsin Mark!"
+  },
+  {
+    "nl": "Niemand om mee te spelen?",
+    "tr": "Oynayacagi kimse yok mu?"
+  },
+  {
+    "nl": "In mijn land zijn de gezinnen groter.",
+    "tr": "Benim ülkemde aileler daha büyük."
+  },
+  {
+    "nl": "Het voordeel is dat je veel familie hebt.",
+    "tr": "Avantajı, bir sürü ailen olması."
+  },
+  {
+    "nl": "Ik vind dat erg gezellig!",
+    "tr": "Bence bu çok guzel!"
+  },
+  {
+    "nl": "Al die ooms, tantes, neven en nichten!",
+    "tr": "Bütün o amcalar, teyzeler, kuzenler!"
+  },
+  {
+    "nl": "Nu woon je al een tijd in Nederland.",
+    "tr": "Bir süredir Hollanda'da yaşıyorsunuz."
+  },
+  {
+    "nl": "Je mist je familie zeker wel?",
+    "tr": "Aileni özledin mi?"
+  },
+  {
+    "nl": "Ja, heel erg! Ik kan alleen met ze bellen!",
+    "tr": "Evet çok fazla! Sadece onları arayabilirim!"
+  },
+  {
+    "nl": "Maar gelukkig heb ik hier ook familie:Mijn schoonfamilie!",
+    "tr": "Ama neyse ki burada da ailem var: Kayinvalidemler!"
+  },
+  {
+    "nl": "Zoals je weet ben ik getrouwd met een Nederlander.",
+    "tr": "Bildiğiniz gibi bir Hollandalı ile evliyim."
+  },
+  {
+    "nl": "Mijn schoonouders wonen dichtbij.",
+    "tr": "Kayınvalidemler yakınlarda yaşıyor."
+  },
+  {
+    "nl": "Ze komen vaak op bezoek.",
+    "tr": "Sık sık ziyaret ederler."
+  },
+  {
+    "nl": "Mijn eigen familie woont ver weg.",
+    "tr": "Kendi ailem uzakta yaşıyor."
+  },
+  {
+    "nl": "Kijk, hier zie je ze al allemaal op deze foto` s",
+    "tr": "Bak, hepsini bu fotoğraflarda zaten görebilirsin"
+  },
+  {
+    "nl": "Dit is mijn jongste zus, dat zijn mij oudste zus en haar man met hun zoon en op die bank zitten mijn broers.",
+    "tr": "Bu benim en küçük kız kardeşim, yani en büyük kız kardeşim ve kocası, oğulları ve erkek kardeşlerimle birlikte o kanepede oturuyorlar."
+  },
+  {
+    "nl": "En dit zijn mijn ouders: mijn vader en mijn moeder.",
+    "tr": "Ve bunlar benim ebeveynlerim: babam ve annem."
+  },
+  {
+    "nl": "Zijn dat je ouders?Echt waar?",
+    "tr": "Onlar senin ailen mi?Gerçekten mi?"
+  },
+  {
+    "nl": "Ze zien er nog zo jong uit.",
+    "tr": "Hala çok genç görünüyorlar."
+  },
+  {
+    "nl": "Wat voor werk doen ze?",
+    "tr": "Ne tür işler yapıyorlar?"
+  },
+  {
+    "nl": "ijn vader is de baas van een bedrijf.",
+    "tr": "Babam bir şirketin patronu."
+  },
+  {
+    "nl": "En mijn moeder is arts.",
+    "tr": "Ve annem bir doktor."
+  },
+  {
+    "nl": "Dat is toevallig: mijn moeder ook.",
+    "tr": "Tesadüfen, benim annem de öyle."
+  },
+  {
+    "nl": "Maar ik zie haar niet zo vaak.",
+    "tr": "Ama onu o kadar sık ​​görmüyorum."
+  },
+  {
+    "nl": "Mijn ouders zijn gescheiden toen ik klein was.",
+    "tr": "Ailem ben küçükken boşandı."
+  },
+  {
+    "nl": "Ik houd veel van haar, en ik ga vaak naar haar toe.",
+    "tr": "Onu çok seviyorum ve sık sık ziyaret ediyorum."
+  },
+  {
+    "nl": "En we zien elkaar natuurlijk met de feestdagen en op verjaardagen.",
+    "tr": "Ve tabii ki bayramlarda ve doğum günlerinde de görüşürüz."
+  },
+  {
+    "nl": "Leven jouw opa` s en oma` s nog?",
+    "tr": "Büyükannen ve büyükbaban hala hayatta mı?"
+  },
+  {
+    "nl": "Ik heb nog een oma. Zij is al 86.",
+    "tr": "Bir büyükannem daha var. O zaten 86 yaşında."
+  },
+  {
+    "nl": "Mijn andere oma en mijn opa` s zijn al gestorven.",
+    "tr": "Diğer büyükannem ve büyükbabam çoktan öldüler."
+  },
+  {
+    "nl": "Die heb ik helaas nooit gekend.",
+    "tr": "Maalesef onlari hiç tanimadim"
+  },
+  {
+    "nl": "Maar ik heb veel over hen gehoord!",
+    "tr": "Ama onlar hakkında çok şey duydum!"
+  },
+  {
+    "nl": "Dag buurman Ik vond een briefje in de bus.",
+    "tr": "Merhaba komşu, posta kutusunda bir not buldum."
+  },
+  {
+    "nl": "Er staat op dat er een pakje voor mij bij u is gebracht. Klopt dat?",
+    "tr": "Size benim için bir paket teslim edildi diyor. Bu doğru mu?"
+  },
+  {
+    "nl": "Hoi Fred. Inderdaad, hier ligt je pakje. Alsjeblieft.",
+    "tr": "Merhaba Fred.Evet, işte paketiniz. Buyrun"
+  },
+  {
+    "nl": "Dank u wel. Ik zie het al: mijn nieuwe kleren zijn aangekomen.",
+    "tr": "Teşekkürler. Şimdiden görebiliyorum: yeni kıyafetlerim geldi."
+  },
+  {
+    "nl": "Tjonge, Fred, koop jij je kleren online?",
+    "tr": "Oğlum Fred, kıyafetlerini internetten mi alıyorsun?"
+  },
+  {
+    "nl": "Dan kun je ze toch niet passen?",
+    "tr": "O zaman onlar sana uymayabilir, değil mi?"
+  },
+  {
+    "nl": "Jawel. Als ze niet passen stuur ik ze gewoon terug.",
+    "tr": "Evet. Eğer uymuyorlarsa geri göndereceğim."
+  },
+  {
+    "nl": "En dan neem ik weer andere.",
+    "tr": "Sonra bir tane daha alacağım."
+  },
+  {
+    "nl": "Ik vind online kopen heel makkelijk.",
+    "tr": "İnternetten satın almayı çok kolay buluyorum."
+  },
+  {
+    "nl": "Het is snel, goedkoop en ik hoef nier naar de winkel.",
+    "tr": "Hızlı, ucuz ve mağazaya gitmem gerekmiyor."
+  },
+  {
+    "nl": "Ik houd van winkelen.",
+    "tr": "Dukkanda alışveriş yapmayı severim."
+  },
+  {
+    "nl": "En ik houd ook van de markt.",
+    "tr": "Ayrıca pazari da seviyorum."
+  },
+  {
+    "nl": "Ik vind het daar gezellig.",
+    "tr": "Oradan hoşlanıyorum."
+  },
+  {
+    "nl": "Veel producten zijn op de markt goedkoper dan in de winkel,vooral aan het eind van dag.",
+    "tr": "Birçok ürün, özellikle günün sonunda, pazarda mağazadan daha ucuzdur."
+  },
+  {
+    "nl": "Dan dalen vaak de prijzen.",
+    "tr": "Sonra fiyatlar genellikle düşer."
+  },
+  {
+    "nl": "En vind je het nog te duur?",
+    "tr": "Ve sizce hala çok mu pahalı?"
+  },
+  {
+    "nl": "Er is geen goede kans dat de prijs nog verder zakt.",
+    "tr": "Fiyatın daha fazla düşme ihtimali yok."
+  },
+  {
+    "nl": "Dan heb je dubbel voordeel.",
+    "tr": "O zaman çifte avantajınız var."
+  },
+  {
+    "nl": "Wist je dat?",
+    "tr": "Biliyor musun?"
+  },
+  {
+    "nl": "Ja, da weet ik.",
+    "tr": "Evet biliyorum."
+  },
+  {
+    "nl": "Maar ik houd niet van de markt.",
+    "tr": "Ama pazarı sevmiyorum."
+  },
+  {
+    "nl": "De kwaliteit is vaak niet zo goed.",
+    "tr": "Kalitesi genellikle çok iyi değildir."
+  },
+  {
+    "nl": "Bovendien moet je soms lang wachten op je buurt!",
+    "tr": "Ayrıca bazen sira için uzun süre beklemek zorunda kalıyorsunuz!"
+  },
+  {
+    "nl": "Nee, ik kom er niet graag.",
+    "tr": "Hayır, buraya gelmeyi sevmiyorum."
+  },
+  {
+    "nl": "Mijn boodschappen koop ik allemaal online.",
+    "tr": "Tüm yiyeceklerimi internetten alıyorum."
+  },
+  {
+    "nl": "Twee keer in de week krijg ik vers fruit en verse groente thuis.",
+    "tr": "Haftada iki kez eve taze meyve ve sebze alıyorum."
+  },
+  {
+    "nl": "Er zit zelfs een recept bij, dat is makkelijk bij het koken.",
+    "tr": "Hatta yemek yapmayı kolaylaştıran bir tarifle geliyor."
+  },
+  {
+    "nl": "Ik dacht dat studenten alleen maar pizza`s eten.",
+    "tr": "Öğrencilerin sadece pizza yediğini sanıyordum."
+  },
+  {
+    "nl": "Dat valt dus mee.",
+    "tr": "Sorun değil."
+  },
+  {
+    "nl": "Kom even binnen. Heb je zin in koffie?",
+    "tr": "İçeri gel. Kahve ister misin?"
+  },
+  {
+    "nl": "Nee, ik heb nog veel te doen en ik moet koken vanavond.",
+    "tr": "Hayır, yapacak çok işim var ve bu gece yemek pişirmem gerekiyor."
+  },
+  {
+    "nl": "En daarna sporten.",
+    "tr": "Ve sonra egzersiz yapacagim."
+  },
+  {
+    "nl": "Tja, dat kan nog niet online.",
+    "tr": "Bunu henüz çevrimiçi yapamazsınız."
+  },
+  {
+    "nl": "Nou, misschien een andere keer dan.",
+    "tr": "O zaman belki başka zaman."
+  },
+  {
+    "nl": "Dat doen we, afgesproken!",
+    "tr": "Anlaştık, anlaştık!"
+  },
+  {
+    "nl": "Het was gezellig om even te praten.",
+    "tr": "Bir süre sohbet etmek güzeldi."
+  },
+  {
+    "nl": "Bedankt voor uw hulp!",
+    "tr": "Yardımınız için teşekkürler!"
+  },
+  {
+    "nl": "Geen probleem, graag gedaan.",
+    "tr": "Problem yok rica ederim."
+  },
+  {
+    "nl": "En succes met koken!",
+    "tr": "Yemek pisirmekte basarilar!"
+  },
+  {
+    "nl": "Ik heb twee kinderen.",
+    "tr": "İki çocuğum var."
+  },
+  {
+    "nl": "Mijn zoon Tom is vier en mijn dochter Kate is twaalf.",
+    "tr": "Oğlum Tom dört yaşında ve kızım Kate on iki yaşında."
+  },
+  {
+    "nl": "Ze zitten op een Nederlandse basisschool.",
+    "tr": "Hollanda'da bir ilkokula gidiyorlar."
+  },
+  {
+    "nl": "Tom ziet in groep een en Kate zit in groep acht.",
+    "tr": "Tom birinci grupta ve Kate sekizinci gruptadır."
+  },
+  {
+    "nl": "Dat is het laatste jaar.",
+    "tr": "Bu sene son yıli."
+  },
+  {
+    "nl": "Pas vanaf vijf jaar moeten kinderen naar school.",
+    "tr": "Çocuklar beş yaşından itibaren okula gitmek zorundadır."
+  },
+  {
+    "nl": "Maar bijna alle kinderen beginnen al als ze vier jaar zijn.",
+    "tr": "Ancak hemen hemen tüm çocuklar dört yaşında başlar."
+  },
+  {
+    "nl": "En Tom kon niet wachten om naar school te gaan!",
+    "tr": "Ve Tom okula gitmek için sabırsızlanıyordu!"
+  },
+  {
+    "nl": "Voor sommige scholen moet je je kind al inschrijven als ze baby zijn.",
+    "tr": "Bazı okullar, çocuğunuzu bebekken kaydettirmenizi ister."
+  },
+  {
+    "nl": "Maar gelukkig was er voor deze school geen wachtlijst.",
+    "tr": "Neyse ki, bu okul için bir bekleme listesi yoktu."
+  },
+  {
+    "nl": "We hebben gekozen voor een openbare school in de buurt.",
+    "tr": "Yakınlarda bir devlet okulu seçtik."
+  },
+  {
+    "nl": "Omdat de afstand van huis naar school klein is, kan Kate zelf met de fiets naar school en hoeven wij alleen Tom te brengen.",
+    "tr": "Evden okula olan mesafe kısa olduğu için Kate okula kendi başına gidebiliyor ve biz sadece Tom'u getiriyoruz."
+  },
+  {
+    "nl": "De school organiseert ook opvang na school voor de leerlingen.",
+    "tr": "Okul ayrıca öğrenciler için okul sonrası bakım düzenlemektedir."
+  },
+  {
+    "nl": "Dat is makkelijk als we allebei moeten werken.",
+    "tr": "İkimizin de çalışması gerektiğinde kolay oluyor."
+  },
+  {
+    "nl": "De kinderen hebben het erg naar hun zin, zowel op de opvang als op school.",
+    "tr": "Çocuklar hem kreşte hem de okulda harika vakit geçiriyorlar."
+  },
+  {
+    "nl": "Zelf vond ik school vroeger helemaal niet leuk.",
+    "tr": "Okulu hiç sevmiyordum."
+  },
+  {
+    "nl": "Ik was bang voor mijn juffrouw.",
+    "tr": "Ogretmenimden korktum."
+  },
+  {
+    "nl": "Die was namelijk erg streng.",
+    "tr": "O çok katıydı."
+  },
+  {
+    "nl": "We moesten de hele dag stil zijn en de druk was erg hoog.",
+    "tr": "Bütün gün sessiz olmamız gerekiyordu ve baskı çok yüksekti."
+  },
+  {
+    "nl": "Dat is hier heel anders.",
+    "tr": "Burası çok farklı."
+  },
+  {
+    "nl": "In groep een en twee leren de leerlingen vooral samen spelen en hun handen goed gebruiken.",
+    "tr": "Birinci ve ikinci gruplarda öğrenciler ağırlıklı olarak birlikte oynamayı ve ellerini iyi kullanmayı öğrenirler."
+  },
+  {
+    "nl": "Ze luisteren naar verhalen en zingen liedjes.",
+    "tr": "Hikayeler dinler ve şarkılar söylerler."
+  },
+  {
+    "nl": "Zo leren ze de betekenis van nieuwe woorden.",
+    "tr": "Bu şekilde yeni kelimelerin anlamlarını öğrenirler."
+  },
+  {
+    "nl": "Pas en groep drie gaan ze echt schrijven, lezen en rekenen.",
+    "tr": "Üçüncü gruba kadar gerçekten yazmaya, okumaya ve aritmetik yapmaya başlamazlar."
+  },
+  {
+    "nl": "Verder krijgen ze onder andere les in tekenen en leren ze over de wereld, de geschiedenis en de natuur: over allerlei bloemen, bomen, en dieren.",
+    "tr": "Ayrıca çizim dersleri alırlar ve dünya, tarih ve doğa hakkında bilgi edinirler: her türlü çiçek, ağaç ve hayvan hakkında."
+  },
+  {
+    "nl": "Ze hoeven thuis niet zo veel te doen voor school.",
+    "tr": "Evde okul için fazla bir şey yapmak zorunda değiller."
+  },
+  {
+    "nl": "Sommige ouders vinden dat slecht, maar de meeste ouders vinden het geluk van hun kinderen belangrijker dan hoge cijfers.",
+    "tr": "Bazı ebeveynler bunun kötü olduğunu düşünür, ancak çoğu ebeveyn çocuklarının mutluluğunun yüksek notlardan daha önemli olduğunu düşünür."
+  },
+  {
+    "nl": "In de groep van Kate mogen de meeste kinderen zelf kiezen naar welke middelbare school ze willen.",
+    "tr": "Kate'in grubunda çoğu çocuğun gitmek istedikleri ortaokulu seçmelerine izin verilir."
+  },
+  {
+    "nl": "Dat is een moeilijke keuze: er zijn veel verschillende scholen en elke school heeft zijn sterke en zwakke punten.",
+    "tr": "Bu zor bir seçim: birçok farklı okul var ve her okulun güçlü ve zayıf yönleri var."
+  },
+  {
+    "nl": "Uit onderzoek blijkt dat een op de vier Nederlanders helemaal geen zin heeft in het huishouden doen.",
+    "tr": "Araştırmalar, dört Hollandalıdan birinin ev işlerini hiç yapmak istemediğini gösteriyor."
+  },
+  {
+    "nl": "25 procent!",
+    "tr": "Yüzde 25!"
+  },
+  {
+    "nl": "Is dat werkelijk zo?",
+    "tr": "Gerçekten öyle mi?"
+  },
+  {
+    "nl": "We vragen het een paar mensen.",
+    "tr": "Birkaç kişiye soruyoruz."
+  },
+  {
+    "nl": "Meneer, doet u graag het huishouden?",
+    "tr": "Bayım, ev işlerini yapmayı sever misiniz?"
+  },
+  {
+    "nl": "Absoluut! Ik kook graag.",
+    "tr": "Elbette! Yemek yapmayı severim."
+  },
+  {
+    "nl": "Ik zet heerlijke koffie en ik doe wat dagelijkse dingen, zoals opruimen en afwassen.",
+    "tr": "Lezzetli kahve yaparım ve temizlik ve bulaşık yıkama gibi günlük işler yaparım."
+  },
+  {
+    "nl": "Maar schoonmaken, de was doen en dat soort zaken, daar heb ik een aardige mevrouw voor.",
+    "tr": "Ama temizlik, çamaşır yıkama ve bunun gibi şeyler, bunun için iyi bir kadınım var."
+  },
+  {
+    "nl": "Ze komt elke week.",
+    "tr": "Her hafta gelir."
+  },
+  {
+    "nl": "Ik betaal haar, uiteraard. Ik ben tevreden!",
+    "tr": "Tabii ki ona para ödüyorum. Ben memnunum!"
+  },
+  {
+    "nl": "Mevrouw, mogen we u wat vragen?",
+    "tr": "Hanımefendi, size bir şey sorabilir miyiz?"
+  },
+  {
+    "nl": "Hebt u plezier in het huishouden?",
+    "tr": "Ev islerinden zevk alıyor musun?"
+  },
+  {
+    "nl": "Nou nee, dat is niet mijn hobby.",
+    "tr": "Hayır, bu benim hobim değil."
+  },
+  {
+    "nl": "Maar iemand moet het doen!",
+    "tr": "Ama birinin bunu yapması gerekiyor!"
+  },
+  {
+    "nl": "Het is wel makkelijk, tegenwoordig.",
+    "tr": "Bu günlerde kolay."
+  },
+  {
+    "nl": "Mijn moeder, die moest hard werken!",
+    "tr": "Annem, çok çalışmak zorundaydı!"
+  },
+  {
+    "nl": "Zes kinderen, en geen wasmachine.",
+    "tr": "Altı çocuk ve çamaşır makinesi yok."
+  },
+  {
+    "nl": "Mijn vader werkte tot laat in de avond.",
+    "tr": "Babam gece geç saatlere kadar çalışırdı."
+  },
+  {
+    "nl": "Die had geen tijd om te helpen.",
+    "tr": "Yardım edecek zamanı yoktu."
+  },
+  {
+    "nl": "Maar dat is verleden tijd.",
+    "tr": "Ama bu geçmişte kaldı."
+  },
+  {
+    "nl": "Neem mijn dochter.",
+    "tr": "Kızımı ele alirsak."
+  },
+  {
+    "nl": "Zij verdient het geld en haar man zorgt voor de kinderen en maakt het huis schoon.",
+    "tr": "Parayı o kazanıyor, kocası çocuklara bakıyor ve evi temizliyor."
+  },
+  {
+    "nl": "Een modern gezin!",
+    "tr": "Çağdaş bir aile!"
+  },
+  {
+    "nl": "En jij? Maak jij graag het huis schoon?",
+    "tr": "Peki sen? Evi temizlemeyi sever misin?"
+  },
+  {
+    "nl": "Ik woon met dertien studenten in een huis, allemaal vrouwen.",
+    "tr": "Hepsi kadın on üç öğrenciyle bir evde yaşıyorum."
+  },
+  {
+    "nl": "We hebben een rooster, iedereen doet elke week iets.",
+    "tr": "Bir programımız var, herkes her hafta bir şeyler yapıyor."
+  },
+  {
+    "nl": "Maar het is onmogelijk om alles schoon te houden.",
+    "tr": "Ancak her şeyi temiz tutmak imkansızdır."
+  },
+  {
+    "nl": "De keuken blijft nooit lang schoon.",
+    "tr": "Mutfak asla uzun süre temiz kalmaz."
+  },
+  {
+    "nl": "Deze week moet ik de badkamer en het toilet doen.",
+    "tr": "Bu hafta banyo ve tuvaleti yapmak zorundayım."
+  },
+  {
+    "nl": "Dat soort taken, daar heb ik inderdaad niet zoveel zin in.",
+    "tr": "Bu tür görevlerle pek ilgilenmiyorum."
+  },
+  {
+    "nl": "Mogen we jullie wat vragen?",
+    "tr": "Sana bir şey sorabilir miyiz?"
+  },
+  {
+    "nl": "Hebben jullie de taken in het huis huishouden verdeeld?",
+    "tr": "Evdeki görevleri paylaştınız mı?"
+  },
+  {
+    "nl": "Niet echt. Vroeger deden we alles samen.",
+    "tr": "Tam olarak değil. Her şeyi birlikte yapardık."
+  },
+  {
+    "nl": "Nu heeft mijn vrouw een volledige baan.",
+    "tr": "Şimdi eşimin tam zamanlı bir işi var."
+  },
+  {
+    "nl": "Ik werk halve dagen.",
+    "tr": "Yarım gün çalışıyorum."
+  },
+  {
+    "nl": "Ik doe het grootste deel van het huishouden, denk ik.",
+    "tr": "Sanırım ev işlerinin çoğunu ben yapıyorum."
+  },
+  {
+    "nl": "Wie er kookt?",
+    "tr": "Kim yemek yapıyor?"
+  },
+  {
+    "nl": "Degene die het eerst thuis is!",
+    "tr": "Eve ilk gelen!"
+  },
+  {
+    "nl": "Dat is meestal mijn vrouw.",
+    "tr": "Bu genellikle benim karımdır."
+  },
+  {
+    "nl": "Zij kan heerlijk koken.",
+    "tr": "Harika yemek yapabilir."
+  },
+  {
+    "nl": "En daarna wassen we gezellig samen af.",
+    "tr": "Sonra birlikte bulasigi yıkarız."
+  },
+  {
+    "nl": "Als je ziek bent ga je eerst naar huisarts.",
+    "tr": "Hastaysanız, önce bir doktora gidersiniz."
+  },
+  {
+    "nl": "Die kijkt ook of je naar ziekenhuis moet gaan.",
+    "tr": "Ayrıca hastaneye gitmeniz gerekip gerekmediğini de kontrol eder."
+  },
+  {
+    "nl": "De huisarts kan veel problemen oplossen.",
+    "tr": "Doktor birçok sorunu çözebilir."
+  },
+  {
+    "nl": "Bijvoorbeeld oorpijn, of pijn in je rug, been of hand.",
+    "tr": "Örneğin, sırt, bacak veya elinizde kulak ağrısı veya ağrı."
+  },
+  {
+    "nl": "Samen met jou zoekt hij naar de oorzaak van je ziekte en kijkt hoe je weer beter kunt worden.",
+    "tr": "Sizinle birlikte, hastalığınızın nedenini arayacak ve nasıl tekrar iyileşebileceğinizi görecektir."
+  },
+  {
+    "nl": "Hij doet eerst goed onderzoek.",
+    "tr": "Önce iyi araştırır."
+  },
+  {
+    "nl": "Hij kijkt in je mond, luistert naar je hart, stelt vragen.",
+    "tr": "Ağzının içine bakar, kalbini dinler, sorular sorar."
+  },
+  {
+    "nl": "Hij zal je bijvoorbeeld vragen: Eet u wel gezond?",
+    "tr": "Örneğin size soracak: Sağlıklı besleniyor musunuz?"
+  },
+  {
+    "nl": "Heeft u misschien spanning op uw werk?",
+    "tr": "İş yerinde gergin hissediyor musunuz?"
+  },
+  {
+    "nl": "Beweegt u genoeg?",
+    "tr": "Yeterince hareket ediyor musun?"
+  },
+  {
+    "nl": "Ook kan de huisarts eerst je bloed laten onderzoeken.",
+    "tr": "Doktorunuz ayrıca önce kanınızı test ettirebilir."
+  },
+  {
+    "nl": "En als je medicijnen nodig hebt dan schrijft hij een recept.",
+    "tr": "Ve ilaca ihtiyacınız varsa, bir reçete yazacaktır."
+  },
+  {
+    "nl": "Heb je nog geen huisarts?",
+    "tr": "Henüz bir doktorunuz yok mu?"
+  },
+  {
+    "nl": "Kijk dan even op internet, daar vind j ze allemaal.",
+    "tr": "İnternete bir bakın, hepsini orada bulacaksınız."
+  },
+  {
+    "nl": "Je belt en vraagt: Heeft u nog ruimte voor een nieuwe patiënt?",
+    "tr": "Arayıp soruyorsunuz: Yeni bir hasta için yeriniz var mı?"
+  },
+  {
+    "nl": "Amber is al een paar dagen ziek.",
+    "tr": "Amber birkaç gündür hasta."
+  },
+  {
+    "nl": "Ze belt daarom haar huisarts.",
+    "tr": "Bu yüzden doktorunu arar."
+  },
+  {
+    "nl": "Goedemorgen, met de assistente van dokter Jansen.",
+    "tr": "Dr. Jansen'in asistanıyla gorusuyorsunuz günaydın."
+  },
+  {
+    "nl": "Kan ik u helpen?",
+    "tr": "Yardımcı olabilir miyim?"
+  },
+  {
+    "nl": "Goedemorgen, met Amber Bakker.",
+    "tr": "Ben Amber Bakker günaydın."
+  },
+  {
+    "nl": "Ik wil graag zo snel mogelijk de dokter spreken.",
+    "tr": "En kısa zamanda doktorla konuşmak istiyorum."
+  },
+  {
+    "nl": "Wat is er aan de hand?Is het ernstig?",
+    "tr": "Neler oluyor, ciddi mi?"
+  },
+  {
+    "nl": "Ja, ik ben al een paar dagen ziek.",
+    "tr": "Evet, birkaç gündür hastayım."
+  },
+  {
+    "nl": "Mijn hele lichaam doet pijn.",
+    "tr": "Bütün vücudum ağrıyor."
+  },
+  {
+    "nl": "Volgens mij heb ik koorts.",
+    "tr": "Sanırım ateşim var."
+  },
+  {
+    "nl": "Mijn gezicht is helemaal rood!",
+    "tr": "Yüzüm kıpkırmızı!"
+  },
+  {
+    "nl": "Bovendien heb ik erg veel last van hoofdpijn.",
+    "tr": "Ayrıca başım çok ağrıyor."
+  },
+  {
+    "nl": "Even kijken vanochtend om tien over half elf kunt u langskomen.",
+    "tr": "Bu sabah onu on geçe gelebilirsin."
+  },
+  {
+    "nl": "O, maar ik ben te ziek om naar het spreekuur te komen.",
+    "tr": "Ama ofise gelemeyecek kadar hastayım."
+  },
+  {
+    "nl": "Kan de dokter niet zelf komen?",
+    "tr": "Doktor kendisi gelemez mi?"
+  },
+  {
+    "nl": "Een momentje, ik overleg even met de dokter.",
+    "tr": "Bekle, doktorla konuşacağım."
+  },
+  {
+    "nl": "Daar ben ik weer.",
+    "tr": "İşte yine buradayım."
+  },
+  {
+    "nl": "De dokter komt vanmiddag bij u langs, vanochtend lukt niet meer, het spijt me.",
+    "tr": "Doktor bu öğleden sonra seni görmeye geliyor, bu sabah artık çalışmıyor, üzgünüm."
+  },
+  {
+    "nl": "Fijn, dank u wel.",
+    "tr": "İyiyim teşekkürler."
+  },
+  {
+    "nl": "Wat kan ik ondertussen doen?",
+    "tr": "Bu arada ne yapabilirim?"
+  },
+  {
+    "nl": "U moet veel drinken.",
+    "tr": "Çok icecek içmelisin."
+  },
+  {
+    "nl": "Dat is belangrijk bij koorts.",
+    "tr": "Ateşle bu önemlidir."
+  },
+  {
+    "nl": "Dat zal ik doen. Dank u wel. Dag mevrouw.",
+    "tr": "Yapacağım. Teşekkürler. Iyi gunler Bayan."
+  },
+  {
+    "nl": "Dag mevrouw. Beterschap!",
+    "tr": "Iyi gunler Bayan. Acil şifalar dilerim!"
+  },
+  {
+    "nl": "De bank weet veel van mij.",
+    "tr": "Banka benim hakkımda çok şey biliyor."
+  },
+  {
+    "nl": "Ze weet waar ik werk en waar ik boodschappen doe.",
+    "tr": "Nerede çalıştığımı ve alışverişimi nerede yaptığımı biliyor."
+  },
+  {
+    "nl": "Ze weet waar ik op vakantie ben en wat ik doe in mijn vrije tijd, en nog veel meer.",
+    "tr": "Tatilde nerede olduğumu, boş zamanlarımda ne yaptığımı ve çok daha fazlasını biliyor."
+  },
+  {
+    "nl": "En toch ben ik er nog nooit geweest.",
+    "tr": "Ve yine de oraya hiç gitmedim."
+  },
+  {
+    "nl": "Ik heb een rekening aangevraagd via de website van de bank.",
+    "tr": "Bankanın web sitesi üzerinden hesap başvurusunda bulundum."
+  },
+  {
+    "nl": "Dat gaat heel makkelijk.",
+    "tr": "Bu çok kolay."
+  },
+  {
+    "nl": "Je kiest een soort rekening, je geeft je burgerservicenummer en klaar is Kees.",
+    "tr": "Bir hesap türü seçiyorsunuz, vatandaş hizmet numaranızı veriyorsunuz ve Kees hazır."
+  },
+  {
+    "nl": "Bij sommige banken moet je daarna nog even langskomen.",
+    "tr": "Bazı bankalarda daha sonra uğramanız gerekir."
+  },
+  {
+    "nl": "Je hebt een rekening nodig.",
+    "tr": "Bir hesaba ihtiyacınız var."
+  },
+  {
+    "nl": "Je werkgever kan zo elke maand je geld overmaken, van zijn rekening naar jouw rekening.",
+    "tr": "İşvereniniz paranızı her ay kendi hesabından sizin hesabınıza aktarabilir."
+  },
+  {
+    "nl": "Krijg je geld van de overheid?",
+    "tr": "Devletten para alıyor musunuz?"
+  },
+  {
+    "nl": "Ook dan is een rekening noodzakelijk.",
+    "tr": "Bir hesap da gereklidir."
+  },
+  {
+    "nl": "Studeer je in het buitenland?",
+    "tr": "Yurtdışında mı okuyorsun?"
+  },
+  {
+    "nl": "Je lieve ouders sturen je geld via je rekening.",
+    "tr": "Sevgili ebeveynleriniz size hesabınızdan para gönderiyor."
+  },
+  {
+    "nl": "Met die rekening kun je ook van alles betalen.",
+    "tr": "Bu hesapla her şey için ödeme yapabilirsiniz."
+  },
+  {
+    "nl": "Parkeren bijvoorbeeld, dat regel je met je pasje of met je mobiel.",
+    "tr": "Örneğin park yeri, kartınızla veya cep telefonunuzla ayarlayabilirsiniz."
+  },
+  {
+    "nl": "Wil je de boodschappen betalen?",
+    "tr": "Yiyecek parasını ödemek istiyor musun?"
+  },
+  {
+    "nl": "Je gebruikt je pasje, je pint het bedrag.",
+    "tr": "Kartınızı kullanırsınız, tutarı çekersiniz."
+  },
+  {
+    "nl": "Je ov-kaart kun je met hetzelfde pasje opladen.",
+    "tr": "Aynı geçiş kartı ile toplu taşıma kartınıza yükleme yapabilirsiniz."
+  },
+  {
+    "nl": "Heb je contant geld nodig?",
+    "tr": "Nakit ihtiyacınız var mı?"
+  },
+  {
+    "nl": "De geldautomaat is 24 uur geopend.",
+    "tr": "ATM 24 saat açıktır."
+  },
+  {
+    "nl": "En de huur, en rekeningen die je elke maand moet betalen?",
+    "tr": "Ve her ay ödemek zorunda olduğunuz kira ve faturalar?"
+  },
+  {
+    "nl": "Dat wordt automatisch overgemaakt.",
+    "tr": "Bu otomatik olarak aktarılacaktır."
+  },
+  {
+    "nl": "Als je naar het buitenland gaat heb je soms een creditcard nodig.",
+    "tr": "Yurtdışına gittiğinizde bazen bir kredi kartına ihtiyacınız olur."
+  },
+  {
+    "nl": "Die werkt ongeveer op dezelfde manier.",
+    "tr": "Aşağı yukarı aynı şekilde çalışır."
+  },
+  {
+    "nl": "De bankt stelt dan wel de eis dat je genoeg verdient.",
+    "tr": "Banka daha sonra yeterince kazanmanızı isteyecektir."
+  },
+  {
+    "nl": "Misschien heb je aan het eind van de maand meet uitgegeven dan ontvangen; dan sta je rood.",
+    "tr": "Ay sonunda aldığınızdan daha fazlasını harcamış olabilirsiniz; o zaman borca girersin."
+  },
+  {
+    "nl": "Maar misschien staat er nog wat geld op je rekening.",
+    "tr": "Ancak hesabınızda hala bir miktar para olabilir."
+  },
+  {
+    "nl": "Dat is fijner.",
+    "tr": "Bu daha iyi."
+  },
+  {
+    "nl": "Sommigen maken dat over naar familie in het buitenland.",
+    "tr": "Bazıları yurtdışındaki akrabalarına transfer ediyor."
+  },
+  {
+    "nl": "Maar je kunt het ook bewaren voor later. En als je zomaar een paar miljoen rijker bent?",
+    "tr": "Ancak daha sonra için de kaydedebilirsiniz."
+  },
+  {
+    "nl": "En als je zomaar een paar miljoen rijker bent?",
+    "tr": "Ya sadece birkaç milyon daha zenginsen?"
+  },
+  {
+    "nl": "Wat ga je doen met dat geld?",
+    "tr": "O parayı ne yapacaksın?"
+  },
+  {
+    "nl": "De bank zal je graag advies geven je eerste bezoek aan de bank.",
+    "tr": "Banka, bankaya ilk ziyaretinizde size tavsiyede bulunmaktan mutluluk duyacaktır."
+  },
+  {
+    "nl": "Ik houd erg van reizen.",
+    "tr": "Seyahat etmeyi çok severim."
+  },
+  {
+    "nl": "Ik heb al veel reizen gemaakt, zowel voor mijn werk als voor mijn plezier.",
+    "tr": "Hem iş hem de zevk için çok seyahat ettim."
+  },
+  {
+    "nl": "Soms moet ik met collega's voor een vergadering naar Londen of Brussel.",
+    "tr": "Bazen iş arkadaşlarımla bir toplantı için Londra ya da Brüksel'e gitmem gerekiyor."
+  },
+  {
+    "nl": "We gaan dan meestal met het vliegtuig en slapen daar in een hotel.",
+    "tr": "Genelde uçakla gider ve orada bir otelde yatarız."
+  },
+  {
+    "nl": "Als kind vond ik vliegen heel bijzonder.",
+    "tr": "Çocukken uçmanın çok özel olduğunu düşünürdüm."
+  },
+  {
+    "nl": "Met ons gezin gingen we bijna altijd met de auto op vakantie.",
+    "tr": "Ailemizle neredeyse her zaman tatile arabayla giderdik."
+  },
+  {
+    "nl": "We reden dan naar Frankrijk.",
+    "tr": "Daha sonra Fransa'ya gittik."
+  },
+  {
+    "nl": "Daar sliepen we in een tent en deden we spelletjes.",
+    "tr": "Orada bir çadırda uyuduk ve oyunlar oynadık."
+  },
+  {
+    "nl": "Mijn langste en verste reis was naar China, een paar jaar geleden.",
+    "tr": "En uzun ve en uzak seyahatim birkaç yıl önce Çin'eydi."
+  },
+  {
+    "nl": "Eerst ging ik met de bus en de trein naar het vliegveld.",
+    "tr": "Önce otobüs ve trenle havaalanına gittim."
+  },
+  {
+    "nl": "Op internet vond ik alle informatie die ik nodig had:hoe lang het duurde, hoeveel het kostte.",
+    "tr": "İnternette ihtiyacım olan tüm bilgileri buldum: ne kadar sürdü, ne kadara mal oldu."
+  },
+  {
+    "nl": "Alles ging mis die dag.",
+    "tr": "O gün her şey ters gitti."
+  },
+  {
+    "nl": "De bus vertrok op tijd, maar kwam veel te laat op het station aan.",
+    "tr": "Otobüs zamanında hareket etti, ancak istasyona çok geç geldi."
+  },
+  {
+    "nl": "Ook de trein had vertraging.",
+    "tr": "Tren de rötar yaptı."
+  },
+  {
+    "nl": "Daardoor kwam ik te laat aan op het vliegveld en was mijn vliegtuig al weg.",
+    "tr": "Sonuç olarak, havaalanına geç geldim ve uçağım çoktan kalkmıştı."
+  },
+  {
+    "nl": "Het volgende vliegtuig ging pas `s avonds laat.",
+    "tr": "Bir sonraki uçak gece geç saatlere kadar kalkmadı."
+  },
+  {
+    "nl": "Ik zat veertien uur in het vliegtuig.",
+    "tr": "On dört saat uçaktaydım."
+  },
+  {
+    "nl": "Maar dat was het waard.",
+    "tr": "Ama buna değdi."
+  },
+  {
+    "nl": "Ik was al lang van plan om naar China te gaan.",
+    "tr": "Uzun zamandır Çin'e gitmeyi planlıyordum."
+  },
+  {
+    "nl": "Ik reisde met een groep.",
+    "tr": "Bir grupla seyahat ettim."
+  },
+  {
+    "nl": "We hadden een vol programma, want er was van alles te zien.",
+    "tr": "Dolu bir programımız vardı, çünkü görülecek çok şey vardı."
+  },
+  {
+    "nl": "We hebben ook een reis gemaakt met de boot over de langste rivier van China.",
+    "tr": "Ayrıca Çin'in en uzun nehri üzerinde bir tekne turu yaptık."
+  },
+  {
+    "nl": "De steden en dorpen die we bezochten waren erg interessant.",
+    "tr": "Ziyaret ettiğimiz kasaba ve köyler çok ilginçti."
+  },
+  {
+    "nl": "Tijdens de reis heb ik enorm veel foto's gemaakt.",
+    "tr": "Yolculuk sırasında bol bol fotoğraf çektim."
+  },
+  {
+    "nl": "Ook heb ik veel aardige mensen ontmoet.",
+    "tr": "Ayrıca birçok güzel insanla tanıştım."
+  },
+  {
+    "nl": "Met sommigen heb ik nog steeds contact.",
+    "tr": "Bazılarıyla hala görüşüyorum."
+  },
+  {
+    "nl": "De mooiste reis die ik heb gemaakt was de reis die we direct na mijn huwelijk hebben gemaakt.",
+    "tr": "Yaptığım en güzel gezi, düğünümden hemen sonra yaptığımız geziydi."
+  },
+  {
+    "nl": "We gingen naar een eiland met hoge bergen en prachtige natuur.",
+    "tr": "Yüksek dağları ve güzel doğası olan bir adaya gittik."
+  },
+  {
+    "nl": "Er waren ook geweldige feesten met muziek en theater in de open lucht.",
+    "tr": "Açık havada müzikli ve tiyatrolu harika partiler de vardı."
+  },
+  {
+    "nl": "Het was echt fantastisch!",
+    "tr": "Gerçekten harikaydı"
+  },
+  {
+    "nl": "Aan het begin van de les gaat Alex staan.",
+    "tr": "Alex dersin başında ayağa kalkar."
+  },
+  {
+    "nl": "Mevrouw, mag ik iets vragen aan de groep?",
+    "tr": "Hanımefendi, gruba bir şey sorabilir miyim?"
+  },
+  {
+    "nl": "Ik dacht, misschien kunnen we binnenkort een keer samen uitgaan.",
+    "tr": "Belki yakında dışarı çıkarız diye düşündüm."
+  },
+  {
+    "nl": "In Rotterdam, bijvoorbeeld.",
+    "tr": "Örneğin Rotterdam'da."
+  },
+  {
+    "nl": "We kunnen eerst naar de Markthal gaan.",
+    "tr": "Önce Markthal'a gidebiliriz."
+  },
+  {
+    "nl": "Dat schijnt een prachtig gebouw te zijn.",
+    "tr": "Bu güzel bir bina gibi görünüyor."
+  },
+  {
+    "nl": "Daarna kunnen we ergens samen eten.",
+    "tr": "Sonra birlikte bir yerde yemek yiyebiliriz."
+  },
+  {
+    "nl": "En na het eten kunnen we naar de film.",
+    "tr": "Ve yemekten sonra sinemaya gidebiliriz."
+  },
+  {
+    "nl": "En draait zaterdag een spannende film.",
+    "tr": "Cumartesi günü de heyecanlı bir film gösterilecek."
+  },
+  {
+    "nl": "Hebben jullie daar zin in?",
+    "tr": "Bununla ilgileniyor musun?"
+  },
+  {
+    "nl": "Wie gaat er mee?",
+    "tr": "Kim geliyor?"
+  },
+  {
+    "nl": "Een uit stekend plan. Behalve de film.",
+    "tr": "Mükemmel bir plan. Film hariç."
+  },
+  {
+    "nl": "We zitten dan in het donker naast elkaar.",
+    "tr": "Karanlıkta yan yana oturuyoruz."
+  },
+  {
+    "nl": "Praten met elkaar is onmogelijk.",
+    "tr": "Birbirinizle konuşmak imkansız."
+  },
+  {
+    "nl": "Dat is niet zo gezellig.",
+    "tr": "Bu o kadar hoş değil."
+  },
+  {
+    "nl": "Dat is waar. Je hebt gelijk.",
+    "tr": "Bu doğru. Haklısın."
+  },
+  {
+    "nl": "Heb je een beter voorstel?",
+    "tr": "Daha iyi bir teklifin var mı?"
+  },
+  {
+    "nl": "Misschien...Laten we na het eten een bezoek brengen aan de Euromast.",
+    "tr": "Belki...Yemekten sonra Euromast'ı ziyaret edelim."
+  },
+  {
+    "nl": "De hoogste toren van Nederland.",
+    "tr": "Hollanda'nın en yüksek kulesi."
+  },
+  {
+    "nl": "Vanaf die toren zie je heel Rotterdam inclusief de haven.",
+    "tr": "Bu kuleden liman dahil tüm Rotterdam'ı görebilirsiniz."
+  },
+  {
+    "nl": "`s Avonds als het donker is zien we de stad en alle lichtjes.",
+    "tr": "Akşam hava karardığında şehri ve tüm ışıkları görürüz."
+  },
+  {
+    "nl": "Dat vind ik een perfect voorstel.",
+    "tr": "Bence bu mükemmel bir teklif."
+  },
+  {
+    "nl": "Iedereen akkoord, hoop ik?",
+    "tr": "Herkes hemfikirdir, umarım?"
+  },
+  {
+    "nl": "Oké Afgesproken.",
+    "tr": "Tamam anlaştık."
+  },
+  {
+    "nl": "Waar gaan we eten?",
+    "tr": "Yemeğe nereye gidiyoruz?"
+  },
+  {
+    "nl": "Achter de Markthal is een Italiaans restaurant.",
+    "tr": "Markthal'ın arkasında bir İtalyan restoranı var."
+  },
+  {
+    "nl": "Het eten is daar erg lekker en niet zo duur.",
+    "tr": "Orada yemek çok lezzetli ve o kadar pahalı değil."
+  },
+  {
+    "nl": "Is iedereen het ermee eens?",
+    "tr": "Herkes aynı fikirde mi?"
+  },
+  {
+    "nl": "We zijn met z`n tienen.",
+    "tr": "Biz on kişiyiz"
+  },
+  {
+    "nl": "Ik denk dat we met tien personen wel moeten reserveren.",
+    "tr": "Sanırım on kişiyle rezervasyon yapmamız gerekiyor."
+  },
+  {
+    "nl": "Dat lijkt me beter.",
+    "tr": "Bu bana daha iyi geliyor."
+  },
+  {
+    "nl": "Dan weten we zeker dat we een tafel hebben.",
+    "tr": "O zaman bir masamız olduğundan emin oluruz."
+  },
+  {
+    "nl": "Wat gaan we eten?",
+    "tr": "Ne yiyeceğiz?"
+  },
+  {
+    "nl": "Kiest iedereen apart wat hij of zij lekker vindt?",
+    "tr": "Herkes neyi sevdiğini bireysel olarak mı seçer?"
+  },
+  {
+    "nl": "Of zal ik proberen een menu af te spreken met keuze uit vlees, vis of vegetarisch?",
+    "tr": "Yoksa et, balık veya vejeteryan seçenekleriyle bir menü üzerinde anlaşmaya mı çalışayım?"
+  },
+  {
+    "nl": "Ik hoor wel wat jullie keuze is.",
+    "tr": "Kendinizin secmesi guzel olur."
+  },
+  {
+    "nl": "Ja, prima. Ik steel voor dat we elkaar ontmoeten op het Centraal Station van Rotterdam rond vier uur.",
+    "tr": "Evet iyi. Saat dört civarında Rotterdam Merkez İstasyonu'nda buluşmayı öneriyorum."
+  },
+  {
+    "nl": "Niet met de auto komen, hoor.",
+    "tr": "Arabayla gelme."
+  },
+  {
+    "nl": "Parkeren is heel erg duur midden in het centrum.",
+    "tr": "Merkezde park yeri çok pahalı."
+  },
+  {
+    "nl": "O, het is al laat!",
+    "tr": "Ah, geç oldu!"
+  },
+  {
+    "nl": "Als iedereen voor zichzelf gaat betalen verliezen we te veel tijd.",
+    "tr": "Herkes kendisi için ödeme yapmaya başlarsa, çok fazla zaman kaybederiz."
+  },
+  {
+    "nl": "Ik betaal alles met mijn creditcard.",
+    "tr": "Her şeyi kredi kartımla ödüyorum."
+  },
+  {
+    "nl": "Straks delen we het totale bedrag door tien. Oké?",
+    "tr": "Sonra toplam miktarı on'a böleceğiz. Tamam mi?"
+  },
+  {
+    "nl": "En nu onmiddellijk naar de Euromast!",
+    "tr": "Ve şimdi hemen Euromast'a!"
+  },
+  {
+    "nl": "Wonen er veel mensen in Nederland?",
+    "tr": "Hollanda'da çok insan mı yaşıyor?"
+  },
+  {
+    "nl": "Het hangt ervan af hoe je het bekijkt.",
+    "tr": "Bu ona nasıl baktığınıza bağlıdır."
+  },
+  {
+    "nl": "Nederland heeft ruim zeventien miljoen inwoners.",
+    "tr": "Hollanda'nın on yedi milyondan fazla nüfusu var."
+  },
+  {
+    "nl": "Dat is veel minder dan het aantal inwoners van steden als Tokio of Delhi.",
+    "tr": "Bu, Tokyo veya Delhi gibi şehirlerin nüfusundan çok daha az."
+  },
+  {
+    "nl": "Maar dit kleine land heeft een relatief dichte bevolking.",
+    "tr": "Ancak bu küçük ülkenin nispeten yoğun bir nüfusu var."
+  },
+  {
+    "nl": "Er wonen gemiddeld ruim 400 mensen per vierkante kilometer.",
+    "tr": "Ortalama olarak, kilometrekare başına 400'den fazla insan yaşıyor."
+  },
+  {
+    "nl": "In figuur 1 zie je dat de bevolking de afgelopen 70 jaar nogal gegroeid is.",
+    "tr": "Şekil 1, nüfusun son 70 yılda oldukça arttığını göstermektedir."
+  },
+  {
+    "nl": "Die groei van de bevolking gaat nu nog steeds door, vooral in de grote steden.",
+    "tr": "Nüfus artışı, özellikle büyük şehirlerde, bu güne kadar devam ediyor."
+  },
+  {
+    "nl": "Wat zijn de oorzaken daarvan?",
+    "tr": "Bunun nedenleri nelerdir?"
+  },
+  {
+    "nl": "Vrouwen in Nederland krijgen gemiddeld 1,7 kinderen.",
+    "tr": "Hollanda'da kadınların ortalama 1,7 çocuğu var."
+  },
+  {
+    "nl": "Dat is veel minder dan vroeger, maar hoger dan het gemiddelde in de EU.",
+    "tr": "Bu, eskisinden çok daha az, ancak AB ortalamasından daha yüksek."
+  },
+  {
+    "nl": "D bevolking groeit ook doordat mensen steeds langer leven.",
+    "tr": "Nüfus da artıyor çünkü insanlar daha uzun yaşıyor."
+  },
+  {
+    "nl": "Een ander belangrijke oorzaak is de immigratie.",
+    "tr": "Bir diğer önemli neden ise göçtür."
+  },
+  {
+    "nl": "In figuur 3 kun je zien waarom mensen naar Nederland komen.",
+    "tr": "Şekil 3'te insanların neden Hollanda'ya geldiğini görebilirsiniz."
+  },
+  {
+    "nl": "Sommigen komen uit behoefte aan vrijheid en veiligheid.",
+    "tr": "Bazıları özgürlük ve güvenlik ihtiyacından doğar."
+  },
+  {
+    "nl": "Anderen willen hier werken of studeren aan een universiteit.",
+    "tr": "Diğerleri burada çalışmak veya bir üniversitede okumak istiyor."
+  },
+  {
+    "nl": "Weer anderen volgen de liefde.",
+    "tr": "Yine de diğerleri aşkı takip eder."
+  },
+  {
+    "nl": "Sommige Nederlanders verlaten Nederland juist.",
+    "tr": "Bazı Hollandalılar aslında Hollanda'yı terk ediyor."
+  },
+  {
+    "nl": "Wat is de verklaring daarvoor?",
+    "tr": "Bunun açıklaması nedir?"
+  },
+  {
+    "nl": "Waarom vertrekken zij?",
+    "tr": "Neden gidiyorlar?"
+  },
+  {
+    "nl": "Zoeken ze hun geluk in een land met minder regels en meer vrijheid en ruimte?",
+    "tr": "Daha az kuralı, daha fazla özgürlüğü ve alanı olan bir ülkede mutluluk mu arıyorlar?"
+  },
+  {
+    "nl": "Of is het weer de liefde?",
+    "tr": "Yoksa yine aşk mı?"
+  },
+  {
+    "nl": "Is Nederland eigenlijk een christelijk land?",
+    "tr": "Hollanda aslında Hristiyan bir ülke mi?"
+  },
+  {
+    "nl": "Vroeger wel.",
+    "tr": "Eskiden öyleydi."
+  },
+  {
+    "nl": "De protestantse kerk was de officiële kerk.",
+    "tr": "Protestan Kilisesi resmi Kilise idi."
+  },
+  {
+    "nl": "Er waren veel minder rechten voor mensen met een andere godsdienst, zoals katholieken en joden.",
+    "tr": "Katolikler ve Yahudiler gibi diğer dinlere mensup insanlar için çok daha az hak vardı."
+  },
+  {
+    "nl": "Nu zijn kerk en staat gescheiden.",
+    "tr": "Artık kilise ve devlet ayrılmıştır."
+  },
+  {
+    "nl": "Alle godsdiensten hebben gelijke rechten.",
+    "tr": "Bütün dinler eşit haklara sahiptir."
+  },
+  {
+    "nl": "Het aantal christenen is afgenomen.",
+    "tr": "Hristiyanların sayısı azaldı."
+  },
+  {
+    "nl": "Tegenwoordig zijn er minder mensen die in God geloven.",
+    "tr": "Bugün Tanrı'ya inanan daha az insan var."
+  },
+  {
+    "nl": "Zoals je op basis van figuur 4 kunt vaststellen, is deze groep nu het grootst.",
+    "tr": "Şekil 4'e dayanarak belirleyebileceğiniz gibi, bu grup şu anda en büyüğüdür."
+  },
+  {
+    "nl": "Wat is volgens jou de verklaring daarvoor?",
+    "tr": "Sizce bunun açıklaması nedir?"
+  },
+  {
+    "nl": "Het gaat hard!",
+    "tr": "Hızlı gidiyor!"
+  },
+  {
+    "nl": "We zijn al op de helft van het Groene Boek.",
+    "tr": "Yeşil Kitap'ın yarısını çoktan geçtik."
+  },
+  {
+    "nl": "Sinds we met hoofdstuk 1 begonnen zijn hebben we allerlei onderwerpen behandeld.",
+    "tr": "1. Bölüme başladığımızdan beri, her türlü konuyu ele aldık."
+  },
+  {
+    "nl": "We hebben het gehad over Nederland en over Nederlands leren.",
+    "tr": "Hollanda ve Hollandaca öğrenmek hakkında konuştuk."
+  },
+  {
+    "nl": "Over familie, de seizoenen en het eten in Nederland.",
+    "tr": "Hollanda'da aile, mevsimler ve yemekler hakkında."
+  },
+  {
+    "nl": "En over nog veel meer.",
+    "tr": "Ve çok daha fazlası hakkında."
+  },
+  {
+    "nl": "Inmiddels kun je over al deze onderwerpen veel beter praten.",
+    "tr": "Artık tüm bu konular hakkında çok daha iyi konuşabilirsiniz."
+  },
+  {
+    "nl": "En je hebt het vast al gemerkt:Nederlands is niet moeilijk, Nederlands is gemakkelijk!",
+    "tr": "Ve muhtemelen fark etmişsinizdir: Felemenkçe zor değil, Felemenkçe kolay!"
+  },
+  {
+    "nl": "Alle talen zijn trouwens gemakkelijk.",
+    "tr": "Bu arada, tüm diller kolaydır."
+  },
+  {
+    "nl": "Kijk maar naar kleine kinderen.",
+    "tr": "Sadece küçük çocuklara bakın."
+  },
+  {
+    "nl": "Ondanks dat ze veel dingen nog niet kunnen,",
+    "tr": "Henüz birçok şeyi yapamasalar da,"
+  },
+  {
+    "nl": "begrijpen ze hun ouders al behoorlijk snel.",
+    "tr": "Anne babalarını çok çabuk anlarlar."
+  },
+  {
+    "nl": "En na ongeveer een jaar beginnen ze zelf al met praten.",
+    "tr": "Ve yaklaşık bir yıl sonra kendi kendilerine konuşmaya başlarlar."
+  },
+  {
+    "nl": "Maar hoe kan dat? Hoe verklaar je dat een taal leren zo simpel is?",
+    "tr": "Ama bu nasıl mümkün olabilir? Bir dil öğrenmenin bu kadar basit olduğunu nasıl açıklıyorsunuz?"
+  },
+  {
+    "nl": "Er zijn twee redenen.",
+    "tr": "İki sebep var."
+  },
+  {
+    "nl": "Elke taal heeft heel veel woorden.",
+    "tr": "Her dilde birçok kelime vardır."
+  },
+  {
+    "nl": "En deel daarvan gebruik je regelmatig, de rest nauwelijks.",
+    "tr": "Ve bir kısmını düzenli olarak kullanırsınız, geri kalanı ise zar zor kullanırsınız."
+  },
+  {
+    "nl": "Je kunt dus met een klein aantal woorden al heel veel zeggen en begrijpen.",
+    "tr": "Böylece az sayıda kelime ile çok şey söyleyebilir ve anlayabilirsiniz."
+  },
+  {
+    "nl": "En dan de grammatica.",
+    "tr": "Ve sonra gramer."
+  },
+  {
+    "nl": "Grammatica lijkt lastig maar is het niet.",
+    "tr": "Gramer zor görünüyor ama değil."
+  },
+  {
+    "nl": "Er zijn immers maar weinig regels.]En maak je een fout:geen probleem.",
+    "tr": "Ne de olsa birkaç kural var.] Ve eğer bir hata yaparsanız: sorun değil."
+  },
+  {
+    "nl": "Ook kleine kinderen maken nog veel fouten.",
+    "tr": "Küçük çocuklar bile çok hata yapar."
+  },
+  {
+    "nl": "Door veel luisteren en praten verdwijnen zulke fouten in de loop van de tijd.",
+    "tr": "Çok fazla dinleme ve konuşma ile bu tür hatalar zamanla ortadan kalkar."
+  },
+  {
+    "nl": "Tellen en rekenen, dat vinden kinderen moeilijk.",
+    "tr": "Çocuklar için sayma ve aritmetik zordur."
+  },
+  {
+    "nl": "Vraag maar eens aan een kind hoeveel 5 plus 3 is of 11 min 8.",
+    "tr": "Çocuğa 5 artı 3 veya 11 eksi 8'in kaç olduğunu sorun."
+  },
+  {
+    "nl": "Dat kan een kind van twee jaar niet.",
+    "tr": "İki yaşındaki bir çocuk bunu yapamaz."
+  },
+  {
+    "nl": "Ondanks het feit dat er slechts tien cijfers zijn.",
+    "tr": "Sadece on rakam olmasına rağmen."
+  },
+  {
+    "nl": "U zegt dat Nederlands leren makkelijk is.",
+    "tr": "Hollandaca öğrenmenin kolay olduğunu söylüyorsun."
+  },
+  {
+    "nl": "Maar eerlijk gezegd ben ik het daar niet mee eens.",
+    "tr": "Ama dürüst olmak gerekirse, buna katılmıyorum."
+  },
+  {
+    "nl": "Gewoon luisteren en proberen?",
+    "tr": "Sadece dinle ve dene?"
+  },
+  {
+    "nl": "Dat is makkelijker gezegd dan gedaan!",
+    "tr": "Bunu söylemesi yapmaktan daha kolay!"
+  },
+  {
+    "nl": "Beseft u wel dat we bij elke tekst zowat 50 nieuwe woorden moeten leren?",
+    "tr": "Her metin için yaklaşık 50 yeni kelime öğrenmemiz gerektiğinin farkında mısınız?"
+  },
+  {
+    "nl": "En die moeten we allemaal proberen te onthouden.",
+    "tr": "Ve hepimiz bunu hatırlamaya çalışmalıyız."
+  },
+  {
+    "nl": "Je moet inderdaad veel woorden leren.",
+    "tr": "Gerçekten çok fazla kelime öğrenmelisin."
+  },
+  {
+    "nl": "Dat gaat het beste als je de teksten vaak herhaalt.",
+    "tr": "Metinleri sık sık tekrarlarsanız bu en iyi sonucu verir."
+  },
+  {
+    "nl": "Heb je dat al gedaan?",
+    "tr": "Bunu zaten yaptın mı?"
+  },
+  {
+    "nl": "Ja, dat kost tijd!",
+    "tr": "Evet, bu zaman alır!"
+  },
+  {
+    "nl": "Je moet voldoende tijd besteden aan het leren van een nieuwe taal.",
+    "tr": "Yeni bir dil öğrenmek için yeterince zaman harcamalısın."
+  },
+  {
+    "nl": "Is Nederlands leren dus makkelijk of moeilijk?",
+    "tr": "Peki Hollandaca öğrenmek kolay mı yoksa zor mu?"
+  },
+  {
+    "nl": "Dat is een mooi onderwerp voor een discussie!",
+    "tr": "Bu bir tartışma için iyi bir konu!"
+  },
+  {
+    "nl": "Wat vind jij? Wat is jouw mening?",
+    "tr": "Ne düşünüyorsun? Senin görüşün nedir?"
+  },
+  {
+    "nl": "Hallo Fred , waar was je vrijdag?",
+    "tr": "Merhaba Fred, Cuma günü neredeydin?"
+  },
+  {
+    "nl": "Ik heb je gemist in de les.",
+    "tr": "Seni sınıfta özledim."
+  },
+  {
+    "nl": "Hallo Anita. Een goede vriend van mij ging trouwen en ik was zijn getuige.",
+    "tr": "Merhaba Anita. İyi bir arkadaşım evleniyordu ve ben onun sahidiydim."
+  },
+  {
+    "nl": "Daarom kon ik niet naar de les komen.",
+    "tr": "Bu yüzden derse gelemedim."
+  },
+  {
+    "nl": "Was het een mooie dag?",
+    "tr": "Güzel bir gün müydü?"
+  },
+  {
+    "nl": "Ja zeker. Eerst gingen we naar het gemeentehuis voor het officiële deel.",
+    "tr": "Evet elbette. Önce resmi kısım için belediye binasına gittik."
+  },
+  {
+    "nl": "Dat is verplicht in Nederland.",
+    "tr": "Bu Hollanda'da zorunludur."
+  },
+  {
+    "nl": "De ambtenaar vertelde hoe het paar elkaar had ontmoet.",
+    "tr": "Yetkili, çiftin nasıl tanıştığını anlattı."
+  },
+  {
+    "nl": "Daarna was er een dienst in de kerk.",
+    "tr": "Sonra kilisede bir ayin vardı."
+  },
+  {
+    "nl": "Die maakte veel indruk op mij.",
+    "tr": "Bu bende büyük bir etki yarattı."
+  },
+  {
+    "nl": "Mijn vriend en zijn man beloofden om altijd bij elkaar te blijven en voor elkaar te zorgen.",
+    "tr": "Erkek arkadaşım ve kocası her zaman birlikte kalacaklarına ve birbirlerine bakacaklarına söz verdiler."
+  },
+  {
+    "nl": "Trouwde je vriend met een man?",
+    "tr": "Erkek arkadaşın bir erkekle evlendi mi?"
+  },
+  {
+    "nl": "Dat hoor je niet zo vaak!",
+    "tr": "Bunu çok sık duymuyorsunuz!"
+  },
+  {
+    "nl": "Kun je dat eigenlijk wel beloven?",
+    "tr": "Buna gerçekten söz verebilir misin?"
+  },
+  {
+    "nl": "Dat je altijd bij elkaar blijft?",
+    "tr": "Her zaman birlikte kaldığınızı mı?"
+  },
+  {
+    "nl": "Ik heb gehoord dat 40% van alle huwelijken eindigt in een scheiding.",
+    "tr": "Tüm evliliklerin %40'ının boşanmayla sonuçlandığını duydum."
+  },
+  {
+    "nl": "Wat ben jij negatief!",
+    "tr": "Ne kadar olumsuzsun!"
+  },
+  {
+    "nl": "Mijn vrienden zijn zo gelukkig samen.",
+    "tr": "Arkadaşlarım birlikte çok mutlular."
+  },
+  {
+    "nl": "Ik vond het geweldig en ga het zelf ooit ook zo doen.",
+    "tr": "Bunu sevdim ve bir gün kendim de böyle yapacağım."
+  },
+  {
+    "nl": "Was er ook een feest?",
+    "tr": "Parti de var mıydı?"
+  },
+  {
+    "nl": "Ja zeker. Er was een groot feest.",
+    "tr": "Evet elbette. Büyük bir parti vardı."
+  },
+  {
+    "nl": "De zaal was helemaal vol.",
+    "tr": "Salon tamamen doluydu."
+  },
+  {
+    "nl": "Er waren wel 150 gasten aanwezig.",
+    "tr": "Yaklaşık 150 davetli katıldı."
+  },
+  {
+    "nl": "De ouders vertelden over vroeger en alle gasten moesten een lied zingen.",
+    "tr": "Ebeveynler geçmişi anlattı ve tüm konuklar bir şarkı söylemek zorunda kaldı."
+  },
+  {
+    "nl": "Natuurlijk was er ook wat te eten en was er gezellige muziek.",
+    "tr": "Tabii ki yiyecek bir şeyler de vardı ve güzel bir müzik vardı."
+  },
+  {
+    "nl": "Ik wil zulke feesten vreselijk.",
+    "tr": "Böyle partileri kotu buluyorum."
+  },
+  {
+    "nl": "Ik zou zelf nooit trouwen.",
+    "tr": "Ben sahsen asla evlenmezdim."
+  },
+  {
+    "nl": "Mijn doel is om eerst mijn opleiding af te maken.",
+    "tr": "Amacım önce eğitimimi bitirmek."
+  },
+  {
+    "nl": "Daarna wil ik pas een relatie.",
+    "tr": "Ancak o zaman bir ilişki istiyorum."
+  },
+  {
+    "nl": "Trouwen is helemaal niet nodig.",
+    "tr": "Evlilik hiç gerekli değildir."
+  },
+  {
+    "nl": "Als je gaat samenwonen kun je alle belangrijke zaken regelen.",
+    "tr": "Birlikte ysadiginizda, tüm önemli şeyleri düzenleyebilirsiniz."
+  },
+  {
+    "nl": "Als je dat officieel registreert, heb je dezelfde rechten als bij een huwelijk.",
+    "tr": "Bunu resmi olarak kaydettirirseniz, evlilikle aynı haklara sahipsiniz."
+  },
+  {
+    "nl": "Of je kunt een relatie hebben, maar apart blijven wonen.",
+    "tr": "Veya bir ilişki içinde olabilirsiniz, ancak ayrı yaşayabilirsiniz."
+  },
+  {
+    "nl": "Dat lijkt me heerlijk rustig!",
+    "tr": "Bu bana çok huzurlu geliyor!"
+  },
+  {
+    "nl": "Ik wil wel trouwen.",
+    "tr": "Ben evlenmek istiyorum"
+  },
+  {
+    "nl": "Ik vind het huwelijk een prachtig symbool voor de bijzondere band tussen twee mensen.",
+    "tr": "Bence evlilik, iki insan arasındaki özel bağın harika bir sembolü."
+  },
+  {
+    "nl": "En ik houd van tradities.",
+    "tr": "Ve gelenekleri severim."
+  },
+  {
+    "nl": "In onze samenleving spelen tradities een belangrijke rol.",
+    "tr": "Gelenekler toplumumuzda önemli bir rol oynamaktadır."
+  },
+  {
+    "nl": "Ik wil ook niet te lang wachten met kinderen krijgen.",
+    "tr": "Çocuk sahibi olmak için fazla beklemek istemiyorum."
+  },
+  {
+    "nl": "Het is voor de kinderen toch veel leuker om een jonge vader en moeder te hebben?",
+    "tr": "Genç bir anne ve babaya sahip olmak çocuklar için çok daha eğlenceli değil mi?"
+  },
+  {
+    "nl": "Hoe ziet Nederland eruit?",
+    "tr": "Hollanda neye benziyor?"
+  },
+  {
+    "nl": "Ten eerste: het is een klein land op de kaart van de wereld.",
+    "tr": "Birincisi, dünya haritasında küçük bir ülke."
+  },
+  {
+    "nl": "Van noord naar zuid is de afstand ongeveer 300 kilometer, vn west naar oost is de afstand ongeveer 200 kiometer.",
+    "tr": "Kuzeyden güneye mesafe yaklaşık 300 kilometre, batıdan doğuya mesafe yaklaşık 200 kilometredir."
+  },
+  {
+    "nl": "De grens met België en Duitsland overal dichtbij.",
+    "tr": "Belçika ve Almanya ile olan sınırlar her yere yakındır."
+  },
+  {
+    "nl": "Ten tweede: het is een vlak land.",
+    "tr": "İkincisi, düz bir ülkedir."
+  },
+  {
+    "nl": "Bergen vind je hier niet.",
+    "tr": "Burada dağ bulamazsınız."
+  },
+  {
+    "nl": "Behalve in het zuiden, in de provincie Limburg.",
+    "tr": "Güneydekiler hariç, Limburg ilinde."
+  },
+  {
+    "nl": "Daar is een bergje. En daar zijn we trots op.",
+    "tr": "Bir dağ var. Ve bununla gurur duyuyoruz."
+  },
+  {
+    "nl": "Ik zag er een hotel met de naam Klein Zwitserland.",
+    "tr": "Orada Küçük İsviçre adında bir otel gördüm."
+  },
+  {
+    "nl": "Ten derde: het is een laag land.",
+    "tr": "Üçüncüsü, alcak bir ülkedir."
+  },
+  {
+    "nl": "De laagste gebieden liggen in het westen.",
+    "tr": "En alçak alanlar batıdadır."
+  },
+  {
+    "nl": "Een groot deel van ons land ligt onder zeeniveau: bijna de helft.",
+    "tr": "Ülkemizin büyük bir bölümü deniz seviyesinin altında: neredeyse yarısı."
+  },
+  {
+    "nl": "Met dijken en dammen houden we het land droog.",
+    "tr": "Bentler ve barajlarla toprağı kuru tutuyoruz."
+  },
+  {
+    "nl": "Sommige stukken land liggen in zee.",
+    "tr": "Bazı kara parçaları denizde uzanır."
+  },
+  {
+    "nl": "Dat zijn de eilanden in het noorden en het zuidwesten.",
+    "tr": "Bunlar kuzey ve güneybatıdaki adalardır."
+  },
+  {
+    "nl": "Ten vierde: het is een land met veel water.",
+    "tr": "Dördüncüsü: Suyu bol bir ülkedir."
+  },
+  {
+    "nl": "Overal lopen rivieren, overal zie je schepen.",
+    "tr": "Nehirler her yerde akar, gemiler her yerdedir."
+  },
+  {
+    "nl": "We hebben niet alleen veel wegen over land in Nederland, maar ook veel wegen over water.",
+    "tr": "Hollanda'da sadece karada çok fazla yolumuz yok, aynı zamanda su üzerinde de birçok yolumuz var."
+  },
+  {
+    "nl": "Ook daar zijn we trots op.",
+    "tr": "Bununla da gurur duyuyoruz."
+  },
+  {
+    "nl": "Maar al dat water vormt ook een enorm gevaar.",
+    "tr": "Ancak tüm bu su aynı zamanda büyük bir tehlike oluşturuyor."
+  },
+  {
+    "nl": "Als de dijken of dammen breken, gebeurt er een ramp.",
+    "tr": "Bentler veya barajlar kırılırsa felaket olur."
+  },
+  {
+    "nl": "De laatste keer dat gebeurde was in 1953.",
+    "tr": "En son 1953'te oldu."
+  },
+  {
+    "nl": "Kan dat nog eens gebeuren?",
+    "tr": "Bu tekrar olabilir mi?"
+  },
+  {
+    "nl": "Tja, het zeeniveau stijgt, dus...",
+    "tr": "Deniz seviyesi yükseliyor, yani..."
+  },
+  {
+    "nl": "Is Nederland ook een groen land?",
+    "tr": "Hollanda da yeşil bir ülke mi?"
+  },
+  {
+    "nl": "Misschien moeten we over enkele jaren zeggen: Nederland was groen.",
+    "tr": "Belki birkaç yıl sonra şöyle demeliyiz: Hollanda yeşildi."
+  },
+  {
+    "nl": "Overal wordt gebouwd.",
+    "tr": "Her yerde inşaat var."
+  },
+  {
+    "nl": "Hier en daar zie je nog wel wat groene gebieden.",
+    "tr": "Hala burada ve orada bazı yeşil alanlar görebilirsiniz."
+  },
+  {
+    "nl": "Maar die worden steeds kleiner, doordat de dorpen en steden groeien.",
+    "tr": "Ama köyler ve kasabalar büyüdükçe küçülüyorlar."
+  },
+  {
+    "nl": "Er is veel ruimte nodig voor al die woningen, wegen en bedrijven.",
+    "tr": "Tüm bu evler, yollar ve işletmeler için çok fazla alana ihtiyaç vardır."
+  },
+  {
+    "nl": "Daardoor is er niet genoeg ruimte voor natuur.",
+    "tr": "Sonuç olarak, doğa için yeterli alan yoktur."
+  },
+  {
+    "nl": "Ten slotte:is het mooi land?",
+    "tr": "Son olarak: güzel bir ülke mi?"
+  },
+  {
+    "nl": "Tja, wat noem je mooi?",
+    "tr": "Peki güzel dediğin nedir?"
+  },
+  {
+    "nl": "Ik zelf vind de stranden `t mooiste.",
+    "tr": "Şahsen sahillerin en güzeli olduğunu düşünüyorum."
+  },
+  {
+    "nl": "De brede stranden. Waar vind je zoiets?",
+    "tr": "Geniş plajlar. Böyle bir şeyi nereden buluyorsun?"
+  },
+  {
+    "nl": "Laatst reed de politie achter mij op de weg.",
+    "tr": "Geçenlerde polis yolda arkamdan sürdü."
+  },
+  {
+    "nl": "Toen ik die zag dacht ik direct: O, help, deed ik iets verkeerd?",
+    "tr": "Bunu görünce hemen düşündüm: Ah, yardım edin, yanlış bir şey mi yaptım?"
+  },
+  {
+    "nl": "Vreemd he, dat gevoel dat je iets verkeerds doet als je de politie ziet?",
+    "tr": "Garip, değil mi, polisi gördüğünde yanlış bir şey yapıyormuşsun hissi?"
+  },
+  {
+    "nl": "Eigenlijk is dat raar, want de politie helpt ons vaak.",
+    "tr": "Bu gerçekten garip çünkü polis bize sık sık yardım ediyor."
+  },
+  {
+    "nl": "Als er een ongeluk is gebeurd, belt de politie het ziekenhuis.",
+    "tr": "Kaza olursa polis hastaneyi arar."
+  },
+  {
+    "nl": "Rijd je te hard of door rood?",
+    "tr": "Hız mı yapıyorsun yoksa kırmızı ışıkta mı geçiyorsun?"
+  },
+  {
+    "nl": "Dan maakt de politie een mooie foto van je.",
+    "tr": "Sonra polis senin güzel bir resmini çekecek."
+  },
+  {
+    "nl": "Fiets je zonder licht?",
+    "tr": "Işıksız bisiklet sürer misin?"
+  },
+  {
+    "nl": "De politie wijst je op de gevaren, als je tenminste eerst een kleine boete betaalt.",
+    "tr": "Önce küçük bir para cezası öderseniz, polis tehlikelere dikkat çekecektir."
+  },
+  {
+    "nl": "Heb je vijf biertjes gedronken, en denk je dat je nog kan rijden?",
+    "tr": "Beş bira içtin mi ve hâlâ araba kullanabileceğini düşünüyor musun?"
+  },
+  {
+    "nl": "Een agent zorgt dat je auto veilig aankomt bij het politiebureau!",
+    "tr": "Bir polis, arabanızın karakola güvenli bir şekilde ulaştığından emin olur!"
+  },
+  {
+    "nl": "Geef je een feestje en is de muziek overal te horen?",
+    "tr": "Bir parti mi veriyorsunuz ve müzik her yerde duyulabiliyor mu?"
+  },
+  {
+    "nl": "Een agent toont belangstelling: hoe lang gaat het nog duren?",
+    "tr": "Bir memur ilgi gösterir: ne kadar sürecek?"
+  },
+  {
+    "nl": "Koop je een fiets voor tien euro van een onbekende op straat?",
+    "tr": "Sokaktaki bir yabancıdan on avroya bisiklet alır mısınız?"
+  },
+  {
+    "nl": "De politie legt uit: je mag niet stelen, maar een gestolen fiets kopen mag ook niet.",
+    "tr": "Polis açıklıyor: Çalmanıza izin verilmiyor, ancak çalıntı bisiklet satın almanıza da izin verilmiyor."
+  },
+  {
+    "nl": "Mijn conclusie is dus: de politie is je beste vriend!",
+    "tr": "Benim sonucum şu: polis senin en iyi arkadaşın!"
+  },
+  {
+    "nl": "Daar ben ik het helemaal mee eens.",
+    "tr": "Buna kesinlikle katılıyorum."
+  },
+  {
+    "nl": "Vorige maand is er bij ons ingebroken.",
+    "tr": "Geçen ay evimize hırsız girdi."
+  },
+  {
+    "nl": "De politie kwam meteen en was zeer aardig.",
+    "tr": "Polis hemen geldi ve çok iyi davrandı."
+  },
+  {
+    "nl": "De volgende dag kwam een andere agent bij ons thuis onderzoek doen.",
+    "tr": "Ertesi gün başka bir ajan araştırmak için evimize geldi."
+  },
+  {
+    "nl": "Dat is nog niet klaar, maar ik hoop dat ze de zaak snel oplossen.",
+    "tr": "Henüz bitmedi ama umarım sorunu bir an önce çözerler."
+  },
+  {
+    "nl": "De politie m`n beste vriend?",
+    "tr": "Polis benim en iyi arkadaşım mı?"
+  },
+  {
+    "nl": "Laat me niet lachen.",
+    "tr": "Beni güldürme."
+  },
+  {
+    "nl": "Ik heb slechte ervaringen met de politie.",
+    "tr": "Polisle kötü deneyimlerim oldu."
+  },
+  {
+    "nl": "Een paar maanden geleden was mijn fiets gestolen.",
+    "tr": "Bisikletim birkaç ay önce çalındı."
+  },
+  {
+    "nl": "Een vriend van me zei dat ik aangifte moest doen.",
+    "tr": "Bir arkadaşım rapor vermemi söyledi."
+  },
+  {
+    "nl": "Het schijnt dat er ieder jaar duizenden gestolen fietsen op het politiebureau blijven staan omdat niemand ze komt halen.",
+    "tr": "Görünüşe göre her yıl binlerce çalıntı bisiklet, kimse onları almaya gelmediği için karakola bırakılıyor."
+  },
+  {
+    "nl": "Nou, ik heb via internet aangifte gedaan en er niets meer van gehoord.",
+    "tr": "İnternet üzerinden şikayette bulundum ve herhangi bir dönüş alamadım."
+  },
+  {
+    "nl": "Zoiets doet een vriend toch niet?!",
+    "tr": "Bir arkadaş boyle yapar mi?!"
+  },
+  {
+    "nl": "Gefeliciteerd met je verjaardag!",
+    "tr": "Doğum günün kutlu olsun!"
+  },
+  {
+    "nl": "En nog vele jaren, he?",
+    "tr": "Ve daha nice yıllar, ha?"
+  },
+  {
+    "nl": "Dank je wel. Leuk dat je er bent.",
+    "tr": "Teşekkürler. Burada olman güzel."
+  },
+  {
+    "nl": "Alsjeblieft, ik heb een cadeautje voor je meegebracht.",
+    "tr": "Lütfen, sana bir hediye getirdim."
+  },
+  {
+    "nl": "O wat aardig. Ik kijk meteen even...",
+    "tr": "Oh! Ne kadar da güzel. hemen bakayım..."
+  },
+  {
+    "nl": "O , daar ben ik erg blij mee. Bedankt!",
+    "tr": "Ah, buna çok sevindim. Teşekkürler!"
+  },
+  {
+    "nl": "Het eten een drinken staat op die tafel daar.",
+    "tr": "Yiyecek ve içecek oradaki masada."
+  },
+  {
+    "nl": "Het is bedoeling dat je alles zelf pakt.",
+    "tr": "Her şeyi kendin almalısın."
+  },
+  {
+    "nl": "We spreken elkaar straks nog uitgebreid.",
+    "tr": "Daha sonra uzun uzun konuşacağız."
+  },
+  {
+    "nl": "Wanneer geven we in Nederland een feest?",
+    "tr": "Hollanda'da ne zaman bir partimiz var?"
+  },
+  {
+    "nl": "Meestal vanwege een verjaardag of ter gelegenheid van een examen.",
+    "tr": "Genellikle doğum günü veya sınav vesilesiyle."
+  },
+  {
+    "nl": "Soms vanwege een andere bijzondere gebeurtenis.",
+    "tr": "Bazen başka bir özel olay yüzünden."
+  },
+  {
+    "nl": "Je hebt bijvoorbeeld een mooie baan gevonden.",
+    "tr": "Örneğin, güzel bir iş buldunuz."
+  },
+  {
+    "nl": "Of een van je kinderen is 18 jaar geworden.",
+    "tr": "Veya çocuklarınızdan biri 18 yaşına bastı."
+  },
+  {
+    "nl": "Of je bent 25 jaar getrouwd.",
+    "tr": "Veya 25 yıldır evlisiniz."
+  },
+  {
+    "nl": "En zo kun je nog mee redenen voor een feest bedenken.",
+    "tr": "Ve böylece bir parti için sebepler düşünebilirsiniz."
+  },
+  {
+    "nl": "Naast dit soort feesten kennen we ook nationale feestdagen.",
+    "tr": "Bu tür kutlamaların yanı sıra milli bayramlarımız da vardır."
+  },
+  {
+    "nl": "Op 27 april is het Koningsdag.",
+    "tr": "Kral Günü 27 Nisan."
+  },
+  {
+    "nl": "Iedereen heeft dan vrij.",
+    "tr": "O zaman herkes tatil."
+  },
+  {
+    "nl": "Er gebeurt van alles op straat.",
+    "tr": "Sokakta çok şey oluyor."
+  },
+  {
+    "nl": "De koning en koningin bezoeken elk jaar een bepaalde stad.",
+    "tr": "Kral ve kraliçe her yıl belirli bir şehri ziyaret eder."
+  },
+  {
+    "nl": "Op 5 Mei vieren we het einde van de Tweede Wereldoorlog.",
+    "tr": "5 Mayıs'ta İkinci Dünya Savaşı'nın bitişini kutluyoruz."
+  },
+  {
+    "nl": "Op 4 Mei zijn we om acht uur twee minuten stil ter herinnering aan de slachtoffers van die oorlog.",
+    "tr": "4 Mayıs'ta bu savaşın kurbanlarının anısına saat sekizde iki dakika sessiz duruyoruz."
+  },
+  {
+    "nl": "Op 5 December is het Sinterklaas.",
+    "tr": "5 Aralık'ta Sinterklaas."
+  },
+  {
+    "nl": "Sinterklaas brengt cadeautjes uit Spanje voor alle kinderen en veel volwassenen.",
+    "tr": "Sinterklaas, İspanya'dan tüm çocuklara ve birçok yetişkine hediyeler getiriyor."
+  },
+  {
+    "nl": "Soms brengt Sinterklaas ze persoonlijk.",
+    "tr": "Bazen Sinterklaas onları kişisel olarak getirir."
+  },
+  {
+    "nl": "En hij schrijft ook bij elk cadeau een gedicht in het Nederlands. Knap he!",
+    "tr": "Ayrıca her hediyeyle birlikte Hollandaca bir şiir yazar.guzel ha!"
+  },
+  {
+    "nl": "Kerst, op 25 december, is een belangrijk christelijk feest.",
+    "tr": "25 Aralık'ta Noel, önemli bir Hıristiyan bayramıdır."
+  },
+  {
+    "nl": "Veel mensen gaan tussen Kerst en Nieuwjaar op vakantie vanwege de vele vrije dagen.",
+    "tr": "Pek çok insan, tatil günleri nedeniyle Noel ve Yeni Yıl arasında tatile gider."
+  },
+  {
+    "nl": "Een belangrijke feestdag voor moslims is het Suikerfeest.",
+    "tr": "Şeker Bayramı Müslümanlar için önemli bir bayramdır."
+  },
+  {
+    "nl": "De datum van dat feest verschilt echter van jaar tot jaar.",
+    "tr": "Ancak bu bayramın tarihi yıldan yıla değişmektedir."
+  },
+  {
+    "nl": "In het westen van Nederland ligt een gebied dat de Randstad heet.",
+    "tr": "Hollanda'nın batısında Randstad adı verilen bir bölge var."
+  },
+  {
+    "nl": "Het bestaat uit Zuid-Holland, delen van Noord-Holland en Utrecht.",
+    "tr": "Güney Hollanda, Kuzey Hollanda ve Utrecht'ten oluşur."
+  },
+  {
+    "nl": "De vier grote steden liggen erin:Amsterdam, Rotterdam, Den Haag en Utrecht.",
+    "tr": "Dört büyük şehir içinde bulunur: Amsterdam, Rotterdam, Lahey ve Utrecht."
+  },
+  {
+    "nl": "In feite kun je de Randstad beschouwen als een geheel.",
+    "tr": "Aslında Randstad'ı bir bütün olarak düşünebilirsiniz."
+  },
+  {
+    "nl": "De Randstad ligt op een goede plek, direct aan zee.",
+    "tr": "Randstad, denizin hemen yanında iyi bir konumdadır."
+  },
+  {
+    "nl": "De haven van Rotterdam is niet toevallig de grootste van heel Europa.",
+    "tr": "Rotterdam limanının tüm Avrupa'nın en büyüğü olması tesadüf değildir."
+  },
+  {
+    "nl": "Amsterdam heeft een vliegveld-Schiphol- dat tot de grootste van wereld behoort.",
+    "tr": "Amsterdam'da dünyanın en büyüklerinden biri olan Schiphol adlı bir havaalanı vardır."
+  },
+  {
+    "nl": "Zowel per schip als per vliegtuig is dit gebied vanuit de hele wereld dus simpel te bereiken.",
+    "tr": "Bu alana bu nedenle dünyanın her yerinden gemi ve uçakla ulaşmak kolaydır."
+  },
+  {
+    "nl": "Je begrijpt dat veel bedrijven om die reden hier zijn gevestigd.",
+    "tr": "Birçok şirketin bu nedenle burada yer aldığını anlıyorsunuz."
+  },
+  {
+    "nl": "Voor de handel zijn groente en fruit zeer belangrijk.",
+    "tr": "Meyve ve sebzeler ticaret için çok önemlidir."
+  },
+  {
+    "nl": "En bloemen.",
+    "tr": "Ve çiçekler."
+  },
+  {
+    "nl": "Ga maar eens naar de Keukenhof.",
+    "tr": "Sadece Keukenhof'a git."
+  },
+  {
+    "nl": "Daar zie je al die bloemen bij elkaar.",
+    "tr": "Orada bütün o çiçekleri bir arada görüyorsun."
+  },
+  {
+    "nl": "Het logische gevolg hiervan is dat er veel werk is.",
+    "tr": "Bunun mantıksal sonucu, çok fazla iş olmasıdır."
+  },
+  {
+    "nl": "Daardoor kan je hier gemakkelijk werk vinden.",
+    "tr": "Bu, burada iş bulmanızı kolaylaştırır."
+  },
+  {
+    "nl": "Het gevolg daarvan is dat er veel mensen in de Randstad wonen.",
+    "tr": "Sonuç olarak, Randstad'da birçok insan yaşıyor."
+  },
+  {
+    "nl": "In de Randstad woont 40 procent van de Nederlandse bevolking, terwijl het gebied 1/5 deel van Nederland is.",
+    "tr": "Hollanda nüfusunun %40'ı Randstad'da yaşarken, bölge Hollanda'nın 1/5'i kadardır."
+  },
+  {
+    "nl": "Er is weinig ruimte voor al die mensen.",
+    "tr": "Bütün bu insanlar için çok az yer var."
+  },
+  {
+    "nl": "Een groot probleem is het gebrek aan geschikte woningen.",
+    "tr": "Önemli bir sorun uygun konut eksikliğidir."
+  },
+  {
+    "nl": "Ook de prijzen van woningen in dit gebied zijn veel hoger dan elders.",
+    "tr": "Bu bölgedeki evlerin fiyatları da diğer yerlere göre çok daha yüksek."
+  },
+  {
+    "nl": "In de grote steden moet je lang zoeken.",
+    "tr": "Büyük şehirlerde uzun süre aramanız gerekiyor."
+  },
+  {
+    "nl": "Gezinnen met kinderen willen graag een huis met een tuin.",
+    "tr": "Çocuklu aileler bahçeli bir ev isterler."
+  },
+  {
+    "nl": "Maar die zijn er nauwelijks, of ze zijn te duur.",
+    "tr": "Ama neredeyse hiç yok ya da çok pahalılar."
+  },
+  {
+    "nl": "Om die reden gaan veel mensen buiten de stad wonen, terwijl ze in de stad werken.",
+    "tr": "Bu nedenle birçok insan şehirde çalışırken şehir dışında yaşamak için hareket eder."
+  },
+  {
+    "nl": "Vandaar dat het op de wegen bijna altijd druk is.",
+    "tr": "Bu yüzden yollarda neredeyse her zaman meşgul."
+  },
+  {
+    "nl": "De file is een lastig probleem.",
+    "tr": "Trafik sıkışıklığı zor bir sorundur."
+  },
+  {
+    "nl": "Twee keer per dag zit het verkeer volledig vast.",
+    "tr": "Trafik günde iki kez tamamen bloke edilir."
+  },
+  {
+    "nl": "En dat heeft negatieve gevolgen, onder andere voor de kwaliteit van de lucht.",
+    "tr": "Ve bunun, örneğin havanın kalitesi için olumsuz sonuçları vardır."
+  },
+  {
+    "nl": "En men verliest enorm veel tijd.",
+    "tr": "Ve çok zaman kaybedilir."
+  },
+  {
+    "nl": "In de Randstad wonen veel mensen uit het buitenland.",
+    "tr": "Randstad'da yurt dışından birçok insan yaşıyor."
+  },
+  {
+    "nl": "Neem Amsterdam, met 176 Nationaliteiten!",
+    "tr": "176 Uyruk ile Amsterdam'ı ele alalım!"
+  },
+  {
+    "nl": "Mensen uit allerlei landen, van Angola tot zweden.",
+    "tr": "Angola'dan İsveç'e dünyanın her yerinden insanlar."
+  },
+  {
+    "nl": "Neem de tram en luister. Je hoort heel wat verschillende talen.",
+    "tr": "Tramvaya binin ve dinleyin. Birçok farklı dil duyarsınız."
+  },
+  {
+    "nl": "Herken je ze? Zit jouw taal er ook bij?",
+    "tr": "Onları tanıyor musun? Sizin diliniz de dahil mi?"
+  },
+  {
+    "nl": "Wat betekent vrije tijd voor jou?",
+    "tr": "Boş zaman sizin için ne ifade ediyor?"
+  },
+  {
+    "nl": "Van je rust genieten of juist actief zijn?",
+    "tr": "Dinlenmenin tadını çıkarmak mı yoksa aktif olmak mı?"
+  },
+  {
+    "nl": "Ik ben erg actief in mijn vrije tijd.",
+    "tr": "Boş zamanlarımda çok aktifim."
+  },
+  {
+    "nl": "Ik heb`t drukker dan op m`n werk.",
+    "tr": "İşten daha meşgulüm."
+  },
+  {
+    "nl": "Wie of wat bepaalt de manier waarop je je vrije tijd besteedt?",
+    "tr": "Boş zamanınızı nasıl geçireceğinizi kim veya ne belirler?"
+  },
+  {
+    "nl": "Familie, vrienden, de media?",
+    "tr": "Aile, arkadaşlar, medya?"
+  },
+  {
+    "nl": "Mijn vrienden hebben daar invloed op maar ook de media.",
+    "tr": "Arkadaşlarım bunu etkiliyor, ama medya da öyle."
+  },
+  {
+    "nl": "Via de media weet ik precies wat er te doen is.",
+    "tr": "Medya sayesinde tam olarak ne yapacağımı biliyorum."
+  },
+  {
+    "nl": "Besteed je normaal gesproken meer tijd aan cultuur of aan sport?",
+    "tr": "Normalde kültüre mi yoksa spora mı daha fazla zaman ayırırsınız?"
+  },
+  {
+    "nl": "Ik heb voor cultuur als voor sport.",
+    "tr": "Spor için olduğu kadar kültür için de var."
+  },
+  {
+    "nl": "Kom je wel eens in een museum?",
+    "tr": "Hiç müze ziyaret eder misin?"
+  },
+  {
+    "nl": "Ga je wel eens naar een film of bezoek je een concert?",
+    "tr": "Hiç sinemaya veya konsere gittin mi?"
+  },
+  {
+    "nl": "Ik ga vaak naar de film, bij voorkeur naar serieuze films.",
+    "tr": "Sık sık sinemaya giderim, tercihen ciddi filmlere."
+  },
+  {
+    "nl": "Verder hou ik enorm van muziek.",
+    "tr": "Ben de müziği çok seviyorum."
+  },
+  {
+    "nl": "Ik ga regelmatig naar een concert.",
+    "tr": "Düzenli olarak konserlere giderim."
+  },
+  {
+    "nl": "Als je sport, waar doe je dat?",
+    "tr": "Egzersiz yapıyorsanız, nerede yapıyorsunuz?"
+  },
+  {
+    "nl": "Ik voetbal graag. In de winter binnen en in de zomer buiten op het veld.",
+    "tr": "Futbol oynamayı severim. Kışın içeride, yazın disarida sahada."
+  },
+  {
+    "nl": "Mijn kinderen zitten ook op voetbal samen met hun vrienden.",
+    "tr": "Çocuklarım da arkadaşlarıyla futbol oynuyor."
+  },
+  {
+    "nl": "Ik wandel ook graag. Het liefst alleen.",
+    "tr": "Ben de yürümeyi severim. Tercihen yalnız."
+  },
+  {
+    "nl": "Een mooie gelegenheid om rustig na te denken.",
+    "tr": "Sessizce düşünmek için harika bir fırsat."
+  },
+  {
+    "nl": "Ga je vaak uit? Naar het cafe, of uit eten in een restaurant?",
+    "tr": "Sık sık dışarı çıkar mısın? Kafeye mi yoksa bir restoranda akşam yemeğine mi?"
+  },
+  {
+    "nl": "Ik ga vrijwel elke zaterdag uit met vrienden.",
+    "tr": "Neredeyse her cumartesi arkadaşlarımla dışarı çıkarım."
+  },
+  {
+    "nl": "We drinken wat, praten veel en gaan vaak dansen.",
+    "tr": "Çok içiyoruz, çok konuşuyoruz ve sık sık dans ediyoruz."
+  },
+  {
+    "nl": "Dan zijn we gezellig samen en we krijgen ook nog veel beweging.",
+    "tr": "Sonra birlikte iyi vakit geçiririz ve ayrıca bol bol egzersiz yaparız."
+  },
+  {
+    "nl": "Restaurants vind ik te duur.",
+    "tr": "Bence restoranlar çok pahalı."
+  },
+  {
+    "nl": "Ik nodig liever gasten bij mij thuis uit.",
+    "tr": "Misafirlerimi evime davet etmeyi tercih ederim."
+  },
+  {
+    "nl": "Dan kook ik extra lekker.",
+    "tr": "Sonra ekstra lezzetli yemek yaparım."
+  },
+  {
+    "nl": "Waarmee vul je in het algemeen je vrije tijd als je thuis blijft?",
+    "tr": "Evde kaldığınızda boş zamanınızı genellikle ne ile doldurursunuz?"
+  },
+  {
+    "nl": "Ik zit vaak achter mijn computer ik lees de krant via internet.",
+    "tr": "Sık sık bilgisayarımın başına oturur ve internet üzerinden gazete okurum."
+  },
+  {
+    "nl": "Ik stuur berichten naar vrienden en bel met familie.",
+    "tr": "Arkadaşlarıma mesaj atıp ailemi ararım."
+  },
+  {
+    "nl": "Ik kijk tv als er een spannende voetbalwedstrijd is.",
+    "tr": "Heyecan verici bir futbol maçı olduğunda televizyon izlerim."
+  },
+  {
+    "nl": "Bijvoorbeeld tegen de Belgen.",
+    "tr": "Örneğin Belçikalılara karşı."
+  },
+  {
+    "nl": "Of ik lees een boek. In het Nederlands!",
+    "tr": "Ya da kitap okurum. Flemenkçede!"
+  },
+  {
+    "nl": "Heb je nog hobby`s die we niet genoemd hebben?",
+    "tr": "Bahsetmediğimiz hobileriniz var mı?"
+  },
+  {
+    "nl": "Ben je bijvoorbeeld veel bezig in de tuin?",
+    "tr": "Örneğin, bahçede çok zaman geçiriyor musunuz?"
+  },
+  {
+    "nl": "Nee, de tuin is een hobby van mijn vrouw.",
+    "tr": "Hayır, bahçe karımın hobisidir."
+  },
+  {
+    "nl": "Mijn hobby is mobieltjes en computers die kapot zijn weer in orde maken.",
+    "tr": "Benim hobim bozuk cep telefonlarını ve bilgisayarları onarmak."
+  },
+  {
+    "nl": "Al mijn buren zijn klant bij mij.",
+    "tr": "Bütün komşularım benim müşterimdir."
+  },
+  {
+    "nl": "Goed voor de sociale contacten.",
+    "tr": "Sosyal ilişkiler için iyi."
+  },
+  {
+    "nl": "Werk iedereen in Nederland?",
+    "tr": "Herkes Hollanda'da çalışıyor mu?"
+  },
+  {
+    "nl": "Nee, lang niet iedereen.",
+    "tr": "Hayır, herkes değil."
+  },
+  {
+    "nl": "Tot zestien jaar gaat iedereen verplicht naar school.",
+    "tr": "16 yaşına kadar herkes okula gitmek zorundadır."
+  },
+  {
+    "nl": "Vanaf ongeveer 67 jaar werkt men meestal niet meer.",
+    "tr": "İnsanlar genellikle yaklaşık 67 yaşından itibaren çalışmayı bırakırlar."
+  },
+  {
+    "nl": "Iedereen krijgt dan een pensioen van de staat en vaak ook een pensioen van het bedrijf waar men gewerkt heeft.",
+    "tr": "Daha sonra herkes devletten emekli maaşı alır ve çoğu zaman da çalıştığı şirketten emekli maaşı alır."
+  },
+  {
+    "nl": "Ook zijn er veel mensen die in deeltijd werken, en mensen die te ziek zijn om te werken of die iedere dag voor hun kinderen willen zorgen.",
+    "tr": "Ayrıca yarı zamanlı çalışan birçok insan ve çalışamayacak kadar hasta olan veya her gün çocuklarına bakmak isteyen insanlar var."
+  },
+  {
+    "nl": "Wat zijn de mogelijkheden om hier in Nederland werk te vinden?",
+    "tr": "Burada, Hollanda'da iş bulma olanakları nelerdir?"
+  },
+  {
+    "nl": "Is dat mogelijkheden om hier in Nederland werk te vinden?",
+    "tr": "Burada Hollanda'da iş bulmak mümkün mü?"
+  },
+  {
+    "nl": "Is dat moeilijk?",
+    "tr": "Bu zor mu?"
+  },
+  {
+    "nl": "Het hangt ten eerste af van je beroep.",
+    "tr": "Her şeyden önce, mesleğinize bağlıdır."
+  },
+  {
+    "nl": "In de zorg, het onderwijs en de techniek is meestal grote behoefte aan personeel.",
+    "tr": "Sağlık, eğitim ve teknoloji alanlarında genellikle personele büyük ihtiyaç duyulmaktadır."
+  },
+  {
+    "nl": "Eenvoudig werk verdwijnt vrijwel geheel.",
+    "tr": "Basit işler neredeyse tamamen ortadan kalkar."
+  },
+  {
+    "nl": "Dat soort werk wordt gedaan door machines.",
+    "tr": "Bu tür işler makineler tarafından yapılır."
+  },
+  {
+    "nl": "Opleiding is daarom van groot belang.",
+    "tr": "Bu nedenle eğitim büyük önem taşımaktadır."
+  },
+  {
+    "nl": "Vaak vind je geen vast maar tijdelijk werk.",
+    "tr": "Genellikle kalıcı değil, geçici bir iş bulursaniz."
+  },
+  {
+    "nl": "Dan moet je telkens opnieuw naar werk zoeken.",
+    "tr": "Sonra tekrar tekrar iş aramak zorundasın."
+  },
+  {
+    "nl": "Zijn leeftijd en ervaring belangrijk?",
+    "tr": "Yaş ve deneyim önemli mi?"
+  },
+  {
+    "nl": "Ja, absoluut. Alles wat je ooit gedaan hebt is van belang voor je toekomst, betaald en niet betaald.",
+    "tr": "Evet kesinlikle. Yaptığınız her şey geleceğiniz için önemli, ücretli ve ücretsiz."
+  },
+  {
+    "nl": "Dus stages en vakantiewerk, een baan tijdens je studie of werk voor je ouders.",
+    "tr": "Yani staj ve tatil çalışması, eğitiminiz sırasında bir iş veya aileniz için çalışın."
+  },
+  {
+    "nl": "Alles telt! Jonge mensen hebben als voordeel dat ze nieuwe kennis bezitten.",
+    "tr": "Her şey sayılır! Gençler yeni bilgiye sahip olma avantajına sahiptir."
+  },
+  {
+    "nl": "Ze komen net van school of van de universiteit.",
+    "tr": "Okuldan veya üniversiteden yeni çıktılar."
+  },
+  {
+    "nl": "Bovendien verdienen ze nog niet zoveel.",
+    "tr": "Üstelik o kadar da kazanmıyorlar."
+  },
+  {
+    "nl": "Natuurlijk hebben bedrijven ook mensen met ervaring nodig.",
+    "tr": "Elbette şirketlerin de tecrübeli insanlara ihtiyacı var."
+  },
+  {
+    "nl": "Die zijn meestal wat ouder.",
+    "tr": "Genellikle biraz daha yaşlıdırlar."
+  },
+  {
+    "nl": "Zo zie je maar: jong en oud zijn beide belangrijk.",
+    "tr": "Yani görüyorsunuz: genç ve yaşlı ikisi de önemlidir."
+  },
+  {
+    "nl": "Wat gebeurt er als je ineens werkloos bent of ontslagen?",
+    "tr": "Aniden işsiz kalırsanız veya kovulursanız ne olur?"
+  },
+  {
+    "nl": "Waarvan moet je dan leven?",
+    "tr": "O zaman nasil yasamak zorundasin?"
+  },
+  {
+    "nl": "Als je wordt ontslagen moet de werkgever je meestal nog een aantal maanden loon betalen.",
+    "tr": "İşten çıkarılırsanız, işveren genellikle size birkaç aylık maaşınızı ödemek zorundadır."
+  },
+  {
+    "nl": "Vind je niet snel een nieuwe baan, dan krijg je gedurende enige tijd 70% van je oude loon.",
+    "tr": "Hızlı bir şekilde yeni bir iş bulamazsanız, bir süreliğine eski maaşınızın %70'ini alırsınız."
+  },
+  {
+    "nl": "Als je dan nog steeds geen werk hebt gevonden, krijg je een uitkering van de regering.",
+    "tr": "Hala bir iş bulamadıysanız, devletten bir yardım alacaksınız."
+  },
+  {
+    "nl": "Sommigen vinden dat bedrag te laag, anderen te hoog.",
+    "tr": "Bazıları bu miktarı çok düşük, bazıları ise çok yüksek buluyor."
+  },
+  {
+    "nl": "Daar is discussie over.",
+    "tr": "Bununla ilgili tartışma var."
+  },
+  {
+    "nl": "Heb je eigenlijk al werkervaring?",
+    "tr": "Gerçekten iş tecrüben var mı?"
+  },
+  {
+    "nl": "Wat voor werk doe je, of heb je gedaan?",
+    "tr": "Ne tür bir iş yapıyorsunuz veya yaptınız?"
+  },
+  {
+    "nl": "Nederlanders zijn de langste mensen van Europa.",
+    "tr": "Hollandalılar Avrupa'nın en uzun insanlarıdır."
+  },
+  {
+    "nl": "Ze worden bovendien steeds ouder.",
+    "tr": "Ayrıca, yaşlanıyorlar."
+  },
+  {
+    "nl": "Ze bereiken een hoge leeftijd.",
+    "tr": "Yaşlılığa ulaşırlar."
+  },
+  {
+    "nl": "Gemiddeld zijn de mensen ongeveer 80 als ze overlijden.",
+    "tr": "Ortalama olarak, insanlar öldüklerinde 80 civarındadır."
+  },
+  {
+    "nl": "Ze blijven langer gezond.",
+    "tr": "Daha uzun süre sağlıklı kalırlar."
+  },
+  {
+    "nl": "Wat kun je doen om dat te bereiken?",
+    "tr": "Bunu başarmak için ne yapabilirsiniz?"
+  },
+  {
+    "nl": "Ten eerste moet je goed eten.",
+    "tr": "İlk önce, doğru yemelisin."
+  },
+  {
+    "nl": "Ik haal vaak complete maaltijden.",
+    "tr": "Sık sık eksiksiz yemek yerim."
+  },
+  {
+    "nl": "Maar het schijnt dat je dan te weinig groente eet, en te veel vet.",
+    "tr": "Ama görünüşe göre çok az sebze ve çok fazla yağ yiyorsunuz."
+  },
+  {
+    "nl": "Ook veel suiker is slecht.",
+    "tr": "Fazla şeker de zararlıdır."
+  },
+  {
+    "nl": "Jammer, je wordt te dik en je kunt er ziek van worden.",
+    "tr": "Çok kötü, çok şişmanlarsın ve bu seni hasta edebilir."
+  },
+  {
+    "nl": "Ten tweede is bewegen belangrijk.",
+    "tr": "İkincisi, egzersiz önemlidir."
+  },
+  {
+    "nl": "We hebben benen en voeten om te lopen.",
+    "tr": "Yürüyecek bacaklarımız ve ayaklarımız var."
+  },
+  {
+    "nl": "Dus dat moeten we ook doen!",
+    "tr": "Öyleyse biz de bunu yapmalıyız!"
+  },
+  {
+    "nl": "Goed voor ons hart, en minder kans op rugproblemen.",
+    "tr": "Kalbimiz için iyi ve daha az sırt problemi olasılığı."
+  },
+  {
+    "nl": "Ten derde :veel mensen luisteren naar veel te harde muziek.",
+    "tr": "Üçüncüsü, birçok insan çok yüksek sesli müzik dinler."
+  },
+  {
+    "nl": "Ze krijgen last van hun oren en zo horen daardoor niet meer goed.",
+    "tr": "Kulakları onları rahatsız ediyor ve sonuç olarak artık iyi duyamıyorlar."
+  },
+  {
+    "nl": "Ten vierde:veel alcohol is niet gezond.",
+    "tr": "Dördüncüsü: Çok fazla alkol sağlıklı değildir."
+  },
+  {
+    "nl": "Bovendien is alcohol in het verkeer gevaarlijk.",
+    "tr": "Ayrıca, alkol kullanmak tehlikelidir."
+  },
+  {
+    "nl": "Het leidt tot veel ongelukken.",
+    "tr": "Birçok kazaya neden olur."
+  },
+  {
+    "nl": "Toch neemt het gebruik ervan toe, vooral onder de jeugd.",
+    "tr": "Ancak özellikle gençler arasında kullanımı giderek artmaktadır."
+  },
+  {
+    "nl": "De overheid geeft goede raad:drink geen alcohol!",
+    "tr": "Hükümet iyi tavsiyeler veriyor: alkol içmeyin!"
+  },
+  {
+    "nl": "Sommige artsen beweren echter dat rode wijn goed is voor het hart en het bloed.",
+    "tr": "Ancak bazı doktorlar kırmızı şarabın kalbe ve kana iyi geldiğini iddia ediyor."
+  },
+  {
+    "nl": "Maar hebben ze gelijk?",
+    "tr": "Ama haklılar mı?"
+  },
+  {
+    "nl": "Is het wetenschappelijk bewezen?",
+    "tr": "Bilimsel olarak kanıtlanmış mı?"
+  },
+  {
+    "nl": "Waarschijnlijk is er geen verband, maar ik wil het graag geloven.",
+    "tr": "Muhtemelen bir bağlantı yok, ama buna inanmak istiyorum."
+  },
+  {
+    "nl": "Ik geniet namelijk graag van het leven.",
+    "tr": "Hayattan zevk almayı severim."
+  },
+  {
+    "nl": "Roken is slecht, staat op elk pakje.",
+    "tr": "Sigara kötüdür, her pakette bulunur."
+  },
+  {
+    "nl": "Voor je hart, maar bijvoorbeeld ook voor je stem.",
+    "tr": "Kalbiniz için, aynı zamanda örneğin sesiniz için."
+  },
+  {
+    "nl": "Niet alleen voor jezelf maar ook voor anderen in je buurt.",
+    "tr": "Sadece kendiniz için değil, çevrenizdekiler için de."
+  },
+  {
+    "nl": "Aan jongeren onder de 18 jaar worden geen sigaretten verkocht.",
+    "tr": "18 yaşından küçüklere sigara satılmaz."
+  },
+  {
+    "nl": "Op stations, in cafés, in restaurants, in de bus en de trein en op nog veel meer plaatsen is roken verboden",
+    "tr": "İstasyonlarda, kafelerde, restoranlarda, otobüs ve trende ve daha birçok yerde sigara içmek yasaktır."
+  },
+  {
+    "nl": "Maar stoppen is moeilijk.",
+    "tr": "Ama durmak zordur."
+  },
+  {
+    "nl": "Waarom verbiedt de overheid het dan niet helemaal?",
+    "tr": "Peki hükümet neden tamamen yasaklamıyor?"
+  },
+  {
+    "nl": "Wellicht denken ze daar: niet roken, geen vet eten, geen suiker, geen wijn en geen bier,weg is al het plezier",
+    "tr": "Belki de orada düşünüyorlar: sigara içmek yok, yağlı yemek yok, şeker yok, şarap yok ve bira yok, tüm eğlence gitti"
+  },
+  {
+    "nl": "Daar worden mensen niet gelukkig van.",
+    "tr": "Bu insanları mutlu etmez."
+  },
+  {
+    "nl": "En is dat zo gezond?",
+    "tr": "Ve bu çok sağlıklı mı?"
+  },
+  {
+    "nl": "Elk jaar bezoeken mensen uit veel verschillende landen Nederland.",
+    "tr": "Her yıl birçok farklı ülkeden insanlar Hollanda'yı ziyaret ediyor."
+  },
+  {
+    "nl": "Die komen natuurlijk niet speciaal voor het mooie weer.",
+    "tr": "Tabii ki özellikle güzel havalar için gelmiyorlar."
+  },
+  {
+    "nl": "Wat heeft dit land hun te bieden?",
+    "tr": "Bu ülke onlara ne sunuyor?"
+  },
+  {
+    "nl": "En wat hebben jullie ondertussen gezien van Nederland?",
+    "tr": "Bu arada Hollanda hakkında ne gördünüz?"
+  },
+  {
+    "nl": "Wie begint?Wie durft?Jij Lisa?",
+    "tr": "Kim başlar Kim cesaret eder sen Lisa?"
+  },
+  {
+    "nl": "Ja ik ben samen met een paar vrienden naar Amsterdam geweest.",
+    "tr": "Evet, birkaç arkadaşımla Amsterdam'a gittim."
+  },
+  {
+    "nl": "We hebben de trein genomen.",
+    "tr": "Trene bindik."
+  },
+  {
+    "nl": "Die rijdt vanuit Almere in slechts een half uur rechtstreeks naar Amsterdam. Ideaal!",
+    "tr": "Almere'den Amsterdam'a sadece yarım saat içinde çalışır. İdeal!"
+  },
+  {
+    "nl": "We gingen met de boot door de grachten.",
+    "tr": "Kanallardan tekneyle geçtik."
+  },
+  {
+    "nl": "Dat wilden we een keer meemaken.",
+    "tr": "Bunu bir kez deneyimlemek istedik."
+  },
+  {
+    "nl": "Prachtig al die oude gebouwen uit de zeventiende eeuw langs die grachten!",
+    "tr": "O kanallar boyunca on yedinci yüzyıldan kalma tüm o eski binalar çok güzel!"
+  },
+  {
+    "nl": "Vervolgens zijn we naar het van Gogh museum gegaan.",
+    "tr": "Ardından Van Gogh müzesine gittik."
+  },
+  {
+    "nl": "Je kunt niet zomaar naar binnen, je moet een afspraak maken voor een bepaalde tijd.",
+    "tr": "Öylece giremezsiniz, belirli bir süre için randevu almanız gerekir."
+  },
+  {
+    "nl": "Hoewel we zo`n afspraak hadden, moesten we minstens een half uur wachten voordat we naar binnen konden.",
+    "tr": "Böyle bir randevumuz olmasına rağmen girebilmek için en az yarım saat beklemek zorunda kaldık."
+  },
+  {
+    "nl": "Grote musea trekken nu eenmaal veel publiek.",
+    "tr": "Büyük müzeler sadece geniş bir izleyici kitlesini çeker."
+  },
+  {
+    "nl": "Maar de kunst was de moeite waard.",
+    "tr": "Ama sanat buna değerdi."
+  },
+  {
+    "nl": "Daarna hebben we ergens lekker gegeten en zijn weer naar huis gegaan.",
+    "tr": "Daha sonra güzel bir yemek yedik ve eve gittik."
+  },
+  {
+    "nl": "Binnen de stad namen we telkens de tram.",
+    "tr": "Şehir içinde hep tramvaya bindik."
+  },
+  {
+    "nl": "Die stopt overal.",
+    "tr": "Her yerde durur."
+  },
+  {
+    "nl": "Bedankt voor je verhaal. Wie volgt?",
+    "tr": "Hikayen için teşekkürler. Kim takip ediyor?"
+  },
+  {
+    "nl": "Fred is de volgende.",
+    "tr": "Sıradaki Fred."
+  },
+  {
+    "nl": "In de les over de Randstad hebben we geleerd dat bloemen heel belangrijk zijn voor de Nederlandse handel.",
+    "tr": "Randstad ile ilgili dersimizde çiçeklerin Hollanda ticareti için çok önemli olduğunu öğrendik."
+  },
+  {
+    "nl": "Dat was een goede aanleiding om met mijn vriendin naar Keukenhof te gaan.",
+    "tr": "Bu, kız arkadaşımla Keukenhof'a gitmek için iyi bir nedendi."
+  },
+  {
+    "nl": "Dat is een grote tuin bij Lisse waar bedrijven al die mooie bloemen tonen.",
+    "tr": "Bu, şirketlerin tüm bu güzel çiçekleri sergilediği Lisse yakınlarındaki büyük bir bahçe."
+  },
+  {
+    "nl": "Prachtig wat we daar hebben gezien.",
+    "tr": "Orada gördüklerimiz harika."
+  },
+  {
+    "nl": "Heel veel soorten tulpen in wel 100 kleuren.",
+    "tr": "100 renkte birçok lale türü."
+  },
+  {
+    "nl": "We hebben uiteraard heel wat foto's gemaakt.",
+    "tr": "Elbette bol bol fotoğraf çektik."
+  },
+  {
+    "nl": "En we hebben ook een bekend lied geleerd over tulpen, Amsterdam en liefde.",
+    "tr": "Ayrıca laleler, Amsterdam ve aşk hakkında ünlü bir şarkı öğrendik."
+  },
+  {
+    "nl": "Nou, dat lied heb je vast wel gezongen voor je vriendin. Bedankt!",
+    "tr": "O şarkıyı kız arkadaşına söylemiş olmalısın. Teşekkürler!"
+  },
+  {
+    "nl": "Een volgende keer hoor ik graag of iemand het Deltapark heeft bezocht.",
+    "tr": "Bir dahaki sefere Delta Park'ı ziyaret eden varsa duymak isterim."
+  },
+  {
+    "nl": "Daar zie je hoe Zeeland wordt beschermd tegen het water van de zee.",
+    "tr": "Orada Zeeland'ın denizin sularına karşı nasıl korunduğunu görebilirsiniz."
+  },
+  {
+    "nl": "Men beschouwt dat systeem als een van de zeven moderne wereldwonderen.",
+    "tr": "Dünyanın yedi modern harikasından biri olarak kabul edilir."
+  },
+  {
+    "nl": "Vinden jullie dat terecht?",
+    "tr": "Sence bu doğru mu?"
+  },
+  {
+    "nl": "Alex kwam twee maanden geleden in den haag wonen.",
+    "tr": "Alex iki ay önce Lahey'de yaşamaya geldi."
+  },
+  {
+    "nl": "Hij moest veel regelen.",
+    "tr": "Düzenlemesi gereken çok şey vardı."
+  },
+  {
+    "nl": "Hij moest allerlei formulieren invullen, en gesprekken voeren met heel veel organisaties.",
+    "tr": "Her türlü formu doldurması ve birçok kuruluşla görüşmesi gerekiyordu."
+  },
+  {
+    "nl": "Je kunt Nederland bezoeken met een paspoort of een visum.",
+    "tr": "Hollanda'yı pasaport veya vize ile ziyaret edebilirsiniz."
+  },
+  {
+    "nl": "Maar Alex wilde langer blijven en komt niet uit een EU-land.",
+    "tr": "Ancak Alex daha uzun kalmak istedi ve bir AB ülkesinden değil."
+  },
+  {
+    "nl": "Daarom had hij een verblijfsvergunning nodig,",
+    "tr": "Bu yüzden oturma iznine ihtiyacı vardı,"
+  },
+  {
+    "nl": "Die kreeg hij van de IND, de immigratiedienst.",
+    "tr": "Göçmenlik servisi olan IND'den almış."
+  },
+  {
+    "nl": "Hij moest ook een inburgeringstoets doen.",
+    "tr": "Ayrıca bir entegrasyon testi yapması gerekiyordu."
+  },
+  {
+    "nl": "Ze zeiden dat hij kennis van de taal en van het land moest bezitten.",
+    "tr": "Dil ve ülke bilgisine sahip olması gerektiğini söylediler."
+  },
+  {
+    "nl": "Dat is voor sommigen verplicht.",
+    "tr": "Bu bazıları için zorunludur."
+  },
+  {
+    "nl": "Nadat hij in Nederland was aangekomen liet hij zich inschrijven bij de gemeente Den Haag.",
+    "tr": "Hollanda'ya vardıktan sonra Lahey belediyesine kaydoldu."
+  },
+  {
+    "nl": "Iedereen moet zich immers laten registreren.",
+    "tr": "Sonuçta herkesin kayıt olması gerekiyor."
+  },
+  {
+    "nl": "Tegelijk kreeg hij er ook zijn burgerservicenummer.",
+    "tr": "Aynı zamanda vatandaşlık hizmet numarasını da aldı."
+  },
+  {
+    "nl": "Wellicht moet Alex nu, straks of in de toekomst belasting betalen.",
+    "tr": "Alex şimdi, daha sonra veya gelecekte vergi ödemek zorunda kalabilir."
+  },
+  {
+    "nl": "Daarom heeft de gemeente zijn gegevens eveneens naar de belastingdienst gestuurd.",
+    "tr": "Bu nedenle belediye de verilerini vergi makamlarına göndermiştir."
+  },
+  {
+    "nl": "Bij de gemeente hoorde hij ook, of hij hier met zijn buitenlandse rijbewijs mocht rijden.",
+    "tr": "Yabancı ehliyetiyle burada araba kullanıp kullanamayacağını da belediyeden öğrendi."
+  },
+  {
+    "nl": "Voorlopig kan dat, zeiden ze.",
+    "tr": "Şimdilik bu mümkün, dediler."
+  },
+  {
+    "nl": "Maar hoe lang?",
+    "tr": "Ama ne kadar?"
+  },
+  {
+    "nl": "Dat hangt ervan af in welke land u uw rijbewijs hebt gehaald, meneer, zeiden ze.",
+    "tr": "Ehliyetinizi hangi ülkeden aldığınıza bağlı hocam dediler."
+  },
+  {
+    "nl": "In uw geval een half jaar.",
+    "tr": "Senin durumunda yarım yıl."
+  },
+  {
+    "nl": "Een Nederlands rijbewijs kunt u hier bij de gemeente aanvragen.",
+    "tr": "Hollanda ehliyeti için belediyeye buradan başvurabilirsiniz."
+  },
+  {
+    "nl": "Mocht hij hier werken?",
+    "tr": "Burada mı çalışmalı?"
+  },
+  {
+    "nl": "Dat bleek afhankelijk te zijn van je nationaliteit.",
+    "tr": "Bunun sizin milliyetinize bağlı olduğu ortaya çıktı."
+  },
+  {
+    "nl": "Alex bleek een vergunning te moeten hebben.",
+    "tr": "Alex'in izne ihtiyacı olduğu ortaya çıktı."
+  },
+  {
+    "nl": "Zijn werkgever heeft de vergunning geregeld bij het UWV.",
+    "tr": "İşvereni, izni UWV ile ayarladı."
+  },
+  {
+    "nl": "Bij die dienst kun je terecht als je werk zoekt.",
+    "tr": "İş arıyorsanız bu servisle iletişime geçebilirsiniz."
+  },
+  {
+    "nl": "En daar regelen ze ook je uitkering, als je werkloos bent.",
+    "tr": "Ayrıca işsizseniz yardımlarınızı da orada ayarlıyorlar."
+  },
+  {
+    "nl": "Was alles toen geregeld?",
+    "tr": "O zaman her şey ayarlanmış mıydı?"
+  },
+  {
+    "nl": "Nee, natuurlijk moest hij een huisarts zoeken.",
+    "tr": "Hayır, elbette bir doktor bulması gerekiyordu."
+  },
+  {
+    "nl": "En hij moest een verzekering tegen ziektekosten afsluiten.",
+    "tr": "Ve sağlık sigortası yaptırmak zorunda kaldı."
+  },
+  {
+    "nl": "Gelukkig heeft hij nog geen kinderen, want anders moest hij ook zo snel mogelijk een geschikte school zoeken.",
+    "tr": "Neyse ki henüz çocuğu yok, yoksa en kısa zamanda uygun bir okul araması gerekecekti."
+  },
+  {
+    "nl": "Over een jaar wil hij een opleiding volgen.",
+    "tr": "Bir yıl içinde okumak istiyor."
+  },
+  {
+    "nl": "Dan moet hij zijn diploma's met Nederlandse diploma's laten vergelijken.",
+    "tr": "O zaman diplomalarını Hollanda diplomalarıyla karşılaştırmalı."
+  },
+  {
+    "nl": "Maar gelukkig is nu alles voorlopig geregeld.",
+    "tr": "Neyse ki, şimdilik her şey kararlaştırıldı."
+  },
+  {
+    "nl": "Hoe is Nederland ontstaan?",
+    "tr": "Hollanda nasıl ortaya çıktı?"
+  },
+  {
+    "nl": "Sinds wanneer is het een aparte staat?",
+    "tr": "Ne zamandan beri ayrı bir devlet oldu?"
+  },
+  {
+    "nl": "We zetten enkele feiten op een rij.",
+    "tr": "Bazı gerçekleri listeliyoruz."
+  },
+  {
+    "nl": "We richten eerst onze aandacht op de zestiende en zeventiende eeuw.",
+    "tr": "Dikkatimizi önce on altıncı ve on yedinci yüzyıllara çeviriyoruz."
+  },
+  {
+    "nl": "Waar nu Nederland is, waren vroeger een aantal aparte staten.",
+    "tr": "Hollanda'nın şimdi olduğu yerde, bir dizi ayrı devlet vardı."
+  },
+  {
+    "nl": "Ze waren een deel van het Spaanse rijk.",
+    "tr": "İspanyol İmparatorluğu'nun bir parçasıydılar."
+  },
+  {
+    "nl": "Onder leiding van Willem Oranje voerden ze oorlog met Spanje.",
+    "tr": "William Orange'ın önderliğinde İspanya'ya savaş açtılar."
+  },
+  {
+    "nl": "Uiteindelijk wonnen ze die oorlog.",
+    "tr": "Sonunda bu savaşı onlar kazandı."
+  },
+  {
+    "nl": "En zo kwam de Republiek der Verenigde Nederlanden tot stand.",
+    "tr": "Böylece Birleşik Hollanda Cumhuriyeti ortaya çıktı."
+  },
+  {
+    "nl": "Er was veel handel met andere landen in deze periode.",
+    "tr": "Bu dönemde diğer ülkelerle çok fazla ticaret yapıldı."
+  },
+  {
+    "nl": "Nederlandse schepen gingen naar verre landen.",
+    "tr": "Hollanda gemileri uzak diyarlara gitti."
+  },
+  {
+    "nl": "Soms namen de Nederlanders land in bezit.",
+    "tr": "Bazen Hollandalılar toprakları devraldı."
+  },
+  {
+    "nl": "Zo is New York korte tijd Nederlands bezit geweest.",
+    "tr": "Örneğin New York, kısa bir süre için bir Hollanda mülküydü."
+  },
+  {
+    "nl": "Enkele namen in die stad herinneren daaraan.",
+    "tr": "O şehirdeki bazı isimler bize bunu hatırlatıyor."
+  },
+  {
+    "nl": "Indonesië en Suriname zijn langer Nederlands bezit geweest.",
+    "tr": "Endonezya ve Surinam daha uzun süredir Hollanda'nın mülkü."
+  },
+  {
+    "nl": "Ze eilanden boven Zuid Amerika eveneens.",
+    "tr": "Onlar da Güney Amerika'nın üzerinde adalar."
+  },
+  {
+    "nl": "Drie ervan zijn nu bijzondere gemeentes van Nederland.",
+    "tr": "Bunlardan üçü şimdi Hollanda'nın özel belediyeleri."
+  },
+  {
+    "nl": "De andere drie zijn aparte staten, maar horen wel bij het Koninkrijk der Nederlanden.",
+    "tr": "Diğer üçü ayrı devletlerdir, ancak Hollanda Krallığına aittir."
+  },
+  {
+    "nl": "Begin negentiende eeuw werd Nederland een deel van het Franse rijk van Napoleon.",
+    "tr": "On dokuzuncu yüzyılın başında Hollanda, Napolyon'un Fransız imparatorluğunun bir parçası oldu."
+  },
+  {
+    "nl": "Nadat hieraan een eind gekomen was, Werd Nederland een koninkrijk, met aan het hoofd een koning.",
+    "tr": "Bu sona erdikten sonra, Hollanda bir kral tarafından yönetilen bir krallık haline geldi."
+  },
+  {
+    "nl": "Dat was een lid van de familie Van Oranje.",
+    "tr": "Van Oranje ailesinin bir üyesiydi."
+  },
+  {
+    "nl": "Sinds die tijd is de nationale vlag in gebruik: rood, wit, blauw.",
+    "tr": "O zamandan beri ulusal bayrak kullanılıyor: kırmızı, beyaz, mavi."
+  },
+  {
+    "nl": "Nederland heeft zich dus ontwikkeld van republiek tot koninkrijk.",
+    "tr": "Hollanda böylece cumhuriyetten krallığa gelişmiştir."
+  },
+  {
+    "nl": "In tegenstelling tot andere landen.",
+    "tr": "Diğer ülkelerden farklı olarak."
+  },
+  {
+    "nl": "Die hebben vaak een andere ontwikkeling meegemaakt.",
+    "tr": "Genellikle farklı bir gelişme yaşadılar."
+  },
+  {
+    "nl": "Laten we nu kijken naar de moderne geschiedenis.",
+    "tr": "Şimdi modern tarihe bakalım."
+  },
+  {
+    "nl": "In 1940 werd Nederland in bezit genomen door het Duitse rijk.",
+    "tr": "1940 yılında Hollanda, Alman İmparatorluğu tarafından ele geçirildi."
+  },
+  {
+    "nl": "Hitler wilde heel Europa in bezit nemen.",
+    "tr": "Hitler tüm Avrupa'yı ele geçirmek istiyordu."
+  },
+  {
+    "nl": "Dit leidde tot de Tweede Wereldoorlog,waarbij tientallen miljoenen mensen stierven.",
+    "tr": "Bu, on milyonlarca insanın öldüğü İkinci Dünya Savaşı'na yol açtı."
+  },
+  {
+    "nl": "Onder hen waren zes miljoen Joden.",
+    "tr": "Bunların arasında altı milyon Yahudi vardı."
+  },
+  {
+    "nl": "Duitsland verloor de oorlog, waardoor het Nederlandse volk in 1945 weer in vrijheid kon leven.",
+    "tr": "Almanya savaşı kaybetti ve 1945'te Hollanda halkının yeniden özgürce yaşamasına izin verdi."
+  },
+  {
+    "nl": "Nu hoort Nederland opnieuw bij een groter geheel: de EU.",
+    "tr": "Şimdi Hollanda bir kez daha daha büyük bir bütünün parçası: AB."
+  },
+  {
+    "nl": "Is dat weer een rijk? Nee!",
+    "tr": "Bu başka bir imparatorluk mu? Hayir!"
+  },
+  {
+    "nl": "Werken de landen dan alleen samen op het gebied van handel?",
+    "tr": "O halde ülkeler sadece ticaret alanında mı işbirliği yapıyor?"
+  },
+  {
+    "nl": "Ook niet. De waarheid ligt in het midden.",
+    "tr": "Bu da değil. Gerçek ortada duruyor."
+  },
+  {
+    "nl": "Nederlandse kinderen behoren tot de gelukkigste ter wereld.",
+    "tr": "Hollandalı çocuklar dünyanın en mutlu çocukları arasındadır."
+  },
+  {
+    "nl": "Dat blijkt uit onderzoek in 2016.",
+    "tr": "Bu, 2016 yılında yapılan bir araştırmaya göre."
+  },
+  {
+    "nl": "Kinderen uit in totaal 42 landen waren bij het onderzoek betrokken.",
+    "tr": "Çalışmaya toplam 42 ülkeden çocuk katıldı."
+  },
+  {
+    "nl": "Jongens blijken in het algemeen gelukkiger dan meisjes.",
+    "tr": "Erkekler genellikle kızlardan daha mutludur."
+  },
+  {
+    "nl": "Ik las dit bericht gisteravond op internet.",
+    "tr": "Dün gece internette bu yazıyı okudum."
+  },
+  {
+    "nl": "Heb jij het ook gelezen?",
+    "tr": "Sen de okudun mu?"
+  },
+  {
+    "nl": "Goed nieuws, vind je niet?",
+    "tr": "İyi haber, sence de öyle değil mi?"
+  },
+  {
+    "nl": "Nederlandse kinderen zijn dus in het algemeen blije, tevreden kinderen.",
+    "tr": "Hollandalı çocuklar bu nedenle genellikle mutlu, memnun çocuklardır."
+  },
+  {
+    "nl": "Dat verbaast me niet.",
+    "tr": "Şaşırmadım."
+  },
+  {
+    "nl": "Elk kind mag vanaf vier jaar en moet vanaf vijf jaar naar school.",
+    "tr": "Her çocuğa dört yaşından itibaren izin verilir ve beş yaşından itibaren okula gitmesi gerekir."
+  },
+  {
+    "nl": "Het onderwijs is zeker niet slecht.",
+    "tr": "Eğitim kesinlikle kötü değil."
+  },
+  {
+    "nl": "Een speciale organisatie van de overheid controleert de kwaliteit.",
+    "tr": "Özel bir devlet kuruluşu kaliteyi kontrol eder."
+  },
+  {
+    "nl": "Relatief weinig kinderen wonen in echt slechte huizen.",
+    "tr": "Nispeten az sayıda çocuk gerçekten kötü evlerde yaşıyor."
+  },
+  {
+    "nl": "En de omgeving van het huis is meestal veilig en schoon.",
+    "tr": "Ve evin etrafındaki alan genellikle güvenli ve temizdir."
+  },
+  {
+    "nl": "Ze kunnen op hun eigen fiets naar school gaan, of naar vriendjes en vriendinnetjes.",
+    "tr": "Okula kendi bisikletleriyle veya arkadaşlarına gidebilirler."
+  },
+  {
+    "nl": "Een veilige situatie is belangrijk, dat geeft hun een gevoel van vrijheid.",
+    "tr": "Güvenli bir durum önemlidir, onlara özgürlük duygusu verir."
+  },
+  {
+    "nl": "Verder is Nederland een rijk land.",
+    "tr": "Hollanda da zengin bir ülke."
+  },
+  {
+    "nl": "Veel kinderen leven in een gezin met voldoende geld.",
+    "tr": "Birçok çocuk yeterli paraya sahip bir ailede yaşıyor."
+  },
+  {
+    "nl": "Meestal gaan e zelfs meer dan een keer op een korte of lange vakantie.",
+    "tr": "Genellikle kısa veya uzun bir tatile bile birden fazla çıkıyorlar."
+  },
+  {
+    "nl": "De opvoeding is eveneens een belangrijk punt.",
+    "tr": "Eğitim de önemli bir nokta."
+  },
+  {
+    "nl": "De mening van kinderen is belangrijker geworden.",
+    "tr": "Çocukların fikirleri daha önemli hale geldi."
+  },
+  {
+    "nl": "Thuis, maar ook op school, houdt men rekening met de meningen en gevoelens van kinderen.",
+    "tr": "Evde olduğu kadar okulda da çocukların duygu ve düşünceleri dikkate alınır."
+  },
+  {
+    "nl": "Je hebt dus geluk als je in Nederland wordt geboren.",
+    "tr": "Yani Hollanda'da doğduysanız şanslısınız."
+  },
+  {
+    "nl": "Geldt dat voor alle kinderen?",
+    "tr": "Bu tüm çocuklar için geçerli mi?"
+  },
+  {
+    "nl": "Helaas leven nog te veel kinderen in een slechte situatie wat betreft wonen, eten, opvoeding, aandacht en zorg.",
+    "tr": "Ne yazık ki pek çok çocuk hala barınma, beslenme, eğitim, ilgi ve bakım açısından kötü durumda yaşıyor."
+  },
+  {
+    "nl": "Een verbeeld: een op de acht kinderen in ons land leeft in een arm gezin!",
+    "tr": "Bir hayali: Ülkemizde her sekiz çocuktan biri fakir bir ailede yaşıyor!"
+  },
+  {
+    "nl": "Zo'n kind kan niet meedoen met leuke dingen op school en elders.",
+    "tr": "Böyle bir çocuk okulda ve başka yerlerde eğlenceli şeylere katılamaz."
+  },
+  {
+    "nl": "Daardoor heeft het minder kansen in het leven.",
+    "tr": "Sonuç olarak, hayatta daha az şansı var."
+  },
+  {
+    "nl": "Overigens: zelfs een tevreden kind is niet altijd gelukkig en heeft af en toe gewoon saaie momenten.",
+    "tr": "Bu arada, halinden memnun bir çocuk bile her zaman mutlu değildir ve ara sıra sıkıcı anlar yaşar."
+  },
+  {
+    "nl": "Zoals het kind in dat gedicht.",
+    "tr": "O şiirdeki çocuk gibi."
+  },
+  {
+    "nl": "Het verveelt zich vreselijk en denkt:Ik wou dat ik twee hondjes was, dan kon ik samen spelen.",
+    "tr": "Çok sıkılıyor ve şöyle düşünüyor: Keşke iki köpek olsaydım da birlikte oynayabilseydim"
+  },
+  {
+    "nl": "Aan de muur hangt de kaart van Nederland.",
+    "tr": "Hollanda haritası duvarda asılı."
+  },
+  {
+    "nl": "Kun je ons laten zien waar je woont?",
+    "tr": "Bize nerede yaşadığını gösterebilir misin?"
+  },
+  {
+    "nl": "Je ziet op de kaart dat Nederland verdeeld is in twaalf provincies.",
+    "tr": "Haritada Hollanda'nın on iki ile ayrıldığını görebilirsiniz."
+  },
+  {
+    "nl": "Ze hebben allemaal hun eigen geschiedenis en hun eigen karaakter.",
+    "tr": "Hepsinin kendi tarihi ve kendi karakteri var."
+  },
+  {
+    "nl": "Friesland heeft zelfs een eigen officiële taal!",
+    "tr": "Friesland'ın kendi resmi dili bile var!"
+  },
+  {
+    "nl": "In het westen liggen Noord en Zuid Holland.",
+    "tr": "Batıda Kuzey ve Güney Hollanda vardır."
+  },
+  {
+    "nl": "Samen met een deel van Utrecht vormen ze de Randstad.",
+    "tr": "Utrecht'in bir kısmıyla birlikte Randstad'ı oluştururlar."
+  },
+  {
+    "nl": "Die hebben we al in een eerdere tekst behandeld.",
+    "tr": "Bunları daha önceki bir metinde tartışmıştık."
+  },
+  {
+    "nl": "Zeeland, in het zuidwesten, is een verhaal apart.",
+    "tr": "Zeeland, güneybatıda, yani farklı bir hikaye."
+  },
+  {
+    "nl": "Een verhaal over water.",
+    "tr": "Su ile ilgili bir hikaye."
+  },
+  {
+    "nl": "Weet je nog wat we daarover hebben gezegd in les 25 en 32?",
+    "tr": "25. ve 32. Derslerde bunun hakkında ne söylediğimizi hatırlıyor musunuz?"
+  },
+  {
+    "nl": "In het noorden liggen Groningen, Friesland en Drenthe.",
+    "tr": "Kuzeyde Groningen, Friesland ve Drenthe vardır."
+  },
+  {
+    "nl": "Groningen is vooral bekend door het gas dat in de grond zit.",
+    "tr": "Groningen esas olarak yerdeki gazla tanınır."
+  },
+  {
+    "nl": "Dat gas is ruim een halve eeuw geleden ontdekt.",
+    "tr": "Bu gaz yarım yüzyıldan fazla bir süre önce keşfedildi."
+  },
+  {
+    "nl": "Nederland was daardoor niet langer afhankelijk van andere landen voor zijn energie.",
+    "tr": "Sonuç olarak, Hollanda artık enerjisi için diğer ülkelere bağımlı değildi."
+  },
+  {
+    "nl": "Maar gas uit de grond halen veroorzaakt eveneens problemen.",
+    "tr": "Ancak yerden gaz çıkarmak da sorunlara neden olur."
+  },
+  {
+    "nl": "De grond daalt en beweegt: slecht voor huizen en gebouwen.",
+    "tr": "Yer çöker ve hareket eder: evler ve binalar için kötüdür."
+  },
+  {
+    "nl": "Friesland levert veel melk voor de Nederlandse melkproducten.",
+    "tr": "Friesland, Hollanda süt ürünleri için çok fazla süt sağlıyor."
+  },
+  {
+    "nl": "De Friese meren zijn een ideale plek. Om je vrije tijd te besteden.",
+    "tr": "Frizce gölleri ideal bir yerdir. Boş zamanınızı geçirmek için."
+  },
+  {
+    "nl": "Dat geldt overigens eveneens voor de eilanden in de Noordzee.",
+    "tr": "Bu aynı zamanda Kuzey Denizi'ndeki adalar için de geçerlidir."
+  },
+  {
+    "nl": "De provincie Flevoland bestaat pas sinds 1985.",
+    "tr": "Flevoland eyaleti sadece 1985'ten beri var olmuştur."
+  },
+  {
+    "nl": "Van een stuk zee werd land gemaakt.",
+    "tr": "Kara bir deniz parçasından yapılmıştır."
+  },
+  {
+    "nl": "Zo is de provincie ontstaan.",
+    "tr": "Eyalet böyle doğdu."
+  },
+  {
+    "nl": "In dit lege land is veel ruimte waardoor de woningen een stuk goedkoper zijn dan in Amsterdam.",
+    "tr": "Bu boş ülkede çok fazla yer var, bu da evlerin Amsterdam'dan çok daha ucuz olduğu anlamına geliyor."
+  },
+  {
+    "nl": "In het midden van het land ligt de provincie Utrecht,met de hoofdstad Utrecht.",
+    "tr": "Ülkenin ortasında, başkenti Utrecht olan Utrecht eyaleti yatıyor."
+  },
+  {
+    "nl": "Utrecht vergaderstad: voor iedereen even ver weg.",
+    "tr": "Utrecht buluşma şehri: herkes için eşit uzaklıkta."
+  },
+  {
+    "nl": "Naar de provincies Overijssel en Gelderland, in het oosten, ga je graag op vakantie, als je houdt van wandelen en fietsen in de mooie natuur.",
+    "tr": "Güzel doğada yürüyüş yapmayı ve bisiklete binmeyi seviyorsanız, doğudaki Overijssel ve Gelderland illerine tatile gitmeyi seversiniz."
+  },
+  {
+    "nl": "Noord Brabant en Limburg noemen we het zuiden.",
+    "tr": "Kuzey Brabant ve Limburg, güney dediğimiz yerlerdir."
+  },
+  {
+    "nl": "Rond Eindhoven staan enkele bekende bedrijven.",
+    "tr": "Eindhoven çevresinde birkaç tanınmış şirket var."
+  },
+  {
+    "nl": "Die bedenken slimme oplossingen voor allerlei technische en maatschappelijke problemen.",
+    "tr": "Her türlü teknik ve sosyal soruna akılcı çözümler üretirler."
+  },
+  {
+    "nl": "In Limburg worden o.a. auto's geproduceerd die in andere landen zijn ontwikkeld.",
+    "tr": "Limburg'da, diğer ülkelerde geliştirilen otomobiller üretiliyor."
+  },
+  {
+    "nl": "En er zijn ook nog bergen en een mooie oude stad.",
+    "tr": "Ayrıca dağlar ve güzel bir eski şehir var."
+  },
+  {
+    "nl": "Trouwens: in het zuiden spreekt men het Nederlands anders uit.",
+    "tr": "Bu arada: güneyde insanlar Hollandaca'yı farklı telaffuz ediyor."
+  },
+  {
+    "nl": "Heb je dat wel eens gemerkt?",
+    "tr": "Hiç onu farkettin mi?"
+  },
+  {
+    "nl": "Zulke grote verschillen in zo'n klein landje!",
+    "tr": "Bu kadar küçük bir ülkede bu kadar büyük farklılıklar!"
+  },
+  {
+    "nl": "Goedemiddag, zegt u het maar.",
+    "tr": "İyi günler, sadece söyle."
+  },
+  {
+    "nl": "Mijn rijbewijs verloopt binnenkort",
+    "tr": "Ehliyetim yakında sona erecek"
+  },
+  {
+    "nl": "Ik kom voor een nieuw rijbewijs.",
+    "tr": "Yeni bir ehliyet için buradayım."
+  },
+  {
+    "nl": "Zijn uw gegevens nog hetzelfde?",
+    "tr": "Verileriniz hala aynı mı?"
+  },
+  {
+    "nl": "Hebt u uw oude rijbewijs meegenomen?",
+    "tr": "Eski ehliyetinizi yanınıza aldınız mı?"
+  },
+  {
+    "nl": "En een nieuwe pasfoto? Aha, prima in orde.",
+    "tr": "Ve yeni bir pasaport fotoğrafı? Tamam."
+  },
+  {
+    "nl": "Dan kunt u over vijf werkdagen terugkomen.",
+    "tr": "Ardından beş iş günü içinde geri gelebilirsiniz."
+  },
+  {
+    "nl": "Maar u mag eerst even betalen bij loket drie.",
+    "tr": "Ama önce üç numaralı kontuarda ödeme yapabilirsiniz."
+  },
+  {
+    "nl": "We zijn op het gemeentehuis op de afdeling burgerzaken.",
+    "tr": "Sivil işler bölümünde belediye binasındayız."
+  },
+  {
+    "nl": "Met gemeente bedoelen we een stad of dorp of een combinatie van dorpen als organisatie.",
+    "tr": "Belediye ile bir şehir veya köy veya bir kuruluş olarak köylerin bir kombinasyonunu kastediyoruz."
+  },
+  {
+    "nl": "Grote steden zijn vaak verdeeld in stadsdelen, met aparte kantoren.",
+    "tr": "Büyük şehirler genellikle ayrı ofisleri olan ilçelere ayrılır."
+  },
+  {
+    "nl": "De gemeente is van belang voor iedereen.",
+    "tr": "Topluluk herkes için önemlidir."
+  },
+  {
+    "nl": "Onze gegevens zijn daar geregistreerd.",
+    "tr": "Verilerimiz orada kayıtlı."
+  },
+  {
+    "nl": "We moeten ernaartoe voor geboorte, huwelijk scheiding of overlijden.",
+    "tr": "Doğum, evlilik, boşanma veya ölüm için oraya gitmeliyiz."
+  },
+  {
+    "nl": "En ook voor een vergunning, paspoort of rijbewijs.",
+    "tr": "Ve ayrıca bir izin, pasaport veya ehliyet için."
+  },
+  {
+    "nl": "Wie werkloos is, krijgt een uitkering via de gemeente.",
+    "tr": "İşsiz kalanlar belediye aracılığıyla yardım alırlar."
+  },
+  {
+    "nl": "De gemeente zorgt voor licht in de stad, regelt de zorg voor wie oud of langdurig ziek is, bouwt scholen, verzamelt ons afval, enzovoort.",
+    "tr": "Belediye şehre ışık sağlar, yaşlı veya uzun süreli hastaların bakımını düzenler, okullar inşa eder, atıklarımızı toplar vb."
+  },
+  {
+    "nl": "Voor al die taken betalen we belasting aan de gemeente: voor ons afval, ons huis, en onze hond.",
+    "tr": "Tüm bu işler için belediyeye vergi ödüyoruz: atıklarımız, evimiz ve köpeğimiz için."
+  },
+  {
+    "nl": "Een keer per vier jaar kiezen de burgers de leden van de gemeenteraad, het parlement van de gemeente. De raad controleert het bestuur van de gemeente.",
+    "tr": "Her dört yılda bir vatandaşlar belediye meclisi olan belediye meclisi üyelerini seçerler. Konsey, belediyenin yönetimini kontrol eder."
+  },
+  {
+    "nl": "Voor de verkiezingen stuurt de gemeente ons een kaart met onze naam erop.",
+    "tr": "Seçimlerden önce belediye bize üzerinde ismimizin yazılı olduğu bir kart gönderecek."
+  },
+  {
+    "nl": "Daarmee gaan we stemmen.",
+    "tr": "Oy kullanacağımız şey bu."
+  },
+  {
+    "nl": "Hebt u dat al gedaan?",
+    "tr": "Bunu zaten yaptın mı?"
+  },
+  {
+    "nl": "Het hoofd van de gemeente is de burgemeester.",
+    "tr": "Belediye başkanı belediye başkanıdır."
+  },
+  {
+    "nl": "Die functie lijkt op die van voorzitter.",
+    "tr": "Bu pozisyon başkanınkine benzer."
+  },
+  {
+    "nl": "Hij leidt de vergaderingen van de gemeenteraad.",
+    "tr": "Belediye meclisi toplantılarına başkanlık eder."
+  },
+  {
+    "nl": "Maar de baas is hij niet.",
+    "tr": "Ama o patron değil."
+  },
+  {
+    "nl": "De raad beslist.",
+    "tr": "Konsey karar verir."
+  },
+  {
+    "nl": "Hij wordt gekozen door de gemeenteraad, dus niet direct door het volk.",
+    "tr": "Doğrudan halk tarafından değil, belediye meclisi tarafından seçilir."
+  },
+  {
+    "nl": "Wist u dat?",
+    "tr": "Bunu biliyor muydun?"
+  },
+  {
+    "nl": "Dag mevrouw,wat kijkt u boos.",
+    "tr": "Merhaba hanımefendi, kızgın görünüyorsunuz."
+  },
+  {
+    "nl": "Wat kan ik voor u doen?",
+    "tr": "Sizin için ne yapabilirim?"
+  },
+  {
+    "nl": "Meneer, ik zit hier al twintig minuten te wachten!",
+    "tr": "Efendim, yirmi dakikadır burada bekliyorum!"
+  },
+  {
+    "nl": "Het enige wat ik kom doen is mijn verhuizing laten registeren!",
+    "tr": "Tek yapmam gereken hamlemi kaydetmek!"
+  },
+  {
+    "nl": "Dat kan ook via onze website.",
+    "tr": "Bu, web sitemiz aracılığıyla da mümkündür."
+  },
+  {
+    "nl": "Wist u dat?",
+    "tr": "Bunu biliyor muydun?"
+  },
+  {
+    "nl": "IK ga nu alles voor u in de orde maken.",
+    "tr": "Şimdi senin için her şeyi doğru yapacağım."
+  },
+  {
+    "nl": "Heeft u uw paspoort bij u?",
+    "tr": "Pasaportunuz yanınızda mı?"
+  },
+  {
+    "nl": "Verhuist u naar een eigen woning of een huurwoning?",
+    "tr": "Sahibinin oturduğu bir eve mi yoksa kiralık bir eve mi taşınıyorsunuz?"
+  },
+  {
+    "nl": "Gaat u alleen wonen of samenwonen?",
+    "tr": "Yalnız mı yaşayacaksın yoksa birlikte mi yaşayacaksın?"
+  },
+  {
+    "nl": "En wanneer gaat u verhuizen?",
+    "tr": "Ve ne zaman taşınacaksın?"
+  },
+  {
+    "nl": "Nou, even kijken...",
+    "tr": "İyi, görelim bakalım..."
+  },
+  {
+    "nl": "Waarom wilt u dat eigenlijk allemaal weten?",
+    "tr": "Neden tüm bunları bilmek istiyorsun?"
+  },
+  {
+    "nl": "Hallo allemaal!Welkom bij mijn presentatie.",
+    "tr": "Herkese merhaba, sunumuma hoş geldiniz."
+  },
+  {
+    "nl": "Zoals jullie waarschijnlijk allemaal weten, verandert het klimaat.",
+    "tr": "Hepinizin bildiği gibi, iklim değişiyor."
+  },
+  {
+    "nl": "Het gevolg is dat veel soorten planten en dieren sterven en dat het niveu van de zee stijgt.",
+    "tr": "Sonuç olarak, birçok bitki ve hayvan türü ölüyor ve deniz seviyesi yükseliyor."
+  },
+  {
+    "nl": "Verschillende onderzoeken leveren daarvoor genoeg bewijs.",
+    "tr": "Cesitli çalışmalar bunun için yeterli kanıt sağlar."
+  },
+  {
+    "nl": "We kunnen dus niet meer doen alsof er niks aan de hand is.",
+    "tr": "Bu yüzden artık hiçbir şeyin yanlış olmadığını iddia edemeyiz."
+  },
+  {
+    "nl": "We moeten ons realiseren dat er een gevaarlijke toestand ontstaat als we op deze wijze doorgaan.",
+    "tr": "Bu şekilde devam edersek tehlikeli bir durumun ortaya çıkacağını bilmeliyiz."
+  },
+  {
+    "nl": "Er zullen steeds meer rampen plaatsvinden, dat is de verwachting.",
+    "tr": "Giderek daha fazla felaket meydana gelecek, beklenti bu."
+  },
+  {
+    "nl": "Daarom moeten we natuurlijke en duurzame vormen van energie gaan gebruiken.",
+    "tr": "Bu yüzden doğal ve sürdürülebilir enerji formlarını kullanmaya başlamalıyız."
+  },
+  {
+    "nl": "Bijvoorbeeld energie van de zon of energie uit water.",
+    "tr": "Örneğin güneşten gelen enerji veya sudan gelen enerji."
+  },
+  {
+    "nl": "Zijn er nieuwe mogelijkheden om minder energie te gebruiken?",
+    "tr": "Daha az enerji kullanmanın yeni yolları var mı?"
+  },
+  {
+    "nl": "Zijn er slimme oplossingen?",
+    "tr": "Akıllı çözümler var mı?"
+  },
+  {
+    "nl": "Daarover moeten we nadenken.",
+    "tr": "Bunu düşünmeliyiz."
+  },
+  {
+    "nl": "Bijvoorbeeld bouwen met andere materialen.",
+    "tr": "Örneğin, diğer malzemelerle inşa etmek."
+  },
+  {
+    "nl": "In deze figuur zien jullie hoeveel nieuwe vormen van energie Europese landen gebruiken.",
+    "tr": "Bu şekilde Avrupa ülkelerinin kaç yeni enerji türü kullandığını görebilirsiniz."
+  },
+  {
+    "nl": "Zoals jullie zien staat Nederland erg laag op deze lijst.",
+    "tr": "Gördüğünüz gibi, Hollanda bu listede çok düşük."
+  },
+  {
+    "nl": "Het beleid aanpassen is blijkbaar behoorlijk lastig.",
+    "tr": "Politikayı değiştirmek görünüşte oldukça zor."
+  },
+  {
+    "nl": "Maar we kunnen ook zelf iets doen.",
+    "tr": "Ama kendimiz de bir şeyler yapabiliriz."
+  },
+  {
+    "nl": "We zijn toch ook zelf verantwoordelijk?",
+    "tr": "Biz de kendimizden sorumluyuz, değil mi?"
+  },
+  {
+    "nl": "Je kunt besluiten je gedrag en manier van leven te veranderen.",
+    "tr": "Davranışınızı ve yaşam tarzınızı değiştirmeye karar verebilirsiniz."
+  },
+  {
+    "nl": "Dat heeft ook flinke invloed.",
+    "tr": "Bunun da önemli bir etkisi var."
+  },
+  {
+    "nl": "Dit zijn mijn belangrijkste adviezen voor jullie:",
+    "tr": "İşte size başlıca tavsiyelerim:"
+  },
+  {
+    "nl": "Weet je wat het meeste effect heeft op het klimaat? Wat we kopen!",
+    "tr": "İklim üzerinde en çok neyin etkili olduğunu biliyor musunuz? Ne satın alıyoruz!"
+  },
+  {
+    "nl": "Koop vooral producten uit je eigen omgeving, of niets!",
+    "tr": "Esas olarak ürünleri kendi ortamınızdan satın alın ya da hiçbir şey satın alın!"
+  },
+  {
+    "nl": "Heb je die leuke nieuwe dingen wel echt nodig!",
+    "tr": "Bu eğlenceli yeni şeylere gerçekten ihtiyacın var mı?"
+  },
+  {
+    "nl": "Eet geen vlees. In plaats van een kilo vlees kunnen 750 mensen flink wat aardappelen eten.",
+    "tr": "Et yemeyin. 750 kişi bir kilo et yerine çok patates yiyebilir."
+  },
+  {
+    "nl": "Neem een rekening bij een bank die je geld verantwoordelijk besteedt.",
+    "tr": "Paranızı sorumlu bir şekilde harcayan bir bankada bir hesap açın."
+  },
+  {
+    "nl": "Reis bewust: reis niet met het vliegtuig, maar met de fiets.",
+    "tr": "Bilinçli seyahat edin: uçakla değil bisikletle seyahat edin."
+  },
+  {
+    "nl": "Denk na over hoe je thuis minder energie kunt gebruiken.",
+    "tr": "Evde nasıl daha az enerji kullanabileceğinizi düşünün."
+  },
+  {
+    "nl": "Wat voor kleren draag je?",
+    "tr": "Ne tür kıyafetler giyiyorsun?"
+  },
+  {
+    "nl": "Welke materialen zijn ervoor gebruikt?",
+    "tr": "Bunun için hangi malzemeler kullanıldı?"
+  },
+  {
+    "nl": "We kunnen tegenwoordig schoenen maken van oud plastic of bladeren. Een geweldig idee, toch?",
+    "tr": "Günümüzde eski plastikten veya yapraklardan ayakkabı yapabiliyoruz. Harika bir fikir, değil mi?"
+  },
+  {
+    "nl": "Je ziet het: je kunt op veel manieren helpen om het klimaat te verbeteren.",
+    "tr": "Görüyorsunuz: iklimi birçok yönden iyileştirmeye yardımcı olabilirsiniz."
+  },
+  {
+    "nl": "Zijn jullie bereid meer te doen voor een betere toekomst?",
+    "tr": "Daha iyi bir gelecek için daha fazlasını yapmaya istekli misiniz?"
+  },
+  {
+    "nl": "Elke jaar kiest de bevolking de 150 leden van de Tweede Kamer, het parlement.",
+    "tr": "Nüfus her yıl Temsilciler Meclisi'nin, yani parlamentonun 150 üyesini seçer."
+  },
+  {
+    "nl": "De kiezers stemmen op een persoon die op de lijst van een partij staat.",
+    "tr": "Seçmenler, bir partinin listesindeki bir kişiye oy verir."
+  },
+  {
+    "nl": "Er is keuze genoeg!",
+    "tr": "Bol seçenek var!"
+  },
+  {
+    "nl": "Er zijn tientallen politieke partijen: linkse, rechtse, groene, christelijke.",
+    "tr": "Düzinelerce siyasi parti var: sol, sağ, yeşil, Hıristiyan."
+  },
+  {
+    "nl": "Ken jij misschien een of meer partijen?",
+    "tr": "Belki bir veya daha fazla parti tanıyor musunuz?"
+  },
+  {
+    "nl": "Weet je wat ze willen?",
+    "tr": "Ne istediklerini biliyor musun?"
+  },
+  {
+    "nl": "Na de verkiezingen wordt ook een nieuwe regering gevormd.",
+    "tr": "Seçimlerden sonra da yeni bir hükümet kurulacak."
+  },
+  {
+    "nl": "Dat is niet altijd makkelijk.",
+    "tr": "Bu her zaman kolay değildir."
+  },
+  {
+    "nl": "Geen enkele partij krijgt namelijk de meerderheid van de stemmen.",
+    "tr": "Oyların çoğunluğunu hiçbir parti alamaz."
+  },
+  {
+    "nl": "Een regering kan dus alleen worden gevormd als enkele partijen samenwerken.",
+    "tr": "Dolayısıyla bir hükümet ancak birkaç parti birlikte çalışırsa kurulabilir."
+  },
+  {
+    "nl": "Er volgen lange gesprekken.",
+    "tr": "Uzun konuşmalar birbirini takip eder."
+  },
+  {
+    "nl": "Zijn ze het eens over een politiek programma, dan vormen ze samen de regering.",
+    "tr": "Siyasi bir program üzerinde anlaşırlarsa, birlikte hükümeti kurarlar."
+  },
+  {
+    "nl": "Ze bespreken eveneens wie de minister president wordt en wie de ministers.",
+    "tr": "Ayrıca kimin başbakan, kimin bakan olacağını da tartışıyorlar."
+  },
+  {
+    "nl": "De regering is het centrale bestuur van Nederland.",
+    "tr": "Hükümet, Hollanda'nın merkezi hükümetidir."
+  },
+  {
+    "nl": "Ze maakt het beleid en beslist uiteindelijk waar ons geld naartoe gaat: onderwijs, gezondheid, veiligheid...",
+    "tr": "Politikayı yapar ve nihayetinde paramızın nereye gittiğine karar verir: eğitim, sağlık, güvenlik..."
+  },
+  {
+    "nl": "De tweede Kamer beslist over het beleid van de regering.",
+    "tr": "Temsilciler Meclisi hükümet politikasına karar verir."
+  },
+  {
+    "nl": "De kamer voert stevige debatten (soms tot laat in de nacht), stelt vragen en levert felle kritiek.",
+    "tr": "Meclis, hararetli tartışmalar yürütür (bazen gece geç saatlere kadar), sorular sorar ve sert eleştirilerde bulunur."
+  },
+  {
+    "nl": "De leden kunnen reageren op een voorstel van minister.",
+    "tr": "Üyeler bakandan gelen bir teklife cevap verebilirler."
+  },
+  {
+    "nl": "Soms kan de reactie van de minister hen niet overtuigen en wensen ze veranderingen.",
+    "tr": "Bazen bakanın tepkisi onları ikna edemiyor ve değişiklik istiyorlar."
+  },
+  {
+    "nl": "De minister kan die wens volgen, maar hij kan ook weigeren.",
+    "tr": "Bakan bu isteği yerine getirebilir, ancak reddedebilir."
+  },
+  {
+    "nl": "Soms verliest de Kamer het vertrouwen in de minister er verplicht hem of haar om als minister te stoppen.",
+    "tr": "Bazen Meclis, bakana olan güvenini kaybeder ve onu bakanlıktan istifa etmeye zorlar."
+  },
+  {
+    "nl": "En dat kan het einde betekenen van de hele regering.",
+    "tr": "Ve bu tüm hükümetin sonu anlamına gelebilir."
+  },
+  {
+    "nl": "Zowel de regering als het parlement heeft dus politieke macht.",
+    "tr": "Dolayısıyla hem hükümet hem de parlamento siyasi güce sahiptir."
+  },
+  {
+    "nl": "Er is ook een Eerste Kamer.",
+    "tr": "Bir de Senato var."
+  },
+  {
+    "nl": "Haar taak is het controleren van de wetten die in de Tweede Kamer zijn aangenomen.",
+    "tr": "Görevi, Temsilciler Meclisi'nde geçirilen yasaları izlemektir."
+  },
+  {
+    "nl": "Daarom zitten in de Eerste Kamer meestal politici met veel ervaring.",
+    "tr": "Bu nedenle Senato genellikle çok fazla deneyime sahip politikacılardan oluşur."
+  },
+  {
+    "nl": "Nederland is een koninkrijk.",
+    "tr": "Hollanda bir krallıktır."
+  },
+  {
+    "nl": "De koning is het staatshoofd.",
+    "tr": "Kral devletin başıdır."
+  },
+  {
+    "nl": "Hij wordt niet gekozen.",
+    "tr": "O seçilmedi."
+  },
+  {
+    "nl": "Vanwege zijn symbolische rol ontvangt hij belangrijk bezoek uit het buitenland.",
+    "tr": "Sembolik rolünden dolayı yurt dışından önemli ziyaretçiler almaktadır."
+  },
+  {
+    "nl": "Verder gaat hij veel op bezoek in Nederland en het buitenland.",
+    "tr": "Ayrıca sık sık Hollanda'yı ve yurt dışını ziyaret eder."
+  },
+  {
+    "nl": "Als vertegenwoordiger van alle Nederlanders heeft hij een verbindende functie.",
+    "tr": "Tüm Hollandalıların bir temsilcisi olarak, birleştirici bir işlevi var."
+  },
+  {
+    "nl": "Op deze wijze is het bestuur van het land georganiseerd.",
+    "tr": "Ülkenin hükümeti bu şekilde örgütleniyor."
+  },
+  {
+    "nl": "Voor de provincies en de gemeentes geldt ook een dergelijk systeem, altijd op basis van verkiezingen.",
+    "tr": "Benzer bir sistem iller ve belediyeler için de geçerlidir ve her zaman seçime dayalıdır."
+  },
+  {
+    "nl": "Nederland is enorm veranderd sinds de Tweede Wereldoorlog.",
+    "tr": "Hollanda, İkinci Dünya Savaşı'ndan bu yana çok değişti."
+  },
+  {
+    "nl": "Jongeren van nu kunnen zich bijna niet voorstellen hoe de generatie van hun opa's en oma's vroeger leefde.",
+    "tr": "Bugünün gençleri, büyükbabalarının ve büyükannelerinin neslinin nasıl yaşadığını hayal bile edemiyorlar."
+  },
+  {
+    "nl": "Die hadden natuurlijk geen mobiele telefoons en computers, maar bijvoorbeeld ook geen pinpas, euro`s en supermarkten.",
+    "tr": "Elbette cep telefonları ve bilgisayarları yoktu, örneğin banka kartları, euroları ve süpermarketleri de yoktu."
+  },
+  {
+    "nl": "En er was veel minder keuze aan producten in de winkels, vooral aan producten uit het buitenland.",
+    "tr": "Ve mağazalarda çok daha az ürün seçeneği vardı, özellikle yurt dışından gelen ürünler."
+  },
+  {
+    "nl": "De meeste mensen aten elke dag aardappelen met groente en vlees of vis.",
+    "tr": "Çoğu insan her gün patates ve sebze ve et ya da balık yedi."
+  },
+  {
+    "nl": "Dat wordt nog steeds gezien als typisch Nederlands eten hoewel de aardappel oorspronkelijk niet uit Nederland komt.",
+    "tr": "Patates aslen Hollanda'dan gelmese de, bu hala tipik Hollanda yemeği olarak görülüyor."
+  },
+  {
+    "nl": "Ook reizen binnen Europa ging destijds heel anders dan nu.",
+    "tr": "Avrupa içinde seyahat etmek de o zamanlar şimdi olduğundan çok farklıydı."
+  },
+  {
+    "nl": "Alle grenzen waren gesloten en omdat de euro nog niet bestond, moest je voor elk land ander geld halen. En als je contant geld op zondag op was, had je een groot probleem.",
+    "tr": "Tüm sınırlar kapatıldı ve henüz euro olmadığı için her ülke için farklı para almak zorunda kaldınız. Pazar günü paranız biterse, başınız büyük belada demektir."
+  },
+  {
+    "nl": "De televisie bestond weliswaar al, maar lang niet iedereen had er een.",
+    "tr": "Televizyon zaten vardı ama herkeste yoktu."
+  },
+  {
+    "nl": "Kinderen speelde meer buiten dan nu.",
+    "tr": "Çocuklar şimdi olduğundan daha fazla dışarıda oynadılar."
+  },
+  {
+    "nl": "Ook moesten ze veel meer helpen in het huishouden.",
+    "tr": "Ayrıca ev işlerinde çok daha fazla yardım etmeleri gerekiyordu."
+  },
+  {
+    "nl": "Dat moest toen allemaal met de hand worden gedaan.",
+    "tr": "O zaman her şey elle yapılmalıydı."
+  },
+  {
+    "nl": "Dat was hard werken.",
+    "tr": "Bu zor bir işti."
+  },
+  {
+    "nl": "Zeker omdat de gezinnen veel groter waren.",
+    "tr": "Özellikle aileler çok daha büyük olduğu için."
+  },
+  {
+    "nl": "Een gezin van acht kinderen was heel normaal.",
+    "tr": "Sekiz çocuklu bir aile oldukça normaldi."
+  },
+  {
+    "nl": "Het was moeilijker om het aantal kinderen te beperken.",
+    "tr": "Çocuk sayısını sınırlamak daha zordu."
+  },
+  {
+    "nl": "In de jaren `60 en `70 gingen jongeren massaal de straat op tegen wapens en geweld.",
+    "tr": "1960'larda ve 1970'lerde gençler silah ve şiddete karşı topluca sokaklara döküldü."
+  },
+  {
+    "nl": "En eveneens o een gelijke positie voor mannen en vrouwen te eisen.",
+    "tr": "Ve ayrıca kadın ve erkek için eşit bir pozisyon talep etmek."
+  },
+  {
+    "nl": "Maar tot in de jaren zeventig konden vrouwen nog hun baan verliezen als ze gingen trouwen of zwanger werden.",
+    "tr": "Ancak 1970'lere kadar kadınlar evlenirse veya hamile kalırsa işlerini kaybedebilirdi."
+  },
+  {
+    "nl": "Pas in 1980 is dat veranderd.",
+    "tr": "Bu sadece 1980'de değişti."
+  },
+  {
+    "nl": "Sindsdien moeten man en vrouw volgens de wet gelijk worden behandeld.",
+    "tr": "O zamandan beri, erkekler ve kadınlar yasalar önünde eşit muamele görmektedir."
+  },
+  {
+    "nl": "Aan het einde van de twintigste eeuw vond misschien wel de belangrijkste verandering plaats: steeds meer mensen gingen het internet op.",
+    "tr": "Belki de en önemli değişiklik yirminci yüzyılın sonunda gerçekleşti: giderek daha fazla insan çevrimiçi oldu."
+  },
+  {
+    "nl": "Dat heeft natuurlijk een enorme invloed gehad in allerlei opzichten: op werk, school, winkelen, vrije tijd en dergelijke.",
+    "tr": "Bunun elbette her yönden muazzam bir etkisi oldu: işte, okulda, alışverişte, boş zamanlarında ve benzerlerinde."
+  },
+  {
+    "nl": "Ons hele dagelijkse leven is erdoor veranderd.",
+    "tr": "Tüm günlük hayatımız bu yüzden değişti."
+  },
+  {
+    "nl": "Kun jij nog een leven zonder internet voorstellen?",
+    "tr": "İnternetsiz bir hayat düşünebiliyor musunuz?"
+  },
+  {
+    "nl": "Beste Karim, Hoe gaat het met jullie?",
+    "tr": "Sevgili Kerim, nasılsın?"
+  },
+  {
+    "nl": "Je vroeg me laatst om een keer te schrijven over mijn ervaring met Nederland en de Nederlandse cultuur.",
+    "tr": "Geçenlerde benden Hollanda ve Hollanda kültürüyle ilgili deneyimlerim hakkında yazmamı istediniz."
+  },
+  {
+    "nl": "Dat zal ik doen.",
+    "tr": "Yapacağım."
+  },
+  {
+    "nl": "Hier komen er een paar!",
+    "tr": "İşte birkaç tane geliyor!"
+  },
+  {
+    "nl": "IK woon nu zes jaar in Nederland en voel me hier al helemaal thuis.",
+    "tr": "Altı yıldır Hollanda'da yaşıyorum ve şimdiden kendimi burada tamamen evimde gibi hissediyorum."
+  },
+  {
+    "nl": "Aanvankelijk was dat heel anders.",
+    "tr": "Başlangıçta çok farklıydı."
+  },
+  {
+    "nl": "Ik weet nog goed dat ik voor de eerste keer in Nederland was.",
+    "tr": "İlk kez Hollanda'ya gittiğimi çok iyi hatırlıyorum."
+  },
+  {
+    "nl": "Ik verbaasde me destijds over de lage gebouwen en de lange mensen.",
+    "tr": "O zamanlar alçak binalara ve yüksek insanlara hayran kaldım."
+  },
+  {
+    "nl": "En ik vond het bijzonder dat iedereen hier fietst, ook oude mensen.",
+    "tr": "Ve herkesin, hatta yaşlıların bile burada bisiklet sürmesinin özel olduğunu düşündüm."
+  },
+  {
+    "nl": "Nu valt met dat helemaal niet meer op.",
+    "tr": "Şimdi bu artık fark edilmiyor."
+  },
+  {
+    "nl": "Ik herinner me ook nog goed dat ik mijn man een keer vroeg:",
+    "tr": "Bir keresinde kocama sorduğumu da çok iyi hatırlıyorum:"
+  },
+  {
+    "nl": "Zullen we blij je zus op bezoek gaan?",
+    "tr": "Kız kardeşini mutlu bir şekilde ziyaret edelim mi?"
+  },
+  {
+    "nl": "Ik wilde mijn tas al pakken, maar volgens mijn man moesten we eerst een afspraak maken.",
+    "tr": "Çantamı hazırlamak istedim ama kocama göre önce randevu almamız gerekiyordu."
+  },
+  {
+    "nl": "Voor een bezoek aan zijn zus!",
+    "tr": "Kız kardeşini ziyaret etmek için!"
+  },
+  {
+    "nl": "Uiteindelijk gingen we pas twee weken later.",
+    "tr": "İki hafta sonra gitmeye karar verdik."
+  },
+  {
+    "nl": "Dat vond ik heel raar.",
+    "tr": "Bunun çok garip olduğunu düşündüm."
+  },
+  {
+    "nl": "Ik moet toegeven dat ik dat nog steeds gek vind.",
+    "tr": "İtiraf etmeliyim ki hala bunun çılgınca olduğunu düşünüyorum."
+  },
+  {
+    "nl": "Inmiddels vind ik afspraken maken niet meer zo vreemd.",
+    "tr": "Artık randevu almayı çok tuhaf bulmuyorum."
+  },
+  {
+    "nl": "En ik kom nu overal op tijd.",
+    "tr": "Ve şimdi her yere zamanında geliyorum."
+  },
+  {
+    "nl": "Ik heb gemerkt dat mijn Nederlandse vrienden onrustig worden als we een half uurtje later komen.",
+    "tr": "Yarım saat sonra vardığımızda Hollandalı arkadaşlarımın huzursuzlandığını fark ettim."
+  },
+  {
+    "nl": "Mijn oudste dochter leert sinds kort zwemmen.",
+    "tr": "En büyük kızım yakın zamanda yüzmeyi öğrendi."
+  },
+  {
+    "nl": "Ik vind haar wel erg jong daarvoor.",
+    "tr": "Bunun için çok genç olduğunu düşünüyorum."
+  },
+  {
+    "nl": "Het water is behoorlijk diep en ze heeft nog niet niet zo veel kracht.",
+    "tr": "Su oldukça derin ve henüz o kadar gücü yok."
+  },
+  {
+    "nl": "Maar er is hier zo veel water.",
+    "tr": "Ama burada çok su var."
+  },
+  {
+    "nl": "Daarom moeten kinderen zo jong mogelijk leren zwemmen.",
+    "tr": "Bu nedenle, çocuklar mümkün olduğunca erken yüzmeyi öğrenmelidir."
+  },
+  {
+    "nl": "Ik heb het zelf pas geleerd toen ik veertien was.",
+    "tr": "On dört yaşıma kadar kendim öğrenmedim."
+  },
+  {
+    "nl": "Weet je waar ze ook vroeg mee is?",
+    "tr": "O da erkenci ne biliyor musun?"
+  },
+  {
+    "nl": "Met haar mening geven.",
+    "tr": "Fikrini vermek."
+  },
+  {
+    "nl": "Volgens mij is dat ook typisch Nederlands.",
+    "tr": "Bunun da tipik Hollandaca olduğunu düşünüyorum."
+  },
+  {
+    "nl": "Het lijkt wel of Nederlanders overal een mening over hebben. En ze geven die ook als je er niet om vraagt!",
+    "tr": "Görünüşe göre Hollandalıların her şey hakkında bir fikri var. Ve sen istemezsen onu da veriyorlar!"
+  },
+  {
+    "nl": "Soms vind ik dat wel vervelend.",
+    "tr": "Bazen bunu rahatsız edici buluyorum."
+  },
+  {
+    "nl": "Aan de andere kant vind ik het fijn als mensen eerlijk zijn.",
+    "tr": "Öte yandan, insanların dürüst olması hoşuma gidiyor."
+  },
+  {
+    "nl": "Sommige Nederlanders vind ik wel erg negatief.",
+    "tr": "Bazı Hollandalıları çok olumsuz buluyorum."
+  },
+  {
+    "nl": "Ze klagen vaak en hebben overal kritiek op.",
+    "tr": "Çoğu zaman her şeyi şikayet eder ve eleştirirler."
+  },
+  {
+    "nl": "Ik ben over het algemeen tevreden met het leven hier.",
+    "tr": "Buradaki hayattan genel olarak memnunum."
+  },
+  {
+    "nl": "Ik wil graag weten hoe jij over deze dingen denkt!",
+    "tr": "Bu şeyler hakkında ne düşündüğünüzü bilmek istiyorum!"
+  },
+  {
+    "nl": "Eindelijk, de laatste les!",
+    "tr": "Sonunda, son ders!"
+  },
+  {
+    "nl": "De cursus is bijna voorbij.",
+    "tr": "Kurs neredeyse bitti."
+  },
+  {
+    "nl": "Alleen nog het examen.",
+    "tr": "Sadece sınav."
+  },
+  {
+    "nl": "Toen de cursus begon,dacht ik dat Nederlands leren moeilijk zou zijn.",
+    "tr": "Kurs başladığında, Hollandaca öğrenmenin zor olacağını düşündüm."
+  },
+  {
+    "nl": "Maar we hebben allemaal leren praten.",
+    "tr": "Ama hepimiz konuşmayı öğrendik."
+  },
+  {
+    "nl": "De methode werkt uitstekend, volgens mij.",
+    "tr": "Yöntem bence harika çalışıyor."
+  },
+  {
+    "nl": "Door teksten te lezen, door heel veel te luisteren en na te zeggen hebben we de woorden, hun uitspraak, combinaties van woorden en de grammatica geleerd.",
+    "tr": "Metinleri okuyarak, dinleyerek ve çok tekrar ederek kelimeleri, telaffuzlarını, kelime kombinasyonlarını ve gramerini öğrendik."
+  },
+  {
+    "nl": "En natuurlijk was veel praten in de lessen een goed middel om de taal te leren gebruiken.",
+    "tr": "Ve elbette derslerde bol bol konuşmak, dili kullanmayı öğrenmenin iyi bir yoluydu."
+  },
+  {
+    "nl": "Sommige cursisten hadden daar wel moeite mee.",
+    "tr": "Bazı öğrenciler bu konuda sorun yaşadı."
+  },
+  {
+    "nl": "Zij vonden dat kennis van de grammatica noodzakelijk is.",
+    "tr": "Dilbilgisi bilgisinin gerekli olduğunu buldular."
+  },
+  {
+    "nl": "Ze wilden meer opdrachten uitvoeren om de grammatica te oefenen.",
+    "tr": "Dilbilgisi pratiği yapmak için daha fazla ödev yapmak istediler."
+  },
+  {
+    "nl": "Maar een taal leren is vooral een kwestie van doen.",
+    "tr": "Ancak bir dil öğrenmek esas olarak bir yapma meselesidir."
+  },
+  {
+    "nl": "Het is wel heel veel werk.",
+    "tr": "Yine de çok iş var."
+  },
+  {
+    "nl": "Al m`n tijd heb ik eraan besteed.",
+    "tr": "Bütün zamanımı buna harcadım."
+  },
+  {
+    "nl": "Niet normaal! Overdag, `s avonds, altijd zat ik achter mijn bureau.",
+    "tr": "Normal değil! Gündüz, akşam hep masamın arkasındaydım."
+  },
+  {
+    "nl": "Doe normaal, zeiden mijn vrienden.",
+    "tr": "Normal davran, dedi arkadaşlarım."
+  },
+  {
+    "nl": "Ga gezellig mee uit!",
+    "tr": "Bizimle dışarı çık!"
+  },
+  {
+    "nl": "Nee, zei ik dan, Morgen heb ik les!",
+    "tr": "Hayır dedim, yarın dersim var!"
+  },
+  {
+    "nl": "Wij hebben met onze docent over veel onderwerpen gesproken.",
+    "tr": "Hocamızla birçok konuyu tartıştık."
+  },
+  {
+    "nl": "Over de geschiedenis van dit land, over de Nederlandse cultuur en de maatschappij.",
+    "tr": "Bu ülkenin tarihi, Hollanda kültürü ve toplumu hakkında."
+  },
+  {
+    "nl": "Wordt Nederland u mijn land, ons land?",
+    "tr": "Hollanda benim ülkem, bizim ülkemiz mi olacak?"
+  },
+  {
+    "nl": "Sommige cursisten gaan weer terug naar hun eigen land, anderen blijven, voor werk of studie.",
+    "tr": "Bazı öğrenciler kendi ülkelerine geri döner, bazıları ise çalışmak veya okumak için kalır."
+  },
+  {
+    "nl": "De een wil graag een Nederlands paspoort, de ander twijfelt.",
+    "tr": "Biri Hollanda pasaportu istiyor, diğeri şüpheli."
+  },
+  {
+    "nl": "Nog niet iedereen heeft een beslissing genomen. We hebben nog niet allemaal een concreet plan voor de toekomst.",
+    "tr": "Henüz herkes bir karar vermiş değil. Henüz hepimizin gelecek için somut bir planı yok."
+  },
+  {
+    "nl": "Ik twijfel niet langer, ik weet nu zeker dat mijn toekomst hier is.",
+    "tr": "Artık şüphem yok, artık geleceğimin burada olduğundan kesinlikle eminim."
+  },
+  {
+    "nl": "Mijn doel is om een opleiding aan een universiteit te volgen.",
+    "tr": "Amacım üniversitede okumak."
+  },
+  {
+    "nl": "Maar daarvoor moet ik eerst mijn Nederlands nog verbeteren.",
+    "tr": "Ama bunun için önce Hollandacamı geliştirmem gerekiyor."
+  },
+  {
+    "nl": "Daarom ga ik verder met Nederlands leren.",
+    "tr": "Bu yüzden Hollandaca öğrenmeye devam edeceğim."
+  },
+  {
+    "nl": "En na mijn opleiding zoek ik werk.",
+    "tr": "Ve eğitimimden sonra iş arıyorum."
+  },
+  {
+    "nl": "Ik verwacht dat ik fier een goede baan kan vinden.",
+    "tr": "İyi bir iş bulmayi bekliyorum."
+  },
+  {
+    "nl": "Of ik ga een eigen bedrijf opzetten.",
+    "tr": "Yoksa kendi şirketimi kuracağım."
+  },
+  {
+    "nl": "Sommigen van ons gaan door naar de volgende cursus.",
+    "tr": "Bazılarımız bir sonraki kursa geçer."
+  },
+  {
+    "nl": "Tenminste, als ze slagen.",
+    "tr": "En azından başarılı olurlarsa."
+  },
+  {
+    "nl": "Wie zakt moet de toets opnieuw doen.",
+    "tr": "Kim başarısız olursa, testi tekrarlamak zorundadır."
+  },
+  {
+    "nl": "Ik hoop op positief resultaat, zodat ik verder kan met de volgende cursus.",
+    "tr": "Bir sonraki kursa devam edebilmem için olumlu sonuçlar almayı umuyorum."
+  },
+  {
+    "nl": "Nu eerst die toets, en dan even een pauze!",
+    "tr": "Şimdi önce o test, sonra bir ara!"
+  }
+]

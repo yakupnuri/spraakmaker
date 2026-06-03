@@ -1,0 +1,6366 @@
+[
+  {
+    "nl": "(ver)zuipen, verzoop, verzopen, verdrinken",
+    "tr": "boğulmak, herşeyi içkiye harcamak"
+  },
+  {
+    "nl": "Hij heeft te veel gedronken en dreigde te verdrinken.",
+    "tr": "Çok fazla içki içti ve boğulma tehlikesi atlattı."
+  },
+  {
+    "nl": "(zich) voelen (voelde, gevoeld)",
+    "tr": "hissetmek"
+  },
+  {
+    "nl": "Ze voelt zich gelukkig in haar nieuwe baan.",
+    "tr": "Yeni işinde mutlu hissediyor."
+  },
+  {
+    "nl": "aaien, strelen",
+    "tr": "okşamak"
+  },
+  {
+    "nl": "Ze aaide de kat zachtjes.",
+    "tr": "Kediyi nazikçe okşadı."
+  },
+  {
+    "nl": "aan de slag",
+    "tr": "çalışmaya başlamak, işe koyulmak"
+  },
+  {
+    "nl": "We kunnen eindelijk aan de slag gaan met dit project.",
+    "tr": "Sonunda bu projeye başlayabiliriz."
+  },
+  {
+    "nl": "aan het woord",
+    "tr": "konuşuyor(kalıp)"
+  },
+  {
+    "nl": "De spreker is nu aan het woord.",
+    "tr": "Şimdi konuşan kişi."
+  },
+  {
+    "nl": "aanbellen (belde aan - aangebeld)",
+    "tr": "zili çalmak"
+  },
+  {
+    "nl": "De bezoeker belde aan en wachtte voor de deur.",
+    "tr": "Ziyaretçi kapıyı çaldı ve kapı önünde bekledi."
+  },
+  {
+    "nl": "aanbetalen",
+    "tr": "peşinat ödemek, depozito bırakmak"
+  },
+  {
+    "nl": "We moeten een aanbetaling doen om de reservering te bevestigen.",
+    "tr": "Rezervasyonu onaylamak için bir depozito yapmalıyız."
+  },
+  {
+    "nl": "aanbreken / brak aan / is aangebroken",
+    "tr": "belirmek, şafak sökmek"
+  },
+  {
+    "nl": "De dag brak aan en de zon begon te schijnen.",
+    "tr": "Gün aydınlandı ve güneş parlamaya başladı."
+  },
+  {
+    "nl": "aanbrengen, toepassen",
+    "tr": "yerleştirmek, uygulamak"
+  },
+  {
+    "nl": "Je kunt deze techniek toepassen om het probleem op te lossen.",
+    "tr": "Sorunu çözmek için bu tekniği kullanabilirsiniz."
+  },
+  {
+    "nl": "aandacht besteden aan",
+    "tr": "dikkate almak, önemsemek, önem vermek"
+  },
+  {
+    "nl": "We moeten meer aandacht besteden aan duurzaamheid.",
+    "tr": "Daha fazla sürdürülebilirliğe dikkat etmeliyiz."
+  },
+  {
+    "nl": "aandacht schenken aan, zich concentreren op",
+    "tr": "dikkat vermek, yoğunlaşmak"
+  },
+  {
+    "nl": "Ze moet zich concentreren op haar studie.",
+    "tr": "Dikkatini çalışmasına yoğunlaştırmalı."
+  },
+  {
+    "nl": "aandacht vestigen op",
+    "tr": "dikkatini çekmek, dikkat vermek"
+  },
+  {
+    "nl": "De campagne wil aandacht vestigen op milieukwesties.",
+    "tr": "Kampanya, çevre sorunlarına dikkat çekmeyi amaçlıyor."
+  },
+  {
+    "nl": "aandeel hebben in",
+    "tr": "pay sahibi olmak"
+  },
+  {
+    "nl": "Hij heeft een groot aandeel in het bedrijf.",
+    "tr": "Şirkette büyük bir hissesi var."
+  },
+  {
+    "nl": "aandoen X uitdoen, wegdoen",
+    "tr": "giymek-çıkarmak, açmak-kapatmak(ışık)"
+  },
+  {
+    "nl": "Trek je jas aan voordat je naar buiten gaat.",
+    "tr": "Dışarı çıkmadan önce ceketini giy."
+  },
+  {
+    "nl": "aandragen, naar voren gebracht",
+    "tr": "ileri sürmek, iddia etmek"
+  },
+  {
+    "nl": "Hij heeft enkele interessante ideeën naar voren gebracht.",
+    "tr": "Birkaç ilginç fikir ileri sürdü."
+  },
+  {
+    "nl": "aandringen (drong aan - aangedrongen)",
+    "tr": "ısrar etmek, diretmek"
+  },
+  {
+    "nl": "Ze bleef aandringen op haar standpunt.",
+    "tr": "Görüşünde ısrar etmeye devam etti."
+  },
+  {
+    "nl": "aanduiden, aangeven, aanwijzen, aantonen",
+    "tr": "belirtmek, göstermek, işaret etmek"
+  },
+  {
+    "nl": "De kaart geeft de locatie van het restaurant aan.",
+    "tr": "Harita restoranın konumunu gösteriyor."
+  },
+  {
+    "nl": "aaneenschakelen",
+    "tr": "sıralamak, bağlamak, bağlantı kurmak"
+  },
+  {
+    "nl": "De schrijver wist de gebeurtenissen goed aaneen te schakelen.",
+    "tr": "Yazar olayları iyi bir şekilde sıraladı."
+  },
+  {
+    "nl": "aangaan, betreffen",
+    "tr": "ilgisi olmak, ilişkili olmak, etkilemek"
+  },
+  {
+    "nl": "Deze regelgeving gaat alle bedrijven in de sector aan.",
+    "tr": "Bu düzenlemeler sektördeki tüm işletmeleri ilgilendirir."
+  },
+  {
+    "nl": "aangaan, betreffen, aanbelangen",
+    "tr": "ilgilendirmek"
+  },
+  {
+    "nl": "Deze kwestie gaat ons allen aan.",
+    "tr": "Bu konu hepimizi ilgilendiriyor."
+  },
+  {
+    "nl": "aangeven, doorgeven",
+    "tr": "teslim etmek, belirtmek, işaret etmek"
+  },
+  {
+    "nl": "De klant moet de beschadigde goederen aangeven.",
+    "tr": "Müşteri hasar gören malzemeleri bildirmelidir."
+  },
+  {
+    "nl": "Aangeven, gaf aan, aangegeven",
+    "tr": "belirtmek, işaret etmek, açıklık getirmek"
+  },
+  {
+    "nl": "Hij gaf duidelijk aan wat zijn standpunt was.",
+    "tr": "Açıkça ne düşündüğünü belirtti."
+  },
+  {
+    "nl": "aangifte doen",
+    "tr": "beyanda bulunmak, bildirmek"
+  },
+  {
+    "nl": "Ik moet aangifte doen van mijn inkomsten bij de belastingdienst.",
+    "tr": "Gelirimi vergi dairesine bildirmem gerekiyor."
+  },
+  {
+    "nl": "aankijken (keek aan, aangekeken)",
+    "tr": "bakmak, yüze bakmak"
+  },
+  {
+    "nl": "Ze kijkt me niet meer aan sinds het incident.",
+    "tr": "Olaydan beri bana bakmıyor."
+  },
+  {
+    "nl": "aankomen (gewicht)",
+    "tr": "kilo almak, (varmak, yetişmek anlamı da var)"
+  },
+  {
+    "nl": "Hij is de afgelopen maanden flink aangekomen.",
+    "tr": "Son aylarda ciddi bir kilo almış."
+  },
+  {
+    "nl": "aankomen, kwam aan, aangekomen",
+    "tr": "varmak, ulaşmak"
+  },
+  {
+    "nl": "De trein komt over 10 minuten aan op het station.",
+    "tr": "Tren istasyona 10 dakika içinde varacak."
+  },
+  {
+    "nl": "aankondigen (kondigde aan, aangekondigd)",
+    "tr": "duyurmak, ilan etmek"
+  },
+  {
+    "nl": "De directeur zal morgen belangrijk nieuws aankondigen.",
+    "tr": "Genel müdür yarın önemli bir haberi duyuracak."
+  },
+  {
+    "nl": "Aankunnen, kon aan, aangekund, omgaan met",
+    "tr": "idare etmek, başa çıkmak, üstesinden gelmek"
+  },
+  {
+    "nl": "Hij kan goed aankunnen met stressvolle situaties.",
+    "tr": "O stresli durumlarla iyi başa çıkabilir."
+  },
+  {
+    "nl": "Aankunnen, kon aan, aangekund(omgaan met)",
+    "tr": "idare etmek, başa çıkmak, üstesinden gelmek"
+  },
+  {
+    "nl": "Ze kan goed aankunnen met haar drukke agenda.",
+    "tr": "O yoğun programıyla iyi başa çıkabilir."
+  },
+  {
+    "nl": "aanleggen (legde aan, aangelegd)",
+    "tr": "yerleştirmek, inşa etmek, kurmak, demirlemek"
+  },
+  {
+    "nl": "De haven heeft nieuwe steigers aangelegd voor de boten.",
+    "tr": "Liman, tekneler için yeni iskeleler kurdu."
+  },
+  {
+    "nl": "aanleggen, bouwen, construeren",
+    "tr": "kurmak, inşa etmek, yapmak"
+  },
+  {
+    "nl": "Het bouwbedrijf zal een nieuwe weg aanleggen.",
+    "tr": "İnşaat şirketi yeni bir yol inşa edecek."
+  },
+  {
+    "nl": "aanliggen",
+    "tr": "dayanmak, bitişik olmak, bağlı olmak"
+  },
+  {
+    "nl": "Onze tuin ligt aan het park.",
+    "tr": "Bahçemiz parka bitişik."
+  },
+  {
+    "nl": "aanmaken, maakte aan, aangemaakt",
+    "tr": "oluşturmak (hesap, şifre vb.)"
+  },
+  {
+    "nl": "Je moet een gebruikersnaam aanmaken om in te loggen.",
+    "tr": "Giriş yapmak için bir kullanıcı adı oluşturmanız gerekiyor."
+  },
+  {
+    "nl": "aanmoedigen, stimuleren",
+    "tr": "alkışla cesaret vermek, teşvik etmek, neşelendirmek"
+  },
+  {
+    "nl": "De coach moedigde het team aan voor de wedstrijd.",
+    "tr": "Antrenör maç öncesi takımı cesaretlendirdi."
+  },
+  {
+    "nl": "aannemen (nam aan, aangenomen)",
+    "tr": "kabul etmek, benimsemek, varsaymak, işe almak"
+  },
+  {
+    "nl": "Het bedrijf heeft een nieuwe medewerker aangenomen.",
+    "tr": "Şirket yeni bir çalışanı işe aldı."
+  },
+  {
+    "nl": "aanpakken (pakte(n) aan, aangepakt)",
+    "tr": "mücadele etmek, ele almak, koyulmak, girişmek"
+  },
+  {
+    "nl": "We moeten het probleem direct aanpakken.",
+    "tr": "Sorunu hemen ele almamız gerekiyor."
+  },
+  {
+    "nl": "aanpassen zich aan",
+    "tr": "adapte olmak, uymak, uyum sağlamak"
+  },
+  {
+    "nl": "Ze kunnen zich goed aanpassen aan verschillende omgevingen.",
+    "tr": "Farklı ortamlara iyi uyum sağlayabilirler."
+  },
+  {
+    "nl": "aanraken, raakte aan, aangeraakt",
+    "tr": "dokunmak, ellemek, temas etmek, etkilemek"
+  },
+  {
+    "nl": "Raak de schilderijen niet aan, ze zijn nog nat.",
+    "tr": "Tablolara dokunma, hen hala ıslak."
+  },
+  {
+    "nl": "Aanschaffen, kopen, schaffen, verschaffen",
+    "tr": "satın almak, elde etmek"
+  },
+  {
+    "nl": "Ze hebben een nieuwe auto aangeschaft.",
+    "tr": "Yeni bir araba satın aldılar."
+  },
+  {
+    "nl": "aanschouwen, zien",
+    "tr": "seyretmek, bakmak"
+  },
+  {
+    "nl": "Het publiek kon de voorstelling aanschouwen.",
+    "tr": "İzleyici gösteriyi seyredebildi."
+  },
+  {
+    "nl": "Aansluiten bij, sloot aan, aangesloten",
+    "tr": "eşleşmek, katılmak"
+  },
+  {
+    "nl": "Haar ideeën sluiten goed aan bij onze plannen.",
+    "tr": "Onun fikirleri planlarımıza iyi bir şekilde katılıyor."
+  },
+  {
+    "nl": "aansporen (spoorde aan, aangespoord)",
+    "tr": "zorlamak, ısrarla tavsiye etmek, teşvik etmek"
+  },
+  {
+    "nl": "De coach spoorde het team aan om te winnen.",
+    "tr": "Antrenör takımı kazanmaya teşvik etti."
+  },
+  {
+    "nl": "Aanspreken, sprak aan, aangesproken",
+    "tr": "hitap etmek, birine konuşmak"
+  },
+  {
+    "nl": "Ze sprak de menigte aan over het belang van recycling.",
+    "tr": "Kalabalığa geri dönüşümün öneminden bahsetti."
+  },
+  {
+    "nl": "aanstaan",
+    "tr": "açık kalmak, açmak (radyo, televizyon)"
+  },
+  {
+    "nl": "Laat de televisie aanstaan, ik kom zo.",
+    "tr": "Televizyonu açık bırak, hemen geliyorum."
+  },
+  {
+    "nl": "aansteken, verlichten",
+    "tr": "yakmak, aydınlatmak, ateş vermek"
+  },
+  {
+    "nl": "Steek de kaarsen aan om wat sfeer te creëren.",
+    "tr": "Biraz atmosfer oluşturmak için mumları yakın."
+  },
+  {
+    "nl": "Aantreffen, trof aan, aangetroffen",
+    "tr": "rastlamak, bulmak"
+  },
+  {
+    "nl": "De politie heeft het gestolen sieraad aangetroffen.",
+    "tr": "Polis çalınan mücevheri buldu."
+  },
+  {
+    "nl": "aantrekken - uittrekken",
+    "tr": "giymek-çıkarmak"
+  },
+  {
+    "nl": "Trek je warme kleren aan, het is koud buiten.",
+    "tr": "Dışarısı soğuk, sıcak kıyafetlerini giy."
+  },
+  {
+    "nl": "aanvallen, viel aan, aangevallen",
+    "tr": "saldırmak, hücum etmek"
+  },
+  {
+    "nl": "De wilde dieren vielen de kudde aan.",
+    "tr": "Vahşi hayvanlar sürüyü saldırdı."
+  },
+  {
+    "nl": "aanvoeren (voerde aan, aangevoerd)",
+    "tr": "tedarik etmek, temin etmek, sağlamak"
+  },
+  {
+    "nl": "De kapitein moet de voorraden aanvoeren.",
+    "tr": "Kaptan stokları tedarik etmelidir."
+  },
+  {
+    "nl": "aanvragen (vroeg aan,aangevraagd)",
+    "tr": "talep etmek, istemek, başvurmak"
+  },
+  {
+    "nl": "Je kunt een visum aanvragen om te reizen.",
+    "tr": "Seyahat etmek için bir vize başvurusu yapabilirsiniz."
+  },
+  {
+    "nl": "aanwakkeren, ophitsen",
+    "tr": "körüklemek, uyandırmak, tetiklemek"
+  },
+  {
+    "nl": "Zijn toespraak wakkerde het protest aan.",
+    "tr": "Onun konuşması protestoyu körükledi."
+  },
+  {
+    "nl": "aanzetten, zette aan, aangezet",
+    "tr": "açmak(televizyon, radyo)"
+  },
+  {
+    "nl": "Kun je de tv even aanzetten?",
+    "tr": "Televizyonu açabilir misin?"
+  },
+  {
+    "nl": "aarzelen, twijfelen, weifelen",
+    "tr": "tereddüt etmek, duraksamak"
+  },
+  {
+    "nl": "Ze twijfelde over haar beslissing.",
+    "tr": "Kararı hakkında tereddüt etti."
+  },
+  {
+    "nl": "accepteren, aanvaarden, aannemen",
+    "tr": "kabul etmek , kabullenmek"
+  },
+  {
+    "nl": "Hij accepteerde de excuses en vergaf haar.",
+    "tr": "Özürleri kabul etti ve onu affetti."
+  },
+  {
+    "nl": "achten (achtte, geacht)",
+    "tr": "saymak, düşünmek, saygı duymak"
+  },
+  {
+    "nl": "Hij acht zijn leraar hoog.",
+    "tr": "Öğretmenine büyük saygı duyar."
+  },
+  {
+    "nl": "achterblijven (bleef achter, achtergebleven)",
+    "tr": "geri durmak, geri kalmak"
+  },
+  {
+    "nl": "Sommige studenten bleven achter bij de rest.",
+    "tr": "Bazı öğrenciler diğerlerinden geride kaldı."
+  },
+  {
+    "nl": "Achterlaten, liet achter, achtergelaten",
+    "tr": "geride, arkada bırakmak"
+  },
+  {
+    "nl": "Ze had haar tas in de auto achtergelaten.",
+    "tr": "Çantasını arabada unutmuştu."
+  },
+  {
+    "nl": "achterlaten, overlaten",
+    "tr": "geride bırakmak, iz bırakmak"
+  },
+  {
+    "nl": "Hij besloot zijn baan achter te laten en de wereld rond te reizen.",
+    "tr": "İşini bırakmaya ve dünyayı gezmeye karar verdi."
+  },
+  {
+    "nl": "achteruitgaan, slechter worden",
+    "tr": "kötüye gitmek, geriye gitmek, daha kötü olmak"
+  },
+  {
+    "nl": "Zijn gezondheid gaat achteruit en dat baart ons zorgen.",
+    "tr": "Sağlığı kötüye gidiyor ve bu bizi endişelendiriyor."
+  },
+  {
+    "nl": "actie voeren tegen/voor",
+    "tr": "eylem gerçekleştirmek"
+  },
+  {
+    "nl": "De milieuactivisten voeren actie tegen de vervuiling.",
+    "tr": "Çevre aktivistleri kirliliğe karşı eylem yapıyor."
+  },
+  {
+    "nl": "Ademhalen / ademen",
+    "tr": "nefes almak"
+  },
+  {
+    "nl": "Het is belangrijk om rustig adem te halen.",
+    "tr": "Sakin bir şekilde nefes almamız önemlidir."
+  },
+  {
+    "nl": "adviseren, aanraden, aanbevelen",
+    "tr": "tavsiye etmek, önermek, öğüt vermek, nasihat etmek"
+  },
+  {
+    "nl": "De dokter adviseerde me om meer water te drinken.",
+    "tr": "Doktor bana daha fazla su içmeyi önerdi."
+  },
+  {
+    "nl": "afbeelden",
+    "tr": "canlandırmak, resmetmek"
+  },
+  {
+    "nl": "Het schilderij beeldt een prachtig landschap af.",
+    "tr": "Tablo güzel bir manzarayı canlandırıyor."
+  },
+  {
+    "nl": "afbetalen, betaalde af, afbetaald",
+    "tr": "tamamen ödemek, hesabı kapatmak"
+  },
+  {
+    "nl": "Ik zal mijn schulden deze maand afbetalen.",
+    "tr": "Borçlarımı bu ay ödeyeceğim."
+  },
+  {
+    "nl": "afblijven, handen af van",
+    "tr": "çek elini, dokunma, elleme"
+  },
+  {
+    "nl": "Blijf van mijn persoonlijke spullen af!",
+    "tr": "Kişisel eşyalarıma dokunma!"
+  },
+  {
+    "nl": "afbranden; afgebrand",
+    "tr": "tamamen yanmak, yanıp kül olmak"
+  },
+  {
+    "nl": "Het oude gebouw brandde helemaal af.",
+    "tr": "Eski bina tamamen yandı."
+  },
+  {
+    "nl": "afdingen, onderhandelen",
+    "tr": "pazarlık yapmak"
+  },
+  {
+    "nl": "Hij probeerde de prijs van de auto af te dingen.",
+    "tr": "Arabanın fiyatını düşürmeye çalıştı."
+  },
+  {
+    "nl": "afdrogen, droogde,af, afgedroogd",
+    "tr": "kurulamak, kurutmak"
+  },
+  {
+    "nl": "Ik zal de borden afdrogen na het afwassen.",
+    "tr": "Bulaşıkları yıkadıktan sonra tabakları kurutacağım."
+  },
+  {
+    "nl": "afgaan (ging af - afgegaan)",
+    "tr": "azalmak (karttaki para), ışığın sönmesi"
+  },
+  {
+    "nl": "De zon ging achter de bergen af.",
+    "tr": "Güneş dağların arkasına battı."
+  },
+  {
+    "nl": "afgelasten / aflasten, annuleren",
+    "tr": "iptal edilmek"
+  },
+  {
+    "nl": "Het evenement werd wegens slecht weer afgelast.",
+    "tr": "Etkinlik kötü hava nedeniyle iptal edildi."
+  },
+  {
+    "nl": "afgeven, gaf af, afgegeven",
+    "tr": "bırakmak, teslim etmek"
+  },
+  {
+    "nl": "Je moet de documenten bij de receptie afgeven.",
+    "tr": "Belgeleri resepsiyona teslim etmelisiniz."
+  },
+  {
+    "nl": "afhaken, haakte(n) ... af, afgehaakt",
+    "tr": "bırakmak, ayırmak, okulu bırakmak"
+  },
+  {
+    "nl": "Hij hakte af en ging een andere weg.",
+    "tr": "O bıraktı ve başka bir yol seçti."
+  },
+  {
+    "nl": "afhalen, afpakken, weghalen, wegnemen",
+    "tr": "alıp götürmek, paket yaptırıp götürmek"
+  },
+  {
+    "nl": "Je kunt je bestelling afhalen bij het restaurant.",
+    "tr": "Siparişinizi restorandan alabilirsiniz."
+  },
+  {
+    "nl": "afkeuren, keurde af, afgekeurd",
+    "tr": "uygun görmemek"
+  },
+  {
+    "nl": "De jury keurde de presentatie van de student af.",
+    "tr": "Jüri öğrencinin sunumunu uygun bulmadı."
+  },
+  {
+    "nl": "afkijken (keek af, h. afgekeken)",
+    "tr": "kopya çekmek"
+  },
+  {
+    "nl": "Ik zag dat hij mijn antwoorden aan het afkijken was.",
+    "tr": "Cevaplarımı kopya çektiğini gördüm."
+  },
+  {
+    "nl": "afkrijgen (kreeg af - afgekregen)",
+    "tr": "yetiştirmek, bitirmek"
+  },
+  {
+    "nl": "Ze moet nog vier hoofdstukken afkrijgen voor morgen.",
+    "tr": "Yarın için hala dört bölüm bitirmesi gerekiyor."
+  },
+  {
+    "nl": "afleggen, legde af, afgelegd",
+    "tr": "sınava girmek, mesafe kat etmek, yol almak"
+  },
+  {
+    "nl": "Hij moest een zware weg afleggen om zijn doel te bereiken.",
+    "tr": "Amacına ulaşmak için zorlu bir yol kat etmek zorundaydı."
+  },
+  {
+    "nl": "afleiden uit",
+    "tr": "sonuç çıkarmak, anlam çıkarmak"
+  },
+  {
+    "nl": "Je kunt veel informatie afleiden uit dit rapport.",
+    "tr": "Bu rapordan çok fazla bilgi çıkarabilirsiniz."
+  },
+  {
+    "nl": "afleiden, leidde af, afgeleid",
+    "tr": "dikkatini dağıtmak, şaşırtmak, aklını karıştırmak"
+  },
+  {
+    "nl": "Het felle licht leidde me af tijdens het lezen.",
+    "tr": "Parlak ışık beni okurken şaşırttı."
+  },
+  {
+    "nl": "Afleren (leerde af, is afgeleerd)",
+    "tr": "öğrendiğini unutmak"
+  },
+  {
+    "nl": "Ik heb mezelf aangeleerd om kalm te worden.",
+    "tr": "Sakin kalmayı kendime öğrettim."
+  },
+  {
+    "nl": "aflopen (liep af, afgelopen)",
+    "tr": "tamamlanmak, bitmek, sonlanmak"
+  },
+  {
+    "nl": "Het contract loopt over een maand af.",
+    "tr": "Sözleşme bir ay içinde sona erecek."
+  },
+  {
+    "nl": "afmaken, afronden, voltooien",
+    "tr": "bitirmek, sonuçlanmak, tamamlamak (okul, görev)"
+  },
+  {
+    "nl": "We moeten de renovatie van het huis afronden.",
+    "tr": "Ev yenileme işini tamamlamamız gerekiyor."
+  },
+  {
+    "nl": "afprijzen, verlagen",
+    "tr": "ucuzlatmak, fiyatları düşürmek"
+  },
+  {
+    "nl": "De winkel heeft de prijzen afgeprijsd voor de uitverkoop.",
+    "tr": "Mağaza, indirim için fiyatları düşürdü."
+  },
+  {
+    "nl": "afraden, raadde af, afgeraden",
+    "tr": "karşı tavsiyede bulunmak, vazgeçirmek, caydırmak"
+  },
+  {
+    "nl": "Ik raad je af om alleen 's nachts in dat gebied te lopen.",
+    "tr": "Gece yalnızca o bölgede dolaşmanı tavsiye etmem."
+  },
+  {
+    "nl": "afschaffen, opheffen",
+    "tr": "ortadan kaldırmak, feshetmek"
+  },
+  {
+    "nl": "Het parlement heeft een oude wet afgeschaft.",
+    "tr": "Parlamento eski bir yasayı kaldırdı."
+  },
+  {
+    "nl": "afscheid nemen",
+    "tr": "vedalaşmak, veda etmek"
+  },
+  {
+    "nl": "Het was moeilijk om afscheid te nemen van mijn vrienden.",
+    "tr": "Arkadaşlarımdan vedalaşmak zordu."
+  },
+  {
+    "nl": "afslaan, sloeg af, afgeslagen",
+    "tr": "dönmek, sapmak"
+  },
+  {
+    "nl": "Bij het stoplicht moet je links afslaan.",
+    "tr": "Trafik ışığında sola dönmelisin."
+  },
+  {
+    "nl": "afspreken, sprak af, afgesproken",
+    "tr": "anlaşmak, buluşmak, görüşmek"
+  },
+  {
+    "nl": "Laten we morgenavond afspreken voor het diner.",
+    "tr": "Yarın akşam yemeği için buluşalım."
+  },
+  {
+    "nl": "Afstaan",
+    "tr": "Vazgeçmek"
+  },
+  {
+    "nl": "Hij moest afstaan van zijn recht op de erfenis.",
+    "tr": "Miras hakkından vazgeçmesi gerekti."
+  },
+  {
+    "nl": "afstappen",
+    "tr": "inmek, uzaklaşmak (fikir)"
+  },
+  {
+    "nl": "Ze besloot af te stappen van haar vroegere overtuigingen.",
+    "tr": "Önceki inançlarından vazgeçmeye karar verdi."
+  },
+  {
+    "nl": "afsteken",
+    "tr": "ateşlemek (havai fişek)"
+  },
+  {
+    "nl": "Elk jaar steken ze vuurwerk af op oudejaarsavond.",
+    "tr": "Her yıl yeni yıl gecesi havai fişek ateşlerler."
+  },
+  {
+    "nl": "afstoffen",
+    "tr": "tozunu almak"
+  },
+  {
+    "nl": "Ik moet de boeken afstoffen voordat ik ze lees.",
+    "tr": "Okumadan önce kitapları tozdan arındırmam gerekiyor."
+  },
+  {
+    "nl": "aftellen",
+    "tr": "geriye doğru saymak"
+  },
+  {
+    "nl": "We moeten aftellen tot het nieuwe jaar begint.",
+    "tr": "Yeni yıl başlayana kadar geriye doğru saymalıyız."
+  },
+  {
+    "nl": "aftrekken",
+    "tr": "çıkarma işlemi yapmak"
+  },
+  {
+    "nl": "Als je 8 van 13 aftrekt, krijg je 5.",
+    "tr": "13'ten 8 çıkartırsanız, 5 alırsınız."
+  },
+  {
+    "nl": "afvallen, viel af, afgevallen, vermageren",
+    "tr": "kilo vermek, zayıflamak"
+  },
+  {
+    "nl": "Ze is succesvol afgevallen met een gezond dieet.",
+    "tr": "Sağlıklı bir diyetle başarılı bir şekilde kilo verdi."
+  },
+  {
+    "nl": "afwassen, waste af, afgewassen",
+    "tr": "bulaşık yıkamak"
+  },
+  {
+    "nl": "Laten we samen de borden afwassen na het eten.",
+    "tr": "Yemekten sonra birlikte tabakları yıkayalım."
+  },
+  {
+    "nl": "afzeggen, annuleren",
+    "tr": "iptal etmek (ders, toplantı)"
+  },
+  {
+    "nl": "Hij moest zijn afspraak afzeggen vanwege ziekte.",
+    "tr": "Hastalık nedeniyle randevusunu iptal etmek zorunda kaldı."
+  },
+  {
+    "nl": "afzeggen, annuleren (zegde af, h geannuleerd)",
+    "tr": "iptal etmek, geçersiz saymak, feshetmek"
+  },
+  {
+    "nl": "We moeten onze reisplannen helaas afzeggen.",
+    "tr": "Maalesef seyahat planlarımızı iptal etmeliyiz."
+  },
+  {
+    "nl": "afzien",
+    "tr": "feragat etmek, vazgeçmek, bırakmak"
+  },
+  {
+    "nl": "Voor mijn dieet besloot ik af te zien van suiker.",
+    "tr": "Diyetim için şekerden feragat etmeye karar verdim."
+  },
+  {
+    "nl": "amuseren, entertainen",
+    "tr": "eğlendirmek, neşelendirmek"
+  },
+  {
+    "nl": "De goochelaar amuseerde de kinderen met zijn trucs.",
+    "tr": "Sihirbaz çocukları numaralarıyla eğlendirdi."
+  },
+  {
+    "nl": "analyseren, analyseerde, geanalyseerd",
+    "tr": "analiz etmek"
+  },
+  {
+    "nl": "De wetenschappers analyseerden de resultaten van het experiment.",
+    "tr": "Bilim adamları deneyin sonuçlarını analiz ettiler."
+  },
+  {
+    "nl": "anders zijn",
+    "tr": "farklı olmak"
+  },
+  {
+    "nl": "Haar smaak in muziek is heel anders dan de mijne.",
+    "tr": "Müzik zevki benimkinden çok farklı."
+  },
+  {
+    "nl": "ankeren, verankeren, voor anker liggen",
+    "tr": "demir atmak, demirlemek"
+  },
+  {
+    "nl": "Het schip zal in de haven ankeren tot de storm voorbij is.",
+    "tr": "Gemi fırtına geçene kadar limanda demirleyecek."
+  },
+  {
+    "nl": "antwoorden, beantwoorden",
+    "tr": "cevaplamak, yanıtlamak, cevap vermek"
+  },
+  {
+    "nl": "Ze antwoordde snel op mijn vraag.",
+    "tr": "Soruma hızlı bir şekilde cevap verdi."
+  },
+  {
+    "nl": "arresteren (arresteerde(n),gearresteerd), aanhouden",
+    "tr": "tutuklamak"
+  },
+  {
+    "nl": "De politie arresteerde de verdachte na een lange achtervolging.",
+    "tr": "Uzun bir kovalamacanın ardından polis şüpheliyi tutukladı."
+  },
+  {
+    "nl": "arriveren, aankomen",
+    "tr": "ulaşmak, varmak"
+  },
+  {
+    "nl": "Onze trein zal naar verwachting om 15.30 uur arriveren.",
+    "tr": "Trenimizin tahmini olarak 15.30'da ulaşması bekleniyor."
+  },
+  {
+    "nl": "articuleren",
+    "tr": "tane tane söylemek, açık seçik belirtmek"
+  },
+  {
+    "nl": "Ze articuleerde haar woorden heel duidelijk.",
+    "tr": "Kelimelerini çok açık seçik belirtti."
+  },
+  {
+    "nl": "assisteren, helpen, bijstaan",
+    "tr": "yardımcı olmak, yardım etmek"
+  },
+  {
+    "nl": "De dokter assisteerde de chirurg tijdens de operatie.",
+    "tr": "Doktor ameliyat sırasında cerraha yardım etti."
+  },
+  {
+    "nl": "associeren met",
+    "tr": "birleştirmek, bağdaştırmak"
+  },
+  {
+    "nl": "Mensen associëren vaak de kleur rood met passie.",
+    "tr": "İnsanlar genellikle kırmızı rengi tutkuyla bağdaştırırlar."
+  },
+  {
+    "nl": "bakken bakte bakten gebakken",
+    "tr": "pişirmek, fırında pişirmek"
+  },
+  {
+    "nl": "Ik bakte heerlijke koekjes voor het feest.",
+    "tr": "Parti için harika kurabiyeler pişirdim."
+  },
+  {
+    "nl": "balen (baalde baalden; heeft gebaald",
+    "tr": "bıkmak, usanmak, nefret etmek"
+  },
+  {
+    "nl": "Hij baalde omdat hij zijn favoriete programma had gemist.",
+    "tr": "Favori programını kaçırdığı için bıktı."
+  },
+  {
+    "nl": "ballen",
+    "tr": "sıkmak, tutmak, kenetlemek"
+  },
+  {
+    "nl": "Hij balde zijn vuisten van woede.",
+    "tr": "Öfkesinden yumruklarını sıktı."
+  },
+  {
+    "nl": "bang zijn, vrezen",
+    "tr": "korkmak"
+  },
+  {
+    "nl": "De kinderen zijn bang voor het donker.",
+    "tr": "Çocuklar karanlıktan korkarlar."
+  },
+  {
+    "nl": "barbecuen",
+    "tr": "barbekü yapmak"
+  },
+  {
+    "nl": "We gaan vanavond barbecuen in de tuin.",
+    "tr": "Bu akşam bahçede barbekü yapacağız."
+  },
+  {
+    "nl": "baren, ter wereld brengen, voortbrengen",
+    "tr": "doğurmak, dünyaya getirmek"
+  },
+  {
+    "nl": "De olifant zal binnenkort een baby olifant baren.",
+    "tr": "Fil yakında bir bebek fil dünyaya getirecek."
+  },
+  {
+    "nl": "barsten barstte gebarsten",
+    "tr": "çatlamak, patlamak"
+  },
+  {
+    "nl": "De glazen barstten toen de temperatuur daalde.",
+    "tr": "Camlar sıcaklık düştüğünde çatladı."
+  },
+  {
+    "nl": "basketballen / basketbal spelen",
+    "tr": "basketbol oynamak"
+  },
+  {
+    "nl": "We basketballen elke zaterdag in het park.",
+    "tr": "Her Cumartesi parkta basketbol oynarız."
+  },
+  {
+    "nl": "beangstigen, bang maken, laten schrikken",
+    "tr": "korkutmak, düşüne düşürmek"
+  },
+  {
+    "nl": "Het harde geluid beangstigde de hond.",
+    "tr": "Yüksek ses köpeği korkuttu."
+  },
+  {
+    "nl": "bedekken (bedekte, bedekt)",
+    "tr": "örtmek, kaplamak"
+  },
+  {
+    "nl": "Ze bedekte de tafel met een kleurrijk tafelkleed.",
+    "tr": "Masayı renkli bir masa örtüsüyle kapladı."
+  },
+  {
+    "nl": "bederven, bedierf, bedorven",
+    "tr": "çürümek, bozulmak"
+  },
+  {
+    "nl": "De melk bedierf omdat hij niet in de koelkast stond.",
+    "tr": "Süt buzdolabında olmadığı için bozuldu."
+  },
+  {
+    "nl": "bedienen (bediende, bediend)",
+    "tr": "işletmek (dükkan), hizmet etmek"
+  },
+  {
+    "nl": "Het restaurant wordt goed bediend door vriendelijk personeel.",
+    "tr": "Restoran dostça personel tarafından iyi işletiliyor."
+  },
+  {
+    "nl": "bedoelen, bedoelde, bedoeld",
+    "tr": "demek istemek, kastetmek, niyet etmek"
+  },
+  {
+    "nl": "Wat bedoel je met dat cryptische bericht?",
+    "tr": "Bu gizemli mesajla ne demek istiyorsun?"
+  },
+  {
+    "nl": "beëindigen (beëindigde, heeft beëindigd)",
+    "tr": "sonlandırmak, bitirmek (ilişki)"
+  },
+  {
+    "nl": "Ze besloten om hun relatie te beëindigen.",
+    "tr": "İlişkilerini sonlandırmaya karar verdiler."
+  },
+  {
+    "nl": "begeleiden, begeleidde, begeleid",
+    "tr": "eşlik etmek, refakat etmek, yanında olmak"
+  },
+  {
+    "nl": "De gids zal ons door het museum begeleiden.",
+    "tr": "Rehber müze turumuzda bize eşlik edecek."
+  },
+  {
+    "nl": "begieten, water geven",
+    "tr": "sulamak"
+  },
+  {
+    "nl": "Vergeet niet om de planten regelmatig water te geven.",
+    "tr": "Bitkileri düzenli olarak sulamayı unutma."
+  },
+  {
+    "nl": "beginnen begon begonnen",
+    "tr": "başlamak"
+  },
+  {
+    "nl": "De les begint om 9 uur 's ochtends.",
+    "tr": "Ders sabah saat 9'da başlıyor."
+  },
+  {
+    "nl": "begraven, begroef, begraven",
+    "tr": "gömmek, defnetmek"
+  },
+  {
+    "nl": "Ze hebben hun huisdier in de tuin begraven.",
+    "tr": "Evcil hayvanlarını bahçede defnettiler."
+  },
+  {
+    "nl": "begrijpen, begreep, begrepen",
+    "tr": "anlamak, kavramak"
+  },
+  {
+    "nl": "Ik begrijp de instructies niet.",
+    "tr": "Talimatları anlamıyorum."
+  },
+  {
+    "nl": "behalen, bereiken",
+    "tr": "ulaşmak, elde etmek, başarmak"
+  },
+  {
+    "nl": "Ze heeft haar doel behaald en is erg trots.",
+    "tr": "Amacına ulaştı ve çok gurur duyuyor."
+  },
+  {
+    "nl": "behoren tot, toebehoren, bijhoren",
+    "tr": "ait olmak"
+  },
+  {
+    "nl": "Deze antieke sieraden behoren tot mijn grootmoeder.",
+    "tr": "Bu antika takılar büyükanneme ait."
+  },
+  {
+    "nl": "behouden, handhaven",
+    "tr": "korumak, sürdürmek, muhafaza etmek"
+  },
+  {
+    "nl": "Het is belangrijk om de historische gebouwen te behouden.",
+    "tr": "Tarihi binaları korumak önemlidir."
+  },
+  {
+    "nl": "behouden, houden, bewaren",
+    "tr": "tutmak, korumak, saklamak, alıkoymak"
+  },
+  {
+    "nl": "Ik bewaar mijn belangrijke documenten in een kluis.",
+    "tr": "Önemli belgelerimi bir kasada saklarım."
+  },
+  {
+    "nl": "beïnvloeden, invloed hebben",
+    "tr": "etkilemek, etkili olmak, tesir etmek"
+  },
+  {
+    "nl": "Haar woorden kunnen de beslissing beïnvloeden.",
+    "tr": "Sözleri kararı etkileyebilir."
+  },
+  {
+    "nl": "bekendmaken, aankondigen",
+    "tr": "duyurmak, bilinir yapmak"
+  },
+  {
+    "nl": "De burgemeester zal de winnaar van de wedstrijd bekendmaken.",
+    "tr": "Belediye başkanı yarışmanın kazananını duyuracak."
+  },
+  {
+    "nl": "bekennen, toegeven",
+    "tr": "günah çıkarmak, itiraf etmek"
+  },
+  {
+    "nl": "Hij bekende eindelijk zijn fouten.",
+    "tr": "Sonunda hatalarını itiraf etti."
+  },
+  {
+    "nl": "bekeuren, bekeurde, bekeurd",
+    "tr": "para cezası vermek, trafik cezası"
+  },
+  {
+    "nl": "De politie zal je bekeuren als je te snel rijdt.",
+    "tr": "Hız sınırını aşıyorsanız polis sizi cezalandıracaktır."
+  },
+  {
+    "nl": "bekijken, bekeek, bekeken",
+    "tr": "incelemek, iyice bakmak"
+  },
+  {
+    "nl": "Ze besloot de schilderijen aandachtig te bekijken.",
+    "tr": "Tabloları dikkatlice incelemeye karar verdi."
+  },
+  {
+    "nl": "beledigen, uitschelden",
+    "tr": "gücendirmek, azarlamak, aşağılamak, rencide etmek"
+  },
+  {
+    "nl": "Het is niet beleefd om anderen te beledigen.",
+    "tr": "Başkalarını aşağılamak nezaketli değildir."
+  },
+  {
+    "nl": "beleggen, investeren",
+    "tr": "yatırım yapmak, yatırmak"
+  },
+  {
+    "nl": "Hij wil zijn geld in vastgoed beleggen.",
+    "tr": "Parasını gayrimenkulde yatırmak istiyor."
+  },
+  {
+    "nl": "beleven (beleefde, beleefd) (= meemaken)",
+    "tr": "tecrübe etmek, yaşamak"
+  },
+  {
+    "nl": "We beleefden een spannend avontuur tijdens onze reis.",
+    "tr": "Yolumuz boyunca heyecan verici bir macera yaşadık."
+  },
+  {
+    "nl": "beleven (meemaken, ervaren)",
+    "tr": "yaşamak, tecrübe etmek"
+  },
+  {
+    "nl": "Ze wil graag nieuwe dingen beleven en ontdekken.",
+    "tr": "Yeni şeyler yaşamak ve keşfetmek istiyor."
+  },
+  {
+    "nl": "beleven, meemaken",
+    "tr": "tecrübe etmek, yaşamak"
+  },
+  {
+    "nl": "We hopen veel plezierige momenten te beleven op vakantie.",
+    "tr": "Tatilde keyifli anlar yaşamayı umuyoruz."
+  },
+  {
+    "nl": "bellen (belde belden; heeft gebeld)",
+    "tr": "telefonla aramak"
+  },
+  {
+    "nl": "Ik zal je vanavond bellen om onze plannen te bespreken.",
+    "tr": "Bu akşam seni arayacağım, planlarımızı konuşalım."
+  },
+  {
+    "nl": "belonen, beloonde, beloond",
+    "tr": "ödüllendirmek, mükafatlandırmak"
+  },
+  {
+    "nl": "De leerkracht beloonde de studenten voor hun harde werk.",
+    "tr": "Öğretmen öğrencileri çalışmaları için ödüllendirdi."
+  },
+  {
+    "nl": "beloven (beloofde, beloofd)",
+    "tr": "söz vermek, vaat etmek"
+  },
+  {
+    "nl": "Hij beloofde me dat hij op tijd thuis zou zijn.",
+    "tr": "Bana zamanında eve döneceğine söz verdi."
+  },
+  {
+    "nl": "beloven, toezeggen, uitloven",
+    "tr": "söz vermek, umut vermek, vaat etmek"
+  },
+  {
+    "nl": "Het bedrijf belooft een bonus aan de beste werknemers.",
+    "tr": "Şirket en iyi çalışanlara bir prim vaat ediyor."
+  },
+  {
+    "nl": "bemachtigen, verwerven",
+    "tr": "kapmak, elde etmek"
+  },
+  {
+    "nl": "Hij wist de zeldzame postzegel te bemachtigen.",
+    "tr": "O nadir pulu kapmayı başardı."
+  },
+  {
+    "nl": "bemesten",
+    "tr": "gübreleme"
+  },
+  {
+    "nl": "Het is belangrijk om de grond in de tuin regelmatig te bemesten.",
+    "tr": "Bahçedeki toprağı düzenli olarak gübrelemek önemlidir."
+  },
+  {
+    "nl": "benadrukken, de nadruk leggen op, accent leggen",
+    "tr": "vurgulamak"
+  },
+  {
+    "nl": "De leraar benadrukte het belang van de juiste grammatica.",
+    "tr": "Öğretmen doğru dilbilgisinin önemini vurguladı."
+  },
+  {
+    "nl": "benauwen",
+    "tr": "baskı yapmak, bunaltmak, ezmek"
+  },
+  {
+    "nl": "De drukke menigte begon me te benauwen.",
+    "tr": "Kalabalık insanlar beni sıkmaya başladı."
+  },
+  {
+    "nl": "benijden, jaloers zijn op",
+    "tr": "kıskanmak, çekememek, gözü kalmak"
+  },
+  {
+    "nl": "Ze benijdt haar vriendin om haar succes.",
+    "tr": "Arkadaşının başarısını kıskanıyor."
+  },
+  {
+    "nl": "benoemen, aanstellen",
+    "tr": "atamak, tayin etmek"
+  },
+  {
+    "nl": "De directeur zal een nieuwe manager benoemen.",
+    "tr": "Genel müdür yeni bir yönetici atayacak."
+  },
+  {
+    "nl": "benutten, gebruik maken van, uitmelken",
+    "tr": "faydalanmak, istifade etmek, kullanmak"
+  },
+  {
+    "nl": "Ze wilde elke kans benutten om te groeien in haar carrière.",
+    "tr": "Kariyerinde büyümek için her fırsatı kullanmak istedi."
+  },
+  {
+    "nl": "beoordelen (beoordeelde, beoordeeld)",
+    "tr": "yargılamak, değerlendirme yapmak"
+  },
+  {
+    "nl": "De jury zal de prestaties van de deelnemers beoordelen.",
+    "tr": "Jüri katılımcıların performansını değerlendirecek."
+  },
+  {
+    "nl": "bepalen (bepaalde, heeft bepaald)",
+    "tr": "belirlemek, saptamak"
+  },
+  {
+    "nl": "Het weer kan het succes van het evenement bepalen.",
+    "tr": "Hava durumu etkinliğin başarısını belirleyebilir."
+  },
+  {
+    "nl": "beperken (zich - tot))",
+    "tr": "sınırlamak, sınırlandırmak, limit koymak"
+  },
+  {
+    "nl": "We moeten ons tot de belangrijkste punten beperken.",
+    "tr": "En önemli noktalara sınırlı kalmamız gerekiyor."
+  },
+  {
+    "nl": "bereiden, klaarmaken",
+    "tr": "hazırlamak, hazırlık yapmak"
+  },
+  {
+    "nl": "Ze is druk bezig met het bereiden van het avondeten.",
+    "tr": "Akşam yemeğini hazırlamakla meşgul."
+  },
+  {
+    "nl": "bereiken (bereikte, bereikt)",
+    "tr": "elde etmek, ulaşmak"
+  },
+  {
+    "nl": "Hij heeft eindelijk zijn doel bereikt na jaren van hard werken.",
+    "tr": "Uzun yılların ardından sonunda amacına ulaştı."
+  },
+  {
+    "nl": "berekenen, uitrekenen",
+    "tr": "hesaplamak, hesap etmek"
+  },
+  {
+    "nl": "Ze moest de totale kosten van het project berekenen.",
+    "tr": "Proje toplam maliyetini hesaplamak zorundaydı."
+  },
+  {
+    "nl": "bergen, borg, geborgen",
+    "tr": "istiflemek, korumak, kurtarmak"
+  },
+  {
+    "nl": "De reddingswerkers hebben de vermiste bergbeklimmers geborgen.",
+    "tr": "Kurtarma ekipleri kayıp dağcıları kurtardı."
+  },
+  {
+    "nl": "berichten, melden, waarschuwen",
+    "tr": "bildirmek, rapor etmek, mesaj göndermek"
+  },
+  {
+    "nl": "De politie zal de inwoners waarschuwen voor de naderende storm.",
+    "tr": "Polis, yerlilere yaklaşan fırtınaya karşı uyarıda bulunacak."
+  },
+  {
+    "nl": "berusten",
+    "tr": "kabullenmek, vazgeçmek, bırakmak"
+  },
+  {
+    "nl": "Ze besloot eindelijk te berusten en de situatie te accepteren.",
+    "tr": "Sonunda durumu kabul edip vazgeçmeye karar verdi."
+  },
+  {
+    "nl": "beschadigen, schaden",
+    "tr": "zarar vermek, hasara uğratmak"
+  },
+  {
+    "nl": "De hagelbui kan de gewassen in de tuin beschadigen.",
+    "tr": "Dolu yağışı bahçedeki bitkileri zarar verebilir."
+  },
+  {
+    "nl": "beschermen (beschermde, beschermd)",
+    "tr": "korumak, korunmak"
+  },
+  {
+    "nl": "Ouders willen altijd hun kinderen beschermen.",
+    "tr": "Ebeveynler her zaman çocuklarını korumak isterler."
+  },
+  {
+    "nl": "beschikken (beschikte, beschikt) (over)",
+    "tr": "kontrolünde tutmak, elden çıkarmak"
+  },
+  {
+    "nl": "Ze beschikte over veel kennis en ervaring in haar vakgebied.",
+    "tr": "Alanında çok bilgi ve deneyime sahipti."
+  },
+  {
+    "nl": "beschouwen, overwegen, van mening zijn",
+    "tr": "düşünmek, göz önünde bulundurmak, dikkate almak"
+  },
+  {
+    "nl": "Het is belangrijk om de kosten te beschouwen voordat je een beslissing neemt.",
+    "tr": "Bir karar vermeden önce maliyetleri düşünmek önemlidir."
+  },
+  {
+    "nl": "beschrijven, beschreef, beschreven",
+    "tr": "tanımlamak, tarif etmek"
+  },
+  {
+    "nl": "De schrijver probeert de sfeer van het verlaten huis te beschrijven.",
+    "tr": "Yazar terk edilmiş evin atmosferini tarif etmeye çalışıyor."
+  },
+  {
+    "nl": "beschutten",
+    "tr": "barınmak, barındırmak, korumak"
+  },
+  {
+    "nl": "De hut beschutte ons tegen de hevige regen tijdens de wandeling.",
+    "tr": "Kulübe yürüyüş sırasında şiddetli yağmurdan korundu."
+  },
+  {
+    "nl": "beslissen (besliste, beslist)",
+    "tr": "karar vermek"
+  },
+  {
+    "nl": "Ze moet beslissen welke universiteit ze zal bijwonen.",
+    "tr": "Hangi üniversiteye katılacağına karar vermesi gerekiyor."
+  },
+  {
+    "nl": "besluiten, besloot, besloten",
+    "tr": "karar vermek, kararlaştırmak"
+  },
+  {
+    "nl": "Ze besloten om hun vakantie naar de bergen te verlengen.",
+    "tr": "Dağlara uzatmaya karar verdiler."
+  },
+  {
+    "nl": "besmetten, overbrengen, besmet zijn",
+    "tr": "bulaştırmak, enfekte olmak, aşılamak"
+  },
+  {
+    "nl": "Het virus kan gemakkelijk worden besmet door contact met besmette oppervlakken.",
+    "tr": "Virüs enfekte yüzeylerle temas yoluyla kolayca bulaşabilir."
+  },
+  {
+    "nl": "bespreken (besprak, besproken)",
+    "tr": "tartışmak, müzakere etmek"
+  },
+  {
+    "nl": "We moeten de kwestie grondig bespreken voordat we een beslissing nemen.",
+    "tr": "Bir karar vermeden önce meseleyi iyice tartışmamız gerekiyor."
+  },
+  {
+    "nl": "bespreken, discussiëren, discussie voeren",
+    "tr": "tartışmak, tartışma yapmak"
+  },
+  {
+    "nl": "Ze houden een vergadering om de plannen te bespreken en ideeën uit te wisselen.",
+    "tr": "Planları tartışmak ve fikirler paylaşmak için bir toplantı düzenliyorlar."
+  },
+  {
+    "nl": "bespringen",
+    "tr": "üstüne atlamak, dalıvermek, saldırmak"
+  },
+  {
+    "nl": "De hond besprong me enthousiast toen ik thuiskwam.",
+    "tr": "Eve geldiğimde köpek beni coşkulu bir şekilde karşıladı."
+  },
+  {
+    "nl": "Bestaan uit, bestond, bestaan",
+    "tr": "var olmak, bulunmak (varoluş)"
+  },
+  {
+    "nl": "Het eiland bestaat uit prachtige stranden en weelderige bossen.",
+    "tr": "Ada muhteşem plajlardan ve yeşil ormanlardan oluşuyor."
+  },
+  {
+    "nl": "besteden/uitgeven aan",
+    "tr": "harcamak (zaman- para)"
+  },
+  {
+    "nl": "Ze besteedt veel tijd aan het lezen van boeken.",
+    "tr": "Kitap okumaya çok zaman harcıyor."
+  },
+  {
+    "nl": "bestellen (bestelde, besteld), plaatsen",
+    "tr": "sipariş etmek, sipariş vermek"
+  },
+  {
+    "nl": "Ik zal de pizza bestellen voor het diner vanavond.",
+    "tr": "Bu akşamki akşam yemeği için pizzayı sipariş edeceğim."
+  },
+  {
+    "nl": "bestrijden, vechten tegen",
+    "tr": "mücadele etmek, savaşmak"
+  },
+  {
+    "nl": "De overheid neemt maatregelen om criminaliteit te bestrijden.",
+    "tr": "Hükümet suçla mücadele etmek için önlemler alıyor."
+  },
+  {
+    "nl": "bestrooien, strooien",
+    "tr": "serpmek"
+  },
+  {
+    "nl": "De kokosnoot wordt bestrooid met suiker voordat hij wordt geroosterd.",
+    "tr": "Hindistancevizi kızartılmadan önce şekerle serpilir."
+  },
+  {
+    "nl": "betalen (betaalde, heeft betaald)",
+    "tr": "ödemek, ödeme yapmak"
+  },
+  {
+    "nl": "Ik zal de rekening betalen voor het etentje van gisteravond.",
+    "tr": "Dün akşamki yemeğin hesabını ödeyeceğim."
+  },
+  {
+    "nl": "beteugelen (beteugelde, beteugeld)",
+    "tr": "zapt etmek, sınırlamak, frenlemek"
+  },
+  {
+    "nl": "Het is belangrijk om je emoties te beteugelen in stressvolle situaties.",
+    "tr": "Stresli durumlarda duygularınızı frenlemek önemlidir."
+  },
+  {
+    "nl": "betrappen",
+    "tr": "yakalamak, görmek, kapmak"
+  },
+  {
+    "nl": "Ik betrapte mijn broertje terwijl hij stiekem koekjes at.",
+    "tr": "Küçük kardeşimi gizlice kurabiye yiyorken yakaladım."
+  },
+  {
+    "nl": "betreffen (betrof, betroffen), wat betreft",
+    "tr": "ilgilendirmek, ilişkisi olmak, bu konuya ilişkin"
+  },
+  {
+    "nl": "De nieuwe regelgeving betreft alle medewerkers in het bedrijf.",
+    "tr": "Yeni düzenlemeler şirketteki tüm çalışanları ilgilendiriyor."
+  },
+  {
+    "nl": "betrekken (betrok, betrokken)",
+    "tr": "kapsamak, bulaştırmak, içine almak"
+  },
+  {
+    "nl": "De nieuwe regelgeving zal alle medewerkers betrekken.",
+    "tr": "Yeni yönetmelik tüm çalışanları içine alacak."
+  },
+  {
+    "nl": "Betrekken bij, betrok, betrokken",
+    "tr": "kapsamak, dahil olmak, içine almak"
+  },
+  {
+    "nl": "Ze wil haar vrienden betrekken bij de planning van het feest.",
+    "tr": "Arkadaşlarını parti planlamasına dahil etmek istiyor."
+  },
+  {
+    "nl": "bevallen, leuk vinden",
+    "tr": "hoş bulmak, hamile olmak"
+  },
+  {
+    "nl": "Ze is dolgelukkig met haar zwangerschap en vindt het leuk.",
+    "tr": "Hamileliği ile çok mutlu ve hoşlanıyor."
+  },
+  {
+    "nl": "bevatten, inhouden, omvatten",
+    "tr": "içermek, ihtiva etmek, kapsamak"
+  },
+  {
+    "nl": "Dit product bevat alle benodigde ingrediënten voor een heerlijke maaltijd.",
+    "tr": "Bu ürün lezzetli bir yemek için gereken tüm malzemeleri içeriyor."
+  },
+  {
+    "nl": "bevelen beval bevolen",
+    "tr": "emretmek"
+  },
+  {
+    "nl": "De generaal gaf het bevel aan de troepen om zich gereed te maken voor de aanval.",
+    "tr": "General, saldırıya hazırlanmaları için birliklere emir verdi."
+  },
+  {
+    "nl": "bevoegd zijn, geautoriseerd zijn",
+    "tr": "yetkili olmak, yetkisi olmak"
+  },
+  {
+    "nl": "Alleen bevoegd personeel heeft toegang tot dit gevoelige informatie.",
+    "tr": "Sadece yetkili personel bu hassas bilgilere erişim iznine sahiptir."
+  },
+  {
+    "nl": "bevorderen, promoten, promoveren",
+    "tr": "terfi almak, ilerlemek, yükselmek"
+  },
+  {
+    "nl": "Ze werkte hard om te bevorderen en uiteindelijk een leidinggevende positie te bereiken.",
+    "tr": "Terfi etmek ve sonunda bir yönetici pozisyonuna ulaşmak için çok çalıştı."
+  },
+  {
+    "nl": "bevorderen, promoten, vooruitgaan",
+    "tr": "desteklemek, yükseltmek, ilerlemek, geliştirmek"
+  },
+  {
+    "nl": "Het nieuwe beleid is gericht op het bevorderen van duurzame ontwikkeling.",
+    "tr": "Yeni politika sürdürülebilir kalkınmayı desteklemeyi amaçlıyor."
+  },
+  {
+    "nl": "bewaren (bewaarde, bewaard)",
+    "tr": "tutmak, muhafaza etmek, saklamak"
+  },
+  {
+    "nl": "Het is belangrijk om voedsel op de juiste manier te bewaren om bederf te voorkomen.",
+    "tr": "Bozulmayı önlemek için yiyecekleri doğru şekilde saklamak önemlidir."
+  },
+  {
+    "nl": "bewegen, bewoog, bewogen",
+    "tr": "hareket etmek, kıpırdamak"
+  },
+  {
+    "nl": "Hij houdt van sporten en regelmatig bewegen.",
+    "tr": "Spor yapmayı ve düzenli olarak hareket etmeyi seviyor."
+  },
+  {
+    "nl": "beweren (beweerde, beweerd)",
+    "tr": "iddia etmek, talep etmek"
+  },
+  {
+    "nl": "De auteur beweerde dat zijn boek gebaseerd was op waargebeurde feiten.",
+    "tr": "Yazar kitabının gerçek olaylara dayandığını iddia etti."
+  },
+  {
+    "nl": "bewijzen , tonen, blijken",
+    "tr": "kanıtlamak, ispatlamak"
+  },
+  {
+    "nl": "Ze kon haar onschuld bewijzen met behulp van bewijsmateriaal.",
+    "tr": "Delil kullanarak masumiyetini kanıtlayabildi."
+  },
+  {
+    "nl": "bewijzen (bewees, bewezen)",
+    "tr": "kanıtlamak, göstermek"
+  },
+  {
+    "nl": "De getuigen konden het misdrijf bewijzen voor de rechtbank.",
+    "tr": "Tanıklar suçu mahkemeye kanıtlayabildi."
+  },
+  {
+    "nl": "bewonderen, bewonderde, bewonderd",
+    "tr": "hayran olmak, çok beğenmek"
+  },
+  {
+    "nl": "Velen bewonderen de kunstwerken van de beroemde schilder.",
+    "tr": "Birçok insan ünlü ressamın sanat eserlerini hayranlıkla izliyor."
+  },
+  {
+    "nl": "bewust zijn, besef",
+    "tr": "bilinçli olmak, farkında olmak"
+  },
+  {
+    "nl": "Hij is zich bewust van de gevolgen van zijn handelingen.",
+    "tr": "Kendi davranışlarının sonuçlarının farkında."
+  },
+  {
+    "nl": "bezetten (bezette(n), bezet)",
+    "tr": "işgal etmek, oturmak, meşgul etmek"
+  },
+  {
+    "nl": "De demonstranten besloten het plein te bezetten om hun eisen te uiten.",
+    "tr": "Göstericiler taleplerini dile getirmek için meydanı işgal etmeye karar verdiler."
+  },
+  {
+    "nl": "bezichtigen (bezichtigde, h bezichtigd)",
+    "tr": "gezip görmek"
+  },
+  {
+    "nl": "Tijdens onze vakantie konden we veel historische bezienswaardigheden bezichtigen.",
+    "tr": "Tatilimiz sırasında birçok tarihi yer görebildik."
+  },
+  {
+    "nl": "bezig zijn met",
+    "tr": "uğraşmak"
+  },
+  {
+    "nl": "Ze is bezig met het schrijven van haar afstudeerscriptie.",
+    "tr": "Mezuniyet tezini yazmakla meşgul."
+  },
+  {
+    "nl": "bezitten, bezat, bezeten",
+    "tr": "sahibi olmak, mülkiyeti elinde bulundurmak"
+  },
+  {
+    "nl": "Ze bezit een indrukwekkende collectie kunstwerken.",
+    "tr": "Etkileyici bir sanat eserleri koleksiyonuna sahip."
+  },
+  {
+    "nl": "bezoeken, bezocht, bezocht",
+    "tr": "ziyaret etmek"
+  },
+  {
+    "nl": "We besloten om Parijs te bezoeken tijdens onze Europese tour.",
+    "tr": "Avrupa turumuz sırasında Paris'i ziyaret etmeye karar verdik."
+  },
+  {
+    "nl": "bezorgen, bezorgde, bezorgd",
+    "tr": "teslim etmek, ilgilenmek, temin etmek"
+  },
+  {
+    "nl": "De koerier zal het pakket morgenochtend bezorgen.",
+    "tr": "Kurye yarın sabah paketi teslim edecek."
+  },
+  {
+    "nl": "bezuinigen, bezuinigde, bezuinigd, zuinig zijn",
+    "tr": "tasarruf etmek, iktisatlı davranmak"
+  },
+  {
+    "nl": "Het gezin besloot te bezuinigen op hun maandelijkse uitgaven.",
+    "tr": "Aile aylık harcamalarında tasarruf yapmaya karar verdi."
+  },
+  {
+    "nl": "bezwaar maken tegen, bezwaren",
+    "tr": "itiraz etmek"
+  },
+  {
+    "nl": "De buurtbewoners maakten bezwaar tegen de bouw van de nieuwe snelweg.",
+    "tr": "Mahalle sakinleri yeni otoyolun inşasına itiraz ettiler."
+  },
+  {
+    "nl": "bibberen, beven, rillen",
+    "tr": "titremek, ürpermek"
+  },
+  {
+    "nl": "Ze begon te bibberen van de kou terwijl ze buiten stond te wachten.",
+    "tr": "Dışarıda beklerken soğuktan titremeye başladı."
+  },
+  {
+    "nl": "bidden bad gebeden",
+    "tr": "dua etmek"
+  },
+  {
+    "nl": "Veel mensen bidden dagelijks als onderdeel van hun geloof.",
+    "tr": "Birçok insan, inançlarının bir parçası olarak günlük olarak dua eder."
+  },
+  {
+    "nl": "bieden, aanbieden",
+    "tr": "teklif etmek, sunmak, ikram etmek"
+  },
+  {
+    "nl": "Hij besloot een hoger salaris te bieden om de ervaren werknemer te behouden.",
+    "tr": "Deneyimli çalışanı elde tutmak için daha yüksek bir maaş teklif etmeye karar verdi."
+  },
+  {
+    "nl": "bieden, bood, geboden",
+    "tr": "sunmak, teklif etmek"
+  },
+  {
+    "nl": "Tijdens de veiling bood hij een hoge prijs voor het zeldzame schilderij.",
+    "tr": "Müzayede sırasında nadir tablo için yüksek bir fiyat teklif etti."
+  },
+  {
+    "nl": "bijdoen, toevoegen, bijvoegen",
+    "tr": "katmak, eklemek, artırmak, ilave etmek"
+  },
+  {
+    "nl": "Voeg wat suiker toe om de smaak van de saus te verbeteren.",
+    "tr": "Sosun tadını iyileştirmek için biraz şeker ekleyin."
+  },
+  {
+    "nl": "Bijdragen, droeg bij, bijgedragen",
+    "tr": "katkıda bulunmak, katkı sağlamak"
+  },
+  {
+    "nl": "Iedereen in het team moet bijdragen aan het succes van het project.",
+    "tr": "Takımdaki herkes projenin başarısına katkıda bulunmalıdır."
+  },
+  {
+    "nl": "bijhouden, hield bij, bijgehouden",
+    "tr": "sürdürmek, bozmamak, devam ettirmek, yüksek seviyede tutmak"
+  },
+  {
+    "nl": "Hij houdt zijn financiën goed bij om schulden te voorkomen.",
+    "tr": "Borçları önlemek için mali durumunu iyi takip ediyor."
+  },
+  {
+    "nl": "bijten beet gebeten",
+    "tr": "ısırmak"
+  },
+  {
+    "nl": "Pas op voor de hond, hij kan bijten.",
+    "tr": "Köpeğe dikkat et, ısırayabilir."
+  },
+  {
+    "nl": "bijwonen, naartoe gaan",
+    "tr": "katılmak, eşlik etmek, beraberinde getirmek"
+  },
+  {
+    "nl": "Zullen we het concert samen bijwonen?",
+    "tr": "Konseri birlikte mi izleyelim?"
+  },
+  {
+    "nl": "binnenhouden",
+    "tr": "içeride tutmak, zaptetmek"
+  },
+  {
+    "nl": "Het is beter om de kinderen binnen te houden tijdens het onweer.",
+    "tr": "Fırtına sırasında çocukları içeride tutmak daha iyidir."
+  },
+  {
+    "nl": "binnenkomen (kwam binnen, binnengekomen)",
+    "tr": "içeri girmek"
+  },
+  {
+    "nl": "Klopt de bel? Dat betekent dat er iemand binnenkomt.",
+    "tr": "Kapı çalıyor mu? Bu, birinin içeri girdiği anlamına gelir."
+  },
+  {
+    "nl": "Binnenvaren (de haven -)",
+    "tr": "giriş yapmak, limana girmek"
+  },
+  {
+    "nl": "Het schip zal morgenochtend de haven binnenvaren.",
+    "tr": "Gemisi yarın sabah limana girecek."
+  },
+  {
+    "nl": "blaffen, blafte, geblaft",
+    "tr": "havlamak"
+  },
+  {
+    "nl": "Blaffende honden bijten niet.",
+    "tr": "Havlayan köpek ısırmaz."
+  },
+  {
+    "nl": "blazen blies geblazen",
+    "tr": "üflemek"
+  },
+  {
+    "nl": "Hij blies de kaarsen uit voordat we naar bed gingen.",
+    "tr": "Yatmadan önce mumları söndürdü."
+  },
+  {
+    "nl": "Blijken, bleek, gebleken",
+    "tr": "göstermek, ortaya çıkarmak(araştırma), ortaya koymak"
+  },
+  {
+    "nl": "Uit het onderzoek bleek dat er geen verband was tussen de twee gebeurtenissen.",
+    "tr": "Araştırmadan elde edilen verilere göre iki olay arasında bir ilişki olmadığı ortaya çıktı."
+  },
+  {
+    "nl": "blijven zoeken",
+    "tr": "aramaya devam etmek"
+  },
+  {
+    "nl": "Ze zal blijven zoeken tot ze haar vermiste kat vindt.",
+    "tr": "Kayıp kediyi bulana kadar aramaya devam edecek."
+  },
+  {
+    "nl": "Bloeden - bloedde - gebloed",
+    "tr": "kanamak"
+  },
+  {
+    "nl": "Een kleine snee kan hevig bloeden, maar is meestal niet ernstig.",
+    "tr": "Küçük bir kesik şiddetli kanayabilir, ancak genellikle ciddi değildir."
+  },
+  {
+    "nl": "bloeien, bloeide, gebloeid",
+    "tr": "çiçek açmak"
+  },
+  {
+    "nl": "De bloemen in de tuin bloeien prachtig in de lente.",
+    "tr": "Bahçedeki çiçekler baharın güzelliğiyle açıyor."
+  },
+  {
+    "nl": "blokkeren",
+    "tr": "bloklamak, engellemek"
+  },
+  {
+    "nl": "Het slechte weer kan wegen blokkeren en reizen bemoeilijken.",
+    "tr": "Kötü hava yolları kapatıp seyahati zorlaştırabilir."
+  },
+  {
+    "nl": "blootstellen",
+    "tr": "maruz bırakmak, teşhir etmek, karşı karşıya bırakmak"
+  },
+  {
+    "nl": "Ze wilde haar kunstwerken blootstellen aan een breder publiek.",
+    "tr": "Sanat eserlerini daha geniş bir izleyici kitlesine açıklamak istedi."
+  },
+  {
+    "nl": "blozen, rood worden",
+    "tr": "kızarmak(suratı, yanağı)"
+  },
+  {
+    "nl": "Ze begon te blozen toen hij haar een compliment gaf.",
+    "tr": "Ona bir iltifat ettiğinde kızarmaya başladı."
+  },
+  {
+    "nl": "blussen, bluste, geblust",
+    "tr": "söndürmek"
+  },
+  {
+    "nl": "De brandweermannen konden het vuur snel blussen.",
+    "tr": "İtfaiyeciler yangını hızla söndürebildiler."
+  },
+  {
+    "nl": "boeien/fascineren",
+    "tr": "cezbetmek, büyülemek"
+  },
+  {
+    "nl": "Het spannende verhaal boeide me van begin tot eind.",
+    "tr": "Heyecan verici hikaye beni başından sonuna kadar büyüledi."
+  },
+  {
+    "nl": "boeken (boekte, geboekt)",
+    "tr": "rezervasyon yaptırmak"
+  },
+  {
+    "nl": "Ik zal een hotelkamer boeken voor ons weekendje weg.",
+    "tr": "Hafta sonu kaçamağımız için bir otel odası ayırmalıyım."
+  },
+  {
+    "nl": "boren-boorde-geboord",
+    "tr": "delmek"
+  },
+  {
+    "nl": "Ze boren gaten in de muur om planken op te hangen.",
+    "tr": "Duvarlara raflar asmak için delikler açıyorlar."
+  },
+  {
+    "nl": "borrelen, een borrel drinken",
+    "tr": "bir şeyler içmek, takılmak"
+  },
+  {
+    "nl": "Laten we vanavond wat borrelen en bijpraten.",
+    "tr": "Bu akşam biraz içip sohbet edelim."
+  },
+  {
+    "nl": "borstelen",
+    "tr": "fırçalamak, süpürmek"
+  },
+  {
+    "nl": "Ze borstelt haar haren voordat ze de deur uitgaat.",
+    "tr": "Kapıdan çıkmadan önce saçlarını fırçalıyor."
+  },
+  {
+    "nl": "bouwen (bouwde, gebouwd)",
+    "tr": "inşa etmek"
+  },
+  {
+    "nl": "Het bouwbedrijf zal binnenkort beginnen met de bouw van het nieuwe huis.",
+    "tr": "İnşaat şirketi yakında yeni evin inşasına başlayacak."
+  },
+  {
+    "nl": "braden braadde gebraden",
+    "tr": "kızartmak, kavurmak"
+  },
+  {
+    "nl": "Hij houdt ervan om vlees te braden op de barbecue.",
+    "tr": "Barbeküde et kızartmayı seviyor."
+  },
+  {
+    "nl": "brand uitbreken",
+    "tr": "yangın çıkmak, bir anda alevlenmek"
+  },
+  {
+    "nl": "Een brand kan op elk moment uitbreken, dus wees voorbereid.",
+    "tr": "Yangın her an patlak verebilir, bu yüzden hazırlıklı olun."
+  },
+  {
+    "nl": "brengen bracht brachten gebracht",
+    "tr": "getirmek, kazandırmak, götürmek"
+  },
+  {
+    "nl": "Ze bracht een heerlijk dessert mee naar het etentje.",
+    "tr": "Akşam yemeğine harika bir tatlı getirdi."
+  },
+  {
+    "nl": "bril opzetten",
+    "tr": "gözlük takmak"
+  },
+  {
+    "nl": "Hij moet altijd zijn leesbril opzetten om kleine letters te kunnen lezen.",
+    "tr": "Küçük harfleri okuyabilmek için her zaman okuma gözlüğünü takmalıdır."
+  },
+  {
+    "nl": "buigen boog gebogen",
+    "tr": "eğmek, eğilmek, bükülmek"
+  },
+  {
+    "nl": "Ze boog voorover om haar veters te strikken.",
+    "tr": "Bağcıklarını bağlamak için öne eğildi."
+  },
+  {
+    "nl": "chanteren",
+    "tr": "şantaj yapmak"
+  },
+  {
+    "nl": "Hij werd gechanteerd met compromitterende foto's.",
+    "tr": "Onunla ahlaka aykırı fotoğraflar kullanılarak şantaj yapıldı."
+  },
+  {
+    "nl": "chatten - gechat",
+    "tr": "chat yapmak"
+  },
+  {
+    "nl": "Tijdens de pauze chatten we graag met onze collega's.",
+    "tr": "Ara verilen sırada meslektaşlarımızla sohbet etmeyi severiz."
+  },
+  {
+    "nl": "claimen/eisen, beweren",
+    "tr": "iddiada bulunmak, talep etmek"
+  },
+  {
+    "nl": "Ze claimde dat ze het eerste idee had voor het nieuwe product.",
+    "tr": "Yeni ürün için ilk fikri kendisinin bulduğunu iddia etti."
+  },
+  {
+    "nl": "communiceren (communiceerde, h. gecommuniceerd)",
+    "tr": "iletişime geçmek, haberleşmek"
+  },
+  {
+    "nl": "Tijdens de vergadering moeten we effectief communiceren om onze doelen te bereiken.",
+    "tr": "Hedeflerimize ulaşmak için toplantı sırasında etkili bir şekilde iletişim kurmalıyız."
+  },
+  {
+    "nl": "componeren-componeerde-gecomponeerd",
+    "tr": "oluşturmak, yazmak, eser yaratmak, bestelemek"
+  },
+  {
+    "nl": "De componist componeerde een prachtige symfonie voor het orkest.",
+    "tr": "Besteci orkestra için muhteşem bir senfoni besteledi."
+  },
+  {
+    "nl": "concentreren, zich richten",
+    "tr": "yoğunlaşmak, odaklanmak"
+  },
+  {
+    "nl": "Om de taak af te maken, moet je je concentreren en je richten op de details.",
+    "tr": "Görevi tamamlamak için ayrıntılara odaklanmalı ve yoğunlaşmalısın."
+  },
+  {
+    "nl": "concluderen, besluiten, opmaken",
+    "tr": "sonuçlandırmak, karara varmak, bitirmek"
+  },
+  {
+    "nl": "Na lang overleg besloten ze om het project te concluderen en de resultaten te presenteren.",
+    "tr": "Uzun bir görüşmenin ardından, projeyi sonlandırmaya ve sonuçları sunmaya karar verdiler."
+  },
+  {
+    "nl": "conclusie trekken",
+    "tr": "sonuç, hüküm çıkarmak"
+  },
+  {
+    "nl": "Na het analyseren van de gegevens trokken ze de conclusie dat er verbeteringen nodig waren.",
+    "tr": "Verileri analiz ettikten sonra, geliştirmeler gerektiği sonucuna vardılar."
+  },
+  {
+    "nl": "condoleren",
+    "tr": "başsağlığı dilemek, acısını paylaşmak"
+  },
+  {
+    "nl": "We willen ons medeleven betuigen en ons diepste respect betuigen voor het verlies van uw dierbare.",
+    "tr": "Sevgilinizi kaybınız için başsağlığı diliyor ve en derin saygılarımızı sunuyoruz."
+  },
+  {
+    "nl": "Confronteren, confronteerde(n), geconfronteerd",
+    "tr": "yüz yüze gelmek, karşılaşmak, yüzleşmek"
+  },
+  {
+    "nl": "Ze werd geconfronteerd met haar angsten en besloot ze te overwinnen.",
+    "tr": "Korkularıyla yüzleşti ve onları yenmeye karar verdi."
+  },
+  {
+    "nl": "constateren (constateerde, geconstateerd), vaststellen",
+    "tr": "işin doğrusunu öğrenmek, anlamak"
+  },
+  {
+    "nl": "Na het onderzoek constateerden de wetenschappers dat hun hypothese juist was.",
+    "tr": "Araştırma sonrası bilim adamları hipotezlerinin doğru olduğunu anladılar."
+  },
+  {
+    "nl": "consumeren, verbruiken, nuttigen",
+    "tr": "tüketmek, bitirmek"
+  },
+  {
+    "nl": "Het is belangrijk om voedsel en water te consumeren om in leven te blijven.",
+    "tr": "Hayatta kalmak için yiyecek ve su tüketmek önemlidir."
+  },
+  {
+    "nl": "contracteren, contract maken",
+    "tr": "kontrat yapmak, sözleşme yapmak"
+  },
+  {
+    "nl": "We moeten een contract met de leverancier maken voordat we kunnen bestellen.",
+    "tr": "Sipariş vermeden önce tedarikçi ile bir sözleşme yapmamız gerekiyor."
+  },
+  {
+    "nl": "corrigeren, nakijken, verbeteren",
+    "tr": "doğrulamak, düzeltmek, tekrar düzeltmek"
+  },
+  {
+    "nl": "De leraar zal je opdrachten corrigeren en je helpen om te verbeteren.",
+    "tr": "Öğretmen, ödevlerini düzeltecek ve sana nasıl düzelteceğini gösterecek."
+  },
+  {
+    "nl": "dalen / omlaaggaan / afnemen",
+    "tr": "azalmak, düşmek, aşağıya gitmek"
+  },
+  {
+    "nl": "De temperatuur zal de komende dagen dalen, dus kleed je warm aan.",
+    "tr": "Sıcaklık önümüzdeki günlerde düşecek, bu yüzden sıcak giyinin."
+  },
+  {
+    "nl": "dammen",
+    "tr": "dama oynamak"
+  },
+  {
+    "nl": "Laten we een potje dammen voordat we gaan eten.",
+    "tr": "Yemek yemeden önce dama oynayalım."
+  },
+  {
+    "nl": "Dat klopt. Dat klopt niet.",
+    "tr": "doğru-doğru değil"
+  },
+  {
+    "nl": "Is het waar dat je van plan bent om dit weekend te komen? - Ja, dat klopt.",
+    "tr": "Bu hafta sonu gelmeyi planlıyorsun, değil mi? - Evet, öyle."
+  },
+  {
+    "nl": "Dat meen je niet!",
+    "tr": "dalga geçiyorsun dimi."
+  },
+  {
+    "nl": "- Je hebt de loterij gewonnen! - Echt waar? Dat meen je niet!",
+    "tr": "- Sen piyangoyu kazandın! - Gerçekten mi? Dalga geçiyor musun?"
+  },
+  {
+    "nl": "de hoogte zijn van iets",
+    "tr": "bilgisi olmak, haberdar olmak, bilgilendirmek"
+  },
+  {
+    "nl": "Het management moet op de hoogte zijn van de laatste ontwikkelingen.",
+    "tr": "Yönetim, en son gelişmelerden haberdar olmalıdır."
+  },
+  {
+    "nl": "de top bereiken, het beste resultaat behalen",
+    "tr": "zirveye ulaşmak, en iyi sonuca varmak"
+  },
+  {
+    "nl": "Na jaren van hard werken bereikte hij eindelijk de top van zijn carrière.",
+    "tr": "Uzun yılların ardından, sonunda kariyerinin zirvesine ulaştı."
+  },
+  {
+    "nl": "debuteren, beginnen",
+    "tr": "sahneye ilk çıkış"
+  },
+  {
+    "nl": "De jonge zanger zal binnenkort debuteren op het grote podium.",
+    "tr": "Genç şarkıcı yakında büyük sahnede sahneye ilk çıkacak."
+  },
+  {
+    "nl": "deel uitmaken van",
+    "tr": "parçası olmak"
+  },
+  {
+    "nl": "Elk lid van het team moet zich realiseren dat ze deel uitmaken van een groter geheel.",
+    "tr": "Takımın her üyesi, kendilerini daha büyük bir bütünün parçası olduklarının farkında olmalıdır."
+  },
+  {
+    "nl": "deelnemen, meedoen",
+    "tr": "katılmak, parçası olmak, yer almak"
+  },
+  {
+    "nl": "Wil je deelnemen aan de wedstrijd of niet?",
+    "tr": "Yarışmaya katılmak istiyor musun?"
+  },
+  {
+    "nl": "delen (deelde, gedeeld)",
+    "tr": "paylaşmak, bölmek"
+  },
+  {
+    "nl": "Laten we het eten delen zodat we allemaal genoeg hebben.",
+    "tr": "Yemeği bölelim, böylece hepimiz yeterince sahip oluruz."
+  },
+  {
+    "nl": "dementeren",
+    "tr": "bunamak"
+  },
+  {
+    "nl": "Helaas lijdt mijn grootmoeder aan dementie en vergeet ze vaak dingen.",
+    "tr": "Maalesef büyükannem bunama hastalığına yakalanmış ve sık sık şeyleri unutuyor."
+  },
+  {
+    "nl": "detacheren",
+    "tr": "özel görevlendirmek, ayırmak"
+  },
+  {
+    "nl": "De werknemer werd tijdelijk gedetacheerd naar een ander filiaal van het bedrijf.",
+    "tr": "Çalışan geçici olarak şirketin başka bir şubesine görevlendirildi."
+  },
+  {
+    "nl": "dienen, diende, gediend",
+    "tr": "hizmet etmek, -meli, malı"
+  },
+  {
+    "nl": "Als burger dien je je land te dienen en je burgerplichten te vervullen.",
+    "tr": "Vatandaş olarak, ülkenize hizmet etmeli ve vatandaşlık görevlerinizi yerine getirmelisiniz."
+  },
+  {
+    "nl": "diskwalificeren",
+    "tr": "diskalifiye olmak"
+  },
+  {
+    "nl": "De atleet werd gediskwalificeerd vanwege een schending van de regels.",
+    "tr": "Sporcu, kurallara uymadığı için diskalifiye edildi."
+  },
+  {
+    "nl": "distantiëren (zich)",
+    "tr": "mesafe bırakmak"
+  },
+  {
+    "nl": "Hij besloot zich te distantiëren van zijn vroegere partners na het schandaal.",
+    "tr": "Skandal sonrası, eski iş ortaklarından uzaklaşmaya karar verdi."
+  },
+  {
+    "nl": "doceren, lesgeven, onderwijzeren",
+    "tr": "öğretmek, ders vermek"
+  },
+  {
+    "nl": "De leraar zal je Engels doceren en je helpen om de taal te leren.",
+    "tr": "Öğretmen, sana İngilizce öğretecek ve dil öğrenmen konusunda sana yardımcı olacak."
+  },
+  {
+    "nl": "doe maar",
+    "tr": "hadi yap, devam et"
+  },
+  {
+    "nl": "\"Wil je nog wat cake?\" - \"Nee, dank je. Maar ik neem graag een kopje koffie.\" - \"Oké, doe maar.\"",
+    "tr": "\"Daha kek ister misin?\" - \"Hayır, teşekkür ederim. Ama bir fincan kahve alırım.\" - \"Tamam, hadi yap.\""
+  },
+  {
+    "nl": "doelen stellen",
+    "tr": "hedefler belirlemek"
+  },
+  {
+    "nl": "Het is belangrijk om persoonlijke en professionele doelen te stellen voor jezelf.",
+    "tr": "Kendiniz için kişisel ve profesyonel hedefler belirlemek önemlidir."
+  },
+  {
+    "nl": "doen aan sport",
+    "tr": "spor yapmak, sporla uğraşmak"
+  },
+  {
+    "nl": "Veel mensen doen aan sport om fit en gezond te blijven.",
+    "tr": "Birçok insan, formda ve sağlıklı kalmak için spor yapar."
+  },
+  {
+    "nl": "doen pijn",
+    "tr": "acımak, acıtmak"
+  },
+  {
+    "nl": "Het doet me pijn om te zien dat je lijdt.",
+    "tr": "Senin acı çektiğini görmek beni üzüyor."
+  },
+  {
+    "nl": "doet het niet",
+    "tr": "çalışmıyor, işe yaramıyor"
+  },
+  {
+    "nl": "Mijn computer doet het niet. Kun je helpen?",
+    "tr": "Bilgisayarım çalışmıyor. Yardımcı olabilir misin?"
+  },
+  {
+    "nl": "domineren, overheersen",
+    "tr": "domine etmek, başat olmak, hükmetmek"
+  },
+  {
+    "nl": "Het ene team domineerde de wedstrijd en won met gemak.",
+    "tr": "Bir takım maçı domine etti ve kolayca kazandı."
+  },
+  {
+    "nl": "doneren / schenken",
+    "tr": "bağışlamak, bağış vermek, hediye vermek"
+  },
+  {
+    "nl": "Veel mensen kiezen ervoor om geld te doneren aan goede doelen.",
+    "tr": "Birçok insan, hayır kurumlarına para bağışlamayı tercih eder."
+  },
+  {
+    "nl": "doodgaan, overlijden, sterven, omkomen",
+    "tr": "vefat etmek, ölmek, ölüp gitmek"
+  },
+  {
+    "nl": "Helaas is onze geliefde kat overleden na een lang en gelukkig leven.",
+    "tr": "Ne yazık ki, sevimli kedi uzun ve mutlu bir yaşamın ardından öldü."
+  },
+  {
+    "nl": "dooien, doen smelten, ontdooien",
+    "tr": "buzların erimesi"
+  },
+  {
+    "nl": "Zodra de temperaturen stijgen, beginnen de sneeuw en ijs te dooien.",
+    "tr": "Sıcaklıklar yükseldiğinde, kar ve buz erimeye başlar."
+  },
+  {
+    "nl": "door elkaar halen",
+    "tr": "karıştırmak, ayırt edememek"
+  },
+  {
+    "nl": "Je mag de namen van de tweeling niet door elkaar halen; ze zijn een eeneiige tweeling.",
+    "tr": "İkizlerin isimlerini karıştırmamalısın; onlar tek yumurta ikizleri."
+  },
+  {
+    "nl": "Door hebben",
+    "tr": "mesajı almak, anlamak"
+  },
+  {
+    "nl": "Ik heb door dat je het moeilijk hebt, en ik ben hier om te helpen.",
+    "tr": "Zorlandığını fark ettim ve yardımcı olmak için buradayım."
+  },
+  {
+    "nl": "Doorbreken, brak door, doorgebroken",
+    "tr": "kırıp geçmek"
+  },
+  {
+    "nl": "De jonge artiest hoopt binnenkort door te breken en bekend te worden.",
+    "tr": "Genç sanatçı, yakında tanınmayı umuyor."
+  },
+  {
+    "nl": "doorbrengen (bracht door, doorgebracht)",
+    "tr": "vakit geçirmek, zamanı harcamak"
+  },
+  {
+    "nl": "Tijd doorbrengen met je familie is altijd waardevol en belangrijk.",
+    "tr": "Ailenizle zaman geçirmek her zaman değerli ve önemlidir."
+  },
+  {
+    "nl": "doorgaan (ging door, doorgegaan)",
+    "tr": "devam etmek, ilerlemek"
+  },
+  {
+    "nl": "We moeten doorgaan met ons onderzoek om tot een conclusie te komen.",
+    "tr": "Bir sonuca varabilmek için araştırmamıza devam etmeliyiz."
+  },
+  {
+    "nl": "doorgeven, gaf door, doorgegeven",
+    "tr": "iletmek, uzatmak, geçmek, geçirmek, nesilden nesile geçmek"
+  },
+  {
+    "nl": "Mag ik de boodschap doorgeven?",
+    "tr": "Mesajı iletebilir miyim?"
+  },
+  {
+    "nl": "doorgezet",
+    "tr": "azmetmek, sebat etmek"
+  },
+  {
+    "nl": "Ze heeft doorgezet en uiteindelijk haar doelen bereikt.",
+    "tr": "Azmetti ve nihayet hedeflerine ulaştı."
+  },
+  {
+    "nl": "Doorkijken, keek door, hebben doorgekeken",
+    "tr": "gözden geçirmek, incelemek"
+  },
+  {
+    "nl": "Laten we de notities doorkijken voordat we de vergadering beginnen.",
+    "tr": "Toplantıya başlamadan önce notları gözden geçirelim."
+  },
+  {
+    "nl": "doorlopen (liep door, doorgelopen)",
+    "tr": "hızlıca gözden geçirmek, ilerlemek, koşmak"
+  },
+  {
+    "nl": "We moeten de resultaten snel doorlopen om te zien welke informatie belangrijk is.",
+    "tr": "Hangi bilgilerin önemli olduğunu görmek için sonuçları hızlıca gözden geçirmemiz gerekiyor."
+  },
+  {
+    "nl": "doorlopen, doorgaan",
+    "tr": "ilerlemek, yürümeye devam etmek, hızlıca gözden geçirme"
+  },
+  {
+    "nl": "De arts zal de stappen van de operatie met je doorlopen voordat we beginnen.",
+    "tr": "Başlamadan önce, doktor ameliyatın adımlarını seninle hızlıca gözden geçirecek."
+  },
+  {
+    "nl": "doorspoelen, spoelde door, doorgespoeld",
+    "tr": "sifonu çekmek"
+  },
+  {
+    "nl": "Na gebruik van het toilet, vergeet niet om door te spoelen.",
+    "tr": "Tuvaleti kullanımdan sonra sifonu çekmeyi unutmayın."
+  },
+  {
+    "nl": "doorstaan, verdragen",
+    "tr": "atlatmak, başına gelmek, katlanmak"
+  },
+  {
+    "nl": "Ze heeft veel moeilijkheden doorstaan in haar leven en is er sterker uitgekomen.",
+    "tr": "Hayatında çok zorluklarla başa çıktı ve daha güçlü hale geldi."
+  },
+  {
+    "nl": "doorsturen (stuurde door, h. doorgestuurd)",
+    "tr": "iletmek, yeni adrese göndermek"
+  },
+  {
+    "nl": "Als je de e-mail ontvangt, kun je deze doorsturen naar de relevante afdeling.",
+    "tr": "E-postayı aldığınızda ilgili bölüme iletebilirsiniz."
+  },
+  {
+    "nl": "doorverbinden, koppelen, aansluiten",
+    "tr": "bağlamak(telefon), bağlanmak, birleştirmek"
+  },
+  {
+    "nl": "Als je de klantenservice belt, zal de medewerker je doorverbinden met de juiste afdeling.",
+    "tr": "Müşteri hizmetlerini aradığınızda, çalışan sizi doğru bölümle bağlayacak."
+  },
+  {
+    "nl": "doorvertellen (ik heb doorverteld)",
+    "tr": "başkasına anlatmak, ispiyonlamak"
+  },
+  {
+    "nl": "Ik wil niet dat je mijn geheim doorvertelt aan iemand anders.",
+    "tr": "Benim sırrımı başkasına anlatmanı istemiyorum."
+  },
+  {
+    "nl": "doorwerken, werkte door, heeft doorgewerkt",
+    "tr": "çalışmaya devam etmek"
+  },
+  {
+    "nl": "doorzetten",
+    "tr": "sebat etmek, azmetmek"
+  },
+  {
+    "nl": "douchen, douchte, gedoucht",
+    "tr": "duş almak"
+  },
+  {
+    "nl": "doven, uitdoen",
+    "tr": "söndürmek( yangın, ışık)"
+  },
+  {
+    "nl": "downloaden, uploaden",
+    "tr": "indirmek- yüklemek"
+  },
+  {
+    "nl": "draaien (draaide, gedraaid)",
+    "tr": "dönmek, döndürmek, oynatmak(radyo, film), çevirmek(numara)"
+  },
+  {
+    "nl": "dragen, droeg, gedragen",
+    "tr": "giymek,takmak, taşımak, götürmek"
+  },
+  {
+    "nl": "dreigen, bedreigen",
+    "tr": "tehdit etmek, korkutmak"
+  },
+  {
+    "nl": "drijven, dreef, gedreven",
+    "tr": "süzülmek, yüzmek, yüzdürmek"
+  },
+  {
+    "nl": "drogen; gedroogd",
+    "tr": "kurutmak, kurulamak"
+  },
+  {
+    "nl": "dromen (droomde, gedroomd)",
+    "tr": "rüya görmek"
+  },
+  {
+    "nl": "druipen, droop, gedropen",
+    "tr": "damlamak"
+  },
+  {
+    "nl": "Drukken, drukte, gedrukt",
+    "tr": "basmak, bastırmak"
+  },
+  {
+    "nl": "dubbelklikken",
+    "tr": "çift tıklamak"
+  },
+  {
+    "nl": "duiken dook gedoken",
+    "tr": "dalmak, dalış yapmak"
+  },
+  {
+    "nl": "duperen",
+    "tr": "gırgır geçmek, kandırmak, işletmek"
+  },
+  {
+    "nl": "duwen - trekken",
+    "tr": "itmek- çekmek"
+  },
+  {
+    "nl": "dwalen, zwerven",
+    "tr": "gezmek, dolaşmak, gezinmek"
+  },
+  {
+    "nl": "dweilen (dweilde(n), gedweild)",
+    "tr": "paspaslamak"
+  },
+  {
+    "nl": "dwingen, dwong, gedwongen",
+    "tr": "zorlamak, baskı yapmak"
+  },
+  {
+    "nl": "een gaatje vullen",
+    "tr": "dolgu yapmak(diş), deliği doldurmak"
+  },
+  {
+    "nl": "een gesprek voeren, gesprek houden",
+    "tr": "bir konuşma gerçekleştirmek, konuşma yapmak"
+  },
+  {
+    "nl": "een huwelijk sluiten",
+    "tr": "evlilik yapmak, evlenmek"
+  },
+  {
+    "nl": "een kijkje nemen",
+    "tr": "bir göz atmak, bir an bakmak"
+  },
+  {
+    "nl": "een moord plegen",
+    "tr": "cinayet işlemek"
+  },
+  {
+    "nl": "een verdrag sluiten / tekenen",
+    "tr": "bir anlaşma/sözleşme/mukavele imzalamak"
+  },
+  {
+    "nl": "een vergadering houden",
+    "tr": "bir toplantı düzenlemek"
+  },
+  {
+    "nl": "eet smakelijk",
+    "tr": "Afiyet olsun."
+  },
+  {
+    "nl": "eindigen (eindigde, geëindigd)",
+    "tr": "bitmek, sonlanmak"
+  },
+  {
+    "nl": "eisen stellen",
+    "tr": "talepte bulunmak"
+  },
+  {
+    "nl": "eisen, vereisen",
+    "tr": "gerekmek, gerektirmek, gerekli olmak"
+  },
+  {
+    "nl": "erachter komen, te weten komen",
+    "tr": "sonradan öğrenmek, bulup çıkarmak"
+  },
+  {
+    "nl": "eren, honoreren, vereren",
+    "tr": "onurlandırmak, şeref duymak, şeref vermek"
+  },
+  {
+    "nl": "ergeren aan (zich)",
+    "tr": "sinirlenmek, sinirlendirmek"
+  },
+  {
+    "nl": "erkennen (erkende, erkend)",
+    "tr": "kabul etmek, kabullenmek, itiraf etmek"
+  },
+  {
+    "nl": "Eruitzien, zag eruit, eruitgezien",
+    "tr": "görünmek, benzemek"
+  },
+  {
+    "nl": "Erven - erfde - geërfd, beërven",
+    "tr": "miras almak, kalıtımsal olarak kazanmak"
+  },
+  {
+    "nl": "evacueren",
+    "tr": "tahliye etmek, nakletmek"
+  },
+  {
+    "nl": "evalueren, beoordelen",
+    "tr": "değerlendirmek, değerlendirme yapmak"
+  },
+  {
+    "nl": "even kijken",
+    "tr": "bir bakayım"
+  },
+  {
+    "nl": "examen afleggen, het; afgelegd",
+    "tr": "sınava girmek, sınav olmak"
+  },
+  {
+    "nl": "experimenteren (experimenteerde, h geëxperimenteerd)",
+    "tr": "deney yapmak, deneye tabi tutmak, denemek"
+  },
+  {
+    "nl": "feesten, vieren, celebreren",
+    "tr": "kutlamak, bayram yapmak"
+  },
+  {
+    "nl": "feliciteren",
+    "tr": "kutlamak(doğum günü)"
+  },
+  {
+    "nl": "fikkie stoken",
+    "tr": "ateşe vermek"
+  },
+  {
+    "nl": "fit zijn, fit blijven",
+    "tr": "fit olmak, fit kalmak"
+  },
+  {
+    "nl": "fitnessen",
+    "tr": "fitness yapmak"
+  },
+  {
+    "nl": "flirten, versieren",
+    "tr": "flört etmek, ayartmak"
+  },
+  {
+    "nl": "fluisteren (fluisterde, gefluisterd)",
+    "tr": "fısıldamak, kulağına söylemek"
+  },
+  {
+    "nl": "fokken-fokte-gefokt",
+    "tr": "yavrulamak, üremek, çoğalmak"
+  },
+  {
+    "nl": "fotograferen (fotografeerde, h. gefotografeerd)",
+    "tr": "fotoğrafçılık yapmak"
+  },
+  {
+    "nl": "fouilleren",
+    "tr": "üst araması yapmak"
+  },
+  {
+    "nl": "fruiten, braden",
+    "tr": "kızartmak"
+  },
+  {
+    "nl": "functioneren, werken",
+    "tr": "işlevsel olmak, çalışmak"
+  },
+  {
+    "nl": "fungeren",
+    "tr": "işlevini yerine getirmek"
+  },
+  {
+    "nl": "Gapen (gaapte, h.gegaapt)",
+    "tr": "esnemek"
+  },
+  {
+    "nl": "garanderen, waarborgen",
+    "tr": "garanti etmek, kefil olmak, teminat vermek"
+  },
+  {
+    "nl": "gebeuren, gebeurde, gebeurd",
+    "tr": "olmak, gerçekleşmek"
+  },
+  {
+    "nl": "geboren en getogen",
+    "tr": "doğup büyümek"
+  },
+  {
+    "nl": "gebruik maken van, profiteren van",
+    "tr": "yararlanmak, çıkar sağlamak"
+  },
+  {
+    "nl": "Gedogen, tolereren",
+    "tr": "hoş görmek, müsamaha etmek, katlanmak"
+  },
+  {
+    "nl": "geduld hebben",
+    "tr": "sabretmek, dayanmak"
+  },
+  {
+    "nl": "gelden, gold, gegolden",
+    "tr": "geçerli olmak, uygulanmak"
+  },
+  {
+    "nl": "geleiden",
+    "tr": "iletmek, yönlendirmek"
+  },
+  {
+    "nl": "Geloven in, geloofde, heeft geloofd",
+    "tr": "inanmak, inancı olmak"
+  },
+  {
+    "nl": "genezen, genas, genezen",
+    "tr": "iyileşmek, iyileştirmek"
+  },
+  {
+    "nl": "genieten, genoot, genoten",
+    "tr": "keyif almak, tadını çıkarmak"
+  },
+  {
+    "nl": "genoegen nemen met",
+    "tr": "razı olmak, kabul etmek"
+  },
+  {
+    "nl": "geruststellen (stelde(n) gerust, gerustgesteld)",
+    "tr": "dinlenmek, güvence vermek, güven tazelemek"
+  },
+  {
+    "nl": "geschieden, gebeuren",
+    "tr": "olmak, gerçekleşmek(tarihsel olarak)"
+  },
+  {
+    "nl": "gesprek voeren",
+    "tr": "konuşma gerçekleştirmek, sohbet yürütmek"
+  },
+  {
+    "nl": "getuigen (getuigde, getuigd), geteugenis afleggen van",
+    "tr": "tanıklık etmek, ifade vermek, tanıklık yapmak"
+  },
+  {
+    "nl": "gewond raken",
+    "tr": "yaralanmak"
+  },
+  {
+    "nl": "gezellig dat jullie er zijn.",
+    "tr": "burada olmanız güzel"
+  },
+  {
+    "nl": "giechelen",
+    "tr": "kıkırdamak"
+  },
+  {
+    "nl": "gieren",
+    "tr": "uğuldamak, ötmek"
+  },
+  {
+    "nl": "gieten, goot, gegoten, (schenken)",
+    "tr": "dökmek, sulamak"
+  },
+  {
+    "nl": "gillen, schreeuwen",
+    "tr": "çığlık atmak, bağırmak"
+  },
+  {
+    "nl": "glijden gleed gegleden",
+    "tr": "kaymak, kaydırmak"
+  },
+  {
+    "nl": "glimlachen (glimlachte, geglimlacht)",
+    "tr": "tebessüm etmek"
+  },
+  {
+    "nl": "goedkeuren (keurde goed, goedgekeurd)",
+    "tr": "uygun bulmak"
+  },
+  {
+    "nl": "gokken (gokte(n), gegokt)",
+    "tr": "kumar oynamak, tahmin etmek"
+  },
+  {
+    "nl": "googelen",
+    "tr": "google da arama yapmak"
+  },
+  {
+    "nl": "gooien (gooide, gegooid) ( = werpen)",
+    "tr": "atmak, fırlatmak"
+  },
+  {
+    "nl": "graven, groef, gegraven",
+    "tr": "kazmak, kazımak"
+  },
+  {
+    "nl": "grazen-graasde-gegraasd, weiden",
+    "tr": "otlamak"
+  },
+  {
+    "nl": "grenzen, omgrenzen",
+    "tr": "sınır komşusu olmak, bitişik olmak"
+  },
+  {
+    "nl": "grijnzen, glimlachen",
+    "tr": "sırıtmak, tebessüm etmek"
+  },
+  {
+    "nl": "grijpen greep gegrepen",
+    "tr": "kapmak, yakalamak, zorla almak"
+  },
+  {
+    "nl": "groeien, worden",
+    "tr": "büyümek, olmak"
+  },
+  {
+    "nl": "groeten (groette, gegroet)",
+    "tr": "selamlamak, selam vermek"
+  },
+  {
+    "nl": "hagelen (heeft gehageld)",
+    "tr": "dolu yağmak"
+  },
+  {
+    "nl": "hakken, fijnsnijden",
+    "tr": "doğramak, ince kesmek"
+  },
+  {
+    "nl": "Halveren, halveerde(n), gehalveerd",
+    "tr": "yarıya indirmek, yarıya bölmek"
+  },
+  {
+    "nl": "handeldrijven (dreef handel, h. handelgedreven)",
+    "tr": "ticaret yapmak, iş yapmak"
+  },
+  {
+    "nl": "handelen (handelde, gehandeld)",
+    "tr": "ticaret yapmak, hareket etmek, ilgilenmek, idare etmek"
+  },
+  {
+    "nl": "handhaven (handhaafde, gehandhaafd)",
+    "tr": "sürdürmek, sağlamak, korumak"
+  },
+  {
+    "nl": "hangen, hing, gehangen",
+    "tr": "asmak"
+  },
+  {
+    "nl": "hanteren, gebruiken",
+    "tr": "kullanmak, işlemek, ele almak"
+  },
+  {
+    "nl": "hard praten",
+    "tr": "yüksek sesle konuşmak"
+  },
+  {
+    "nl": "haten, een hekel hebben aan",
+    "tr": "nefret etmek"
+  },
+  {
+    "nl": "hebben het over",
+    "tr": "hakkında konuşmak, bir şeyin hakkında düşünmek"
+  },
+  {
+    "nl": "hebben koorts",
+    "tr": "ateşi olmak, ateşlenmek"
+  },
+  {
+    "nl": "hebben zin in",
+    "tr": "arzu etmek, istemek, havasında olmak"
+  },
+  {
+    "nl": "heersen, beheersen, besturen, domineren, regeren",
+    "tr": "hükmetmek, yönetmek, hakim olmak, hüküm sürmek"
+  },
+  {
+    "nl": "herbergen, huisvesten",
+    "tr": "ev sahipliği yapmak, barındırmak"
+  },
+  {
+    "nl": "herdenken (herdacht - herdacht)",
+    "tr": "anmak(günleri, ölüleri)"
+  },
+  {
+    "nl": "herhalen (herhaalde, herhaald)",
+    "tr": "tekrar etmek"
+  },
+  {
+    "nl": "herkansen",
+    "tr": "tekrar sınava girmek, bir şans daha yakalamak"
+  },
+  {
+    "nl": "herstarten",
+    "tr": "yeniden başlatmak"
+  },
+  {
+    "nl": "herstellen (herstelde, hersteld) ,terugkrijgen",
+    "tr": "kurtarmak, geri kazanmak, onarmak, düzeltmek, yenileştirmek"
+  },
+  {
+    "nl": "herzien",
+    "tr": "tekrar bakmak, gözden geçirmek"
+  },
+  {
+    "nl": "het oneens zijn",
+    "tr": "katılmamak(görüş, fikir)"
+  },
+  {
+    "nl": "het ruikt lekker",
+    "tr": "güzel kokuyor."
+  },
+  {
+    "nl": "het uitmaken",
+    "tr": "ilişkiyi bitirmek, ayrılmak"
+  },
+  {
+    "nl": "heten heette geheten",
+    "tr": "adlandırmak, demek"
+  },
+  {
+    "nl": "hijsen, hees, gehesen",
+    "tr": "yukarı çekme, kaldırma"
+  },
+  {
+    "nl": "hinderen, belemmeren",
+    "tr": "zorluk çıkarmak, engellemek"
+  },
+  {
+    "nl": "hoereren",
+    "tr": "fuhuş yapmak, fahişelik yapmak"
+  },
+  {
+    "nl": "hoesten, hoestte, gehoest",
+    "tr": "öksürmek"
+  },
+  {
+    "nl": "hoeven, hoefde, gehoeven",
+    "tr": "gerekmek, lazım olmak"
+  },
+  {
+    "nl": "hollen, rennen",
+    "tr": "koşmak, acele ile gitmek"
+  },
+  {
+    "nl": "hopen (hoopte, gehoopt)",
+    "tr": "ummak, ümit etmek"
+  },
+  {
+    "nl": "houden hield gehouden",
+    "tr": "tutmak, saklamak, alıkoymak, göstermek(tutmak)"
+  },
+  {
+    "nl": "houden van, hield, gehouden",
+    "tr": "sevmek, hoşlanmak, aşık olmak"
+  },
+  {
+    "nl": "huilen (huilde, gehuild)",
+    "tr": "ağlamak"
+  },
+  {
+    "nl": "Hulp verlenen / bieden",
+    "tr": "yardım sağlamak, yardım sunmak"
+  },
+  {
+    "nl": "huren (huurde, gehuurd)",
+    "tr": "kiralamak"
+  },
+  {
+    "nl": "huwen, trouwen",
+    "tr": "evlenmek, evlilik yapmak"
+  },
+  {
+    "nl": "identificeren, vaststellen",
+    "tr": "kimliği belirlemek, saptamak"
+  },
+  {
+    "nl": "iets over het hoofd zien",
+    "tr": "bir şeyi gözden kaçırmak, unutmak"
+  },
+  {
+    "nl": "ijveren",
+    "tr": "çabalamak, sıkı çalışmak"
+  },
+  {
+    "nl": "ik kan niet er bij.",
+    "tr": "ona ulaşamıyorum, yetişemiyorum."
+  },
+  {
+    "nl": "Ik kan niet wachten om hem te ontmoeten",
+    "tr": "onunla görüşmek için sabırsızlanıyorum."
+  },
+  {
+    "nl": "illustreren/duidelijk maken",
+    "tr": "örneklemek, tanımlamak, açık hale getirmek"
+  },
+  {
+    "nl": "immigreren (immigreerde, is geïmmigreerd)",
+    "tr": "göç etmek, göçmek"
+  },
+  {
+    "nl": "impliceren",
+    "tr": "ima etmek, anlamına gelmek, demeye gelmek"
+  },
+  {
+    "nl": "imponeren = indruk maken, beinvloeden",
+    "tr": "etkilemek, iz bırakmak, aklına sokmak"
+  },
+  {
+    "nl": "Importeren >< exporteren",
+    "tr": "ithal etmek, ihraç etmek"
+  },
+  {
+    "nl": "Improviseren (improvisatie)",
+    "tr": "doğaçlama bir şeyler yapmak"
+  },
+  {
+    "nl": "in aanmerking komen voor",
+    "tr": "hak kazanmak, uygun olmak"
+  },
+  {
+    "nl": "in behandeling nemen",
+    "tr": "işleme almak, kabul edilmek"
+  },
+  {
+    "nl": "in beroep gaan, beroep doen op",
+    "tr": "temyiz etmek, üst mahkemeye başvurmak"
+  },
+  {
+    "nl": "In contact brengen",
+    "tr": "temas kurmak"
+  },
+  {
+    "nl": "in dienst hebben",
+    "tr": "çalıştırmak, iş vermek, kullanmak"
+  },
+  {
+    "nl": "in dienst nemen",
+    "tr": "işe almak, kabul etmek, kiralamak"
+  },
+  {
+    "nl": "in elkaar zetten, monteren, samenstellen",
+    "tr": "monte etmek, birleştirmek, bir araya getirmek"
+  },
+  {
+    "nl": "in gebruik nemen",
+    "tr": "devreye sokmak, kullanıma sokmak"
+  },
+  {
+    "nl": "in opstand komen tegen",
+    "tr": "isyan etmek, isyan başlatmak"
+  },
+  {
+    "nl": "in orde maken/brengen",
+    "tr": "düzeltmek, ayarlamak, çeki düzen vermek"
+  },
+  {
+    "nl": "in praktijk brengen",
+    "tr": "uygulamaya koymak, gerçekleştirmek"
+  },
+  {
+    "nl": "in slaap vallen, inslapen",
+    "tr": "uykuya dalmak, uyuyakalmak"
+  },
+  {
+    "nl": "in staat zijn, bekwaam zijn, kunnen",
+    "tr": "yapabilmek"
+  },
+  {
+    "nl": "inbreken, brak in, ingebroken",
+    "tr": "hırsızlık yapmak, evi soymak,"
+  },
+  {
+    "nl": "inbreken, brak in, ingebroken, binnenbreken",
+    "tr": "kırıp içermek"
+  },
+  {
+    "nl": "inburgeren",
+    "tr": "entegre olmak, (uyum süreci)"
+  },
+  {
+    "nl": "inchecken - uitchecken",
+    "tr": "giriş- çıkış kontrol işlemi(check in- out)"
+  },
+  {
+    "nl": "indelen (deelde in, ingedeeld), classificeren",
+    "tr": "sınıflandırmak, tasnif etmek"
+  },
+  {
+    "nl": "indenken, voorstellen",
+    "tr": "tasavvur etmek, hayal etmek"
+  },
+  {
+    "nl": "indienen, diende in, ingediend",
+    "tr": "sunmak,arzetmek, ibraz etmek, dosyalamak"
+  },
+  {
+    "nl": "indoen, doe in",
+    "tr": "içine koymak"
+  },
+  {
+    "nl": "indruk wekken",
+    "tr": "izlenim uyandırmak"
+  },
+  {
+    "nl": "inenten, vaccineren",
+    "tr": "aşı yapmak, aşılamak"
+  },
+  {
+    "nl": "informeren, inlichten",
+    "tr": "bilgi vermek, bildirmek"
+  },
+  {
+    "nl": "ingaan (ging in, ingegaan)",
+    "tr": "geçerli olmak, başlamak, girmek"
+  },
+  {
+    "nl": "ingaan op (ging in op, is ingegaan op)",
+    "tr": "tepki vermek, meşgul olmak"
+  },
+  {
+    "nl": "inhalen, haalde in, ingehaald",
+    "tr": "sollamak, yetişmek, yakalamak, yakalayıp geçmek"
+  },
+  {
+    "nl": "inleven",
+    "tr": "empati yapmak"
+  },
+  {
+    "nl": "inleveren (leverde(n) in, ingeleverd)",
+    "tr": "teslim etmek, iletmek"
+  },
+  {
+    "nl": "innemen (nam in, ingenomen)",
+    "tr": "ilaç almak, içeri almak, ölçü almak(elbise)"
+  },
+  {
+    "nl": "inpakken, verpakken",
+    "tr": "paketlemek, pakete koymak"
+  },
+  {
+    "nl": "inschenken (schonk in, ingeschonken)",
+    "tr": "dökmek,bardağı doldurmak, içine dökmek"
+  },
+  {
+    "nl": "inschrijven, aanmelden",
+    "tr": "kaydolmak, başvurmak, yazılmak"
+  },
+  {
+    "nl": "inslaan, in voorraad hebben",
+    "tr": "stoklamak, depolamak, yığmak"
+  },
+  {
+    "nl": "inspannen (zich)",
+    "tr": "çabalamak, çaba sarfetmek"
+  },
+  {
+    "nl": "Inspecteren (inspecteerde/heeft geïnspecteerd)",
+    "tr": "denetlemek, kontrol etmek"
+  },
+  {
+    "nl": "inspireren, inspireerde, geïnspireerd",
+    "tr": "ilham vermek, aşılamak, telkin etmek"
+  },
+  {
+    "nl": "installeren (installeerde, h. geïnstalleerd)",
+    "tr": "yüklemek, kurmak"
+  },
+  {
+    "nl": "instappen - uitstappen",
+    "tr": "binmek- inmek"
+  },
+  {
+    "nl": "instellen (stelde in, ingesteld)",
+    "tr": "ayarlamak, kurmak, belirlemek"
+  },
+  {
+    "nl": "instoppen",
+    "tr": "içine koymak"
+  },
+  {
+    "nl": "instorten, stortte in, ingestort",
+    "tr": "çökmek, yıkılmak, dağılmak"
+  },
+  {
+    "nl": "interesse tonen",
+    "tr": "ilgi göstermek"
+  },
+  {
+    "nl": "interpreteren, vertalen, vertolken",
+    "tr": "çevirmek, yorumlamak, tercüme etmek"
+  },
+  {
+    "nl": "intimideren, afschrikken",
+    "tr": "yıldırmak, korkutmak, sindirmek"
+  },
+  {
+    "nl": "intoetsen, typen",
+    "tr": "data girmek, tuşlamak, giriş yapmak"
+  },
+  {
+    "nl": "Intrekken, trok in, ingetrokken",
+    "tr": "çekilmek, taşınmak, geri almak"
+  },
+  {
+    "nl": "Introduceren, voorstellen",
+    "tr": "tanıtmak, tanıtımını yapmak"
+  },
+  {
+    "nl": "invoegen",
+    "tr": "girmek, eklemek(insert)"
+  },
+  {
+    "nl": "invoeren, importeren",
+    "tr": "girmek, giriş yapmak, içeri girmek, ithal etmek"
+  },
+  {
+    "nl": "invullen (vulde in, ingevuld)",
+    "tr": "doldurmak(içini, boşlukları)"
+  },
+  {
+    "nl": "inwijden, initiëren",
+    "tr": "başlatmak, ön ayak olmak"
+  },
+  {
+    "nl": "inzamelen, verzamelen",
+    "tr": "toplamak, biriktirmek, tahsil etmek"
+  },
+  {
+    "nl": "inzepen",
+    "tr": "köpürtmek"
+  },
+  {
+    "nl": "Inzien, zag in, ingezien",
+    "tr": "gözden geçirmek, bakmak, farketmek"
+  },
+  {
+    "nl": "irriteren, irriteerde, geïrriteerd",
+    "tr": "rahatsız etmek, kızdırmak, sinirlendirmek"
+  },
+  {
+    "nl": "jachten",
+    "tr": "yat ile yolculuk yapmak, avlamak, çok acelesi olmak"
+  },
+  {
+    "nl": "jokken/liegen",
+    "tr": "hile yapmak, yalan söylemek"
+  },
+  {
+    "nl": "juichen, toejuichen",
+    "tr": "tezahürat yapmak, desteklemek"
+  },
+  {
+    "nl": "kammen,kamde,h.gekamd",
+    "tr": "taramak"
+  },
+  {
+    "nl": "kamperen (kampeerde, h. gekampeerd)",
+    "tr": "kamp yapmak"
+  },
+  {
+    "nl": "kan niet beter",
+    "tr": "daha iyi olamaz"
+  },
+  {
+    "nl": "kanoën",
+    "tr": "kano yapmak"
+  },
+  {
+    "nl": "Kappen - kapte - gekapt, vellen",
+    "tr": "kesmek(ağaç), kırmak, doğramak"
+  },
+  {
+    "nl": "keffen",
+    "tr": "küçük köpeklerin havlaması(ciyaklaması)"
+  },
+  {
+    "nl": "kelderen",
+    "tr": "pike yapmak, hızlı inişe geçmek, düşmek"
+  },
+  {
+    "nl": "kiezen koos kozen gekozen",
+    "tr": "seçmek, tercih etmek"
+  },
+  {
+    "nl": "kijken (keek, keken; heeft gekeken)",
+    "tr": "bakmak"
+  },
+  {
+    "nl": "klaarmaken (maakte klaar, maakten klaar; heeft klaargemaakt)",
+    "tr": "hazırlamak, hazırlık yapmak"
+  },
+  {
+    "nl": "klacht indienen",
+    "tr": "şikayetçi olmak, şikayet etmek"
+  },
+  {
+    "nl": "klagen, zich beklagen",
+    "tr": "şikayet etmek, yakınmak, şikayetçi olmak"
+  },
+  {
+    "nl": "klappen, (applaudisseren, slaan)",
+    "tr": "alkışlamak, vurmak"
+  },
+  {
+    "nl": "klauteren, klimmen",
+    "tr": "tırmanmak, güçlükle ilerlemek"
+  },
+  {
+    "nl": "kletsen (kletste, gekletst)",
+    "tr": "laflamak, havadan sudan konuşmak"
+  },
+  {
+    "nl": "kleuren , kleur krijgen",
+    "tr": "renklendirmek"
+  },
+  {
+    "nl": "klikken, klikte, geklikt",
+    "tr": "tıklamak, tıklayın, ispiyonlamak"
+  },
+  {
+    "nl": "klimmen klom geklommen",
+    "tr": "tırmanmak"
+  },
+  {
+    "nl": "klinken, klonk, geklonken",
+    "tr": "ses çıkarmak, ses vermek, çalmak"
+  },
+  {
+    "nl": "kloppen (klopte, geklopt)",
+    "tr": "vurmak, tıklamak"
+  },
+  {
+    "nl": "klussen (kluste, klusten; heeft geklus)",
+    "tr": "garip işler yapmak, boş işlerle uğraşmak"
+  },
+  {
+    "nl": "knagen",
+    "tr": "kemirmek"
+  },
+  {
+    "nl": "knellen, knijpen",
+    "tr": "kıstırmak, sıkıştırmak, çimdiklemek"
+  },
+  {
+    "nl": "knikken (knikte, geknikt)",
+    "tr": "kafa sallamak,(onay ret)"
+  },
+  {
+    "nl": "knippen-knipte-geknipt",
+    "tr": "kesmek"
+  },
+  {
+    "nl": "knipperen",
+    "tr": "göz kırpmak, sinyal vermek"
+  },
+  {
+    "nl": "koelen, afkoelen, verkoelen",
+    "tr": "serinlemek, soğutmak"
+  },
+  {
+    "nl": "kom; nou",
+    "tr": "hadi ama( come on)"
+  },
+  {
+    "nl": "kopstoot geven",
+    "tr": "kafa atmak, kafa vurmak"
+  },
+  {
+    "nl": "krabben, krassen, schrammen",
+    "tr": "kaşımak, kazımak, çizmek"
+  },
+  {
+    "nl": "krimpen, kromp, gekrompen",
+    "tr": "küçülmek, çekmek"
+  },
+  {
+    "nl": "kronkelen",
+    "tr": "kıvrılmak,(acıdan, gülmekten kıvrılmak)"
+  },
+  {
+    "nl": "kruipen kroop gekropen",
+    "tr": "sürünmek, emeklemek, yavaş ilerlemek"
+  },
+  {
+    "nl": "kruisen, doorkruisen",
+    "tr": "kesişmek, karşılaşmak"
+  },
+  {
+    "nl": "Kussen - kuste - gekust",
+    "tr": "öpmek"
+  },
+  {
+    "nl": "kwaken",
+    "tr": "vaklamak(ördek, kurbağa)"
+  },
+  {
+    "nl": "kwalijk nemen",
+    "tr": "gücenmek, gücüne gitmek"
+  },
+  {
+    "nl": "kwebbelen",
+    "tr": "derste konuşmak, gevezelik yapmak"
+  },
+  {
+    "nl": "kweken, telen, verbouwen",
+    "tr": "ekip biçmek, yetiştirmek, işlemek"
+  },
+  {
+    "nl": "kwijtraken, verliezen",
+    "tr": "kaybetmek, kaçırmak"
+  },
+  {
+    "nl": "lachen, lachte, gelachen(om)",
+    "tr": "gülmek"
+  },
+  {
+    "nl": "laden laadde geladen",
+    "tr": "yüklemek, doldurmak, şarj etmek"
+  },
+  {
+    "nl": "lak hebben aan",
+    "tr": "cilalamak, boyamak"
+  },
+  {
+    "nl": "lanceren, uitbrengen",
+    "tr": "fırlatmak, piyasaya sürmek, başlatmak"
+  },
+  {
+    "nl": "landen (landde, is geland)",
+    "tr": "iniş yapmak"
+  },
+  {
+    "nl": "Langskomen, kwam langs, langsgekomen",
+    "tr": "uğramak, ziyaret etmek(kısa)"
+  },
+  {
+    "nl": "lappen",
+    "tr": "temizlemek(pencere), yamamak"
+  },
+  {
+    "nl": "lassen (laste(n), gelast)",
+    "tr": "kaynak yapmak"
+  },
+  {
+    "nl": "laten knippen",
+    "tr": "kestirmek"
+  },
+  {
+    "nl": "laten, liet, gelaten",
+    "tr": "izin vermek, bırakmak, ses çıkarmamak"
+  },
+  {
+    "nl": "leegmaken, maakte leeg, leeggemaakt",
+    "tr": "boşaltmak, içini boşaltmak"
+  },
+  {
+    "nl": "legitimeren",
+    "tr": "meşrulaştırmak, haklı çıkarmak, kimlik göstermek"
+  },
+  {
+    "nl": "leiden (leidde, geleid) (tot)",
+    "tr": "yönetmek, hükmetmek"
+  },
+  {
+    "nl": "leiden tot (leidde, geleid)",
+    "tr": "yol açmak, sebep olmak"
+  },
+  {
+    "nl": "lenen (leende, heeft geleend)",
+    "tr": "ödünç almak"
+  },
+  {
+    "nl": "leren kennen, begrijpen, vernemen",
+    "tr": "tanımak, tanıyıp öğrenmek, anlamak, tanışmak"
+  },
+  {
+    "nl": "leuk vinden, lekker vinden",
+    "tr": "iyi, güzel, hoş, lezzetli bulmak, beğenmek"
+  },
+  {
+    "nl": "liegen, loog, gelogen",
+    "tr": "yalan söylemek"
+  },
+  {
+    "nl": "liggen, lag, gelegen",
+    "tr": "uzanmak, uzanıp yatmak"
+  },
+  {
+    "nl": "lijken, leek, geleken(op)",
+    "tr": "benzemek, gibi görünmek"
+  },
+  {
+    "nl": "linkerhand hebben",
+    "tr": "becerikli olmamak"
+  },
+  {
+    "nl": "loeien",
+    "tr": "böğürmek"
+  },
+  {
+    "nl": "logeren (logeerde, gelogeerd)",
+    "tr": "konaklamak, misafir kalmak"
+  },
+  {
+    "nl": "lopen gevaar",
+    "tr": "riske girmek, tehlikeye yürümek"
+  },
+  {
+    "nl": "loslaten, vrijlaten",
+    "tr": "serbest bırakmak, salmak, izin vermek"
+  },
+  {
+    "nl": "lossen/laden",
+    "tr": "boşaltmak, yüklemek"
+  },
+  {
+    "nl": "Lozen, loosde, geloosd, legen",
+    "tr": "boşaltmak, tahliye etmek"
+  },
+  {
+    "nl": "luilakken, luieren",
+    "tr": "tembelleşmek, tembellik etmek"
+  },
+  {
+    "nl": "lukken, slagen",
+    "tr": "işe yaramak, başarılı olmak, geçmek"
+  },
+  {
+    "nl": "lunchen (lunchte, h. geluncht)",
+    "tr": "öğle yemeği yemek"
+  },
+  {
+    "nl": "lusten, lustte(n), hebben gelust",
+    "tr": "arzulamak, arzu etmek(yeme- içme)"
+  },
+  {
+    "nl": "maaien-maaide-gemaaid",
+    "tr": "biçmek"
+  },
+  {
+    "nl": "maak je geen zorgen",
+    "tr": "endişelenme"
+  },
+  {
+    "nl": "maatregelen nemen/treffen",
+    "tr": "önlemler almak"
+  },
+  {
+    "nl": "machtigen (machtigde - heeft gemachtigde)",
+    "tr": "güçlendirmek, yetki vermek, izin vermek"
+  },
+  {
+    "nl": "mailen (mailde(n), gemaild)",
+    "tr": "mail göndermek"
+  },
+  {
+    "nl": "malen, maalde, gemalen",
+    "tr": "öğütmek, bezdirmek, çektirmek"
+  },
+  {
+    "nl": "mankeren, mislukken, ontbreken",
+    "tr": "başaramamak, eksik olmak, yapamamak"
+  },
+  {
+    "nl": "meebetalen",
+    "tr": "katkıda bulunmak, karışmak, birlikte ödemek"
+  },
+  {
+    "nl": "meebrengen, meenemen",
+    "tr": "yanında getirmek, yanına almak"
+  },
+  {
+    "nl": "meedelen (deelde mee, meegedeeld)",
+    "tr": "bildirmek, haberleşmek, iletişim kurmak"
+  },
+  {
+    "nl": "meedoen, deed mee, meegedaan, deelnemen aan",
+    "tr": "katılmak, dahil olmak"
+  },
+  {
+    "nl": "meenemen (nam mee, heeft meegenomen)",
+    "tr": "yanına almak, yanında getirmek"
+  },
+  {
+    "nl": "meereizen",
+    "tr": "biriyle seyahat, birlikte seyahat etmek"
+  },
+  {
+    "nl": "meetellen, meerekenen",
+    "tr": "hesaba katmak, hesaplamak, dikkate almak"
+  },
+  {
+    "nl": "meevallen (dat valt wel mee)",
+    "tr": "umut verici olmak, beklenenden daha iyi olmak"
+  },
+  {
+    "nl": "meezitten- tegenzitten",
+    "tr": "işlerin yolunda gitmesi- ters gitmesi"
+  },
+  {
+    "nl": "melken molk molken gemolken",
+    "tr": "süt sağmak"
+  },
+  {
+    "nl": "menen, bedoelen",
+    "tr": "demek istemek, düşüncesinde olmak"
+  },
+  {
+    "nl": "merken (merkte, heeft gemerkt)",
+    "tr": "fark etmek, sezmek, işaretlemek, mimlemek"
+  },
+  {
+    "nl": "meten, mat, gemeten",
+    "tr": "ölçmek"
+  },
+  {
+    "nl": "minachten, verachten",
+    "tr": "küçümsemek, tepeden bakmak"
+  },
+  {
+    "nl": "misdaad plegen",
+    "tr": "suç işlemek"
+  },
+  {
+    "nl": "misgunnen",
+    "tr": "esirgemek, isteksiz olmak"
+  },
+  {
+    "nl": "mishandelen",
+    "tr": "kötü davranmak"
+  },
+  {
+    "nl": "Mislopen, missen, misgaan",
+    "tr": "kaçırmak, fırsatı kaçırmak,ters gitmek"
+  },
+  {
+    "nl": "missen (miste, gemist)",
+    "tr": "özlemek, kaçırmak, ıskalamak"
+  },
+  {
+    "nl": "moeten, moest, gemoeten",
+    "tr": "-meli, malı, zorunluluk"
+  },
+  {
+    "nl": "mopperen, zeuren",
+    "tr": "mızırdanmak, homurdanmak, zırlamak"
+  },
+  {
+    "nl": "mummificeren",
+    "tr": "mumyalamak"
+  },
+  {
+    "nl": "naaien, naaide, genaaid",
+    "tr": "dikmek"
+  },
+  {
+    "nl": "nadenken, dacht na, nagedacht",
+    "tr": "düşünmek, düşünüp taşınmak"
+  },
+  {
+    "nl": "naderen, dichterbij komen",
+    "tr": "yaklaşmak, yakınlaşmak"
+  },
+  {
+    "nl": "nadoen, imiteren",
+    "tr": "taklit etmek, taklidini yapmak"
+  },
+  {
+    "nl": "nagaan, controleren, nakijken",
+    "tr": "kontrol etmek, gözden geçirmek, muayene etmek"
+  },
+  {
+    "nl": "nakijken, keek na, nagekeken",
+    "tr": "kontrol etmek, sonra bakmak"
+  },
+  {
+    "nl": "naleven",
+    "tr": "ile uyumlu, uymak"
+  },
+  {
+    "nl": "namaken, kopiëren",
+    "tr": "kopyasını yapmak"
+  },
+  {
+    "nl": "nastreven, streefde na, nagestreefd",
+    "tr": "peşinde olmak, izlemek, birşey elde etmeye çalışmak"
+  },
+  {
+    "nl": "natellen",
+    "tr": "tekrar saymak, sayıp ayırmak"
+  },
+  {
+    "nl": "natmaken, bevochtigen",
+    "tr": "ıslatmak, nemlendirmek"
+  },
+  {
+    "nl": "navragen, informeren",
+    "tr": "soruşturmak, sormak, araştırmak"
+  },
+  {
+    "nl": "Neemt u me niet kwalijk.",
+    "tr": "pardon, af edersiniz"
+  },
+  {
+    "nl": "neerleggen (legde neer, neergelegd)",
+    "tr": "yatmak, yatırmak, bir kenara koymak"
+  },
+  {
+    "nl": "neerpoten, neerzetten",
+    "tr": "yere koymak"
+  },
+  {
+    "nl": "neerzetten (zette neer, neergezet)",
+    "tr": "yere koymak, indirmek"
+  },
+  {
+    "nl": "negeren, negeerde, genegeerd",
+    "tr": "aldırmamak , aldırış etmemek"
+  },
+  {
+    "nl": "niezen (niesde, h. geniesd)",
+    "tr": "hapşırmak"
+  },
+  {
+    "nl": "nodig hebben, ik heb ... nodig",
+    "tr": "ihtiyaç duymak, gerek duymak"
+  },
+  {
+    "nl": "nomineren, genomineerd",
+    "tr": "aday göstermek"
+  },
+  {
+    "nl": "Noteren - noteerde - genoteerd",
+    "tr": "not almak"
+  },
+  {
+    "nl": "notitie maken, noteren, aantekenen, notitie nemen",
+    "tr": "not almak, not etmek"
+  },
+  {
+    "nl": "oefenen, uitoefenen, beoefenen",
+    "tr": "pratik yapmak, egzersiz yapmak, alıştırma yapmak"
+  },
+  {
+    "nl": "om de tuin leiden, omzuilen, ontduiken",
+    "tr": "kandırmak, atlatmak"
+  },
+  {
+    "nl": "omboeken",
+    "tr": "rezervasyon değişikliği yapmak"
+  },
+  {
+    "nl": "omgaan met, hanteren ,behandelen",
+    "tr": "üstesinden gelmek, başa çıkmak"
+  },
+  {
+    "nl": "omgaan, ging om, omgegaan",
+    "tr": "ilgilenmek, üstesinden gelmek, takılmak"
+  },
+  {
+    "nl": "omgeven",
+    "tr": "çevrelemek, kuşatmak, etrafını sarmak"
+  },
+  {
+    "nl": "omhoog schieten",
+    "tr": "birden yükselmek, birden artmak"
+  },
+  {
+    "nl": "omhooggaan, ging omhoog, omhooggegaan",
+    "tr": "yükselmek, yükseğe gitmek"
+  },
+  {
+    "nl": "omkeren (keerde om, omgekeerd) (zich -)",
+    "tr": "tersine döndürmek, çevirmek"
+  },
+  {
+    "nl": "omkijken",
+    "tr": "etrafına, arkana bakmak, bakınmak"
+  },
+  {
+    "nl": "Omkomen / om het leven komen",
+    "tr": "hayatın sonuna gelmek, ölmek, vefat etmek"
+  },
+  {
+    "nl": "omkopen (kocht om, omgekocht)",
+    "tr": "rüşvet vermek"
+  },
+  {
+    "nl": "omlopen",
+    "tr": "etrafını dolaşmak(yürüyerek)"
+  },
+  {
+    "nl": "omlopen, rondlopen",
+    "tr": "dolaşmak, turlamak"
+  },
+  {
+    "nl": "omrijden",
+    "tr": "saptırmak, sapmak, servis yolundan vermek"
+  },
+  {
+    "nl": "omroepen",
+    "tr": "yayımlamak, yayınlamak, duyuru yapmak"
+  },
+  {
+    "nl": "omschrijven, definiëren",
+    "tr": "sınırlamak, daire içini almak, belirlemek, tarif etmek"
+  },
+  {
+    "nl": "omslaan sloeg om omgeslagen",
+    "tr": "çevirmek(sayfayı), değişivermek, ters dönmek"
+  },
+  {
+    "nl": "omvallen",
+    "tr": "devirmek, devrilmek, yıkılmak"
+  },
+  {
+    "nl": "omvallen omgooien omverwerpen",
+    "tr": "devirmek, devrilmek, alabora olmak"
+  },
+  {
+    "nl": "onderbouwen (onderbouwde(n), onderbouwd), staven, bewijzen",
+    "tr": "doğrulamak, kanıtlamak, gerçekleştirmek"
+  },
+  {
+    "nl": "onderbreken, onderbrak, onderbroken",
+    "tr": "sözünü kesmek, araya girmek"
+  },
+  {
+    "nl": "onderbrengen, huisvesten, accommonderen",
+    "tr": "karşılamak, kalacak yer sağlamak"
+  },
+  {
+    "nl": "Onderdrukken, bedwingen, onderwerpen",
+    "tr": "baskı altında tutmak, kontrolü altında tutmak, baskı yapmak"
+  },
+  {
+    "nl": "ondergaan (ging onder, is ondergegaan)",
+    "tr": "güneşin batması, geçirmek(kalp krizi)"
+  },
+  {
+    "nl": "ondergaan( van de zon)",
+    "tr": "güneşin batması"
+  },
+  {
+    "nl": "onderhandelen (onderhandelde, onderhandeld)",
+    "tr": "tartışmak, görüşmek, anlaşmak, pazarlık yapmak"
+  },
+  {
+    "nl": "onderhouden, onderhield, onderhouden",
+    "tr": "bakım yapmak, sürdürmek, geçimini sağlamak"
+  },
+  {
+    "nl": "ondernemen, ondernam, ondernomen",
+    "tr": "üstlenmek, girişmek(bir işe)"
+  },
+  {
+    "nl": "onderscheiden (onderscheidde, onderscheiden), onderscheidt maken",
+    "tr": "ayırt etmek, ayrım yapmak, fark etmek"
+  },
+  {
+    "nl": "onderscheppen",
+    "tr": "durdurmak, yolunu kesmek, alıkoymak"
+  },
+  {
+    "nl": "onderstrepen",
+    "tr": "altını çizmek"
+  },
+  {
+    "nl": "Ondervinden, ondervond, ondervonden, ervaren",
+    "tr": "tecrübe etmek, yaşamak"
+  },
+  {
+    "nl": "Ondervragen, ondervroeg, ondervraagd",
+    "tr": "sorguya çekmek, soruşturmak"
+  },
+  {
+    "nl": "onderzoek uitvoeren",
+    "tr": "araştırma yürütmek, araştırma gerçekleştirmek"
+  },
+  {
+    "nl": "Onderzoeken, onderzocht, onderzocht",
+    "tr": "incelemek, araştırmak"
+  },
+  {
+    "nl": "ontbijten, ontbeet, ontbeten",
+    "tr": "kahvaltı yapmak"
+  },
+  {
+    "nl": "ontdekken, ontdekte, ontdekt",
+    "tr": "keşfetmek, bulmak"
+  },
+  {
+    "nl": "onthouden, onthield, onthouden",
+    "tr": "hatırlamak, anımsamak"
+  },
+  {
+    "nl": "onthullen, openbaren, bekendmaken",
+    "tr": "ortaya çıkartmak, gözler önüne sermek"
+  },
+  {
+    "nl": "ontkennen, weigeren, ontzeggen",
+    "tr": "inkar etmek, reddetmek, yadsımak"
+  },
+  {
+    "nl": "ontkoppelen",
+    "tr": "birbirinden ayrılmak"
+  },
+  {
+    "nl": "Ontleden, analyseren",
+    "tr": "gramer bakımından incelemek, analiz etmek"
+  },
+  {
+    "nl": "ontlenen",
+    "tr": "ödünç almak, türetmek, çıkarmak"
+  },
+  {
+    "nl": "ontlopen",
+    "tr": "kaçmak(kaderden), kurtulmak"
+  },
+  {
+    "nl": "ontmoedigen, afraden , ontraden",
+    "tr": "vazgeçirmek, cesaretini kırmak, hevesini kırmak"
+  },
+  {
+    "nl": "ontslaan, ontsloeg, ontslagen",
+    "tr": "işten çıkarmak, kovmak"
+  },
+  {
+    "nl": "ontslag nemen",
+    "tr": "istifa etmek"
+  },
+  {
+    "nl": "ontsmetten, desinfecteren",
+    "tr": "dezenfekte etmek, mikroplardan arındırmak"
+  },
+  {
+    "nl": "ontsnappen, (ont)vluchten, ontkomen",
+    "tr": "kaçmak, firar etmek"
+  },
+  {
+    "nl": "ontspannen, ontspande, ontspannen",
+    "tr": "rahatlamak, gevşemek"
+  },
+  {
+    "nl": "ontsporen, derailleren",
+    "tr": "raydan çıkmak"
+  },
+  {
+    "nl": "Ontstaan, ontstond, ontstaan",
+    "tr": "kaynaklanmak, ortaya çıkmak"
+  },
+  {
+    "nl": "ontsteken (ontstak, is ontstoken)",
+    "tr": "tutuşmak, yakmak, alevlendirmek"
+  },
+  {
+    "nl": "ontvangen (ontving, ontvangen)",
+    "tr": "almak, karşılamak, ev sahipliği yapmak"
+  },
+  {
+    "nl": "ontwikkelen (ontwikkelde, ontwikkeld)",
+    "tr": "geliştirmek, gelişmek, ilerlemek"
+  },
+  {
+    "nl": "onzin praten",
+    "tr": "saçma sapan konuşmak"
+  },
+  {
+    "nl": "op prijs stellen, waarderen",
+    "tr": "minnettar olmak, takdir etmek, teşekkürü borç bilmek"
+  },
+  {
+    "nl": "Opbergen, borg op, opgeborgen",
+    "tr": "istiflemek, stoklamak"
+  },
+  {
+    "nl": "opblazen, blies op, opgeblazen",
+    "tr": "şişirmek, üflemek"
+  },
+  {
+    "nl": "opblijven (bleef op - opgebleven)",
+    "tr": "geç saate kadar kalmak"
+  },
+  {
+    "nl": "opbrengen (bracht op, opgebracht)",
+    "tr": "toplamak, gelir elde etmek, biriktirmek"
+  },
+  {
+    "nl": "opdagen",
+    "tr": "belli olmak, ortaya çıkmak, görünmek"
+  },
+  {
+    "nl": "opdracht geven",
+    "tr": "talimat vermek, sorumluluk yüklemek"
+  },
+  {
+    "nl": "opdringen, opleggen",
+    "tr": "empoze etmek, yüklemek, dayatmak"
+  },
+  {
+    "nl": "opduiken, tevoorschijn komen",
+    "tr": "ortaya çıkmak, su yüzüne çıkmak"
+  },
+  {
+    "nl": "opendoen, dichtdoen",
+    "tr": "açmak-kapamak (pencere, kapı...)"
+  },
+  {
+    "nl": "opendraaien",
+    "tr": "döndürüp açmak"
+  },
+  {
+    "nl": "openen, opendoen",
+    "tr": "açmak, açıvermek"
+  },
+  {
+    "nl": "Openkrabben",
+    "tr": "yırtıp açmak"
+  },
+  {
+    "nl": "openstellen",
+    "tr": "ardına kadar açmak, deşmek, halka açılmak"
+  },
+  {
+    "nl": "opereren, opereerde, geopereerd",
+    "tr": "ameliyat etmek, operasyon yapmak"
+  },
+  {
+    "nl": "opeten (at op, opgegeten)",
+    "tr": "yemek yemek"
+  },
+  {
+    "nl": "opfleuren",
+    "tr": "kendine gelmek, canlanmak"
+  },
+  {
+    "nl": "ophalen (haalde op, opgehaald)",
+    "tr": "gidip, gelip almak"
+  },
+  {
+    "nl": "ophangen (hing op, opgehangen)",
+    "tr": "asmak, telefonu kapatmak, takılmak, dışarıda"
+  },
+  {
+    "nl": "Ophouden, hield op, opgehouden,(stoppen)",
+    "tr": "durdurmak, sonlandırmak"
+  },
+  {
+    "nl": "ophouden, stoppen",
+    "tr": "bitirmek, durdurmak,"
+  },
+  {
+    "nl": "opklaren-klaarde op-opgeklaard",
+    "tr": "temizlenmek, açılmak( gökyüzünün açılması)"
+  },
+  {
+    "nl": "opknappen, knapte op, opgeknapt",
+    "tr": "düzeltmek, çeki düzen vermek, toparlamak"
+  },
+  {
+    "nl": "opkomen (kwam op, opgekomen)",
+    "tr": "çıkmak, yükselmek"
+  },
+  {
+    "nl": "opkrijgen",
+    "tr": "yiyememek, alamamak"
+  },
+  {
+    "nl": "opleggen (legde op, opgelegd)",
+    "tr": "empoze etmek, yüklemek, uygulamaya koymak(kararın icrası)"
+  },
+  {
+    "nl": "opleiden, leidde op, opgeleid, onderwijzen",
+    "tr": "eğitim vermek, yetiştirmek"
+  },
+  {
+    "nl": "opletten, in de gaten houden, in het oog houden",
+    "tr": "dikkat etmek, göz kulak olmak, gözünü üzerinden ayırmamak"
+  },
+  {
+    "nl": "opleveren (leverde op, opgeleverd)",
+    "tr": "ürün vermek, yetiştirmek, yol açmak, sağlamak"
+  },
+  {
+    "nl": "oplichten, bedriegen",
+    "tr": "kandırmak, aldatmak, dolandırmak"
+  },
+  {
+    "nl": "oplichten, bedriegen, opsteken",
+    "tr": "farları yakma, dolandırıcılık yapma, hile ile almak"
+  },
+  {
+    "nl": "oplopen (liep op, opgelopen)",
+    "tr": "hastalığa yakalanmak, maruz kalmak"
+  },
+  {
+    "nl": "opmaken",
+    "tr": "yatağı yapmak, düzeltmek"
+  },
+  {
+    "nl": "opmerken (merkte op, opgemerkt)",
+    "tr": "düşüncesini söylemek, farkına varmak, yorum yapmak, not almak"
+  },
+  {
+    "nl": "opnemen",
+    "tr": "kayıt etmek(record), cevaplamak(telefon), almak(para, bankadan), ateşini ölçmek"
+  },
+  {
+    "nl": "opnemen (nam op, opgenomen)",
+    "tr": "telefon cevaplamak, kayıt etmek(record)"
+  },
+  {
+    "nl": "oppakken (pakte(n) op, opgepakt)",
+    "tr": "almak, yakalamak,( polisin alması)"
+  },
+  {
+    "nl": "oppassen voor",
+    "tr": "dikkat etmek, dikkatli olmak"
+  },
+  {
+    "nl": "oppompen",
+    "tr": "pompalamak"
+  },
+  {
+    "nl": "oprapen, raapte op, opgeraapt",
+    "tr": "yerden almak"
+  },
+  {
+    "nl": "oprichten, stichten",
+    "tr": "kurmak, temelini atmak, işe başlamak"
+  },
+  {
+    "nl": "opruimen (ruimde op, heeft opgeruimd)",
+    "tr": "toparlamak, temizlik yapmak, çeki düzen vermek"
+  },
+  {
+    "nl": "opscheppen",
+    "tr": "övünmek, böbürlenmek"
+  },
+  {
+    "nl": "opschieten (schoot op, opgeschoten)",
+    "tr": "acele etmek, iyi geçinmek"
+  },
+  {
+    "nl": "opschrijven, noteren",
+    "tr": "üzerine yazmak, not almak"
+  },
+  {
+    "nl": "Opschuiven, schoof op, opgeschoven",
+    "tr": "kenara çekilmek, kaymak, bir tarafa gitmek, kıpırdamak"
+  },
+  {
+    "nl": "opsluiten, sloot op, opgesloten",
+    "tr": "kilitlemek, kilitleyip kapatmak"
+  },
+  {
+    "nl": "opsommen, optellen",
+    "tr": "saymak, toplamak, araştırmak, bilgi toplamak"
+  },
+  {
+    "nl": "opsporen, spoorde op, opgespoord",
+    "tr": "izini sürmek, takip ederek bulmak"
+  },
+  {
+    "nl": "opstaan, stond op, opgestaan",
+    "tr": "kalkmak,ayağa kalkmak, uyanmak"
+  },
+  {
+    "nl": "opsteken (stak op, opgestoken)",
+    "tr": "parmak kaldırmak, sigarayı yakmak"
+  },
+  {
+    "nl": "opstellen- samenstellen",
+    "tr": "kurmak, hazırlamak, derlemek, bir araya getirmek"
+  },
+  {
+    "nl": "opstellen, vaststellen",
+    "tr": "ayarlamak, kurmak, belirlemek"
+  },
+  {
+    "nl": "optellen (telde(n) op, opgeteld)",
+    "tr": "toplamak, toplama işlemi yapmak"
+  },
+  {
+    "nl": "optillen, opheffen, verheffen",
+    "tr": "kaldırmak, yüklemek"
+  },
+  {
+    "nl": "optreden (trad op, opgetreden)",
+    "tr": "performans sergilemek, ortaya çıkmak, müdahale etmek"
+  },
+  {
+    "nl": "opvallen, viel op, opgevallen",
+    "tr": "göze çarpmak, dikkat çekmek"
+  },
+  {
+    "nl": "Opvangen, ving op, opgevangen",
+    "tr": "yakalamak(bir şeyi veya birini), toplamak, içeri almak"
+  },
+  {
+    "nl": "opvatten (vatte op, opgevat)",
+    "tr": "algılamak, anlamak"
+  },
+  {
+    "nl": "opvoeden, grootbrengen",
+    "tr": "büyütmek, yetiştirmek"
+  },
+  {
+    "nl": "opvolgen (volgde op, heeft opgevolgd)",
+    "tr": "izinde olmak, takipçisi olmak"
+  },
+  {
+    "nl": "opvouwen",
+    "tr": "katlamak"
+  },
+  {
+    "nl": "opwaarderen",
+    "tr": "doldurmak, yüklemek(kredi, kontör)"
+  },
+  {
+    "nl": "opwegen",
+    "tr": "daha ağır gelmek, ağır basmak"
+  },
+  {
+    "nl": "opwinden (zich)",
+    "tr": "öfkelenmek, kontrolünü kaybetmek"
+  },
+  {
+    "nl": "opwinden, wond op, opgewonden",
+    "tr": "heyecan uyandırmak, heyecanlandırmak"
+  },
+  {
+    "nl": "opzeggen (zei op, heeft opgezegd)",
+    "tr": "feshetmek(kontrat, sözleşme)"
+  },
+  {
+    "nl": "opzetten, starten",
+    "tr": "kurulum yapmak, ayarlama yapmak"
+  },
+  {
+    "nl": "opzien tegen",
+    "tr": "endişe etmek"
+  },
+  {
+    "nl": "orde handhaven, de orde bewaren",
+    "tr": "düzeni sağlamak,"
+  },
+  {
+    "nl": "organiseren, georganiseerd",
+    "tr": "organize etmek"
+  },
+  {
+    "nl": "overblijven (bleef over, is overgebleven), achterblijven",
+    "tr": "geriye kalmak, artmak"
+  },
+  {
+    "nl": "overdragen (droeg over, heeft overgedragen)",
+    "tr": "aktarmak, transfer yapmak"
+  },
+  {
+    "nl": "overdrijven, overdreef, overdreven",
+    "tr": "abartmak, aşırıya kaçmak"
+  },
+  {
+    "nl": "overeenkomen, het eens zijn",
+    "tr": "anlaşmak, hem fikir olmak, uyuşmak"
+  },
+  {
+    "nl": "overgeven, braken",
+    "tr": "kusmak, istifra etmek"
+  },
+  {
+    "nl": "overheersen, de sterkste zijn",
+    "tr": "üstün gelmek, hakim olmak"
+  },
+  {
+    "nl": "overhouden, overblijven, overlaten",
+    "tr": "ayırmak, artmış olmak, geride kalmak"
+  },
+  {
+    "nl": "overkomen (overkwam-overkomen)",
+    "tr": "başına gelmek, üstesinden gelmek"
+  },
+  {
+    "nl": "overleggen, raad plegen, consulteren",
+    "tr": "danışmak, başvurmak"
+  },
+  {
+    "nl": "overleggen, raadplegen, consulteren",
+    "tr": "danışmak, başvurmak, görüşmek"
+  },
+  {
+    "nl": "overleven (overleefde, heeft overleefd)",
+    "tr": "hayatta kalmak, sağ kalmak"
+  },
+  {
+    "nl": "overleven (overleefde(n), overleefd)",
+    "tr": "hayatta kalmak, yaşamını sürdürmek"
+  },
+  {
+    "nl": "overlopen",
+    "tr": "taşma"
+  },
+  {
+    "nl": "overmaken - maakte over - overgemaakt",
+    "tr": "aktarmak, transfer etmek"
+  },
+  {
+    "nl": "overnachten (overnachtte, h. overnacht)",
+    "tr": "geceyi geçirmek, gecelemek"
+  },
+  {
+    "nl": "overnemen, op zich nemen",
+    "tr": "devralmak, üstlenmek, üstüne almak"
+  },
+  {
+    "nl": "overschrijven (schreef over, h. overgeschreven)",
+    "tr": "bakıp yazmak"
+  },
+  {
+    "nl": "overslaan, sloeg over, overgeslagen",
+    "tr": "atlamak, geçmek"
+  },
+  {
+    "nl": "overstappen (stapte over, overgestapt)",
+    "tr": "değiştirmek(platform), aktarmak, geçiş yapmak"
+  },
+  {
+    "nl": "oversteken (stak over, overgestoken)",
+    "tr": "karşıya geçmek"
+  },
+  {
+    "nl": "overstromen",
+    "tr": "taşmak(su), dışına taşmak"
+  },
+  {
+    "nl": "overtreden, inbreuk maken op, schenden",
+    "tr": "ihlal etmek, çiğnemek, tecavüz etmek"
+  },
+  {
+    "nl": "overtreffen ( overtrof / heeft overtroffen )",
+    "tr": "üstün gelmek, baskın olmak, yükte ağır olmak"
+  },
+  {
+    "nl": "Overvallen, overviel, overvallen",
+    "tr": "basmak, akın etmek, hücum etmek"
+  },
+  {
+    "nl": "overwaaien",
+    "tr": "patlamak, dağılmak, yayılmak"
+  },
+  {
+    "nl": "overwegen, beschouwen",
+    "tr": "göz önünde bulundurmak, dikkate almak"
+  },
+  {
+    "nl": "overwerken, overuren maken",
+    "tr": "fazla mesai yapmak"
+  },
+  {
+    "nl": "participeren",
+    "tr": "parçası olmak, katılmak"
+  },
+  {
+    "nl": "passen (paste, gepast)",
+    "tr": "uymak, uyumlu olmak, uyum sağlamak"
+  },
+  {
+    "nl": "Hij past goed bij het team.",
+    "tr": "O takımla iyi uyum sağlıyor."
+  },
+  {
+    "nl": "Pauzeren (pauzeerde, heeft gepauzeerd)",
+    "tr": "ara vermek, mola vermek"
+  },
+  {
+    "nl": "Laten we even pauzeren en iets eten.",
+    "tr": "Biraz ara verip bir şeyler yiyelim."
+  },
+  {
+    "nl": "pellen, schillen",
+    "tr": "soymak, kabuğunu soymak"
+  },
+  {
+    "nl": "Ik pel de sinaasappel.",
+    "tr": "Portakalı soyuyorum."
+  },
+  {
+    "nl": "permitteren",
+    "tr": "göze almak, gücü yetmek"
+  },
+  {
+    "nl": "Kan ik me dat permitteren?",
+    "tr": "Buna gücüm yeter mi?"
+  },
+  {
+    "nl": "persen/uitpersen",
+    "tr": "sıkıştırmak, sıkmak, suyunu sıkmak"
+  },
+  {
+    "nl": "Ze perst de citroen uit.",
+    "tr": "Limonu sıkıyor."
+  },
+  {
+    "nl": "pesten",
+    "tr": "zorbalık etmek, zulmetmek"
+  },
+  {
+    "nl": "Stop met pesten!",
+    "tr": "Zorbalığı bırak!"
+  },
+  {
+    "nl": "picknicken (heeft gepicknickt)",
+    "tr": "piknik yapmak"
+  },
+  {
+    "nl": "Ze hebben gisteren gepicknickt in het park.",
+    "tr": "Dün parkta piknik yaptılar."
+  },
+  {
+    "nl": "pinnen/ met pin betalen",
+    "tr": "kartla ödeme yapmak"
+  },
+  {
+    "nl": "Je kunt hier met pin betalen.",
+    "tr": "Burada kartla ödeme yapabilirsiniz."
+  },
+  {
+    "nl": "passen (paste, gepast)",
+    "tr": "uymak, uyumlu olmak, uyum sağlamak"
+  },
+  {
+    "nl": "Pauzeren (pauzeerde, heeft gepauzeerd)",
+    "tr": "ara vermek, mola vermek"
+  },
+  {
+    "nl": "pellen, schillen",
+    "tr": "soymak, kabuğunu soymak"
+  },
+  {
+    "nl": "permitteren",
+    "tr": "göze almak, gücü yetmek"
+  },
+  {
+    "nl": "persen/uitpersen",
+    "tr": "sıkıştırmak, sıkmak, suyunu sıkmak"
+  },
+  {
+    "nl": "pesten, pestte, gepest",
+    "tr": "zorbalık etmek, zulmetmek"
+  },
+  {
+    "nl": "picknicken (heeft gepicknickt)",
+    "tr": "piknik yapmak"
+  },
+  {
+    "nl": "pinnen/ met pin betalen",
+    "tr": "kartla ödeme yapmak"
+  },
+  {
+    "nl": "plaats geven aan, opstaan voor",
+    "tr": "yerini bırakmak, yer vermek"
+  },
+  {
+    "nl": "plaatsvinden, zich voordoen, zich afspelen",
+    "tr": "gerçekleşmek, meydana gelmek"
+  },
+  {
+    "nl": "plagen (plaagde, geplaagd)",
+    "tr": "kızdırmak, sinirlendirmek, şakalaşmak"
+  },
+  {
+    "nl": "plakken, plakte, geplakt",
+    "tr": "yapıştırmak"
+  },
+  {
+    "nl": "plannen, plannen maken",
+    "tr": "planlamak, plan yapmak"
+  },
+  {
+    "nl": "plassen (plaste, geplast)",
+    "tr": "işemek"
+  },
+  {
+    "nl": "plegen, begaan",
+    "tr": "işlemek, suç işlemek"
+  },
+  {
+    "nl": "pleiten, bepleiten",
+    "tr": "savunmak, müdafaa etmek, avukatlığını yapmak"
+  },
+  {
+    "nl": "plukken, plukte, geplukt",
+    "tr": "toplamak(meyve, sebze)"
+  },
+  {
+    "nl": "poepen (poepte, poepten; heeft gepoept)",
+    "tr": "kaka yapmak"
+  },
+  {
+    "nl": "poetsen, poetste, gepoetst",
+    "tr": "fırçalamak, cilalamak"
+  },
+  {
+    "nl": "poneren, veronderstellen",
+    "tr": "farzetmek, varsaymak, yerine koynak"
+  },
+  {
+    "nl": "posten (postte(n), gepost), versturen",
+    "tr": "postalamak, göndermek"
+  },
+  {
+    "nl": "presentatie geven",
+    "tr": "sunum yapmak"
+  },
+  {
+    "nl": "Presenteren (presenteerde, gepresenteerd)",
+    "tr": "sunum yapmak"
+  },
+  {
+    "nl": "presteren (presteerde, h. gepresteerd)",
+    "tr": "başarmak, elde etmek( bereiken, behalen)"
+  },
+  {
+    "nl": "prijzen prees geprezen",
+    "tr": "fiyatlandırmak, ödüllendirmek, övmek"
+  },
+  {
+    "nl": "prikken, prikte, geprikt",
+    "tr": "saplamak, çatalla saplamak"
+  },
+  {
+    "nl": "printen, afdrukken",
+    "tr": "yazdırmak, bastırmak"
+  },
+  {
+    "nl": "proberen (probeerde, geprobeerd)",
+    "tr": "denemek"
+  },
+  {
+    "nl": "proberen, trachten",
+    "tr": "denemek, kalkışmak, teşebbüs etmek"
+  },
+  {
+    "nl": "produceren (produceerde, geproduceerd, overleggen",
+    "tr": "üretmek"
+  },
+  {
+    "nl": "proeven, proefde, geproefd",
+    "tr": "tatmak, tadına bakmak"
+  },
+  {
+    "nl": "profiteren van",
+    "tr": "avantaj sağlamak, faydalanmak,"
+  },
+  {
+    "nl": "prostitueren",
+    "tr": "fahişelik yaptırmak, fahişeliğe itmek"
+  },
+  {
+    "nl": "protesteren (protesteerde, geprotesteerd)",
+    "tr": "protesto etmek"
+  },
+  {
+    "nl": "pruttelen",
+    "tr": "pişirmek, kaynamak"
+  },
+  {
+    "nl": "publiceren, openbaar maken",
+    "tr": "yayımlamak, kamuoyuna açıklamak"
+  },
+  {
+    "nl": "raden raadde geraden(naar)",
+    "tr": "tahmin etmek, tahminde bulunmak, tavsiyede bulunmak"
+  },
+  {
+    "nl": "ratelen rammelen",
+    "tr": "tıngırdamak, takırdamak"
+  },
+  {
+    "nl": "reageren (reageerde, gereageerd)",
+    "tr": "tepki vermek, cevap vermek, tepki göstermek"
+  },
+  {
+    "nl": "rechtszaak beginnen",
+    "tr": "dava açmak"
+  },
+  {
+    "nl": "reclame maken, adverteren",
+    "tr": "reklamını yapmak, duyurmak"
+  },
+  {
+    "nl": "redden, redde, gered",
+    "tr": "kurtarmak"
+  },
+  {
+    "nl": "regelen (regelde, geregeld)",
+    "tr": "düzenlemek, ayarlamak, sıraya koymak"
+  },
+  {
+    "nl": "regenen (regende, geregend)",
+    "tr": "yağmur yağmak"
+  },
+  {
+    "nl": "regeren, regeerde, geregeerd, heersen, besturen",
+    "tr": "yönetmek, hükmetmek"
+  },
+  {
+    "nl": "registreren, inschrijven, opnemen",
+    "tr": "yazılmak, kayda geçmek, kaydetmek"
+  },
+  {
+    "nl": "reizen (reisde, gereisd)",
+    "tr": "seyahat etmek"
+  },
+  {
+    "nl": "rekenen op",
+    "tr": "güvenmek, hesaba katmak"
+  },
+  {
+    "nl": "remmen, remde, heeft geremd",
+    "tr": "fren yapmak, frenlemek"
+  },
+  {
+    "nl": "rennen (rende, gerend)",
+    "tr": "koşmak"
+  },
+  {
+    "nl": "renoveren, vernieuwen, hernieuwen",
+    "tr": "yenilemek, tazelemek, tekrarlamak"
+  },
+  {
+    "nl": "repareren, repareerde, gerepareerd",
+    "tr": "tamir etmek"
+  },
+  {
+    "nl": "repeteren (repeteerde, h. gerepeteerd)",
+    "tr": "prova yapmak, tekrarlamak"
+  },
+  {
+    "nl": "reserveren, boeken",
+    "tr": "rezervasyon yaptırmak, rezerve etmek"
+  },
+  {
+    "nl": "respecteren",
+    "tr": "uymak, boyun eğmek, razı olmak"
+  },
+  {
+    "nl": "respecteren, eerbiedigen",
+    "tr": "saygı göstermek, hürmet etmek"
+  },
+  {
+    "nl": "restaureren (restaureerde, h gerestaureerd)",
+    "tr": "restore etmek"
+  },
+  {
+    "nl": "richten op",
+    "tr": "odaklanmak, yönlendirmek, işaretle göstermek"
+  },
+  {
+    "nl": "rimpelen",
+    "tr": "buruşmak"
+  },
+  {
+    "nl": "rinkelen, bellen",
+    "tr": "telefonun çalması, ses çıkarması"
+  },
+  {
+    "nl": "risico's nemen",
+    "tr": "risk almak"
+  },
+  {
+    "nl": "riskeren, kans lopen",
+    "tr": "riske atmak, göze almak"
+  },
+  {
+    "nl": "roeien",
+    "tr": "kürek çekmek"
+  },
+  {
+    "nl": "roeren, roerde, geroerd",
+    "tr": "karıştırmak"
+  },
+  {
+    "nl": "roken (rookte, gerookt)",
+    "tr": "sigara içmek, duman tüttürmek"
+  },
+  {
+    "nl": "rollen, rolde, gerold",
+    "tr": "yuvarlamak, yuvarlanmak"
+  },
+  {
+    "nl": "Rondrijden, reed rond, rondgereden",
+    "tr": "arabayla turlamak, arabayla dolaşmak"
+  },
+  {
+    "nl": "rondslingeren",
+    "tr": "etrafa yayılmak"
+  },
+  {
+    "nl": "rotten, verrotten, bederven",
+    "tr": "çürümek, bozulmak, yozlaşmak"
+  },
+  {
+    "nl": "ruiken, rook, geroken",
+    "tr": "koklamak, kokmak, kokusunu almak"
+  },
+  {
+    "nl": "ruilen (ruilde, heeft geruild)",
+    "tr": "takas etmek, değiştirmek"
+  },
+  {
+    "nl": "rust nemen, uitrusten",
+    "tr": "dinlenmek, istirahat etmek"
+  },
+  {
+    "nl": "samentrekken",
+    "tr": "sıkıştırmak, büzmek"
+  },
+  {
+    "nl": "samenvatten (vatte samen, samengevat), resumeren",
+    "tr": "özetini çıkarmak, özetlemek"
+  },
+  {
+    "nl": "samenwerken (werkte samen, heeft samengewerkt)",
+    "tr": "işbirliği yapmak, birlikte çalışmak"
+  },
+  {
+    "nl": "scannen (scande, h. gescand)",
+    "tr": "taramak, görüntülemek"
+  },
+  {
+    "nl": "schaatsen - geschaatst",
+    "tr": "kaymak, patenle kaymak"
+  },
+  {
+    "nl": "scheiden scheidde gescheiden, uit elkaar gaan",
+    "tr": "ayrılmak, boşanmak"
+  },
+  {
+    "nl": "schelen (scheelde, gescheeld)",
+    "tr": "umurunda olmak, ilgilenmek, sıkmak, rahatsız etmek"
+  },
+  {
+    "nl": "scheppen, creëren",
+    "tr": "yaratmak, bir eser meydana getirmek"
+  },
+  {
+    "nl": "schieten schoot geschoten",
+    "tr": "ateş etmek"
+  },
+  {
+    "nl": "schijnen scheen geschenen",
+    "tr": "parlamak,görünmek, ortaya çıkmak"
+  },
+  {
+    "nl": "Schillen-schilde-geschild",
+    "tr": "soymak, kabuğunu soymak"
+  },
+  {
+    "nl": "schoonmaken (maakte schoon, schoongemaakt)",
+    "tr": "temizlemek, temizlik yapmak"
+  },
+  {
+    "nl": "schoppen, schopte, geschopt",
+    "tr": "tekmelemek, tekme atmak, topa vurmak"
+  },
+  {
+    "nl": "schrapen",
+    "tr": "boğazdan ses çıkarmak, gıcık sesi yapmak"
+  },
+  {
+    "nl": "schrikken, schrok, geschrokken",
+    "tr": "korkmak, şok olmak"
+  },
+  {
+    "nl": "schudden (schudde, geschud)",
+    "tr": "sallamak, silkelemek, tokalaşmak"
+  },
+  {
+    "nl": "Schuilen School Gescholen",
+    "tr": "sığınmak, saklanmak"
+  },
+  {
+    "nl": "schuiven, schoof, geschoven",
+    "tr": "kenara çekmek,kenara çekilmek, kaydırmak"
+  },
+  {
+    "nl": "schuren",
+    "tr": "zımparalamak, ovuşturmak, kumlamak"
+  },
+  {
+    "nl": "scoren (scoorde, h. gescoord)",
+    "tr": "gol atmak, skor(yapmak, getirmek)"
+  },
+  {
+    "nl": "simuleren, nabootsen",
+    "tr": "benzerini yapmak, simülasyonunu yapmak, benzetmek"
+  },
+  {
+    "nl": "sjouwen (sjouwde, gesjouwd), dragen",
+    "tr": "taşımak, getirmek- götürmek"
+  },
+  {
+    "nl": "slaan, sloeg, geslagen",
+    "tr": "vurmak, dövmek, pataklamak"
+  },
+  {
+    "nl": "slachten",
+    "tr": "hayvan kesmek"
+  },
+  {
+    "nl": "slag leveren",
+    "tr": "savaşmak, mücadele etmek"
+  },
+  {
+    "nl": "slagen, slaagde, geslaagd",
+    "tr": "başarmak"
+  },
+  {
+    "nl": "slepen, sleepte, gesleept, over de grond trekken",
+    "tr": "yerden sürüklemek"
+  },
+  {
+    "nl": "slijpen, sleep, geslepen",
+    "tr": "keskinleştirmek"
+  },
+  {
+    "nl": "slikken, slikte, geslikt",
+    "tr": "yutmak, yutkunmak"
+  },
+  {
+    "nl": "slippen, uitglijden",
+    "tr": "kaymak, savrulmak"
+  },
+  {
+    "nl": "slopen, afbreken, vernietigen",
+    "tr": "yıkmak, imha etmek, tahrip etmek, yıkıp geçmek"
+  },
+  {
+    "nl": "sluipen, sloop, geslopen",
+    "tr": "sessizce sokulmak, yaklaşmak"
+  },
+  {
+    "nl": "sluiten sloot gesloten",
+    "tr": "kapatmak, kapamak"
+  },
+  {
+    "nl": "smaken (smaakte, smaakten; heeft gesmaakt)",
+    "tr": "lezzeti almak, tatmak"
+  },
+  {
+    "nl": "smelten smolt gesmolten",
+    "tr": "erimek"
+  },
+  {
+    "nl": "smeren, smeerde, gesmeerd",
+    "tr": "sürmek, ekmeğe sürmek"
+  },
+  {
+    "nl": "Smijten, gooien",
+    "tr": "fırlatmak, savurmak, atmak"
+  },
+  {
+    "nl": "smullen, ervan genieten",
+    "tr": "tadını çıkarmak, zevk almak"
+  },
+  {
+    "nl": "Snap je het? Begrijp je het?",
+    "tr": "kaptın mı? anladın mı?"
+  },
+  {
+    "nl": "sneeuwen, sneeuwde, gesneeuwd",
+    "tr": "kar yağmak"
+  },
+  {
+    "nl": "snijden sneed gesneden",
+    "tr": "kesmek"
+  },
+  {
+    "nl": "snoeien, snijden",
+    "tr": "budamak, kesmek"
+  },
+  {
+    "nl": "snotteren, neus ophalen",
+    "tr": "burun çekmek, burnunu çekmek"
+  },
+  {
+    "nl": "snuffelen, ruiken",
+    "tr": "kokusunu almak, burnunu çekmek"
+  },
+  {
+    "nl": "soppen",
+    "tr": "ıslatmak, suya batırmak, temizlik yapmak"
+  },
+  {
+    "nl": "sparen (spaarde, heeft gespaard)",
+    "tr": "biriktirmek"
+  },
+  {
+    "nl": "specialiseren",
+    "tr": "uzmanlaşmak"
+  },
+  {
+    "nl": "spellen (spelde, h. gespeld)",
+    "tr": "hecelemek"
+  },
+  {
+    "nl": "spijbelen",
+    "tr": "okulu asmak, dersi asmak"
+  },
+  {
+    "nl": "sponsoren (sponsorde(n), gesponsord)",
+    "tr": "sponsor olmak"
+  },
+  {
+    "nl": "springen sprong gesprongen",
+    "tr": "zıplamak, atlamak"
+  },
+  {
+    "nl": "spugen, spuwen",
+    "tr": "tükürmek"
+  },
+  {
+    "nl": "sputteren",
+    "tr": "konuşurken tükürük saçma"
+  },
+  {
+    "nl": "stage lopen (liep, h. gelopen)",
+    "tr": "staj yapmak, staj eğitimi almak"
+  },
+  {
+    "nl": "staken, staakte, gestaakt",
+    "tr": "grev yapmak, iş bırakmak"
+  },
+  {
+    "nl": "stap zetten",
+    "tr": "adım atmak, karar almak"
+  },
+  {
+    "nl": "Stappen, trappen, treden",
+    "tr": "adım atmak, adımlamak"
+  },
+  {
+    "nl": "staren (staarde, gestaard)",
+    "tr": "gözünü dikmek, bakakalmak, boş boş bakmak"
+  },
+  {
+    "nl": "steken, stak, gestoken",
+    "tr": "sokmak, saplamak(arı, bıçak)"
+  },
+  {
+    "nl": "stelen, stal, gestolen",
+    "tr": "çalmak, aşırmak, hırsızlık yapmak"
+  },
+  {
+    "nl": "stemmen (stemde, gestemd)",
+    "tr": "oylamak, oy kullanmak, seslendirmek"
+  },
+  {
+    "nl": "stempelen, stempelde, h. Gestempeld",
+    "tr": "damgalamak, basmak, mühürlemek"
+  },
+  {
+    "nl": "steunen (steunde, gesteund)",
+    "tr": "desteklemek, destek vermek"
+  },
+  {
+    "nl": "stijgen, steeg, gestegen",
+    "tr": "yükselmek, artmak"
+  },
+  {
+    "nl": "stikken, verstikken, zich verslikken",
+    "tr": "nefesi kesilmek, boğulmak, boğmak, genzine kaçırmak"
+  },
+  {
+    "nl": "stillen, kalmeren",
+    "tr": "sakinleştirmek, yatıştırmak"
+  },
+  {
+    "nl": "stilliggen, lag stil, stilgelegen",
+    "tr": "kımıldamamak, hareketsiz yatmak"
+  },
+  {
+    "nl": "stimuleren-stimuleerde-gestimuleerd",
+    "tr": "teşvik etmek, desteklemek"
+  },
+  {
+    "nl": "stinken, stonk, gestonken",
+    "tr": "pis kokmak, kokutmak, kötü kokmak"
+  },
+  {
+    "nl": "stomen (gestoomd), uitstomen",
+    "tr": "buharla temizlemek, kuru temizleme"
+  },
+  {
+    "nl": "stond af, afgestaan",
+    "tr": "devretmek, vazgeçmek, vermek"
+  },
+  {
+    "nl": "stoppen, eindigen",
+    "tr": "sonlanmak, bitmek, bitirmek"
+  },
+  {
+    "nl": "Storen, hinderen, lastig vallen",
+    "tr": "rahatsız etmek, alıkoymak, huzursuzluk vermek"
+  },
+  {
+    "nl": "stormen-stormde-gestormd",
+    "tr": "fırtına gibi esmek"
+  },
+  {
+    "nl": "stoten, stootte, gestoten",
+    "tr": "toslamak, çarpmak"
+  },
+  {
+    "nl": "straffen, strafte, gestraft",
+    "tr": "cezalandırmak, ceza vermek"
+  },
+  {
+    "nl": "stralen, uitstralen",
+    "tr": "ışık yaymak, saçmak, ışımak, bir merkezden yayılmak"
+  },
+  {
+    "nl": "strijken, streek, gestreken",
+    "tr": "ütülemek, ütü yapmak"
+  },
+  {
+    "nl": "studeren (studeerde, gestudeerd)",
+    "tr": "okumak, eğitim görmek"
+  },
+  {
+    "nl": "Stuiven stoof gestoven",
+    "tr": "dağılmak, serpilmek"
+  },
+  {
+    "nl": "stuklopen",
+    "tr": "bitmek, bozulmak(ilişki)"
+  },
+  {
+    "nl": "sturen (stuurde, gestuurd)",
+    "tr": "göndermek, yollamak, sevk etmek"
+  },
+  {
+    "nl": "suggereren, voorstellen",
+    "tr": "önermek, tavsiye vermek"
+  },
+  {
+    "nl": "tatoeëren",
+    "tr": "dövme yapmak"
+  },
+  {
+    "nl": "tegemoet zien, verlangen naar, zich verheugen op, uitkijken naar",
+    "tr": "dört gözle beklemek, arzulamak"
+  },
+  {
+    "nl": "Tegengaan (ging tegen, tegengegaan)",
+    "tr": "önlemek, durdurmak"
+  },
+  {
+    "nl": "Tegenhouden, hield tegen, tegengehouden",
+    "tr": "durdurmak, zapt etmek, engellemek"
+  },
+  {
+    "nl": "Tegenkomen, kwam tegen, tegengekomen",
+    "tr": "karşılaşmak, rastlamak"
+  },
+  {
+    "nl": "tegenspreken, weerleggen",
+    "tr": "çelişmek, aksini iddia etmek, yalanlamak"
+  },
+  {
+    "nl": "tegenvallen (viel tegen, tegengevallen) (< > meevallen)",
+    "tr": "umut kırıcı, beklenenden daha kötü"
+  },
+  {
+    "nl": "tegenwerken",
+    "tr": "çalışmayı engellemek"
+  },
+  {
+    "nl": "teisteren",
+    "tr": "istila etmek, kaplamak, zarar vermek"
+  },
+  {
+    "nl": "telefoneren, opbellen (pf)",
+    "tr": "telefonla aramak"
+  },
+  {
+    "nl": "tellen (geteld)",
+    "tr": "saymak, numaralamak"
+  },
+  {
+    "nl": "temperen",
+    "tr": "sertleşmek, işlerin kesilmesi"
+  },
+  {
+    "nl": "terechtkomen (kwam terecht, is terechtgekomen)",
+    "tr": "sonuçlanmak, bitmek"
+  },
+  {
+    "nl": "terugbellen (belde terug, h. teruggebeld)",
+    "tr": "geri aramak, dönüş yapmak(telefonla)"
+  },
+  {
+    "nl": "Teruggeven, gaf terug, teruggegeven",
+    "tr": "geri vermek"
+  },
+  {
+    "nl": "terugkeren (keerde terug, teruggekeerd)",
+    "tr": "geri dönmek, dönüş yapmak"
+  },
+  {
+    "nl": "teruglopen, teruggaan",
+    "tr": "gerilemek, geri gitmek, kötüleşmek,"
+  },
+  {
+    "nl": "thee zetten",
+    "tr": "çay koymak"
+  },
+  {
+    "nl": "tikken, tikte, getikt",
+    "tr": "tik koymak"
+  },
+  {
+    "nl": "toedoen, van belang zijn",
+    "tr": "önemi olmak, önemli olmak"
+  },
+  {
+    "nl": "toegeven, gaf toe, toegegeven",
+    "tr": "itiraf etmek"
+  },
+  {
+    "nl": "toejuichen, juichen",
+    "tr": "tezahürat yapmak"
+  },
+  {
+    "nl": "toekomen",
+    "tr": "ulaşmak, yetmek, vadesi gelmek, ilerlemek"
+  },
+  {
+    "nl": "toelaten, toestaan",
+    "tr": "izin vermek, olanak- imkan vermek"
+  },
+  {
+    "nl": "toenemen >< afnemen",
+    "tr": "artmak, azalmak"
+  },
+  {
+    "nl": "toepassen (paste toe, toegepast)",
+    "tr": "uygulamak, başvurmak, gerçekleştirmek"
+  },
+  {
+    "nl": "toeslaan",
+    "tr": "isabet etmek, kök salmak"
+  },
+  {
+    "nl": "toespraak houden",
+    "tr": "konuşma yapmak"
+  },
+  {
+    "nl": "toevoegen (voegde toe, toegevoegd)",
+    "tr": "eklemek, katmak, ilave etmek"
+  },
+  {
+    "nl": "toezien (zag toe, toegezien)",
+    "tr": "denetlemek, gözlemek"
+  },
+  {
+    "nl": "toneelspelen",
+    "tr": "oynamak(sahnede, tiyatroda), oyunculuk yapmak"
+  },
+  {
+    "nl": "tonen, laten zien",
+    "tr": "göstermek"
+  },
+  {
+    "nl": "tonen, toonde, getoond (laten zien)",
+    "tr": "göstermek, sergilemek"
+  },
+  {
+    "nl": "tot stand brengen",
+    "tr": "kurmak, gerçekleştirmek, belirlemek"
+  },
+  {
+    "nl": "tot stand komen",
+    "tr": "meydana gelmek, olmak"
+  },
+  {
+    "nl": "trachten, proberen",
+    "tr": "kalkışmak, girişmek, girişimde bulunmak, denemek"
+  },
+  {
+    "nl": "trakteren ( trakteerde, h getrakteerd)",
+    "tr": "ikram etmek, bir şeyler hazırlamak"
+  },
+  {
+    "nl": "trappen, trapte, getrapt",
+    "tr": "pedallamak"
+  },
+  {
+    "nl": "trek hebben in",
+    "tr": "canı çekmek, canı istemek"
+  },
+  {
+    "nl": "triktrak, backgammon",
+    "tr": "tavla oynamak"
+  },
+  {
+    "nl": "troosten (troostte, h. getroost)",
+    "tr": "avutmak, teselli etmek"
+  },
+  {
+    "nl": "trouwen, trouwde, ben getrouwd (met)",
+    "tr": "evlenmek"
+  },
+  {
+    "nl": "tuinieren (tuinierde, h. getuinierd)",
+    "tr": "bahçe işleri yapmak, bahçecilik yapmak"
+  },
+  {
+    "nl": "twijfelen/betwijfelen",
+    "tr": "şüphesi olmak, emin olmamak, kuşkulanmak"
+  },
+  {
+    "nl": "uit elkaar houden",
+    "tr": "ayırt etmek, ayırmak, ayrım yapmak, farkı gözetmek"
+  },
+  {
+    "nl": "Uitbreiden // verruimen, verbreden, vergroten",
+    "tr": "genişletmek, yaymak, büyütmek"
+  },
+  {
+    "nl": "uitbrengen (boek, album)",
+    "tr": "çıkarmak, yayımlamak(kitap, albüm)"
+  },
+  {
+    "nl": "uitdelen (deelde uit, uitgedeeld)",
+    "tr": "bölmek, dağıtmak"
+  },
+  {
+    "nl": "uiteenlopen, liep uiteen, uiteengelopen",
+    "tr": "uyuşmamak, farklılaşmak, benzememek"
+  },
+  {
+    "nl": "uitgaan, ging uit, uitgegaan",
+    "tr": "dışarı çıkmak, takılmak"
+  },
+  {
+    "nl": "uitgeven aan (gaf uit - uitgegeven)",
+    "tr": "harcamak(para)"
+  },
+  {
+    "nl": "uitgeven, gaf uit, uitgegeven",
+    "tr": "para harcamak, yayımlamak, yaymak"
+  },
+  {
+    "nl": "uitkiezen, selecteren",
+    "tr": "seçmek, ayıklamak, ayırmak"
+  },
+  {
+    "nl": "uitkijken (keek uit, uitgekeken)",
+    "tr": "bakmak, dikkatli bakmak"
+  },
+  {
+    "nl": "uitkijken naar (keek uit, uitgekeken)",
+    "tr": "dört gözle beklemek, sabırsızlanmak, iple çekmek"
+  },
+  {
+    "nl": "Uitknippen-knipte uit-uitgeknipt",
+    "tr": "kesip çıkarmak, ayırmak"
+  },
+  {
+    "nl": "uitlachen, lachte uit, lachten uit, uitgelachen",
+    "tr": "gülmek, dalga geçmek"
+  },
+  {
+    "nl": "Uitleggen, legde uit, heeft uitgelegd",
+    "tr": "açıklamak, anlatmak, izah etmek"
+  },
+  {
+    "nl": "uitlokken, opwekken",
+    "tr": "uyandırmak, neden olmak, canlandırmak, kışkırtmak"
+  },
+  {
+    "nl": "uitlopen, tot uiting komen",
+    "tr": "sonuçlanmak, sonuna gelmek"
+  },
+  {
+    "nl": "uitnodigen, nodigde(n) uit, hebben uitgenodigd",
+    "tr": "davet etmek"
+  },
+  {
+    "nl": "uitreiken, uitdelen",
+    "tr": "dağıtmak(ödül vermek)"
+  },
+  {
+    "nl": "uitrusten, rustte uit, uitgerust",
+    "tr": "dinlenmek, donatmak, kuşatmak"
+  },
+  {
+    "nl": "Uitschelden, schold uit, uitgescholden",
+    "tr": "azarlamak"
+  },
+  {
+    "nl": "uitslapen, sliep uit, uitgeslapen",
+    "tr": "geç saate kadar uyumak, tatlı uyumak"
+  },
+  {
+    "nl": "uitsluiten, uitzonden",
+    "tr": "dışlamak, hariç tutmak, dahil etmemek"
+  },
+  {
+    "nl": "uitspraak doen over",
+    "tr": "hüküm vermek, yargılamak"
+  },
+  {
+    "nl": "uitspreken, sprak uit, uitgesproken",
+    "tr": "telaffuz etmek, açıklamak(karar, hüküm), konuşma yapmak"
+  },
+  {
+    "nl": "uitsteken (stak uit, uitgestoken)",
+    "tr": "çıkıntı yapmak, dışarı taşmak, dili çıkarmak"
+  },
+  {
+    "nl": "uitstellen, stelde uit, uitgesteld",
+    "tr": "ertelemek"
+  },
+  {
+    "nl": "Uitsterven, stierf uit, uitgestorven",
+    "tr": "nesli tükenmek"
+  },
+  {
+    "nl": "uitvinden, vond uit, uitgevonden",
+    "tr": "icat etmek, buluş yapmak"
+  },
+  {
+    "nl": "uitvoeren (voerde uit, uitgevoerd)",
+    "tr": "gerçekleştirmek, uygulamak, yerine getirmek, yürütmek"
+  },
+  {
+    "nl": "uitvoeren/optreden",
+    "tr": "yerine getirmek, yapmak, uygulamak, performans gerçekleştirmek"
+  },
+  {
+    "nl": "uitwerken, werkte uit, uitgewerkt",
+    "tr": "idman yapmak, ayrıntılı hazırlamak, üzerinde durmak"
+  },
+  {
+    "nl": "uitwisselen, ruilen, wisselen, omruilen",
+    "tr": "takas, değiş tokuş etmek"
+  },
+  {
+    "nl": "Uitzenden, zond uit, uitgezonden",
+    "tr": "yayımlamak, yayın yapmak"
+  },
+  {
+    "nl": "uitzetten, zette uit, uitgezet",
+    "tr": "kapatmak(ışık, bilgisayar, televizyon)"
+  },
+  {
+    "nl": "uitzieken",
+    "tr": "uzun süre yatmak, dinlenmek(daha iyi olmak için)"
+  },
+  {
+    "nl": "variëren, verschillen",
+    "tr": "farklılık göstermek, farklılaşmak"
+  },
+  {
+    "nl": "vastdraaien - vastschroeven",
+    "tr": "vidalamak, çevirmek, döndürmek"
+  },
+  {
+    "nl": "vasthouden, hield vast, vastgehouden",
+    "tr": "sıkı tutmak, kavramak"
+  },
+  {
+    "nl": "vastknopen",
+    "tr": "bağlamak, düğümlemek"
+  },
+  {
+    "nl": "vastlopen (liep vast, is vastgelopen)",
+    "tr": "sıkışmak(trafikte), bilgisayarın donması"
+  },
+  {
+    "nl": "vastmaken, aansluiten",
+    "tr": "bağlamak, iliştirmek, sabitlemek"
+  },
+  {
+    "nl": "vastpakken, vasthouden",
+    "tr": "sıkıca kavramak, sıkıca tutmak"
+  },
+  {
+    "nl": "Vastzitten, zat vast, vastgezeten",
+    "tr": "çıkamamak, sıkışmak(kağıt)"
+  },
+  {
+    "nl": "vechten, vocht, gevochten",
+    "tr": "kavga etmek, dövüşmek, savaşmak"
+  },
+  {
+    "nl": "vegen (veegde, geveegd)",
+    "tr": "süpürmek"
+  },
+  {
+    "nl": "veranderen (veranderde, veranderd)",
+    "tr": "değişmek, değiştirmek"
+  },
+  {
+    "nl": "verbannen / verbande / verbannen",
+    "tr": "yasaklamak, kovmak, sürgün etmek"
+  },
+  {
+    "nl": "verbazen, verwonderen",
+    "tr": "şaşırmak, hayret etmek"
+  },
+  {
+    "nl": "verbergen (verborg, verborgen), verstoppen",
+    "tr": "gizlemek, gizlenmek, saklanmak"
+  },
+  {
+    "nl": "verbeteren (verbeterde(n), verbeterd)",
+    "tr": "iyileştirmek, geliştirmek"
+  },
+  {
+    "nl": "verbieden, verbood, verboden",
+    "tr": "yasaklamak"
+  },
+  {
+    "nl": "verbinden (verbond, verbonden)",
+    "tr": "bağlamak, birleştirmek"
+  },
+  {
+    "nl": "verbouwen, verbouwde, verbouwd",
+    "tr": "yenilemek, inşa etmek, yetiştirmek"
+  },
+  {
+    "nl": "Verdampen en Condenseren",
+    "tr": "buharlaşmak ve yoğunlaşmak"
+  },
+  {
+    "nl": "verdedigen (verdedigde, h verdedigd)",
+    "tr": "savunmak, müdafaa etmek"
+  },
+  {
+    "nl": "Verdenken, verdacht, verdacht",
+    "tr": "şüphelenmek, şüphe duymak"
+  },
+  {
+    "nl": "verdergaan, doorgaan",
+    "tr": "sürdürmek, devam etmek, ilerlemek"
+  },
+  {
+    "nl": "verdienen (verdiende, verdiend)",
+    "tr": "para kazanmak"
+  },
+  {
+    "nl": "verdragen, verdroeg, verdragen(kunnen tegen)",
+    "tr": "katlanmak, dayanmak, sabretmek"
+  },
+  {
+    "nl": "verdragen, verduren, uithouden",
+    "tr": "katlanmak, dayanmak, dişini sıkmak"
+  },
+  {
+    "nl": "verdrijven, verjagen",
+    "tr": "sürgün etmek, sürmek, çıkarmak"
+  },
+  {
+    "nl": "verdrinken, verdronk, verdronken",
+    "tr": "boğulmak, suda boğulmak"
+  },
+  {
+    "nl": "verduidelijken, duidelijk maken, verhelderen, nader toelichten",
+    "tr": "açıklığa kavuşturmak, berraklaştırmak, belirli hale getirmek"
+  },
+  {
+    "nl": "verduisteren",
+    "tr": "tutulmak(ay, güneş), gizlemek, örtmek"
+  },
+  {
+    "nl": "verdwaald zijn",
+    "tr": "kaybolmak, yolu kaybetmek"
+  },
+  {
+    "nl": "verdwijnen, verdween, verdwenen",
+    "tr": "kaybolmak, ortadan kaybolmak"
+  },
+  {
+    "nl": "vereeuwigen",
+    "tr": "ölümsüzleştirmek, ebedileştirmek"
+  },
+  {
+    "nl": "verenigen, zich verenigen",
+    "tr": "birleştirmek, birlik olmak"
+  },
+  {
+    "nl": "verergeren, erger worden",
+    "tr": "kötüleşmek, daha kötü olmak"
+  },
+  {
+    "nl": "verfrissen, zich verfrissen",
+    "tr": "tazelemek, yenilemek"
+  },
+  {
+    "nl": "vergaan, rotten",
+    "tr": "çürümek, yok olmak, ölmek"
+  },
+  {
+    "nl": "Vergaderen (vergaderde, vergaderd), bijeenkomen",
+    "tr": "toplantı yapmak, toplanmak"
+  },
+  {
+    "nl": "vergelijken, vergeleek, vergeleken",
+    "tr": "karşılaştırmak"
+  },
+  {
+    "nl": "vergeten, vergat, vergeten",
+    "tr": "unutmak"
+  },
+  {
+    "nl": "vergissen ( zich; vergiste zich, vergisten zich; heeft zich vergist)",
+    "tr": "yanılmak, hataya düşmek"
+  },
+  {
+    "nl": "vergoeden, vergoedde, vergoed, compenseren",
+    "tr": "zararı karşılamak, geri ödemek, tazmin etmek"
+  },
+  {
+    "nl": "Vergroten of verkleinen",
+    "tr": "büyütmek- küçültmek"
+  },
+  {
+    "nl": "verhelpen, verbeteren",
+    "tr": "iyileştirmek, yardımcı olmak"
+  },
+  {
+    "nl": "Verhitten, opwarmen",
+    "tr": "ısıtmak, kızdırmak"
+  },
+  {
+    "nl": "verhuizen (verhuisde, is verhuisd)",
+    "tr": "taşınmak, çıkmak, yeni bir yere yerleşmek"
+  },
+  {
+    "nl": "verhuren (verhuurde, verhuurd)",
+    "tr": "kiralamak, kiraya vermek"
+  },
+  {
+    "nl": "verkeren (verkeerde, verkeerd)",
+    "tr": "olmak, girmiş olmak, ortak olmak, cinsel ilişkiye girmek"
+  },
+  {
+    "nl": "verklappen; verklapt",
+    "tr": "dedikodusunu yapmak, ağzından kaçırmak"
+  },
+  {
+    "nl": "verklaren (verklaarde, verklaard), declareren",
+    "tr": "beyan etmek, açıklamak, deklare etmek"
+  },
+  {
+    "nl": "verkopen, verkocht, verkocht",
+    "tr": "satmak"
+  },
+  {
+    "nl": "verkouden zijn",
+    "tr": "soğuk almak"
+  },
+  {
+    "nl": "verkrijgen, verwerven",
+    "tr": "elde etmek, edinmek, kazanmak"
+  },
+  {
+    "nl": "verlangen (verlangde, verlangd) (- naar)",
+    "tr": "arzulamak, çok istemek"
+  },
+  {
+    "nl": "verleiden, verleidde, verleid",
+    "tr": "ayartmak, kışkırtmak, özendirmek"
+  },
+  {
+    "nl": "verlengen (verlengde, verlengd)",
+    "tr": "uzamak, uzatmak, genişletmek"
+  },
+  {
+    "nl": "verliefd zijn op",
+    "tr": "aşık olmak"
+  },
+  {
+    "nl": "verliezen, verloor, verloren",
+    "tr": "kaybetmek( bir şey, maç, güven)"
+  },
+  {
+    "nl": "verlopen, verliep, verlopen",
+    "tr": "süresi bitmek, geçmek, geçerliliği kalmamak"
+  },
+  {
+    "nl": "vermelden, noemen",
+    "tr": "bahsetmek, anmak, bildirmek, belirtmek"
+  },
+  {
+    "nl": "vermenigvuldigen",
+    "tr": "çarpma işlemi yapmak, çarpmak"
+  },
+  {
+    "nl": "vermijden, vermeed, vermeden, ontwijken",
+    "tr": "sakınmak, kaçınmak"
+  },
+  {
+    "nl": "verminderen, afnemen",
+    "tr": "azaltmak, düşürmek, indirmek"
+  },
+  {
+    "nl": "vermoeden, aannemen",
+    "tr": "ihtimal vermek, varsaymak, zannetmek"
+  },
+  {
+    "nl": "vermoorden, vermoordde, vermoord",
+    "tr": "öldürmek, cinayet işlemek"
+  },
+  {
+    "nl": "vernemen (vernam, vernomen)",
+    "tr": "öğrenmek, duymak, haber almak"
+  },
+  {
+    "nl": "vernietigen (vernietigde, vernietigd)",
+    "tr": "imha etmek, yok etmek"
+  },
+  {
+    "nl": "vernoemen",
+    "tr": "ad vermek, adlandırmak"
+  },
+  {
+    "nl": "veronderstellen, aannemen",
+    "tr": "varsaymak, farz etmek"
+  },
+  {
+    "nl": "veroorzaken, de oorzaak",
+    "tr": "neden olmak, meydana getirmek"
+  },
+  {
+    "nl": "verouderen, ouder worden, vergrijzen",
+    "tr": "yaşlanmak"
+  },
+  {
+    "nl": "veroveren, veroverde, veroverd",
+    "tr": "fethetmek, kalbini kazanmak"
+  },
+  {
+    "nl": "verplicht stellen",
+    "tr": "zorunlu hale getirmek"
+  },
+  {
+    "nl": "verrichten, uitvoeren",
+    "tr": "yapmak, uygulamak, yerine getirmek"
+  },
+  {
+    "nl": "verschaffen, voorzien van",
+    "tr": "sağlamak, tedarik etmek, temin etmek, karşılamak"
+  },
+  {
+    "nl": "verschijnen, verscheen, verschenen",
+    "tr": "görünmek, ortaya çıkmak, belirmek"
+  },
+  {
+    "nl": "versieren, decoreren",
+    "tr": "süslemek, donatmak, dekore etmek, ayartmak,baştan çıkartmak"
+  },
+  {
+    "nl": "verslaafd zijn aan",
+    "tr": "bağımlı olmak, bağımlısı olmak"
+  },
+  {
+    "nl": "verslaan-versloeg-verslagen",
+    "tr": "yenmek, aşmak, mağlup etmek"
+  },
+  {
+    "nl": "verslapen (zich; versliep zich, versliepen zich; heeft zich verslapen)",
+    "tr": "uyuyakalmak, fazla uyumak"
+  },
+  {
+    "nl": "verslapen (zich)",
+    "tr": "uyuyakalmak"
+  },
+  {
+    "nl": "verslijten, versleet, versleten",
+    "tr": "yıpranmak, aşınmak, eskimek"
+  },
+  {
+    "nl": "verspreken",
+    "tr": "çekinmeden konuşmak, açıkça söylemek"
+  },
+  {
+    "nl": "versterken (versterkte, versterkt)",
+    "tr": "güçlenmek, güçlendirmek"
+  },
+  {
+    "nl": "verstoppen, verbergen",
+    "tr": "saklamak, saklanmak, gizlemek"
+  },
+  {
+    "nl": "verstrijken (verstreek - verstreken)",
+    "tr": "süresi dolmak, geçmek"
+  },
+  {
+    "nl": "vertalen (vertaalde,vertaald)",
+    "tr": "tercüme etmek, çevirisini yapmak"
+  },
+  {
+    "nl": "vertolken, spelen",
+    "tr": "oynamak, canlandırmak"
+  },
+  {
+    "nl": "vertrekken, vertrok, vertrokken",
+    "tr": "ayrılmak, bırakmak, terk etmek"
+  },
+  {
+    "nl": "vervaardigen, fabriceren",
+    "tr": "üretmek, imal etmek"
+  },
+  {
+    "nl": "vervallen (verviel, vervallen)",
+    "tr": "hükümsüz olmak, geçerliliği yitirmek"
+  },
+  {
+    "nl": "vervangen (verving, vervangen)",
+    "tr": "yerine geçmek, yerini almak, değiştirmek"
+  },
+  {
+    "nl": "verven (verfde, geverfd)",
+    "tr": "boyamak"
+  },
+  {
+    "nl": "verven, schilderen",
+    "tr": "boyamak(saç, duvar)"
+  },
+  {
+    "nl": "vervloeken, verwensen",
+    "tr": "bela okumak, lanet okumak, beddua etmek"
+  },
+  {
+    "nl": "vervoegen, vergezellen",
+    "tr": "eşlenik olmak, birleşmek, eşlik etmek"
+  },
+  {
+    "nl": "vervoeren, transporteren",
+    "tr": "taşımak, nakletmek"
+  },
+  {
+    "nl": "vervolgen (vervolgde, vervolgd)",
+    "tr": "takip etmek, dava açmak, sürdürmek"
+  },
+  {
+    "nl": "vervolmaken, volmaken, perfectioneren",
+    "tr": "mükemmelleştirmek"
+  },
+  {
+    "nl": "vervuild raken",
+    "tr": "kirlenmek"
+  },
+  {
+    "nl": "vervuilen, verontreinigen",
+    "tr": "kirletmek, pisletmek"
+  },
+  {
+    "nl": "verwaarlozen (verwaarloosde, verwaarloosd)",
+    "tr": "ihmal etmek, boşlamak"
+  },
+  {
+    "nl": "verwaarlozen, verzuimen, veronachtzamen",
+    "tr": "ihmal etmek, boşlamak"
+  },
+  {
+    "nl": "verwachten, verwachtte, verwacht",
+    "tr": "beklemek, ummak"
+  },
+  {
+    "nl": "verwekken, voortbrengen",
+    "tr": "yaratmak, yol açmak, neden olmak, meydana getirmek, var etmek, doğurmak"
+  },
+  {
+    "nl": "verwennen, verwende, verwend",
+    "tr": "şımartmak, yüz vermek"
+  },
+  {
+    "nl": "verwerken (verwerkte(n), verwerkt)",
+    "tr": "işlemek, çalıştırmak"
+  },
+  {
+    "nl": "verwerpen/afwijzen",
+    "tr": "reddetmek, geri çevirmek"
+  },
+  {
+    "nl": "verwijderen, weghalen",
+    "tr": "kaldırmak, ortadan kaldırmak, alıp götürmek"
+  },
+  {
+    "nl": "verwijten, verweet, verweten, schuld geven",
+    "tr": "suçlamak, sorumlu tutmak"
+  },
+  {
+    "nl": "verwijzen, betrekking hebben",
+    "tr": "değinmek,başvurmak, atfetmek"
+  },
+  {
+    "nl": "verwisselde, verwisseld",
+    "tr": "değiştirmek(bez)"
+  },
+  {
+    "nl": "verwoesten, vernietigen",
+    "tr": "yıkmak, mahvetmek, tahrip etmek"
+  },
+  {
+    "nl": "verwonden, beschadigen, blesseren",
+    "tr": "yaralamak, incitmek, zarar vermek"
+  },
+  {
+    "nl": "verzadigen",
+    "tr": "doymak, gına gelmek"
+  },
+  {
+    "nl": "verzamelen, verzamelde, verzameld",
+    "tr": "biriktirmek, toplamak( pul, oyuncak)"
+  },
+  {
+    "nl": "verzekeren (verzekerde, verzekerd), garanderen",
+    "tr": "temin etmek, garanti etmek"
+  },
+  {
+    "nl": "verzekeren, garanderen",
+    "tr": "sigortalamak"
+  },
+  {
+    "nl": "verzekering afsluiten",
+    "tr": "sigorta sözleşmesi yapmak"
+  },
+  {
+    "nl": "verzengen, schroeien, verschroeien",
+    "tr": "alazlamak, yakmak"
+  },
+  {
+    "nl": "verzetten (verzette, verzet)",
+    "tr": "yeniden planlamak, direnmek(zich)"
+  },
+  {
+    "nl": "verzinnen, verzon, verzonnen",
+    "tr": "uydurmak, icat etmek, bulmak"
+  },
+  {
+    "nl": "verzoeken, vragen",
+    "tr": "talep etmek, istemek, rica etmek"
+  },
+  {
+    "nl": "verzwakken; aantasten",
+    "tr": "zayıflatmak, güçsüzleştirmek, bozmak, zayıflatmak"
+  },
+  {
+    "nl": "vieren vierde heeft gevierd",
+    "tr": "kutlamak, kutlama yapmak"
+  },
+  {
+    "nl": "vieren, vierde, gevierd",
+    "tr": "kutlamak, kutlama yapmak"
+  },
+  {
+    "nl": "vissen-viste-gevist, afvissen",
+    "tr": "balık tutmak, balıkçılık yapmak"
+  },
+  {
+    "nl": "visualiseren, veraanschouwelijken",
+    "tr": "gözünde canlandırmak, gözünün önüne getirmek"
+  },
+  {
+    "nl": "vluchten, vluchte, ben gevlucht",
+    "tr": "kaçmak, uçmak"
+  },
+  {
+    "nl": "voelen (zich; voelde zich, voelden zich; heeft zich gevoeld)",
+    "tr": "hissetmek"
+  },
+  {
+    "nl": "voeren actie",
+    "tr": "eylem, hareket gerçekleştirmek"
+  },
+  {
+    "nl": "voeren, eten geven",
+    "tr": "beslemek, yemek vermek"
+  },
+  {
+    "nl": "voeren, voeden, eten geven",
+    "tr": "beslemek, yemek vermek"
+  },
+  {
+    "nl": "voetballen (voetbal spelen)",
+    "tr": "futbol oynamak"
+  },
+  {
+    "nl": "voldoen (voldeed, voldaan)",
+    "tr": "karşılamak, yerine getirmek, tatmin etmek"
+  },
+  {
+    "nl": "voldoen, bevredigen",
+    "tr": "karşılamak, tatmin etmek, memnun etmek"
+  },
+  {
+    "nl": "volgen (volgde, heeft gevolgd)",
+    "tr": "takip etmek, izlemek, uymak"
+  },
+  {
+    "nl": "volhouden/volharden",
+    "tr": "sürdürmek, sebat etmek, azmetmek"
+  },
+  {
+    "nl": "Voor iemand buigen :",
+    "tr": "boyun eğmek(birine, bir şeye)"
+  },
+  {
+    "nl": "voorafgaan , voorgaan, voorrang hebben boven",
+    "tr": "önce gelmek, önde olmak, üstün olmak"
+  },
+  {
+    "nl": "voorbereiden (bereidde voor, heeft voorbereid)",
+    "tr": "hazırlanmak(sınav), hazırlamak, hazırlık yapmak"
+  },
+  {
+    "nl": "voorbijkomen, voorbijgaan, passeren",
+    "tr": "geçmek, uğramak,"
+  },
+  {
+    "nl": "voordoen (deed voor, voorgedaan)",
+    "tr": "önce yapmak, meydana gelmek(zich)"
+  },
+  {
+    "nl": "voordringen",
+    "tr": "ittirmek, sırada öne geçmeye çalışmak"
+  },
+  {
+    "nl": "voorgaan",
+    "tr": "önce gelmek, önde olmak, önden gitmek"
+  },
+  {
+    "nl": "voorkomen (voorkwam, voorkomen)",
+    "tr": "önlemek, oluşmak, meydana gelmek"
+  },
+  {
+    "nl": "voorkomen, zich voordoen, voorvallen",
+    "tr": "oluşmak, meydana gelmek, gerçekleşmek"
+  },
+  {
+    "nl": "voorleggen, indienen",
+    "tr": "sunmak, arz etmek, ibraz etmek"
+  },
+  {
+    "nl": "voorlezen, las voor, voorgelezen",
+    "tr": "okumak(yüksek sesli)"
+  },
+  {
+    "nl": "voorop lopen, lopen vooruit",
+    "tr": "öncülük etmek, ön ayak olmak"
+  },
+  {
+    "nl": "voorschrijven (schreef voor, h. voorgeschreven)",
+    "tr": "reçete yazmak"
+  },
+  {
+    "nl": "voorstaan (stond voor, voorgestaan)",
+    "tr": "savunmak, müdafaa etmek, mücadele etmek"
+  },
+  {
+    "nl": "voortkomen uit",
+    "tr": "ileri gelmek, kaynaklanmak"
+  },
+  {
+    "nl": "voortzetten (zette voort, voortgezet), vervolgen",
+    "tr": "devam ettirmek, sürdürmek"
+  },
+  {
+    "nl": "Voorzeggen (zei voor, h. voorgezegd), voorspellen",
+    "tr": "önceden haber vermek, kehanette bulunmak"
+  },
+  {
+    "nl": "Voorzien, verschaffen, zorgen voor",
+    "tr": "sağlamak, temin etmek, karşılamak"
+  },
+  {
+    "nl": "vormen (vormde, gevormd)",
+    "tr": "şekil vermek, biçimlendirmek"
+  },
+  {
+    "nl": "vragen om",
+    "tr": "istemek, sormak, sorup istemek"
+  },
+  {
+    "nl": "vriezen vroor gevroren",
+    "tr": "donmak"
+  },
+  {
+    "nl": "vrijen (vrijde, gevrijd)",
+    "tr": "sevişmek, kur yapmak"
+  },
+  {
+    "nl": "vrijkomen, vrijlaten, loslaten",
+    "tr": "serbest bırakmak(hayvanı veya insanı), bırakmak, salıvermek"
+  },
+  {
+    "nl": "vrijstellen, ontslaan van een verplichting, ontheffen",
+    "tr": "muaf tutmak, serbest bırakmak, aklamak"
+  },
+  {
+    "nl": "waaien (waaide, gewaaid)",
+    "tr": "esmek"
+  },
+  {
+    "nl": "waarderen (waardeerde, heeft gewaardeerd), op prijs stellen",
+    "tr": "takdir etmek, değer verme değerini bilmek"
+  },
+  {
+    "nl": "waarderen, op prijs stellen",
+    "tr": "değerini anlamak, takdir etmek, memnun olmak"
+  },
+  {
+    "nl": "waarschuwen (waarschuwde, gewaarschuwd)",
+    "tr": "uyarmak, uyarıda bulunmak"
+  },
+  {
+    "nl": "wachten OP, wachtte, gewacht",
+    "tr": "beklemek(bir şeyi, birini)"
+  },
+  {
+    "nl": "waken, kijken",
+    "tr": "izlemek, bakmak"
+  },
+  {
+    "nl": "wandelen (wandelde, heeft gewandeld)",
+    "tr": "yürüyüşe çıkmak"
+  },
+  {
+    "nl": "wanhopen, de moed verliezen, vertwijfelen",
+    "tr": "umutsuzluğa düşmek, umudunu yitirmek"
+  },
+  {
+    "nl": "was dat maar waar",
+    "tr": "keşke öyle olsaydı"
+  },
+  {
+    "nl": "wedden",
+    "tr": "bahis oynamak, iddiaya girmek"
+  },
+  {
+    "nl": "weerleggen, tegenspreken, wederleggen",
+    "tr": "çürütmek, aksini ispatlamak, yalanlamak"
+  },
+  {
+    "nl": "weerzien",
+    "tr": "tekrar buluşmak, tekrar görüşmek"
+  },
+  {
+    "nl": "wegdoen wegleggen",
+    "tr": "ayırmak, kenara koymak"
+  },
+  {
+    "nl": "wegen, woog, gewogen (afwegen)",
+    "tr": "tartmak"
+  },
+  {
+    "nl": "wegen, woog, gewogen, afwegen",
+    "tr": "tartmak, ölçüp tartmak, yük olmak"
+  },
+  {
+    "nl": "weggaan (ging weg, weggegaan)",
+    "tr": "çekip gitmek, yol almak, yola çıkmak, ayrılmak"
+  },
+  {
+    "nl": "weggeven, verklappen",
+    "tr": "fada etmek, vermek, bağışlamak"
+  },
+  {
+    "nl": "weghalen, verwijderen",
+    "tr": "ortadan kaldırmak, çıkarmak, uzaklaştırmak"
+  },
+  {
+    "nl": "wegjagen",
+    "tr": "kovalamak"
+  },
+  {
+    "nl": "Weglopen, liep weg, weggelopen",
+    "tr": "uzaklaşmak, çekip gitmek, tüymek"
+  },
+  {
+    "nl": "wegpompen",
+    "tr": "dışarıya doğru pompalamak"
+  },
+  {
+    "nl": "wegtrekken, trok weg, weggetrokken",
+    "tr": "çekip gitmek, ayrılmak"
+  },
+  {
+    "nl": "wegvallen",
+    "tr": "ayrı düşmek, çıkarılmak, eksilmek, azalmak"
+  },
+  {
+    "nl": "wegwerpen",
+    "tr": "atmak, boşa harcamak"
+  },
+  {
+    "nl": "wegzetten",
+    "tr": "uzağa koymak, rafa kaldırmak"
+  },
+  {
+    "nl": "weigeren, weigerde, geweigerd",
+    "tr": "reddetmek"
+  },
+  {
+    "nl": "wekken, wakker maken",
+    "tr": "uyanmak, gözünü açmak"
+  },
+  {
+    "nl": "wensen (wenste, gewenst)",
+    "tr": "dilemek, istemek"
+  },
+  {
+    "nl": "wensen, verlangen, toewensen",
+    "tr": "dilemek, arzu etmek, umut etmek"
+  },
+  {
+    "nl": "werpen, gooien",
+    "tr": "atmak, fırlatmak"
+  },
+  {
+    "nl": "wezen (zijn)",
+    "tr": "olmak, varoluş"
+  },
+  {
+    "nl": "wijden aan / opdragen aan, toewijden",
+    "tr": "ithaf etmek, adamak, tahsis etmek"
+  },
+  {
+    "nl": "wijden, opdragen",
+    "tr": "adamak, ithaf etmek, tesis etmek"
+  },
+  {
+    "nl": "wijzen, wees, gewezen",
+    "tr": "işaret etmek, göstermek"
+  },
+  {
+    "nl": "wijzigingen aanbrengen",
+    "tr": "değişiklikler yapmak,(veranderingen maken)"
+  },
+  {
+    "nl": "Wikkelen om",
+    "tr": "sarmak, sarmalamak"
+  },
+  {
+    "nl": "winkelen, winkelde, gewinkeld",
+    "tr": "alışverişe çıkmak, alışveriş etmek"
+  },
+  {
+    "nl": "winnen - won - gewonnen",
+    "tr": "kazanmak"
+  },
+  {
+    "nl": "wisselen (geld)",
+    "tr": "değiştirmek(para değiş- tokuş)"
+  },
+  {
+    "nl": "woeden",
+    "tr": "kudurmak, köpürmek, deli gibi esmek"
+  },
+  {
+    "nl": "worden, werd, geworden",
+    "tr": "olmak, dönüşmek, haline gelmek"
+  },
+  {
+    "nl": "wordt steeds duurder",
+    "tr": "giderek pahalaşıyor"
+  },
+  {
+    "nl": "wrijven, wreef, gewreven",
+    "tr": "ovmak, ovuşturmak"
+  },
+  {
+    "nl": "zaaien, zaaide, gezaaid",
+    "tr": "ekmek, saçmak, tohum ekmek"
+  },
+  {
+    "nl": "zagen (zaagde, gezaagd)",
+    "tr": "testere ile kesmek"
+  },
+  {
+    "nl": "zakken (zakte, zakten; is gezakt)",
+    "tr": "başarısız olmak"
+  },
+  {
+    "nl": "zette door",
+    "tr": "sebat etti, azmetti, devam etti"
+  },
+  {
+    "nl": "zeuren, zeurde, gezeurd",
+    "tr": "sızlanmak, mızmızlanmak"
+  },
+  {
+    "nl": "zich aankleden, zich kleden",
+    "tr": "giyinmek ,giydirmek"
+  },
+  {
+    "nl": "zich aanmelden voor",
+    "tr": "başvuru yapmak, kayıt olmak"
+  },
+  {
+    "nl": "zich aanpassen aan",
+    "tr": "uyum sağlamak, uymak"
+  },
+  {
+    "nl": "zich aansluiten bij",
+    "tr": "katılmak, dahil olmak"
+  },
+  {
+    "nl": "zich aanstellen",
+    "tr": "acındırmak, numara yapmak, yapar gibi görünmek"
+  },
+  {
+    "nl": "zich afmelden, uitloggen",
+    "tr": "iptal etmek, fesih emek, çıkış yapmak"
+  },
+  {
+    "nl": "zich afvragen, vroeg af, afgevraagd",
+    "tr": "merak etmek, hayret etmek"
+  },
+  {
+    "nl": "zich baseren op",
+    "tr": "temel almak, dayanmak, güvenmek"
+  },
+  {
+    "nl": "zich bekwamen",
+    "tr": "yetkilendirmek, yetkili olmak"
+  },
+  {
+    "nl": "zich bemoeien met",
+    "tr": "karışmak, araya girmek"
+  },
+  {
+    "nl": "Zich beperken tot - beperkte - beperkt",
+    "tr": "kendilerini sınırlamak"
+  },
+  {
+    "nl": "zich bevinden (bevond, bevonden)",
+    "tr": "bulunmak, olmak"
+  },
+  {
+    "nl": "zich bezighouden met",
+    "tr": "uğraşmak, meşgul olmak"
+  },
+  {
+    "nl": "zich branden (door/aan vuur)",
+    "tr": "kendini yakmak"
+  },
+  {
+    "nl": "zich douchen",
+    "tr": "duş almak"
+  },
+  {
+    "nl": "zich druk maken over, zich zorgen maken",
+    "tr": "endişelenmek, tedirgin olmak"
+  },
+  {
+    "nl": "zich gedragen - gedroeg/gedroegen - gedragen",
+    "tr": "davranmak(iyi- kötü)"
+  },
+  {
+    "nl": "Zich haasten (haastte zich,h. zich gehaast)",
+    "tr": "acelesi olmak, acele etmek"
+  },
+  {
+    "nl": "zich haasten, opschieten",
+    "tr": "acele etmek, acelesi olmak"
+  },
+  {
+    "nl": "zich herinneren aan",
+    "tr": "hatırlamak, anımsamak"
+  },
+  {
+    "nl": "zich houden aan",
+    "tr": "bağlı kalmak, kurallara uymak, bağlı olmak"
+  },
+  {
+    "nl": "zich inschrijven voor",
+    "tr": "kaydolmak, kayıt yaptırmak"
+  },
+  {
+    "nl": "zich inspannen, zijn best doen",
+    "tr": "çaba sarf etmek, en iyisini yapmaya çalışmak"
+  },
+  {
+    "nl": "zich interesseren voor, geinteresseerd zijn",
+    "tr": "ilgilenmek, ilgisi olmak"
+  },
+  {
+    "nl": "zich inzetten voor",
+    "tr": "adamak, kendini vermek"
+  },
+  {
+    "nl": "zich melden bij",
+    "tr": "rapor etmek, bildirmek"
+  },
+  {
+    "nl": "zich neerleggen bij, accepteren, aanvaarden",
+    "tr": "kabullenmek, onaylamak"
+  },
+  {
+    "nl": "zich omkleden (kleedde om, omgekleed)",
+    "tr": "kıyafet değiştirmek"
+  },
+  {
+    "nl": "zich onthouden , zich inhouden",
+    "tr": "kaçınmak, sakınmak, kendini tutmak"
+  },
+  {
+    "nl": "zich ontplooien",
+    "tr": "yetenekleri geliştirmek"
+  },
+  {
+    "nl": "zich ontspannen, relaxen",
+    "tr": "rahatlamak, gevşemek"
+  },
+  {
+    "nl": "zich ontwikkelen, (ontwikkelde zich, h. zich ontwikkeld), vorderen",
+    "tr": "gelişme göstermek, ilerleme kaydetmek"
+  },
+  {
+    "nl": "zich ophopen",
+    "tr": "kümelenmek, yığılmak, gittikçe büyümek"
+  },
+  {
+    "nl": "zich opmaken, maakte zich op, zich opgemaakt",
+    "tr": "makyaj yapmak"
+  },
+  {
+    "nl": "zich oriënteren op",
+    "tr": "kendini yönlendirmek, uyum sağlamak"
+  },
+  {
+    "nl": "zich realiseren, beseffen",
+    "tr": "farkına varmak, kavramak, farketmek"
+  },
+  {
+    "nl": "zich schamen over, voor",
+    "tr": "utanmak, kendinden utanmak"
+  },
+  {
+    "nl": "zich scheren (schoor - geschoren)",
+    "tr": "tıraş olmak"
+  },
+  {
+    "nl": "zich scheren,schoor zich,h.zich geschoren",
+    "tr": "tıraş olmak"
+  },
+  {
+    "nl": "zich snijden",
+    "tr": "kendini kesmek"
+  },
+  {
+    "nl": "zich uiten, zich uitdrukken",
+    "tr": "kendini ifade etmek"
+  },
+  {
+    "nl": "zich uitgeven voor",
+    "tr": "kendini başka biri olarak tanıtmak"
+  },
+  {
+    "nl": "zich uitkleden, uitkleden",
+    "tr": "soyunmak, elbiseleri çıkarmak"
+  },
+  {
+    "nl": "zich uitsloven",
+    "tr": "kendini öldürmek, hava atmak, caka satmak"
+  },
+  {
+    "nl": "zich verbazen / verwonderen over",
+    "tr": "şaşırmak, hayret etmek"
+  },
+  {
+    "nl": "zich verdiepen in",
+    "tr": "derinlere inmek, derinlemesine araştırmak"
+  },
+  {
+    "nl": "zich verheugen op",
+    "tr": "sevinmek, memnun olmak"
+  },
+  {
+    "nl": "zich vermaken, zich amuseren",
+    "tr": "eğlenmek, eğlendirmek"
+  },
+  {
+    "nl": "zich verontschuldigen voor",
+    "tr": "özür dilemek"
+  },
+  {
+    "nl": "zich veroorloven, kunnen betalen",
+    "tr": "gücü yetmek, ödeyebilmek"
+  },
+  {
+    "nl": "zich verslikken in",
+    "tr": "genzine bir şey kaçmak, yutamamak, boğulmak"
+  },
+  {
+    "nl": "zich verspreiden",
+    "tr": "yayılmak, genişlemek"
+  },
+  {
+    "nl": "zich vervelen, verveelde, verveeld",
+    "tr": "sıkılmak, canı sıkılmak"
+  },
+  {
+    "nl": "zich vestigen, (vestigde, gevestigd)",
+    "tr": "yerleşmek, yerleştirmek, yer belirlemek"
+  },
+  {
+    "nl": "zich voornemen, van plan zijn, voornemens zijn, plannen maken",
+    "tr": "niyet etmek, amaçlamak, tasarlamak"
+  },
+  {
+    "nl": "zich voorstellen, zich inbeelden",
+    "tr": "hayal etmek(kendini tanıtmak), tasavvur etmek"
+  },
+  {
+    "nl": "zich wenden tot",
+    "tr": "işe girişmek, iletişime geçmek, koyulmak"
+  },
+  {
+    "nl": "zich zorgen maken over",
+    "tr": "endişelenmek, tasalanmak"
+  },
+  {
+    "nl": "ziek zijn / ziek worden",
+    "tr": "hasta olmak, hastalanmak"
+  },
+  {
+    "nl": "zingen, zong, gezongen",
+    "tr": "şarkı söylemek"
+  },
+  {
+    "nl": "zinken, zonk, gezonken",
+    "tr": "batmak"
+  },
+  {
+    "nl": "Zorgen voor, (zorgde voor, heeft gezorgd voor)",
+    "tr": "ilgilenmek, sağlamak(bakım), önem vermek"
+  },
+  {
+    "nl": "zuchten, (zuchtte, gezucht)",
+    "tr": "iç çekmek, ah etmek"
+  },
+  {
+    "nl": "zuigen, zoog, gezogen",
+    "tr": "emmek"
+  },
+  {
+    "nl": "zuipen, zoop, gezopen",
+    "tr": "kafayı çekmek, alem yapmak"
+  },
+  {
+    "nl": "zwaaien, (zwaaide(n), gezwaaid)",
+    "tr": "el sallamak"
+  },
+  {
+    "nl": "zwellen, zwol, gezwollen",
+    "tr": "şişme, kabarma"
+  },
+  {
+    "nl": "zweven, drijven",
+    "tr": "süzülmek, yüzmek, dalgalanmak"
+  },
+  {
+    "nl": "zwijgen zweeg gezwegen",
+    "tr": "sessiz olmak, sessiz kalmak"
+  }
+]

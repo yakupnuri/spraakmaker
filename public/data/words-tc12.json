@@ -1,0 +1,3826 @@
+[
+  {
+    "nl": "getrouwd",
+    "tr": "evli"
+  },
+  {
+    "nl": "hallo",
+    "tr": "merhaba"
+  },
+  {
+    "nl": "het jaar",
+    "tr": "yaş"
+  },
+  {
+    "nl": "het kind, de kinderen",
+    "tr": "çocuk"
+  },
+  {
+    "nl": "komen uit (ik kom uit, jij komt uit, hij komt uit, wij",
+    "tr": "geldiği yer"
+  },
+  {
+    "nl": "de man, de mannen",
+    "tr": "erkek, adam"
+  },
+  {
+    "nl": "de naam, de namen",
+    "tr": "isim"
+  },
+  {
+    "nl": "Nederland",
+    "tr": "Hollanda"
+  },
+  {
+    "nl": "de vrouw, de vrouwen",
+    "tr": "kadın"
+  },
+  {
+    "nl": "wonen (ik woon, jij woont, hij woont, wij wonen)",
+    "tr": "ikamet etmek"
+  },
+  {
+    "nl": "dag",
+    "tr": "merhaba, hoşçakal"
+  },
+  {
+    "nl": "doei",
+    "tr": "güle güle"
+  },
+  {
+    "nl": "goedemiddag",
+    "tr": "iyi günler"
+  },
+  {
+    "nl": "goedemorgen",
+    "tr": "günaydın"
+  },
+  {
+    "nl": "goedenavond",
+    "tr": "iyi akşamlar"
+  },
+  {
+    "nl": "groeten (ik groet, jij groet, hij groet, wij groeten)",
+    "tr": "selamlamak; selam vermek;"
+  },
+  {
+    "nl": "hoi",
+    "tr": "merhaba"
+  },
+  {
+    "nl": "de meneer",
+    "tr": "Bay"
+  },
+  {
+    "nl": "de mevrouw",
+    "tr": "Bayan"
+  },
+  {
+    "nl": "het Nederlands",
+    "tr": "Hollandaca"
+  },
+  {
+    "nl": "tot ziens",
+    "tr": "görüşürüz"
+  },
+  {
+    "nl": "de korte klank, de korte klanken *",
+    "tr": "kısa ünlü (a, e, i, o, u)"
+  },
+  {
+    "nl": "de lange klank, de lange klanken *",
+    "tr": "uzun ünlü (aa, ee, ie, oo, uu)"
+  },
+  {
+    "nl": "de broer, de broers",
+    "tr": "erkek kardeş ; abi"
+  },
+  {
+    "nl": "de dochter, de dochters",
+    "tr": "kız çocuk"
+  },
+  {
+    "nl": "en",
+    "tr": "ve"
+  },
+  {
+    "nl": "de familie, de families",
+    "tr": "aile"
+  },
+  {
+    "nl": "heten (ik heet, jij heet, hij heet, wij heten)",
+    "tr": "isimlendirmek (benim adım, senin adın.., onun adı..)"
+  },
+  {
+    "nl": "de moeder, de moeders",
+    "tr": "anne"
+  },
+  {
+    "nl": "de oma, de oma's",
+    "tr": "büyük anne"
+  },
+  {
+    "nl": "de opa, de opa's",
+    "tr": "dede"
+  },
+  {
+    "nl": "de ouder, de ouders",
+    "tr": "ebeveyn"
+  },
+  {
+    "nl": "de vader, de vaders",
+    "tr": "baba"
+  },
+  {
+    "nl": "de zoon, de zoons",
+    "tr": "oğul"
+  },
+  {
+    "nl": "de zus, de zussen",
+    "tr": "kız kardeş; abla"
+  },
+  {
+    "nl": "het alfabet *",
+    "tr": "alfabe"
+  },
+  {
+    "nl": "de letter, de letters *",
+    "tr": "harf"
+  },
+  {
+    "nl": "ik",
+    "tr": "ben"
+  },
+  {
+    "nl": "jij / je",
+    "tr": "sen"
+  },
+  {
+    "nl": "U",
+    "tr": "siz (saygı ifade eder)"
+  },
+  {
+    "nl": "hij",
+    "tr": "o (erkek)"
+  },
+  {
+    "nl": "zij / ze",
+    "tr": "o (kadın)"
+  },
+  {
+    "nl": "wij / we",
+    "tr": "biz"
+  },
+  {
+    "nl": "jullie",
+    "tr": "siz (çoğul ikinci şahıs)"
+  },
+  {
+    "nl": "zij / ze",
+    "tr": "onlar"
+  },
+  {
+    "nl": "dezelfde *",
+    "tr": "aynı"
+  },
+  {
+    "nl": "de korte klank, de korte klanken *",
+    "tr": "kısa ünlü (a, e, i, o, u)"
+  },
+  {
+    "nl": "de lange klank, de lange klanken *",
+    "tr": "uzun ünlü (aa, ee, ie, oo, uu)"
+  },
+  {
+    "nl": "de tweetekenklanken *",
+    "tr": "ikili ünlü (ei, ij, au, ou, eu)"
+  },
+  {
+    "nl": "verschillend, verschillende *",
+    "tr": "farklı"
+  },
+  {
+    "nl": "goed, goede",
+    "tr": "iyi"
+  },
+  {
+    "nl": "Het gaat wel.",
+    "tr": "İyi gidiyor; İyiyim"
+  },
+  {
+    "nl": "Hoe gaat het?",
+    "tr": "Nasıl gidiyor?"
+  },
+  {
+    "nl": "Hoe is het?",
+    "tr": "Nasılsın?"
+  },
+  {
+    "nl": "ook",
+    "tr": "da; de (dahi anlamında)"
+  },
+  {
+    "nl": "niet",
+    "tr": "değil (olumsuzluk belirtir)"
+  },
+  {
+    "nl": "beginnen (begint) *",
+    "tr": "başlamak"
+  },
+  {
+    "nl": "eindigen (eindigt) *",
+    "tr": "bitmek"
+  },
+  {
+    "nl": "de letter, de letters",
+    "tr": "harf"
+  },
+  {
+    "nl": "de punt, de punten",
+    "tr": "nokta"
+  },
+  {
+    "nl": "het woord, de woorden",
+    "tr": "kelime"
+  },
+  {
+    "nl": "de zin, de zinnen",
+    "tr": "cümle"
+  },
+  {
+    "nl": "het kleinkind, de kleinkinderen",
+    "tr": "torun"
+  },
+  {
+    "nl": "mijn",
+    "tr": "benim"
+  },
+  {
+    "nl": "de neef, de neven",
+    "tr": "kuzen, yeğen (erkek)"
+  },
+  {
+    "nl": "de nicht, de nichten",
+    "tr": "kuzen, yeğen (kadın)"
+  },
+  {
+    "nl": "de oom, de ooms",
+    "tr": "amca; dayı"
+  },
+  {
+    "nl": "de schoonzus, de schoonzussen",
+    "tr": "baldız; yenge"
+  },
+  {
+    "nl": "de tante, de tantes",
+    "tr": "teyze; hala; yenge"
+  },
+  {
+    "nl": "de zwager, de zwagers",
+    "tr": "enişte"
+  },
+  {
+    "nl": "dezelfde *",
+    "tr": "aynı"
+  },
+  {
+    "nl": "de korte klank, de korte klanken *",
+    "tr": "kısa ünlü (a, e, i, o, u)"
+  },
+  {
+    "nl": "de lange klank, de lange klanken *",
+    "tr": "uzun ünlü (aa, ee, ie, oo, uu)"
+  },
+  {
+    "nl": "de tweetekenklanken *",
+    "tr": "ikili ünlü (ei, ij, au, ou, eu)"
+  },
+  {
+    "nl": "zijn",
+    "tr": "olmak (isim ve sıfat fiilidir, Ör. İyiyim;güzelsin)"
+  },
+  {
+    "nl": "ik ben",
+    "tr": "ben ... -im/-ım (ör. ben iyiyim; ben kadınım)"
+  },
+  {
+    "nl": "jij bent",
+    "tr": "sen ... -sin/-sın (ör. sen iyisin; sen erkeksin)"
+  },
+  {
+    "nl": "ben jij?",
+    "tr": "sen ... -misin/-mısın? (soru ifade eder. ör.sen iyi misin?)"
+  },
+  {
+    "nl": "u bent",
+    "tr": "siz (saygı ifade eder) ... -siniz/-sınız (ör. siz"
+  },
+  {
+    "nl": "hij is",
+    "tr": "o (erkek) (ör. o iyi)"
+  },
+  {
+    "nl": "zij is",
+    "tr": "o (kadın) (ör. o iyi)"
+  },
+  {
+    "nl": "het is",
+    "tr": "o (cisim) (ör. o iyi)"
+  },
+  {
+    "nl": "wij zijn",
+    "tr": "biz ... -iz/-ız(ör. biz iyiyiz)"
+  },
+  {
+    "nl": "jullie zijn",
+    "tr": "siz ... -siniz/-sınız(çoğul ikinci şahıs) (ör. siz iyisiniz, siz evlisiniz)"
+  },
+  {
+    "nl": "zij zijn",
+    "tr": "onlar ... -lar/-ler (ör. onlar iyiler,"
+  },
+  {
+    "nl": "de baby, de baby's",
+    "tr": "bebek"
+  },
+  {
+    "nl": "geen",
+    "tr": "yok (olmama hâli belirtir)"
+  },
+  {
+    "nl": "het gezin, de gezinnen",
+    "tr": "aile"
+  },
+  {
+    "nl": "groot, grote",
+    "tr": "büyük"
+  },
+  {
+    "nl": "hier",
+    "tr": "burada"
+  },
+  {
+    "nl": "horen (ik hoor, jij hoort, hij hoort, wij horen)",
+    "tr": "duymak"
+  },
+  {
+    "nl": "ja",
+    "tr": "evet"
+  },
+  {
+    "nl": "de jongen, de jongens",
+    "tr": "erkek çocuk, oğlan"
+  },
+  {
+    "nl": "klein, kleine",
+    "tr": "küçük"
+  },
+  {
+    "nl": "leuk, leuke",
+    "tr": "hoş; güzel"
+  },
+  {
+    "nl": "het meisje, de meisjes",
+    "tr": "kız çocuk"
+  },
+  {
+    "nl": "nee",
+    "tr": "hayır"
+  },
+  {
+    "nl": "praten (ik praat, jij praat, hij praat, wij praten)",
+    "tr": "konuşmak"
+  },
+  {
+    "nl": "Waar kom je vandaan?",
+    "tr": "Nereden geliyorsun? Nerelisin?"
+  },
+  {
+    "nl": "het antwoord, de antwoorden",
+    "tr": "cevap"
+  },
+  {
+    "nl": "beginnen (ik begin, jij begint, hij begint, wij beginnen)",
+    "tr": "başlamak"
+  },
+  {
+    "nl": "eindigen (ik eindig, jij eindigt, hij eindigt, wij eindigen) *",
+    "tr": "bitmek"
+  },
+  {
+    "nl": "de vraag, de vragen",
+    "tr": "soru"
+  },
+  {
+    "nl": "waar",
+    "tr": "nerede"
+  },
+  {
+    "nl": "wat",
+    "tr": "ne"
+  },
+  {
+    "nl": "wie",
+    "tr": "kim"
+  },
+  {
+    "nl": "hebben",
+    "tr": "sahip olmak"
+  },
+  {
+    "nl": "ik heb",
+    "tr": "benim ...-am/-em/-im/-ım/-um/-üm var (Ör. benim arabam var)"
+  },
+  {
+    "nl": "jij hebt",
+    "tr": "senin ...-an var (Ör. senin oğlun var)"
+  },
+  {
+    "nl": "heb jij?",
+    "tr": "Senin ...-an var mı? (Ör. senin araban var mı?)"
+  },
+  {
+    "nl": "u hebt / heeft",
+    "tr": "sizin ...-nuz/-nız/-niz var (Ör. sizin kızınız var)"
+  },
+  {
+    "nl": "hij heeft",
+    "tr": "(erkek) onun ... -i/-ı var (Ör. onun iki ablası var)"
+  },
+  {
+    "nl": "zij heeft",
+    "tr": "(kadın) onun ... -i/-ı var"
+  },
+  {
+    "nl": "wij hebben",
+    "tr": "bizim ... -miz/-mız/-muz/-müz var (Ör. bizim bebeğimiz var)"
+  },
+  {
+    "nl": "jullie hebben",
+    "tr": "sizin ... -niz/-nız/-nuz/-nüz var (Ör. sizin arabanız var)"
+  },
+  {
+    "nl": "zij hebben",
+    "tr": "onların ..-sı var (Ör. onların abisi var)"
+  },
+  {
+    "nl": "binnen",
+    "tr": "iç; içeri"
+  },
+  {
+    "nl": "buiten",
+    "tr": "dış; dışarı"
+  },
+  {
+    "nl": "de cursist, de cursisten",
+    "tr": "öğrenci"
+  },
+  {
+    "nl": "de docent, de docenten",
+    "tr": "öğretmen"
+  },
+  {
+    "nl": "gaan (ik ga, jij gaat, hij gaat, wij gaan)",
+    "tr": "gitmek"
+  },
+  {
+    "nl": "lopen (ik loop, jij loopt, hij loopt, wij lopen)",
+    "tr": "yürümek"
+  },
+  {
+    "nl": "naar",
+    "tr": "-e/-a takısı, yönelme belirtir; ör. okula gitmek"
+  },
+  {
+    "nl": "de pauze, de pauzes",
+    "tr": "ara"
+  },
+  {
+    "nl": "samen",
+    "tr": "birlikte"
+  },
+  {
+    "nl": "de school, de scholen",
+    "tr": "okul"
+  },
+  {
+    "nl": "welkom",
+    "tr": "karşılama; hoşgeldin"
+  },
+  {
+    "nl": "zeggen (ik zeg, jij zegt, hij zegt, wij zeggen)",
+    "tr": "söylemek"
+  },
+  {
+    "nl": "het getal, de getallen *",
+    "tr": "sayı"
+  },
+  {
+    "nl": "hoeveel *",
+    "tr": "ne kadar; kaç tane"
+  },
+  {
+    "nl": "nul",
+    "tr": "0"
+  },
+  {
+    "nl": "één",
+    "tr": "1"
+  },
+  {
+    "nl": "twee",
+    "tr": "2"
+  },
+  {
+    "nl": "drie",
+    "tr": "3"
+  },
+  {
+    "nl": "vier",
+    "tr": "4"
+  },
+  {
+    "nl": "vijf",
+    "tr": "5"
+  },
+  {
+    "nl": "zes",
+    "tr": "6"
+  },
+  {
+    "nl": "zeven",
+    "tr": "7"
+  },
+  {
+    "nl": "acht",
+    "tr": "8"
+  },
+  {
+    "nl": "negen",
+    "tr": "9"
+  },
+  {
+    "nl": "tien",
+    "tr": "10"
+  },
+  {
+    "nl": "elf",
+    "tr": "11"
+  },
+  {
+    "nl": "twaalf",
+    "tr": "12"
+  },
+  {
+    "nl": "dertien",
+    "tr": "13"
+  },
+  {
+    "nl": "veertien",
+    "tr": "14"
+  },
+  {
+    "nl": "vijftien",
+    "tr": "15"
+  },
+  {
+    "nl": "zestien",
+    "tr": "16"
+  },
+  {
+    "nl": "zeventien",
+    "tr": "17"
+  },
+  {
+    "nl": "achttien",
+    "tr": "18"
+  },
+  {
+    "nl": "negentien",
+    "tr": "19"
+  },
+  {
+    "nl": "twintig",
+    "tr": "20"
+  },
+  {
+    "nl": "het boek, de boeken",
+    "tr": "kitap"
+  },
+  {
+    "nl": "het bord, de borden",
+    "tr": "tahta"
+  },
+  {
+    "nl": "de computer, de computers",
+    "tr": "bilgisayar"
+  },
+  {
+    "nl": "leren (ik leer, jij leert, hij leert, wij leren)",
+    "tr": "öğrenmek"
+  },
+  {
+    "nl": "lezen (ik lees, jij leest, hij leest, wij lezen)",
+    "tr": "okumak"
+  },
+  {
+    "nl": "luisteren (ik luister, jij luistert, hij luistert, wij luisteren)",
+    "tr": "dinlemek"
+  },
+  {
+    "nl": "maken (ik maak, jij maakt, hij maakt, wij maken)",
+    "tr": "yapmak"
+  },
+  {
+    "nl": "de opdracht, de opdrachten",
+    "tr": "ödev"
+  },
+  {
+    "nl": "de pen, de pennen",
+    "tr": "kalem"
+  },
+  {
+    "nl": "schrijven (ik schrijf, jij schrijft, hij schrijft, wij schrijven)",
+    "tr": "yazmak"
+  },
+  {
+    "nl": "spreken (ik spreek, jij spreekt, hij spreekt, wij spreken)",
+    "tr": "konuşmak"
+  },
+  {
+    "nl": "de tekst, de teksten",
+    "tr": "metin; yazı"
+  },
+  {
+    "nl": "de agenda, de agenda's",
+    "tr": "ajanda"
+  },
+  {
+    "nl": "de dag, de dagen",
+    "tr": "gün"
+  },
+  {
+    "nl": "morgen",
+    "tr": "yarın"
+  },
+  {
+    "nl": "vandaag",
+    "tr": "bugün"
+  },
+  {
+    "nl": "de week, de weken",
+    "tr": "hafta"
+  },
+  {
+    "nl": "het weekend, de weekenden",
+    "tr": "hafta sonu"
+  },
+  {
+    "nl": "maandag",
+    "tr": "pazartesi"
+  },
+  {
+    "nl": "dinsdag",
+    "tr": "salı"
+  },
+  {
+    "nl": "woensdag",
+    "tr": "çarşamba"
+  },
+  {
+    "nl": "donderdag",
+    "tr": "perşembe"
+  },
+  {
+    "nl": "vrijdag",
+    "tr": "cuma"
+  },
+  {
+    "nl": "zaterdag",
+    "tr": "cumartesi"
+  },
+  {
+    "nl": "zondag",
+    "tr": "pazar"
+  },
+  {
+    "nl": "bijvoorbeeld *",
+    "tr": "örneğin; mesela"
+  },
+  {
+    "nl": "hoeveel",
+    "tr": "ne kadar; kaç tane"
+  },
+  {
+    "nl": "vragen (ik vraag, jij vraagt, hij vraagt, wij vragen) *",
+    "tr": "sormak"
+  },
+  {
+    "nl": "wanneer",
+    "tr": "ne zaman"
+  },
+  {
+    "nl": "het getal, de getallen *",
+    "tr": "sayı"
+  },
+  {
+    "nl": "dertig",
+    "tr": "30"
+  },
+  {
+    "nl": "veertig",
+    "tr": "40"
+  },
+  {
+    "nl": "vijftig",
+    "tr": "50"
+  },
+  {
+    "nl": "zestig",
+    "tr": "60"
+  },
+  {
+    "nl": "zeventig",
+    "tr": "70"
+  },
+  {
+    "nl": "tachtig",
+    "tr": "80"
+  },
+  {
+    "nl": "negentig",
+    "tr": "90"
+  },
+  {
+    "nl": "honderd",
+    "tr": "100"
+  },
+  {
+    "nl": "begrijpen (ik begrijp, jij begrijpt, hij begrijpt, wij begrijpen)",
+    "tr": "anlamak"
+  },
+  {
+    "nl": "Hoe schrijf je dat?",
+    "tr": "Bu nasıl yazılır?"
+  },
+  {
+    "nl": "de mensen",
+    "tr": "insanlar"
+  },
+  {
+    "nl": "moeilijk, moeilijke",
+    "tr": "zor"
+  },
+  {
+    "nl": "snel, snelle",
+    "tr": "hızlı"
+  },
+  {
+    "nl": "sorry",
+    "tr": "üzgünüm"
+  },
+  {
+    "nl": "veel",
+    "tr": "çok"
+  },
+  {
+    "nl": "Wat betekent dat?",
+    "tr": "Bu ne anlama geliyor?"
+  },
+  {
+    "nl": "Wat is dat?",
+    "tr": "Bu nedir?"
+  },
+  {
+    "nl": "Wat zeg je?",
+    "tr": "Ne dedin?"
+  },
+  {
+    "nl": "Wat zegt u?",
+    "tr": "Ne dediniz?"
+  },
+  {
+    "nl": "beginnen (ik begin, jij begint, hij begint, wij beginnen)",
+    "tr": "başlamak"
+  },
+  {
+    "nl": "het ding, de dingen",
+    "tr": "şey; eşya"
+  },
+  {
+    "nl": "de gum, de gummen",
+    "tr": "silgi"
+  },
+  {
+    "nl": "Hoe spel je dat?",
+    "tr": "Bu nasıl yazılır?"
+  },
+  {
+    "nl": "de klas, de klassen",
+    "tr": "sınıf"
+  },
+  {
+    "nl": "makkelijk, makkelijke",
+    "tr": "kolay"
+  },
+  {
+    "nl": "het papier, de papieren",
+    "tr": "kağıt"
+  },
+  {
+    "nl": "het potlood, de potloden",
+    "tr": "kurşun kalem"
+  },
+  {
+    "nl": "staan (ik sta, jij staat, hij staat, wij staan)",
+    "tr": "ayakta durmak"
+  },
+  {
+    "nl": "zien (ik zie, jij ziet, hij ziet, wij zien)",
+    "tr": "görmek"
+  },
+  {
+    "nl": "zitten (ik zit, jij zit, hij zit, wij zitten)",
+    "tr": "oturmak"
+  },
+  {
+    "nl": "kiezen (ik kies, jij kiest, hij kiest, wij kiezen)",
+    "tr": "seçmek"
+  },
+  {
+    "nl": "het kruisje , de kruisjes",
+    "tr": "çapraz"
+  },
+  {
+    "nl": "de lijn, de lijnen",
+    "tr": "çizgi"
+  },
+  {
+    "nl": "moeten (ik moet, jij moet, hij moet, wij moeten)",
+    "tr": "zorunda olmak"
+  },
+  {
+    "nl": "het plaatje, de plaatjes",
+    "tr": "görüntü, resim, slayt"
+  },
+  {
+    "nl": "het rondje , de rondjes",
+    "tr": "yuvarlak"
+  },
+  {
+    "nl": "de streep, de strepen",
+    "tr": "çizgi"
+  },
+  {
+    "nl": "typen (ik typ, jij typt, hij typt, wij typen)",
+    "tr": "yazmak (klavye ile)"
+  },
+  {
+    "nl": "de datum, de datums",
+    "tr": "tarih"
+  },
+  {
+    "nl": "eerste",
+    "tr": "ilk"
+  },
+  {
+    "nl": "het jaar",
+    "tr": "yıl; sene"
+  },
+  {
+    "nl": "laatste",
+    "tr": "son"
+  },
+  {
+    "nl": "de maand, de maanden",
+    "tr": "ay"
+  },
+  {
+    "nl": "januari",
+    "tr": "ocak"
+  },
+  {
+    "nl": "februari",
+    "tr": "şubat"
+  },
+  {
+    "nl": "maart",
+    "tr": "mart"
+  },
+  {
+    "nl": "april",
+    "tr": "nisan"
+  },
+  {
+    "nl": "mei",
+    "tr": "mayıs"
+  },
+  {
+    "nl": "juni",
+    "tr": "haziran"
+  },
+  {
+    "nl": "juli",
+    "tr": "temmuz"
+  },
+  {
+    "nl": "augustus",
+    "tr": "ağustos"
+  },
+  {
+    "nl": "september",
+    "tr": "eylül"
+  },
+  {
+    "nl": "oktober",
+    "tr": "ekim"
+  },
+  {
+    "nl": "november",
+    "tr": "kasım"
+  },
+  {
+    "nl": "december",
+    "tr": "aralık"
+  },
+  {
+    "nl": "alsjeblieft",
+    "tr": "lütfen; buyrun"
+  },
+  {
+    "nl": "dank je wel",
+    "tr": "teşekkürler"
+  },
+  {
+    "nl": "drinken (ik drink, jij drinkt, hij drinkt, wij drinken)",
+    "tr": "içmek"
+  },
+  {
+    "nl": "graag",
+    "tr": "lütfen, memnuniyetle"
+  },
+  {
+    "nl": "de koffie",
+    "tr": "kahve"
+  },
+  {
+    "nl": "de melk",
+    "tr": "süt"
+  },
+  {
+    "nl": "Nee, dank je.",
+    "tr": "Hayır, teşekkür ederim."
+  },
+  {
+    "nl": "op school",
+    "tr": "okulda"
+  },
+  {
+    "nl": "de suiker",
+    "tr": "şeker"
+  },
+  {
+    "nl": "de thee",
+    "tr": "çay"
+  },
+  {
+    "nl": "willen (ik wil, jij wil, hij wil, wij willen)",
+    "tr": "istemek"
+  },
+  {
+    "nl": "bijvoorbeeld *",
+    "tr": "örneğin; mesela"
+  },
+  {
+    "nl": "het hele werkwoord, de hele werkwoorden *",
+    "tr": "mastar"
+  },
+  {
+    "nl": "de ik-vorm *",
+    "tr": "birinci tekil şahıs (ben)"
+  },
+  {
+    "nl": "het onregelmatige werkwoord *",
+    "tr": "düzensiz fiil"
+  },
+  {
+    "nl": "het regelmatige werkwoord *",
+    "tr": "düzenli fiil"
+  },
+  {
+    "nl": "de bladzijde, de bladzijdes",
+    "tr": "sayfa"
+  },
+  {
+    "nl": "fout, foute",
+    "tr": "false"
+  },
+  {
+    "nl": "Ik weet het niet.",
+    "tr": "Bilmiyorum."
+  },
+  {
+    "nl": "kijken (ik kijk, jij kijkt, hij kijkt, wij kijken)",
+    "tr": "bakmak"
+  },
+  {
+    "nl": "de les, de lessen",
+    "tr": "ders"
+  },
+  {
+    "nl": "de puzzel, de puzzels",
+    "tr": "bulmaca"
+  },
+  {
+    "nl": "de titel, de titels",
+    "tr": "başlık"
+  },
+  {
+    "nl": "weten (ik weet, jij weet, hij weet, wij weten)",
+    "tr": "bilmek"
+  },
+  {
+    "nl": "weg",
+    "tr": "yok; eksik"
+  },
+  {
+    "nl": "welk, welke",
+    "tr": "hangi"
+  },
+  {
+    "nl": "bedankt",
+    "tr": "teşekkürler"
+  },
+  {
+    "nl": "geven (ik geef, jij geeft, hij geeft, wij geven)",
+    "tr": "vermek"
+  },
+  {
+    "nl": "graag gedaan",
+    "tr": "rica ederim"
+  },
+  {
+    "nl": "helpen (ik help, jij helpt, hij helpt, wij helpen)",
+    "tr": "yardım etmek"
+  },
+  {
+    "nl": "iemand",
+    "tr": "biri"
+  },
+  {
+    "nl": "krijgen (ik krijg, jij krijgt, hij krijgt, wij krijgen)",
+    "tr": "almak"
+  },
+  {
+    "nl": "vragen (ik vraag, jij vraagt, hij vraagt, wij vragen)",
+    "tr": "sormak"
+  },
+  {
+    "nl": "het balkon, de balkons",
+    "tr": "balkon"
+  },
+  {
+    "nl": "het dak, de daken",
+    "tr": "çatı"
+  },
+  {
+    "nl": "de deur, de deuren",
+    "tr": "kapı"
+  },
+  {
+    "nl": "de flat, de flats",
+    "tr": "apartman dairesi"
+  },
+  {
+    "nl": "de garage , de garages",
+    "tr": "garaj"
+  },
+  {
+    "nl": "het huis, de huizen",
+    "tr": "ev"
+  },
+  {
+    "nl": "de muur, de muren",
+    "tr": "duvar"
+  },
+  {
+    "nl": "het raam, de ramen",
+    "tr": "pencere"
+  },
+  {
+    "nl": "de schuur, de schuren",
+    "tr": "kulübe; bahçe deposu"
+  },
+  {
+    "nl": "de tuin, de tuinen",
+    "tr": "bahçe"
+  },
+  {
+    "nl": "Aan het eind van een woord staan nooit twee",
+    "tr": "Bir kelimenin sonunda asla"
+  },
+  {
+    "nl": "dezelfde medeklinkers. *",
+    "tr": "aynı iki ünsüz bulunmaz."
+  },
+  {
+    "nl": "ik-vorm *",
+    "tr": "birinci tekil şahıs (ben)"
+  },
+  {
+    "nl": "de korte klank, de korte klanken *",
+    "tr": "kısa tonlama"
+  },
+  {
+    "nl": "het werkwoord, de werkwoorden *",
+    "tr": "fiil"
+  },
+  {
+    "nl": "de badkamer, de badkamers",
+    "tr": "banyo"
+  },
+  {
+    "nl": "beneden",
+    "tr": "aşağı"
+  },
+  {
+    "nl": "boven",
+    "tr": "yukarı"
+  },
+  {
+    "nl": "de gang, de gangen",
+    "tr": "koridor"
+  },
+  {
+    "nl": "de kamer, de kamers",
+    "tr": "oda"
+  },
+  {
+    "nl": "de keuken, de keukens",
+    "tr": "mutfak"
+  },
+  {
+    "nl": "de slaapkamer, de slaapkamers",
+    "tr": "yatak odası"
+  },
+  {
+    "nl": "de wc, de wc's",
+    "tr": "tuvalet"
+  },
+  {
+    "nl": "de woonkamer, de woonkamers",
+    "tr": "oturma odası"
+  },
+  {
+    "nl": "de zolder, de zolders",
+    "tr": "tavan arası"
+  },
+  {
+    "nl": "alleen",
+    "tr": "yalnız"
+  },
+  {
+    "nl": "de buurman, de buurmannen",
+    "tr": "komşu (erkek)"
+  },
+  {
+    "nl": "de buurvrouw, de buurvrouwen",
+    "tr": "komşu (kadın)"
+  },
+  {
+    "nl": "een beetje",
+    "tr": "biraz"
+  },
+  {
+    "nl": "gezellig, gezellige",
+    "tr": "samimi; sıcak"
+  },
+  {
+    "nl": "het koekje, de koekjes",
+    "tr": "kurabiye; bisküvi"
+  },
+  {
+    "nl": "komen (ik kom, jij komt, hij komt, wij komen)",
+    "tr": "gelmek"
+  },
+  {
+    "nl": "het kopje, de kopjes",
+    "tr": "fincan"
+  },
+  {
+    "nl": "nieuw, nieuwe",
+    "tr": "yeni"
+  },
+  {
+    "nl": "de straat, de straten",
+    "tr": "yol; sokak"
+  },
+  {
+    "nl": "thuis",
+    "tr": "evde"
+  },
+  {
+    "nl": "zich voorstellen (ik wil me voorstellen)",
+    "tr": "tanıtmak"
+  },
+  {
+    "nl": "het bad",
+    "tr": "banyo"
+  },
+  {
+    "nl": "de bank, de banken",
+    "tr": "koltuk"
+  },
+  {
+    "nl": "het bed, de bedden",
+    "tr": "yatak"
+  },
+  {
+    "nl": "de douche, de douches",
+    "tr": "duş"
+  },
+  {
+    "nl": "de kast, de kasten",
+    "tr": "dolap"
+  },
+  {
+    "nl": "de lamp, de lampen",
+    "tr": "lamba"
+  },
+  {
+    "nl": "het meubel, de meubels",
+    "tr": "mobilya"
+  },
+  {
+    "nl": "de stoel, de stoelen",
+    "tr": "sandalye"
+  },
+  {
+    "nl": "de tafel, de tafels",
+    "tr": "masa"
+  },
+  {
+    "nl": "de televisie, de televisies",
+    "tr": "televizyon"
+  },
+  {
+    "nl": "Heeft het hele werkwoord een lange klank? De ik-",
+    "tr": "Mastarda bir uzun ünlü mü"
+  },
+  {
+    "nl": "vorm krijgt twee klinkers. *",
+    "tr": "var? Birinci tekil şahıs"
+  },
+  {
+    "nl": "ik-vorm *",
+    "tr": "birinci tekil şahıs (ben)"
+  },
+  {
+    "nl": "de lange klank, de lange klanken *",
+    "tr": "uzun tonlama"
+  },
+  {
+    "nl": "het werkwoord, de werkwoorden *",
+    "tr": "fiil"
+  },
+  {
+    "nl": "blauw, blauwe",
+    "tr": "mavi"
+  },
+  {
+    "nl": "bruin, bruine",
+    "tr": "kahverengi"
+  },
+  {
+    "nl": "geel, gele",
+    "tr": "sarı"
+  },
+  {
+    "nl": "grijs, grijze",
+    "tr": "gri"
+  },
+  {
+    "nl": "groen, groene",
+    "tr": "yeşil"
+  },
+  {
+    "nl": "de kleur, de kleuren",
+    "tr": "renk"
+  },
+  {
+    "nl": "oranje",
+    "tr": "turuncu"
+  },
+  {
+    "nl": "paars, paarse",
+    "tr": "mor"
+  },
+  {
+    "nl": "rood, rode",
+    "tr": "kırmızı"
+  },
+  {
+    "nl": "roze",
+    "tr": "pembe"
+  },
+  {
+    "nl": "wit, witte",
+    "tr": "beyaz"
+  },
+  {
+    "nl": "zwart, zwarte",
+    "tr": "siyah"
+  },
+  {
+    "nl": "aardig , aardige",
+    "tr": "sıcak kanlı; hoş"
+  },
+  {
+    "nl": "de buurt, de buurten",
+    "tr": "semt"
+  },
+  {
+    "nl": "het dorp, de dorpen",
+    "tr": "köy"
+  },
+  {
+    "nl": "hoog, hoge",
+    "tr": "yüksek"
+  },
+  {
+    "nl": "de lift, de liften",
+    "tr": "asansör"
+  },
+  {
+    "nl": "mooi, mooie",
+    "tr": "güzel"
+  },
+  {
+    "nl": "het park, de parken",
+    "tr": "park"
+  },
+  {
+    "nl": "de stad, de steden",
+    "tr": "şehir"
+  },
+  {
+    "nl": "de trap, de trappen",
+    "tr": "merdiven"
+  },
+  {
+    "nl": "de verdieping, de verdiepingen",
+    "tr": "kat"
+  },
+  {
+    "nl": "weinig, weinige",
+    "tr": "az"
+  },
+  {
+    "nl": "de winkel, de winkels",
+    "tr": "mağaza; dükkan"
+  },
+  {
+    "nl": "eerste",
+    "tr": "ilk; birinci"
+  },
+  {
+    "nl": "tweede",
+    "tr": "ikinci"
+  },
+  {
+    "nl": "derde",
+    "tr": "üçüncü"
+  },
+  {
+    "nl": "vierde",
+    "tr": "dördüncü"
+  },
+  {
+    "nl": "vijfde",
+    "tr": "beşinci"
+  },
+  {
+    "nl": "zesde",
+    "tr": "altıncı"
+  },
+  {
+    "nl": "zevende",
+    "tr": "yedinci"
+  },
+  {
+    "nl": "achtste",
+    "tr": "sekizinci"
+  },
+  {
+    "nl": "negende",
+    "tr": "dokuzuncu"
+  },
+  {
+    "nl": "tiende",
+    "tr": "onuncu"
+  },
+  {
+    "nl": "het aantal, de aantallen",
+    "tr": "adet"
+  },
+  {
+    "nl": "druk, drukke",
+    "tr": "yoğun"
+  },
+  {
+    "nl": "huren (ik huur, jij huurt, hij huurt, wij huren)",
+    "tr": "kiralamak"
+  },
+  {
+    "nl": "het internet",
+    "tr": "internet"
+  },
+  {
+    "nl": "nu",
+    "tr": "şimdi"
+  },
+  {
+    "nl": "per",
+    "tr": "dönem ifade eder; ör.günlük, haftalık"
+  },
+  {
+    "nl": "de plaats, de plaatsen",
+    "tr": "yer"
+  },
+  {
+    "nl": "de prijs, de prijzen",
+    "tr": "fiyat"
+  },
+  {
+    "nl": "rustig, rustige",
+    "tr": "sakin"
+  },
+  {
+    "nl": "te huur",
+    "tr": "kiralık"
+  },
+  {
+    "nl": "zoeken (ik zoek, jij zoekt, hij zoekt, wij zoeken)",
+    "tr": "aramak"
+  },
+  {
+    "nl": "aan het eind *",
+    "tr": "sonunda"
+  },
+  {
+    "nl": "ik-vorm *",
+    "tr": "birinci tekil şahıs (ben)"
+  },
+  {
+    "nl": "nooit *",
+    "tr": "asla; hiç"
+  },
+  {
+    "nl": "het werkwoord, de werkwoorden *",
+    "tr": "fiil"
+  },
+  {
+    "nl": "kunnen (ik kan, jij kan, hij kan, wij kunnen)",
+    "tr": "yapabilmek; edebilmek"
+  },
+  {
+    "nl": "lachen (ik lach, jij lacht, hij lacht, wij lachen)",
+    "tr": "gülmek"
+  },
+  {
+    "nl": "liggen (ik lig, jij ligt, hij ligt, wij liggen)",
+    "tr": "yatmak"
+  },
+  {
+    "nl": "op slot",
+    "tr": "kilitli"
+  },
+  {
+    "nl": "pakken (ik pak, jij pakt, hij pakt, wij pakken)",
+    "tr": "almak"
+  },
+  {
+    "nl": "de sleutel, de sleutels",
+    "tr": "anahtar"
+  },
+  {
+    "nl": "vaak",
+    "tr": "sık sık"
+  },
+  {
+    "nl": "van",
+    "tr": "-den/-dan, -in/-ın/-un/-ün (Ör.okuldan, evinin anahtarı)"
+  },
+  {
+    "nl": "vergeten (ik vergeet, jij vergeet, hij vergeet, wij vergeten)",
+    "tr": "unutmak"
+  },
+  {
+    "nl": "vinden (ik vind, jij vindt, hij vindt, wij vinden)",
+    "tr": "bulmak"
+  },
+  {
+    "nl": "de hoofdzin *",
+    "tr": "ana cümle"
+  },
+  {
+    "nl": "het werkwoord, de werkwoorden *",
+    "tr": "fiil"
+  },
+  {
+    "nl": "de appel, de appels",
+    "tr": "elma"
+  },
+  {
+    "nl": "de bakker, de bakkers",
+    "tr": "fırıncı"
+  },
+  {
+    "nl": "boodschappen doen (ik doe boodschappen, jij doet..., hij doet..., wij doen...)",
+    "tr": "alışverişe çıkmak, alışveriş yapmak"
+  },
+  {
+    "nl": "de boter",
+    "tr": "tereyağı"
+  },
+  {
+    "nl": "het brood, de broden",
+    "tr": "ekmek"
+  },
+  {
+    "nl": "de groente, de groenten",
+    "tr": "sebze"
+  },
+  {
+    "nl": "kopen (ik koop, jij koopt, hij koopt, wij kopen)",
+    "tr": "satın almak"
+  },
+  {
+    "nl": "kunnen (ik kan, jij kunt, hij kan, wij kunnen)",
+    "tr": "yapabilmek; edebilmek"
+  },
+  {
+    "nl": "de markt, de markten",
+    "tr": "pazar"
+  },
+  {
+    "nl": "de slager, de slagers",
+    "tr": "kasap"
+  },
+  {
+    "nl": "de supermarkt, de supermarkten",
+    "tr": "süpermarket"
+  },
+  {
+    "nl": "het vlees",
+    "tr": "et"
+  },
+  {
+    "nl": "hetzelfde *",
+    "tr": "aynı"
+  },
+  {
+    "nl": "het onregelmatige werkwoord *",
+    "tr": "düzensiz fiil"
+  },
+  {
+    "nl": "de aardappel, de aardappels",
+    "tr": "patates"
+  },
+  {
+    "nl": "het avondeten",
+    "tr": "akşam yemeği"
+  },
+  {
+    "nl": "'s avonds",
+    "tr": "akşamleyin"
+  },
+  {
+    "nl": "dan",
+    "tr": "o zaman"
+  },
+  {
+    "nl": "eten (ik eet, jij eet, hij eet, wij eten)",
+    "tr": "yemek yemek"
+  },
+  {
+    "nl": "de lunch",
+    "tr": "öğle yemeği"
+  },
+  {
+    "nl": "'s middags",
+    "tr": "öğleden sonra"
+  },
+  {
+    "nl": "'s ochtends",
+    "tr": "sabah"
+  },
+  {
+    "nl": "of",
+    "tr": "veya; ya da"
+  },
+  {
+    "nl": "het ontbijt",
+    "tr": "kahvaltı"
+  },
+  {
+    "nl": "het water",
+    "tr": "su"
+  },
+  {
+    "nl": "de wijn, de wijnen",
+    "tr": "şarap"
+  },
+  {
+    "nl": "doen (ik doe, jij doet, hij doet, wij doen)",
+    "tr": "koymak"
+  },
+  {
+    "nl": "nodig hebben (ik heb nodig, jij hebt nodig,",
+    "tr": "ihtiyaç duymak"
+  },
+  {
+    "nl": "klaar",
+    "tr": "hazır"
+  },
+  {
+    "nl": "koken (ik kook, jij kookt, hij kookt, wij koken)",
+    "tr": "pişirmek"
+  },
+  {
+    "nl": "de liter, de liters",
+    "tr": "litre"
+  },
+  {
+    "nl": "de minuut, de minuten",
+    "tr": "dakika"
+  },
+  {
+    "nl": "de pan, de pannen",
+    "tr": "tencere; tava"
+  },
+  {
+    "nl": "snijden (ik snijd, jij snijdt, hij snijdt, wij snijden)",
+    "tr": "kesmek"
+  },
+  {
+    "nl": "de soep, de soepen",
+    "tr": "çorba"
+  },
+  {
+    "nl": "de tomaat, de tomaten",
+    "tr": "domates"
+  },
+  {
+    "nl": "de ui, de uien",
+    "tr": "soğan"
+  },
+  {
+    "nl": "het zout",
+    "tr": "tuz"
+  },
+  {
+    "nl": "allemaal",
+    "tr": "tamamı; tümü; her biri"
+  },
+  {
+    "nl": "het bord, de borden",
+    "tr": "tabak"
+  },
+  {
+    "nl": "eet smakelijk",
+    "tr": "afiyet olsun"
+  },
+  {
+    "nl": "het eten",
+    "tr": "yemek"
+  },
+  {
+    "nl": "het glas, de glazen",
+    "tr": "bardak"
+  },
+  {
+    "nl": "het ijs",
+    "tr": "dondurma"
+  },
+  {
+    "nl": "de lepel, de lepels",
+    "tr": "kaşık"
+  },
+  {
+    "nl": "het mes, de messen",
+    "tr": "bıçak"
+  },
+  {
+    "nl": "op",
+    "tr": "bitmiş"
+  },
+  {
+    "nl": "roepen (ik roep, jij roept, hij roept, wij roepen)",
+    "tr": "çağırmak"
+  },
+  {
+    "nl": "de vork, de vorken",
+    "tr": "çatal"
+  },
+  {
+    "nl": "zetten (ik zet, jij zet, hij zet, wij zetten)",
+    "tr": "hazırlamak (masa)"
+  },
+  {
+    "nl": "altijd",
+    "tr": "daima"
+  },
+  {
+    "nl": "de bloemkool, de bloemkolen",
+    "tr": "karnabahar"
+  },
+  {
+    "nl": "de boterham, de boterhammen",
+    "tr": "sandviç"
+  },
+  {
+    "nl": "de kaas, de kazen",
+    "tr": "peynir"
+  },
+  {
+    "nl": "de kip, de kippen",
+    "tr": "tavuk"
+  },
+  {
+    "nl": "lekker",
+    "tr": "lezzetli"
+  },
+  {
+    "nl": "meestal",
+    "tr": "çoğunlukla"
+  },
+  {
+    "nl": "nooit",
+    "tr": "asla"
+  },
+  {
+    "nl": "de rijst",
+    "tr": "pilav"
+  },
+  {
+    "nl": "vinden (ik vind, jij vindt, hij vindt, wij vinden)",
+    "tr": "bulmak"
+  },
+  {
+    "nl": "de vis, de vissen",
+    "tr": "balık"
+  },
+  {
+    "nl": "de worst, de worsten",
+    "tr": "sosis"
+  },
+  {
+    "nl": "het vraagwoord, de vraagwoorden *",
+    "tr": "soru sözcüğü"
+  },
+  {
+    "nl": "het werkwoord, de werkwoorden *",
+    "tr": "fiil"
+  },
+  {
+    "nl": "aan",
+    "tr": "açık (ör. ışık)"
+  },
+  {
+    "nl": "dom",
+    "tr": "aptal"
+  },
+  {
+    "nl": "het ei, de eieren",
+    "tr": "yumurta"
+  },
+  {
+    "nl": "genoeg",
+    "tr": "yeterli"
+  },
+  {
+    "nl": "de gram",
+    "tr": "gram"
+  },
+  {
+    "nl": "koud",
+    "tr": "soğuk"
+  },
+  {
+    "nl": "meer",
+    "tr": "daha fazla"
+  },
+  {
+    "nl": "minder",
+    "tr": "daha az"
+  },
+  {
+    "nl": "oké",
+    "tr": "tamam"
+  },
+  {
+    "nl": "de oven, de ovens",
+    "tr": "fırın"
+  },
+  {
+    "nl": "de taart, de taarten",
+    "tr": "turta; yaş pasta"
+  },
+  {
+    "nl": "uit",
+    "tr": "kapalı"
+  },
+  {
+    "nl": "het bedrag, de bedragen",
+    "tr": "miktar"
+  },
+  {
+    "nl": "betalen (ik betaal, jij betaalt, hij betaalt, wij betalen)",
+    "tr": "ödemek"
+  },
+  {
+    "nl": "bijna",
+    "tr": "neredeyse"
+  },
+  {
+    "nl": "het briefje, de briefjes",
+    "tr": "kağıt para"
+  },
+  {
+    "nl": "de cent, de centen",
+    "tr": "kuruş"
+  },
+  {
+    "nl": "de euro, de euro's",
+    "tr": "avro"
+  },
+  {
+    "nl": "gebruiken (ik gebruik, jij gebruikt, hij gebruikt, wij gebruiken)",
+    "tr": "kullanmak"
+  },
+  {
+    "nl": "kosten (het kost, ze kosten)",
+    "tr": "maliyet; tutmak"
+  },
+  {
+    "nl": "de munt, de munten",
+    "tr": "bozuk para"
+  },
+  {
+    "nl": "verschillend, verschillende",
+    "tr": "farklı"
+  },
+  {
+    "nl": "het vraagwoord, de vraagwoorden *",
+    "tr": "soru sözcüğü"
+  },
+  {
+    "nl": "het werkwoord, de werkwoorden *",
+    "tr": "fiil"
+  },
+  {
+    "nl": "alstublieft",
+    "tr": "lütfen"
+  },
+  {
+    "nl": "Anders nog iets?",
+    "tr": "Başka bir şey?"
+  },
+  {
+    "nl": "de druif, de druiven",
+    "tr": "üzüm"
+  },
+  {
+    "nl": "duur",
+    "tr": "pahalı"
+  },
+  {
+    "nl": "fijn, fijne",
+    "tr": "güzel"
+  },
+  {
+    "nl": "de helft",
+    "tr": "yarım"
+  },
+  {
+    "nl": "de kilo",
+    "tr": "kilo"
+  },
+  {
+    "nl": "de komkommer, de komkommers",
+    "tr": "salatalık"
+  },
+  {
+    "nl": "het ons",
+    "tr": "100 gram"
+  },
+  {
+    "nl": "het pond",
+    "tr": "libre; yarım kilo"
+  },
+  {
+    "nl": "terug",
+    "tr": "iade; geri"
+  },
+  {
+    "nl": "de verkoper, de verkopers",
+    "tr": "satıcı"
+  },
+  {
+    "nl": "alle",
+    "tr": "hepsi"
+  },
+  {
+    "nl": "de banaan, de bananen",
+    "tr": "muz"
+  },
+  {
+    "nl": "de boon, de bonen",
+    "tr": "kuru fasulye"
+  },
+  {
+    "nl": "de citroen, de citroenen",
+    "tr": "limon"
+  },
+  {
+    "nl": "het fruit",
+    "tr": "meyve"
+  },
+  {
+    "nl": "gratis",
+    "tr": "ücretsiz; bedava"
+  },
+  {
+    "nl": "de peer, de peren",
+    "tr": "armut"
+  },
+  {
+    "nl": "de sinaasappel, de sinaasappels",
+    "tr": "portakal"
+  },
+  {
+    "nl": "de sla",
+    "tr": "marul"
+  },
+  {
+    "nl": "het soort, de soorten",
+    "tr": "çeşit"
+  },
+  {
+    "nl": "de wortel, de wortels",
+    "tr": "havuç"
+  },
+  {
+    "nl": "de zak, de zakken",
+    "tr": "torba"
+  },
+  {
+    "nl": "de lettergreep, de lettergrepen *",
+    "tr": "hece"
+  },
+  {
+    "nl": "de stukje, de stukjes *",
+    "tr": "parça"
+  },
+  {
+    "nl": "verdelen (ik verdeel, jij verdeelt, hij verdeelt,",
+    "tr": "bölmek"
+  },
+  {
+    "nl": "de bon, de bonnen",
+    "tr": "fiş"
+  },
+  {
+    "nl": "daarna",
+    "tr": "sonra"
+  },
+  {
+    "nl": "het geld",
+    "tr": "para"
+  },
+  {
+    "nl": "goedkoop, goedkope",
+    "tr": "ucuz"
+  },
+  {
+    "nl": "iets",
+    "tr": "bir şey"
+  },
+  {
+    "nl": "in de aanbieding",
+    "tr": "indirimli"
+  },
+  {
+    "nl": "de kassa, de kassa's",
+    "tr": "kasa"
+  },
+  {
+    "nl": "mee",
+    "tr": "birlikte"
+  },
+  {
+    "nl": "het pak, de pakken",
+    "tr": "paket"
+  },
+  {
+    "nl": "pinnen (ik pin, jij pint, hij pint, wij pinnen)",
+    "tr": "banka kartıyla ödeme"
+  },
+  {
+    "nl": "want",
+    "tr": "çünkü"
+  },
+  {
+    "nl": "de zegel, de zegels",
+    "tr": "pul"
+  },
+  {
+    "nl": "de arm, de armen",
+    "tr": "kol"
+  },
+  {
+    "nl": "het been, de benen",
+    "tr": "bacak"
+  },
+  {
+    "nl": "de bil, de billen",
+    "tr": "kalça; popo"
+  },
+  {
+    "nl": "de buik, de buiken",
+    "tr": "karın"
+  },
+  {
+    "nl": "de hand, de handen",
+    "tr": "el"
+  },
+  {
+    "nl": "het hoofd , de hoofden",
+    "tr": "kafa"
+  },
+  {
+    "nl": "het lichaam, de lichamen",
+    "tr": "beden"
+  },
+  {
+    "nl": "de knie, de knieën",
+    "tr": "diz"
+  },
+  {
+    "nl": "de rug, de ruggen",
+    "tr": "sırt"
+  },
+  {
+    "nl": "de schouder, de schouders",
+    "tr": "omuz"
+  },
+  {
+    "nl": "de teen, de tenen",
+    "tr": "ayak parmağı"
+  },
+  {
+    "nl": "de vinger, de vingers",
+    "tr": "parmak"
+  },
+  {
+    "nl": "de voet , de voeten",
+    "tr": "ayak"
+  },
+  {
+    "nl": "bijvoorbeeld *",
+    "tr": "örneğin"
+  },
+  {
+    "nl": "de klank, de klanken *",
+    "tr": "ses"
+  },
+  {
+    "nl": "de klemtoon *",
+    "tr": "aksan"
+  },
+  {
+    "nl": "de lettergreep, de lettergrepen *",
+    "tr": "hece"
+  },
+  {
+    "nl": "het woordenboek *",
+    "tr": "sözlük"
+  },
+  {
+    "nl": "de baard, de baarden",
+    "tr": "sakal"
+  },
+  {
+    "nl": "het gezicht, de gezichten",
+    "tr": "yüz"
+  },
+  {
+    "nl": "het haar",
+    "tr": "saç"
+  },
+  {
+    "nl": "de kin, de kinnen",
+    "tr": "çene"
+  },
+  {
+    "nl": "de lip, de lippen",
+    "tr": "dudak"
+  },
+  {
+    "nl": "de mond, de monden",
+    "tr": "ağız"
+  },
+  {
+    "nl": "de nek, de nekken",
+    "tr": "boyun"
+  },
+  {
+    "nl": "de neus, de neuzen",
+    "tr": "burun"
+  },
+  {
+    "nl": "het oog, de ogen",
+    "tr": "göz"
+  },
+  {
+    "nl": "het oor, de oren",
+    "tr": "kulak"
+  },
+  {
+    "nl": "de snor, de snorren",
+    "tr": "bıyık"
+  },
+  {
+    "nl": "de tand, de tanden",
+    "tr": "diş"
+  },
+  {
+    "nl": "de wang, de wangen",
+    "tr": "yanak"
+  },
+  {
+    "nl": "het enkelvoud *",
+    "tr": "tekil"
+  },
+  {
+    "nl": "de klinker, de klinkers *",
+    "tr": "ünlü"
+  },
+  {
+    "nl": "de korte klank, de korte klanken *",
+    "tr": "kısa ünlü"
+  },
+  {
+    "nl": "de medeklinker, de medeklinkers *",
+    "tr": "ünsüz"
+  },
+  {
+    "nl": "het meervoud *",
+    "tr": "çoğul"
+  },
+  {
+    "nl": "de afspraak, de afspraken",
+    "tr": "randevu"
+  },
+  {
+    "nl": "de assistente, de assistentes",
+    "tr": "asistan"
+  },
+  {
+    "nl": "bellen (ik bel, jij belt, hij belt, wij bellen)",
+    "tr": "aramak"
+  },
+  {
+    "nl": "de controle , de controles",
+    "tr": "kontrol"
+  },
+  {
+    "nl": "eerder",
+    "tr": "önceden"
+  },
+  {
+    "nl": "de huisarts, de huisartsen",
+    "tr": "aile hekimi"
+  },
+  {
+    "nl": "de koorts",
+    "tr": "ateş"
+  },
+  {
+    "nl": "later",
+    "tr": "daha sonra"
+  },
+  {
+    "nl": "maar",
+    "tr": "ama"
+  },
+  {
+    "nl": "de pijn",
+    "tr": "ağrı"
+  },
+  {
+    "nl": "de tandarts, de tandartsen",
+    "tr": "Diş hekimi"
+  },
+  {
+    "nl": "waarom",
+    "tr": "neden"
+  },
+  {
+    "nl": "dezelfde *",
+    "tr": "aynı"
+  },
+  {
+    "nl": "het enkelvoud *",
+    "tr": "tekil"
+  },
+  {
+    "nl": "de klinker, de klinkers *",
+    "tr": "ünlü"
+  },
+  {
+    "nl": "de lange klank, de lange klanken *",
+    "tr": "uzun ünlü"
+  },
+  {
+    "nl": "de medeklinker, de medeklinkers *",
+    "tr": "kısa tonlama"
+  },
+  {
+    "nl": "het meervoud *",
+    "tr": "çoğul"
+  },
+  {
+    "nl": "ander, andere",
+    "tr": "başka"
+  },
+  {
+    "nl": "de apotheek, de apotheken",
+    "tr": "eczane"
+  },
+  {
+    "nl": "bijvoorbeeld",
+    "tr": "örneğin"
+  },
+  {
+    "nl": "de dokter, de dokters",
+    "tr": "doktor"
+  },
+  {
+    "nl": "halen (ik haal, jij haalt, hij haalt, wij halen)",
+    "tr": "almak"
+  },
+  {
+    "nl": "Ik heb last van ...",
+    "tr": "Muzdarip veya rahatsız olmak; şundan muzdaripim"
+  },
+  {
+    "nl": "het medicijn, de medicijnen",
+    "tr": "ilaç"
+  },
+  {
+    "nl": "het probleem, de problemen",
+    "tr": "sorun"
+  },
+  {
+    "nl": "soms",
+    "tr": "bazen"
+  },
+  {
+    "nl": "ziek, zieke",
+    "tr": "hasta"
+  },
+  {
+    "nl": "het ziekenhuis, de ziekenhuizen",
+    "tr": "hastane"
+  },
+  {
+    "nl": "de achternaam, de achternamen",
+    "tr": "soyadı"
+  },
+  {
+    "nl": "jong, jonge",
+    "tr": "genç"
+  },
+  {
+    "nl": "kennen (ik ken, jij kent, hij kent, wij kennen)",
+    "tr": "tanımak"
+  },
+  {
+    "nl": "oud, oude",
+    "tr": "yaşlı"
+  },
+  {
+    "nl": "de voornaam, de voornamen",
+    "tr": "isim"
+  },
+  {
+    "nl": "zeggen tegen (ik zeg tegen, jij zegt tegen, hij zegt tegen, wij zeggen tegen)",
+    "tr": "söylemek"
+  },
+  {
+    "nl": "beterschap",
+    "tr": "geçmiş olsun"
+  },
+  {
+    "nl": "erg",
+    "tr": "çok"
+  },
+  {
+    "nl": "de griep",
+    "tr": "grip"
+  },
+  {
+    "nl": "hoesten (ik hoest, jij hoest, hij hoest, wij hoesten)",
+    "tr": "öksürmek"
+  },
+  {
+    "nl": "de keel, de kelen",
+    "tr": "boğaz"
+  },
+  {
+    "nl": "de klacht , de klachten",
+    "tr": "şikâyet"
+  },
+  {
+    "nl": "natuurlijk",
+    "tr": "elbette"
+  },
+  {
+    "nl": "nog",
+    "tr": "başka"
+  },
+  {
+    "nl": "het recept",
+    "tr": "reçete"
+  },
+  {
+    "nl": "de spier, de spieren",
+    "tr": "kas"
+  },
+  {
+    "nl": "waarschijnlijk",
+    "tr": "muhtemelen"
+  },
+  {
+    "nl": "achter *",
+    "tr": "arka"
+  },
+  {
+    "nl": "het meervoud *",
+    "tr": "çoğul"
+  },
+  {
+    "nl": "daar",
+    "tr": "orada"
+  },
+  {
+    "nl": "dagelijks, dagelijkse",
+    "tr": "günlük"
+  },
+  {
+    "nl": "het doosje, de doosjes",
+    "tr": "kutu"
+  },
+  {
+    "nl": "de drogist, de drogisten",
+    "tr": "ilaç da satılan parfümeri"
+  },
+  {
+    "nl": "de druppel, de druppels",
+    "tr": "damla"
+  },
+  {
+    "nl": "de huid",
+    "tr": "deri"
+  },
+  {
+    "nl": "innemen (ik neem in, jij / hij neemt in, wij nemen in)",
+    "tr": "almak"
+  },
+  {
+    "nl": "de keer, de keren",
+    "tr": "kez"
+  },
+  {
+    "nl": "de pil, de pillen",
+    "tr": "hap"
+  },
+  {
+    "nl": "smeren (ik smeer, jij smeert, hij smeert, wij smeren)",
+    "tr": "sürmek"
+  },
+  {
+    "nl": "sommige",
+    "tr": "bazı"
+  },
+  {
+    "nl": "de zalf",
+    "tr": "merhem"
+  },
+  {
+    "nl": "elk, elke",
+    "tr": "her"
+  },
+  {
+    "nl": "de foto, foto's",
+    "tr": "fotoğraf"
+  },
+  {
+    "nl": "het gaatje , de gaatjes",
+    "tr": "çürük"
+  },
+  {
+    "nl": "het gebit, de gebitten",
+    "tr": "dişler"
+  },
+  {
+    "nl": "helaas",
+    "tr": "ne yazık ki"
+  },
+  {
+    "nl": "helemaal",
+    "tr": "tamamen"
+  },
+  {
+    "nl": "in orde",
+    "tr": "iyi, yolunda"
+  },
+  {
+    "nl": "de kies, de kiezen",
+    "tr": "azı dişi"
+  },
+  {
+    "nl": "misschien",
+    "tr": "belki"
+  },
+  {
+    "nl": "poetsen (ik poets, jij poetst, hij poetst, wij poetsen)",
+    "tr": "fırçalamak"
+  },
+  {
+    "nl": "vervelend",
+    "tr": "can sıkıcı"
+  },
+  {
+    "nl": "vullen (ik vul, jij vult, hij vult, wij vullen)",
+    "tr": "doldurmak"
+  },
+  {
+    "nl": "de broek, de broeken",
+    "tr": "pantolon"
+  },
+  {
+    "nl": "het hemd, de hemden",
+    "tr": "gömlek"
+  },
+  {
+    "nl": "de jas, de jassen",
+    "tr": "ceket"
+  },
+  {
+    "nl": "de onderbroek, de onderbroeken",
+    "tr": "külot"
+  },
+  {
+    "nl": "het overhemd, de overhemden",
+    "tr": "gömlek"
+  },
+  {
+    "nl": "de rok, de rokken",
+    "tr": "etek"
+  },
+  {
+    "nl": "de schoen, de schoenen",
+    "tr": "ayakkabı"
+  },
+  {
+    "nl": "de sok, de sokken",
+    "tr": "çorap"
+  },
+  {
+    "nl": "de tas, de tassen",
+    "tr": "çanta"
+  },
+  {
+    "nl": "de trui, de truien",
+    "tr": "kazak"
+  },
+  {
+    "nl": "het T-shirt, de T-shirts",
+    "tr": "Tişört"
+  },
+  {
+    "nl": "het vest, de vesten",
+    "tr": "yelek"
+  },
+  {
+    "nl": "de lidwoord, de lidwoorden *",
+    "tr": "belirtme edatı (het veya de)"
+  },
+  {
+    "nl": "het meervoud *",
+    "tr": "çoğul"
+  },
+  {
+    "nl": "het verkleinwoord, de verkleinwoorden *",
+    "tr": "küçültme sözcüğü"
+  },
+  {
+    "nl": "het woordenboek, de woordenboeken *",
+    "tr": "sözlük"
+  },
+  {
+    "nl": "de bloes, de bloezen",
+    "tr": "bluz"
+  },
+  {
+    "nl": "Een moment alstublieft.",
+    "tr": "Bir dakika lütfen."
+  },
+  {
+    "nl": "het feest, de feesten",
+    "tr": "parti"
+  },
+  {
+    "nl": "de kleding",
+    "tr": "kıyafet"
+  },
+  {
+    "nl": "de knoop, de knopen",
+    "tr": "düğme"
+  },
+  {
+    "nl": "de maat, de maten",
+    "tr": "numara; beden"
+  },
+  {
+    "nl": "mogen (ik mag, jij mag, hij mag, wij mogen)",
+    "tr": "mümkün olmak"
+  },
+  {
+    "nl": "de medewerker, de medewerkers",
+    "tr": "meslektaş"
+  },
+  {
+    "nl": "de paskamer, de paskamers",
+    "tr": "deneme kabini"
+  },
+  {
+    "nl": "passen (ik pas, jij past, hij past, wij passen)",
+    "tr": "denemek (kıyafet)"
+  },
+  {
+    "nl": "te",
+    "tr": "çok (büyük)"
+  },
+  {
+    "nl": "trouwen (ik trouw, jij trouwt, hij trouwt, wij trouwen)",
+    "tr": "evlenmek"
+  },
+  {
+    "nl": "allebei",
+    "tr": "her ikisi de"
+  },
+  {
+    "nl": "dragen (ik draag, jij draagt, hij draagt, wij dragen)",
+    "tr": "giymek"
+  },
+  {
+    "nl": "aanhebben (ik heb aan, jij hebt aan, hij heeft aan, wij hebben aan)",
+    "tr": "giymek"
+  },
+  {
+    "nl": "de jurk, de jurken",
+    "tr": "elbise (kadın)"
+  },
+  {
+    "nl": "de kleren",
+    "tr": "giysi"
+  },
+  {
+    "nl": "kort, korte",
+    "tr": "kısa"
+  },
+  {
+    "nl": "de laars, de laarzen",
+    "tr": "çizme"
+  },
+  {
+    "nl": "lang, lange",
+    "tr": "uzun"
+  },
+  {
+    "nl": "net, nette",
+    "tr": "resmi kıyafet"
+  },
+  {
+    "nl": "het pak, de pakken",
+    "tr": "takım elbise"
+  },
+  {
+    "nl": "vrij, vrije",
+    "tr": "izinli"
+  },
+  {
+    "nl": "het werk",
+    "tr": "iş"
+  },
+  {
+    "nl": "welk, welke *",
+    "tr": "hangi"
+  },
+  {
+    "nl": "de armband, de armbanden",
+    "tr": "bilezik"
+  },
+  {
+    "nl": "de bril, de brillen",
+    "tr": "gözlük"
+  },
+  {
+    "nl": "de handschoen, de handschoenen",
+    "tr": "eldiven"
+  },
+  {
+    "nl": "de hoed, de hoeden",
+    "tr": "şapka"
+  },
+  {
+    "nl": "de hoofddoek, de hoofddoeken",
+    "tr": "baş örtüsü"
+  },
+  {
+    "nl": "het horloge, de horloges",
+    "tr": "saat"
+  },
+  {
+    "nl": "de ketting, de kettingen",
+    "tr": "zincir"
+  },
+  {
+    "nl": "de muts, de mutsen",
+    "tr": "bere"
+  },
+  {
+    "nl": "de oorbel, de oorbellen",
+    "tr": "küpe"
+  },
+  {
+    "nl": "de ring, de ringen",
+    "tr": "yüzük"
+  },
+  {
+    "nl": "het sieraad, de sieraden",
+    "tr": "mücevher; takı"
+  },
+  {
+    "nl": "de sjaal, de sjaals",
+    "tr": "atkı"
+  },
+  {
+    "nl": "dezelfde",
+    "tr": "aynı"
+  },
+  {
+    "nl": "Een ogenblik alstublieft.",
+    "tr": "Bir dakika lütfen."
+  },
+  {
+    "nl": "even",
+    "tr": "az (süre anlamında, ör. az çay"
+  },
+  {
+    "nl": "het gat , de gaten",
+    "tr": "delik"
+  },
+  {
+    "nl": "heel",
+    "tr": "çok (güzel)"
+  },
+  {
+    "nl": "jammer",
+    "tr": "yazık"
+  },
+  {
+    "nl": "kapot, kapotte",
+    "tr": "bozuk; kırık"
+  },
+  {
+    "nl": "meenemen (ik neem mee, jij neemt mee, hij neemt mee, wij nemen mee)",
+    "tr": "almak; getirmek; götürmek"
+  },
+  {
+    "nl": "ruilen (ik ruil, jij ruilt, hij ruilt, wij ruilen)",
+    "tr": "değiştirmek"
+  },
+  {
+    "nl": "sturen (ik stuur, jij stuurt, hij stuurt, wij sturen)",
+    "tr": "göndermek"
+  },
+  {
+    "nl": "wel",
+    "tr": "var (yokun zıttı)"
+  },
+  {
+    "nl": "werken (ik werk, jij werkt, hij werkt, wij werken)",
+    "tr": "çalışmak"
+  },
+  {
+    "nl": "het onregelmatige werkwoord *",
+    "tr": "düzensiz fiil"
+  },
+  {
+    "nl": "de avond, de avonden",
+    "tr": "akşam"
+  },
+  {
+    "nl": "duren (het duurt)",
+    "tr": "sürmek"
+  },
+  {
+    "nl": "een half uur",
+    "tr": "yarım saat"
+  },
+  {
+    "nl": "Hoe laat is het?",
+    "tr": "Saat kaç?"
+  },
+  {
+    "nl": "de klok, de klokken",
+    "tr": "saat"
+  },
+  {
+    "nl": "een kwartier",
+    "tr": "çeyrek"
+  },
+  {
+    "nl": "de middag, de middagen",
+    "tr": "öğleden sonra"
+  },
+  {
+    "nl": "de nacht, de nachten",
+    "tr": "gece"
+  },
+  {
+    "nl": "'s nachts",
+    "tr": "geceleyin"
+  },
+  {
+    "nl": "de ochtend, de ochtenden",
+    "tr": "sabah"
+  },
+  {
+    "nl": "een seconde, de secondes",
+    "tr": "saniye"
+  },
+  {
+    "nl": "de tijd",
+    "tr": "zaman"
+  },
+  {
+    "nl": "een uur, de uren",
+    "tr": "saat"
+  },
+  {
+    "nl": "behalve",
+    "tr": "dışında"
+  },
+  {
+    "nl": "bestellen (ik bestel, jij bestelt, hij bestelt, wij bestellen)",
+    "tr": "sipariş vermek"
+  },
+  {
+    "nl": "brengen (ik breng, jij brengt, hij brengt, wij brengen)",
+    "tr": "getirmek"
+  },
+  {
+    "nl": "dicht",
+    "tr": "kapalı"
+  },
+  {
+    "nl": "de feestdag, de feestdagen",
+    "tr": "tatil"
+  },
+  {
+    "nl": "gesloten",
+    "tr": "kapalı"
+  },
+  {
+    "nl": "online",
+    "tr": "çevrimiçi"
+  },
+  {
+    "nl": "open",
+    "tr": "açık"
+  },
+  {
+    "nl": "de openingstijd, de openingstijden",
+    "tr": "açılış ve kapanış saatleri"
+  },
+  {
+    "nl": "ophalen (ik haal op, jij haalt op, hij haalt op, wij halen op)",
+    "tr": "almak"
+  },
+  {
+    "nl": "de spullen",
+    "tr": "eşyalar; şeyler"
+  },
+  {
+    "nl": "toch",
+    "tr": "yine de"
+  },
+  {
+    "nl": "duizend",
+    "tr": "bin"
+  },
+  {
+    "nl": "het getal, de getallen",
+    "tr": "sayı"
+  },
+  {
+    "nl": "miljard",
+    "tr": "milyar"
+  },
+  {
+    "nl": "miljoen",
+    "tr": "milyon"
+  },
+  {
+    "nl": "ongeveer",
+    "tr": "yaklaşık"
+  },
+  {
+    "nl": "precies",
+    "tr": "tam"
+  },
+  {
+    "nl": "alles",
+    "tr": "tümü"
+  },
+  {
+    "nl": "apart",
+    "tr": "ayrı ayrı"
+  },
+  {
+    "nl": "donker , donkere",
+    "tr": "koyu (renk)"
+  },
+  {
+    "nl": "droog, droge",
+    "tr": "kuru"
+  },
+  {
+    "nl": "de graad, de graden",
+    "tr": "derece"
+  },
+  {
+    "nl": "meteen",
+    "tr": "hemen"
+  },
+  {
+    "nl": "ophangen (ik hang op, jij hangt op, hij hangt op, wij hangen op)",
+    "tr": "asmak"
+  },
+  {
+    "nl": "schoon, schone",
+    "tr": "temiz"
+  },
+  {
+    "nl": "vies, vieze",
+    "tr": "kirli"
+  },
+  {
+    "nl": "warm, warme",
+    "tr": "sıcak"
+  },
+  {
+    "nl": "wassen (ik was, jij wast, hij wast, wij wassen)",
+    "tr": "yıkamak"
+  },
+  {
+    "nl": "zelf",
+    "tr": "kendisi"
+  },
+  {
+    "nl": "de auto, de auto's",
+    "tr": "otomobil"
+  },
+  {
+    "nl": "de boot, de boten",
+    "tr": "tekne"
+  },
+  {
+    "nl": "de bus, de bussen",
+    "tr": "otobüs"
+  },
+  {
+    "nl": "de fiets, de fietsen",
+    "tr": "bisiklet"
+  },
+  {
+    "nl": "laat",
+    "tr": "geç"
+  },
+  {
+    "nl": "de metro, de metro's",
+    "tr": "metro"
+  },
+  {
+    "nl": "nemen (ik neem, jij neemt, hij neemt, wij nemen)",
+    "tr": "binmek"
+  },
+  {
+    "nl": "reizen (ik reis, jij reist, hij reist, wij reizen)",
+    "tr": "seyahat etmek"
+  },
+  {
+    "nl": "het station, de stations",
+    "tr": "istasyon"
+  },
+  {
+    "nl": "de tram, de trams",
+    "tr": "tramvay"
+  },
+  {
+    "nl": "de trein, de treinen",
+    "tr": "tren"
+  },
+  {
+    "nl": "het vliegtuig, de vliegtuigen",
+    "tr": "uçak"
+  },
+  {
+    "nl": "hoe",
+    "tr": "nasıl"
+  },
+  {
+    "nl": "de lengte *",
+    "tr": "uzunluk"
+  },
+  {
+    "nl": "het bord, de borden",
+    "tr": "trafik tabelası"
+  },
+  {
+    "nl": "het fietspad, de fietspaden",
+    "tr": "bisiklet yolu"
+  },
+  {
+    "nl": "de kilometer, de kilometers",
+    "tr": "kilometre"
+  },
+  {
+    "nl": "Let op!",
+    "tr": "Dikkat!"
+  },
+  {
+    "nl": "de regel, de regels",
+    "tr": "kural"
+  },
+  {
+    "nl": "rijden (ik rijd, jij rijdt, hij rijdt, wij rijden)",
+    "tr": "sürmek (araba)"
+  },
+  {
+    "nl": "de snelweg, de snelwegen",
+    "tr": "otoyol"
+  },
+  {
+    "nl": "het stoplicht, de stoplichten",
+    "tr": "trafik ışığı"
+  },
+  {
+    "nl": "stoppen (ik stop, jij stopt, hij stopt, wij stoppen)",
+    "tr": "durmak"
+  },
+  {
+    "nl": "het verkeer",
+    "tr": "trafik"
+  },
+  {
+    "nl": "de weg, de wegen",
+    "tr": "yol"
+  },
+  {
+    "nl": "het zebrapad, de zebrapaden",
+    "tr": "yaya geçidi"
+  },
+  {
+    "nl": "het onregelmatige werkwoord *",
+    "tr": "düzensiz fiil"
+  },
+  {
+    "nl": "belangrijk, belangrijke",
+    "tr": "önemli"
+  },
+  {
+    "nl": "het eiland, de eilanden",
+    "tr": "ada"
+  },
+  {
+    "nl": "de hoofdstad, de hoofdsteden",
+    "tr": "başkent"
+  },
+  {
+    "nl": "de kaart, de kaarten",
+    "tr": "harita"
+  },
+  {
+    "nl": "het land, de landen",
+    "tr": "ülke"
+  },
+  {
+    "nl": "het midden",
+    "tr": "orta"
+  },
+  {
+    "nl": "het noorden",
+    "tr": "kuzey"
+  },
+  {
+    "nl": "naartoe",
+    "tr": "bir yere gitmek"
+  },
+  {
+    "nl": "het oosten",
+    "tr": "doğu"
+  },
+  {
+    "nl": "de provincie, de provincies",
+    "tr": "il"
+  },
+  {
+    "nl": "het westen",
+    "tr": "batı"
+  },
+  {
+    "nl": "het zuiden",
+    "tr": "güney"
+  },
+  {
+    "nl": "aan",
+    "tr": "-da; -de (duvarda)"
+  },
+  {
+    "nl": "achter",
+    "tr": "arka"
+  },
+  {
+    "nl": "boven",
+    "tr": "yukarı"
+  },
+  {
+    "nl": "in",
+    "tr": "içinde"
+  },
+  {
+    "nl": "naast",
+    "tr": "yanında"
+  },
+  {
+    "nl": "onder",
+    "tr": "altında"
+  },
+  {
+    "nl": "op",
+    "tr": "üzerinde"
+  },
+  {
+    "nl": "over",
+    "tr": "üzerinde"
+  },
+  {
+    "nl": "tegenover",
+    "tr": "karşısında"
+  },
+  {
+    "nl": "tussen",
+    "tr": "arasında"
+  },
+  {
+    "nl": "uit",
+    "tr": "dışında; -den/-dan"
+  },
+  {
+    "nl": "voor",
+    "tr": "önünde"
+  },
+  {
+    "nl": "alvast",
+    "tr": "zaten; şimdiden"
+  },
+  {
+    "nl": "de collega, de collega's",
+    "tr": "meslektaş"
+  },
+  {
+    "nl": "denken (ik denk, jij denkt, hij denkt, wij denken)",
+    "tr": "düşünmek; sanmak"
+  },
+  {
+    "nl": "doorgeven (ik geef door, jij geeft door, hij geeft door, wij geven door)",
+    "tr": "iletmek"
+  },
+  {
+    "nl": "dus",
+    "tr": "bu yüzden"
+  },
+  {
+    "nl": "de file, de files",
+    "tr": "trafik sıkışıklığı"
+  },
+  {
+    "nl": "onderweg",
+    "tr": "yolda"
+  },
+  {
+    "nl": "de plek, de plekken",
+    "tr": "yer"
+  },
+  {
+    "nl": "prima",
+    "tr": "harika"
+  },
+  {
+    "nl": "snappen (ik snap, jij snapt, hij snapt, wij snappen)",
+    "tr": "anlamak"
+  },
+  {
+    "nl": "te laat",
+    "tr": "çok geç"
+  },
+  {
+    "nl": "tot straks",
+    "tr": "görüşürüz"
+  },
+  {
+    "nl": "dichtbij",
+    "tr": "yakın"
+  },
+  {
+    "nl": "eerst",
+    "tr": "ilk"
+  },
+  {
+    "nl": "het kruispunt, de kruispunten",
+    "tr": "kavşak"
+  },
+  {
+    "nl": "linksaf",
+    "tr": "sola"
+  },
+  {
+    "nl": "links",
+    "tr": "sol"
+  },
+  {
+    "nl": "oversteken (ik steek over, jij steekt over, hij steekt over, wij steken over)",
+    "tr": "karşıya geçmek"
+  },
+  {
+    "nl": "rechtdoor",
+    "tr": "düz devam etmek"
+  },
+  {
+    "nl": "rechtsaf",
+    "tr": "sağa"
+  },
+  {
+    "nl": "rechts",
+    "tr": "sağ"
+  },
+  {
+    "nl": "ver",
+    "tr": "uzak"
+  },
+  {
+    "nl": "de weg",
+    "tr": "yol"
+  },
+  {
+    "nl": "de betekenis, de betekenissen *",
+    "tr": "anlam"
+  },
+  {
+    "nl": "het hele werkwoord, de hele werkwoorden *",
+    "tr": "mastar"
+  },
+  {
+    "nl": "opzoeken (ik zoek op, jij zoekt op, hij zoekt op, wij zoeken op) *",
+    "tr": "aramak"
+  },
+  {
+    "nl": "passen (het past) *",
+    "tr": "uygun olmak"
+  },
+  {
+    "nl": "de vorm, de vormen *",
+    "tr": "form"
+  },
+  {
+    "nl": "het woordenboek *",
+    "tr": "sözlük"
+  },
+  {
+    "nl": "in",
+    "tr": "-de, -da (tarihinde; aylar için kullanılır))"
+  },
+  {
+    "nl": "na",
+    "tr": "sonra"
+  },
+  {
+    "nl": "om",
+    "tr": "-de, -da (saat)"
+  },
+  {
+    "nl": "op",
+    "tr": "-de, -da (tarihinde; günler için kullanılır))"
+  },
+  {
+    "nl": "over",
+    "tr": "sonra"
+  },
+  {
+    "nl": "tijdens",
+    "tr": "boyunca"
+  },
+  {
+    "nl": "tot",
+    "tr": "-e, -a kadar"
+  },
+  {
+    "nl": "van",
+    "tr": "-den, -dan"
+  },
+  {
+    "nl": "voor",
+    "tr": "önce"
+  },
+  {
+    "nl": "het bord, de borden",
+    "tr": "tabela"
+  },
+  {
+    "nl": "gelukkig",
+    "tr": "şanslı; iyi ki"
+  },
+  {
+    "nl": "halen (ik haal, jij haalt, hij haalt, wij halen)",
+    "tr": "yetişmek"
+  },
+  {
+    "nl": "de kant, de kanten",
+    "tr": "diğer tarafı"
+  },
+  {
+    "nl": "aankomen (ik kom aan, jij komt aan, hij komt aan, wij komen aan)",
+    "tr": "varmak"
+  },
+  {
+    "nl": "missen (ik mis, jij mist, hij mist, wij missen)",
+    "tr": "kaçırmak"
+  },
+  {
+    "nl": "rennen (ik ren, jij rent, hij rent, wij rennen)",
+    "tr": "koşmak"
+  },
+  {
+    "nl": "het spoor, de sporen",
+    "tr": "tren yolu"
+  },
+  {
+    "nl": "vertrekken (ik vertrek, jij vertrekt, hij vertrekt, wij vertrekken)",
+    "tr": "ayrılmak; kalkmak"
+  },
+  {
+    "nl": "de vertrektijd, de vertrektijden",
+    "tr": "hareket saati"
+  },
+  {
+    "nl": "via",
+    "tr": "üzerinden"
+  },
+  {
+    "nl": "wachten (ik wacht, jij wacht, hij wacht, wij wachten)",
+    "tr": "beklemek"
+  },
+  {
+    "nl": "mijn",
+    "tr": "benim"
+  },
+  {
+    "nl": "jouw / je",
+    "tr": "senin"
+  },
+  {
+    "nl": "uw",
+    "tr": "sizin (saygı belirtir)"
+  },
+  {
+    "nl": "zijn",
+    "tr": "onun (erkek)"
+  },
+  {
+    "nl": "haar",
+    "tr": "onun (kadın)"
+  },
+  {
+    "nl": "ons",
+    "tr": "bizim"
+  },
+  {
+    "nl": "onze",
+    "tr": "bizim"
+  },
+  {
+    "nl": "jullie",
+    "tr": "sizin (çoğul ikinci şahıs)"
+  },
+  {
+    "nl": "hun",
+    "tr": "onların"
+  },
+  {
+    "nl": "blijven (ik blijf, jij blijft, hij blijft, wij blijven)",
+    "tr": "kalmak"
+  },
+  {
+    "nl": "de chauffeur, de chauffeurs",
+    "tr": "sürücü"
+  },
+  {
+    "nl": "eindelijk",
+    "tr": "nihayet"
+  },
+  {
+    "nl": "de halte, de haltes",
+    "tr": "durak"
+  },
+  {
+    "nl": "hangen (ik hang, jij hangt, hij hangt, wij hangen)",
+    "tr": "asılı olmak"
+  },
+  {
+    "nl": "instappen (ik stap in, jij stapt in, hij stapt in, wij stappen in)",
+    "tr": "binmek"
+  },
+  {
+    "nl": "net",
+    "tr": "az önce"
+  },
+  {
+    "nl": "slapen (ik slaap, jij slaapt, hij slaapt, wij slapen)",
+    "tr": "uyumak"
+  },
+  {
+    "nl": "t/m (tot en met)",
+    "tr": "kadar (son tarih dâhil)"
+  },
+  {
+    "nl": "uitstappen (ik stap uit, jij stapt uit, hij stapt uit, wij stappen uit)",
+    "tr": "inmek"
+  },
+  {
+    "nl": "vanavond",
+    "tr": "bu akşam"
+  },
+  {
+    "nl": "volgend, volgende",
+    "tr": "sonraki"
+  },
+  {
+    "nl": "de boerderij, de boerderijen",
+    "tr": "çiftlik"
+  },
+  {
+    "nl": "het dier, de dieren",
+    "tr": "hayvan"
+  },
+  {
+    "nl": "dik, dikke",
+    "tr": "kalın; şişman"
+  },
+  {
+    "nl": "de hond, de honden",
+    "tr": "köpek"
+  },
+  {
+    "nl": "de kat, de katten",
+    "tr": "kedi"
+  },
+  {
+    "nl": "de koe, de koeien",
+    "tr": "inek"
+  },
+  {
+    "nl": "kwijt",
+    "tr": "kayıp"
+  },
+  {
+    "nl": "leven (ik leef, jij leeft, hij leeft, wij leven)",
+    "tr": "yaşamak"
+  },
+  {
+    "nl": "overal",
+    "tr": "her yerde"
+  },
+  {
+    "nl": "het paard, de paarden",
+    "tr": "at"
+  },
+  {
+    "nl": "het schaap, de schapen",
+    "tr": "koyun"
+  },
+  {
+    "nl": "het varken, de varkens",
+    "tr": "domuz"
+  },
+  {
+    "nl": "de betekenis, de betekenissen *",
+    "tr": "anlam"
+  },
+  {
+    "nl": "de manier, de manieren *",
+    "tr": "biçim"
+  },
+  {
+    "nl": "onthouden (ik onthoud, jij onthoudt, hij onthoudt, wij onthouden) *",
+    "tr": "hatırlamak; ezberlemek"
+  },
+  {
+    "nl": "de taal, de talen *",
+    "tr": "dil"
+  },
+  {
+    "nl": "de tegenstelling, de tegenstellingen *",
+    "tr": "zıt"
+  },
+  {
+    "nl": "de tekening, de tekeningen *",
+    "tr": "çizim"
+  },
+  {
+    "nl": "het woordweb, de woordwebben *",
+    "tr": "kelime şeması"
+  },
+  {
+    "nl": "de club, de clubs",
+    "tr": "kulüp"
+  },
+  {
+    "nl": "de dame, de dames",
+    "tr": "bayan"
+  },
+  {
+    "nl": "de heer, de heren",
+    "tr": "bay"
+  },
+  {
+    "nl": "iedereen",
+    "tr": "herkes"
+  },
+  {
+    "nl": "de informatie",
+    "tr": "bilgi"
+  },
+  {
+    "nl": "spelen (ik speel, jij speelt, hij speelt, wij spelen)",
+    "tr": "oynamak"
+  },
+  {
+    "nl": "sporten (ik sport, jij sport, hij sport, wij sporten)",
+    "tr": "spor yapmak"
+  },
+  {
+    "nl": "het team, de teams",
+    "tr": "takım"
+  },
+  {
+    "nl": "trainen (ik train, jij traint, hij traint, wij trainen)",
+    "tr": "antrenman yapmak"
+  },
+  {
+    "nl": "voetballen (ik voetbal, jij /hij voetbalt, wij voetballen)",
+    "tr": "futbol oynamak"
+  },
+  {
+    "nl": "de wedstrijd, de wedstrijden",
+    "tr": "maç"
+  },
+  {
+    "nl": "aan het einde *",
+    "tr": "sonunda"
+  },
+  {
+    "nl": "het hele werkwoord, de hele werkwoorden *",
+    "tr": "mastar"
+  },
+  {
+    "nl": "de hoofdzin, de hoofdzinnen *",
+    "tr": "ana cümle"
+  },
+  {
+    "nl": "het werkwoord, de werkwoorden *",
+    "tr": "fiil"
+  },
+  {
+    "nl": "de bal, de ballen",
+    "tr": "top"
+  },
+  {
+    "nl": "bewegen (ik beweeg, jij beweegt, hij beweegt, wij bewegen)",
+    "tr": "hareket etmek"
+  },
+  {
+    "nl": "dansen (ik dans, jij danst, hij danst, wij dansen)",
+    "tr": "dans etmek"
+  },
+  {
+    "nl": "gezond, gezonde",
+    "tr": "sağlıklı"
+  },
+  {
+    "nl": "de hobby, de hobby's",
+    "tr": "hobi"
+  },
+  {
+    "nl": "houden van (ik houd van, jij houdt van, hij houdt",
+    "tr": "sevmek"
+  },
+  {
+    "nl": "de muziek",
+    "tr": "müzik"
+  },
+  {
+    "nl": "tekenen (ik teken, jij tekent, hij tekent, wij tekenen)",
+    "tr": "çizmek"
+  },
+  {
+    "nl": "vertellen (ik vertel, jij vertelt, hij vertelt, wij vertellen)",
+    "tr": "anlatmak"
+  },
+  {
+    "nl": "de vriend, de vrienden",
+    "tr": "arkadaş"
+  },
+  {
+    "nl": "weer",
+    "tr": "tekrar"
+  },
+  {
+    "nl": "zwemmen (ik zwem, jij zwemt, hij zwemt, wij zwemmen)",
+    "tr": "yüzmek"
+  },
+  {
+    "nl": "het adres, de adressen",
+    "tr": "adres"
+  },
+  {
+    "nl": "de cursus, de cursussen",
+    "tr": "kurs"
+  },
+  {
+    "nl": "daarom",
+    "tr": "bu nedenle"
+  },
+  {
+    "nl": "het e-mailadres, de e-mailadressen",
+    "tr": "E-posta adresi"
+  },
+  {
+    "nl": "het formulier, de formulieren",
+    "tr": "form"
+  },
+  {
+    "nl": "de geboortedatum",
+    "tr": "doğum tarihi"
+  },
+  {
+    "nl": "inschrijven (ik schrijf in, jij schrijft in, hij schrijft in, wij schrijven in)",
+    "tr": "kaydolmak"
+  },
+  {
+    "nl": "invullen (ik vul in, jij vult in, hij vult in, wij vullen in)",
+    "tr": "doldurmak"
+  },
+  {
+    "nl": "het nummer, de nummers",
+    "tr": "sayı"
+  },
+  {
+    "nl": "de postcode, de postcodes",
+    "tr": "posta kodu"
+  },
+  {
+    "nl": "starten (ik start, jij start, hij start, wij starten)",
+    "tr": "başlamak"
+  },
+  {
+    "nl": "de telefoon, de telefoons",
+    "tr": "telefon"
+  },
+  {
+    "nl": "de lidwoord, de lidwoorden *",
+    "tr": "belirtme edatı (het veya de)"
+  },
+  {
+    "nl": "het meervoud *",
+    "tr": "çoğul"
+  },
+  {
+    "nl": "tellen (ik tel, jij telt, hij telt, wij tellen) *",
+    "tr": "saymak"
+  },
+  {
+    "nl": "als",
+    "tr": "eğer"
+  },
+  {
+    "nl": "het concert, de concerten",
+    "tr": "konser"
+  },
+  {
+    "nl": "een dagje weg",
+    "tr": "Günübirlik gezi"
+  },
+  {
+    "nl": "het liedje, de liedjes",
+    "tr": "şarkı"
+  },
+  {
+    "nl": "het museum, de museums",
+    "tr": "müze"
+  },
+  {
+    "nl": "op bezoek",
+    "tr": "ziyaret etmek"
+  },
+  {
+    "nl": "de radio, de radio's",
+    "tr": "radyo"
+  },
+  {
+    "nl": "het restaurant, de restaurants",
+    "tr": "restoran"
+  },
+  {
+    "nl": "het strand, de stranden",
+    "tr": "kumsal"
+  },
+  {
+    "nl": "uit eten",
+    "tr": "dışarıda yeme"
+  },
+  {
+    "nl": "de zee, de zeeën",
+    "tr": "deniz"
+  },
+  {
+    "nl": "zingen (ik zing, jij zingt, hij zingt, wij zingen)",
+    "tr": "şarkı söylemek"
+  },
+  {
+    "nl": "het meervoud *",
+    "tr": "çoğul"
+  },
+  {
+    "nl": "tellen (ik tel, jij telt, hij telt, wij tellen) *",
+    "tr": "saymak"
+  },
+  {
+    "nl": "de situatie, de situaties *",
+    "tr": "durum"
+  },
+  {
+    "nl": "de bloem, de bloemen",
+    "tr": "çiçek"
+  },
+  {
+    "nl": "fietsen (ik fiets, jij fietst, hij fietst, wij fietsen)",
+    "tr": "bisiklete binmek"
+  },
+  {
+    "nl": "groetjes",
+    "tr": "selamlar"
+  },
+  {
+    "nl": "ieder, iedere",
+    "tr": "her"
+  },
+  {
+    "nl": "de natuur",
+    "tr": "doğa"
+  },
+  {
+    "nl": "op vakantie gaan (ik ga op vakantie, jij gaat op vakantie, hij gaat op vakantie, wij gaan op vakantie)",
+    "tr": "tatile gitmek"
+  },
+  {
+    "nl": "de tent , de tenten",
+    "tr": "çadır"
+  },
+  {
+    "nl": "de vakantie, de vakanties",
+    "tr": "tatil"
+  },
+  {
+    "nl": "de vogel, de vogels",
+    "tr": "kuş"
+  },
+  {
+    "nl": "wandelen (ik wandel, jij wandelt, hij wandelt, wij wandelen)",
+    "tr": "yürüyüş yapmak"
+  },
+  {
+    "nl": "het weer",
+    "tr": "hava durumu"
+  },
+  {
+    "nl": "het zwembad, de zwembaden",
+    "tr": "yüzme havuzu"
+  },
+  {
+    "nl": "bedoelen (ik bedoel, jij bedoelt, hij bedoelt,",
+    "tr": "demek istemek"
+  },
+  {
+    "nl": "herhalen (ik herhaal, jij herhaalt, hij herhaalt, wij herhalen)",
+    "tr": "tekrar etmek"
+  },
+  {
+    "nl": "langzaam",
+    "tr": "yavaş"
+  },
+  {
+    "nl": "nog een keer",
+    "tr": "bir kez daha"
+  },
+  {
+    "nl": "verstaan (ik versta, jij verstaat, hij verstaat, wij verstaan)",
+    "tr": "anlamak"
+  },
+  {
+    "nl": "uitleggen (ik leg uit, jij / hij legt uit, wij leggen uit)",
+    "tr": "açıklamak"
+  },
+  {
+    "nl": "aanwijzen (ik wijs aan, jij wijst aan, hij wijst aan, wij wijzen aan) *",
+    "tr": "göstermek"
+  },
+  {
+    "nl": "het meervoud *",
+    "tr": "çoğul"
+  },
+  {
+    "nl": "het bier",
+    "tr": "bira"
+  },
+  {
+    "nl": "het café, de cafés",
+    "tr": "kafe"
+  },
+  {
+    "nl": "elkaar",
+    "tr": "birlikte; birbirini"
+  },
+  {
+    "nl": "de film, de films",
+    "tr": "Film"
+  },
+  {
+    "nl": "inderdaad",
+    "tr": "gerçekten"
+  },
+  {
+    "nl": "jawel",
+    "tr": "evet"
+  },
+  {
+    "nl": "kletsen (ik klets, jij kletst, hij kletst, wij kletsen)",
+    "tr": "sohbet etmek"
+  },
+  {
+    "nl": "schoonmaken (ik maak schoon, jij maakt schoon, hij maakt schoon, wij maken schoon)",
+    "tr": "temizlemek"
+  },
+  {
+    "nl": "veel plezier",
+    "tr": "iyi eğlenceler"
+  },
+  {
+    "nl": "de vriendin , de vriendinnen",
+    "tr": "kız arkadaş"
+  },
+  {
+    "nl": "weleens",
+    "tr": "bazen"
+  },
+  {
+    "nl": "zin hebben in (ik heb zin in, jij hebt zin in, hij heeft",
+    "tr": "istemek; arzu etmek"
+  }
+]

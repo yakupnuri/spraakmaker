@@ -1,0 +1,4427 @@
+[
+  {
+    "lesId": "les_1",
+    "thema": 1,
+    "themaTitel": "Eerste Stappen",
+    "hoofdstuk": 1,
+    "hoofdstukNummer": "1.1",
+    "verhaalTitel": "Een nieuwe buur",
+    "verhaal": "Bahar woont in Amsterdam. Ze is verpleegkundige en ze werkt in een ziekenhuis in de stad. Elke ochtend staat ze vroeg op. Ze drinkt koffie en eet een boterham. Daarna gaat ze naar haar werk.\n\nOp een maandag ziet Bahar iets interessants. Er staat een grote vrachtwagen voor het huis naast haar. Een man draagt dozen naar binnen. Hij is groot en heeft donker haar. Bahar kijkt door het raam en denkt: wie is dat?\n\nNa haar werk gaat Bahar naar buiten. De man staat in de tuin. Hij ziet Bahar en steekt zijn hand op.\n— Hallo! Ik ben Ali. Ik ben jullie nieuwe buurman.\n— Hoi Ali, ik ben Bahar. Welkom in de straat!\n— Dank je wel. Ik kom uit Marokko, maar ik woon al tien jaar in Nederland.\n— Oh, dat is interessant! Ik ben ook niet van hier. Mijn familie woont in Turkije.\n\nAli glimlacht. Hij is vriendelijk en praat graag. Bahar vindt hem aardig.\n— Wil je een kopje koffie? vraagt Bahar.\n— Dat wil ik graag! zegt Ali. Maar ik heb nog veel werk. Misschien morgen?\n— Natuurlijk. Morgen is ook goed.\n\nBinnen zit Bahar's man Bram op de bank. Hij leest een boek. Bram is architect. Hij werkt thuis op dinsdag en donderdag.\n— Bram, we hebben een nieuwe buurman. Hij heet Ali. Hij is heel aardig.\n— Oh? zegt Bram. Hij kijkt op van zijn boek. Wat doet hij voor werk?\n— Dat weet ik niet. We praten morgen verder.\n\nDe volgende dag, dinsdag, klopt Ali op de deur. Bahar is thuis, want ze werkt pas 's middags.\n— Goedemorgen Ali! Kom binnen. Wil je koffie of thee?\n— Koffie graag. Ik drink altijd koffie 's ochtends.\n\nZe zitten aan de keukentafel. Ali vertelt over zichzelf. Hij werkt als kok in een restaurant in het centrum.\n— Een kok! zegt Bahar verrast. Eet je altijd goed dan?\n— Ha, ja en nee. Op het werk eet ik lekker. Thuis eet ik vaak alleen brood.\n— Dat begrijp ik, zegt Bahar. Ik werk veel en ik eet ook niet altijd gezond. Bram kookt soms, maar hij vergeet het vaak.\n\nAli lacht. Hij vertelt ook dat hij een dochter heeft. Ze heet Yasmin en ze is zeven jaar. Ze gaat naar school in de buurt.\n— Yasmin is gek op tekenen, zegt Ali trots. Ze tekent de hele dag.\n— Wat lief! zegt Bahar. Wij hebben nog geen kinderen. Misschien later.\n\nBram komt de keuken in. Hij ziet Ali en steekt zijn hand uit.\n— Hoi, ik ben Bram. Welkom in onze straat.\n— Dank je, Bram. Ik ben Ali. Jullie vrouw is heel vriendelijk.\n\nZe praten nog een uur. Ali is een goede buurman. Hij is open en eerlijk. Bahar is blij dat hij naast hen woont.\n\nAan het einde van de dag schrijft Bahar een bericht aan haar zusje Fatima in Istanbul.\n— Fatima, we hebben een nieuwe buurman. Hij heet Ali en hij komt uit Marokko. Hij is kok en hij heeft een dochter van zeven. Hij is heel gezellig. Ik denk dat we goede vrienden worden!\n\nFatima antwoordt snel.\n— Wat leuk! Jullie zijn altijd zo gezellig in Amsterdam. Ik mis jullie!\n\nBahar glimlacht en legt haar telefoon neer. Het is een goede dag geweest.",
+    "highlights": {
+      "verbs": [
+        "woont",
+        "is",
+        "werkt",
+        "staat",
+        "drinkt",
+        "eet",
+        "gaat",
+        "ziet",
+        "draagt",
+        "kijkt",
+        "denkt",
+        "steekt",
+        "praat",
+        "vindt",
+        "wil",
+        "weet",
+        "klopt",
+        "vertelt",
+        "lacht",
+        "heeft",
+        "tekent",
+        "komt",
+        "schrijft",
+        "antwoordt",
+        "glimlacht"
+      ],
+      "conjunctions": [
+        "en",
+        "maar",
+        "want",
+        "dat",
+        "als",
+        "of",
+        "ook"
+      ],
+      "scheidbaar": [
+        "op staat",
+        "uitsteekt"
+      ],
+      "tussenwoorden": [
+        "heel",
+        "graag",
+        "ook",
+        "altijd",
+        "vaak",
+        "soms",
+        "nog",
+        "pas"
+      ]
+    },
+    "woordenschat": {
+      "buurman": "komşu (erkek)",
+      "ziekenhuis": "hastane",
+      "verpleegkundige": "hemşire",
+      "vrachtwagen": "kamyon",
+      "doos/dozen": "kutu/kutular",
+      "tuin": "bahçe",
+      "vriendelijk": "nazik, kibar",
+      "aardig": "sevimli, hoş",
+      "architect": "mimar",
+      "kok": "aşçı",
+      "restaurant": "restoran",
+      "centrum": "şehir merkezi",
+      "boterham": "ekmek dilimi",
+      "keukentafel": "mutfak masası",
+      "trots": "gururlu",
+      "tekenen": "çizmek, resim yapmak",
+      "gezellig": "şirin, samimi, sıcak",
+      "bericht": "mesaj",
+      "missen": "özlemek",
+      "welkom": "hoş geldiniz",
+      "naast": "yanında",
+      "binnen": "içeri",
+      "buiten": "dışarıda",
+      "goedemorgen": "günaydın",
+      "dank je wel": "teşekkür ederim"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "Bahar ___ koffie elke ochtend.",
+          "antwoord": "drinkt",
+          "hint": "drinken"
+        },
+        {
+          "zin": "Ali ___ als kok in een restaurant.",
+          "antwoord": "werkt",
+          "hint": "werken"
+        },
+        {
+          "zin": "Bram ___ een boek op de bank.",
+          "antwoord": "leest",
+          "hint": "lezen"
+        },
+        {
+          "zin": "Yasmin ___ de hele dag.",
+          "antwoord": "tekent",
+          "hint": "tekenen"
+        },
+        {
+          "zin": "Bahar ___ een bericht aan Fatima.",
+          "antwoord": "schrijft",
+          "hint": "schrijven"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "in",
+            "Amsterdam",
+            "Bahar",
+            "woont"
+          ],
+          "antwoord": "Bahar woont in Amsterdam.",
+          "tr": "Bahar Amsterdam'da yaşıyor."
+        },
+        {
+          "woorden": [
+            "koffie",
+            "drinkt",
+            "hij",
+            "graag"
+          ],
+          "antwoord": "Hij drinkt graag koffie.",
+          "tr": "O kahveyi sever."
+        },
+        {
+          "woorden": [
+            "een",
+            "heeft",
+            "Ali",
+            "dochter"
+          ],
+          "antwoord": "Ali heeft een dochter.",
+          "tr": "Ali'nin bir kızı var."
+        },
+        {
+          "woorden": [
+            "werkt",
+            "ziekenhuis",
+            "in",
+            "Bahar",
+            "het"
+          ],
+          "antwoord": "Bahar werkt in het ziekenhuis.",
+          "tr": "Bahar hastanede çalışıyor."
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "Bahar woont in Amsterdam.",
+          "tr": "Bahar Amsterdam'da yaşıyor."
+        },
+        {
+          "nl": "Ali werkt als kok.",
+          "tr": "Ali aşçı olarak çalışıyor."
+        },
+        {
+          "nl": "Wil je een kopje koffie?",
+          "tr": "Bir fincan kahve ister misin?"
+        },
+        {
+          "nl": "Ze is heel vriendelijk.",
+          "tr": "O çok nazik."
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Ben hemşireyim.",
+          "nl": "Ik ben verpleegkundige."
+        },
+        {
+          "tr": "O hastanede çalışıyor.",
+          "nl": "Hij/zij werkt in het ziekenhuis."
+        },
+        {
+          "tr": "Kahve mi yoksa çay mı istersin?",
+          "nl": "Wil je koffie of thee?"
+        },
+        {
+          "tr": "Yeni komşumuz çok sevimli.",
+          "nl": "Onze nieuwe buurman is heel aardig."
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Bahar nerede çalışıyor?",
+          "opties": [
+            "bir restoranda",
+            "hastanede",
+            "bir okulda",
+            "evde"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Ali'nin mesleği nedir?",
+          "opties": [
+            "mimar",
+            "hemşire",
+            "aşçı",
+            "öğretmen"
+          ],
+          "antwoord": 2
+        },
+        {
+          "vraagTr": "Fatima kimdir?",
+          "opties": [
+            "Bahar'nın annesi",
+            "Bahar'nın komşusu",
+            "Bahar'nın kız kardeşi",
+            "Bram'ın kız kardeşi"
+          ],
+          "antwoord": 2
+        }
+      ]
+    }
+  },
+  {
+    "lesId": "les_2",
+    "thema": 1,
+    "themaTitel": "Eerste Stappen",
+    "hoofdstuk": 2,
+    "hoofdstukNummer": "1.2",
+    "verhaalTitel": "Heb je een minuutje?",
+    "verhaal": "Het is woensdagochtend. Bahar heeft een drukke dag voor de boeg. Ze heeft een vergadering om negen uur en daarna heeft ze twee patiënten. Maar eerst heeft ze koffie nodig.\n\nIn de kantine van het ziekenhuis zit haar collega Sven. Sven is ook verpleegkundige, maar hij heeft meer ervaring dan Bahar. Ze werken al drie jaar samen.\n— Goedemorgen Sven! Heb je een minuutje?\n— Ja hoor, ga zitten. Hoe gaat het?\n— Het gaat wel. Ik heb een drukke week. Jij ook?\n— Ja, we hebben veel patiënten deze week. Het is niet makkelijk.\n\nBahar pakt een kop koffie en gaat naast Sven zitten. Ze heeft iets om over te praten.\n— Sven, ik heb een vraag. Heb jij ervaring met hartpatiënten?\n— Ja, een beetje. Waarom vraag je dat?\n— We hebben een nieuwe patiënt op afdeling drie. Hij heeft problemen met zijn hart. Ik weet niet precies wat ik moet doen.\n— Ah. Heeft hij ook medicijnen nodig?\n— Dat weet ik nog niet. De dokter heeft het nog niet gezegd.\n\nSven knikt. Hij heeft een rustige stem en Bahar voelt zich altijd beter na een gesprek met hem.\n— Maak je niet te veel zorgen, zegt Sven. Jij hebt ook al veel kennis. Vertrouw jezelf maar.\n— Dank je wel. Ik heb soms twijfels.\n— Dat heeft iedereen. Ik ook.\n\nNa de koffie heeft Bahar een half uur voor de vergadering. Ze belt haar man Bram.\n— Hoi Bram, heb je een momentje?\n— Ja, ik ben thuis. Wat is er?\n— Ik heb vanavond een late dienst. Ik ben pas om tien uur thuis.\n— Oké, dat is geen probleem. Ik kook vanavond.\n— Super! Heb je de boodschappen al gedaan?\n— Nee, nog niet. Ik ga vanmiddag naar de supermarkt. Wat wil je eten?\n— Iets lichts graag. Ik heb na het werk geen energie voor een groot eten.\n— Ik maak pasta. Is dat goed?\n— Ja, heerlijk. Je hebt het beste recept!\n\nBram lacht.\n— Ik heb ook goed nieuws trouwens. Ik heb een nieuwe opdracht gekregen.\n— Echt? Wat voor opdracht?\n— Een appartementencomplex in Utrecht. Het is een groot project. We hebben al drie maanden vergaderingen over gehad.\n— Bram, dat is geweldig! Ik ben zo trots op je!\n— Dank je. Jij hebt ook hard gewerkt dit jaar. We zijn een goed team.\n\nBahar glimlacht. Ze houdt van Bram. Hij is altijd positief en heeft een oplossing voor elk probleem.\n\nIn de vergadering heeft Bahar geen concentratie. Ze denkt aan Bram en zijn nieuwe project. Ze denkt ook aan de nieuwe patiënt op afdeling drie.\n\nNa de vergadering loopt ze snel naar de afdeling. De patiënt heet meneer De Vries. Hij is zeventig jaar oud en heeft al twee weken pijn in zijn borst. Hij heeft ook weinig energie.\n— Goedemorgen meneer De Vries, zegt Bahar vriendelijk. Ik ben Bahar, uw verpleegkundige. Hoe voelt u zich?\n— Niet zo goed, zegt de man zacht. Ik heb nog steeds pijn.\n— Dat begrijp ik. Heeft u ook slaapproblemen?\n— Ja, ik slaap slecht. Ik maak me veel zorgen.\n\nBahar schrijft alles op. Ze heeft veel vragen, maar ze heeft ook geduld. Ze weet: een goede verpleegkundige heeft tijd voor haar patiënten.\n\nAan het einde van haar dienst belt ze Sven.\n— Sven, heb je nog even tijd? Ik wil graag over meneer De Vries praten.\n— Tuurlijk. Ik heb nu een kwartier. Kom maar naar de kantine.",
+    "highlights": {
+      "verbs": [
+        "heeft",
+        "hebben",
+        "heb",
+        "pakt",
+        "zit",
+        "zitten",
+        "belt",
+        "kookt",
+        "gaat",
+        "wil",
+        "is",
+        "maakt",
+        "houdt",
+        "werkt",
+        "loopt",
+        "voelt",
+        "schrijft",
+        "weet"
+      ],
+      "conjunctions": [
+        "maar",
+        "en",
+        "want",
+        "of",
+        "dat",
+        "ook",
+        "al"
+      ],
+      "scheidbaar": [],
+      "tussenwoorden": [
+        "ook",
+        "al",
+        "nog",
+        "pas",
+        "graag",
+        "even",
+        "soms"
+      ]
+    },
+    "woordenschat": {
+      "vergadering": "toplantı",
+      "patiënt": "hasta",
+      "kantine": "kantin",
+      "ervaring": "deneyim, tecrübe",
+      "hartpatiënt": "kalp hastası",
+      "afdeling": "bölüm, servis",
+      "medicijnen": "ilaçlar",
+      "twijfel": "şüphe, tereddüt",
+      "dienst": "nöbet, vardiya",
+      "boodschappen doen": "alışveriş yapmak",
+      "energie": "enerji",
+      "recept": "tarif (yemek); reçete (tıp)",
+      "opdracht": "görev, proje",
+      "appartementencomplex": "apartman kompleksi",
+      "trots": "gurur, gururlu",
+      "oplossing": "çözüm",
+      "concentratie": "konsantrasyon",
+      "pijn": "ağrı",
+      "borst": "göğüs",
+      "geduld": "sabır",
+      "minuutje": "bir dakika (küçültme)",
+      "rustig": "sakin",
+      "kennis": "bilgi",
+      "zorg/zorgen": "endişe",
+      "kwartier": "çeyrek saat"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "Bahar ___ een drukke dag.",
+          "antwoord": "heeft",
+          "hint": "hebben"
+        },
+        {
+          "zin": "Sven ___ meer ervaring dan Bahar.",
+          "antwoord": "heeft",
+          "hint": "hebben"
+        },
+        {
+          "zin": "Ik ___ geen energie na het werk.",
+          "antwoord": "heb",
+          "hint": "hebben"
+        },
+        {
+          "zin": "We ___ veel patiënten deze week.",
+          "antwoord": "hebben",
+          "hint": "hebben"
+        },
+        {
+          "zin": "Bram ___ een nieuwe opdracht gekregen.",
+          "antwoord": "heeft",
+          "hint": "hebben"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "een",
+            "Bahar",
+            "heeft",
+            "drukke",
+            "week"
+          ],
+          "antwoord": "Bahar heeft een drukke week.",
+          "tr": "Bahar'nın yoğun bir haftası var."
+        },
+        {
+          "woorden": [
+            "pijn",
+            "hij",
+            "heeft",
+            "zijn",
+            "in",
+            "borst"
+          ],
+          "antwoord": "Hij heeft pijn in zijn borst.",
+          "tr": "Göğsünde ağrısı var."
+        },
+        {
+          "woorden": [
+            "je",
+            "heb",
+            "een",
+            "momentje",
+            "?"
+          ],
+          "antwoord": "Heb je een momentje?",
+          "tr": "Bir dakikan var mı?"
+        },
+        {
+          "woorden": [
+            "Bram",
+            "pasta",
+            "maakt",
+            "vanavond"
+          ],
+          "antwoord": "Bram maakt vanavond pasta.",
+          "tr": "Bram bu akşam makarna yapıyor."
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "Heb je een minuutje?",
+          "tr": "Bir dakikan var mı?"
+        },
+        {
+          "nl": "We hebben veel patiënten.",
+          "tr": "Çok sayıda hastamız var."
+        },
+        {
+          "nl": "Ik heb geen energie.",
+          "tr": "Enerjim yok."
+        },
+        {
+          "nl": "Hij heeft pijn in zijn borst.",
+          "tr": "Göğsünde ağrısı var."
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Toplantım var.",
+          "nl": "Ik heb een vergadering."
+        },
+        {
+          "tr": "Deneyimin var mı?",
+          "nl": "Heb je ervaring?"
+        },
+        {
+          "tr": "Bram'ın yeni bir projesi var.",
+          "nl": "Bram heeft een nieuw project."
+        },
+        {
+          "tr": "Sabrımız var.",
+          "nl": "We hebben geduld."
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Bahar neden Sven ile konuşmak istiyor?",
+          "opties": [
+            "yeni bir komşu hakkında",
+            "kalp hastası hakkında",
+            "Bram'ın projesi hakkında",
+            "tatil planları hakkında"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Bram bu akşam ne yapıyor?",
+          "opties": [
+            "Bahar'yı hastaneden alıyor",
+            "makarna pişiriyor",
+            "alışveriş yapıyor",
+            "toplantıya gidiyor"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Bay De Vries ne kadar süredir göğüs ağrısı yaşıyor?",
+          "opties": [
+            "bir hafta",
+            "iki hafta",
+            "bir ay",
+            "üç gün"
+          ],
+          "antwoord": 1
+        }
+      ]
+    }
+  },
+  {
+    "lesId": "les_3",
+    "thema": 1,
+    "themaTitel": "Eerste Stappen",
+    "hoofdstuk": 3,
+    "hoofdstukNummer": "1.3",
+    "verhaalTitel": "Kun jij mij helpen?",
+    "verhaal": "Het is donderdagmiddag en Bahar heeft een vrije middag. Ze wil haar appartement opruimen, maar er is een probleem. De wasmachine is kapot. Ze kan het zelf niet repareren.\n\nBahar klopt op de deur van Ali. Ali is thuis, want het restaurant is op donderdag gesloten.\n— Ali, kun jij mij helpen? Mijn wasmachine is kapot.\n— Natuurlijk! Wat is het probleem?\n— Ik weet het niet precies. Hij maakt een raar geluid en de was wordt niet goed schoon.\n— Laat me even kijken.\n\nAli loopt mee naar de keuken. Hij knielt voor de wasmachine en kijkt erin. Na een paar minuten staat hij op.\n— Ah, ik zie het probleem. Het filter is verstopt. Dat kan ik gemakkelijk repareren. Heb je een lege emmer?\n— Ja, ik heb er een in de badkamer.\n\nBahar pakt de emmer. Ali laat het water uit de machine lopen en reinigt het filter. Hij kan goed met zijn handen werken.\n— Waar heb je dit geleerd? vraagt Bahar.\n— Mijn vader heeft het mij geleerd. Hij kon alles repareren. Auto, machine, elektriciteit. Echt alles.\n— Wat knap! Ik kan dat soort dingen helemaal niet.\n— Jij kunt andere dingen. Jij kunt mensen helpen als ze ziek zijn. Dat kan ik niet.\n\nBahar lacht. Ze vult thee in voor hen beiden. Ali vertelt over zijn vader in Marokko.\n— Mijn vader is al oud nu. Hij kan niet meer zoveel werken. Maar vroeger kon hij de hele dag werken zonder moe te worden.\n— Mis je hem?\n— Ja, heel erg. Ik bel hem elke week. Maar bellen is niet hetzelfde als samen zijn.\n\nTijdens de thee klopt er iemand op de deur. Het is Yasmin, Ali's dochter. Ze komt van school.\n— Baba! Ben je hier?\n— Ja schat, kom binnen.\n\nYasmin loopt de keuken in. Ze ziet Bahar en zegt beleegd: Goedemiddag.\n— Goedemiddag Yasmin! Hoe was school?\n— Leuk. We kunnen nu lezen in het Nederlands. En ik kan al een beetje schrijven.\n— Wauw, dat is geweldig! Kun je ook tekenen op school?\n— Ja! En de juf zegt dat ik heel goed kan tekenen.\n\nYasmin haalt een tekening uit haar tas. Het is een portret van haar vader.\n— Ik heb papa getekend, zegt ze trots.\n— Dat is prachtig! zegt Bahar. Jij kunt echt goed tekenen.\n\nAli kijkt naar zijn dochter met liefde in zijn ogen. Bahar ziet dat en voelt iets warms in haar hart.\n\nNa de thee vraagt Ali:\n— Bahar, kun jij Yasmin een keer helpen met haar Nederlands? Ze gaat goed, maar ze heeft soms moeite met de grammatica.\n— Ja hoor, dat kan ik zeker doen. Ik ben niet zoveel thuis, maar op mijn vrije dagen kan ik haar helpen.\n— Dat zou heel fijn zijn.\n\nBram komt thuis om vijf uur. Hij ziet Ali in de keuken en groet hem vriendelijk.\n— Hoi Ali! Alles goed?\n— Ja, ik heb de wasmachine gerepareerd.\n— Oh super! Bahar, je hebt al een goede buurman!\n\nLater die avond vraagt Bram aan Bahar:\n— Kunnen we Ali en Yasmin uitnodigen voor het eten? Volgende week?\n— Wat een goed idee! Ik zal het hem vragen.\n— Ik kook dan iets speciaals. Ik kan een goede stamppot maken.\n— Ali is kok. Ik hoop dat stamppot goed genoeg is!\n— Dan kan ik ook een dessert maken. Ik kan tenminste chocolademousse.\n\nBahar lacht. Ze houdt van Brams enthousiasme.",
+    "highlights": {
+      "verbs": [
+        "kan",
+        "kunnen",
+        "kun",
+        "kon",
+        "klopt",
+        "loopt",
+        "knielt",
+        "staat",
+        "pakt",
+        "laat",
+        "reinigt",
+        "vult",
+        "vertelt",
+        "mis",
+        "bel",
+        "haalt",
+        "ziet",
+        "voelt",
+        "vraagt",
+        "groet",
+        "houdt"
+      ],
+      "conjunctions": [
+        "maar",
+        "want",
+        "en",
+        "dat",
+        "als",
+        "of",
+        "zonder"
+      ],
+      "scheidbaar": [
+        "opruimen",
+        "uitnodigen"
+      ],
+      "tussenwoorden": [
+        "even",
+        "al",
+        "heel",
+        "echt",
+        "zeker",
+        "dan",
+        "soms"
+      ]
+    },
+    "woordenschat": {
+      "wasmachine": "çamaşır makinesi",
+      "kapot": "bozuk, kırık",
+      "repareren": "tamir etmek",
+      "raar geluid": "garip ses",
+      "was": "çamaşır",
+      "filter": "filtre",
+      "verstopt": "tıkalı",
+      "emmer": "kova",
+      "badkamer": "banyo",
+      "elektriciteit": "elektrik",
+      "knap": "zeki; yakışıklı/güzel; beceriklice",
+      "moe": "yorgun",
+      "missen": "özlemek",
+      "beleefd": "kibar, nazik",
+      "portret": "portre",
+      "prachtig": "muhteşem, harika",
+      "liefde": "sevgi, aşk",
+      "grammatica": "dilbilgisi",
+      "vrije dag": "serbest gün, izin günü",
+      "uitnodigen": "davet etmek",
+      "stamppot": "haşlanmış patates ve sebze karışımı (Hollanda yemeği)",
+      "dessert": "tatlı",
+      "chocolademousse": "çikolatalı mus",
+      "enthousiasme": "coşku, heves",
+      "tenminste": "en azından"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "Bahar ___ de wasmachine niet zelf repareren.",
+          "antwoord": "kan",
+          "hint": "kunnen"
+        },
+        {
+          "zin": "___ jij mij helpen?",
+          "antwoord": "Kun",
+          "hint": "kunnen"
+        },
+        {
+          "zin": "Ali ___ goed met zijn handen werken.",
+          "antwoord": "kan",
+          "hint": "kunnen"
+        },
+        {
+          "zin": "Yasmin ___ al een beetje schrijven.",
+          "antwoord": "kan",
+          "hint": "kunnen"
+        },
+        {
+          "zin": "Ik ___ zeker Yasmin helpen.",
+          "antwoord": "kan",
+          "hint": "kunnen"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "repareren",
+            "jij",
+            "kun",
+            "de",
+            "wasmachine",
+            "?"
+          ],
+          "antwoord": "Kun jij de wasmachine repareren?",
+          "tr": "Çamaşır makinesini tamir edebilir misin?"
+        },
+        {
+          "woorden": [
+            "niet",
+            "tekenen",
+            "ik",
+            "kan",
+            "goed"
+          ],
+          "antwoord": "Ik kan niet goed tekenen.",
+          "tr": "İyi çizemiyorum."
+        },
+        {
+          "woorden": [
+            "helpen",
+            "Yasmin",
+            "Bahar",
+            "kan",
+            "met",
+            "haar",
+            "Nederlands"
+          ],
+          "antwoord": "Bahar kan Yasmin helpen met haar Nederlands.",
+          "tr": "Bahar, Yasmin'e Hollandacasıyla yardım edebilir."
+        },
+        {
+          "woorden": [
+            "maken",
+            "Bram",
+            "een",
+            "kan",
+            "stamppot",
+            "goede"
+          ],
+          "antwoord": "Bram kan een goede stamppot maken.",
+          "tr": "Bram iyi bir stamppot yapabilir."
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "Kun jij mij helpen?",
+          "tr": "Bana yardım edebilir misin?"
+        },
+        {
+          "nl": "Ik kan het niet repareren.",
+          "tr": "Onu tamir edemiyorum."
+        },
+        {
+          "nl": "Ze kan heel goed tekenen.",
+          "tr": "Çok iyi çizebiliyor."
+        },
+        {
+          "nl": "Kunnen we hem uitnodigen?",
+          "tr": "Onu davet edebilir miyiz?"
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Hollandaca konuşabiliyorum.",
+          "nl": "Ik kan Nederlands spreken."
+        },
+        {
+          "tr": "Bunu yapabilir misin?",
+          "nl": "Kun jij dit doen?"
+        },
+        {
+          "tr": "O çok iyi pişirebiliyor.",
+          "nl": "Hij kan heel goed koken."
+        },
+        {
+          "tr": "Arabam bozuk, tamir edemiyorum.",
+          "nl": "Mijn auto is kapot, ik kan het niet repareren."
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Bahar neden Ali'den yardım istiyor?",
+          "opties": [
+            "arabası bozulduğu için",
+            "çamaşır makinesi bozulduğu için",
+            "elektriği bozulduğu için",
+            "kapısı kilitlendiği için"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Yasmin'in yeteneği nedir?",
+          "opties": [
+            "pişirmek",
+            "çizmek ve resim yapmak",
+            "dans etmek",
+            "şarkı söylemek"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Bram Ali ve Yasmin'i ne için davet etmek istiyor?",
+          "opties": [
+            "çay için",
+            "bir film izlemek için",
+            "yemek yemek için",
+            "bir toplantı için"
+          ],
+          "antwoord": 2
+        }
+      ]
+    }
+  },
+  {
+    "lesId": "les_4",
+    "thema": 1,
+    "themaTitel": "Eerste Stappen",
+    "hoofdstuk": 4,
+    "hoofdstukNummer": "1.4",
+    "verhaalTitel": "Wat kan ik voor je doen?",
+    "verhaal": "Het is vrijdagochtend in het ziekenhuis. Bahar loopt door de gang en denkt aan het weekend. Morgen komen Ali en Yasmin eten. Ze is blij maar ook een beetje nerveus. Ze wil een goede indruk maken.\n\nOp de afdeling staat een jonge vrouw bij de receptie. Ze ziet er onzeker uit. Bahar loopt naar haar toe.\n— Goedemorgen. Kan ik u ergens mee helpen?\n— Ja, ik hoop het. Ik ben op zoek naar afdeling vijf. Mijn moeder ligt daar.\n— Afdeling vijf is op de derde verdieping. Kunt u de lift nemen?\n— Ja, dat kan. Maar... kan ik ook even bellen van hier? Mijn telefoon is leeg.\n— Natuurlijk. Kom maar mee, we hebben een telefoon bij de balie.\n\nBahar helpt de vrouw. Ze kan haar telefoon opladen bij de balie. De vrouw is dankbaar.\n— Dank u wel. U kunt zo goed helpen.\n— Graag gedaan, zegt Bahar. Dat is mijn werk.\n\nSven loopt voorbij en ziet Bahar.\n— Bahar, kun jij vanmiddag overwerken? We hebben een verpleegkundige te weinig.\n— Hoelang overwerken?\n— Tot zes uur. Is dat mogelijk?\n— Ja, dat kan. Ik bel Bram even om het te zeggen.\n\nBahar belt Bram.\n— Bram, ik kan vanavond pas om zeven uur thuis zijn. Ik moet overwerken.\n— Oké. Kan ik iets voor je doen? Zal ik boodschappen halen voor morgen?\n— Dat zou fijn zijn. We hebben groente nodig, en ook room en chocolade voor het dessert.\n— Chocolade kan ik regelen. Maar welke groente wil je?\n— Courgette en paprika. En ook knoflook.\n— Begrepen. Ik ga vanmiddag naar de supermarkt.\n\nNa het telefoontje voelt Bahar zich beter. Bram kan altijd helpen. Hij is een betrouwbare partner.\n\nOm twee uur heeft Bahar een pauze. Ze gaat naar de kantine en ziet Sven zitten met een nieuwe collega. De man heeft rood haar en een vriendelijke lach.\n— Bahar, dit is Joost. Hij begint vandaag. Hij kan jou helpen op afdeling drie.\n— Hoi Joost, welkom! Wat kan jij goed?\n— Ik heb twee jaar gewerkt op de intensive care. Ik kan goed omgaan met stressvolle situaties.\n— Dat is handig. Wij hebben dat ook hier soms nodig.\n\nJoost lacht.\n— En ik kan ook goed koffiezetten, voegt hij toe.\n— Dat is misschien het belangrijkste, zegt Sven lachend.\n\nBahar is blij met de nieuwe collega. Ze vertelt hem over de afdeling en de patiënten.\n— Op afdeling drie hebben we nu zeven patiënten. Een van hen heeft hartproblemen. Hij heet meneer De Vries. Hij kan nog niet veel bewegen.\n— Kan hij zelf eten?\n— Ja, dat gaat wel. Maar hij kan niet goed slapen. Dat is een probleem.\n— Ik ken dat. Op de intensive care hadden we dat ook vaak.\n\nAan het einde van de middag, vlak voor ze naar huis gaat, komt meneer De Vries haar kamer in.\n— Mevrouw Bahar, kan ik u iets vragen?\n— Natuurlijk, meneer De Vries. Wat wil u weten?\n— Ik kan vrijdag naar huis. De dokter heeft het gezegd. Maar ik woon alleen. Kan iemand mij helpen met de eerste dagen?\n— We kunnen een thuiszorgmedewerker regelen. Die kan u elke dag bezoeken.\n— Dat zou fijn zijn. Ik wil niet tot last zijn voor mijn kinderen.\n— Dat begrijp ik. We regelen het voor u.\n\nBahar schrijft alles op. Ze is moe maar tevreden. Vandaag heeft ze veel mensen kunnen helpen.",
+    "highlights": {
+      "verbs": [
+        "kan",
+        "kunnen",
+        "kun",
+        "loopt",
+        "denkt",
+        "staat",
+        "ziet",
+        "helpt",
+        "neem",
+        "laadt",
+        "belt",
+        "voelt",
+        "gaat",
+        "begint",
+        "voegt",
+        "vertelt",
+        "bewegen",
+        "regelen",
+        "bezoeken"
+      ],
+      "conjunctions": [
+        "maar",
+        "en",
+        "want",
+        "dat",
+        "als",
+        "of",
+        "ook"
+      ],
+      "scheidbaar": [
+        "opladen",
+        "overwerken",
+        "voorbijloopt"
+      ],
+      "tussenwoorden": [
+        "even",
+        "ook",
+        "nog",
+        "pas",
+        "altijd",
+        "goed",
+        "vlak"
+      ]
+    },
+    "woordenschat": {
+      "gang": "koridor",
+      "indruk": "izlenim",
+      "nerveus": "gergin, sinirli",
+      "onzeker": "güvensiz, kararsız",
+      "receptie": "resepsiyon",
+      "verdieping": "kat (bina)",
+      "lift": "asansör",
+      "balie": "tezgah, gişe",
+      "opladen": "şarj etmek",
+      "dankbaar": "minnettar",
+      "overwerken": "fazla mesai yapmak",
+      "betrouwbaar": "güvenilir",
+      "intensive care": "yoğun bakım",
+      "stressvolle situatie": "stresli durum",
+      "handig": "kullanışlı; becerikli",
+      "koffiezetten": "kahve yapmak",
+      "bewegen": "hareket etmek",
+      "thuiszorgmedewerker": "evde bakım çalışanı",
+      "bezoeken": "ziyaret etmek",
+      "tot last zijn": "yük olmak",
+      "tevreden": "memnun",
+      "regelen": "ayarlamak, düzenlemek",
+      "pauze": "mola",
+      "begrepen": "anlaşıldı",
+      "courgette": "kabak"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "___ ik u ergens mee helpen?",
+          "antwoord": "Kan",
+          "hint": "kunnen"
+        },
+        {
+          "zin": "Hij ___ goed omgaan met stress.",
+          "antwoord": "kan",
+          "hint": "kunnen"
+        },
+        {
+          "zin": "Meneer De Vries ___ niet goed slapen.",
+          "antwoord": "kan",
+          "hint": "kunnen"
+        },
+        {
+          "zin": "___ u de lift nemen?",
+          "antwoord": "Kunt",
+          "hint": "kunnen"
+        },
+        {
+          "zin": "We ___ een thuiszorgmedewerker regelen.",
+          "antwoord": "kunnen",
+          "hint": "kunnen"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "voor",
+            "wat",
+            "ik",
+            "je",
+            "doen",
+            "kan",
+            "?"
+          ],
+          "antwoord": "Wat kan ik voor je doen?",
+          "tr": "Senin için ne yapabilirim?"
+        },
+        {
+          "woorden": [
+            "goed",
+            "situaties",
+            "hij",
+            "stressvolle",
+            "kan",
+            "omgaan",
+            "met"
+          ],
+          "antwoord": "Hij kan goed omgaan met stressvolle situaties.",
+          "tr": "Stresli durumlarla iyi başa çıkabiliyor."
+        },
+        {
+          "woorden": [
+            "Bram",
+            "helpen",
+            "altijd",
+            "kan"
+          ],
+          "antwoord": "Bram kan altijd helpen.",
+          "tr": "Bram her zaman yardım edebilir."
+        },
+        {
+          "woorden": [
+            "veel",
+            "mensen",
+            "vandaag",
+            "zij",
+            "helpen",
+            "heeft",
+            "kunnen"
+          ],
+          "antwoord": "Zij heeft vandaag veel mensen kunnen helpen.",
+          "tr": "Bugün pek çok insana yardım edebildi."
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "Wat kan ik voor je doen?",
+          "tr": "Senin için ne yapabilirim?"
+        },
+        {
+          "nl": "Kan ik u ergens mee helpen?",
+          "tr": "Size bir konuda yardımcı olabilir miyim?"
+        },
+        {
+          "nl": "Hij kan niet goed slapen.",
+          "tr": "İyi uyuyamıyor."
+        },
+        {
+          "nl": "We kunnen een thuiszorgmedewerker regelen.",
+          "tr": "Bir evde bakım çalışanı ayarlayabiliriz."
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Sana yardım edebilir miyim?",
+          "nl": "Kan ik jou helpen?"
+        },
+        {
+          "tr": "Fazla mesai yapabilir misin?",
+          "nl": "Kun jij overwerken?"
+        },
+        {
+          "tr": "O iyi pişirebiliyor.",
+          "nl": "Hij kan goed koken."
+        },
+        {
+          "tr": "Bu sorunu çözebiliriz.",
+          "nl": "We kunnen dit probleem oplossen."
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Bahar neden fazla mesai yapıyor?",
+          "opties": [
+            "daha fazla para kazanmak için",
+            "bir hemşire eksik olduğu için",
+            "yeni bir hastayı görmek için",
+            "raporunu bitirmek için"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Joost'un önceki deneyimi nedir?",
+          "opties": [
+            "ameliyathanede",
+            "yoğun bakımda",
+            "acil serviste",
+            "çocuk servisinde"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Bay De Vries evine gidince ne konusunda endişeli?",
+          "opties": [
+            "ilaçları için",
+            "çocuklarına yük olmak için",
+            "yalnız yaşadığı için",
+            "hem b hem c"
+          ],
+          "antwoord": 3
+        }
+      ]
+    }
+  },
+  {
+    "lesId": "les_6",
+    "thema": 1,
+    "themaTitel": "Eerste Stappen",
+    "hoofdstuk": 5,
+    "hoofdstukNummer": "1.5",
+    "verhaalTitel": "We gaan naar Rotterdam",
+    "verhaal": "Het is zaterdagochtend. Bahar en Bram staan vroeg op. Ze gaan vandaag naar Rotterdam voor een dag uit. Bram heeft een verrassing gepland.\n\n— Waar gaan we precies heen? vraagt Bahar terwijl ze koffie zet.\n— Eerst gaan we naar het Markthal, zegt Bram. En daarna gaan we naar de Euromast. Je kunt de hele stad zien van boven.\n— Klinkt geweldig! Gaan we met de trein?\n— Ja, de trein vertrekt om tien uur. We gaan lopen naar het station. Het is maar twintig minuten.\n\nBahar is enthousiast. Ze houdt van reizen, ook als het maar een dagje weg is. Ze pakt haar jas en haar rugzak.\n\nOp het station ziet Bahar Ali staan met Yasmin.\n— Ali! Waar ga jij heen?\n— We gaan ook naar Rotterdam! Yasmin wil het Maritiem Museum zien. Ze is gek op schepen.\n— Wat een toeval! Gaan we samen?\n— Graag! Yasmin, vind jij het goed?\n— Ja! roept Yasmin. Ik ga met Bahar!\n\nIn de trein praten de volwassenen, terwijl Yasmin uit het raam kijkt.\n— Ali, wanneer ga jij naar Marokko? vraagt Bram.\n— Volgende zomer. Yasmin gaat mee. Ze gaat haar grootouders zien.\n— Is dat de eerste keer voor haar?\n— Nee, maar ze was heel klein de vorige keer. Ze herinnert zich er niets van.\n\nBahar kijkt naar Yasmin. Het meisje heeft haar neus tegen het raam gedrukt en telt de huizen.\n— Yasmin, ben jij blij dat je naar Marokko gaat?\n— Ja! Opa en oma wonen daar. En er zijn kamelen!\n— Kamelen? lacht Bahar.\n— Papa zegt dat we in de woestijn gaan rijden op een kameel.\n— Ali, is dat echt zo?\n— Misschien, zegt Ali glimlachend.\n\nIn Rotterdam gaan ze eerst naar het Markthal. Het is een enorm gebouw vol eten en kleuren. Yasmin kijkt haar ogen uit.\n— Baba, kijk! Ze hebben Marokkaanse koekjes!\n— Ja, maar we gaan eerst lunchen. Daarna kijken we verder.\n\nZe eten een lekkere lunch: broodjes met zalm en soep. Na de lunch gaan Bahar en Bram naar de Euromast en Ali en Yasmin naar het Maritiem Museum.\n— We ontmoeten elkaar om vier uur bij de ingang van het station, zegt Bram.\n— Goed plan, zegt Ali.\n\nBoven op de Euromast is het winderig maar prachtig. Bahar pakt Brams hand.\n— Ik ben zo blij dat we dit doen, zegt ze.\n— Ik ook. We moeten vaker uit, zegt Bram.\n— Wanneer gaan we weer weg? Volgend weekend?\n— Dat is te snel. Maar volgende maand kunnen we misschien naar Den Haag.\n— Of naar Utrecht? Om jouw nieuwe projectlocatie te zien?\n— Goed idee! Ik ga het plannen.\n\nOm vier uur treffen ze Ali en Yasmin bij het station. Yasmin heeft een boek over schepen gekocht.\n— Heb jij het leuk gehad? vraagt Bahar.\n— Ja! We gaan volgend jaar ook naar Rotterdam, zegt Yasmin stellig.\n— Dan ga ik mee, zegt Bahar lachend.\n\nIn de trein terug slaapt Yasmin met haar hoofd op Ali's schouder. De vier mensen zijn stil en tevreden.\n\nThuis schrijft Bahar aan Fatima:\n— Fatima, we gaan volgend jaar naar Istanbul! Ik wil je zo graag zien. En Bram wil de stad zien. Is dat goed?\n— JA! antwoordt Fatima. Ik ga alles plannen! Jullie gaan Istanbul geweldig vinden!",
+    "highlights": {
+      "verbs": [
+        "gaan",
+        "vertrekt",
+        "pakt",
+        "ziet",
+        "kijkt",
+        "herinnert",
+        "eten",
+        "ontmoeten",
+        "treffen",
+        "slaapt",
+        "schrijft",
+        "plannen"
+      ],
+      "conjunctions": [
+        "maar",
+        "en",
+        "want",
+        "dat",
+        "terwijl",
+        "als",
+        "of",
+        "ook"
+      ],
+      "scheidbaar": [
+        "meegaan",
+        "uitkijken"
+      ],
+      "tussenwoorden": [
+        "ook",
+        "eerst",
+        "daarna",
+        "vaker",
+        "stellig",
+        "precies"
+      ]
+    },
+    "woordenschat": {
+      "verrassing": "sürpriz",
+      "Markthal": "Rotterdam'daki kapalı pazar",
+      "Euromast": "Rotterdam'daki gözlem kulesi",
+      "trein": "tren",
+      "station": "istasyon, tren garı",
+      "rugzak": "sırt çantası",
+      "Maritiem Museum": "Denizcilik Müzesi",
+      "toeval": "tesadüf",
+      "volwassene": "yetişkin",
+      "grootouders": "büyükanne ve büyükbaba",
+      "herinneren": "hatırlamak",
+      "woestijn": "çöl",
+      "kameel": "deve",
+      "enorm": "devasa, çok büyük",
+      "zalm": "somon",
+      "ingang": "giriş",
+      "winderig": "rüzgarlı",
+      "projectlocatie": "proje alanı",
+      "schouder": "omuz",
+      "stellig": "kesinlikle, kararlı şekilde",
+      "dagje weg": "bir günlük gezi",
+      "klinkt": "kulağa geliyor",
+      "tellen": "saymak"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "We ___ vandaag naar Rotterdam.",
+          "antwoord": "gaan",
+          "hint": "gaan"
+        },
+        {
+          "zin": "De trein ___ om tien uur.",
+          "antwoord": "vertrekt",
+          "hint": "vertrekken"
+        },
+        {
+          "zin": "Yasmin ___ haar grootouders zien.",
+          "antwoord": "gaat",
+          "hint": "gaan"
+        },
+        {
+          "zin": "We ___ volgend jaar naar Istanbul.",
+          "antwoord": "gaan",
+          "hint": "gaan"
+        },
+        {
+          "zin": "Bram ___ het plannen.",
+          "antwoord": "gaat",
+          "hint": "gaan"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "naar",
+            "we",
+            "Rotterdam",
+            "gaan",
+            "vandaag"
+          ],
+          "antwoord": "We gaan vandaag naar Rotterdam.",
+          "tr": "Bugün Rotterdam'a gidiyoruz."
+        },
+        {
+          "woorden": [
+            "Yasmin",
+            "gaan",
+            "grootouders",
+            "haar",
+            "zien",
+            "gaat"
+          ],
+          "antwoord": "Yasmin gaat haar grootouders zien.",
+          "tr": "Yasmin büyükanne ve büyükbabasını görecek."
+        },
+        {
+          "woorden": [
+            "plannen",
+            "Bram",
+            "alles",
+            "gaat"
+          ],
+          "antwoord": "Bram gaat alles plannen.",
+          "tr": "Bram her şeyi planlayacak."
+        },
+        {
+          "woorden": [
+            "vaker",
+            "moeten",
+            "we",
+            "uit"
+          ],
+          "antwoord": "We moeten vaker uit.",
+          "tr": "Daha sık dışarı çıkmalıyız."
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "We gaan naar Rotterdam.",
+          "tr": "Rotterdam'a gidiyoruz."
+        },
+        {
+          "nl": "De trein vertrekt om tien uur.",
+          "tr": "Tren saat onda kalkıyor."
+        },
+        {
+          "nl": "Bram gaat alles plannen.",
+          "tr": "Bram her şeyi planlayacak."
+        },
+        {
+          "nl": "Yasmin gaat haar grootouders zien.",
+          "tr": "Yasmin büyükanne ve büyükbabasını görecek."
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Yarın İstanbul'a gidiyoruz.",
+          "nl": "We gaan morgen naar Istanbul."
+        },
+        {
+          "tr": "Trene biniyoruz.",
+          "nl": "We gaan met de trein."
+        },
+        {
+          "tr": "Her şeyi ben planlayacağım.",
+          "nl": "Ik ga alles plannen."
+        },
+        {
+          "tr": "Büyükbabamı göreceğim.",
+          "nl": "Ik ga mijn grootvader zien."
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Bram Rotterdam'da nereye gitmek istiyor?",
+          "opties": [
+            "Denizcilik Müzesi'ne",
+            "Euromast'a",
+            "bir parka",
+            "bir konsere"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Yasmin Rotterdam'da ne satın aldı?",
+          "opties": [
+            "bir oyuncak",
+            "Marokko kurabiyesi",
+            "gemiler hakkında bir kitap",
+            "bir resim"
+          ],
+          "antwoord": 2
+        },
+        {
+          "vraagTr": "Bahar Fatima'ya ne yazıyor?",
+          "opties": [
+            "Rotterdam hakkında",
+            "gelecek yıl Istanbul'a gidecekleri hakkında",
+            "Bram'ın projesi hakkında",
+            "yeni komşular hakkında"
+          ],
+          "antwoord": 1
+        }
+      ]
+    }
+  },
+  {
+    "lesId": "les_7",
+    "thema": 1,
+    "themaTitel": "Eerste Stappen",
+    "hoofdstuk": 6,
+    "hoofdstukNummer": "1.6",
+    "verhaalTitel": "Een drukke week",
+    "verhaal": "Het is zondag. Bahar zit aan de keukentafel met een kop thee. Ze denkt aan de week die voorbij is gegaan. Het was een drukke maar ook mooie week.\n\nMaandag was het eerste gesprek met Ali. Ze wil graag een goede buurvrouw zijn. Ze denkt: ik ga hem volgende week uitnodigen voor koffie.\n\nDinsdag en woensdag werkte ze hard in het ziekenhuis. Ze heeft meneer De Vries geholpen en ze heeft Joost leren kennen. Joost kan goed werken onder druk. Ze zijn al vrienden geworden.\n\nDonderdag hielp Ali haar wasmachine repareren. En Yasmin toonde haar prachtige tekening. Bahar denkt: ik wil Yasmin leren tekenen. Of misschien kan Yasmin mij juist leren tekenen!\n\nVrijdag werkte ze over. Het was zwaar, maar ze had het gevoel dat ze echt iets goeds deed. Meneer De Vries kan volgende week naar huis. Dat is het mooiste nieuws van de week.\n\nEn gisteren, zaterdag, was het uitje naar Rotterdam. Wat een mooie dag was dat!\n\nBram komt de keuken in. Hij heeft zijn koffie al en hij ziet er uitgerust uit.\n— Goede morgen, slaapkop! zegt hij lachend.\n— Ha-ha. Ik ben al een uur wakker.\n— Wat doe je?\n— Ik denk. Over de week. Over alles.\n— En? Is het goed?\n— Ja. We hebben een goede buurman. Mijn werk gaat goed. We hebben een mooie dag gehad gisteren. Ik ben gelukkig.\n\nBram gaat naast haar zitten en pakt haar hand.\n— Ik ook. En volgende week begint iets nieuws voor mij. Het project in Utrecht.\n— Ben je zenuwachtig?\n— Een beetje. Het is een groot project. We gaan met een team van vijf mensen werken. Ik wil het goed doen.\n— Jij kunt dat, zegt Bahar vol vertrouwen. Jij werkt altijd hard en jij hebt altijd goede ideeën.\n— Dank je wel. Jij geeft me altijd energie.\n\nNa de thee gaan ze samen boodschappen doen. Ze lopen door de supermarkt en praten over kleine dingen: wat ze deze week gaan eten, of ze Ali en Yasmin binnenkort gaan uitnodigen, en of Bahar binnenkort een rustige week heeft.\n\n— Wanneer heb jij een vrije dag? vraagt Bram.\n— Dinsdag en woensdag. Ik ga dan opruimen en wat lezen. Misschien bel ik Fatima ook.\n— Is alles goed met Fatima?\n— Ja hoor. Ze werkt hard. Ze heeft een nieuwe baan.\n— Wat doet ze nu?\n— Ze werkt in een hotel als receptioniste. Ze wil goed Engels en Duits leren. Ze is heel ambitieus.\n— Net als haar zus, zegt Bram.\n— Nee, ik ben niet ambitieus. Ik wil gewoon mijn werk goed doen.\n— Dat is ook een soort ambitie.\n\nIn de supermarkt zien ze Ali. Hij staat bij de groente met een boodschappenlijstje in zijn hand.\n— Ali! Hoe gaat het?\n— Goed, goed! Ik ben ingrediënten aan het kopen voor vanavond. Ik ga een Marokkaans gerecht maken voor Yasmin.\n— Wat ga je maken?\n— Couscous met groente en kip. Wil jij ook?\n— Oh, dat klinkt heerlijk! Maar we willen je niet storen.\n— Jullie storen niet! Kom om zeven uur. Yasmin wordt heel blij.\n\nBahar kijkt Bram aan. Bram knikt enthousiast.\n— We komen om zeven uur. Zal ik iets meenemen?\n— Neem jij een fles wijn mee. Ik drink geen alcohol, maar voor jullie is het goed.\n— Zeker! Tot vanavond dan.\n\nBahar is blij. Het is zondag en ze gaat al vrienden bezoeken. Ze denkt: dit is een goede plek om te wonen. Dit is een goede buurt.",
+    "highlights": {
+      "verbs": [
+        "zit",
+        "denkt",
+        "werkte",
+        "hielp",
+        "toonde",
+        "wil",
+        "had",
+        "kan",
+        "begint",
+        "gaan",
+        "lopen",
+        "praten",
+        "heeft",
+        "doet",
+        "storen",
+        "kijkt",
+        "knikt",
+        "bezoeken"
+      ],
+      "conjunctions": [
+        "maar",
+        "en",
+        "want",
+        "of",
+        "dat",
+        "ook",
+        "al"
+      ],
+      "scheidbaar": [
+        "uitnodigen",
+        "opruimen",
+        "meenemen",
+        "uitgerust"
+      ],
+      "tussenwoorden": [
+        "graag",
+        "al",
+        "juist",
+        "binnenkort",
+        "gewoon",
+        "goed"
+      ]
+    },
+    "woordenschat": {
+      "uitgerust": "dinlenmiş",
+      "gelukkig": "mutlu",
+      "zenuwachtig": "gergin, sinirli",
+      "vertrouwen": "güven",
+      "binnenkort": "yakında",
+      "vrije dag": "serbest gün",
+      "ambitieus": "hırslı, iddialı",
+      "receptioniste": "resepsiyonist",
+      "soort": "tür, çeşit",
+      "ingrediënten": "malzemeler",
+      "gerecht": "yemek, tabak",
+      "couscous": "kuskus",
+      "storen": "rahatsız etmek",
+      "wijn": "şarap",
+      "alcohol": "alkol",
+      "buurt": "mahalle, semt",
+      "uitje": "küçük gezi",
+      "uitgeput": "bitik, tükenmiş",
+      "zwaar": "ağır; zor",
+      "gewoel": "his, duygu",
+      "wakker": "uyanık",
+      "slaapkop": "uyku hastası (sevecen hitap)"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "Het was een drukke maar ook mooie ___.",
+          "antwoord": "week",
+          "hint": "week"
+        },
+        {
+          "zin": "Jij ___ altijd goede ideeën.",
+          "antwoord": "hebt/heeft",
+          "hint": "hebben"
+        },
+        {
+          "zin": "Ali ___ couscous met groente en kip maken.",
+          "antwoord": "gaat",
+          "hint": "gaan"
+        },
+        {
+          "zin": "___ alles goed met Fatima?",
+          "antwoord": "Is",
+          "hint": "zijn"
+        },
+        {
+          "zin": "We ___ om zeven uur.",
+          "antwoord": "komen",
+          "hint": "komen"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "uitnodigen",
+            "gaan",
+            "we",
+            "Ali",
+            "binnenkort"
+          ],
+          "antwoord": "We gaan Ali binnenkort uitnodigen.",
+          "tr": "Ali'yi yakında davet edeceğiz."
+        },
+        {
+          "woorden": [
+            "gelukkig",
+            "ik",
+            "ben"
+          ],
+          "antwoord": "Ik ben gelukkig.",
+          "tr": "Mutluyum."
+        },
+        {
+          "woorden": [
+            "een",
+            "Fatima",
+            "heeft",
+            "baan",
+            "nieuwe"
+          ],
+          "antwoord": "Fatima heeft een nieuwe baan.",
+          "tr": "Fatima'nın yeni bir işi var."
+        },
+        {
+          "woorden": [
+            "wijn",
+            "een",
+            "fles",
+            "meenemen",
+            "ik",
+            "zal"
+          ],
+          "antwoord": "Ik zal een fles wijn meenemen.",
+          "tr": "Bir şişe şarap getireceğim."
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "Het was een drukke week.",
+          "tr": "Yoğun bir haftaydı."
+        },
+        {
+          "nl": "Ik ben gelukkig.",
+          "tr": "Mutluyum."
+        },
+        {
+          "nl": "We gaan binnenkort Ali uitnodigen.",
+          "tr": "Ali'yi yakında davet edeceğiz."
+        },
+        {
+          "nl": "Ze wil goed Engels leren.",
+          "tr": "İyi İngilizce öğrenmek istiyor."
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Bu hafta çok çalıştım.",
+          "nl": "Ik heb hard gewerkt deze week."
+        },
+        {
+          "tr": "Bram yeni bir projeye başlıyor.",
+          "nl": "Bram begint aan een nieuw project."
+        },
+        {
+          "tr": "Bugün arkadaşları ziyaret ediyoruz.",
+          "nl": "We gaan vandaag vrienden bezoeken."
+        },
+        {
+          "tr": "Bu güzel bir mahalle.",
+          "nl": "Dit is een mooie buurt."
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Bahar'nın haftası hakkında ne düşünüyor?",
+          "opties": [
+            "çok yorucu ve kötüydü",
+            "yoğun ama güzeldi",
+            "sıkıcıydı",
+            "çok rahat geçti"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Fatima'nın yeni işi nedir?",
+          "opties": [
+            "hemşire",
+            "aşçı",
+            "resepsiyonist",
+            "öğretmen"
+          ],
+          "antwoord": 2
+        },
+        {
+          "vraagTr": "Ali bu akşam ne pişirecek?",
+          "opties": [
+            "makarna",
+            "stamppot",
+            "kuskus",
+            "köfte"
+          ],
+          "antwoord": 2
+        }
+      ]
+    }
+  },
+  {
+    "lesId": "les_8",
+    "thema": 1,
+    "themaTitel": "Eerste Stappen",
+    "hoofdstuk": 7,
+    "hoofdstukNummer": "1.7",
+    "verhaalTitel": "Wie ben jij?",
+    "verhaal": "Op maandagochtend komt er een nieuwe stagiaire op de afdeling. Ze heet Lena. Ze is twintig jaar oud en ze studeert verpleegkunde aan de Hogeschool van Amsterdam.\n\nBahar is degene die haar begeleidt. Ze lopen samen door de afdeling.\n— Ik ben Bahar. Ik ben verpleegkundige al zeven jaar. Welkom op afdeling drie.\n— Dank u. Ik ben Lena. Ik ben een beetje nerveus.\n— Dat is normaal. Ik was ook nerveus op mijn eerste dag. Wie ben jij precies? Vertel eens over jezelf.\n— Ik ben student. Ik ben in het tweede jaar van mijn studie. En ik ben ook vrijwilliger bij het Rode Kruis.\n— Dat is indrukwekkend voor iemand van twintig!\n— Dank u. Ik ben heel gemotiveerd. Ik wil later kinderverpleegkundige worden.\n\nBahar glimlacht. Ze was ook ooit zo gemotiveerd en idealistisch. Ze is het nog steeds, maar op een andere manier.\n\nZe lopen naar de patiëntenkamers. Bahar legt alles uit.\n— Dit is kamer 301. De patiënt is meneer De Vries. Hij is zeventig jaar en hij is hartpatiënt. Hij is heel vriendelijk. Ga maar zeggen wie je bent.\n\nLena klopt en gaat naar binnen.\n— Goedemorgen meneer De Vries. Ik ben Lena. Ik ben stagiaire en ik ben vandaag mee op de ronde.\n— Welkom, zegt de man vriendelijk. Jij bent heel jong! Ben jij al lang student?\n— Nee, ik ben in mijn tweede jaar. Maar ik leer snel!\n— Dat is goed. Jij bent de toekomst van de zorg!\n\nNa de ronde zit Bahar met Lena in de kantine. Ze praten over het vak.\n— Wie zijn de andere mensen in jouw klas? vraagt Bahar.\n— We zijn met twintig. De helft is vrouw. We zijn uit heel Nederland. Ik ben uit Den Haag, maar ik woon nu in Amsterdam voor mijn studie.\n— Is dat niet moeilijk, van huis weg?\n— Soms. Maar ik ben blij dat ik hier ben. Amsterdam is een geweldige stad. En ik ben hier met mijn vriendin. We zijn kamergenoten.\n— Wie is jouw vriendin?\n— Ze heet Rosa. Ze is ook student, maar zij is economiestudent. We zijn al tien jaar vriendinnen. We zijn samen opgegroeid in Den Haag.\n\nBahar luistert met plezier. Ze herinnert zich haar eigen studietijd. Ze was ook ver van huis. Ze was in Amsterdam gekomen vanuit een klein stadje in Turkije.\n\n— Bahar, mag ik vragen: bent u uit Turkije?\n— Ja, ik ben geboren in Istanbul. Maar ik woon al vijftien jaar in Nederland. Ik ben ook Nederlandse nu, officieel.\n— Dat is interessant. Bent u thuis ook Turks?\n— Ja, ik spreek thuis Turks met... nou ja, ik bel mijn familie in Istanbul. Mijn man is Nederlands. Thuis praten we Nederlands en Engels door elkaar.\n— Uw man, is hij ook in de zorg?\n— Nee, hij is architect. Hij heet Bram. Hij is heel goed in zijn werk. We zijn al acht jaar samen.\n— Dat is mooi. U bent een goed stel!\n— Ik denk van wel, lacht Bahar.\n\nSven loopt langs en steekt zijn hand op naar Lena.\n— Hoi, ik ben Sven. Jij bent zeker de nieuwe stagiaire?\n— Ja, ik ben Lena.\n— Welkom. Sven is de beste verpleegkundige hier, zegt Bahar.\n— Dat is niet waar, protesteert Sven. Maar bedankt.\n\nLena lacht. Ze voelt zich al meer op haar gemak. Ze denkt: dit is een goede plek om te leren. De mensen hier zijn vriendelijk en open. Ze zijn echte professionals.",
+    "highlights": {
+      "verbs": [
+        "ben",
+        "bent",
+        "is",
+        "zijn",
+        "was",
+        "waren",
+        "studeert",
+        "wil",
+        "lopen",
+        "klopt",
+        "luistert",
+        "herinnert",
+        "spreek",
+        "praten",
+        "voelt"
+      ],
+      "conjunctions": [
+        "maar",
+        "en",
+        "want",
+        "dat",
+        "of",
+        "ook",
+        "al"
+      ],
+      "scheidbaar": [
+        "opgegroeid"
+      ],
+      "tussenwoorden": [
+        "precies",
+        "nog steeds",
+        "al",
+        "ooit",
+        "officieel",
+        "ook"
+      ]
+    },
+    "woordenschat": {
+      "stagiaire": "stajyer",
+      "studeert": "okuyor (üniversite)",
+      "verpleegkunde": "hemşirelik",
+      "hogeschool": "yüksekokul (üniversite)",
+      "begeleiden": "rehberlik etmek",
+      "vrijwilliger": "gönüllü",
+      "Rode Kruis": "Kızılhaç",
+      "indrukwekkend": "etkileyici",
+      "gemotiveerd": "motive olmuş",
+      "kinderverpleegkundige": "çocuk hemşiresi",
+      "idealistisch": "idealist",
+      "ronde": "vizit, tur",
+      "toekomst": "gelecek",
+      "zorg": "bakım; endişe",
+      "kamergenoot": "oda arkadaşı",
+      "opgroeien": "büyümek",
+      "studietijd": "öğrencilik yılları",
+      "geboren": "doğmuş",
+      "officieel": "resmi olarak",
+      "door elkaar": "birbirine karışık",
+      "stel": "çift",
+      "op je gemak voelen": "rahat hissetmek",
+      "protesteren": "itiraz etmek"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "Ik ___ verpleegkundige al zeven jaar.",
+          "antwoord": "ben",
+          "hint": "zijn"
+        },
+        {
+          "zin": "Lena ___ student in haar tweede jaar.",
+          "antwoord": "is",
+          "hint": "zijn"
+        },
+        {
+          "zin": "We ___ al tien jaar vriendinnen.",
+          "antwoord": "zijn",
+          "hint": "zijn"
+        },
+        {
+          "zin": "Ik ___ geboren in Istanbul.",
+          "antwoord": "ben",
+          "hint": "zijn"
+        },
+        {
+          "zin": "Hij ___ architect van beroep.",
+          "antwoord": "is",
+          "hint": "zijn"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "student",
+            "ik",
+            "tweede",
+            "jaar",
+            "in",
+            "mijn",
+            "ben"
+          ],
+          "antwoord": "Ik ben student in mijn tweede jaar.",
+          "tr": "İkinci yıl öğrencisiyim."
+        },
+        {
+          "woorden": [
+            "Amsterdam",
+            "zijn",
+            "wij",
+            "in"
+          ],
+          "antwoord": "Wij zijn in Amsterdam.",
+          "tr": "Amsterdam'dayız."
+        },
+        {
+          "woorden": [
+            "bent",
+            "nerveus",
+            "u",
+            "een",
+            "beetje",
+            "?"
+          ],
+          "antwoord": "Bent u een beetje nerveus?",
+          "tr": "Biraz gergin misiniz?"
+        },
+        {
+          "woorden": [
+            "beste",
+            "is",
+            "Sven",
+            "de",
+            "verpleegkundige",
+            "hier"
+          ],
+          "antwoord": "Sven is de beste verpleegkundige hier.",
+          "tr": "Sven buradaki en iyi hemşire."
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "Wie ben jij?",
+          "tr": "Sen kimsin?"
+        },
+        {
+          "nl": "Ik ben verpleegkundige.",
+          "tr": "Ben hemşireyim."
+        },
+        {
+          "nl": "We zijn al tien jaar vriendinnen.",
+          "tr": "On yıldır arkadaşız."
+        },
+        {
+          "nl": "Hij is architect van beroep.",
+          "tr": "O mesleki olarak mimardır."
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Ben öğrenciyim.",
+          "nl": "Ik ben student."
+        },
+        {
+          "tr": "O çok deneyimli.",
+          "nl": "Hij is heel ervaren."
+        },
+        {
+          "tr": "Siz Türkiye'den misiniz?",
+          "nl": "Bent u uit Turkije?"
+        },
+        {
+          "tr": "Biz iyi bir ekibiz.",
+          "nl": "Wij zijn een goed team."
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Lena kim?",
+          "opties": [
+            "yeni bir hasta",
+            "yeni bir stajyer",
+            "Bahar'nın kız kardeşi",
+            "yeni bir doktor"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Lena ileride ne olmak istiyor?",
+          "opties": [
+            "doktor",
+            "mimar",
+            "çocuk hemşiresi",
+            "öğretmen"
+          ],
+          "antwoord": 2
+        },
+        {
+          "vraagTr": "Bahar nereden geliyor?",
+          "opties": [
+            "Hollanda'dan",
+            "Fas'tan",
+            "İstanbul'dan",
+            "Den Haag'dan"
+          ],
+          "antwoord": 2
+        }
+      ]
+    }
+  },
+  {
+    "lesId": "les_9",
+    "thema": 1,
+    "themaTitel": "Eerste Stappen",
+    "hoofdstuk": 8,
+    "hoofdstukNummer": "1.8",
+    "verhaalTitel": "Ze zijn zo anders",
+    "verhaal": "Het is dinsdagavond. Bahar en Bram zitten aan tafel na het eten. Ze hebben een goed gesprek. Het gaat over karakters en mensen.\n\n— Weet je wat grappig is? zegt Bahar. Sven en Joost zijn collega's, maar ze zijn zo anders.\n— Hoe bedoel je?\n— Sven is rustig en voorzichtig. Hij denkt altijd twee keer na voordat hij iets doet. Joost is energiek en impulsief. Hij handelt snel.\n— Welke stijl is beter in het ziekenhuis?\n— Allebei hebben ze hun voordelen. Sven is betrouwbaar. Je weet altijd wat je aan hem hebt. Joost is creatief en snel. Hij is goed in noodsituaties.\n— Net als jij en ik eigenlijk, zegt Bram.\n— Hoe bedoel je dat?\n— Jij bent zorgzaam en geduldig. Ik ben meer planmatig en analytisch. We zijn heel anders, maar we werken goed samen.\n— Dat is waar. We zijn complementair.\n\nBahar denkt aan haar zusje Fatima. Fatima is ook heel anders dan zij.\n— Fatima is zo anders dan ik, zegt ze hardop.\n— Hoe dan?\n— Ik ben voorzichtig. Fatima is avontuurlijk. Ik ben stil in grote groepen. Fatima is altijd de luidste in de kamer. Ik hou van routine. Fatima is chaotisch.\n— Maar jullie zijn heel close?\n— Ja, heel erg. Juist omdat ze anders is. Ze laat me dingen zien die ik niet zie. Ze is spontaan en open. Ik leer veel van haar.\n\nBram knikt. Hij denkt aan zijn eigen broer, Thomas.\n— Thomas en ik zijn ook heel anders. Hij is sportief en buiten. Ik ben meer binnen, met boeken en tekeningen. Als kind was hij altijd buiten aan het voetballen. Ik zat altijd binnen te bouwen met Lego.\n— En nu is hij nog steeds zo?\n— Ja. Hij is sportcoach in Groningen. Hij traint een voetbalteam. Hij is energiek en luidruchtig. Hij houdt van groepen en feestjes.\n— En jij?\n— Ik ben liever met een klein groepje. Of alleen. Of met jou.\n\nBahar lacht.\n— Ali is ook interessant, zegt ze. Hij is warm en open. Maar ik denk dat hij soms eenzaam is.\n— Waarom denk je dat?\n— Hij is alleen met Yasmin. Zijn vrouw is niet meer in het beeld. Hij noemt haar nooit.\n— Misschien is hij gescheiden?\n— Waarschijnlijk. Ik vraag het hem niet. Dat is zijn privézaak.\n— Maar jij maakt je zorgen om hem?\n— Een beetje. Hij is onze vriend nu. Ik wil dat hij gelukkig is.\n\nBram pakt haar hand.\n— Dat is typisch jou. Jij zorgt altijd voor anderen. Op je werk, thuis, voor de buren.\n— Is dat slecht?\n— Nee, dat is prachtig. Maar vergeet ook jezelf niet.\n— Ik vergeet mezelf niet. Ik ben heel gelukkig nu.\n— Echt waar?\n— Ja echt. Ik heb een goede man, een fijn huis, een baan die ik liefheb, en nu ook goede buren. Wat wil ik nog meer?\n— Niets meer, denk ik, zegt Bram zacht.\n\nZe zitten een tijdje stil. Buiten is het rustig. De straat is leeg. Alleen het geluid van de regen op het raam.\n\n— Morgen ga ik Yasmin helpen met haar taalhuiswerk, zegt Bahar.\n— Is ze goed in taal?\n— Ze leert snel. Ze is intelligent en gedisciplineerd. Ze is echt een bijzonder kind.\n— Ze heeft een goede vader.\n— Ja, dat is ook zo.",
+    "highlights": {
+      "verbs": [
+        "zijn",
+        "is",
+        "ben",
+        "zitten",
+        "denkt",
+        "handelt",
+        "werken",
+        "laat",
+        "ziet",
+        "knikt",
+        "traint",
+        "zorgt",
+        "vergeet",
+        "heb",
+        "houdt",
+        "leert"
+      ],
+      "conjunctions": [
+        "maar",
+        "en",
+        "want",
+        "dat",
+        "of",
+        "omdat",
+        "als"
+      ],
+      "scheidbaar": [
+        "nadenken"
+      ],
+      "tussenwoorden": [
+        "altijd",
+        "nooit",
+        "soms",
+        "juist",
+        "eigenlijk",
+        "liever",
+        "echt",
+        "waarschijnlijk"
+      ]
+    },
+    "woordenschat": {
+      "karakter": "karakter",
+      "voorzichtig": "dikkatli, temkinli",
+      "energiek": "enerjik",
+      "impulsief": "dürtüsel, içgüdüsel",
+      "betrouwbaar": "güvenilir",
+      "noodsituatie": "acil durum",
+      "zorgzaam": "ilgili, özenli",
+      "planmatig": "planlı, sistematik",
+      "analytisch": "analitik",
+      "complementair": "tamamlayıcı",
+      "avontuurlijk": "maceracı",
+      "luidst": "en yüksek sesli",
+      "routine": "rutin",
+      "chaotisch": "kaotik",
+      "spontaan": "kendiliğinden, spontane",
+      "luidruchtig": "gürültülü",
+      "eenzaam": "yalnız",
+      "gescheiden": "boşanmış",
+      "privézaak": "özel mesele",
+      "typisch": "tipik",
+      "bijzonder": "özel",
+      "gedisciplineerd": "disiplinli",
+      "sportcoach": "spor koçu",
+      "hardop": "sesli olarak"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "Sven ___ rustig en voorzichtig.",
+          "antwoord": "is",
+          "hint": "zijn"
+        },
+        {
+          "zin": "Ze ___ zo anders dan ik.",
+          "antwoord": "is",
+          "hint": "zijn"
+        },
+        {
+          "zin": "Wij ___ complementair.",
+          "antwoord": "zijn",
+          "hint": "zijn"
+        },
+        {
+          "zin": "Hij ___ sportcoach in Groningen.",
+          "antwoord": "is",
+          "hint": "zijn"
+        },
+        {
+          "zin": "Ik ___ heel gelukkig nu.",
+          "antwoord": "ben",
+          "hint": "zijn"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "anders",
+            "Sven",
+            "Joost",
+            "zijn",
+            "en",
+            "zo"
+          ],
+          "antwoord": "Sven en Joost zijn zo anders.",
+          "tr": "Sven ve Joost birbirinden çok farklı."
+        },
+        {
+          "woorden": [
+            "avontuurlijk",
+            "Fatima",
+            "is"
+          ],
+          "antwoord": "Fatima is avontuurlijk.",
+          "tr": "Fatima maceraperesttir."
+        },
+        {
+          "woorden": [
+            "gelukkig",
+            "ik",
+            "heel",
+            "nu",
+            "ben"
+          ],
+          "antwoord": "Ik ben heel gelukkig nu.",
+          "tr": "Şu an çok mutluyum."
+        },
+        {
+          "woorden": [
+            "eenzaam",
+            "hij",
+            "soms",
+            "is"
+          ],
+          "antwoord": "Hij is soms eenzaam.",
+          "tr": "O bazen yalnız hissediyor."
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "Ze zijn zo anders.",
+          "tr": "Onlar birbirinden çok farklı."
+        },
+        {
+          "nl": "Sven is rustig en voorzichtig.",
+          "tr": "Sven sakin ve dikkatli."
+        },
+        {
+          "nl": "Ik ben heel gelukkig.",
+          "tr": "Çok mutluyum."
+        },
+        {
+          "nl": "Hij is soms eenzaam.",
+          "tr": "O bazen yalnız."
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Ben çok sabırlıyım.",
+          "nl": "Ik ben heel geduldig."
+        },
+        {
+          "tr": "O çok enerjik bir insan.",
+          "nl": "Hij is een heel energiek persoon."
+        },
+        {
+          "tr": "Biz birbirini tamamlıyoruz.",
+          "nl": "Wij zijn complementair."
+        },
+        {
+          "tr": "O güvenilir bir arkadaş.",
+          "nl": "Hij is een betrouwbare vriend."
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Sven ve Joost arasındaki fark nedir?",
+          "opties": [
+            "Sven enerjik, Joost sakin",
+            "Sven sakin, Joost enerjik ve dürtüsel",
+            "ikisi de aynı",
+            "Sven deneyimsiz, Joost deneyimli"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Bahar neden Fatima'dan farklı olduğu halde yakın olduklarını düşünüyor?",
+          "opties": [
+            "aynı şehirde yaşadıkları için",
+            "Fatima ona göremediği şeyleri gösterdiği için",
+            "ikisi de hemşire olduğu için",
+            "aynı hobiye sahip oldukları için"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Bahar neden Ali için endişeleniyor?",
+          "opties": [
+            "hasta olduğu için",
+            "işsiz olduğu için",
+            "yalnız göründüğü için",
+            "para sıkıntısı yaşadığı için"
+          ],
+          "antwoord": 2
+        }
+      ]
+    }
+  },
+  {
+    "lesId": "les_10",
+    "thema": 1,
+    "themaTitel": "Eerste Stappen",
+    "hoofdstuk": 9,
+    "hoofdstukNummer": "1.9",
+    "verhaalTitel": "Het einde van de week",
+    "verhaal": "Het is vrijdagavond. Bahar is thuis na een lange week. Ze heeft haar schoenen uitgedaan en ze zit op de bank met een glas water. Bram is in zijn werkkamer. Hij werkt aan zijn project voor Utrecht.\n\nBahar denkt terug aan de week. Ze heeft veel gezien, gedaan en geleerd.\n\nOp maandag zag ze Ali voor het eerst goed. Ze leerde hem kennen als een warme, zorgzame vader. Ze weet nu dat hij kok is en dat hij zijn vader mist.\n\nOp dinsdag had ze het gesprek met Sven over meneer De Vries. Ze leerde dat ze niet alles alleen hoeft te doen. Sven is er altijd.\n\nOp woensdag werkte ze met Joost voor het eerst. Ze leerde dat hij snel is en betrouwbaar. Ze zijn al goede collega's.\n\nOp donderdag hielp Ali haar. En ze zag Yasmin tekenen. Dat raakte haar hart.\n\nOp vrijdag vertelde ze meneer De Vries dat hij naar huis kan gaan. Ze zag zijn gezicht oplichten. Dat is de beste beloning in haar werk.\n\nZaterdag was het uitje naar Rotterdam. Dat was onverwacht gezellig met Ali en Yasmin.\n\nZondag aten ze bij Ali thuis. De couscous was heerlijk. Yasmin vertelde over school en tekenen en haar dromen. Ze wil kunstenares worden.\n\nNu is het vrijdag. Alles is stil.\n\nBram komt de kamer in.\n— Ben je moe?\n— Ja. Maar het is een goede moeheid. Snap je?\n— Ja. Je hebt veel gedaan.\n— Ja. Meneer De Vries gaat morgen naar huis. Dat is het mooiste van deze week.\n— Hoe is hij?\n— Hij is beter. Hij is niet meer zo angstig. Hij gaat naar zijn dochter in Haarlem. Zij zorgt voor hem de eerste weken.\n— Dat is mooi.\n— Ik ga hem missen, eerlijk gezegd.\n— Echt?\n— Ja. Hij is een bijzonder man. Hij heeft veel meegemaakt. Zijn vrouw is al tien jaar dood. Maar hij is niet bitter. Hij is dankbaar voor het leven.\n— Dat zijn de mooiste mensen, zegt Bram zacht.\n\nBahar knikt.\n— En het project in Utrecht? Hoe gaat dat?\n— Goed! We hebben vandaag de eerste grote vergadering gehad. Het team is enthousiast. We gaan beginnen met de fundering volgende maand.\n— Bram, ik ben zo trots op je.\n— Dank je. We zijn allebei aan het groeien, toch?\n— Ja. En dat voelt goed.\n\nBahar gaat naast Bram zitten. Ze legt haar hoofd op zijn schouder.\n— Weet je wat ik wil volgend jaar?\n— Wat dan?\n— Ik wil naar Istanbul. Ik wil Fatima zien. Ik wil de stad ruiken en horen en proeven. Ik mis Turkije.\n— We gaan. Dat beloof ik je.\n— En jij wil de architectuur zien.\n— Ja. Istanbul heeft de mooiste architectuur ter wereld.\n— Dan zijn we allebei blij.\n\nHet is stil buiten. Ergens in de straat lacht iemand. Misschien is het Ali die met Yasmin speelt in de tuin.\n\nBahar sluit haar ogen. Ze denkt: ik heb een mooi leven. Ik ben verpleegkundige in een goed ziekenhuis. Ik heb een man die van mij houdt. Ik heb een nieuwe vriend naast mijn huis. En het leven gaat verder, elke dag iets nieuws.\n\nDat is genoeg. Dat is meer dan genoeg.",
+    "highlights": {
+      "verbs": [
+        "heeft",
+        "zat",
+        "werkt",
+        "zag",
+        "leerde",
+        "had",
+        "hielp",
+        "vertelde",
+        "aten",
+        "is",
+        "gaat",
+        "zorgt",
+        "missen",
+        "heeft meegemaakt",
+        "zijn",
+        "groeien",
+        "wil",
+        "beloof",
+        "sluit",
+        "houdt"
+      ],
+      "conjunctions": [
+        "maar",
+        "en",
+        "want",
+        "dat",
+        "of",
+        "toch",
+        "als"
+      ],
+      "scheidbaar": [
+        "uitgedaan",
+        "oplichten"
+      ],
+      "tussenwoorden": [
+        "terug",
+        "al",
+        "nu",
+        "eerlijk gezegd",
+        "allebei",
+        "ergens"
+      ]
+    },
+    "woordenschat": {
+      "werkkamer": "çalışma odası",
+      "moeheid": "yorgunluk",
+      "snappen": "anlamak (informeel)",
+      "beloning": "ödül",
+      "onverwacht": "beklenmedik",
+      "kunstenares": "sanatçı (kadın)",
+      "angstig": "endişeli, korkan",
+      "dankbaar": "minnettar",
+      "bitter": "acı; kırık",
+      "fundering": "temel (inşaat)",
+      "groeien": "büyümek; gelişmek",
+      "ruiken": "koklamak",
+      "proeven": "tatmak",
+      "architectuur": "mimari",
+      "beloven": "söz vermek",
+      "genoeg": "yeterli",
+      "meegemaakt": "yaşamış, başından geçirmiş",
+      "moe": "yorgun",
+      "dood": "ölü; ölmüş",
+      "tuin": "bahçe",
+      "schoenen uitdoen": "ayakkabı çıkarmak",
+      "ergens": "bir yerde",
+      "ter wereld": "dünyada"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "Meneer De Vries ___ morgen naar huis.",
+          "antwoord": "gaat",
+          "hint": "gaan"
+        },
+        {
+          "zin": "We ___ beginnen met de fundering.",
+          "antwoord": "gaan",
+          "hint": "gaan"
+        },
+        {
+          "zin": "Ik ___ hem missen.",
+          "antwoord": "ga",
+          "hint": "gaan"
+        },
+        {
+          "zin": "Zijn dochter ___ voor hem zorgen.",
+          "antwoord": "gaat",
+          "hint": "gaan"
+        },
+        {
+          "zin": "We ___ naar Istanbul.",
+          "antwoord": "gaan",
+          "hint": "gaan"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "moe",
+            "een",
+            "goede",
+            "ben",
+            "ik",
+            "moeheid",
+            "maar",
+            "het",
+            "is"
+          ],
+          "antwoord": "Ik ben moe maar het is een goede moeheid.",
+          "tr": "Yorgunum ama bu iyi bir yorgunluk."
+        },
+        {
+          "woorden": [
+            "de",
+            "mooiste",
+            "heeft",
+            "Istanbul",
+            "architectuur"
+          ],
+          "antwoord": "Istanbul heeft de mooiste architectuur.",
+          "tr": "İstanbul en güzel mimariye sahip."
+        },
+        {
+          "woorden": [
+            "trots",
+            "ik",
+            "op",
+            "je",
+            "ben",
+            "zo"
+          ],
+          "antwoord": "Ik ben zo trots op je.",
+          "tr": "Seninle çok gurur duyuyorum."
+        },
+        {
+          "woorden": [
+            "naar",
+            "willen",
+            "volgend",
+            "wij",
+            "Istanbul",
+            "jaar",
+            "gaan"
+          ],
+          "antwoord": "Wij willen volgend jaar naar Istanbul gaan.",
+          "tr": "Gelecek yıl İstanbul'a gitmek istiyoruz."
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "Dat is de beste beloning in mijn werk.",
+          "tr": "Bu işimdeki en iyi ödül."
+        },
+        {
+          "nl": "Ik ga hem missen.",
+          "tr": "Onu özleyeceğim."
+        },
+        {
+          "nl": "We gaan naar Istanbul.",
+          "tr": "İstanbul'a gidiyoruz."
+        },
+        {
+          "nl": "Istanbul heeft de mooiste architectuur.",
+          "tr": "İstanbul en güzel mimariye sahip."
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Söz veriyorum.",
+          "nl": "Ik beloof het."
+        },
+        {
+          "tr": "Bu benim için yeterli.",
+          "nl": "Dat is genoeg voor mij."
+        },
+        {
+          "tr": "Onunla gurur duyuyorum.",
+          "nl": "Ik ben trots op hem."
+        },
+        {
+          "tr": "Gelecek ay başlıyoruz.",
+          "nl": "We gaan volgende maand beginnen."
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Bay De Vries neden hastaneden çıkınca Bahar mutlu?",
+          "opties": [
+            "artık işi azaldığı için",
+            "yüzünün aydınlandığını gördüğü için",
+            "hasta zor biriydi",
+            "başka bir hastaneye gidiyor"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Bram'ın Utrecht projesi ne zaman başlıyor?",
+          "opties": [
+            "bu hafta",
+            "gelecek yıl",
+            "gelecek ay",
+            "yarın"
+          ],
+          "antwoord": 2
+        },
+        {
+          "vraagTr": "Bahar gelecek yıl ne istiyor?",
+          "opties": [
+            "yeni bir iş",
+            "İstanbul'a gitmek",
+            "daha büyük bir ev",
+            "tatil yapmak"
+          ],
+          "antwoord": 1
+        }
+      ]
+    }
+  },
+  {
+    "lesId": "les_11",
+    "thema": 2,
+    "themaTitel": "Kijken Terug",
+    "hoofdstuk": 1,
+    "hoofdstukNummer": "2.1",
+    "verhaalTitel": "Wat heb je gisteren gedaan?",
+    "verhaal": "Het is maandagochtend. Bahar staat in de kantine van het ziekenhuis. Joost komt binnen met een grote kop koffie en een brede glimlach.\n\n— Bahar, goedemorgen! Hoe was jouw weekend?\n— Geweldig! We zijn naar Rotterdam geweest. En jij?\n— Ik heb gisteren bij mijn ouders gegeten. Mijn moeder heeft een enorme maaltijd gekookt.\n— Wat heeft ze gemaakt?\n— Ze heeft erwtensoep gemaakt. En appeltaart. Ik heb te veel gegeten!\n\nBahar lacht. Ze vindt Joost een prettige collega. Hij is open en deelt graag zijn verhalen.\n\n— Heb jij zaterdag ook iets leuks gedaan? vraagt Joost.\n— Ja! We hebben zaterdag bij onze buurman Ali gegeten. Hij heeft couscous gekookt. Het was heerlijk.\n— Couscous? Ik heb dat nooit gegeten.\n— Dan moet je het een keer proberen. Het is echt lekker.\n— En hoe was Rotterdam?\n— Prachtig. We hebben de Euromast bezocht. We hebben de hele stad gezien van boven. En we hebben Ali en zijn dochter toevallig ontmoet op het station.\n— Zijn dochter? Hoe oud is ze?\n— Zeven. Ze heet Yasmin. Ze heeft een museum over schepen bezocht. Ze is gek op zee.\n\nSven loopt de kantine in en hoort het gesprek.\n— Jullie hebben een druk weekend gehad!\n— Ja, zegt Bahar. Maar het was een goed weekend. Ik heb goed geslapen ook. Zaterdag heb ik bijna tien uur geslapen.\n— Wow, dat heb ik in jaren niet gedaan, zegt Sven.\n— Wanneer heb jij voor het laatst goed geslapen?\n— Goede vraag. Ik denk vorige week dinsdag. Ik heb mijn knie bezeerd bij het hardlopen.\n— Hoe heb je dat gedaan?\n— Ik ben gevallen. Dom, hè? Ik heb de hele zondag op de bank gelegen.\n— Heb je ook een dokter gezien?\n— Nee. Ik heb ijs op mijn knie gelegd. Dat heeft geholpen.\n\nBahar fronst.\n— Sven, je moet naar een dokter gaan.\n— Het gaat nu goed. Echt.\n\nOm elf uur belt Bahar Bram tijdens haar pauze.\n— Hoi Bram, hoe gaat het met het project? Heb je al iets gedaan vandaag?\n— Ja! Ik heb de eerste tekeningen gemaakt vanochtend. En ik heb een lang gesprek gehad met de klant.\n— En? Was hij tevreden?\n— Heel tevreden. Hij heeft mijn ideeën goedgekeurd.\n— Bram, fantastisch!\n— Ik ben ook blij. We hebben lang gewerkt aan deze plannen. Het is fijn dat hij ze leuk vindt.\n— Heb je ook geluncht?\n— Nog niet. Ik ben het vergeten.\n— Bram! Je moet eten!\n— Je hebt gelijk. Ik ga nu een boterham pakken.\n\nNa haar dienst rijdt Bahar naar huis. In de auto denkt ze aan de dag. Ze heeft vier patiënten geholpen. Ze heeft een rapport geschreven. Ze heeft een nieuwe student begeleid. Het was een productieve dag.\n\nThuis heeft Ali een briefje in haar brievenbus gedaan.\n— Beste Bahar, ik heb gisteren te veel couscous gemaakt. Ik heb een portie voor jullie bewaard. Hij staat in de koelkast bij mij. Kom het maar halen! Ali\n\nBahar glimlacht en loopt naar de buurman.",
+    "highlights": {
+      "verbs": [
+        "heeft gedaan",
+        "heeft gegeten",
+        "heeft gekookt",
+        "heeft gemaakt",
+        "heeft bezocht",
+        "heeft gezien",
+        "heeft ontmoet",
+        "heeft geslapen",
+        "heb gedaan",
+        "heb gelegen",
+        "heeft geholpen",
+        "heeft geschreven",
+        "heeft bewaard"
+      ],
+      "conjunctions": [
+        "maar",
+        "en",
+        "want",
+        "dat",
+        "of",
+        "ook",
+        "toch"
+      ],
+      "scheidbaar": [
+        "goedgekeurd"
+      ],
+      "tussenwoorden": [
+        "gisteren",
+        "zaterdag",
+        "vanochtend",
+        "al",
+        "nog niet",
+        "ook"
+      ]
+    },
+    "woordenschat": {
+      "maaltijd": "öğün, yemek",
+      "erwtensoep": "bezelye çorbası (Hollanda geleneksel yemeği)",
+      "appeltaart": "elmalı turta",
+      "prettig": "hoş, güzel",
+      "toevallig": "tesadüfen",
+      "bijna": "neredeyse",
+      "knie": "diz",
+      "bezeren": "incitmek",
+      "hardlopen": "koşmak",
+      "vallen": "düşmek",
+      "dom": "aptal; ahmakça",
+      "ijs": "buz; dondurma",
+      "fronsen": "kaşlarını çatmak",
+      "tekeningen": "çizimler",
+      "klant": "müşteri",
+      "goedkeuren": "onaylamak",
+      "productief": "verimli",
+      "briefje": "not kağıdı",
+      "brievenbus": "posta kutusu",
+      "portie": "porsiyon",
+      "bewaren": "saklamak, korumak",
+      "koelkast": "buzdolabı",
+      "halen": "almak, getirmek"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "Joost ___ gisteren bij zijn ouders ___.",
+          "antwoord": "heeft / gegeten",
+          "hint": "eten (perfectum)"
+        },
+        {
+          "zin": "Zijn moeder ___ erwtensoep ___.",
+          "antwoord": "heeft / gemaakt",
+          "hint": "maken (perfectum)"
+        },
+        {
+          "zin": "We ___ de Euromast ___.",
+          "antwoord": "hebben / bezocht",
+          "hint": "bezoeken (perfectum)"
+        },
+        {
+          "zin": "Ik ___ goed ___.",
+          "antwoord": "heb / geslapen",
+          "hint": "slapen (perfectum)"
+        },
+        {
+          "zin": "Bram ___ de eerste tekeningen ___.",
+          "antwoord": "heeft / gemaakt",
+          "hint": "maken (perfectum)"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "gedaan",
+            "gisteren",
+            "heb",
+            "je",
+            "wat",
+            "?"
+          ],
+          "antwoord": "Wat heb je gisteren gedaan?",
+          "tr": "Dün ne yaptın?"
+        },
+        {
+          "woorden": [
+            "heerlijk",
+            "gegeten",
+            "we",
+            "hebben",
+            "bij",
+            "Ali"
+          ],
+          "antwoord": "We hebben heerlijk bij Ali gegeten.",
+          "tr": "Ali'de harika yedik."
+        },
+        {
+          "woorden": [
+            "zijn",
+            "knie",
+            "Sven",
+            "heeft",
+            "bezeerd"
+          ],
+          "antwoord": "Sven heeft zijn knie bezeerd.",
+          "tr": "Sven dizini incitti."
+        },
+        {
+          "woorden": [
+            "Bram",
+            "tekeningen",
+            "heeft",
+            "de",
+            "eerste",
+            "gemaakt"
+          ],
+          "antwoord": "Bram heeft de eerste tekeningen gemaakt.",
+          "tr": "Bram ilk çizimleri yaptı."
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "Wat heb je gisteren gedaan?",
+          "tr": "Dün ne yaptın?"
+        },
+        {
+          "nl": "Ik heb goed geslapen.",
+          "tr": "İyi uyudum."
+        },
+        {
+          "nl": "Ze heeft erwtensoep gemaakt.",
+          "tr": "Bezelye çorbası yaptı."
+        },
+        {
+          "nl": "We hebben de Euromast bezocht.",
+          "tr": "Euromast'ı ziyaret ettik."
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Dün ne yaptın?",
+          "nl": "Wat heb je gisteren gedaan?"
+        },
+        {
+          "tr": "Çok yedim.",
+          "nl": "Ik heb te veel gegeten."
+        },
+        {
+          "tr": "Raporu yazdım.",
+          "nl": "Ik heb het rapport geschreven."
+        },
+        {
+          "tr": "Müşteriyle konuştuk.",
+          "nl": "We hebben met de klant gesproken."
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Joost hafta sonu ne yaptı?",
+          "opties": [
+            "Rotterdam'a gitti",
+            "ailesiyle yemek yedi",
+            "hastanede çalıştı",
+            "koştu"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Sven neden kötü uyudu?",
+          "opties": [
+            "hastanede sorun vardı",
+            "koşarken dizi incindiği için",
+            "gürültü vardı",
+            "endişeliydi"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Bram'ın müşterisi onun fikirlerini beğendi mi?",
+          "opties": [
+            "hayır, beğenmedi",
+            "evet, onayladı",
+            "henüz karar vermedi",
+            "biraz değiştirdi"
+          ],
+          "antwoord": 1
+        }
+      ]
+    }
+  },
+  {
+    "lesId": "les_12",
+    "thema": 2,
+    "themaTitel": "Kijken Terug",
+    "hoofdstuk": 2,
+    "hoofdstukNummer": "2.2",
+    "verhaalTitel": "Waar ben je geweest?",
+    "verhaal": "Het is dinsdagmiddag. Bahar heeft een halve dag vrij. Ze loopt door de stad en geniet van de zon. Na een tijdje zit ze op een bankje bij het Vondelpark.\n\nHaar telefoon gaat. Het is Fatima.\n— Bahar! Ik ben thuis. Hoe gaat het?\n— Goed! Ik zit in het park. Waar ben jij geweest vandaag?\n— Ik ben naar mijn werk gegaan. En daarna ben ik naar de markt gegaan voor groente. Jij bent toch vrij vandaag?\n— Ja, een halve dag. Ik ben vanmorgen naar de apotheek gegaan voor vitamines. En daarna ben ik gaan wandelen.\n— Alleen?\n— Ja. Soms is dat fijn. Gewoon lopen en denken.\n— Dat begrijp ik. Ik ben gisteren ook alleen naar de Bosporus gegaan. Ik ben daar een uur blijven zitten.\n— De Bosporus. Ik mis dat zo.\n— Wanneer kom je? Je moet komen!\n— We hebben er over gepraat met Bram. We denken aan volgende zomer.\n— Echt waar? Ik word zo blij! Waar ben je van plan om te logeren?\n— Bij jou, toch?\n— Ja! Jullie kunnen bij mij logeren. Ik ben van mijn vorige appartement verhuisd. Ik ben naar een groter appartement gegaan.\n— Wanneer ben je verhuisd?\n— Vorige maand. Het is dichter bij mijn werk. En de buurt is rustiger. Ik ben er heel blij mee.\n\nBahar is blij voor haar zusje. Ze praten nog een kwartier.\n\nNa het telefoontje staat Bahar op en loopt verder. Ze koopt een ijsje bij een kraampje. Ze denkt aan hoe lang ze al in Amsterdam is.\n\nZe is hier vijftien jaar geleden gekomen. Ze was toen twintig jaar oud. Ze was bang en opgewonden tegelijk. Ze heeft die eerste jaren hard gestudeerd en gewerkt.\n\nSoms vraagt Bram haar: ben je blij dat je bent gekomen naar Nederland?\n\nHet antwoord is altijd ja. Maar het is ingewikkeld. Ze is ook weggegaan van iets. Van haar familie, haar taal, haar stad. Elke keer als ze naar Istanbul is gegaan, heeft ze meer verlangen gevoeld.\n\nOm vier uur loopt ze naar huis. Ze is langs een mooie bloemist gegaan en heeft een bos tulpen gekocht voor thuis.\n\nAli staat voor zijn huis. Hij is net thuisgekomen van het restaurant.\n— Bahar, hé! Ben je vrij vandaag?\n— Ja, een halve dag. Ik ben een beetje rondgelopen. Waar ben jij geweest?\n— Ik ben vanmiddag eerder weggegaan uit het restaurant. We zijn vandaag vroeger gesloten. De chef is ziek.\n— Dat is vervelend.\n— Ja. Maar ik ben blij dat ik vroeg thuis ben. Yasmin is al van school. We gaan straks samen koken.\n— Wat lief!\n— Jij ook een goede dag gehad?\n— Ja. Ik ben naar het park geweest. Ik heb mijn zusje gebeld. En ik ben langs de bloemist gegaan.\n— Mooi! Die tulpen zijn prachtig.\n— Dank je. Ze zijn voor thuis.\n\nBinnen is Bram aan het bellen. Bahar zet de tulpen in een vaas en wacht. Als Bram klaar is, zegt ze:\n— Bram, Fatima is verhuisd. Ze heeft een groter appartement.\n— Oh leuk! Wanneer is ze gegaan?\n— Vorige maand. En Bram... ik denk dat we echt naar Istanbul moeten gaan. Niet alleen praten erover.\n— Je hebt gelijk. Ik ga het dit weekend plannen. Ik beloof het.\n— Goed. Want ik mis haar echt.\n— Ik weet het. En ik wil de stad zien. Ik ben al drie jaar van plan om te gaan.\n— Drie jaar! Bram!\n— We gaan echt. Dit jaar.",
+    "highlights": {
+      "verbs": [
+        "ben geweest",
+        "ben gegaan",
+        "ben gaan wandelen",
+        "ben blijven zitten",
+        "ben verhuisd",
+        "ben gekomen",
+        "ben weggegaan",
+        "ben rondgelopen",
+        "is gegaan",
+        "is gesloten",
+        "is thuisgekomen"
+      ],
+      "conjunctions": [
+        "maar",
+        "en",
+        "want",
+        "dat",
+        "of",
+        "ook",
+        "toch"
+      ],
+      "scheidbaar": [
+        "thuisgekomen",
+        "weggegaan"
+      ],
+      "tussenwoorden": [
+        "vandaag",
+        "vanmorgen",
+        "gisteren",
+        "vorige maand",
+        "al",
+        "ook"
+      ]
+    },
+    "woordenschat": {
+      "bankje": "bant (parkta)",
+      "park": "park",
+      "apotheek": "eczane",
+      "vitamines": "vitaminler",
+      "wandelen": "yürüyüş yapmak",
+      "Bosporus": "Boğaz (İstanbul)",
+      "logeren": "misafir kalmak",
+      "verhuizen": "taşınmak",
+      "dichter bij": "daha yakın",
+      "kraampje": "küçük tezgah, büfe",
+      "opgewonden": "heyecanlı",
+      "tegelijk": "aynı zamanda",
+      "ingewikkeld": "karmaşık, zor",
+      "verlangen": "özlem, arzu",
+      "bloemist": "çiçekçi",
+      "tulpen": "laleler",
+      "chef": "şef, aşçıbaşı",
+      "vervelend": "sinir bozucu, can sıkıcı",
+      "vaas": "vazo",
+      "rondlopen": "gezmek, dolaşmak",
+      "weggaan": "gitmek, ayrılmak",
+      "geniet": "tadını çıkarmak",
+      "eerder": "daha erken"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "Ik ___ naar het park ___.",
+          "antwoord": "ben / gegaan",
+          "hint": "gaan (perfectum)"
+        },
+        {
+          "zin": "Fatima ___ naar een groter appartement ___.",
+          "antwoord": "is / verhuisd",
+          "hint": "verhuizen (perfectum)"
+        },
+        {
+          "zin": "Bahar ___ langs de bloemist ___.",
+          "antwoord": "is / gegaan",
+          "hint": "gaan (perfectum)"
+        },
+        {
+          "zin": "Ik ___ vijftien jaar geleden naar Nederland ___.",
+          "antwoord": "ben / gekomen",
+          "hint": "komen (perfectum)"
+        },
+        {
+          "zin": "Ali ___ eerder uit het restaurant ___.",
+          "antwoord": "is / weggegaan",
+          "hint": "weggaan (perfectum)"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "geweest",
+            "ben",
+            "je",
+            "waar",
+            "?"
+          ],
+          "antwoord": "Waar ben je geweest?",
+          "tr": "Nereye gittin? / Neredeydin?"
+        },
+        {
+          "woorden": [
+            "Fatima",
+            "verhuisd",
+            "is",
+            "vorige",
+            "maand"
+          ],
+          "antwoord": "Fatima is vorige maand verhuisd.",
+          "tr": "Fatima geçen ay taşındı."
+        },
+        {
+          "woorden": [
+            "gegaan",
+            "Bosporus",
+            "de",
+            "naar",
+            "ik",
+            "ben"
+          ],
+          "antwoord": "Ik ben naar de Bosporus gegaan.",
+          "tr": "Boğaz'a gittim."
+        },
+        {
+          "woorden": [
+            "we",
+            "weggegaan",
+            "Bahar",
+            "is",
+            "gezien",
+            "toen",
+            "was"
+          ],
+          "antwoord": "Bahar was weggegaan toen we haar zagen.",
+          "tr": "Onu gördüğümüzde Bahar gitmişti."
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "Waar ben je geweest?",
+          "tr": "Nereye gittin?"
+        },
+        {
+          "nl": "Ik ben naar het park gegaan.",
+          "tr": "Parka gittim."
+        },
+        {
+          "nl": "Ze is vorige maand verhuisd.",
+          "tr": "Geçen ay taşındı."
+        },
+        {
+          "nl": "Ik ben vijftien jaar geleden gekomen.",
+          "tr": "On beş yıl önce geldim."
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Bugün nereye gittin?",
+          "nl": "Waar ben je vandaag geweest?"
+        },
+        {
+          "tr": "Markete gittim.",
+          "nl": "Ik ben naar de supermarkt gegaan."
+        },
+        {
+          "tr": "Dün işten erken çıktım.",
+          "nl": "Ik ben gisteren eerder van mijn werk weggegaan."
+        },
+        {
+          "tr": "Fatima İstanbul'a taşındı.",
+          "nl": "Fatima is naar Istanbul verhuisd."
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Bahar bugün ne yaptı?",
+          "opties": [
+            "hastanede çalıştı",
+            "eczaneye ve parka gitti",
+            "Bram ile alışverişe gitti",
+            "Fatima'yı ziyaret etti"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Fatima neden taşındı?",
+          "opties": [
+            "iş değiştirdi",
+            "evlendi",
+            "büyük ve işe yakın bir daire istedi",
+            "ailesiyle yaşamak için"
+          ],
+          "antwoord": 2
+        },
+        {
+          "vraagTr": "Bahar ve Bram İstanbul'a ne zaman gitmeyi planlıyor?",
+          "opties": [
+            "bu ay",
+            "gelecek yıl yaz",
+            "kış mevsiminde",
+            "belirsiz"
+          ],
+          "antwoord": 1
+        }
+      ]
+    }
+  },
+  {
+    "lesId": "les_13",
+    "thema": 2,
+    "themaTitel": "Kijken Terug",
+    "hoofdstuk": 3,
+    "hoofdstukNummer": "2.3",
+    "verhaalTitel": "Een druk weekend",
+    "verhaal": "Het was een druk maar geweldig weekend. Op maandagochtend vertelt Bahar alles aan Sven in de kantine.\n\n— Waar te beginnen! zegt ze enthousiast.\n— Begin maar bij het begin, zegt Sven lachend.\n— Oké. Op vrijdagavond zijn Bram en ik naar een concert gegaan. Een jazzconcert in het Concertgebouw.\n— Leuk! Hoe was het?\n— Fantastisch. De muzikanten hebben echt geweldig gespeeld. We hebben twee uur genoten.\n— Heb je ooit eerder jazz gehoord?\n— Ja, maar nooit live. Dit was anders. Je voelt de muziek in je hele lichaam.\n— Dat geloof ik. Ik ben ook een keer naar een jazzconcert gegaan. Lang geleden.\n\n— Zaterdagochtend zijn we vroeg opgestaan. We hebben ontbeten in een nieuw café. Ze hebben echt heerlijk brood gebakken. Ik heb drie broodjes gegeten!\n— Drie! Jij had honger!\n— Ja. We hadden de avond ervoor laat gegeten. Bram heeft een pasta gekookt om tien uur.\n— Om tien uur! Dat is laat.\n— Hij is vergeten te koken. Hij was bezig met zijn project.\n\n— En zaterdagmiddag?\n— We zijn naar de markt gegaan, Albert Cuyp. Ik heb stoffen gekocht voor gordijnen. Bram heeft oude boeken bekeken. We zijn daarna naar Ali gegaan.\n— Hoe gaat het met Ali?\n— Goed. Yasmin heeft haar eerste tekenwedstrijd gewonnen! Op school.\n— Wat geweldig!\n— Ja, ze heeft een mooie tekening van de zee gemaakt. De juf heeft haar feliciteerd. Ali was zo trots. Ik heb hem voor het eerst zien huilen.\n— Tranen van blijdschap?\n— Ja. Hij houdt zo van dat kind.\n\n— En zondag?\n— Zondag hebben we opgeruimd. Bram heeft de keuken geschilderd.\n— Echt? Welke kleur?\n— Geel. Lichtgeel. Het is prachtig geworden. Ik heb hem daarbij geholpen. We zijn de hele dag bezig geweest.\n— Zijn jullie ook nog ergens naartoe gegaan?\n— Ja, 's avonds zijn we naar het restaurant van Ali gegaan. Het was gesloten, maar hij heeft ons uitgenodigd na sluitingstijd. We hebben achter de keuken gegeten.\n— Wat een ervaring!\n— Het was magisch. Ali heeft ons zijn favoriete Marokkaanse gerechten laten proeven. Briwat, bastilla, en een harira soep die ik nooit meer vergeet.\n— Je maakt me hongerig.\n— Ha! Dan moet je een keer meekomen.\n\nSven lacht en schudt zijn hoofd.\n— Jij leeft zo intens, Bahar.\n— Is dat gek?\n— Nee. Het is prachtig. Ik doe soms te weinig. Ik werk, ik kom thuis, ik eet, ik slaap.\n— Je moet meer doen, Sven! Het leven is kort.\n— Jij hebt gelijk. Ik ga dit weekend iets plannen.\n— Wat ga je doen?\n— Ik weet het nog niet. Maar iets. Ik ben gisteren een folder zien liggen over kooklessen. Misschien ga ik dat proberen.\n— Kooklessen! Dat is een geweldig idee.\n— Of misschien te ambitieus voor mij.\n— Onzin. Jij kunt alles. Schrijf je in!",
+    "highlights": {
+      "verbs": [
+        "zijn gegaan",
+        "hebben gespeeld",
+        "hebben genoten",
+        "zijn opgestaan",
+        "hebben ontbeten",
+        "hebben gebakken",
+        "heb gegeten",
+        "heeft gekookt",
+        "zijn gegaan",
+        "heb gekocht",
+        "heeft gewonnen",
+        "heeft feliciteerd",
+        "heeft geschilderd",
+        "heb geholpen",
+        "zijn geweest",
+        "heeft laten proeven"
+      ],
+      "conjunctions": [
+        "maar",
+        "en",
+        "want",
+        "dat",
+        "of",
+        "ook",
+        "terwijl"
+      ],
+      "scheidbaar": [
+        "opgestaan",
+        "opgeruimd",
+        "meekomen"
+      ],
+      "tussenwoorden": [
+        "echt",
+        "ook",
+        "ooit",
+        "nooit",
+        "daarna",
+        "voor het eerst",
+        "lang geleden"
+      ]
+    },
+    "woordenschat": {
+      "concert": "konser",
+      "Concertgebouw": "Amsterdam'daki ünlü konser salonu",
+      "muzikant": "müzisyen",
+      "live": "canlı (konser)",
+      "lichaam": "vücut",
+      "ontbijten": "kahvaltı etmek",
+      "bakken": "pişirmek (fırında)",
+      "hongerig": "aç",
+      "stof/stoffen": "kumaş",
+      "gordijnen": "perdeler",
+      "tekenwedstrijd": "çizim yarışması",
+      "winnen": "kazanmak",
+      "feliciteren": "tebrik etmek",
+      "huilen": "ağlamak",
+      "tranen van blijdschap": "sevinç gözyaşları",
+      "schilderen": "boyamak",
+      "lichtgeel": "açık sarı",
+      "sluitingstijd": "kapanış saati",
+      "magisch": "büyülü",
+      "harira": "Fas çorbası",
+      "intens": "yoğun, derin",
+      "folder": "broşür",
+      "kooklessen": "yemek dersleri",
+      "inschrijven": "kayıt olmak"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "We zijn naar een jazzconcert ___.",
+          "antwoord": "gegaan",
+          "hint": "gaan (perfectum)"
+        },
+        {
+          "zin": "De muzikanten hebben geweldig ___.",
+          "antwoord": "gespeeld",
+          "hint": "spelen (perfectum)"
+        },
+        {
+          "zin": "Yasmin heeft haar tekenwedstrijd ___.",
+          "antwoord": "gewonnen",
+          "hint": "winnen (perfectum)"
+        },
+        {
+          "zin": "Bram heeft de keuken ___.",
+          "antwoord": "geschilderd",
+          "hint": "schilderen (perfectum)"
+        },
+        {
+          "zin": "Ali heeft ons zijn gerechten laten ___.",
+          "antwoord": "proeven",
+          "hint": "proeven"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "concert",
+            "een",
+            "zijn",
+            "naar",
+            "we",
+            "jazz",
+            "gegaan"
+          ],
+          "antwoord": "We zijn naar een jazzconcert gegaan.",
+          "tr": "Bir caz konserine gittik."
+        },
+        {
+          "woorden": [
+            "tekenwedstrijd",
+            "Yasmin",
+            "gewonnen",
+            "haar",
+            "heeft"
+          ],
+          "antwoord": "Yasmin heeft haar tekenwedstrijd gewonnen.",
+          "tr": "Yasmin çizim yarışmasını kazandı."
+        },
+        {
+          "woorden": [
+            "keuken",
+            "Bram",
+            "heeft",
+            "de",
+            "geschilderd"
+          ],
+          "antwoord": "Bram heeft de keuken geschilderd.",
+          "tr": "Bram mutfağı boyadı."
+        },
+        {
+          "woorden": [
+            "we",
+            "zijn",
+            "uren",
+            "twee",
+            "het",
+            "Concertgebouw",
+            "in",
+            "gebleven"
+          ],
+          "antwoord": "We zijn twee uren in het Concertgebouw gebleven.",
+          "tr": "Concertgebouw'da iki saat kaldık."
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "We zijn naar een jazzconcert gegaan.",
+          "tr": "Bir caz konserine gittik."
+        },
+        {
+          "nl": "Yasmin heeft haar eerste tekenwedstrijd gewonnen.",
+          "tr": "Yasmin ilk çizim yarışmasını kazandı."
+        },
+        {
+          "nl": "Bram heeft de keuken geel geschilderd.",
+          "tr": "Bram mutfağı sarıya boyadı."
+        },
+        {
+          "nl": "Ik heb drie broodjes gegeten.",
+          "tr": "Üç sandviç yedim."
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Konsere gittik.",
+          "nl": "We zijn naar een concert gegaan."
+        },
+        {
+          "tr": "Sabah erken kalktım.",
+          "nl": "Ik ben 's ochtends vroeg opgestaan."
+        },
+        {
+          "tr": "Yarışmayı kazandı.",
+          "nl": "Hij/zij heeft de wedstrijd gewonnen."
+        },
+        {
+          "tr": "Bütün gün çalıştık.",
+          "nl": "We zijn de hele dag bezig geweest."
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Bahar ve Bram cuma akşamı ne yaptı?",
+          "opties": [
+            "Ali ile yemek yediler",
+            "bir caz konserine gittiler",
+            "Concertgebouw'da çalıştılar",
+            "evde oturdular"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Yasmin okulda ne kazandı?",
+          "opties": [
+            "bir yazma ödülü",
+            "bir çizim yarışması",
+            "bir matematik yarışması",
+            "bir dans ödülü"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Bram mutfağa hangi rengi boyadı?",
+          "opties": [
+            "beyaz",
+            "mavi",
+            "açık sarı",
+            "yeşil"
+          ],
+          "antwoord": 2
+        }
+      ]
+    }
+  },
+  {
+    "lesId": "les_14",
+    "thema": 2,
+    "themaTitel": "Kijken Terug",
+    "hoofdstuk": 4,
+    "hoofdstukNummer": "2.4",
+    "verhaalTitel": "We gaan verhuizen",
+    "verhaal": "Het is een bewolkte woensdagochtend. Bahar zit aan de keukentafel met haar laptop. Ze bekijkt woningadvertenties op internet. Ze en Bram gaan verhuizen.\n\nBram heeft gisteren het grote nieuws verteld: zijn bedrijf gaat een kantoor openen in Utrecht. En Bram gaat zijn team leiden vanuit dat kantoor. Het is een promotie. Ze gaan dus naar Utrecht verhuizen.\n\nBahar heeft gemengde gevoelens. Ze is blij voor Bram. Maar Amsterdam is haar thuis. Ze kent hier de wegen, de mensen, de buurt. Ze gaat haar collega's missen. Ze gaat Sven en Joost missen. Ze gaat Ali en Yasmin missen.\n\nMaar Bram is zo enthousiast. Ze kan hem zijn droom niet afpakken.\n\nBram komt de keuken in en ziet Bahar met de laptop.\n— Kijk jij al naar huizen?\n— Ja. Utrecht is duurder dan ik dacht.\n— We hoeven niet te kopen. We kunnen ook huren in het begin.\n— Dat weet ik. Maar ik wil graag een tuin. Hier hebben we geen tuin.\n— Dan gaan we met een tuin zoeken. Dat beloof ik.\n— Bram... ben je zeker weten dat je dit wilt?\n— Ja. Dit is een kans die ik niet kan laten gaan. Maar het is ook jouw beslissing. Als jij echt niet wilt...\n— Nee, we gaan. Ik wil jouw geluk ook.\n— Wij gaan dit samen doen. Ik ga alvast informatie opvragen bij makelaars.\n\nBahar knikt. Ze kijkt nog even naar de advertenties. Een huis met een rode voordeur en een kleine tuin trekt haar aandacht.\n— Bram, kijk. Dit huis.\n— Mooi! Waar is het?\n— Wijk C, Utrecht. Dicht bij een park.\n— En het budget?\n— Beetje boven ons budget. Maar we gaan kijken?\n— Zeker weten. Ik ga morgen een afspraak maken.\n\nDiezelfde avond belt Bahar Sven.\n— Sven, ik moet je iets vertellen.\n— Wat is er?\n— We gaan verhuizen. Naar Utrecht. Bram heeft een promotie gekregen.\n— Oh... dat is groot nieuws. Wanneer?\n— We denken aan over drie maanden.\n— Bahar, dat is snel.\n— Ik weet het. Ik vind het ook spannend. En een beetje eng.\n— Ik ga je missen. Als collega en als vriend.\n— Ik jou ook. Maar Utrecht is niet ver. We kunnen nog steeds contact houden.\n— Ja. En ik ga je opvolgen hier. Ik ga afdeling drie leiden als jij weg bent.\n— Sven! Dat is geweldig! Jij bent er klaar voor.\n— Dank je. Jij hebt me veel geleerd.\n— Andersom ook.\n\nLater die avond gaat Bahar naar Ali. Ze vertelt hem ook het nieuws.\n— Ali, we gaan verhuizen. Over drie maanden.\n— Bahar... dat is een grote verandering.\n— Ja. Ik ben blij voor Bram. Maar ik ga jou en Yasmin missen.\n— Wij jou ook. Maar het leven gaat altijd door, toch?\n— Dat is waar.\n— En Utrecht is dicht bij. Ik kan komen met Yasmin. Of jullie komen terug.\n— Absoluut. We blijven vrienden.\n\nYasmin loopt de kamer in en hoort het laatste deel van het gesprek.\n— Ga jij weg, Bahar?\n— Ja schat, maar niet voor altijd. We blijven contact houden.\nYasmin denkt even na.\n— Dan ga ik je een tekening geven. Zodat je me niet vergeet.\n\nBahar voelt haar ogen vochtig worden. Ze knikt en glimlacht.",
+    "highlights": {
+      "verbs": [
+        "gaan verhuizen",
+        "gaat openen",
+        "gaat leiden",
+        "ga missen",
+        "gaan zoeken",
+        "ga opvragen",
+        "ga maken",
+        "gaan kijken",
+        "ga vertellen",
+        "gaan huren"
+      ],
+      "conjunctions": [
+        "maar",
+        "en",
+        "want",
+        "dat",
+        "of",
+        "als",
+        "dus"
+      ],
+      "scheidbaar": [
+        "afpakken",
+        "opvragen",
+        "opvolgen"
+      ],
+      "tussenwoorden": [
+        "al",
+        "alvast",
+        "ook",
+        "nog steeds",
+        "absoluut",
+        "echt"
+      ]
+    },
+    "woordenschat": {
+      "bewolkt": "bulutlu",
+      "woningadvertentie": "konut ilanı",
+      "bedrijf": "şirket",
+      "kantoor": "ofis, büro",
+      "promotie": "terfi",
+      "gemengde gevoelens": "karışık duygular",
+      "droom": "rüya; hayal",
+      "huren": "kiralamak",
+      "kopen": "satın almak",
+      "beslissing": "karar",
+      "makelaar": "emlakçı",
+      "voordeur": "ön kapı",
+      "budget": "bütçe",
+      "afspraak": "randevu",
+      "spannend": "heyecanlı",
+      "eng": "korkutucu",
+      "contact houden": "iletişimde kalmak",
+      "opvolgen": "yerine geçmek",
+      "verandering": "değişim",
+      "vochtig": "ıslak, nemli",
+      "almast": "şimdiden",
+      "zeker weten": "kesinlikle"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "We ___ naar Utrecht ___.",
+          "antwoord": "gaan / verhuizen",
+          "hint": "gaan + infinitief"
+        },
+        {
+          "zin": "Bram ___ zijn team ___.",
+          "antwoord": "gaat / leiden",
+          "hint": "gaan + infinitief"
+        },
+        {
+          "zin": "Ik ___ jou ___.",
+          "antwoord": "ga / missen",
+          "hint": "gaan + infinitief"
+        },
+        {
+          "zin": "We ___ een huis met een tuin ___.",
+          "antwoord": "gaan / zoeken",
+          "hint": "gaan + infinitief"
+        },
+        {
+          "zin": "Ik ___ morgen een afspraak ___.",
+          "antwoord": "ga / maken",
+          "hint": "gaan + infinitief"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "verhuizen",
+            "we",
+            "Utrecht",
+            "gaan",
+            "naar"
+          ],
+          "antwoord": "We gaan naar Utrecht verhuizen.",
+          "tr": "Utrecht'e taşınacağız."
+        },
+        {
+          "woorden": [
+            "missen",
+            "ik",
+            "ga",
+            "en",
+            "Sven",
+            "Joost"
+          ],
+          "antwoord": "Ik ga Sven en Joost missen.",
+          "tr": "Sven ve Joost'u özleyeceğim."
+        },
+        {
+          "woorden": [
+            "maken",
+            "afspraak",
+            "ga",
+            "een",
+            "ik",
+            "morgen"
+          ],
+          "antwoord": "Ik ga morgen een afspraak maken.",
+          "tr": "Yarın bir randevu ayarlayacağım."
+        },
+        {
+          "woorden": [
+            "contact",
+            "we",
+            "houden",
+            "gaan",
+            "nog",
+            "steeds"
+          ],
+          "antwoord": "We gaan nog steeds contact houden.",
+          "tr": "Hâlâ iletişimde kalacağız."
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "We gaan verhuizen naar Utrecht.",
+          "tr": "Utrecht'e taşınacağız."
+        },
+        {
+          "nl": "Bram gaat zijn team leiden.",
+          "tr": "Bram ekibini yönetecek."
+        },
+        {
+          "nl": "Ik ga jou missen.",
+          "tr": "Seni özleyeceğim."
+        },
+        {
+          "nl": "We gaan een huis met een tuin zoeken.",
+          "tr": "Bahçeli bir ev arayacağız."
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Yarın taşınacağız.",
+          "nl": "We gaan morgen verhuizen."
+        },
+        {
+          "tr": "Onu özleyeceğim.",
+          "nl": "Ik ga hem missen."
+        },
+        {
+          "tr": "Yeni bir ofis açacak.",
+          "nl": "Hij gaat een nieuw kantoor openen."
+        },
+        {
+          "tr": "Bir randevu ayarlayacağım.",
+          "nl": "Ik ga een afspraak maken."
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Bram neden Utrecht'e taşınmak istiyor?",
+          "opties": [
+            "eşi istediği için",
+            "şirketi orada ofis açıyor ve o ekibi yönetecek",
+            "Utrecht daha ucuz",
+            "ailesi Utrecht'te yaşıyor"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Bahar taşınma haberi hakkında nasıl hissediyor?",
+          "opties": [
+            "tamamen mutlu",
+            "tamamen üzgün",
+            "karışık duygular içinde",
+            "öfkeli"
+          ],
+          "antwoord": 2
+        },
+        {
+          "vraagTr": "Yasmin Bahar'ya ne vaat ediyor?",
+          "opties": [
+            "onu ziyaret edeceğini",
+            "bir resim çizeceğini",
+            "mektup yazacağını",
+            "ağlamayacağını"
+          ],
+          "antwoord": 1
+        }
+      ]
+    }
+  },
+  {
+    "lesId": "les_15",
+    "thema": 2,
+    "themaTitel": "Kijken Terug",
+    "hoofdstuk": 5,
+    "hoofdstukNummer": "2.5",
+    "verhaalTitel": "Ik wil graag leren",
+    "verhaal": "Bahar heeft besloten om meer te leren. Ze gaat over drie maanden verhuizen naar Utrecht. Ze wil er klaar voor zijn. Ze wil ook betere carrièremogelijkheden hebben.\n\nZe zit op haar vrije dinsdag achter de laptop en bekijkt cursussen.\n\nEr is een cursus om te specialiseren in hartverpleging. Die cursus duurt zes maanden. Bahar heeft het al altijd willen doen. Nu is het misschien het juiste moment om te beginnen.\n\nEr is ook een cursus om te leren omgaan met burn-out bij patiënten. Die duurt drie maanden. Nuttig, maar minder urgent.\n\nEn er is een taalcursus Arabisch voor beginners. Die is op dinsdagavond. Bahar lacht. Dat is misschien voor Ali's geneugten om te horen, maar ze wil het echt.\n\nSven belt.\n— Bahar, heb jij interesse om te solliciteren voor een senior positie? In Utrecht? Ze zoeken iemand bij het UMC Utrecht.\n— Sven, hoe weet jij dat?\n— Ik heb een e-mail gezien. Ze zoeken een ervaren verpleegkundige om afdeling chirurgie te leiden.\n— Wow. Dat is een grote stap om te nemen.\n— Jij bent er klaar voor. Jij hebt de ervaring en de kennis.\n— Maar ik moet Bram nog vragen. En ik weet niet of ik wil leiden. Ik vind patiëntencontact het mooiste van mijn werk.\n— Je kunt ook beiden doen. Senior verpleegkundigen hebben soms nog patiëntencontact.\n— Ik ga het overwegen. Dank je Sven.\n\nNa het gesprek stuurt Bahar een bericht aan Bram.\n— Bram, Sven heeft een vacature gezien bij het UMC Utrecht. Wil je daar vanavond over praten?\n\nBram antwoordt snel.\n— Ja! Ik ben thuis om zes uur. Dit klinkt goed!\n\nDie avond zitten ze aan tafel en praten erover.\n— Ik wil graag groeien, zegt Bahar. Maar ik wil het goede doen. Niet alleen om te klimmen in de carrière.\n— Dat snap ik. Maar je verdient het om erkend te worden voor je talent.\n— Ik wil ook de cursus hartverpleging doen. Om beter te worden in mijn vak.\n— Dat is precies jou. Altijd willen leren.\n— Is dat niet goed?\n— Het is heel goed. Ik ben trots op je.\n— Maar er is ook een Arabische cursus op dinsdagavond.\nBram kijkt haar aan.\n— Arabisch? Waarom?\n— Om beter te kunnen communiceren met Ali. Om zijn cultuur te begrijpen. En om gewoon iets nieuws te proberen.\n— Bahar, jij bent ongelooflijk.\n— Is dat positief of negatief?\n— Heel positief. Jij wilt altijd alles en iedereen begrijpen. Het is één van de dingen die ik het meest van je hou.\n\nBahar glimlacht.\n— Oké. Ik ga me inschrijven voor de hartverpleging cursus. En ik ga de Arabische cursus proberen. En ik ga die vacature bekijken.\n— Dat is drie dingen.\n— Ik ben ambitieus, zegt Bahar met een knipoog.\n— Dat wist ik al, zegt Bram lachend.",
+    "highlights": {
+      "verbs": [
+        "heeft besloten",
+        "wil leren",
+        "wil zijn",
+        "willen doen",
+        "wil beginnen",
+        "wil vragen",
+        "wil leiden",
+        "wil groeien",
+        "wil klimmen",
+        "wil worden",
+        "wil communiceren",
+        "wil begrijpen",
+        "wil proberen"
+      ],
+      "conjunctions": [
+        "maar",
+        "en",
+        "want",
+        "om te",
+        "dat",
+        "of"
+      ],
+      "scheidbaar": [
+        "inschrijven",
+        "overwegen"
+      ],
+      "tussenwoorden": [
+        "graag",
+        "ook",
+        "nog",
+        "echt",
+        "precies",
+        "alleen"
+      ]
+    },
+    "woordenschat": {
+      "besloten": "karar vermiş",
+      "cursus": "kurs",
+      "specialiseren": "uzmanlaşmak",
+      "hartverpleging": "kalp hastalıkları hemşireliği",
+      "duren": "sürmek",
+      "nuttig": "faydalı",
+      "urgent": "acil, çok önemli",
+      "burn-out": "tükenmişlik",
+      "geneugten": "zevk, neşe",
+      "solliciteren": "iş başvurusu yapmak",
+      "senior positie": "kıdemli pozisyon",
+      "chirurgie": "cerrahi",
+      "stap": "adım",
+      "patiëntencontact": "hasta ile iletişim",
+      "overwegen": "değerlendirmek, düşünmek",
+      "vacature": "iş ilanı",
+      "klimmen": "tırmanmak",
+      "erkend worden": "takdir görmek",
+      "communiceren": "iletişim kurmak",
+      "ongelooflijk": "inanılmaz",
+      "knipoog": "göz kırpma",
+      "ambitieus": "hırslı, iddialı"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "Bahar heeft besloten om meer te ___.",
+          "antwoord": "leren",
+          "hint": "om te + infinitief"
+        },
+        {
+          "zin": "Ze wil cursussen ___ om beter te worden.",
+          "antwoord": "volgen",
+          "hint": "om te + infinitief"
+        },
+        {
+          "zin": "Ze gaan naar Utrecht ___ om een nieuw leven te beginnen.",
+          "antwoord": "verhuizen",
+          "hint": "om te + infinitief"
+        },
+        {
+          "zin": "Ik wil Arabisch ___ om Ali beter te begrijpen.",
+          "antwoord": "leren",
+          "hint": "om te + infinitief"
+        },
+        {
+          "zin": "Het is belangrijk om te ___ in je vak.",
+          "antwoord": "groeien",
+          "hint": "om te + infinitief"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "leren",
+            "graag",
+            "wil",
+            "ik",
+            "meer"
+          ],
+          "antwoord": "Ik wil graag meer leren.",
+          "tr": "Daha fazla öğrenmek istiyorum."
+        },
+        {
+          "woorden": [
+            "cursus",
+            "om",
+            "ze",
+            "doen",
+            "wil",
+            "de",
+            "te",
+            "hartverpleging"
+          ],
+          "antwoord": "Ze wil de cursus hartverpleging doen.",
+          "tr": "Kalp hemşireliği kursunu yapmak istiyor."
+        },
+        {
+          "woorden": [
+            "Arabisch",
+            "wil",
+            "communiceren",
+            "om",
+            "beter",
+            "te",
+            "leren",
+            "ik"
+          ],
+          "antwoord": "Ik wil Arabisch leren om beter te communiceren.",
+          "tr": "Daha iyi iletişim kurmak için Arapça öğrenmek istiyorum."
+        },
+        {
+          "woorden": [
+            "erkend",
+            "te",
+            "wil",
+            "jij",
+            "worden",
+            "je",
+            "voor",
+            "talent",
+            "verdient"
+          ],
+          "antwoord": "Jij verdient het om erkend te worden voor je talent.",
+          "tr": "Yeteneğin için takdir görmeyi hak ediyorsun."
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "Ik wil graag meer leren.",
+          "tr": "Daha fazla öğrenmek istiyorum."
+        },
+        {
+          "nl": "Ze wil de cursus hartverpleging doen.",
+          "tr": "Kalp hemşireliği kursunu yapmak istiyor."
+        },
+        {
+          "nl": "Ze gaan naar Utrecht verhuizen om een nieuw leven te beginnen.",
+          "tr": "Yeni bir hayata başlamak için Utrecht'e taşınacaklar."
+        },
+        {
+          "nl": "Ik wil Arabisch leren om Ali te begrijpen.",
+          "tr": "Ali'yi anlamak için Arapça öğrenmek istiyorum."
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Daha iyi olmak için kurs yapmak istiyorum.",
+          "nl": "Ik wil een cursus doen om beter te worden."
+        },
+        {
+          "tr": "Kariyer yapmak için çok çalışıyor.",
+          "nl": "Ze werkt hard om carrière te maken."
+        },
+        {
+          "tr": "Seninle konuşmak için aradım.",
+          "nl": "Ik heb gebeld om met je te praten."
+        },
+        {
+          "tr": "Hastalarımı anlamak istiyorum.",
+          "nl": "Ik wil mijn patiënten begrijpen."
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Bahar hangi kursları yapmak istiyor?",
+          "opties": [
+            "sadece Arapça kursu",
+            "kalp hemşireliği kursu ve Arapça kursu",
+            "yönetim kursu ve dil kursu",
+            "hiç kurs yapmak istemiyor"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Sven Bahar'ya ne haber veriyor?",
+          "opties": [
+            "Rotterdam'da iş ilanı",
+            "UMC Utrecht'te kıdemli hemşire pozisyonu",
+            "Amsterdam'da terfi",
+            "hemşirelik kursu"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Bahar neden Arapça öğrenmek istiyor?",
+          "opties": [
+            "seyahat için",
+            "Ali ile daha iyi iletişim kurmak için",
+            "iş gerektirdiği için",
+            "sınavdan geçmek için"
+          ],
+          "antwoord": 1
+        }
+      ]
+    }
+  },
+  {
+    "lesId": "les_16",
+    "thema": 2,
+    "themaTitel": "Kijken Terug",
+    "hoofdstuk": 6,
+    "hoofdstukNummer": "2.6",
+    "verhaalTitel": "Plannen voor de toekomst",
+    "verhaal": "Het is een rustige zaterdagmiddag. Bram zit aan zijn tekentafel en Bahar leest een boek over hartverpleging. Het huis is stil en zonnig. Een goede dag om na te denken over de toekomst.\n\nBram kijkt op van zijn werk.\n— Bahar, zullen we een lijstje maken? Dingen die we willen doen voor de verhuizing?\n— Goed idee. Ik pak een notitieboekje.\n\nZe gaan aan de keukentafel zitten. Bram schrijft op.\n— Oké. Ten eerste: we moeten een huis vinden om te huren in Utrecht.\n— Of om te kopen. We gaan toch al acht jaar samen. Misschien is het tijd om iets te kopen.\n— Je hebt gelijk. Laten we beide opties openhouwen. Ten tweede: we moeten ons leven hier afwikkelen. Abonnementen opzeggen, de verhuizer bellen.\n— Ik moet ook mijn opzegtermijn invullen bij het ziekenhuis. Drie maanden.\n— Dat klopt. En ten derde: we moeten onze vrienden hier nog wat meer zien voor we gaan.\n\nBahar knikt en voegt toe:\n— Ali en Yasmin. Ik wil iets bijzonders doen met hen voor we vertrekken.\n— Wat dacht je aan een etentje? Of een uitje?\n— Misschien een dagje naar de zee? Yasmin is gek op zee en boten. We kunnen naar Scheveningen gaan.\n— Dat is een geweldig idee! Bram schrijft het op.\n\n— En voor Sven en Joost? zegt Bahar.\n— Een afscheidsfeestje op het werk?\n— Dat gaat automatisch waarschijnlijk. Maar ik wil ook een keer buiten het werk met hen eten.\n— Dan plannen we een diner. Iets speciaals.\n— Ik heb een restaurant gezien in de buurt van het Amstelhotel. Om een bijzondere avond te vieren.\n\nBram glundert.\n— En de grote vraag, zegt hij.\n— Welke?\n— Istanbul. Wanneer gaan we?\n— Fatima heeft voorgesteld om in augustus te gaan. Na de verhuizing maar voor mijn nieuwe baan.\n— Augustus is perfect. Dan is het warm en hebben we ook tijd om te genieten.\n— Fatima wil ons de oude stad laten zien. De Hagia Sophia, de Bazaar, het Topkapi Paleis.\n— Ik wil de moderne architectuur zien. De nieuwe brug over de Bosporus.\n— Dan gaan we alles doen. Een week is genoeg?\n— Twee weken zijn beter om alles te zien.\n— Afgesproken. Twee weken in augustus.\n\nBahar zit even stil. Ze kijkt door het raam naar buiten. De bomen zijn groen. De zon schijnt.\n— Bram, ik ben soms bang voor de toekomst. Maar vandaag niet. Vandaag voel ik me goed over alles.\n— Dat is mooi.\n— We hebben mooie plannen. We gaan ergens heen. We gaan groeien.\n— En we gaan terug komen ook. Utrecht is niet ver. Amsterdam gaat nergens heen.\n— Dat is waar. Het is soms fijn om iets achter te laten. Om nieuw te beginnen.\n— Precies. En te weten dat het oude er nog is.\n\nDe telefoon gaat. Het is Fatima.\n— Ik had jullie net in gedachten! roept Bahar.\n— Ja? Ik ook. Ik bel om te zeggen: augustus is goed! Ik heb vakantie gevraagd bij het hotel.\n— Fatima!\n— We gaan dit doen. Jullie gaan Istanbul nooit meer vergeten!",
+    "highlights": {
+      "verbs": [
+        "gaan doen",
+        "gaan kopen",
+        "gaan zien",
+        "gaan vertrekken",
+        "gaan plannen",
+        "gaan vieren",
+        "gaan genieten",
+        "gaan laten zien",
+        "gaan groeien",
+        "gaan terugkomen",
+        "gaan beginnen",
+        "gaan vergeten"
+      ],
+      "conjunctions": [
+        "maar",
+        "en",
+        "want",
+        "om te",
+        "dat",
+        "of",
+        "voordat"
+      ],
+      "scheidbaar": [
+        "opzeggen",
+        "afwikkelen",
+        "openhouwen",
+        "terugkomen"
+      ],
+      "tussenwoorden": [
+        "ook",
+        "nog",
+        "al",
+        "soms",
+        "precies",
+        "automatisch"
+      ]
+    },
+    "woordenschat": {
+      "tekentafel": "çizim masası",
+      "notitieboekje": "not defteri",
+      "abonnement": "abonelik",
+      "opzeggen": "iptal etmek, feshetmek",
+      "verhuizer": "nakliyeci",
+      "opzegtermijn": "ihbar süresi",
+      "afwikkelen": "halletmek, tamamlamak",
+      "vertrekken": "hareket etmek, gitmek",
+      "Scheveningen": "Den Haag yakınında sahil kenti",
+      "afscheidsfeestje": "veda partisi",
+      "diner": "akşam yemeği",
+      "vieren": "kutlamak",
+      "glunderen": "sevinçten parlamak",
+      "voorstellen": "önermek",
+      "Hagia Sophia": "Ayasofya",
+      "Bazaar": "Kapalıçarşı",
+      "Topkapi Paleis": "Topkapı Sarayı",
+      "brug": "köprü",
+      "afgesproken": "anlaştık",
+      "achter laten": "geride bırakmak",
+      "in gedachten hebben": "aklında olmak",
+      "vakantie vragen": "izin istemek"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "We gaan naar Scheveningen ___ Yasmin blij te maken.",
+          "antwoord": "om",
+          "hint": "om te"
+        },
+        {
+          "zin": "Ik heb een restaurant gezien ___ een bijzondere avond te vieren.",
+          "antwoord": "om",
+          "hint": "om te"
+        },
+        {
+          "zin": "We gaan twee weken in Istanbul ___ alles te zien.",
+          "antwoord": "om",
+          "hint": "om te"
+        },
+        {
+          "zin": "Fatima belt ___ te zeggen dat augustus goed is.",
+          "antwoord": "om",
+          "hint": "om te"
+        },
+        {
+          "zin": "Het is fijn om nieuw te ___.",
+          "antwoord": "beginnen",
+          "hint": "om te + beginnen"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "plannen",
+            "toekomst",
+            "voor",
+            "we",
+            "maken",
+            "de"
+          ],
+          "antwoord": "We maken plannen voor de toekomst.",
+          "tr": "Gelecek için planlar yapıyoruz."
+        },
+        {
+          "woorden": [
+            "Scheveningen",
+            "gaan",
+            "om",
+            "naar",
+            "we",
+            "de",
+            "zee",
+            "te",
+            "zien"
+          ],
+          "antwoord": "We gaan naar Scheveningen om de zee te zien.",
+          "tr": "Denizi görmek için Scheveningen'e gidiyoruz."
+        },
+        {
+          "woorden": [
+            "augustus",
+            "Istanbul",
+            "naar",
+            "we",
+            "gaan",
+            "in"
+          ],
+          "antwoord": "We gaan in augustus naar Istanbul.",
+          "tr": "Ağustosta İstanbul'a gidiyoruz."
+        },
+        {
+          "woorden": [
+            "vergeten",
+            "Istanbul",
+            "nooit",
+            "meer",
+            "gaan",
+            "jullie"
+          ],
+          "antwoord": "Jullie gaan Istanbul nooit meer vergeten.",
+          "tr": "İstanbul'u bir daha asla unutmayacaksınız."
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "We maken plannen voor de toekomst.",
+          "tr": "Gelecek için planlar yapıyoruz."
+        },
+        {
+          "nl": "We gaan in augustus naar Istanbul.",
+          "tr": "Ağustosta İstanbul'a gidiyoruz."
+        },
+        {
+          "nl": "Fatima wil ons de oude stad laten zien.",
+          "tr": "Fatima bize eski şehri göstermek istiyor."
+        },
+        {
+          "nl": "Het is fijn om nieuw te beginnen.",
+          "tr": "Yeniden başlamak güzel."
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Gelecek için planlarımız var.",
+          "nl": "We hebben plannen voor de toekomst."
+        },
+        {
+          "tr": "Veda partisi düzenleyeceğiz.",
+          "nl": "We gaan een afscheidsfeestje plannen."
+        },
+        {
+          "tr": "Ağustosta tatilim var.",
+          "nl": "Ik heb vakantie in augustus."
+        },
+        {
+          "tr": "Her şeyi görmek için iki hafta yeterli.",
+          "nl": "Twee weken zijn genoeg om alles te zien."
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Bahar ve Bram neden Scheveningen'e gitmek istiyor?",
+          "opties": [
+            "bir müze ziyareti için",
+            "Yasmin'le denizi görmek için",
+            "iş toplantısı için",
+            "Fatima'yı karşılamak için"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Bahar ve Bram İstanbul'da ne kadar kalacak?",
+          "opties": [
+            "bir hafta",
+            "iki hafta",
+            "üç hafta",
+            "bir ay"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Fatima neden arıyor?",
+          "opties": [
+            "haberler vermek için",
+            "ağustos için izin aldığını söylemek için",
+            "yardım istemek için",
+            "bir şey sormak için"
+          ],
+          "antwoord": 1
+        }
+      ]
+    }
+  },
+  {
+    "lesId": "les_17",
+    "thema": 2,
+    "themaTitel": "Kijken Terug",
+    "hoofdstuk": 7,
+    "hoofdstukNummer": "2.7",
+    "verhaalTitel": "Samen sterk",
+    "verhaal": "Het is een drukke week op het ziekenhuis. Er zijn meer patiënten dan normaal omdat er een griepgolf door de stad gaat. Bahar, Sven en Joost werken hard.\n\nOp woensdagmiddag zitten ze samen in de kantine. Ze zijn alle drie moe maar tevreden.\n— We hebben vandaag goed samengewerkt, zegt Sven.\n— Ja, zegt Joost. Die mevrouw Bakker had echt onze hulp nodig. Ze kon niet zelf ademen.\n— Maar we hebben haar geholpen, zegt Bahar. Dat is het belangrijkste.\n\nSven kijkt naar zijn collega's.\n— Weten jullie wat ik het leukste vind aan dit werk? We kunnen samen problemen oplossen. Ik kan dingen die Joost niet kan. Joost kan dingen die ik niet kan. En Bahar kan dingen die wij allebei niet kunnen.\n— Wat kan ik dan? vraagt Bahar glimlachend.\n— Jij hebt het meeste geduld. En jij begrijpt patiënten op een diep niveau. Je weet niet alleen wat ze voelen maar ook waarom.\n— Dat is de mooiste compliment die ik ooit heb gehoord.\n— Het is ook waar.\n\nJoost knikt.\n— Ik heb van jullie beiden veel geleerd. Sven, jij hebt me geleerd om rustig te blijven in stressvolle situaties. Bahar, jij hebt me geleerd om echt te luisteren.\n— Dat is mooi om te horen, zegt Bahar. Ik ga jullie echt missen als ik weg ben.\n— We gaan jou ook missen, zegt Joost. Maar we gaan contact houden, toch?\n— Absoluut. En je moet komen lunchen in Utrecht.\n— Deal, zegt Joost meteen.\n\nNa de kantine gaat Bahar naar haar patiënten. Ze heeft vandaag vier patiënten op haar lijst. De eerste is een man van vijftig jaar. Hij heeft een operatie gehad gisteren en hij is bang.\n— Goedemiddag meneer Koster. Ik ben Bahar. Hoe voelt u zich?\n— Niet goed. Ik heb pijn. Kan de dokter komen?\n— Ik zal de dokter bellen. Maar vertel me eerst: waar heeft u precies pijn?\n— Hier, aan de zijkant. En ik voel me zwak.\n— Heeft u ook koorts?\n— Ik weet het niet. Ik ben koud maar ook warm.\n— Ik ga uw temperatuur meten. Een moment.\n\nBahar meet zijn temperatuur. Het is 38.6. Licht koorts. Ze belt de dokter direct.\n— Dokter Hendriks, meneer Koster heeft 38.6 graden en pijn aan zijn zijkant. Kunt u langskomen?\n— Ik kom over tien minuten.\n\nBahar blijft bij de patiënt.\n— De dokter komt zo, meneer Koster. Heeft u iemand die bij u kan komen?\n— Mijn vrouw is op komst. Ze komt om vier uur.\n— Dan houd ik hier tot die tijd, zegt Bahar vriendelijk.\n\nDe man kijkt haar aan met dankbare ogen.\n— U bent een goede verpleegkundige. U heeft geduld.\n— Dank u wel. Dat is precies wat mijn collega ook net heeft gezegd.\n\nAan het einde van de dag fietst Bahar naar huis. Het regent een beetje. Ze denkt aan haar collega's en hun gesprek van vanmiddag. Ze hebben gelijk: samen zijn ze sterk. Ze hoopt dat ze dat gevoel ook in Utrecht kan vinden.",
+    "highlights": {
+      "verbs": [
+        "hebben samengewerkt",
+        "kon ademen",
+        "hebben geholpen",
+        "kunnen oplossen",
+        "kan",
+        "kunnen",
+        "heb geleerd",
+        "heeft geleerd",
+        "heb gehoord",
+        "heeft gehad",
+        "ga missen",
+        "gaan contact houden",
+        "heeft gemeten",
+        "blijft",
+        "fietst"
+      ],
+      "conjunctions": [
+        "maar",
+        "en",
+        "want",
+        "omdat",
+        "dat",
+        "of",
+        "ook"
+      ],
+      "scheidbaar": [
+        "samenwerken",
+        "oplossen",
+        "langskomen"
+      ],
+      "tussenwoorden": [
+        "ook",
+        "samen",
+        "allebei",
+        "echt",
+        "precies",
+        "direct",
+        "zo"
+      ]
+    },
+    "woordenschat": {
+      "griepgolf": "grip salgını",
+      "samenwerken": "birlikte çalışmak",
+      "ademen": "nefes almak",
+      "oplossen": "çözmek",
+      "niveau": "seviye",
+      "compliment": "iltifat",
+      "stressvolle situatie": "stresli durum",
+      "luisteren": "dinlemek",
+      "operatie": "ameliyat",
+      "zijkant": "yan taraf",
+      "zwak": "zayıf",
+      "koorts": "ateş",
+      "temperatuur meten": "ateş ölçmek",
+      "licht koorts": "hafif ateş",
+      "langskomen": "uğramak",
+      "op komst zijn": "yolda olmak, geliyor olmak",
+      "dankbaar": "minnettar",
+      "fietsen": "bisikletle gitmek",
+      "geduld": "sabır",
+      "deal": "anlaştık",
+      "griep": "grip"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "Ze ___ hard samengewerkt vandaag.",
+          "antwoord": "hebben",
+          "hint": "hebben + voltooid deelwoord"
+        },
+        {
+          "zin": "Joost ___ haar geholpen.",
+          "antwoord": "heeft",
+          "hint": "hebben + voltooid deelwoord"
+        },
+        {
+          "zin": "Bahar ___ de temperatuur gemeten.",
+          "antwoord": "heeft",
+          "hint": "hebben + voltooid deelwoord"
+        },
+        {
+          "zin": "De man ___ een operatie gehad gisteren.",
+          "antwoord": "heeft",
+          "hint": "hebben + voltooid deelwoord"
+        },
+        {
+          "zin": "We ___ veel geleerd van elkaar.",
+          "antwoord": "hebben",
+          "hint": "hebben + voltooid deelwoord"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "sterk",
+            "we",
+            "samen",
+            "zijn"
+          ],
+          "antwoord": "We zijn samen sterk.",
+          "tr": "Birlikte güçlüyüz."
+        },
+        {
+          "woorden": [
+            "van",
+            "Sven",
+            "ik",
+            "geleerd",
+            "heb",
+            "veel"
+          ],
+          "antwoord": "Ik heb veel van Sven geleerd.",
+          "tr": "Sven'den çok şey öğrendim."
+        },
+        {
+          "woorden": [
+            "patiënten",
+            "luisteren",
+            "naar",
+            "Bahar",
+            "kan",
+            "echt"
+          ],
+          "antwoord": "Bahar kan echt naar patiënten luisteren.",
+          "tr": "Bahar gerçekten hastalara kulak verebilir."
+        },
+        {
+          "woorden": [
+            "gaan",
+            "contact",
+            "we",
+            "houden",
+            "altijd"
+          ],
+          "antwoord": "We gaan altijd contact houden.",
+          "tr": "Her zaman iletişimde kalacağız."
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "We zijn samen sterk.",
+          "tr": "Birlikte güçlüyüz."
+        },
+        {
+          "nl": "Ik heb veel van Sven geleerd.",
+          "tr": "Sven'den çok şey öğrendim."
+        },
+        {
+          "nl": "We hebben vandaag goed samengewerkt.",
+          "tr": "Bugün iyi birlikte çalıştık."
+        },
+        {
+          "nl": "De dokter heeft zijn temperatuur gemeten.",
+          "tr": "Doktor onun ateşini ölçtü."
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Birlikte sorunları çözebiliriz.",
+          "nl": "We kunnen samen problemen oplossen."
+        },
+        {
+          "tr": "Onu çok özleyeceğim.",
+          "nl": "Ik ga hem/haar erg missen."
+        },
+        {
+          "tr": "Hasta ameliyat oldu.",
+          "nl": "De patiënt heeft een operatie gehad."
+        },
+        {
+          "tr": "İyi dinleyebiliyorum.",
+          "nl": "Ik kan goed luisteren."
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Sven'e göre Bahar'nın en büyük yeteneği ne?",
+          "opties": [
+            "hızlı çalışmak",
+            "sabrı ve hastaları derin anlaması",
+            "idare etmek",
+            "teknik beceriler"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Bay Koster'ın sorunu ne?",
+          "opties": [
+            "düşük tansiyon",
+            "ameliyat sonrası ağrı ve hafif ateş",
+            "nefes almakta güçlük",
+            "baş ağrısı"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Joost Sven'den ne öğrendi?",
+          "opties": [
+            "daha hızlı olmayı",
+            "stresli durumlarda sakin kalmayı",
+            "raporları doldurmayı",
+            "ilaçları kontrol etmeyi"
+          ],
+          "antwoord": 1
+        }
+      ]
+    }
+  },
+  {
+    "lesId": "les_18",
+    "thema": 2,
+    "themaTitel": "Kijken Terug",
+    "hoofdstuk": 8,
+    "hoofdstukNummer": "2.8",
+    "verhaalTitel": "Wil je of kun je?",
+    "verhaal": "Het is donderdag. Bahar heeft een rustigere dag. Ze zit met Lena, de stagiaire, in een kleine vergaderruimte. Ze geeft haar uitleg over de procedures op de afdeling.\n\n— Lena, ik wil je iets vragen. Wat wil jij worden? Je zei kinderverpleegkundige, maar ben je daar nog zeker van?\n— Ja, ik wil echt met kinderen werken. Maar soms twijfel ik.\n— Waarover?\n— Of ik het emotioneel aankan. Kinderen die ziek zijn is moeilijker dan volwassenen. Ik wil helpen maar ik weet niet of ik de emoties kan hanteren.\n— Dat is een eerlijke vraag. Kun je mij vertellen wanneer je het moeilijk vindt?\n— Gisteren heb ik een kind gezien. Een meisje van zes. Ze huilde. En ik voelde me zo hulpeloos.\n— Dat voelt bijna iedereen in het begin. Maar ik wil je iets zeggen: het gevoel dat je hulpeloos bent, dat is niet zwakte. Dat is empathie. En empathie is juist goed.\n— Maar kan ik professioneel blijven?\n— Ja. Je kunt professioneel zijn én empathie hebben. Ze sluiten elkaar niet uit. Je leert dat met de tijd.\n\nLena knikt, maar Bahar ziet dat ze nog steeds onzeker is.\n— Wil je weten wat ik deed in mijn eerste jaar?\n— Ja, graag.\n— Ik heb huilen. Elke avond thuis. Mijn man Bram zei altijd: wil je erover praten of wil je gewoon huilen? En ik zei altijd: ik wil gewoon huilen. En dat was goed.\n— Heeft Bram u nooit gezegd dat u moest stoppen?\n— Nee. Hij wist: ik kon het niet stoppen. En hij wilde dat ik alles kon voelen. Dat maakte me een betere verpleegkundige.\n\nNa het gesprek belt Bahar snel Bram.\n— Hoi, ik wilde je even bellen. Ik mis je.\n— Ik jou ook. Drukke dag?\n— Nee, eigenlijk rustig. Ik heb met Lena gepraat. Ze wil kinderverpleegkundige worden maar ze twijfelt aan zichzelf.\n— Wat heb je haar gezegd?\n— Dat ze het kan. Dat empathie geen zwakte is.\n— Precies wat ik ook zou zeggen.\n— Ik wil haar begeleiden. Ze heeft talent maar ze heeft ook iemand nodig die in haar gelooft.\n— En dat ben jij.\n— Ik hoop het.\n\nDiezelfde avond vraagt Bahar aan Ali:\n— Ali, kun jij Yasmin morgen van school halen? Ik werk tot zes uur en Bram heeft een late vergadering.\n— Ja, dat kan ik. Geen probleem. Maar wil je ook dat ze hier eet?\n— Dat zou heel fijn zijn!\n— Ik wil dan iets leuks koken voor haar. Ze wil altijd harira soep. Ik denk dat ze eraan verslaafd is.\n— Ha! Ik ook trouwens.\n— Wil jij ook eten dan? Na je werk?\n— Dat wil ik maar al te graag!\n\nBahar is blij. Ze gaat naar binnen en schrijft een bericht aan Fatima.\n— Fatima, ik heb een vraag. Kan jij mij helpen met Arabische zinnen? Ik wil Ali verrassen. Ik wil hem iets zeggen in het Arabisch.\n— HA! Ja! Wat wil je zeggen?\n— Iets vriendelijks. Dat hij een goede vriend is.\n— Dat kun je zeggen: anta sadeeq tayyib. Dat betekent: jij bent een goede vriend.\n— Perfect. En hoe zeg ik: jij bent een geweldige kok?\n— Anta tabbakh mumtaz.\n— Ik ga het oefenen. Dank je!\n\nBahar oefent de zinnen voor de spiegel. Ze weet dat haar uitspraak niet perfect is. Maar ze wil het proberen. Ze wil laten zien dat ze moeite doet.",
+    "highlights": {
+      "verbs": [
+        "wil worden",
+        "wil helpen",
+        "wil weten",
+        "wil zeggen",
+        "wil begeleiden",
+        "wil koken",
+        "wil eten",
+        "wil verrassen",
+        "wil laten zien",
+        "kan hanteren",
+        "kan professioneel blijven",
+        "kan voelen",
+        "kunt vertellen",
+        "kun jij halen"
+      ],
+      "conjunctions": [
+        "maar",
+        "en",
+        "want",
+        "of",
+        "dat",
+        "ook",
+        "én"
+      ],
+      "scheidbaar": [
+        "uitsluiten",
+        "afhalen"
+      ],
+      "tussenwoorden": [
+        "echt",
+        "nog steeds",
+        "gewoon",
+        "juist",
+        "precies",
+        "eigenlijk"
+      ]
+    },
+    "woordenschat": {
+      "vergaderruimte": "toplantı odası",
+      "procedure": "prosedür, yöntem",
+      "emotioneel aankunnen": "duygusal olarak baş edebilmek",
+      "hanteren": "yönetmek, baş etmek",
+      "hulpeloos": "çaresiz",
+      "empathie": "empati",
+      "zwakte": "zayıflık",
+      "professioneel": "profesyonel",
+      "uitsluiten": "dışlamak",
+      "twijfelen": "şüphe etmek, tereddüt etmek",
+      "verslaafd zijn aan": "bağımlı olmak",
+      "verrassen": "şaşırtmak",
+      "uitspraak": "telaffuz",
+      "moeite doen": "çaba göstermek",
+      "spiegel": "ayna",
+      "zinnen oefenen": "cümle alıştırması yapmak",
+      "in iemand geloven": "birine inanmak",
+      "maar al te graag": "çok büyük bir zevkle",
+      "trouwens": "ayrıca, bir de"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "Lena ___ kinderverpleegkundige worden.",
+          "antwoord": "wil",
+          "hint": "willen"
+        },
+        {
+          "zin": "___ je mij vertellen wanneer het moeilijk is?",
+          "antwoord": "Kun",
+          "hint": "kunnen"
+        },
+        {
+          "zin": "Ik ___ haar begeleiden.",
+          "antwoord": "wil",
+          "hint": "willen"
+        },
+        {
+          "zin": "___ jij Yasmin ophalen?",
+          "antwoord": "Kun",
+          "hint": "kunnen"
+        },
+        {
+          "zin": "Ik ___ hem iets zeggen in het Arabisch.",
+          "antwoord": "wil",
+          "hint": "willen"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "kinderverpleegkundige",
+            "Lena",
+            "wil",
+            "worden"
+          ],
+          "antwoord": "Lena wil kinderverpleegkundige worden.",
+          "tr": "Lena çocuk hemşiresi olmak istiyor."
+        },
+        {
+          "woorden": [
+            "emoties",
+            "jij",
+            "kunt",
+            "hanteren",
+            "de"
+          ],
+          "antwoord": "Jij kunt de emoties hanteren.",
+          "tr": "Sen duygularla baş edebilirsin."
+        },
+        {
+          "woorden": [
+            "ik",
+            "Arabisch",
+            "wil",
+            "leren"
+          ],
+          "antwoord": "Ik wil Arabisch leren.",
+          "tr": "Arapça öğrenmek istiyorum."
+        },
+        {
+          "woorden": [
+            "Ali",
+            "van",
+            "school",
+            "kun",
+            "jij",
+            "Yasmin",
+            "halen",
+            "?"
+          ],
+          "antwoord": "Kun jij Yasmin van school halen?",
+          "tr": "Yasmin'i okuldan alabilir misin?"
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "Lena wil kinderverpleegkundige worden.",
+          "tr": "Lena çocuk hemşiresi olmak istiyor."
+        },
+        {
+          "nl": "Kun jij mij vertellen wanneer het moeilijk is?",
+          "tr": "Ne zaman zor olduğunu bana anlatabilir misin?"
+        },
+        {
+          "nl": "Ik wil hem verrassen.",
+          "tr": "Onu şaşırtmak istiyorum."
+        },
+        {
+          "nl": "Kun jij Yasmin van school halen?",
+          "tr": "Yasmin'i okuldan alabilir misin?"
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Doktor olmak istiyorum.",
+          "nl": "Ik wil dokter worden."
+        },
+        {
+          "tr": "Bunu yapabilir misin?",
+          "nl": "Kun jij dit doen?"
+        },
+        {
+          "tr": "Seni görmek istiyorum.",
+          "nl": "Ik wil jou zien."
+        },
+        {
+          "tr": "Arabayı alabilir misin?",
+          "nl": "Kun jij de auto ophalen?"
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Lena neden çocuk hemşiresi olmaktan emin değil?",
+          "opties": [
+            "çocukları sevmiyor",
+            "duyguları yönetip yönetemeyeceğinden emin değil",
+            "çok yorucu buluyor",
+            "ebeveynlerinden korkuyor"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Bahar Lena'ya ne söylüyor?",
+          "opties": [
+            "empatinin bir zayıflık olduğunu",
+            "empatinin iyi olduğunu ve zamanla profosyonel olabileceğini",
+            "başka bir meslek seçmesini",
+            "daha az hissetmesini"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Bahar neden Fatima'dan Arapça cümleler istiyor?",
+          "opties": [
+            "Arapça sınavı için",
+            "Ali'yi şaşırtmak için",
+            "hastalarla konuşmak için",
+            "iş başvurusu için"
+          ],
+          "antwoord": 1
+        }
+      ]
+    }
+  },
+  {
+    "lesId": "les_19",
+    "thema": 2,
+    "themaTitel": "Kijken Terug",
+    "hoofdstuk": 9,
+    "hoofdstukNummer": "2.9",
+    "verhaalTitel": "Terug naar het begin",
+    "verhaal": "Het is de laatste week voor de verhuizing. Bahar loopt voor het laatste door de gangen van haar ziekenhuis als vaste verpleegkundige. Ze pakt haar spullen uit haar kluisje. Ze heeft foto's en kaartjes van patiënten bewaard.\n\nOp de afdeling heeft het team een kleine afscheidsborrel voor haar georganiseerd. Sven heeft een taart gekocht. Joost heeft een kaart laten tekenen door de hele afdeling. Lena heeft een boekenbon gegeven.\n\n— Bahar, je gaat hier een groot gat achterlaten, zegt Sven.\n— Dat valt wel mee, zegt ze, maar haar ogen zijn vochtig.\n— Nee, echt. Jij bent hier de ziel van de afdeling.\n— Sven, hou op. Je maakt me aan het huilen.\n— Dat is de bedoeling, zegt Joost lachend.\n\nBahar omhelst iedereen. Ze belooft te bezoeken. Ze belooft te mailen.\n\nOp haar laatste dag rijdt ze na haar dienst naar de Jordaan, haar favoriete buurt in Amsterdam. Ze loopt langs de grachten. Ze kijkt naar de oude huizen en de boten. Ze gaat een kopje koffie drinken op het terras van haar stamkafé.\n\nZe belt Bram.\n— Ik zit op het terras. Bij Café Amsterdam.\n— Ik kom, zegt hij direct. Geef me twintig minuten.\n\nAls Bram aankomt, zijn ze stil een tijdje. Ze kijken naar het water.\n— Weet je nog de eerste keer dat we hier kwamen? zegt Bahar.\n— Ja. We waren pas een maand samen. Jij had een rode jurk aan.\n— En jij was te verlegen om te zeggen dat je verliefd was.\n— Ik was niet verlegen! Ik was... strategisch.\n— Ha! Strategisch.\n— We zijn hier gekomen, jij hebt koffie besteld, en ik dacht: met deze vrouw wil ik oud worden.\n— Dat heb je nooit verteld!\n— Dat vertel ik nu.\n\nBahar pakt zijn hand. Ze kijkt naar de grachten.\n— Ik ga Amsterdam missen.\n— Ik ook. Maar Utrecht heeft ook grachten. En we gaan terug komen, elke maand als het kan.\n— En Ali en Yasmin?\n— Die komen ons bezoeken. Dat heeft Ali beloofd.\n\nDe volgende dag is het grote dag. De verhuiswagen staat voor de deur. Ali en Yasmin zijn er ook. Yasmin draagt dozen naar buiten.\n— Ik help ook! zegt ze trots.\n— Wat zou ik zonder jou doen? zegt Bahar.\n\nAls de laatste dozen in de vrachtwagen zijn gegaan, staat Bahar voor haar lege huis. Ze denkt aan alles wat hier is begonnen. De eerste keer dat ze Ali zag. De koffie in de keuken. De wasmachine die kapot was. Het etentje bij Ali thuis.\n\nAli legt zijn hand op haar schouder.\n— Je gaat niet weg voor altijd. Je gaat naar een nieuw begin.\n— Weet ik. Maar het is toch moeilijk.\n— Zo is het leven. Je gaat. Je komt terug. En ondertussen draag je alles mee wat je hebt geleerd.\n\nBahar kijkt hem aan.\n— Anta sadeeq tayyib, zegt ze zacht.\n\nAli's ogen worden groot. Dan glimlacht hij breed.\n— Waar heb je dat geleerd?\n— Geheim, zegt Bahar lachend.\n— Jij bent een bijzonder mens, Bahar.\n— Jij ook, Ali. Jij ook.",
+    "highlights": {
+      "verbs": [
+        "loopt",
+        "pakt",
+        "heeft georganiseerd",
+        "heeft gekocht",
+        "heeft laten tekenen",
+        "heeft gegeven",
+        "rijdt",
+        "loopt langs",
+        "gaat drinken",
+        "belt",
+        "aankomt",
+        "kwamen",
+        "had",
+        "was",
+        "besteld",
+        "dacht",
+        "wil",
+        "missen",
+        "gaan bezoeken",
+        "gaan komen",
+        "is begonnen",
+        "draagt",
+        "gaat"
+      ],
+      "conjunctions": [
+        "maar",
+        "en",
+        "want",
+        "dat",
+        "als",
+        "terwijl",
+        "toch"
+      ],
+      "scheidbaar": [
+        "achterlaten",
+        "ophouden",
+        "terugkomen"
+      ],
+      "tussenwoorden": [
+        "voor het laatste",
+        "direct",
+        "toch",
+        "ondertussen",
+        "nooit",
+        "pas",
+        "breed"
+      ]
+    },
+    "woordenschat": {
+      "gang": "koridor",
+      "kluisje": "dolap, locker",
+      "kaartje": "kart",
+      "bewaren": "saklamak, korumak",
+      "afscheidsborrel": "veda içkisi/partisi",
+      "taart": "pasta",
+      "boekenbon": "kitap hediye çeki",
+      "ziel": "ruh",
+      "gat achterlaten": "boşluk bırakmak",
+      "omhelzen": "kucaklamak",
+      "gracht": "kanal (Amsterdam kanalları)",
+      "terras": "teras, dış mekan oturma alanı",
+      "stamkafé": "uğrak kafe",
+      "aankomt": "varıyor",
+      "jurk": "elbise",
+      "verlegen": "utangaç",
+      "verliefd": "aşık",
+      "strategisch": "stratejik",
+      "oud worden": "yaşlanmak",
+      "verhuiswagen": "taşınma kamyonu",
+      "ondertussen": "bu arada",
+      "breed": "geniş; geniş (gülümseme)"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "Bahar ___ voor het laatste door de gangen.",
+          "antwoord": "loopt",
+          "hint": "lopen"
+        },
+        {
+          "zin": "Sven ___ een taart gekocht.",
+          "antwoord": "heeft",
+          "hint": "hebben"
+        },
+        {
+          "zin": "Ze ___ terugkomen, elke maand.",
+          "antwoord": "gaan",
+          "hint": "gaan"
+        },
+        {
+          "zin": "Ali en Yasmin ___ hen bezoeken.",
+          "antwoord": "gaan",
+          "hint": "gaan"
+        },
+        {
+          "zin": "Bahar ___ Amsterdam missen.",
+          "antwoord": "gaat",
+          "hint": "gaan"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "het",
+            "missen",
+            "ik",
+            "ga",
+            "ziekenhuis"
+          ],
+          "antwoord": "Ik ga het ziekenhuis missen.",
+          "tr": "Hastaneyi özleyeceğim."
+        },
+        {
+          "woorden": [
+            "begin",
+            "een",
+            "naar",
+            "gaan",
+            "nieuw",
+            "je"
+          ],
+          "antwoord": "Je gaat naar een nieuw begin.",
+          "tr": "Yeni bir başlangıca gidiyorsun."
+        },
+        {
+          "woorden": [
+            "Ali",
+            "grachten",
+            "langs",
+            "Bahar",
+            "en",
+            "lopen",
+            "de"
+          ],
+          "antwoord": "Bahar en Ali lopen langs de grachten.",
+          "tr": "Bahar ve Ali kanallar boyunca yürüyorlar."
+        },
+        {
+          "woorden": [
+            "terug",
+            "we",
+            "elke",
+            "maand",
+            "gaan",
+            "komen"
+          ],
+          "antwoord": "We gaan elke maand terugkomen.",
+          "tr": "Her ay geri geleceğiz."
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "Je gaat naar een nieuw begin.",
+          "tr": "Yeni bir başlangıca gidiyorsun."
+        },
+        {
+          "nl": "Ik ga het ziekenhuis missen.",
+          "tr": "Hastaneyi özleyeceğim."
+        },
+        {
+          "nl": "We gaan elke maand terugkomen.",
+          "tr": "Her ay geri geleceğiz."
+        },
+        {
+          "nl": "Ze loopt langs de grachten.",
+          "tr": "Kanallar boyunca yürüyor."
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Seni özleyeceğim.",
+          "nl": "Ik ga jou missen."
+        },
+        {
+          "tr": "Her ay geri gelecekler.",
+          "nl": "Ze gaan elke maand terugkomen."
+        },
+        {
+          "tr": "Yeni bir başlangıç.",
+          "nl": "Een nieuw begin."
+        },
+        {
+          "tr": "Kanallar boyunca yürüdük.",
+          "nl": "We zijn langs de grachten gelopen."
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Bram Bahar'ya Café Amsterdam'da ne itiraf ediyor?",
+          "opties": [
+            "Utrecht'e gitmek istemediğini",
+            "kanalları özlediğini",
+            "onu ilk görüşten beri sevdiğini",
+            "kafada kalmayı tercih ettiğini"
+          ],
+          "antwoord": 2
+        },
+        {
+          "vraagTr": "Ali Bahar'ya ne söylüyor taşınma sırasında?",
+          "opties": [
+            "çok üzgün olduğunu",
+            "gitmesinin bir yeni başlangıç olduğunu",
+            "artık arkadaş olmayacaklarını",
+            "Utrecht'te çalışabileceğini"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Bahar Ali'ye Arapça ne söylüyor?",
+          "opties": [
+            "hoşça kal",
+            "sen iyi bir arkadaşsın",
+            "teşekkürler",
+            "seni özleyeceğim"
+          ],
+          "antwoord": 1
+        }
+      ]
+    }
+  },
+  {
+    "lesId": "les_20",
+    "thema": 2,
+    "themaTitel": "Kijken Terug",
+    "hoofdstuk": 10,
+    "hoofdstukNummer": "2.10",
+    "verhaalTitel": "Alles wat er is gebeurd",
+    "verhaal": "Het is drie weken na de verhuizing. Bahar en Bram wonen nu in Utrecht. Het nieuwe huis heeft een kleine tuin, precies zoals Bahar wilde. Er staan al drie plantjes op de vensterbank.\n\nBahar begint volgende week bij het UMC Utrecht. Ze heeft de positie gekregen. Senior verpleegkundige op de cardiologie afdeling. Ze is trots maar ook nerveus.\n\nOp zaterdagochtend zitten ze buiten in de tuin met koffie. Het is warm.\n— Kun je geloven dat het al drie weken is? zegt Bahar.\n— Nee, zegt Bram. Het voelt als gisteren. Maar ook als lang geleden.\n— Grappig hè, hoe tijd werkt.\n\nBahar pakt haar notitieboekje. Ze heeft besloten om terug te kijken. Alles wat er is gebeurd in de afgelopen maanden.\n\nIn het begin was er Ali. Een nieuwe buurman die vriendelijkheid uitstraalde. Ze hebben koffie gedronken, over hun levens gepraat, gelachen en gehuild. Ze hebben elkaars kinderen leren kennen... nou ja, Yasmin dan. Maar ook Bahar voelt zich beetje een oudere zus voor Yasmin geworden.\n\nEr was meneer De Vries, de man met het hartprobleem die zo dankbaar was. Hij heeft haar een kaart gestuurd vanuit Haarlem. Hij schrijft dat het goed gaat met hem. Zijn dochter zorgt goed voor hem.\n\nEr was Lena, de stagiaire. Lena heeft haar gevraagd of ze contact mogen houden. Bahar heeft ja gezegd. Lena heeft haar al drie keer gemaild.\n\nEr was Rotterdam, de trein, de Euromast, de couscous, de Arabische zinnen, de tekenwedstrijd, de rode keuken... nou ja, lichtgele keuken.\n\nEr was het concert in het Concertgebouw, de nacht dat ze bijna tien uur sliep, de dag dat Yasmin haar tekening won.\n\nEr was de beslissing om te verhuizen. En de angst. En de opwinding.\n\nEr was het afscheid op het ziekenhuis. Sven met de taart. Joost met de kaart. De tranen.\n\nEr was de laatste koffie bij Café Amsterdam, bij de grachten.\n\nEr was de dag van de verhuizing, en Ali die zei: je gaat naar een nieuw begin.\n\n— Bram, denk je dat we de goede keuze hebben gemaakt?\n— Ja. Ik denk van wel. En jij?\n— Ik ook. Maar ik mis Amsterdam.\n— Ik ook. We gaan er dit weekend naartoe. Ali heeft gevraagd of we willen eten.\n— Echt? Wanneer heeft hij dat gevraagd?\n— Gisteren. Hij heeft mij gebeld. Hij mist jullie ook.\n— Dan gaan we zeker!\n\nDe volgende dag belt Bahar Fatima.\n— Fatima, we hebben een tuin!\n— Bahar! Hoe is het nieuwe huis?\n— Fijn. Anders. Maar goed. Utrecht is een mooie stad.\n— Hebben jullie vrienden al?\n— Nog niet echt. Maar Brams collega's zijn aardig. We gaan binnenkort een BBQ doen.\n— En hoe voel je je over je nieuwe werk?\n— Nerveus. Maar ook blij. Ik heb besloten om de cursus hartverpleging te beginnen naast mijn werk.\n— Jij bent altijd bezig! Ik ben trots op je.\n— En jij? Alles goed in Istanbul?\n— Ja! En ik heb nieuws. Ik heb een vriend. Hij heet Mehmet. Hij is ook hotelmedewerker.\n— FATIMA! Waarom heb je dat niet eerder gezegd?\n— Ik was verlegen. Maar nu gaat het goed.\n— Je moet hem meenemen naar Utrecht! Of wij komen naar Istanbul en we ontmoeten hem.\n— Als jullie in augustus komen!\n— Dan ontmoeten we hem. Dat beloof ik.\n\nBahar legt haar notitieboekje neer. Ze kijkt naar de tuin. Een vogel zit op het hek. Het is stil en vredig.\n\nZe denkt: alles wat er is gebeurd heeft mij gemaakt tot wie ik ben. En er gaat nog veel meer gebeuren. En dat is goed.",
+    "highlights": {
+      "verbs": [
+        "is gebeurd",
+        "heeft gekregen",
+        "heeft gedronken",
+        "hebben gepraat",
+        "hebben gelachen",
+        "hebben gehuild",
+        "heeft gestuurd",
+        "heeft gevraagd",
+        "heeft gemaild",
+        "heeft gewonnen",
+        "hebben gemaakt",
+        "heeft gebeld",
+        "heb besloten",
+        "heeft gezegd"
+      ],
+      "conjunctions": [
+        "maar",
+        "en",
+        "want",
+        "dat",
+        "of",
+        "ook",
+        "nou ja"
+      ],
+      "scheidbaar": [
+        "uitstralen",
+        "terugkijken"
+      ],
+      "tussenwoorden": [
+        "al",
+        "ook",
+        "echt",
+        "precies",
+        "binnenkort",
+        "nog niet"
+      ]
+    },
+    "woordenschat": {
+      "vensterbank": "pencere kenarı",
+      "plantje": "küçük bitki",
+      "cardiologie": "kardiyoloji",
+      "terugkijken": "geriye bakmak",
+      "uitstralen": "yaymak, iletmek",
+      "oudere zus": "büyük kız kardeş",
+      "kaart sturen": "kart göndermek",
+      "zorgen voor": "bakmak, ilgilenmek",
+      "contact houden": "iletişimde kalmak",
+      "mailen": "e-posta atmak",
+      "opwinding": "heyecan",
+      "afscheid": "veda",
+      "keuze": "seçim",
+      "naartoe gaan": "oraya gitmek",
+      "BBQ": "barbekü",
+      "nerveus": "gergin",
+      "verlegen": "utangaç",
+      "hotelmedewerker": "otel çalışanı",
+      "vredig": "huzurlu, sakin",
+      "vogel": "kuş",
+      "hek": "çit, parmaklık",
+      "gemaakt tot": "yapmak, dönüştürmek"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "Alles wat er ___ is mij bijgebleven.",
+          "antwoord": "is gebeurd",
+          "hint": "gebeuren (perfectum)"
+        },
+        {
+          "zin": "Bahar ___ de nieuwe positie ___.",
+          "antwoord": "heeft / gekregen",
+          "hint": "krijgen (perfectum)"
+        },
+        {
+          "zin": "Meneer De Vries ___ haar een kaart ___.",
+          "antwoord": "heeft / gestuurd",
+          "hint": "sturen (perfectum)"
+        },
+        {
+          "zin": "Ali ___ Bram ___.",
+          "antwoord": "heeft / gebeld",
+          "hint": "bellen (perfectum)"
+        },
+        {
+          "zin": "Lena ___ haar al drie keer ___.",
+          "antwoord": "heeft / gemaild",
+          "hint": "mailen (perfectum)"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "is",
+            "alles",
+            "wat",
+            "er",
+            "mij",
+            "gemaakt",
+            "heeft"
+          ],
+          "antwoord": "Alles wat er is heeft mij gemaakt.",
+          "tr": "Olan her şey beni yaptı."
+        },
+        {
+          "woorden": [
+            "kaart",
+            "De Vries",
+            "gestuurd",
+            "meneer",
+            "heeft",
+            "een",
+            "haar"
+          ],
+          "antwoord": "Meneer De Vries heeft haar een kaart gestuurd.",
+          "tr": "Bay De Vries ona bir kart gönderdi."
+        },
+        {
+          "woorden": [
+            "besloten",
+            "cursus",
+            "ik",
+            "te",
+            "beginnen",
+            "heb",
+            "de"
+          ],
+          "antwoord": "Ik heb besloten de cursus te beginnen.",
+          "tr": "Kursa başlamaya karar verdim."
+        },
+        {
+          "woorden": [
+            "Ali",
+            "gebeld",
+            "gisteren",
+            "Bram",
+            "heeft"
+          ],
+          "antwoord": "Ali heeft gisteren Bram gebeld.",
+          "tr": "Ali dün Bram'ı aradı."
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "Alles wat er is gebeurd heeft mij gemaakt tot wie ik ben.",
+          "tr": "Olan her şey beni bugünkü ben yaptı."
+        },
+        {
+          "nl": "Meneer De Vries heeft haar een kaart gestuurd.",
+          "tr": "Bay De Vries ona bir kart gönderdi."
+        },
+        {
+          "nl": "Ik heb besloten de cursus te beginnen.",
+          "tr": "Kursa başlamaya karar verdim."
+        },
+        {
+          "nl": "Ali heeft Bram gebeld.",
+          "tr": "Ali, Bram'ı aradı."
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Ne oldu?",
+          "nl": "Wat is er gebeurd?"
+        },
+        {
+          "tr": "Ona bir kart gönderdim.",
+          "nl": "Ik heb haar een kaart gestuurd."
+        },
+        {
+          "tr": "Kursa başlamaya karar verdim.",
+          "nl": "Ik heb besloten de cursus te beginnen."
+        },
+        {
+          "tr": "Bizi aradı.",
+          "nl": "Hij heeft ons gebeld."
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Bahar Utrecht'teki yeni işinde ne olacak?",
+          "opties": [
+            "çocuk hemşiresi",
+            "kardiyoloji bölümünde kıdemli hemşire",
+            "acil servis hemşiresi",
+            "eğitmen hemşire"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Fatima'nın haberi ne?",
+          "opties": [
+            "yeni bir işi var",
+            "nişanlanıyor",
+            "Mehmet adında bir erkek arkadaşı var",
+            "taşınıyor"
+          ],
+          "antwoord": 2
+        },
+        {
+          "vraagTr": "Bahar yaşananlar hakkında ne düşünüyor?",
+          "opties": [
+            "çok yorucuydu",
+            "her şey onu bugünkü o yaptı ve daha çok şey olacak",
+            "keşke Amsterdam'da kalsaydı",
+            "kararsız"
+          ],
+          "antwoord": 1
+        }
+      ]
+    }
+  },
+  {
+    "lesId": "les_21",
+    "thema": 2,
+    "themaTitel": "Kijken Terug",
+    "hoofdstuk": 11,
+    "hoofdstukNummer": "2.11",
+    "verhaalTitel": "De toekomst begint vandaag",
+    "verhaal": "Het is Bahar's eerste dag bij het UMC Utrecht. Ze staat vroeg op en zet koffie. Ze is nerveus maar vastberaden.\n\nBram staat ook vroeg op om haar uit te zwaaien.\n— Hoe voel je je?\n— Als een nieuwe student op de eerste schooldag.\n— Dat is goed. Betekent dat je iets nieuws gaat leren.\n— Ik hoop het. Ik wil goed beginnen.\n— Je gaat het geweldig doen. Ik weet het zeker.\n\nIn de tram naar het ziekenhuis luistert Bahar naar muziek. Ze denkt aan alles wat ze heeft geleerd. Ze denkt aan Sven en zijn rust. Ze denkt aan Joost en zijn snelheid. Ze denkt aan de patiënten die haar hebben geleerd wat geduld betekent.\n\nBij de ingang van het UMC staat een collega haar op te wachten. Een vrouw van ongeveer veertig jaar. Ze glimlacht warm.\n— Bahar? Ik ben Karen. Ik ben jouw buddy voor de eerste weken.\n— Karen, wat fijn! Dank je dat je er bent.\n— Het is mijn plezier. Ik herinner me mijn eerste dag nog goed. Ik was ook zenuwachtig.\n— Is het normaal?\n— Heel normaal. Maar over een week voelt dit als thuis.\n\nKaren geeft haar een rondleiding door de afdeling. De cardiologie is groter dan Bahar had verwacht. Er zijn drie gangen, twaalf kamers, en een grote verpleegsteerbalie in het midden.\n\nEr zijn ook nieuwe gezichten. Een jongere verpleegkundige heet Pieter. Hij is stil maar efficiënt. Een andere collega heet mevrouw Smits. Ze is al dertig jaar verpleegkundige.\n\n— Mevrouw Smits, zegt Karen, dit is Bahar. Ze komt uit Amsterdam.\n— Amsterdam! Wat een prachtige stad. Waarom bent u hier gekomen?\n— Mijn man heeft promotie gekregen. En ik heb ook een mooie kans gekregen hier.\n— Dan zijn jullie allebei gelukkig, zegt mevrouw Smits vriendelijk.\n— Ja, zegt Bahar glimlachend. Dat zijn we.\n\nTijdens de lunch belt Ali.\n— Bahar! Je eerste dag! Hoe gaat het?\n— Goed! En spannend. De afdeling is groot. Er zijn veel mensen.\n— Ben jij bang?\n— Een beetje. Maar ook blij. Ik ga hier iets goeds opbouwen, denk ik.\n— Dat weet ik zeker. En Yasmin vraagt of je snel komt eten.\n— Ha! Zeg haar: binnenkort. We komen dit weekend naar Amsterdam.\n— Yasmin wordt gek van vreugde.\n— En jij?\n— Ik ook, geeft Ali toe. Een beetje.\n\nNa de lunch gaat Bahar naar haar eerste patiënt. Een man van zestig. Hij heeft een hartoperatie gehad vorige week en hij herstelt goed. Maar hij is somber.\n— Goedemiddag meneer Vermeer. Ik ben Bahar. Ik ben uw nieuwe verpleegkundige.\n— Nieuw? Waar is Wendy?\n— Wendy is op vakantie. Ik vervang haar tijdelijk.\n— Bent u goed?\n— Ik doe mijn best. Maar u vertelt mij: hoe voelt u zich vandaag?\n— Ik ben moe. En ik mis mijn hond. Hij wacht thuis op mij.\n— Hoe heet uw hond?\n— Boris. Een labrador. Hij is al tien jaar mijn vriend.\n— Dat is mooi. Dan heeft Boris een goede baas. En Boris heeft een goede vriend die snel thuiskomt.\n\nDe man kijkt haar aan. Zijn ogen worden zachter.\n— U bent aardig.\n— Dank u. U ook.\n\nAan het einde van haar eerste dag rijdt Bahar naar huis. Ze is moe maar tevreden. Ze heeft iets gedaan wat ze goed kan. Ze heeft mensen geholpen. Ze heeft nieuwe vrienden gemaakt.\n\nThuis staat Bram aan het koken.\n— En? Hoe was het?\n— Goed. Heel goed. Ik denk dat ik hier gelukkig ga worden.\n— Ik wist het, zegt Bram.\n— Maar ik mis Amsterdam ook nog.\n— Dat mag. Je kunt van twee plekken houden.\n\nBahar glimlacht.\n— Weet je wat het mooiste was vandaag?\n— Wat dan?\n— Een patiënt was somber. Hij miste zijn hond. Ik heb vijf minuten met hem over de hond gepraat. Daarna was hij minder somber.\n— Vijf minuten.\n— Vijf minuten. Soms is dat alles wat mensen nodig hebben. Gewoon iemand die luistert.\n\nBram kijkt haar aan met liefde.\n— Dat ben jij. Precies dat.\n\nBahar pakt haar notitieboekje. Ze schrijft één zin op de nieuwe bladzijde.\n\nDe toekomst begint vandaag.",
+    "highlights": {
+      "verbs": [
+        "staat",
+        "gaat",
+        "gaat leren",
+        "gaat doen",
+        "gaat beginnen",
+        "gaat opbouwen",
+        "gaat worden",
+        "gaat komen",
+        "gaat herstellen",
+        "ga worden",
+        "ga zijn"
+      ],
+      "conjunctions": [
+        "maar",
+        "en",
+        "want",
+        "dat",
+        "als",
+        "of",
+        "want"
+      ],
+      "scheidbaar": [
+        "uitwaaien",
+        "opwachten",
+        "opbouwen",
+        "terugkomen"
+      ],
+      "tussenwoorden": [
+        "ook",
+        "snel",
+        "tijdelijk",
+        "precies",
+        "gewoon",
+        "binnenkort",
+        "soms"
+      ]
+    },
+    "woordenschat": {
+      "vastberaden": "kararlı",
+      "uitwaaien": "uğurlamak",
+      "betekenen": "anlamına gelmek",
+      "buddy": "rehber arkadaş",
+      "rondleiding": "tur, gezinti",
+      "verpleegstersbalie": "hemşire gişesi",
+      "efficiënt": "verimli, etkin",
+      "promotie krijgen": "terfi almak",
+      "opbouwen": "inşa etmek, kurmak",
+      "vreugde": "sevinç",
+      "toegeven": "kabul etmek, itiraf etmek",
+      "herstellen": "iyileşmek",
+      "somber": "kasvetli, neşesiz",
+      "vervangen": "yerine geçmek",
+      "tijdelijk": "geçici",
+      "labrador": "labrador (köpek cinsi)",
+      "zachter": "daha yumuşak",
+      "bladzijde": "sayfa",
+      "notitieboekje": "not defteri",
+      "plek": "yer",
+      "van twee plekken houden": "iki yeri de sevmek"
+    },
+    "oefeningen": {
+      "vulIn": [
+        {
+          "zin": "Bahar ___ hier iets goeds opbouwen.",
+          "antwoord": "gaat",
+          "hint": "gaan + infinitief"
+        },
+        {
+          "zin": "Ze ___ geweldig doen.",
+          "antwoord": "gaat",
+          "hint": "gaan + infinitief"
+        },
+        {
+          "zin": "We ___ dit weekend naar Amsterdam ___.",
+          "antwoord": "gaan / komen",
+          "hint": "gaan + infinitief"
+        },
+        {
+          "zin": "Ik ___ hier gelukkig ___.",
+          "antwoord": "ga / worden",
+          "hint": "gaan + infinitief"
+        },
+        {
+          "zin": "De toekomst ___ vandaag.",
+          "antwoord": "begint",
+          "hint": "beginnen"
+        }
+      ],
+      "zinBouwen": [
+        {
+          "woorden": [
+            "opbouwen",
+            "hier",
+            "Bahar",
+            "iets",
+            "goeds",
+            "gaat"
+          ],
+          "antwoord": "Bahar gaat hier iets goeds opbouwen.",
+          "tr": "Bahar burada güzel şeyler inşa edecek."
+        },
+        {
+          "woorden": [
+            "gelukkig",
+            "ik",
+            "ga",
+            "hier",
+            "worden"
+          ],
+          "antwoord": "Ik ga hier gelukkig worden.",
+          "tr": "Burada mutlu olacağım."
+        },
+        {
+          "woorden": [
+            "begint",
+            "toekomst",
+            "vandaag",
+            "de"
+          ],
+          "antwoord": "De toekomst begint vandaag.",
+          "tr": "Gelecek bugün başlıyor."
+        },
+        {
+          "woorden": [
+            "luistert",
+            "gewoon",
+            "iemand",
+            "die",
+            "nodig",
+            "mensen",
+            "hebben"
+          ],
+          "antwoord": "Mensen hebben gewoon iemand nodig die luistert.",
+          "tr": "İnsanlar sadece dinleyen birine ihtiyaç duyuyor."
+        }
+      ],
+      "vertaalNlTr": [
+        {
+          "nl": "De toekomst begint vandaag.",
+          "tr": "Gelecek bugün başlıyor."
+        },
+        {
+          "nl": "Bahar gaat hier gelukkig worden.",
+          "tr": "Bahar burada mutlu olacak."
+        },
+        {
+          "nl": "We gaan dit weekend naar Amsterdam komen.",
+          "tr": "Bu hafta sonu Amsterdam'a geleceğiz."
+        },
+        {
+          "nl": "Soms is vijf minuten genoeg.",
+          "tr": "Bazen beş dakika yeterli."
+        }
+      ],
+      "vertaalTrNl": [
+        {
+          "tr": "Gelecek bugün başlıyor.",
+          "nl": "De toekomst begint vandaag."
+        },
+        {
+          "tr": "Burada iyi şeyler inşa edeceğim.",
+          "nl": "Ik ga hier iets goeds opbouwen."
+        },
+        {
+          "tr": "Bu hafta sonu geliyoruz.",
+          "nl": "We gaan dit weekend komen."
+        },
+        {
+          "tr": "İki yeri de sevebilirsin.",
+          "nl": "Je kunt van twee plekken houden."
+        }
+      ],
+      "begrip": [
+        {
+          "vraagTr": "Karen kimdir?",
+          "opties": [
+            "Bahar'nın eski meslektaşı",
+            "Bahar'nın ilk haftalar için rehberi",
+            "Bahar'nın hastası",
+            "bir doktor"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Bay Vermeer neden üzgün?",
+          "opties": [
+            "ailesini özlüyor",
+            "köpeğini Boris'i özlüyor",
+            "iyi hissetmiyor",
+            "ödeme sorunları var"
+          ],
+          "antwoord": 1
+        },
+        {
+          "vraagTr": "Bahar'ya göre hastalar ne zaman daha iyi hissediyor?",
+          "opties": [
+            "ilaçlar yardımcı olduğunda",
+            "iyi bir yemek yediklerinde",
+            "sadece dinleyen biri olduğunda",
+            "egzersiz yaptıklarında"
+          ],
+          "antwoord": 2
+        }
+      ]
+    }
+  }
+]

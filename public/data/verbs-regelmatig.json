@@ -1,0 +1,1469 @@
+[
+  {
+    "infinitief": "draaien",
+    "tr": "dönmek",
+    "en": "turn",
+    "type": "regelmatig",
+    "imperfectum_s": "draaide",
+    "imperfectum_p": "draaiden",
+    "perfectum": "heeft/is gedraaid"
+  },
+  {
+    "infinitief": "(zich) haasten",
+    "tr": "acele etmek",
+    "en": "hurry",
+    "type": "regelmatig",
+    "imperfectum_s": "haastte zich",
+    "imperfectum_p": "haastten zich",
+    "perfectum": "heeft zich gehaast"
+  },
+  {
+    "infinitief": "aanraken",
+    "tr": "dokunmak",
+    "en": "touch",
+    "type": "regelmatig",
+    "imperfectum_s": "raakte aan",
+    "imperfectum_p": "raakte aan",
+    "perfectum": "heeft aangeraakt"
+  },
+  {
+    "infinitief": "aanvaarden",
+    "tr": "kabul etmek",
+    "en": "accept, accede",
+    "type": "regelmatig",
+    "imperfectum_s": "aanvaardde",
+    "imperfectum_p": "aanvaardden",
+    "perfectum": "heeft aanvaard"
+  },
+  {
+    "infinitief": "abonneren",
+    "tr": "abone olmak",
+    "en": "subscribe",
+    "type": "regelmatig",
+    "imperfectum_s": "abonneerde",
+    "imperfectum_p": "abonneerden",
+    "perfectum": "heeft geabonneerd"
+  },
+  {
+    "infinitief": "adapteren",
+    "tr": "adapte ol, uymak",
+    "en": "adapt, fit,adjust",
+    "type": "regelmatig",
+    "imperfectum_s": "adapteerde",
+    "imperfectum_p": "adapteerden",
+    "perfectum": "heeft geadapteerd"
+  },
+  {
+    "infinitief": "afdrukken",
+    "tr": "yazdır- (çıktı)",
+    "en": "print",
+    "type": "regelmatig",
+    "imperfectum_s": "drukte af",
+    "imperfectum_p": "drukten af",
+    "perfectum": "heeft afgerukt"
+  },
+  {
+    "infinitief": "annuleren",
+    "tr": "iptal etmek",
+    "en": "annul, cancel,\r\nnullify",
+    "type": "regelmatig",
+    "imperfectum_s": "annuleerde",
+    "imperfectum_p": "annuleerden",
+    "perfectum": "heeft geannuleerd"
+  },
+  {
+    "infinitief": "antwoorden",
+    "tr": "cevap vermek",
+    "en": "answer",
+    "type": "regelmatig",
+    "imperfectum_s": "antwoordde",
+    "imperfectum_p": "antwoordden",
+    "perfectum": "heeft geantwoord"
+  },
+  {
+    "infinitief": "arresteren",
+    "tr": "tutukla-, hapset-",
+    "en": "arrest, apprehend",
+    "type": "regelmatig",
+    "imperfectum_s": "arresteerde",
+    "imperfectum_p": "arresteerden",
+    "perfectum": "heeft gearresteerd"
+  },
+  {
+    "infinitief": "bakken",
+    "tr": "pişirmek",
+    "en": "bake, fry",
+    "type": "regelmatig",
+    "imperfectum_s": "bakte",
+    "imperfectum_p": "bakten",
+    "perfectum": "heeft gebakken"
+  },
+  {
+    "infinitief": "bedanken",
+    "tr": "teşekkür etmek",
+    "en": "thank, apreciate",
+    "type": "regelmatig",
+    "imperfectum_s": "bedankte",
+    "imperfectum_p": "bedankten",
+    "perfectum": "heeft bedankt"
+  },
+  {
+    "infinitief": "bedoelen",
+    "tr": "anlamına gelmek",
+    "en": "mean, intend",
+    "type": "regelmatig",
+    "imperfectum_s": "bedoelde",
+    "imperfectum_p": "bedoelden",
+    "perfectum": "heeft bedoeld"
+  },
+  {
+    "infinitief": "bedroeven",
+    "tr": "üzül, kederlenmek",
+    "en": "grieve,worry,sadd\r\nen",
+    "type": "regelmatig",
+    "imperfectum_s": "bedroefde",
+    "imperfectum_p": "bedroefden",
+    "perfectum": "heeft bedroefd"
+  },
+  {
+    "infinitief": "beloven",
+    "tr": "söz vermek",
+    "en": "promise,pledge",
+    "type": "regelmatig",
+    "imperfectum_s": "beloofde",
+    "imperfectum_p": "beloofden",
+    "perfectum": "heeft beloofd"
+  },
+  {
+    "infinitief": "benijden",
+    "tr": "kıskanmak",
+    "en": "envy, be jealous",
+    "type": "regelmatig",
+    "imperfectum_s": "benijdde",
+    "imperfectum_p": "benijdden",
+    "perfectum": "heeft benijd"
+  },
+  {
+    "infinitief": "berichten",
+    "tr": "bildir-, mesajlaşma",
+    "en": "report,communica\r\nte",
+    "type": "regelmatig",
+    "imperfectum_s": "berichtte",
+    "imperfectum_p": "berichtten",
+    "perfectum": "heeft bericht"
+  },
+  {
+    "infinitief": "beslissen",
+    "tr": "karar vermek",
+    "en": "decide, resolve",
+    "type": "regelmatig",
+    "imperfectum_s": "besliste",
+    "imperfectum_p": "beslisten",
+    "perfectum": "heeft beslist"
+  },
+  {
+    "infinitief": "bestellen",
+    "tr": "sipariş etmek",
+    "en": "order,deliver,reser\r\nve",
+    "type": "regelmatig",
+    "imperfectum_s": "bestelde",
+    "imperfectum_p": "bestelden",
+    "perfectum": "heeft besteld"
+  },
+  {
+    "infinitief": "betalen",
+    "tr": "ödemek",
+    "en": "pay,foot,acquit",
+    "type": "regelmatig",
+    "imperfectum_s": "betaalde",
+    "imperfectum_p": "betaalden",
+    "perfectum": "heeft bataald"
+  },
+  {
+    "infinitief": "bevredigen",
+    "tr": "tatmin ol, memnun ol",
+    "en": "satisfy",
+    "type": "regelmatig",
+    "imperfectum_s": "bevredigde",
+    "imperfectum_p": "bevredigden",
+    "perfectum": "heeft bevredigd"
+  },
+  {
+    "infinitief": "bloeien",
+    "tr": "çiçek acmak",
+    "en": "flourish, flower",
+    "type": "regelmatig",
+    "imperfectum_s": "bloeide",
+    "imperfectum_p": "bloeiden",
+    "perfectum": "heeft gebloeid"
+  },
+  {
+    "infinitief": "boeren",
+    "tr": "geğirmek",
+    "en": "belch",
+    "type": "regelmatig",
+    "imperfectum_s": "boerde",
+    "imperfectum_p": "boerden",
+    "perfectum": "heeft geboerd"
+  },
+  {
+    "infinitief": "borgen",
+    "tr": "sigortala-, sağla-",
+    "en": "insure, quarantee",
+    "type": "regelmatig",
+    "imperfectum_s": "borgde",
+    "imperfectum_p": "borgden",
+    "perfectum": "heeft geborgd"
+  },
+  {
+    "infinitief": "borstelen",
+    "tr": "saçlarını fırçala-",
+    "en": "brush",
+    "type": "regelmatig",
+    "imperfectum_s": "borstelde",
+    "imperfectum_p": "borstelden",
+    "perfectum": "heeft geborsteld"
+  },
+  {
+    "infinitief": "bouwen",
+    "tr": "inşa etmek",
+    "en": "build",
+    "type": "regelmatig",
+    "imperfectum_s": "bouwde",
+    "imperfectum_p": "bouwden",
+    "perfectum": "heeft gebouwd"
+  },
+  {
+    "infinitief": "bukken zich",
+    "tr": "eğilmek",
+    "en": "bend, stoop",
+    "type": "regelmatig",
+    "imperfectum_s": "bukte",
+    "imperfectum_p": "bukten",
+    "perfectum": "hebben gebukt"
+  },
+  {
+    "infinitief": "completeren",
+    "tr": "tamamla,bitirmek",
+    "en": "complete, finish,",
+    "type": "regelmatig",
+    "imperfectum_s": "completeerd",
+    "imperfectum_p": "completeerde",
+    "perfectum": "heeft gecompleteerd"
+  },
+  {
+    "infinitief": "dansen",
+    "tr": "dans etmek",
+    "en": "dance",
+    "type": "regelmatig",
+    "imperfectum_s": "danste",
+    "imperfectum_p": "dansten",
+    "perfectum": "heeft gedanst"
+  },
+  {
+    "infinitief": "detineren",
+    "tr": "gözaltına almak",
+    "en": "detain,retain",
+    "type": "regelmatig",
+    "imperfectum_s": "detineerde",
+    "imperfectum_p": "detineerden",
+    "perfectum": "gedetineerd"
+  },
+  {
+    "infinitief": "disputeren",
+    "tr": "tartış-, kavga et-",
+    "en": "argue,dispute,deb\r\nate",
+    "type": "regelmatig",
+    "imperfectum_s": "disputeerde",
+    "imperfectum_p": "disputeerden",
+    "perfectum": "heeft gedisputeerd"
+  },
+  {
+    "infinitief": "dromen",
+    "tr": "rüya görmek",
+    "en": "dream",
+    "type": "regelmatig",
+    "imperfectum_s": "droomde",
+    "imperfectum_p": "droomden",
+    "perfectum": "heeft gedroomd"
+  },
+  {
+    "infinitief": "drukken",
+    "tr": "basmak, sallamak",
+    "en": "push, press, shake",
+    "type": "regelmatig",
+    "imperfectum_s": "drukte",
+    "imperfectum_p": "drukten",
+    "perfectum": "heeft gedrukt"
+  },
+  {
+    "infinitief": "duren",
+    "tr": "sürmek",
+    "en": "take, last",
+    "type": "regelmatig",
+    "imperfectum_s": "duurde",
+    "imperfectum_p": "duurden",
+    "perfectum": "heeft geduurd"
+  },
+  {
+    "infinitief": "durven te",
+    "tr": "cesaret etmek",
+    "en": "dare,risk,venture",
+    "type": "regelmatig",
+    "imperfectum_s": "durfde",
+    "imperfectum_p": "durfden",
+    "perfectum": "heeft gedurfd"
+  },
+  {
+    "infinitief": "duwen",
+    "tr": "itmek",
+    "en": "push",
+    "type": "regelmatig",
+    "imperfectum_s": "duwde",
+    "imperfectum_p": "duwden",
+    "perfectum": "heeft geduwd"
+  },
+  {
+    "infinitief": "dweilen",
+    "tr": "silip süpür,temizle",
+    "en": "mop,wash",
+    "type": "regelmatig",
+    "imperfectum_s": "dweilde",
+    "imperfectum_p": "dweilden",
+    "perfectum": "heeft gedweild"
+  },
+  {
+    "infinitief": "eindigen",
+    "tr": "bitirmek",
+    "en": "end, finish, expire",
+    "type": "regelmatig",
+    "imperfectum_s": "eindigde",
+    "imperfectum_p": "eindigden",
+    "perfectum": "is geeindigd"
+  },
+  {
+    "infinitief": "ergeren",
+    "tr": "kızdır-, taciz et-",
+    "en": "annoy, vex",
+    "type": "regelmatig",
+    "imperfectum_s": "ergerde",
+    "imperfectum_p": "ergerden",
+    "perfectum": "heeft geergerd"
+  },
+  {
+    "infinitief": "feliciteren",
+    "tr": "tebrik et, kutlamak",
+    "en": "congratulate",
+    "type": "regelmatig",
+    "imperfectum_s": "feliciteerde",
+    "imperfectum_p": "feliciteerden",
+    "perfectum": "heeft gefeliciteerd"
+  },
+  {
+    "infinitief": "ﬁetsen",
+    "tr": "bisiklet sürmek",
+    "en": "cycle",
+    "type": "regelmatig",
+    "imperfectum_s": "ﬁetste",
+    "imperfectum_p": "ﬁetsten",
+    "perfectum": "heeft geﬁetst"
+  },
+  {
+    "infinitief": "ﬂoppen",
+    "tr": "başarısız olmak",
+    "en": "flop, fail,abort",
+    "type": "regelmatig",
+    "imperfectum_s": "ﬂopte",
+    "imperfectum_p": "ﬂopten",
+    "perfectum": "is geflopt"
+  },
+  {
+    "infinitief": "gebeuren",
+    "tr": "ol-, meydana gel-",
+    "en": "happen, occur",
+    "type": "regelmatig",
+    "imperfectum_s": "gebeurde",
+    "imperfectum_p": "gebeurden",
+    "perfectum": "is gebeurd"
+  },
+  {
+    "infinitief": "gebruiken",
+    "tr": "kullanmak",
+    "en": "use,",
+    "type": "regelmatig",
+    "imperfectum_s": "gebruikte",
+    "imperfectum_p": "gebruikten",
+    "perfectum": "heeft gebruikt"
+  },
+  {
+    "infinitief": "gelden",
+    "tr": "geçerli olmak",
+    "en": "to be valid, apply",
+    "type": "regelmatig",
+    "imperfectum_s": "gold",
+    "imperfectum_p": "golden",
+    "perfectum": "heeft gegolden"
+  },
+  {
+    "infinitief": "geloven",
+    "tr": "inanmak",
+    "en": "believe, think,\r\ncredit",
+    "type": "regelmatig",
+    "imperfectum_s": "geloofde",
+    "imperfectum_p": "geloofden",
+    "perfectum": "heeft geloofd"
+  },
+  {
+    "infinitief": "glimlachen",
+    "tr": "gülümsemek",
+    "en": "smile, laugh",
+    "type": "regelmatig",
+    "imperfectum_s": "glimlachte",
+    "imperfectum_p": "glimlachte",
+    "perfectum": "heeft geglimlacht"
+  },
+  {
+    "infinitief": "gooien",
+    "tr": "fırlatmak",
+    "en": "throw away",
+    "type": "regelmatig",
+    "imperfectum_s": "gooide",
+    "imperfectum_p": "gooiden",
+    "perfectum": "heeft gegooid"
+  },
+  {
+    "infinitief": "groeien",
+    "tr": "yetiştir, büyütmek",
+    "en": "grow, vegetate",
+    "type": "regelmatig",
+    "imperfectum_s": "groeide",
+    "imperfectum_p": "groeiden",
+    "perfectum": "is gegroeid"
+  },
+  {
+    "infinitief": "groeten",
+    "tr": "selamlamak",
+    "en": "greet, salute",
+    "type": "regelmatig",
+    "imperfectum_s": "groette",
+    "imperfectum_p": "groetten",
+    "perfectum": "heeft gegroet"
+  },
+  {
+    "infinitief": "hakken",
+    "tr": "kesmek (et,sebze)",
+    "en": "hack,chop",
+    "type": "regelmatig",
+    "imperfectum_s": "hakte",
+    "imperfectum_p": "hakten",
+    "perfectum": "heeft gehakt"
+  },
+  {
+    "infinitief": "halen",
+    "tr": "elde et-, yetiş, yakala",
+    "en": "get,catch,hit",
+    "type": "regelmatig",
+    "imperfectum_s": "haalde",
+    "imperfectum_p": "haalden",
+    "perfectum": "heeft gehaald"
+  },
+  {
+    "infinitief": "haten",
+    "tr": "nefret etmek,iğren-",
+    "en": "hate,spite",
+    "type": "regelmatig",
+    "imperfectum_s": "haatte",
+    "imperfectum_p": "haatten",
+    "perfectum": "heeft gehaat"
+  },
+  {
+    "infinitief": "herkennen",
+    "tr": "tanı-, kabul et-",
+    "en": "recognise,\r\nrecognize",
+    "type": "regelmatig",
+    "imperfectum_s": "herkende",
+    "imperfectum_p": "herkenden",
+    "perfectum": "heeft herkend"
+  },
+  {
+    "infinitief": "hoeven te",
+    "tr": "gerek olmak",
+    "en": "need, necessiate",
+    "type": "regelmatig",
+    "imperfectum_s": "hoefde",
+    "imperfectum_p": "hoefden",
+    "perfectum": "heeft gehoefd"
+  },
+  {
+    "infinitief": "hopen",
+    "tr": "ümit et-, ummak",
+    "en": "hope, wish,desire",
+    "type": "regelmatig",
+    "imperfectum_s": "hoopte",
+    "imperfectum_p": "hoopten",
+    "perfectum": "hebben gehoopt"
+  },
+  {
+    "infinitief": "horen",
+    "tr": "duymak, dinlemek",
+    "en": "hear, belong",
+    "type": "regelmatig",
+    "imperfectum_s": "hoorde",
+    "imperfectum_p": "hoorden",
+    "perfectum": "heeft gehoord"
+  },
+  {
+    "infinitief": "huilen",
+    "tr": "ağlamak",
+    "en": "cry",
+    "type": "regelmatig",
+    "imperfectum_s": "huilde",
+    "imperfectum_p": "huilden",
+    "perfectum": "heeft gehuild"
+  },
+  {
+    "infinitief": "inademen",
+    "tr": "nefes almak",
+    "en": "inhale, breathe in",
+    "type": "regelmatig",
+    "imperfectum_s": "ademde in",
+    "imperfectum_p": "ademden in",
+    "perfectum": "heeft ingeademd"
+  },
+  {
+    "infinitief": "interesseren",
+    "tr": "ilgilendirmek",
+    "en": "interest",
+    "type": "regelmatig",
+    "imperfectum_s": "interesseerde",
+    "imperfectum_p": "interesseerden",
+    "perfectum": "heeft geinteresseerd"
+  },
+  {
+    "infinitief": "invullen",
+    "tr": "doldurmak",
+    "en": "full in",
+    "type": "regelmatig",
+    "imperfectum_s": "vulde in",
+    "imperfectum_p": "vulden in",
+    "perfectum": "heeft ingevuld"
+  },
+  {
+    "infinitief": "juichen",
+    "tr": "alkışla-, takdir et-",
+    "en": "acclaim",
+    "type": "regelmatig",
+    "imperfectum_s": "juichte",
+    "imperfectum_p": "juichten",
+    "perfectum": "heeft gejuicht"
+  },
+  {
+    "infinitief": "kammen",
+    "tr": "saçlarını taramak",
+    "en": "comb",
+    "type": "regelmatig",
+    "imperfectum_s": "kamde",
+    "imperfectum_p": "kamden",
+    "perfectum": "heeft gekamd"
+  },
+  {
+    "infinitief": "kennen",
+    "tr": "bilmek",
+    "en": "know",
+    "type": "regelmatig",
+    "imperfectum_s": "kende",
+    "imperfectum_p": "kenden",
+    "perfectum": "heeft gekend"
+  },
+  {
+    "infinitief": "klagen",
+    "tr": "feryat et-,inlemek",
+    "en": "complain,moan",
+    "type": "regelmatig",
+    "imperfectum_s": "klaagde",
+    "imperfectum_p": "klaagden",
+    "perfectum": "heeft geklaagd"
+  },
+  {
+    "infinitief": "kloppen",
+    "tr": "tıklat-,vur-,çalmak",
+    "en": "knock,beat,hit",
+    "type": "regelmatig",
+    "imperfectum_s": "klopte",
+    "imperfectum_p": "klopten",
+    "perfectum": "heeft geklopt"
+  },
+  {
+    "infinitief": "knippen",
+    "tr": "kesmek, kırpmak",
+    "en": "cut, scissor",
+    "type": "regelmatig",
+    "imperfectum_s": "knipte",
+    "imperfectum_p": "knipten",
+    "perfectum": "heeft geknipt"
+  },
+  {
+    "infinitief": "koken",
+    "tr": "yemek pişirmek",
+    "en": "cook, do",
+    "type": "regelmatig",
+    "imperfectum_s": "kookte",
+    "imperfectum_p": "kookten",
+    "perfectum": "heeft gekookt"
+  },
+  {
+    "infinitief": "kosten",
+    "tr": "maliyeti ol, masraf",
+    "en": "cost, expense",
+    "type": "regelmatig",
+    "imperfectum_s": "kostte",
+    "imperfectum_p": "kostten",
+    "perfectum": "heeft gekost"
+  },
+  {
+    "infinitief": "kuchen",
+    "tr": "öksürmek",
+    "en": "cough, hack",
+    "type": "regelmatig",
+    "imperfectum_s": "kuchte",
+    "imperfectum_p": "kuchten",
+    "perfectum": "heeft gekucht"
+  },
+  {
+    "infinitief": "lachen",
+    "tr": "gülmek",
+    "en": "laugh",
+    "type": "regelmatig",
+    "imperfectum_s": "lachte",
+    "imperfectum_p": "lachten",
+    "perfectum": "heeft gelachen"
+  },
+  {
+    "infinitief": "leiden",
+    "tr": "öncülük etmek",
+    "en": "lead,conduct,head",
+    "type": "regelmatig",
+    "imperfectum_s": "leidde",
+    "imperfectum_p": "leidden",
+    "perfectum": "heeft geleid"
+  },
+  {
+    "infinitief": "lenen",
+    "tr": "ödünç almak",
+    "en": "borrow, lend",
+    "type": "regelmatig",
+    "imperfectum_s": "leende",
+    "imperfectum_p": "leenden",
+    "perfectum": "heeft geleend"
+  },
+  {
+    "infinitief": "leren",
+    "tr": "öğrenmek",
+    "en": "learn",
+    "type": "regelmatig",
+    "imperfectum_s": "leerde",
+    "imperfectum_p": "leerden",
+    "perfectum": "heeft geleerd"
+  },
+  {
+    "infinitief": "leven",
+    "tr": "yaşamak",
+    "en": "live",
+    "type": "regelmatig",
+    "imperfectum_s": "leefde",
+    "imperfectum_p": "leefden",
+    "perfectum": "hebben geleefd"
+  },
+  {
+    "infinitief": "luisteren",
+    "tr": "dinlemek",
+    "en": "listen,hear",
+    "type": "regelmatig",
+    "imperfectum_s": "luisterde",
+    "imperfectum_p": "luisterden",
+    "perfectum": "heeft geluisterd"
+  },
+  {
+    "infinitief": "maaien",
+    "tr": "çim bicmek",
+    "en": "mow,cut",
+    "type": "regelmatig",
+    "imperfectum_s": "maaide",
+    "imperfectum_p": "maaiden",
+    "perfectum": "heeft gemaaid"
+  },
+  {
+    "infinitief": "maken",
+    "tr": "yap-, etmek,üret-",
+    "en": "make,create,produ\r\nce",
+    "type": "regelmatig",
+    "imperfectum_s": "makte",
+    "imperfectum_p": "makten",
+    "perfectum": "heeft gemaakt"
+  },
+  {
+    "infinitief": "markeren",
+    "tr": "işaretlemek",
+    "en": "mark, highlight,\r\nlabel",
+    "type": "regelmatig",
+    "imperfectum_s": "markeerde",
+    "imperfectum_p": "markeerden",
+    "perfectum": "heeft gemarkeerd"
+  },
+  {
+    "infinitief": "melden",
+    "tr": "bildir, rapor etmek",
+    "en": "report,declare",
+    "type": "regelmatig",
+    "imperfectum_s": "meldde",
+    "imperfectum_p": "meldden",
+    "perfectum": "heeft gemeld"
+  },
+  {
+    "infinitief": "niezen",
+    "tr": "hapşırmak",
+    "en": "sneeze",
+    "type": "regelmatig",
+    "imperfectum_s": "niesde",
+    "imperfectum_p": "niesde",
+    "perfectum": "heeft geniesd"
+  },
+  {
+    "infinitief": "noemen",
+    "tr": "adlandırmak",
+    "en": "name, call",
+    "type": "regelmatig",
+    "imperfectum_s": "noemde",
+    "imperfectum_p": "noemden",
+    "perfectum": "heeft genoemd"
+  },
+  {
+    "infinitief": "ontdekken",
+    "tr": "keşfetmek",
+    "en": "discover, find",
+    "type": "regelmatig",
+    "imperfectum_s": "ontdekte",
+    "imperfectum_p": "ontdekten",
+    "perfectum": "heeft ontdekt"
+  },
+  {
+    "infinitief": "ontkennen",
+    "tr": "yalanlamak,reddet-",
+    "en": "deny,repudiate",
+    "type": "regelmatig",
+    "imperfectum_s": "ontkende",
+    "imperfectum_p": "ontkenden",
+    "perfectum": "heeft ontkend"
+  },
+  {
+    "infinitief": "ontwikkelen",
+    "tr": "geliştir, gelişmek",
+    "en": "develop, evolve",
+    "type": "regelmatig",
+    "imperfectum_s": "ontwikkelde",
+    "imperfectum_p": "ontwikkelden",
+    "perfectum": "heeft ontwikkeld"
+  },
+  {
+    "infinitief": "opbellen",
+    "tr": "arama yap,arama",
+    "en": "call,ring",
+    "type": "regelmatig",
+    "imperfectum_s": "belde op",
+    "imperfectum_p": "belden op",
+    "perfectum": "heeft opgebeld"
+  },
+  {
+    "infinitief": "openen",
+    "tr": "açmak",
+    "en": "open",
+    "type": "regelmatig",
+    "imperfectum_s": "opende",
+    "imperfectum_p": "openden",
+    "perfectum": "heeft geopend"
+  },
+  {
+    "infinitief": "participeren",
+    "tr": "katılmak",
+    "en": "participate,share,j\r\noin",
+    "type": "regelmatig",
+    "imperfectum_s": "participeerde",
+    "imperfectum_p": "participeerden",
+    "perfectum": "heeft geparticipeerd"
+  },
+  {
+    "infinitief": "passen",
+    "tr": "uymak, ol, dene-",
+    "en": "fit, suit,try",
+    "type": "regelmatig",
+    "imperfectum_s": "paste",
+    "imperfectum_p": "pasten",
+    "perfectum": "heeft gepast"
+  },
+  {
+    "infinitief": "passeren",
+    "tr": "sınavı geçmek",
+    "en": "pass",
+    "type": "regelmatig",
+    "imperfectum_s": "passeerde",
+    "imperfectum_p": "passeerden",
+    "perfectum": "heeft gepasseerd"
+  },
+  {
+    "infinitief": "planten",
+    "tr": "bitki dikmek",
+    "en": "plant",
+    "type": "regelmatig",
+    "imperfectum_s": "plantte",
+    "imperfectum_p": "plantten",
+    "perfectum": "heeft geplant"
+  },
+  {
+    "infinitief": "ploffen",
+    "tr": "patlamak",
+    "en": "blow,explode,squi\r\nb",
+    "type": "regelmatig",
+    "imperfectum_s": "plofte",
+    "imperfectum_p": "ploften",
+    "perfectum": "heeft geploft"
+  },
+  {
+    "infinitief": "praten",
+    "tr": "konuşmak",
+    "en": "speak, talk",
+    "type": "regelmatig",
+    "imperfectum_s": "praatte",
+    "imperfectum_p": "praatten",
+    "perfectum": "heeft gepraat"
+  },
+  {
+    "infinitief": "presenteren",
+    "tr": "açıkla, tarif etmek",
+    "en": "present, explain",
+    "type": "regelmatig",
+    "imperfectum_s": "presenteerde",
+    "imperfectum_p": "presenteerden",
+    "perfectum": "heeft gepresenteerd"
+  },
+  {
+    "infinitief": "proberen",
+    "tr": "denemek",
+    "en": "try, attempt",
+    "type": "regelmatig",
+    "imperfectum_s": "probeerde",
+    "imperfectum_p": "probeerden",
+    "perfectum": "heeft geprobeerd"
+  },
+  {
+    "infinitief": "procederen",
+    "tr": "dava açmak",
+    "en": "proceed, sue",
+    "type": "regelmatig",
+    "imperfectum_s": "procederde",
+    "imperfectum_p": "procederden",
+    "perfectum": "heeft geprocedeerd"
+  },
+  {
+    "infinitief": "rebelleren",
+    "tr": "isyan etmek",
+    "en": "revolt,rebel",
+    "type": "regelmatig",
+    "imperfectum_s": "rebelleerde",
+    "imperfectum_p": "rebelleerden",
+    "perfectum": "heeft gerebelleerd"
+  },
+  {
+    "infinitief": "redden",
+    "tr": "kurtarmak",
+    "en": "save, rescue",
+    "type": "regelmatig",
+    "imperfectum_s": "redde",
+    "imperfectum_p": "redden",
+    "perfectum": "heeft gered"
+  },
+  {
+    "infinitief": "regenen",
+    "tr": "yağmur yağmak",
+    "en": "rain",
+    "type": "regelmatig",
+    "imperfectum_s": "regende",
+    "imperfectum_p": "regenden",
+    "perfectum": "heeft geregend"
+  },
+  {
+    "infinitief": "reinigen",
+    "tr": "temizlemek, silmek",
+    "en": "clean,cleanse,purif\r\ny",
+    "type": "regelmatig",
+    "imperfectum_s": "reinigde",
+    "imperfectum_p": "reinigden",
+    "perfectum": "heeft gereinigd"
+  },
+  {
+    "infinitief": "reizen",
+    "tr": "seyahat et-, gez-",
+    "en": "travel,journey",
+    "type": "regelmatig",
+    "imperfectum_s": "reisde",
+    "imperfectum_p": "reisden",
+    "perfectum": "heeft gereisd"
+  },
+  {
+    "infinitief": "rekenen op",
+    "tr": "güven-, inanmak",
+    "en": "rely on, trust",
+    "type": "regelmatig",
+    "imperfectum_s": "rekende op",
+    "imperfectum_p": "rekenden op",
+    "perfectum": "heeft gerekend"
+  },
+  {
+    "infinitief": "rennen",
+    "tr": "koşmak",
+    "en": "run",
+    "type": "regelmatig",
+    "imperfectum_s": "rende",
+    "imperfectum_p": "renden",
+    "perfectum": "heeft gerend"
+  },
+  {
+    "infinitief": "roven",
+    "tr": "çalmak,aşırmak",
+    "en": "plunder,maraud",
+    "type": "regelmatig",
+    "imperfectum_s": "roofde",
+    "imperfectum_p": "roofden",
+    "perfectum": "heeft geroofd"
+  },
+  {
+    "infinitief": "rusten",
+    "tr": "dinlenmek",
+    "en": "rest, relax",
+    "type": "regelmatig",
+    "imperfectum_s": "rustte",
+    "imperfectum_p": "rustten",
+    "perfectum": "heeft gerust"
+  },
+  {
+    "infinitief": "schamen zich",
+    "tr": "utanmak",
+    "en": "shame, be\r\nashamed",
+    "type": "regelmatig",
+    "imperfectum_s": "schaamde",
+    "imperfectum_p": "schaamden",
+    "perfectum": "heeft zich geschaamd"
+  },
+  {
+    "infinitief": "schoppen",
+    "tr": "topa vurmak",
+    "en": "kick, boot",
+    "type": "regelmatig",
+    "imperfectum_s": "schopte",
+    "imperfectum_p": "schopten",
+    "perfectum": "heeft geschopt"
+  },
+  {
+    "infinitief": "schrappen",
+    "tr": "feshetmek, iptal et-",
+    "en": "cancel, delete",
+    "type": "regelmatig",
+    "imperfectum_s": "schrapte",
+    "imperfectum_p": "schrapten",
+    "perfectum": "heeft geschrapt"
+  },
+  {
+    "infinitief": "slenteren",
+    "tr": "ağır ağır dolaşmak",
+    "en": "stroll,amble,\r\nwander",
+    "type": "regelmatig",
+    "imperfectum_s": "slenterde",
+    "imperfectum_p": "slenterden",
+    "perfectum": "heeft geslenterd"
+  },
+  {
+    "infinitief": "slepen",
+    "tr": "sürükle-, çekmek",
+    "en": "drag, trice",
+    "type": "regelmatig",
+    "imperfectum_s": "sleepte",
+    "imperfectum_p": "sleepten",
+    "perfectum": "heeft gesleept"
+  },
+  {
+    "infinitief": "spelen",
+    "tr": "oynamak",
+    "en": "play",
+    "type": "regelmatig",
+    "imperfectum_s": "speelde",
+    "imperfectum_p": "speelden",
+    "perfectum": "heeft gespeeld"
+  },
+  {
+    "infinitief": "spellen",
+    "tr": "hecelemek",
+    "en": "spell, alphabetise",
+    "type": "regelmatig",
+    "imperfectum_s": "spelde",
+    "imperfectum_p": "spelden",
+    "perfectum": "heeft gespeld"
+  },
+  {
+    "infinitief": "stallen",
+    "tr": "stabil ol-, durdur-",
+    "en": "stable,stall",
+    "type": "regelmatig",
+    "imperfectum_s": "stalde",
+    "imperfectum_p": "stalden",
+    "perfectum": "heeft gestald"
+  },
+  {
+    "infinitief": "stoppen",
+    "tr": "dur-, durdurmak",
+    "en": "stop,halt,cease",
+    "type": "regelmatig",
+    "imperfectum_s": "stopte",
+    "imperfectum_p": "stopten",
+    "perfectum": "heeft/is gestopt"
+  },
+  {
+    "infinitief": "strooien",
+    "tr": "akıtmak,yaymak",
+    "en": "strew,pour",
+    "type": "regelmatig",
+    "imperfectum_s": "strooide",
+    "imperfectum_p": "strooiden",
+    "perfectum": "heeft gestrooid"
+  },
+  {
+    "infinitief": "studeren",
+    "tr": "ders calışmak",
+    "en": "study,learn,work,",
+    "type": "regelmatig",
+    "imperfectum_s": "studerde",
+    "imperfectum_p": "studerden",
+    "perfectum": "heeft gestudeerd"
+  },
+  {
+    "infinitief": "sturen",
+    "tr": "gönder-,yollamak",
+    "en": "send,steer,transmi\r\nt",
+    "type": "regelmatig",
+    "imperfectum_s": "stuurde",
+    "imperfectum_p": "stuurden",
+    "perfectum": "heeft gestuurd"
+  },
+  {
+    "infinitief": "tanken",
+    "tr": "yakıt almak,doldur-",
+    "en": "fuel",
+    "type": "regelmatig",
+    "imperfectum_s": "tankte",
+    "imperfectum_p": "tankten",
+    "perfectum": "heeft getankt"
+  },
+  {
+    "infinitief": "tekenen",
+    "tr": "çizmek,imzalamak",
+    "en": "draw, line,sign",
+    "type": "regelmatig",
+    "imperfectum_s": "tekende",
+    "imperfectum_p": "tekenden",
+    "perfectum": "heeft getekend"
+  },
+  {
+    "infinitief": "teleurstellen",
+    "tr": "hayal kırıklığına uğrat-\r\nmak",
+    "en": "dissappoint,\r\ndecieve",
+    "type": "regelmatig",
+    "imperfectum_s": "stelde teleur",
+    "imperfectum_p": "stelden teleur",
+    "perfectum": "heeft teleurgesteld"
+  },
+  {
+    "infinitief": "tellen",
+    "tr": "saymak",
+    "en": "count",
+    "type": "regelmatig",
+    "imperfectum_s": "telde",
+    "imperfectum_p": "telden",
+    "perfectum": "heeft geteld"
+  },
+  {
+    "infinitief": "terugkeren",
+    "tr": "dön, geri dön-,iade",
+    "en": "return,come back",
+    "type": "regelmatig",
+    "imperfectum_s": "keerde terug",
+    "imperfectum_p": "keerden terug",
+    "perfectum": "is teruggekeerd"
+  },
+  {
+    "infinitief": "testen",
+    "tr": "test etmek",
+    "en": "test",
+    "type": "regelmatig",
+    "imperfectum_s": "testte",
+    "imperfectum_p": "testten",
+    "perfectum": "heeft getest"
+  },
+  {
+    "infinitief": "toevoegen",
+    "tr": "eklemek",
+    "en": "add",
+    "type": "regelmatig",
+    "imperfectum_s": "voegde toe",
+    "imperfectum_p": "voegden toe",
+    "perfectum": "heeft toegevoegd"
+  },
+  {
+    "infinitief": "tonen",
+    "tr": "göstermek",
+    "en": "show,display,\r\nindicate",
+    "type": "regelmatig",
+    "imperfectum_s": "toonde",
+    "imperfectum_p": "toonden",
+    "perfectum": "heeft getoond"
+  },
+  {
+    "infinitief": "twijfelen",
+    "tr": "tereddüt etmek",
+    "en": "doubt, hesitate",
+    "type": "regelmatig",
+    "imperfectum_s": "twijfelde",
+    "imperfectum_p": "twijfelden",
+    "perfectum": "hebben getwijfeld"
+  },
+  {
+    "infinitief": "uitademen",
+    "tr": "nefes vermek",
+    "en": "exhale, breathe\r\nout",
+    "type": "regelmatig",
+    "imperfectum_s": "ademde uit",
+    "imperfectum_p": "ademden uit",
+    "perfectum": "heeft uitgeademd"
+  },
+  {
+    "infinitief": "uitstallen",
+    "tr": "göstermek, sergile-",
+    "en": "demonstrate,\r\nexhibit",
+    "type": "regelmatig",
+    "imperfectum_s": "stalde uit",
+    "imperfectum_p": "stalden uit",
+    "perfectum": "heeft uitgestald"
+  },
+  {
+    "infinitief": "veranderen",
+    "tr": "değiş-, değiştirmek",
+    "en": "change, alter,\r\nmodify",
+    "type": "regelmatig",
+    "imperfectum_s": "veranderde",
+    "imperfectum_p": "veranderden",
+    "perfectum": "heeft/is veranderd"
+  },
+  {
+    "infinitief": "verbazen",
+    "tr": "şaşır-, şaşırtmak",
+    "en": "astonish,suprise",
+    "type": "regelmatig",
+    "imperfectum_s": "verbaasde",
+    "imperfectum_p": "verbaasden",
+    "perfectum": "heeft verbaasd"
+  },
+  {
+    "infinitief": "verbeteren",
+    "tr": "geliştirmek",
+    "en": "improve, enhance",
+    "type": "regelmatig",
+    "imperfectum_s": "verbeterde",
+    "imperfectum_p": "verbeterden",
+    "perfectum": "heeft verbeterd"
+  },
+  {
+    "infinitief": "verbranden",
+    "tr": "yakmak,yanmak",
+    "en": "burn",
+    "type": "regelmatig",
+    "imperfectum_s": "verbrandde",
+    "imperfectum_p": "verbrandden",
+    "perfectum": "heeft/is verbrand"
+  },
+  {
+    "infinitief": "verdelen",
+    "tr": "dağıt-, paylaştır-",
+    "en": "distribute, divide",
+    "type": "regelmatig",
+    "imperfectum_s": "verdeelde",
+    "imperfectum_p": "verdeelden",
+    "perfectum": "heeft verdeeld"
+  },
+  {
+    "infinitief": "verdienen",
+    "tr": "kazanmak",
+    "en": "earn,deserve,win",
+    "type": "regelmatig",
+    "imperfectum_s": "verdiende",
+    "imperfectum_p": "verdienden",
+    "perfectum": "heeft verdiend"
+  },
+  {
+    "infinitief": "verdienen",
+    "tr": "hak et, kazanmak",
+    "en": "earn, deserve",
+    "type": "regelmatig",
+    "imperfectum_s": "verdiende",
+    "imperfectum_p": "verdienden",
+    "perfectum": "heeft verdiend"
+  },
+  {
+    "infinitief": "vergissen zich",
+    "tr": "yanılmak",
+    "en": "be mistaken",
+    "type": "regelmatig",
+    "imperfectum_s": "vergiste",
+    "imperfectum_p": "vergisten",
+    "perfectum": "heeft zich vergist"
+  },
+  {
+    "infinitief": "verhuizen",
+    "tr": "taşın-, hareket et-",
+    "en": "move,migrate",
+    "type": "regelmatig",
+    "imperfectum_s": "verhuisde",
+    "imperfectum_p": "verhuisden",
+    "perfectum": "heeft verhuisd"
+  },
+  {
+    "infinitief": "verlangen",
+    "tr": "özlemek",
+    "en": "miss,long for",
+    "type": "regelmatig",
+    "imperfectum_s": "verlangde",
+    "imperfectum_p": "verlangden",
+    "perfectum": "heeft verlangd"
+  },
+  {
+    "infinitief": "vernietigen",
+    "tr": "bozmak,yıkmak",
+    "en": "destroy,demolish",
+    "type": "regelmatig",
+    "imperfectum_s": "vernietigde",
+    "imperfectum_p": "vernietigden",
+    "perfectum": "heeft vernietigd"
+  },
+  {
+    "infinitief": "vertellen",
+    "tr": "söylemek",
+    "en": "say",
+    "type": "regelmatig",
+    "imperfectum_s": "vertelde",
+    "imperfectum_p": "vertelden",
+    "perfectum": "heeft verteld"
+  },
+  {
+    "infinitief": "vertrouwen",
+    "tr": "güvenmek",
+    "en": "trust, rely on",
+    "type": "regelmatig",
+    "imperfectum_s": "vertrouwde",
+    "imperfectum_p": "vertrouwden",
+    "perfectum": "heeft vertrouwde"
+  },
+  {
+    "infinitief": "verven",
+    "tr": "boya-, resim yap-",
+    "en": "paint,dye",
+    "type": "regelmatig",
+    "imperfectum_s": "verfde",
+    "imperfectum_p": "verfden",
+    "perfectum": "heeft geverfd"
+  },
+  {
+    "infinitief": "verwachten",
+    "tr": "ummak, beklemek",
+    "en": "expect,hope,wait",
+    "type": "regelmatig",
+    "imperfectum_s": "verwachtte",
+    "imperfectum_p": "verwachtten",
+    "perfectum": "heeft verwachtten"
+  },
+  {
+    "infinitief": "verwarren",
+    "tr": "karıştır,şaşırtmak",
+    "en": "confuse,puzzle,mi\r\nx",
+    "type": "regelmatig",
+    "imperfectum_s": "verwarde",
+    "imperfectum_p": "verwarden",
+    "perfectum": "heeft verward"
+  },
+  {
+    "infinitief": "verzaken",
+    "tr": "vazgeç-, bırakmak",
+    "en": "abandon, forsake",
+    "type": "regelmatig",
+    "imperfectum_s": "verzaakte",
+    "imperfectum_p": "verzaakten",
+    "perfectum": "heeft verzaakt"
+  },
+  {
+    "infinitief": "verzamelen",
+    "tr": "biriktirmek",
+    "en": "collect,gather",
+    "type": "regelmatig",
+    "imperfectum_s": "verzamelde",
+    "imperfectum_p": "verzamelden",
+    "perfectum": "heeft verzameld"
+  },
+  {
+    "infinitief": "voelen zich",
+    "tr": "hissetmek",
+    "en": "feel,sense,touch",
+    "type": "regelmatig",
+    "imperfectum_s": "voelde",
+    "imperfectum_p": "voelden",
+    "perfectum": "heeft gevoeld"
+  },
+  {
+    "infinitief": "volgen",
+    "tr": "takip etmek",
+    "en": "follow, pursue",
+    "type": "regelmatig",
+    "imperfectum_s": "volgde",
+    "imperfectum_p": "volgden",
+    "perfectum": "heeft gevolgd"
+  },
+  {
+    "infinitief": "voltooien",
+    "tr": "tamamla,başarmak",
+    "en": "fill\r\ncomplete, achieve",
+    "type": "regelmatig",
+    "imperfectum_s": "voltooiede",
+    "imperfectum_p": "voltooieden",
+    "perfectum": "heeft voltooid"
+  },
+  {
+    "infinitief": "waarderen",
+    "tr": "müteşekkir ol, takdir et",
+    "en": "appreciate,esteem",
+    "type": "regelmatig",
+    "imperfectum_s": "waardeerde",
+    "imperfectum_p": "waardeerden",
+    "perfectum": "heeft gewaardeerd"
+  },
+  {
+    "infinitief": "waarschuwen",
+    "tr": "uyar-,bildir-,alarm",
+    "en": "warn,caution,alert",
+    "type": "regelmatig",
+    "imperfectum_s": "waarschuwd",
+    "imperfectum_p": "waarschuwden",
+    "perfectum": "heeft gewaarschuwd"
+  },
+  {
+    "infinitief": "wachten",
+    "tr": "bekle-,dur,ikamet et-",
+    "en": "wait,await,anticip\r\nate",
+    "type": "regelmatig",
+    "imperfectum_s": "wachtte",
+    "imperfectum_p": "wachtten",
+    "perfectum": "heeft gewacht"
+  },
+  {
+    "infinitief": "walgen",
+    "tr": "kusmak",
+    "en": "vomit,spit\r\nup,throw up",
+    "type": "regelmatig",
+    "imperfectum_s": "walgde",
+    "imperfectum_p": "walgden",
+    "perfectum": "heeft gewalgd"
+  },
+  {
+    "infinitief": "wandelen",
+    "tr": "gez-, dolaş-,yürü-",
+    "en": "walk,roam,stroll",
+    "type": "regelmatig",
+    "imperfectum_s": "wandelde",
+    "imperfectum_p": "wandelden",
+    "perfectum": "heeft gewandeld"
+  },
+  {
+    "infinitief": "weigeren",
+    "tr": "geri çevirmek",
+    "en": "refuse,reject",
+    "type": "regelmatig",
+    "imperfectum_s": "weigerde",
+    "imperfectum_p": "weigerden",
+    "perfectum": "heeft geweigerd"
+  },
+  {
+    "infinitief": "wensen",
+    "tr": "dilemek, istemek",
+    "en": "want",
+    "type": "regelmatig",
+    "imperfectum_s": "wenste",
+    "imperfectum_p": "wensten",
+    "perfectum": "heeft gewenst"
+  },
+  {
+    "infinitief": "werken",
+    "tr": "çalışmak,işlemek",
+    "en": "work,act",
+    "type": "regelmatig",
+    "imperfectum_s": "werkte",
+    "imperfectum_p": "werkten",
+    "perfectum": "heeft gewerkt"
+  },
+  {
+    "infinitief": "wisselen",
+    "tr": "değiştirmek (döviz)",
+    "en": "exchange",
+    "type": "regelmatig",
+    "imperfectum_s": "wisselde",
+    "imperfectum_p": "wisselden",
+    "perfectum": "heeft gewisseld"
+  },
+  {
+    "infinitief": "wonen",
+    "tr": "yaşa, ikamet et-",
+    "en": "live,reside",
+    "type": "regelmatig",
+    "imperfectum_s": "woonde",
+    "imperfectum_p": "woonden",
+    "perfectum": "heeft gewoond"
+  },
+  {
+    "infinitief": "zetten",
+    "tr": "koymak",
+    "en": "put",
+    "type": "regelmatig",
+    "imperfectum_s": "zette",
+    "imperfectum_p": "zetten",
+    "perfectum": "heeft gezet"
+  },
+  {
+    "infinitief": "zich herinneren",
+    "tr": "hatırlamak",
+    "en": "remember,\r\nrecollect",
+    "type": "regelmatig",
+    "imperfectum_s": "zich herinneerd",
+    "imperfectum_p": "zich herinneerden",
+    "perfectum": "heeft zich herinneerd"
+  },
+  {
+    "infinitief": "zich vervelen",
+    "tr": "canı sıkılmak",
+    "en": "to be bored",
+    "type": "regelmatig",
+    "imperfectum_s": "zich verveld",
+    "imperfectum_p": "zich vervelden",
+    "perfectum": "heeft zich verveeld"
+  },
+  {
+    "infinitief": "zweven",
+    "tr": "süzülmek",
+    "en": "hang,glide,",
+    "type": "regelmatig",
+    "imperfectum_s": "zweefde",
+    "imperfectum_p": "zweefden",
+    "perfectum": "heeft gezweefd"
+  }
+]

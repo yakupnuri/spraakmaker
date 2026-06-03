@@ -1,0 +1,6914 @@
+[
+  {
+    "nl": "adviseren",
+    "tr": "tavsiye etmek",
+    "en": "to advise",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "asbak, de",
+    "tr": "kül tablası,",
+    "en": "ashtray, the",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "benadrukken",
+    "tr": "vurgulamak",
+    "en": "to emphasize",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "bevestigen",
+    "tr": "onaylamak",
+    "en": "to confirm",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "congres, het",
+    "tr": "Kongre, BT",
+    "en": "Congress, It",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "diep",
+    "tr": "derin",
+    "en": "deep",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "getalenteerd",
+    "tr": "yetenekli",
+    "en": "talented",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "inhoud, de",
+    "tr": "içerik, the",
+    "en": "contents, the",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "inschatten",
+    "tr": "tahmin",
+    "en": "to estimate",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "interactie, de",
+    "tr": "Etkileşim, the",
+    "en": "Interaction, the",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "kloppen",
+    "tr": "dövmek",
+    "en": "to beat",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "netwerken",
+    "tr": "ağlar",
+    "en": "networks",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "neutraal",
+    "tr": "doğal",
+    "en": "neutral",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "non-verbaal",
+    "tr": "sözlü olmayan",
+    "en": "non verbal",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "omdraaien, zich",
+    "tr": "arkanı dön, kendisi",
+    "en": "turn around, himself",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "omkeren",
+    "tr": "geri dönme",
+    "en": "turning back",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "onbeschoft",
+    "tr": "kaba",
+    "en": "rude",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "onbewust",
+    "tr": "bilinçaltı",
+    "en": "subconscious",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "onderbreken*",
+    "tr": "yarıda kesmek*",
+    "en": "interrupt*",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "opdringen, zich*",
+    "tr": "empoze etmek, kendisi*",
+    "en": "to impose, himself*",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "oppervlakkig",
+    "tr": "yüzeysel",
+    "en": "superficial",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "oriënteren, zich",
+    "tr": "yönlendirmek, kendisi",
+    "en": "orientate, himself",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "overbrengen*",
+    "tr": "iletmek*",
+    "en": "convey*",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "partner, de",
+    "tr": "ortak, the",
+    "en": "partner, the",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "receptie, de",
+    "tr": "resepsiyon,the",
+    "en": "front desk, the",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "steken*",
+    "tr": "dikişler*",
+    "en": "stiches*",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "stoplicht, het",
+    "tr": "trafik ışığı, BT",
+    "en": "traffic light, It",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "strip, de",
+    "tr": "şerit, the",
+    "en": "strip, the",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "toestemming, de",
+    "tr": "izin, the",
+    "en": "permission, the",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "toeteren",
+    "tr": "korna",
+    "en": "honk",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "verbaal",
+    "tr": "sözlü",
+    "en": "verbal",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "voorkeur, de",
+    "tr": "tercih, the",
+    "en": "preference, the",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "wegsturen",
+    "tr": "reddetmek",
+    "en": "to dismiss",
+    "chapter": "1.1"
+  },
+  {
+    "nl": "aarzelen",
+    "tr": "tereddüt etmek",
+    "en": "hesitate",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "afstandelijk",
+    "tr": "mesafe",
+    "en": "distant",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "agent, de",
+    "tr": "ajan,",
+    "en": "agent, the",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "buitengewoon",
+    "tr": "olağanüstü",
+    "en": "extraordinary",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "compenseren",
+    "tr": "tazmin etmek",
+    "en": "compensate",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "doodgaan*",
+    "tr": "ölmek*",
+    "en": "die*",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "doorgaans",
+    "tr": "genellikle",
+    "en": "usually",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "dringen*",
+    "tr": "itmek*",
+    "en": "push*",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "dronken",
+    "tr": "sarhoş",
+    "en": "drunk",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "fluisteren",
+    "tr": "fısıldamak",
+    "en": "to whisper",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "gebaar, het",
+    "tr": "jest yapmak, BT",
+    "en": "gesture, It",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "houding, de",
+    "tr": "davranış, the",
+    "en": "attitude, the",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "impliciet",
+    "tr": "zımni",
+    "en": "implied",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "inchecken",
+    "tr": "check-in",
+    "en": "checking in",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "intiem",
+    "tr": "samimi",
+    "en": "intimate",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "jaloers",
+    "tr": "kıskanç",
+    "en": "jealous",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "kaars, de",
+    "tr": "mum, the",
+    "en": "candle, the",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "kortom",
+    "tr": "Kısacası",
+    "en": "in short",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "kring, de",
+    "tr": "daire, the",
+    "en": "circle, the",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "markeren",
+    "tr": "İşaretlemek",
+    "en": "to mark",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "misverstand, het",
+    "tr": "yanlış anlama, BT",
+    "en": "misunderstanding, It",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "opsporen",
+    "tr": "izini sürmek",
+    "en": "track down",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "overkomen*",
+    "tr": "olmak*",
+    "en": "happen*",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "privacy, de",
+    "tr": "mahremiyet, the",
+    "en": "privacy, the",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "proces-verbaal, het",
+    "tr": "polis tutanağı, BT",
+    "en": "police report, It",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "signaal, het",
+    "tr": "sinyal, BT",
+    "en": "signal, It",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "terugdeinzen",
+    "tr": "çekinmek",
+    "en": "flinch",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "universeel",
+    "tr": "evrensel",
+    "en": "universal",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "vergissing, de",
+    "tr": "hata, the",
+    "en": "mistake, the",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "verontschuldigen, zich",
+    "tr": "özür dilemek, kendisi",
+    "en": "to apologize, himself",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "zintuig, het",
+    "tr": "algı, BT",
+    "en": "sense, It",
+    "chapter": "1.2"
+  },
+  {
+    "nl": "absurd",
+    "tr": "absürt",
+    "en": "absurd",
+    "chapter": "1.3"
+  },
+  {
+    "nl": "adverteren",
+    "tr": "reklam yapmak",
+    "en": "to advertise",
+    "chapter": "1.3"
+  },
+  {
+    "nl": "context, de",
+    "tr": "bağlam, the",
+    "en": "context, the",
+    "chapter": "1.3"
+  },
+  {
+    "nl": "creëren",
+    "tr": "yaratmak",
+    "en": "to create",
+    "chapter": "1.3"
+  },
+  {
+    "nl": "gunstig",
+    "tr": "avantajlı",
+    "en": "advantageous",
+    "chapter": "1.3"
+  },
+  {
+    "nl": "ironie, de",
+    "tr": "ironi, the",
+    "en": "irony, the",
+    "chapter": "1.3"
+  },
+  {
+    "nl": "mild",
+    "tr": "hafif",
+    "en": "mild",
+    "chapter": "1.3"
+  },
+  {
+    "nl": "overdrijving, de",
+    "tr": "abartı, the",
+    "en": "exaggeration, the",
+    "chapter": "1.3"
+  },
+  {
+    "nl": "tegenstrijdigheid, de",
+    "tr": "çelişki, the",
+    "en": "contradiction, the",
+    "chapter": "1.3"
+  },
+  {
+    "nl": "uiting, de",
+    "tr": "ifade, the",
+    "en": "expression, the",
+    "chapter": "1.3"
+  },
+  {
+    "nl": "uitvoeren",
+    "tr": "yürütmek",
+    "en": "to carry out",
+    "chapter": "1.3"
+  },
+  {
+    "nl": "waardering, de",
+    "tr": "değerleme, the",
+    "en": "valuation, the",
+    "chapter": "1.3"
+  },
+  {
+    "nl": "werking, de",
+    "tr": "operasyon, the",
+    "en": "operation, the",
+    "chapter": "1.3"
+  },
+  {
+    "nl": "achteloos",
+    "tr": "dikkatsiz",
+    "en": "careless",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "achterlaten*",
+    "tr": "arkada bırakmak*",
+    "en": "leave behind*",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "afleiden",
+    "tr": "dikkat dağıtmak",
+    "en": "to distract",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "berekenen",
+    "tr": "hesaplamak",
+    "en": "calculate",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "duf",
+    "tr": "sıkıcı",
+    "en": "dull",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "efficiënt",
+    "tr": "verimli",
+    "en": "efficient",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "ergernis, de",
+    "tr": "sıkıntı, the",
+    "en": "annoyance, the",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "eveneens",
+    "tr": "Ayrıca",
+    "en": "also",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "geliefde, de",
+    "tr": "sevgili, the",
+    "en": "lover, the",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "illustreren",
+    "tr": "tasvir etmek",
+    "en": "to illustrate",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "kinderachtig",
+    "tr": "çocukça",
+    "en": "childish",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "meetellen",
+    "tr": "saymak",
+    "en": "count in",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "mens, het",
+    "tr": "Adam, BT",
+    "en": "man,It",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "nut, het",
+    "tr": "Yarar, BT",
+    "en": "utility, It",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "nutteloos",
+    "tr": "kullanışsız",
+    "en": "useless",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "onderhouden*",
+    "tr": "sürdürmek*",
+    "en": "to maintain*",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "ondervragen*",
+    "tr": "sorgulamak*",
+    "en": "interrogate*",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "ontslaan*",
+    "tr": "ateş*",
+    "en": "fire*",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "opleveren",
+    "tr": "teslim olmak",
+    "en": "yield",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "overbodig",
+    "tr": "gereksiz",
+    "en": "unnecessary",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "productief",
+    "tr": "üretken",
+    "en": "productive",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "slordig",
+    "tr": "özensiz",
+    "en": "sloppy",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "suf",
+    "tr": "uykulu",
+    "en": "drowsy",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "twijfelen",
+    "tr": "şüphe etmek",
+    "en": "to doubt",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "voortdurend",
+    "tr": "sürekli",
+    "en": "continual",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "vullen",
+    "tr": "doldurmak",
+    "en": "to fill",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "wegwerken",
+    "tr": "kurtulmak",
+    "en": "get rid of",
+    "chapter": "1.4"
+  },
+  {
+    "nl": "aantasten",
+    "tr": "etkilemek",
+    "en": "affect",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "bek, de",
+    "tr": "gaga, the",
+    "en": "beak, the",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "belang, het",
+    "tr": "faiz, BT",
+    "en": "interest, It",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "concurrentie, de",
+    "tr": "yarışma, the",
+    "en": "competition, the",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "criterium, het",
+    "tr": "kriter, BT",
+    "en": "criterion, It",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "daarop",
+    "tr": "üstünde",
+    "en": "on it",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "exotisch",
+    "tr": "acayip",
+    "en": "exotic",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "importeren",
+    "tr": "içe aktarmak",
+    "en": "import",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "inheems",
+    "tr": "yerli",
+    "en": "native",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "kappen",
+    "tr": "kapüşon",
+    "en": "hood",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "kikker, de",
+    "tr": "kurbağa, the",
+    "en": "frog, the",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "oester, de",
+    "tr": "istiridye, the",
+    "en": "oyster, the",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "ontsnappen",
+    "tr": "kaçmak",
+    "en": "escape",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "overblijven*",
+    "tr": "geriye kalmak*",
+    "en": "remain*",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "overdreven",
+    "tr": "abartılı",
+    "en": "overdone",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "populatie, de",
+    "tr": "nüfus, the",
+    "en": "population, the",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "regel, de",
+    "tr": "kural, the",
+    "en": "rule, the",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "ruig",
+    "tr": "kaba",
+    "en": "rough",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "schelp, de",
+    "tr": "kabuk, the",
+    "en": "shell, the",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "terrein, het",
+    "tr": "arazi, BT",
+    "en": "terrain, It",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "tropisch",
+    "tr": "tropikal",
+    "en": "tropical",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "uitroeien",
+    "tr": "yok etmek",
+    "en": "exterminate",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "uitstellen",
+    "tr": "Gecikme",
+    "en": "Delay",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "verjagen*",
+    "tr": "kovalamak*",
+    "en": "chase away*",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "vijver, de",
+    "tr": "gölet, the",
+    "en": "pond, the",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "visser, de",
+    "tr": "balıkçı, the",
+    "en": "fisherman, the",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "vleermuis, de",
+    "tr": "yarasa, the",
+    "en": "bat, the",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "volwassen",
+    "tr": "yetişkin",
+    "en": "adult",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "voorkomen*",
+    "tr": "önlemek*",
+    "en": "prevent*",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "voortplanten, zich",
+    "tr": "doğurmak, kendisi",
+    "en": "procreate, himself",
+    "chapter": "2.1"
+  },
+  {
+    "nl": "aspect, het",
+    "tr": "yönü, o",
+    "en": "aspect, it",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "atlas, de",
+    "tr": "atlas",
+    "en": "atlas, de",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "bloei, de",
+    "tr": "çiçek açmak, the",
+    "en": "bloom, the",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "boren",
+    "tr": "delmek",
+    "en": "to drill",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "camping, de",
+    "tr": "kamp yapmak, the",
+    "en": "camping, the",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "caravan, de",
+    "tr": "karavan, the",
+    "en": "caravan, the",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "decennium, het",
+    "tr": "on yıl, BT",
+    "en": "decade, It",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "eigenaar, de",
+    "tr": "mal sahibi, the",
+    "en": "owner, the",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "extreem",
+    "tr": "aşırı",
+    "en": "extreme",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "fors",
+    "tr": "ağır",
+    "en": "hefty",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "hittegolf, de",
+    "tr": "sıcak hava dalgası, the",
+    "en": "heat wave, the",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "kampeerder, de",
+    "tr": "kampçı, the",
+    "en": "camper, the",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "klimaat, het",
+    "tr": "iklim, BT",
+    "en": "climate, It",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "maatregel, de",
+    "tr": "ölçüm, the",
+    "en": "measure, the",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "model, het",
+    "tr": "manken, BT",
+    "en": "fashion model, It",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "opnemen*",
+    "tr": "çekilme*",
+    "en": "to withdraw*",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "periode, de",
+    "tr": "zaman aralığı, the",
+    "en": "period of time, the",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "record, het",
+    "tr": "kayıt, BT",
+    "en": "record, It",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "regenachtig",
+    "tr": "yağmurlu",
+    "en": "rainy",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "rest, de",
+    "tr": "dinlenmek, the",
+    "en": "rest, the",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "tellen",
+    "tr": "saymak",
+    "en": "to count",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "tent, de",
+    "tr": "çadır, the",
+    "en": "tent, the",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "toename, de",
+    "tr": "arttırmak, the",
+    "en": "increase, the",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "verwarming, de",
+    "tr": "ısıtma, the",
+    "en": "heating, the",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "voorkomen*",
+    "tr": "önlemek*",
+    "en": "prevent*",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "vorst, de",
+    "tr": "don, the",
+    "en": "frost, the",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "zonnig",
+    "tr": "güneşli",
+    "en": "sunny",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "zweven",
+    "tr": "batmadan yüzmek",
+    "en": "float",
+    "chapter": "2.2"
+  },
+  {
+    "nl": "agrarisch",
+    "tr": "tarımsal",
+    "en": "agricultural",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "antibioticum, het",
+    "tr": "antibiyotik, o",
+    "en": "antibiotic, it",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "automatiseren",
+    "tr": "otomatikleştirmek",
+    "en": "automate",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "beperken",
+    "tr": "kısıtlamak",
+    "en": "to limit",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "bestrijdingsmiddel, het",
+    "tr": "böcek ilacı, BT",
+    "en": "pesticide, It",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "bezwaar, het",
+    "tr": "itiraz, BT",
+    "en": "objection, It",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "big, de",
+    "tr": "domuz yavrusu, the",
+    "en": "piglet, the",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "biologisch",
+    "tr": "biyolojik",
+    "en": "biological",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "chemisch",
+    "tr": "kimyasal",
+    "en": "chemical",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "dierlijk",
+    "tr": "hayvan",
+    "en": "animal",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "duurzaam",
+    "tr": "dayanıklı",
+    "en": "durable",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "eenmaal",
+    "tr": "bir kere",
+    "en": "once",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "exporteren",
+    "tr": "ihracat",
+    "en": "export",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "geweten, het",
+    "tr": "bilinen, BT",
+    "en": "known, It",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "grond, de",
+    "tr": "zemin, the",
+    "en": "ground, the",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "hek, het",
+    "tr": "çit, BT",
+    "en": "fence, It",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "hoop, de",
+    "tr": "yığın, the",
+    "en": "heap, the",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "hormoon, het",
+    "tr": "hormon, BT",
+    "en": "hormone, It",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "houden*",
+    "tr": "tutmak*",
+    "en": "to hold*",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "karbonade, de",
+    "tr": "kesmek, the",
+    "en": "chop, the",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "kas, de",
+    "tr": "sera, the",
+    "en": "greenhouse, the",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "keurmerk, het",
+    "tr": "kalite işareti, BT",
+    "en": "quality mark, It",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "knal, de",
+    "tr": "pop, the",
+    "en": "pop, the",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "mest, de",
+    "tr": "gübre, the",
+    "en": "manure, the",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "modder, de",
+    "tr": "çamur, the",
+    "en": "mud, the",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "natuurlijk",
+    "tr": "doğal olarak",
+    "en": "Naturally",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "omvang, de",
+    "tr": "kapsam, the",
+    "en": "scope, the",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "productie, de",
+    "tr": "üretme, the",
+    "en": "production, the",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "scharrel-",
+    "tr": "serbest gezinen",
+    "en": "free-range",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "schattig",
+    "tr": "Sevimli",
+    "en": "cute",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "slagerij, de",
+    "tr": "kasaplık, the",
+    "en": "butchery, the",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "staal, het",
+    "tr": "çelik, BT",
+    "en": "steel, It",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "stal, de",
+    "tr": "stabil, the",
+    "en": "stable, the",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "stof, de",
+    "tr": "toz, the",
+    "en": "dust, the",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "stro, het",
+    "tr": "pipet, BT",
+    "en": "straw, It",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "tuinbouw, de",
+    "tr": "bahçecilik, the",
+    "en": "horticulture, the",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "vanwege",
+    "tr": "yüzünden",
+    "en": "because of",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "varken, het",
+    "tr": "domuz, BT",
+    "en": "pig, It",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "vee, het",
+    "tr": "sığırlar, BT",
+    "en": "cattle, It",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "verschillen",
+    "tr": "farklılıklar",
+    "en": "differences",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "vetmesten",
+    "tr": "şişmanlamak",
+    "en": "fatten up",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "voer, het",
+    "tr": "beslemek, BT",
+    "en": "feed, It",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "vriendelijk",
+    "tr": "arkadaşça",
+    "en": "friendly",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "welzijn, het",
+    "tr": "refah, BT",
+    "en": "welfare, It",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "wroeten",
+    "tr": "köklenme",
+    "en": "rooting",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "zij, de",
+    "tr": "o, the",
+    "en": "she, the",
+    "chapter": "2.3"
+  },
+  {
+    "nl": "aanplanten",
+    "tr": "Ekim",
+    "en": "planting",
+    "chapter": "2.4"
+  },
+  {
+    "nl": "akker, de",
+    "tr": "alan,",
+    "en": "field, the",
+    "chapter": "2.4"
+  },
+  {
+    "nl": "bevolken",
+    "tr": "doldurmak",
+    "en": "populate",
+    "chapter": "2.4"
+  },
+  {
+    "nl": "cultuur, de",
+    "tr": "kültür, the",
+    "en": "culture, the",
+    "chapter": "2.4"
+  },
+  {
+    "nl": "domineren",
+    "tr": "hakim olmak",
+    "en": "dominate",
+    "chapter": "2.4"
+  },
+  {
+    "nl": "gras, het",
+    "tr": "çimen, BT",
+    "en": "grass, It",
+    "chapter": "2.4"
+  },
+  {
+    "nl": "inpoldering, de",
+    "tr": "ıslah, the",
+    "en": "reclamation, the",
+    "chapter": "2.4"
+  },
+  {
+    "nl": "oer-",
+    "tr": "ilkel",
+    "en": "primal",
+    "chapter": "2.4"
+  },
+  {
+    "nl": "oppervlakte, de",
+    "tr": "yüzey, the",
+    "en": "surface, the",
+    "chapter": "2.4"
+  },
+  {
+    "nl": "overstroming, de",
+    "tr": "sel basmak, the",
+    "en": "flood, the",
+    "chapter": "2.4"
+  },
+  {
+    "nl": "recreatie, de",
+    "tr": "yeniden yaratma, the",
+    "en": "recreation, the",
+    "chapter": "2.4"
+  },
+  {
+    "nl": "schaal, de",
+    "tr": "tabak, the",
+    "en": "dish, the",
+    "chapter": "2.4"
+  },
+  {
+    "nl": "stedelijk",
+    "tr": "kentsel",
+    "en": "urban",
+    "chapter": "2.4"
+  },
+  {
+    "nl": "variatie, de",
+    "tr": "varyasyon, the",
+    "en": "variation, the",
+    "chapter": "2.4"
+  },
+  {
+    "nl": "zeespiegel, de",
+    "tr": "Deniz seviyesi, the",
+    "en": "sea level, the",
+    "chapter": "2.4"
+  },
+  {
+    "nl": "aandeel, het",
+    "tr": "Paylaş",
+    "en": "share, it",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "beleving, de",
+    "tr": "deneyim, the",
+    "en": "experience, the",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "bestuderen",
+    "tr": "çalışmak",
+    "en": "study",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "bevinding, de",
+    "tr": "bulma, the",
+    "en": "finding, the",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "bewering, de",
+    "tr": "iddia, the",
+    "en": "assertion, the",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "circuleren",
+    "tr": "dolaşmak",
+    "en": "circulate",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "consument, de",
+    "tr": "tüketici, the",
+    "en": "consumer, the",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "consumptie, de",
+    "tr": "tüketim, the",
+    "en": "consumption, the",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "definitief",
+    "tr": "son",
+    "en": "final",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "dosis, de",
+    "tr": "doz, the",
+    "en": "dose, the",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "figuurlijk",
+    "tr": "mecazi olarak",
+    "en": "figuratively",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "genezen*",
+    "tr": "iyileşmiş*",
+    "en": "cured*",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "hart- en vaatziekten, de",
+    "tr": "kalp- Ve damar hastalığı, the",
+    "en": "heart- and vascular disease, the",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "hartinfarct, het",
+    "tr": "kalp krizi, BT",
+    "en": "heart attack, It",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "hoogleraar, de",
+    "tr": "profesör, the",
+    "en": "professor, the",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "hype, de",
+    "tr": "heyecanlandırmak, the",
+    "en": "hype, the",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "industrie, de",
+    "tr": "endüstri, the",
+    "en": "industry, the",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "isoleren",
+    "tr": "izole etmek",
+    "en": "isolate",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "kans, de",
+    "tr": "fırsat, the",
+    "en": "opportunity, the",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "meten*",
+    "tr": "ölçmek*",
+    "en": "to measure*",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "realiteit, de",
+    "tr": "gerçeklik, the",
+    "en": "reality, the",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "ritme, het",
+    "tr": "ritim, BT",
+    "en": "rhythm, It",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "simuleren",
+    "tr": "benzetmek",
+    "en": "simulate",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "stoornis, de",
+    "tr": "düzensizlik,the",
+    "en": "disorder, the",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "strijd, de",
+    "tr": "anlaşmazlık, the",
+    "en": "conflict, the",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "verband, het",
+    "tr": "bandaj, BT",
+    "en": "bandage, It",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "verbinden aan*",
+    "tr": "bağlanmak Açık*",
+    "en": "to connect On*",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "veroorzaken",
+    "tr": "neden",
+    "en": "cause",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "voeren",
+    "tr": "beslemek",
+    "en": "feed",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "waardevol",
+    "tr": "değerli",
+    "en": "valuable",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "wetenschapper, de",
+    "tr": "bilim adamı, the",
+    "en": "scientist, the",
+    "chapter": "3.1"
+  },
+  {
+    "nl": "afhankelijkheid, de",
+    "tr": "bağımlılık,",
+    "en": "dependency, the",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "afkomen van*",
+    "tr": "kurtulmak*",
+    "en": "get rid of*",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "baat, de",
+    "tr": "fayda,",
+    "en": "benefit, the",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "bacterie, de",
+    "tr": "bakteriler,",
+    "en": "bacteria, the",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "beduidend",
+    "tr": "önemli ölçüde",
+    "en": "significantly",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "beïnvloeden",
+    "tr": "etkilemek için",
+    "en": "to influence",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "beperkt",
+    "tr": "sınırlı",
+    "en": "limited",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "branden",
+    "tr": "yakmak",
+    "en": "to burn",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "chronisch",
+    "tr": "kronik",
+    "en": "chronic",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "dergelijk",
+    "tr": "çok",
+    "en": "such",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "fabrikant, de",
+    "tr": "üretici firma, the",
+    "en": "manufacturer, the",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "ingreep, de",
+    "tr": "ameliyat, the",
+    "en": "surgery, the",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "injectiespuit, de",
+    "tr": "şırınga, the",
+    "en": "syringe, the",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "jokken",
+    "tr": "uzanmak",
+    "en": "lying",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "magisch",
+    "tr": "büyü",
+    "en": "magic",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "middelbaar",
+    "tr": "ikincil",
+    "en": "secondary",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "morfine, de",
+    "tr": "morfin, the",
+    "en": "morphine, the",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "onderuithalen",
+    "tr": "yıkmak",
+    "en": "knock down",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "ongetwijfeld",
+    "tr": "şüphesiz",
+    "en": "doubtless",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "ruiken*",
+    "tr": "koklamak*",
+    "en": "to smell*",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "scheppen*",
+    "tr": "kepçe*",
+    "en": "scoop*",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "slikken",
+    "tr": "yutmak",
+    "en": "to swallow",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "spuiten*",
+    "tr": "sprey*",
+    "en": "spray*",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "stroom, de",
+    "tr": "akım, the",
+    "en": "current, the",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "suggestie, de",
+    "tr": "telkin, the",
+    "en": "suggestion, the",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "supplement, het",
+    "tr": "ek, BT",
+    "en": "supplement, It",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "uitzetten",
+    "tr": "genişletmek",
+    "en": "to expand",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "verminderen",
+    "tr": "Azaltmak",
+    "en": "Reduce",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "werkzaam",
+    "tr": "aktif",
+    "en": "active",
+    "chapter": "3.2"
+  },
+  {
+    "nl": "abortus, de",
+    "tr": "kürtaj,",
+    "en": "abortion, the",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "afwegen*",
+    "tr": "tartmak*",
+    "en": "weigh*",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "basis, de",
+    "tr": "baz,",
+    "en": "base, the",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "betrokken",
+    "tr": "endişeli",
+    "en": "concerned",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "conflict, het",
+    "tr": "anlaşmazlık, BT",
+    "en": "conflict, It",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "contract, het",
+    "tr": "sözleşme, BT",
+    "en": "contract, It",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "eicel, de",
+    "tr": "yumurta, the",
+    "en": "ovum, the",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "ethiek, de",
+    "tr": "etik, the",
+    "en": "ethics, the",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "ethisch",
+    "tr": "etik",
+    "en": "ethical",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "evenwichtig",
+    "tr": "dengeli",
+    "en": "balanced",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "invriezen*",
+    "tr": "donmak*",
+    "en": "freeze*",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "kwestie, de",
+    "tr": "konu, the",
+    "en": "matter, the",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "losmaken",
+    "tr": "gevşetmek",
+    "en": "loosen",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "nachtmerrie, de",
+    "tr": "kabus, the",
+    "en": "nightmare, the",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "omgang, de",
+    "tr": "ilişki, the",
+    "en": "intercourse, the",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "onvruchtbaarheid, de",
+    "tr": "kısırlık, the",
+    "en": "infertility, the",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "perspectief, het",
+    "tr": "perspektif, BT",
+    "en": "perspective, It",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "tegelijkertijd",
+    "tr": "aynı zamanda",
+    "en": "at the same time",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "vaststellen",
+    "tr": "kurmak",
+    "en": "to establish",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "verantwoord",
+    "tr": "sorumlu",
+    "en": "responsible",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "waar",
+    "tr": "Nerede",
+    "en": "Where",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "wachtlijst, de",
+    "tr": "bekleme listesi, the",
+    "en": "waiting list, the",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "wens, de",
+    "tr": "dilek, the",
+    "en": "wish, the",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "zwangerschap, de",
+    "tr": "gebelik, the",
+    "en": "pregnancy, the",
+    "chapter": "3.3"
+  },
+  {
+    "nl": "aanpassen, zich",
+    "tr": "uyum sağlamak, uyarlamak",
+    "en": "adapt, adapt",
+    "chapter": "3.4"
+  },
+  {
+    "nl": "abrupt",
+    "tr": "Aniden",
+    "en": "Abruptly",
+    "chapter": "3.4"
+  },
+  {
+    "nl": "accent, het",
+    "tr": "aksan, o",
+    "en": "accent, it",
+    "chapter": "3.4"
+  },
+  {
+    "nl": "bijhouden*",
+    "tr": "ayak uydurmak*",
+    "en": "to keep up with*",
+    "chapter": "3.4"
+  },
+  {
+    "nl": "dagboek, het",
+    "tr": "günlük, BT",
+    "en": "diary, It",
+    "chapter": "3.4"
+  },
+  {
+    "nl": "duiken*",
+    "tr": "dalmak*",
+    "en": "to dive*",
+    "chapter": "3.4"
+  },
+  {
+    "nl": "humeur, het",
+    "tr": "mod, BT",
+    "en": "mood, It",
+    "chapter": "3.4"
+  },
+  {
+    "nl": "inslapen*",
+    "tr": "uyuyakalmak*",
+    "en": "fall asleep*",
+    "chapter": "3.4"
+  },
+  {
+    "nl": "intonatie, de",
+    "tr": "tonlama, the",
+    "en": "intonation, the",
+    "chapter": "3.4"
+  },
+  {
+    "nl": "klok, de",
+    "tr": "saat, the",
+    "en": "clock, the",
+    "chapter": "3.4"
+  },
+  {
+    "nl": "opkomst, de",
+    "tr": "katılım, the",
+    "en": "attendance, the",
+    "chapter": "3.4"
+  },
+  {
+    "nl": "patroon, het",
+    "tr": "kartuş, BT",
+    "en": "cartridge, It",
+    "chapter": "3.4"
+  },
+  {
+    "nl": "synchroon",
+    "tr": "senkronize",
+    "en": "in sync",
+    "chapter": "3.4"
+  },
+  {
+    "nl": "uitgeput",
+    "tr": "yorgun",
+    "en": "exhausted",
+    "chapter": "3.4"
+  },
+  {
+    "nl": "vaag",
+    "tr": "başıboş dolaşmak",
+    "en": "vague",
+    "chapter": "3.4"
+  },
+  {
+    "nl": "vooruit",
+    "tr": "ilerde",
+    "en": "ahead",
+    "chapter": "3.4"
+  },
+  {
+    "nl": "waken",
+    "tr": "kol saati",
+    "en": "watch",
+    "chapter": "3.4"
+  },
+  {
+    "nl": "asiel, het",
+    "tr": "iltica, o",
+    "en": "asylum, it",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "behandelen",
+    "tr": "uğraşmak",
+    "en": "to deal with",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "dader, de",
+    "tr": "fail, the",
+    "en": "perpetrator, the",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "echtscheiding, de",
+    "tr": "boşanmak, the",
+    "en": "divorce, the",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "eventueel",
+    "tr": "muhtemelen",
+    "en": "possibly",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "feit, het",
+    "tr": "hakikat, BT",
+    "en": "fact, It",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "getuige, de",
+    "tr": "tanık, the",
+    "en": "witness, the",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "gevangenis, de",
+    "tr": "hapishane, the",
+    "en": "jail, the",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "instantie, de",
+    "tr": "Ajans, the",
+    "en": "agency, the",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "misdrijf, het",
+    "tr": "suç, BT",
+    "en": "crime, It",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "opleggen",
+    "tr": "empoze etmek",
+    "en": "impose",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "opsporing, de",
+    "tr": "tespit etme, the",
+    "en": "detection, the",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "overtreding, de",
+    "tr": "suç, the",
+    "en": "offence, the",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "plegen",
+    "tr": "işlemek",
+    "en": "commit",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "rechtbank, de",
+    "tr": "mahkeme, the",
+    "en": "court, the",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "schuldig",
+    "tr": "suçlu",
+    "en": "guilty",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "uitkering, de",
+    "tr": "ödeme, the",
+    "en": "payment, the",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "uitsluitend",
+    "tr": "münhasıran",
+    "en": "exclusively",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "uitspraak, de",
+    "tr": "telaffuz, the",
+    "en": "pronunciation, the",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "verdachte, de",
+    "tr": "şüphelenmek, the",
+    "en": "suspect, the",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "verdedigen",
+    "tr": "savunmak için",
+    "en": "to defend",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "vergrijp, het",
+    "tr": "yanlış, BT",
+    "en": "wrong, It",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "vergunning, de",
+    "tr": "izin vermek, the",
+    "en": "permit, the",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "vervolging, de",
+    "tr": "zulüm, the",
+    "en": "persecution, the",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "voorwaardelijk",
+    "tr": "koşullu",
+    "en": "conditional",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "vrijspraak, de",
+    "tr": "beraat, the",
+    "en": "acquittal, the",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "zaak, de",
+    "tr": "dava, the",
+    "en": "case, the",
+    "chapter": "4.1"
+  },
+  {
+    "nl": "aandringen*",
+    "tr": "ısrar etmek*",
+    "en": "insist*",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "aanvulling, de",
+    "tr": "ek olarak,",
+    "en": "addition, the",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "aflevering, de",
+    "tr": "bölüm,",
+    "en": "episode, the",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "akkoord",
+    "tr": "kabul etmek",
+    "en": "agree",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "begrip, het",
+    "tr": "anlayış, o",
+    "en": "understanding, it",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "beroven",
+    "tr": "soymak",
+    "en": "to rob",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "besparing, de",
+    "tr": "tasarruf, the",
+    "en": "saving, the",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "blijkbaar",
+    "tr": "belli ki",
+    "en": "evidently",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "desondanks",
+    "tr": "aksine",
+    "en": "despite",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "dilemma, het",
+    "tr": "ikilem, BT",
+    "en": "dilemma, It",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "inkomen, het",
+    "tr": "gelir, BT",
+    "en": "income, It",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "inschakelen",
+    "tr": "anahtar",
+    "en": "switch",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "last, de",
+    "tr": "yük, the",
+    "en": "burden, the",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "lijden*",
+    "tr": "cefa*",
+    "en": "suffering*",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "negeren",
+    "tr": "yoksaymak",
+    "en": "to ignore",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "opereren",
+    "tr": "işletmek",
+    "en": "to operate",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "oplopen*",
+    "tr": "arttırmak*",
+    "en": "increase*",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "opzettelijk",
+    "tr": "bilerek",
+    "en": "on purpose",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "procedure, de",
+    "tr": "prosedür, the",
+    "en": "procedure, the",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "uitoefenen",
+    "tr": "egzersiz yapmak",
+    "en": "exercise",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "verlangen",
+    "tr": "arzu",
+    "en": "desire",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "verzuim, het",
+    "tr": "varsayılan, BT",
+    "en": "default, It",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "weigeren",
+    "tr": "reddetmek",
+    "en": "to refuse",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "zaal, de",
+    "tr": "oda, the",
+    "en": "room, the",
+    "chapter": "4.2"
+  },
+  {
+    "nl": "aanleiding, de",
+    "tr": "sebep,",
+    "en": "cause, the",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "aannemen*",
+    "tr": "sözleşme*",
+    "en": "contract*",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "beschadiging, de",
+    "tr": "zarar, the",
+    "en": "damage, the",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "calvinistisch",
+    "tr": "Kalvinist",
+    "en": "Calvinist",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "consumeren",
+    "tr": "tüketmek",
+    "en": "to consume",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "daadwerkelijk",
+    "tr": "Aslında",
+    "en": "actually",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "doorschieten*",
+    "tr": "aşmak*",
+    "en": "overshoot*",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "dreigement, het",
+    "tr": "tehdit, BT",
+    "en": "threat, It",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "eisen",
+    "tr": "talep etmek",
+    "en": "to demand",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "erkenning, de",
+    "tr": "tanıma, the",
+    "en": "recognition, the",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "ernst, de",
+    "tr": "ciddiyet, the",
+    "en": "seriousness, the",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "indienen",
+    "tr": "göndermek",
+    "en": "submit",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "jurist, de",
+    "tr": "avukat, the",
+    "en": "lawyer, the",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "letsel, het",
+    "tr": "zarar, BT",
+    "en": "damage, It",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "materieel",
+    "tr": "malzeme",
+    "en": "material",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "mentaliteit, de",
+    "tr": "zihniyet, the",
+    "en": "mentality, the",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "mondig",
+    "tr": "yetkili",
+    "en": "empowered",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "naaste, de",
+    "tr": "komşu, the",
+    "en": "neighbor, the",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "overslaan*",
+    "tr": "geçmek*",
+    "en": "to skip*",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "schram, de",
+    "tr": "çizik, the",
+    "en": "scratch, the",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "stadium, het",
+    "tr": "sahne, BT",
+    "en": "stage, It",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "statistiek, de",
+    "tr": "İstatistik, the",
+    "en": "statistics, the",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "tijdperk, het",
+    "tr": "çağ, BT",
+    "en": "era, It",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "toekennen",
+    "tr": "hibe etmek",
+    "en": "grant",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "toestaan*",
+    "tr": "izin vermek*",
+    "en": "allow*",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "toestand, de",
+    "tr": "durum,the",
+    "en": "status, the",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "uitwijzen*",
+    "tr": "işaret etmek*",
+    "en": "point out*",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "verhouding, de",
+    "tr": "oran, the",
+    "en": "ratio, the",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "verlamd",
+    "tr": "felçli",
+    "en": "paralysed",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "verslag, het",
+    "tr": "rapor, BT",
+    "en": "report, It",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "verwerpen*",
+    "tr": "reddetmek*",
+    "en": "reject*",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "verwonding, de",
+    "tr": "incinme, the",
+    "en": "injury, the",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "volledig",
+    "tr": "tamamlamak",
+    "en": "complete",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "voorziening, de",
+    "tr": "karşılık, the",
+    "en": "provision, the",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "vorderen",
+    "tr": "ilerlemek",
+    "en": "progress",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "wenselijk",
+    "tr": "arzu edilen",
+    "en": "desirable",
+    "chapter": "4.3"
+  },
+  {
+    "nl": "aanstaan*",
+    "tr": "Açık*",
+    "en": "on*",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "afluisteren",
+    "tr": "kulak misafiri olmak",
+    "en": "eavesdropping",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "afvallen*",
+    "tr": "düşmek*",
+    "en": "to fall off*",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "arresteren",
+    "tr": "tutuklamak",
+    "en": "to arrest",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "bekentenis, de",
+    "tr": "itiraf, the",
+    "en": "confession, the",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "delict, het",
+    "tr": "suç, BT",
+    "en": "crime, It",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "destijds",
+    "tr": "o zaman",
+    "en": "at the time",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "dwang, de",
+    "tr": "zorlama, the",
+    "en": "coercion,the",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "gewelddadig",
+    "tr": "şiddetli",
+    "en": "violent",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "gruwelijk",
+    "tr": "berbat",
+    "en": "horrible",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "menig",
+    "tr": "birçok",
+    "en": "many",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "onlangs",
+    "tr": "son zamanlarda",
+    "en": "recently",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "poging, de",
+    "tr": "girişim, the",
+    "en": "attempt, the",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "strafblad, het",
+    "tr": "sabıka kaydı, BT",
+    "en": "criminal record, It",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "terecht",
+    "tr": "haklı olarak",
+    "en": "justifiably",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "uiterst",
+    "tr": "aşırı boyutta",
+    "en": "extremely",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "vasthouden*",
+    "tr": "sarılmak*",
+    "en": "to cling*",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "verjaring, de",
+    "tr": "reçete, the",
+    "en": "prescription, the",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "veroordelen",
+    "tr": "kınamak",
+    "en": "condemn",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "verslaggever, de",
+    "tr": "muhabir, the",
+    "en": "news reporter, the",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "vrijspreken*",
+    "tr": "beraat*",
+    "en": "acquit*",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "woede, de",
+    "tr": "öfke, the",
+    "en": "fury, the",
+    "chapter": "4.4"
+  },
+  {
+    "nl": "aanbrengen*",
+    "tr": "uygula*",
+    "en": "apply*",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "aannemen*",
+    "tr": "sözleşme*",
+    "en": "contract*",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "aanwijzing, de",
+    "tr": "gösterge,",
+    "en": "indication, the",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "afzonderlijk",
+    "tr": "bireysel",
+    "en": "individual",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "blad, het",
+    "tr": "çarşaf, BT",
+    "en": "sheet, It",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "brein, het",
+    "tr": "beyin, BT",
+    "en": "brain, It",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "drempel, de",
+    "tr": "eşik, the",
+    "en": "threshold, the",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "duim, de",
+    "tr": "baş parmak, the",
+    "en": "thumb, the",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "fascineren",
+    "tr": "cezbetmek",
+    "en": "fascinate",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "feilbaar",
+    "tr": "yanılabilir",
+    "en": "fallible",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "geheugen, het",
+    "tr": "hafıza, BT",
+    "en": "memory, It",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "gêne, de",
+    "tr": "utanç, the",
+    "en": "embarrassment, the",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "gering",
+    "tr": "küçük",
+    "en": "minor",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "geur, de",
+    "tr": "koku, the",
+    "en": "odor, the",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "globaal",
+    "tr": "küresel",
+    "en": "global",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "indringend",
+    "tr": "ısrarcı",
+    "en": "insistent",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "kwijtraken",
+    "tr": "kaybetmek",
+    "en": "lose",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "lens, de",
+    "tr": "lens, the",
+    "en": "lens, the",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "luiden",
+    "tr": "çan",
+    "en": "chime",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "ondergaan*",
+    "tr": "uğramak*",
+    "en": "undergo*",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "opgewekt",
+    "tr": "heyecanlı",
+    "en": "excited",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "poot, de",
+    "tr": "mat, the",
+    "en": "mate, the",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "prikkel, de",
+    "tr": "uyarıcı, the",
+    "en": "stimulus, the",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "strekken",
+    "tr": "uzatmak",
+    "en": "stretch",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "ultiem",
+    "tr": "Nihai",
+    "en": "Ultimate",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "verandering, de",
+    "tr": "değiştirmek, the",
+    "en": "change, the",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "vleugel, de",
+    "tr": "kanat, the",
+    "en": "wing, the",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "waarnemen*",
+    "tr": "gözlemlemek*",
+    "en": "observe*",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "waarneming, de",
+    "tr": "gözlem, the",
+    "en": "observation, the",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "weliswaar",
+    "tr": "kuşkusuz",
+    "en": "admittedly",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "wellicht",
+    "tr": "belki",
+    "en": "perhaps",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "werkelijkheid, de",
+    "tr": "gerçeklik, the",
+    "en": "reality, the",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "ziel, de",
+    "tr": "ruh, the",
+    "en": "soul, the",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "zwijgen*",
+    "tr": "sessiz ol*",
+    "en": "keep silent*",
+    "chapter": "5.1"
+  },
+  {
+    "nl": "afsluiten*",
+    "tr": "engellemek*",
+    "en": "to block*",
+    "chapter": "5.2"
+  },
+  {
+    "nl": "afwisselen",
+    "tr": "alternatif",
+    "en": "alternate",
+    "chapter": "5.2"
+  },
+  {
+    "nl": "allebei",
+    "tr": "ikisi birden",
+    "en": "both",
+    "chapter": "5.2"
+  },
+  {
+    "nl": "binden*",
+    "tr": "bağlamak*",
+    "en": "tie*",
+    "chapter": "5.2"
+  },
+  {
+    "nl": "domein, het",
+    "tr": "ihtisas, BT",
+    "en": "domain, It",
+    "chapter": "5.2"
+  },
+  {
+    "nl": "factor, de",
+    "tr": "faktör, the",
+    "en": "factor, the",
+    "chapter": "5.2"
+  },
+  {
+    "nl": "fysiek",
+    "tr": "fiziksel olarak",
+    "en": "physically",
+    "chapter": "5.2"
+  },
+  {
+    "nl": "garanderen",
+    "tr": "garanti etmek",
+    "en": "to guarantee",
+    "chapter": "5.2"
+  },
+  {
+    "nl": "grabbelen",
+    "tr": "yakalamak",
+    "en": "grab",
+    "chapter": "5.2"
+  },
+  {
+    "nl": "opduiken*",
+    "tr": "meydana gelmek*",
+    "en": "emerge*",
+    "chapter": "5.2"
+  },
+  {
+    "nl": "opgroeien",
+    "tr": "büyümek",
+    "en": "to grow up",
+    "chapter": "5.2"
+  },
+  {
+    "nl": "oppikken",
+    "tr": "toplamak",
+    "en": "pick up",
+    "chapter": "5.2"
+  },
+  {
+    "nl": "vermengen",
+    "tr": "karışım",
+    "en": "mix",
+    "chapter": "5.2"
+  },
+  {
+    "nl": "vermoedelijk",
+    "tr": "muhtemelen",
+    "en": "presumably",
+    "chapter": "5.2"
+  },
+  {
+    "nl": "veronderstelling, de",
+    "tr": "varsayım, the",
+    "en": "assumption, the",
+    "chapter": "5.2"
+  },
+  {
+    "nl": "verschijnsel, het",
+    "tr": "fenomen, BT",
+    "en": "phenomenon, It",
+    "chapter": "5.2"
+  },
+  {
+    "nl": "verwerven*",
+    "tr": "elde etmek*",
+    "en": "acquire*",
+    "chapter": "5.2"
+  },
+  {
+    "nl": "willekeurig",
+    "tr": "rastgele",
+    "en": "random",
+    "chapter": "5.2"
+  },
+  {
+    "nl": "associëren",
+    "tr": "iş arkadaşı",
+    "en": "associate",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "autobiografisch",
+    "tr": "otobiyografik",
+    "en": "autobiographical",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "betrouwbaarheid, de",
+    "tr": "güvenilirlik, the",
+    "en": "reliability, the",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "bijten*",
+    "tr": "ısırmak*",
+    "en": "to bite*",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "collectief",
+    "tr": "toplu",
+    "en": "collective",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "flard, de",
+    "tr": "yama, the",
+    "en": "patch, the",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "herinnering, de",
+    "tr": "hafıza, the",
+    "en": "memory, the",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "instrument, het",
+    "tr": "enstrüman, BT",
+    "en": "instrument, It",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "maaien",
+    "tr": "biçmek",
+    "en": "mow",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "markant",
+    "tr": "dikkat çekici",
+    "en": "striking",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "moeiteloos",
+    "tr": "zahmetsizce",
+    "en": "effortlessly",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "motto, het",
+    "tr": "slogan, BT",
+    "en": "motto, It",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "onverschillig",
+    "tr": "kayıtsız",
+    "en": "indifferent",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "oproepen*",
+    "tr": "harekete geçirmek için*",
+    "en": "to call to action*",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "portret, het",
+    "tr": "Vesika, BT",
+    "en": "portrait, It",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "scène, de",
+    "tr": "sahne, the",
+    "en": "scene, the",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "schokkend",
+    "tr": "şok edici",
+    "en": "shocking",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "schoonheid, de",
+    "tr": "güzellik, the",
+    "en": "beauty, the",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "stemming, de",
+    "tr": "mod, the",
+    "en": "mood, the",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "telkens",
+    "tr": "her zaman",
+    "en": "every time",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "vernederend",
+    "tr": "aşağılayıcı",
+    "en": "humiliating",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "zaagsel, het",
+    "tr": "talaş, BT",
+    "en": "sawdust, It",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "zeker",
+    "tr": "Kesinlikle",
+    "en": "Certainly",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "zenuwachtig",
+    "tr": "gergin",
+    "en": "nervous",
+    "chapter": "5.3"
+  },
+  {
+    "nl": "aanslaan*",
+    "tr": "yakalamak*",
+    "en": "catch on*",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "afloop, de",
+    "tr": "son,",
+    "en": "end, the",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "berm, de",
+    "tr": "yol kenarı, the",
+    "en": "roadside, the",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "bezeten",
+    "tr": "ele geçirilmiş",
+    "en": "possessed",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "fenomeen, het",
+    "tr": "fenomen, BT",
+    "en": "phenomenon, It",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "fobie, de",
+    "tr": "fobi, the",
+    "en": "phobia, the",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "gevecht, het",
+    "tr": "kavga, BT",
+    "en": "fight, It",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "halverwege",
+    "tr": "yarı yolda",
+    "en": "halfway through",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "hulpverlenend",
+    "tr": "yardım ediyor",
+    "en": "helping",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "immers",
+    "tr": "Nihayet",
+    "en": "after all",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "kandidaat, de",
+    "tr": "aday, the",
+    "en": "candidate, the",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "kennis, de",
+    "tr": "bilgi, the",
+    "en": "knowledge, the",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "luchtvaart, de",
+    "tr": "havacılık, the",
+    "en": "aviation, the",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "luchtvaartmaatschappij, de",
+    "tr": "havayolu, the",
+    "en": "airline, the",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "machtig",
+    "tr": "kudretli",
+    "en": "mighty",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "minderwaardig",
+    "tr": "kalitesiz",
+    "en": "inferior",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "noodzakelijk",
+    "tr": "gerekli",
+    "en": "necessary",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "onfeilbaar",
+    "tr": "yanılmaz",
+    "en": "infallible",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "opleiden",
+    "tr": "Eğitim vermek",
+    "en": "educate",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "overwinnen*",
+    "tr": "yenmek*",
+    "en": "vanquish*",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "passie, de",
+    "tr": "tutku, the",
+    "en": "passion, the",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "recensie, de",
+    "tr": "gözden geçirmek, the",
+    "en": "review, the",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "rondleiding, de",
+    "tr": "tur, the",
+    "en": "tour, the",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "stapsgewijs",
+    "tr": "adım adım",
+    "en": "step-by-step",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "tegenhouden*",
+    "tr": "önlemek*",
+    "en": "to prevent*",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "tekeergaan*",
+    "tr": "Çıldır*",
+    "en": "go berserk*",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "toegeven*",
+    "tr": "teslim olmak*",
+    "en": "to give in*",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "toestel, het",
+    "tr": "cihaz, BT",
+    "en": "appliance, It",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "vrees, de",
+    "tr": "korku, the",
+    "en": "fear, the",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "weggooien",
+    "tr": "atmak",
+    "en": "throw away",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "zelfbeeld, het",
+    "tr": "öz görüntü, BT",
+    "en": "self image, It",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "zuigen*",
+    "tr": "emmek*",
+    "en": "suck*",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "zwakheid, de",
+    "tr": "zayıflık,the",
+    "en": "weakness, the",
+    "chapter": "5.4"
+  },
+  {
+    "nl": "aanzienlijk",
+    "tr": "hatırı sayılır",
+    "en": "considerable",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "althans",
+    "tr": "en azından",
+    "en": "at least",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "bedrijfsleven, het",
+    "tr": "iş, o",
+    "en": "business, it",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "behouden*",
+    "tr": "sürdürmek*",
+    "en": "retain*",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "bloeien",
+    "tr": "Çiçek açmak",
+    "en": "Bloom",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "brons",
+    "tr": "bronz",
+    "en": "bronze",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "brouwerij, de",
+    "tr": "bira fabrikası, the",
+    "en": "brewery, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "categorie, de",
+    "tr": "kategori, the",
+    "en": "category, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "chirurg, de",
+    "tr": "Cerrah, the",
+    "en": "surgeon, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "commotie, de",
+    "tr": "kargaşa, the",
+    "en": "commotion, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "culinair",
+    "tr": "mutfakla ilgili",
+    "en": "culinary",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "duurzaamheid, de",
+    "tr": "Sürdürülebilirlik, the",
+    "en": "sustainability, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "essentieel",
+    "tr": "gerekli",
+    "en": "essential",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "grondstof, de",
+    "tr": "hammadde, the",
+    "en": "raw material, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "inspireren",
+    "tr": "ilham vermek",
+    "en": "inspire",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "intern",
+    "tr": "dahili",
+    "en": "internal",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "invoeren",
+    "tr": "girmek",
+    "en": "enter",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "kapitaal, het",
+    "tr": "başkent, BT",
+    "en": "capital, It",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "keten, de",
+    "tr": "zincir, the",
+    "en": "chain, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "kruidenier, de",
+    "tr": "Bakkal, the",
+    "en": "grocer, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "legende, de",
+    "tr": "efsane, the",
+    "en": "legend, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "levensmiddelen, de",
+    "tr": "gıda maddeleri, the",
+    "en": "foodstuffs, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "mand, de",
+    "tr": "sepet, the",
+    "en": "basket, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "massa, de",
+    "tr": "yığın, the",
+    "en": "mass, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "misbruik, het",
+    "tr": "suistimal etmek, BT",
+    "en": "abuse, It",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "nuance, de",
+    "tr": "nüans, the",
+    "en": "nuance, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "ondernemer, de",
+    "tr": "girişimci, the",
+    "en": "entrepreneur, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "ondertekenen",
+    "tr": "imza",
+    "en": "sign",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "ontvoering, de",
+    "tr": "kaçırma, the",
+    "en": "kidnapping, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "onvergeeflijk",
+    "tr": "affedilemez",
+    "en": "unforgivable",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "oprichter, de",
+    "tr": "kurucu, the",
+    "en": "founder, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "overdracht, de",
+    "tr": "Devretmek, the",
+    "en": "Handover, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "persoonlijkheid, de",
+    "tr": "kişilik, the",
+    "en": "personality, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "profiteren",
+    "tr": "avantaj elde etmek",
+    "en": "taking advantage",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "revolutie, de",
+    "tr": "devrim, the",
+    "en": "revolution, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "stampen",
+    "tr": "ayağıyla ezmek",
+    "en": "stomp",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "stok, de",
+    "tr": "sopa, the",
+    "en": "stick, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "toepasselijk",
+    "tr": "uygulanabilir",
+    "en": "applicable",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "traject, het",
+    "tr": "prosedür, BT",
+    "en": "procedure, It",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "uitstoot, de",
+    "tr": "emisyonlar, the",
+    "en": "emissions, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "vastleggen",
+    "tr": "kurmak",
+    "en": "to establish",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "verbond, het",
+    "tr": "Sözleşme, BT",
+    "en": "covenant, It",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "voldoen",
+    "tr": "yerine getirmek",
+    "en": "to fulfil",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "vooraanstaand",
+    "tr": "öne çıkan",
+    "en": "prominent",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "wagen, de",
+    "tr": "vagon, the",
+    "en": "wagon, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "welvaart, de",
+    "tr": "refah, the",
+    "en": "welfare, the",
+    "chapter": "6.1"
+  },
+  {
+    "nl": "aantrekken*",
+    "tr": "cezbetmek*",
+    "en": "attract*",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "bedelaar, de",
+    "tr": "dilenci,",
+    "en": "beggar, the",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "bende, de",
+    "tr": "çete, the",
+    "en": "gang, the",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "enkeling, de",
+    "tr": "bireysel, the",
+    "en": "individual, the",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "enquête, de",
+    "tr": "anket, the",
+    "en": "survey, the",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "gereedschap, het",
+    "tr": "aletler, BT",
+    "en": "tools, It",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "integendeel",
+    "tr": "aksine",
+    "en": "on the contrary",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "inzetten",
+    "tr": "pay almak",
+    "en": "to stake",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "kop, de",
+    "tr": "bardak, the",
+    "en": "cup, the",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "lol, de",
+    "tr": "YÜKSEK SESLE GÜLMEK, the",
+    "en": "LOL, the",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "loterij, de",
+    "tr": "piyango, the",
+    "en": "lottery, the",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "miljonair, de",
+    "tr": "milyoner, the",
+    "en": "millionaire, the",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "onderdak, het",
+    "tr": "barınak, BT",
+    "en": "shelter, It",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "onterecht",
+    "tr": "haksız yere",
+    "en": "unjustly",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "opstellen",
+    "tr": "formüle etmek",
+    "en": "to formulate",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "roes, de",
+    "tr": "sarhoşluk, the",
+    "en": "intoxication, the",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "rotzooi, de",
+    "tr": "karışıklık, the",
+    "en": "mess, the",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "tegenstaan*",
+    "tr": "direnmek*",
+    "en": "resist*",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "uitspraak, de",
+    "tr": "telaffuz, the",
+    "en": "pronunciation, the",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "vervullen",
+    "tr": "yerine getirmek",
+    "en": "to fulfill",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "verwijderen",
+    "tr": "silmek",
+    "en": "to delete",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "voorheen",
+    "tr": "vakti zamanında",
+    "en": "formerly",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "werkgelegenheid, de",
+    "tr": "istihdam olanakları, the",
+    "en": "employment opportunities, the",
+    "chapter": "6.2"
+  },
+  {
+    "nl": "adel, de",
+    "tr": "asalet,",
+    "en": "nobility, the",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "calvinisme, het",
+    "tr": "Kalvinizm, BT",
+    "en": "Calvinism, It",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "crisis, de",
+    "tr": "kriz, the",
+    "en": "crisis, the",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "dienen",
+    "tr": "sert",
+    "en": "serve",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "doorbreken*",
+    "tr": "kırarak*",
+    "en": "breaking through*",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "doordringen*",
+    "tr": "nüfuz etmek*",
+    "en": "penetrate*",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "druk, de",
+    "tr": "Meşgul, the",
+    "en": "Busy, the",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "essentie, de",
+    "tr": "öz, the",
+    "en": "essence, the",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "gen, het",
+    "tr": "gen, BT",
+    "en": "gene, It",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "gierig",
+    "tr": "pinti",
+    "en": "stingy",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "hecht",
+    "tr": "kapalı",
+    "en": "close",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "heil, het",
+    "tr": "kurtuluş, BT",
+    "en": "Salvation, It",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "hervormen",
+    "tr": "reform",
+    "en": "reform",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "infrastructuur, de",
+    "tr": "altyapı, the",
+    "en": "infrastructure, the",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "investeren",
+    "tr": "yatırım yapmak",
+    "en": "to invest",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "kritiek, de",
+    "tr": "eleştiri, the",
+    "en": "criticism, the",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "luxe, de",
+    "tr": "lüks, the",
+    "en": "luxury, the",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "munt, de",
+    "tr": "madeni para, the",
+    "en": "coin, the",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "norm, de",
+    "tr": "norm, the",
+    "en": "norm, the",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "opmerking, de",
+    "tr": "açıklama, the",
+    "en": "remark, the",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "overspannen",
+    "tr": "stresli",
+    "en": "stressed",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "pand, het",
+    "tr": "rehin, BT",
+    "en": "pledge, It",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "pindakaas, de",
+    "tr": "fıstık ezmesi, the",
+    "en": "peanut butter, the",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "problematiek, de",
+    "tr": "problemler, the",
+    "en": "problems, the",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "rationeel",
+    "tr": "akılcı",
+    "en": "rational",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "reserve, de",
+    "tr": "rezerv, the",
+    "en": "reserve, the",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "soortgelijk",
+    "tr": "benzer",
+    "en": "similar",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "spreuk, de",
+    "tr": "hecelemek, the",
+    "en": "spell, the",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "terugdraaien",
+    "tr": "geri sarmak",
+    "en": "to wind back",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "uitvoerig",
+    "tr": "detaylandırmak",
+    "en": "elaborate",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "vergroten",
+    "tr": "büyütmek",
+    "en": "enlarge",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "verworvenheid, de",
+    "tr": "başarı, the",
+    "en": "achievement, the",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "vrijgevig",
+    "tr": "cömert",
+    "en": "generous",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "winst, de",
+    "tr": "kazanmak, the",
+    "en": "gain, the",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "zuinig",
+    "tr": "ekonomik",
+    "en": "economical",
+    "chapter": "6.3"
+  },
+  {
+    "nl": "beginsel, het",
+    "tr": "prensip, o",
+    "en": "principle, it",
+    "chapter": "6.4"
+  },
+  {
+    "nl": "behoefte, de",
+    "tr": "ihtiyaç, the",
+    "en": "need, the",
+    "chapter": "6.4"
+  },
+  {
+    "nl": "degene",
+    "tr": "biri",
+    "en": "the one",
+    "chapter": "6.4"
+  },
+  {
+    "nl": "eindigen",
+    "tr": "son",
+    "en": "end",
+    "chapter": "6.4"
+  },
+  {
+    "nl": "huisvesting, de",
+    "tr": "Konut, the",
+    "en": "housing, the",
+    "chapter": "6.4"
+  },
+  {
+    "nl": "inkomsten, de",
+    "tr": "gelir, the",
+    "en": "income, the",
+    "chapter": "6.4"
+  },
+  {
+    "nl": "langdurig",
+    "tr": "uzun vadeli",
+    "en": "long-term",
+    "chapter": "6.4"
+  },
+  {
+    "nl": "onbeheersbaar",
+    "tr": "kontrol edilemez",
+    "en": "uncontrollable",
+    "chapter": "6.4"
+  },
+  {
+    "nl": "ouderdom, de",
+    "tr": "ihtiyarlık, the",
+    "en": "old age, the",
+    "chapter": "6.4"
+  },
+  {
+    "nl": "peil, het",
+    "tr": "seviye, BT",
+    "en": "level, It",
+    "chapter": "6.4"
+  },
+  {
+    "nl": "solidariteit, de",
+    "tr": "dayanışma, the",
+    "en": "solidarity, the",
+    "chapter": "6.4"
+  },
+  {
+    "nl": "stelsel, het",
+    "tr": "sistem, BT",
+    "en": "system, It",
+    "chapter": "6.4"
+  },
+  {
+    "nl": "vanzelfsprekend",
+    "tr": "bariz",
+    "en": "obvious",
+    "chapter": "6.4"
+  },
+  {
+    "nl": "variabel",
+    "tr": "değişken",
+    "en": "variable",
+    "chapter": "6.4"
+  },
+  {
+    "nl": "vermogen, het",
+    "tr": "varlıklar, BT",
+    "en": "assets, It",
+    "chapter": "6.4"
+  },
+  {
+    "nl": "zekerheid, de",
+    "tr": "güvenlik, the",
+    "en": "security, the",
+    "chapter": "6.4"
+  },
+  {
+    "nl": "ambt, het",
+    "tr": "ofis, o",
+    "en": "office, it",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "as, de",
+    "tr": "eksen,",
+    "en": "axis, the",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "blootleggen",
+    "tr": "ortaya çıkarmak",
+    "en": "expose",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "bol",
+    "tr": "küre",
+    "en": "sphere",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "botsen",
+    "tr": "çarpışmak",
+    "en": "to collide",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "corresponderen",
+    "tr": "karşılık",
+    "en": "correspond",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "diplomatiek",
+    "tr": "diplomatik",
+    "en": "diplomatic",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "doorbrengen*",
+    "tr": "Zaman harcamak*",
+    "en": "Spending time*",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "doorheen",
+    "tr": "başından sonuna kadar",
+    "en": "through",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "duikboot, de",
+    "tr": "denizaltı, the",
+    "en": "submarine, the",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "eer, de",
+    "tr": "onur, the",
+    "en": "honor, the",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "eigenwijs",
+    "tr": "inatçı",
+    "en": "stubborn",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "erkennen",
+    "tr": "kabullenmek",
+    "en": "acknowledge",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "heelal, het",
+    "tr": "Evren, BT",
+    "en": "universe, It",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "hol",
+    "tr": "oyuk",
+    "en": "hollow",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "kern, de",
+    "tr": "çekirdek, the",
+    "en": "core, the",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "krater, de",
+    "tr": "krater, the",
+    "en": "crater, the",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "maan, de",
+    "tr": "Ay, the",
+    "en": "Moon, the",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "macht, de",
+    "tr": "güç, the",
+    "en": "power, the",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "merkwaardig",
+    "tr": "meraklı",
+    "en": "curious",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "methode, de",
+    "tr": "yöntem, the",
+    "en": "method, the",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "middelpunt, het",
+    "tr": "merkez, BT",
+    "en": "center, It",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "militair",
+    "tr": "askeri",
+    "en": "military",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "onderkennen",
+    "tr": "tanımak",
+    "en": "recognize",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "ontdekking, de",
+    "tr": "keşif, the",
+    "en": "discovery, the",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "planeet, de",
+    "tr": "gezegen, the",
+    "en": "planet, the",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "rang, de",
+    "tr": "rütbe, the",
+    "en": "rank, the",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "rekken",
+    "tr": "raflar",
+    "en": "racks",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "simpel",
+    "tr": "kolay",
+    "en": "easy",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "sleutelen",
+    "tr": "tamircilik",
+    "en": "tinker",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "speuren",
+    "tr": "aramak",
+    "en": "search",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "status, de",
+    "tr": "durum, the",
+    "en": "status, the",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "stiekem",
+    "tr": "gizlice",
+    "en": "secretly",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "tamelijk",
+    "tr": "epeyce",
+    "en": "quite",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "telescoop, de",
+    "tr": "teleskop, the",
+    "en": "telescope, the",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "terugkeren",
+    "tr": "geri dönmek",
+    "en": "return",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "toewijzen*",
+    "tr": "atamak*",
+    "en": "assign*",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "uitsteeksel, het",
+    "tr": "çıkıntı, BT",
+    "en": "protrusion, It",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "uitvinding, de",
+    "tr": "buluş, the",
+    "en": "invention, the",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "uitzoeken*",
+    "tr": "sıralamak*",
+    "en": "to sort*",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "uurwerk, het",
+    "tr": "kol saati, BT",
+    "en": "watch, It",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "verontreiniging, de",
+    "tr": "kirlilik, the",
+    "en": "pollution, the",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "vijand, de",
+    "tr": "düşman, the",
+    "en": "enemy, the",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "waarmaken",
+    "tr": "ulaşmak",
+    "en": "live up to",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "wonderbaarlijk",
+    "tr": "müthiş",
+    "en": "wonderful",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "zijkant, de",
+    "tr": "taraf, the",
+    "en": "side, the",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "zuiver",
+    "tr": "saf",
+    "en": "pure",
+    "chapter": "7.1"
+  },
+  {
+    "nl": "ambitieus",
+    "tr": "hırslı",
+    "en": "ambitious",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "arriveren",
+    "tr": "varmak",
+    "en": "arrive",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "atmosfeer, de",
+    "tr": "atmosfer,",
+    "en": "atmosphere, the",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "bedienen",
+    "tr": "işletmek",
+    "en": "operate",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "beuken",
+    "tr": "kayın",
+    "en": "beech",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "bewijzen*",
+    "tr": "kanıtlamak*",
+    "en": "prove*",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "buitenaards",
+    "tr": "yabancı",
+    "en": "alien",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "fantaseren",
+    "tr": "hayal kurmak",
+    "en": "fantasize",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "gemeenschap, de",
+    "tr": "toplum, the",
+    "en": "community, the",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "gewichtloosheid, de",
+    "tr": "ağırlıksızlık, the",
+    "en": "weightlessness, the",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "gok, de",
+    "tr": "tahmin etmek, the",
+    "en": "guess, the",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "instorten",
+    "tr": "daraltmak için",
+    "en": "to collapse",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "jacht, de",
+    "tr": "avlamak, the",
+    "en": "hunt, the",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "koepel, de",
+    "tr": "kubbe, the",
+    "en": "dome, the",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "lancering, de",
+    "tr": "öğle yemeği, the",
+    "en": "launch, the",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "lantaarnpaal, de",
+    "tr": "lamba direği, the",
+    "en": "lamppost, the",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "melkweg, de",
+    "tr": "Samanyolu, the",
+    "en": "Milky Way, the",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "misgaan*",
+    "tr": "yanlış gitmek*",
+    "en": "go wrong*",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "mist, de",
+    "tr": "sis, the",
+    "en": "fog, the",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "monster, het",
+    "tr": "örnek, BT",
+    "en": "sample, It",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "nieuwsgierig",
+    "tr": "meraklı",
+    "en": "curious",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "onuitputtelijk",
+    "tr": "tükenmez",
+    "en": "inexhaustible",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "opstappen",
+    "tr": "binmek",
+    "en": "get on",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "opzwellen*",
+    "tr": "şişkinlik*",
+    "en": "bloating*",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "ruimtevaart, de",
+    "tr": "havacılık, the",
+    "en": "aerospace, the",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "schepping, de",
+    "tr": "yaratma, the",
+    "en": "creation, the",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "scherp",
+    "tr": "keskin",
+    "en": "sharp",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "streven",
+    "tr": "gayret etmek",
+    "en": "to strive",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "traag",
+    "tr": "yavaş",
+    "en": "slow",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "uitblinker, de",
+    "tr": "yıldız, the",
+    "en": "star, the",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "universum, het",
+    "tr": "Evren, BT",
+    "en": "universe, It",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "verbeelding, de",
+    "tr": "hayal gücü, the",
+    "en": "imagination, the",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "vergiftiging, de",
+    "tr": "zehirlenme, the",
+    "en": "poisoning, the",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "vloeistof, de",
+    "tr": "sıvı, the",
+    "en": "liquid, the",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "vulkaan, de",
+    "tr": "volkan, the",
+    "en": "volcano, the",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "wijk, de",
+    "tr": "komşu, the",
+    "en": "neighbourhood, the",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "zoektocht, de",
+    "tr": "arayış, the",
+    "en": "quest, the",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "zonnestelsel, het",
+    "tr": "Güneş Sistemi, BT",
+    "en": "solar system, It",
+    "chapter": "7.2"
+  },
+  {
+    "nl": "autoriteit, de",
+    "tr": "otorite,",
+    "en": "authority, the",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "beperking, de",
+    "tr": "sınır, the",
+    "en": "limit, the",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "conferentie, de",
+    "tr": "konferans, the",
+    "en": "conference, the",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "data, de",
+    "tr": "tarih, the",
+    "en": "dates, the",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "doorbraak, de",
+    "tr": "atılım, the",
+    "en": "breakthrough, the",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "gespecialiseerd",
+    "tr": "uzman",
+    "en": "specialized",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "gevaarte, het",
+    "tr": "dev, BT",
+    "en": "colossus, It",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "golf, de",
+    "tr": "golf, the",
+    "en": "golf, the",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "intelligentie, de",
+    "tr": "istihbarat, the",
+    "en": "intelligence, the",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "jeuken",
+    "tr": "kaşıntı",
+    "en": "itch",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "kogel, de",
+    "tr": "top, the",
+    "en": "ball, the",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "kunstmatig",
+    "tr": "yapay",
+    "en": "artificial",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "langetermijneffect, het",
+    "tr": "uzun süreli etki, BT",
+    "en": "long-term effect, It",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "onvermijdelijk",
+    "tr": "kaçınılmaz",
+    "en": "unavoidable",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "robot, de",
+    "tr": "robot, the",
+    "en": "robot, the",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "robot, de",
+    "tr": "robot, the",
+    "en": "robot, the",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "schommelen",
+    "tr": "sallanmak",
+    "en": "to rock",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "stikken",
+    "tr": "boğulmak",
+    "en": "to suffocate",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "stoten*",
+    "tr": "çarpma*",
+    "en": "bumping*",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "straling, de",
+    "tr": "radyasyon, the",
+    "en": "radiation, the",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "tegenspreken*",
+    "tr": "çelişmek*",
+    "en": "contradict*",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "tegenstrijdig",
+    "tr": "çelişkili",
+    "en": "contradictory",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "uitzenden*",
+    "tr": "yayın*",
+    "en": "to broadcast*",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "unaniem",
+    "tr": "oybirliği",
+    "en": "unanimous",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "veer, de",
+    "tr": "tüy, the",
+    "en": "feather, the",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "verslaan*",
+    "tr": "yenmek*",
+    "en": "defeat*",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "verzet, het",
+    "tr": "direnir, BT",
+    "en": "resists, It",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "voortbewegen",
+    "tr": "ilerlemek",
+    "en": "move forward",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "vuurwerk, het",
+    "tr": "havai fişek, BT",
+    "en": "fireworks, It",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "zogeheten",
+    "tr": "Lafta",
+    "en": "so-called",
+    "chapter": "7.3"
+  },
+  {
+    "nl": "daarentegen",
+    "tr": "diğer taraftan",
+    "en": "on the other hand",
+    "chapter": "7.4"
+  },
+  {
+    "nl": "doorvoeren",
+    "tr": "uygulamak",
+    "en": "implement",
+    "chapter": "7.4"
+  },
+  {
+    "nl": "formule, de",
+    "tr": "formül, the",
+    "en": "formula, the",
+    "chapter": "7.4"
+  },
+  {
+    "nl": "gesteldheid, de",
+    "tr": "durum, the",
+    "en": "condition, the",
+    "chapter": "7.4"
+  },
+  {
+    "nl": "hees",
+    "tr": "boğuk",
+    "en": "hoarse",
+    "chapter": "7.4"
+  },
+  {
+    "nl": "inschenken*",
+    "tr": "dökün*",
+    "en": "pour*",
+    "chapter": "7.4"
+  },
+  {
+    "nl": "onbetrouwbaar",
+    "tr": "güvenilmez",
+    "en": "unreliable",
+    "chapter": "7.4"
+  },
+  {
+    "nl": "onderbouwen",
+    "tr": "inşa etmek",
+    "en": "build",
+    "chapter": "7.4"
+  },
+  {
+    "nl": "rechterhand, de",
+    "tr": "sağ el, the",
+    "en": "right hand, the",
+    "chapter": "7.4"
+  },
+  {
+    "nl": "rivaal, de",
+    "tr": "rakip, the",
+    "en": "rival, the",
+    "chapter": "7.4"
+  },
+  {
+    "nl": "slijmbal, de",
+    "tr": "balçık topu, the",
+    "en": "slime ball, the",
+    "chapter": "7.4"
+  },
+  {
+    "nl": "werkwijze, de",
+    "tr": "yöntem, the",
+    "en": "method, the",
+    "chapter": "7.4"
+  },
+  {
+    "nl": "afspreken*",
+    "tr": "kabul etmek*",
+    "en": "to agree*",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "baseren op",
+    "tr": "temel almak",
+    "en": "base on",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "bezetten",
+    "tr": "işgal etmek",
+    "en": "occupy",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "bisschop, de",
+    "tr": "piskopos, the",
+    "en": "bishop, the",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "daad, de",
+    "tr": "tapu, the",
+    "en": "deed, the",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "dimensie, de",
+    "tr": "boyut, the",
+    "en": "dimension, the",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "financieren",
+    "tr": "finans",
+    "en": "finance",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "geheim, het",
+    "tr": "gizli, BT",
+    "en": "secret, It",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "grijpen*",
+    "tr": "kavramak*",
+    "en": "to grasp*",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "koloniaal",
+    "tr": "sömürge",
+    "en": "colonial",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "ondergeschikt",
+    "tr": "ast",
+    "en": "subordinate",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "opgewonden",
+    "tr": "heyecanlı",
+    "en": "excited",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "optocht, de",
+    "tr": "geçit töreni, the",
+    "en": "procession, the",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "opwinding, de",
+    "tr": "uyarılma, the",
+    "en": "arousal, the",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "paard, het",
+    "tr": "atış, BT",
+    "en": "horse, It",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "particulier",
+    "tr": "özel",
+    "en": "private",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "pedagogisch",
+    "tr": "pedagojik",
+    "en": "pedagogical",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "pers, de",
+    "tr": "basmak, the",
+    "en": "press, the",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "plagen",
+    "tr": "veba",
+    "en": "plagues",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "rijm, de",
+    "tr": "kafiye, the",
+    "en": "rhyme, the",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "roet, het",
+    "tr": "is, BT",
+    "en": "soot, It",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "schoorsteen, de",
+    "tr": "baca, the",
+    "en": "chimney, the",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "sjouwen",
+    "tr": "taşımak",
+    "en": "carry",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "slavernij, de",
+    "tr": "kölelik, the",
+    "en": "slavery, the",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "veeg, de",
+    "tr": "silip süpürmek, the",
+    "en": "wipe, the",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "werkelijk",
+    "tr": "Gerçekten",
+    "en": "really",
+    "chapter": "8.1"
+  },
+  {
+    "nl": "aangelegenheid, de",
+    "tr": "mesele,",
+    "en": "matter, the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "afbeelding, de",
+    "tr": "görüntü,",
+    "en": "image, the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "atelier, het",
+    "tr": "stüdyo, o",
+    "en": "studio, it",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "bodem, de",
+    "tr": "toprak, the",
+    "en": "soil, the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "borst, de",
+    "tr": "göğüs, the",
+    "en": "chest, the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "contrast, het",
+    "tr": "zıtlık, BT",
+    "en": "contrast, It",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "eeuwig",
+    "tr": "sonsuza kadar",
+    "en": "forever",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "esthetisch",
+    "tr": "estetik",
+    "en": "aesthetic",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "goederen, de",
+    "tr": "mal, the",
+    "en": "goods,the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "harmonie, de",
+    "tr": "uyum, the",
+    "en": "harmony, the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "historicus, de",
+    "tr": "tarihçi, the",
+    "en": "historian, the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "koopkracht, de",
+    "tr": "satın alma gücü, the",
+    "en": "purchasing power, the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "kostbaar",
+    "tr": "değerli",
+    "en": "precious",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "kous, de",
+    "tr": "çorap, the",
+    "en": "stocking, the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "litteken, het",
+    "tr": "yara izi, BT",
+    "en": "scar, It",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "manipuleren",
+    "tr": "manipule etmek",
+    "en": "manipulate",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "moeras, het",
+    "tr": "bataklık, BT",
+    "en": "swamp, It",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "ontroerend",
+    "tr": "dokunmak",
+    "en": "touching",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "onzichtbaar",
+    "tr": "görünmez",
+    "en": "invisible",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "opdracht, de",
+    "tr": "İş, the",
+    "en": "Job, the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "opdrachtgever, de",
+    "tr": "müşteri, the",
+    "en": "client, the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "origineel, het",
+    "tr": "orijinal, BT",
+    "en": "original, It",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "puist, de",
+    "tr": "sivilce, the",
+    "en": "pimple, the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "religieus",
+    "tr": "din",
+    "en": "religious",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "republiek, de",
+    "tr": "cumhuriyet, the",
+    "en": "republic, the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "scheepvaart, de",
+    "tr": "Nakliye, the",
+    "en": "shipping, the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "schetsen",
+    "tr": "eskiz",
+    "en": "sketch",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "steen, de",
+    "tr": "taş, the",
+    "en": "stone, the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "stier, de",
+    "tr": "Boğa, the",
+    "en": "bull, the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "uitstraling, de",
+    "tr": "dış görünüş, the",
+    "en": "appearance, the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "verlangen, het",
+    "tr": "arzu, BT",
+    "en": "desire, It",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "vlieg, de",
+    "tr": "uçmak, the",
+    "en": "fly, the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "voorgrond, de",
+    "tr": "ön plan, the",
+    "en": "foreground, the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "wild",
+    "tr": "vahşi",
+    "en": "wild",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "wrat, de",
+    "tr": "siğil, the",
+    "en": "wart, the",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "zelden",
+    "tr": "nadiren",
+    "en": "seldom",
+    "chapter": "8.2"
+  },
+  {
+    "nl": "afspelen, zich",
+    "tr": "oynamak, kendini",
+    "en": "play, oneself",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "aller-",
+    "tr": "Tümü-",
+    "en": "all-",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "auteur, de",
+    "tr": "yazar,",
+    "en": "author, the",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "bediende, de",
+    "tr": "hizmetçi,",
+    "en": "servant, the",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "divers",
+    "tr": "türlü",
+    "en": "diverse",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "eren",
+    "tr": "onur",
+    "en": "honor",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "flitsen",
+    "tr": "flaş",
+    "en": "flash",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "geliefd",
+    "tr": "sevgili",
+    "en": "beloved",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "geschenk, het",
+    "tr": "hediye, BT",
+    "en": "gift, It",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "huidig",
+    "tr": "akım",
+    "en": "current",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "klasse, de",
+    "tr": "sınıf, the",
+    "en": "class, the",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "knap",
+    "tr": "iyi görünümlü",
+    "en": "good looking",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "observeren",
+    "tr": "gözlemlemek",
+    "en": "to observe",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "onafhankelijk",
+    "tr": "bağımsız",
+    "en": "independent",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "onderneming, de",
+    "tr": "şirket, the",
+    "en": "company, the",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "ongelijkheid, de",
+    "tr": "eşitsizlik, the",
+    "en": "inequality, the",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "overnemen*",
+    "tr": "devralmak*",
+    "en": "to take over*",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "permitteren",
+    "tr": "izin vermek",
+    "en": "permit",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "prijs, de",
+    "tr": "fiyat, the",
+    "en": "price, the",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "rubber, het/de",
+    "tr": "lastik, o / the",
+    "en": "rubber, it/the",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "thema, het",
+    "tr": "tema, BT",
+    "en": "theme, It",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "verklaren",
+    "tr": "ilan etmek",
+    "en": "to declare",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "verlof, het",
+    "tr": "devamsızlık izni, BT",
+    "en": "leave of absence, It",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "voormalig",
+    "tr": "önceki",
+    "en": "former",
+    "chapter": "8.3"
+  },
+  {
+    "nl": "aanvankelijk",
+    "tr": "ilk",
+    "en": "initial",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "alledaags",
+    "tr": "Her gün",
+    "en": "everyday",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "bijbehorend",
+    "tr": "aksesuar",
+    "en": "accessory",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "bundel, de",
+    "tr": "paket, the",
+    "en": "bundle, the",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "citeren",
+    "tr": "alıntı",
+    "en": "quote",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "dapper",
+    "tr": "cesur",
+    "en": "brave",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "evenement, het",
+    "tr": "etkinlik, BT",
+    "en": "event, It",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "executie, de",
+    "tr": "uygulamak, the",
+    "en": "execution, the",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "frequentie, de",
+    "tr": "sıklık, the",
+    "en": "frequency, the",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "gemeenschappelijk",
+    "tr": "yaygın",
+    "en": "common",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "inzicht, het",
+    "tr": "iç yüzü, BT",
+    "en": "insight, It",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "karton, het",
+    "tr": "karton, BT",
+    "en": "cardboard, It",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "loodgieter, de",
+    "tr": "tesisatçı, the",
+    "en": "plumber, the",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "moreel",
+    "tr": "ahlaki",
+    "en": "moral",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "nuttig",
+    "tr": "kullanışlı",
+    "en": "useful",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "poëzie, de",
+    "tr": "şiir, the",
+    "en": "poetry, the",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "protest, het",
+    "tr": "protesto, BT",
+    "en": "protest, It",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "qua",
+    "tr": "açısından",
+    "en": "in terms of",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "reflectie,de",
+    "tr": "yansıma,",
+    "en": "reflection, the",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "stapel, de",
+    "tr": "istif, the",
+    "en": "pile, the",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "vermaak, het",
+    "tr": "eğlence, BT",
+    "en": "entertainment, It",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "voorloper, de",
+    "tr": "öncü, the",
+    "en": "precursor, the",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "zichtbaar",
+    "tr": "görünür",
+    "en": "visible",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "zonde, de",
+    "tr": "utanç, the",
+    "en": "shame, the",
+    "chapter": "8.4"
+  },
+  {
+    "nl": "aanval, de",
+    "tr": "saldırı,",
+    "en": "attack, the",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "bewind, het",
+    "tr": "saltanat, BT",
+    "en": "reign, It",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "compromis, het",
+    "tr": "anlaşmak, BT",
+    "en": "compromise, It",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "edelman, de",
+    "tr": "asilzade, the",
+    "en": "nobleman, the",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "eenheid, de",
+    "tr": "birim, the",
+    "en": "unit, the",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "geleidelijk",
+    "tr": "kademeli",
+    "en": "gradual",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "gewapend",
+    "tr": "silahlı",
+    "en": "armed",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "grondlegger, de",
+    "tr": "kurucu, the",
+    "en": "founder, the",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "hof, het",
+    "tr": "mahkeme, BT",
+    "en": "court, It",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "innemen*",
+    "tr": "almak*",
+    "en": "to take*",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "installeren",
+    "tr": "yüklemek",
+    "en": "to install",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "inval, de",
+    "tr": "yağma, the",
+    "en": "raid, the",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "koning, de",
+    "tr": "kral, the",
+    "en": "king, the",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "leger, het",
+    "tr": "ordu, BT",
+    "en": "army, It",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "meedogenloos",
+    "tr": "acımasız",
+    "en": "relentless",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "onderdrukker, de",
+    "tr": "kırıcı, the",
+    "en": "suppressor, the",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "opstand, de",
+    "tr": "isyan, the",
+    "en": "revolt, the",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "opzeggen",
+    "tr": "iptal etmek",
+    "en": "to cancel",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "pas, de",
+    "tr": "geçmek, the",
+    "en": "pass, the",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "plunderen",
+    "tr": "yağma",
+    "en": "plunder",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "prioriteit, de",
+    "tr": "öncelik, the",
+    "en": "priority, the",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "rebel, de",
+    "tr": "isyancı, the",
+    "en": "rebel, the",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "strijden*",
+    "tr": "kavga*",
+    "en": "fight*",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "tevergeefs",
+    "tr": "boşuna",
+    "en": "in vain",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "tolerantie, de",
+    "tr": "hata payı, the",
+    "en": "tolerance, the",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "troepen, de",
+    "tr": "askerler, the",
+    "en": "troops, the",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "uitgestrekt",
+    "tr": "uzanmış",
+    "en": "stretched out",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "vereren",
+    "tr": "Saygi gostermek",
+    "en": "venerate",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "vermoorden",
+    "tr": "cinayet",
+    "en": "murder",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "verplaatsen",
+    "tr": "taşınmak",
+    "en": "move",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "vluchten",
+    "tr": "kaçmak",
+    "en": "to flee",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "volgeling, de",
+    "tr": "takipçi, the",
+    "en": "follower, the",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "vrede, de",
+    "tr": "barış, the",
+    "en": "peace, the",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "wreed",
+    "tr": "acımasız",
+    "en": "cruel",
+    "chapter": "9.1"
+  },
+  {
+    "nl": "achteruitgang, de",
+    "tr": "düşüş,",
+    "en": "decline, the",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "avonturier, de",
+    "tr": "maceracı,",
+    "en": "adventurer, the",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "behalen",
+    "tr": "başarmak",
+    "en": "achieve",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "bezwijken*",
+    "tr": "yenik düşmek*",
+    "en": "succumb*",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "burger, de",
+    "tr": "sivil, the",
+    "en": "civilian, the",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "gaandeweg",
+    "tr": "gitgide",
+    "en": "gradually",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "hanteren",
+    "tr": "elleçleme",
+    "en": "handling",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "houdbaar",
+    "tr": "raf ömrü",
+    "en": "shelf life",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "kasteel, het",
+    "tr": "kale, BT",
+    "en": "castle, It",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "matroos, de",
+    "tr": "denizci, the",
+    "en": "sailor, the",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "merendeel, het",
+    "tr": "çoğunluk, BT",
+    "en": "majority, It",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "ongewis",
+    "tr": "belirsiz",
+    "en": "uncertain",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "opslag, de",
+    "tr": "depolamak, the",
+    "en": "storage, the",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "overtreden*",
+    "tr": "ihlal*",
+    "en": "violated*",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "pakhuis, het",
+    "tr": "depo, BT",
+    "en": "warehouse, It",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "riant",
+    "tr": "ferah",
+    "en": "spacious",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "risico, het",
+    "tr": "risk, BT",
+    "en": "risk, It",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "soldaat, de",
+    "tr": "asker, the",
+    "en": "soldier, the",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "specerij, de",
+    "tr": "baharat, the",
+    "en": "spice, the",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "uitvinden*",
+    "tr": "icat etmek*",
+    "en": "to invent*",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "verf, de",
+    "tr": "boyamak, the",
+    "en": "paint, the",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "vergaan*",
+    "tr": "yok olmak*",
+    "en": "perish*",
+    "chapter": "9.2"
+  },
+  {
+    "nl": "betoging, de",
+    "tr": "gösteri, the",
+    "en": "demonstration, the",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "confessioneel",
+    "tr": "mezhepsel",
+    "en": "denominational",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "drang, de",
+    "tr": "dürtü, the",
+    "en": "urge, the",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "dreigen",
+    "tr": "tehdit etmek",
+    "en": "to threaten",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "dwarsbomen",
+    "tr": "engellemek",
+    "en": "thwart",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "enigszins",
+    "tr": "biraz",
+    "en": "somewhat",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "geboortebeperking, de",
+    "tr": "doğum kontrolü, the",
+    "en": "birth control, the",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "gehoorzaam",
+    "tr": "itaatkâr",
+    "en": "obedient",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "gelijkstellen",
+    "tr": "kıyaslanmak",
+    "en": "equate",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "gezamenlijk",
+    "tr": "eklem yeri",
+    "en": "joint",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "hardnekkig",
+    "tr": "inatçı",
+    "en": "stubborn",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "kiesrecht, het",
+    "tr": "oy hakkı, BT",
+    "en": "suffrage, It",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "meeslepend",
+    "tr": "sürükleyici",
+    "en": "immersive",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "menens",
+    "tr": "cidden",
+    "en": "serious",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "obstakel, het",
+    "tr": "engel, BT",
+    "en": "obstacle, It",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "ophef, de",
+    "tr": "yaygara, the",
+    "en": "fuss, the",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "opzichtig",
+    "tr": "gösterişli",
+    "en": "showy",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "raken",
+    "tr": "dokunmak",
+    "en": "touch",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "sjerp, de",
+    "tr": "kanat, the",
+    "en": "sash, the",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "slim",
+    "tr": "akıllı",
+    "en": "smart",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "spoedig",
+    "tr": "yakında",
+    "en": "soon",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "veroveren",
+    "tr": "taşımak",
+    "en": "to transport",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "verrichten",
+    "tr": "rol yapmak",
+    "en": "perform",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "verschuldigd",
+    "tr": "borçlu",
+    "en": "owed",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "volwaardig",
+    "tr": "tam dolu",
+    "en": "full",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "wetgever, de",
+    "tr": "yasa koyucu, the",
+    "en": "legislator, the",
+    "chapter": "9.3"
+  },
+  {
+    "nl": "achterwege",
+    "tr": "atlanmış",
+    "en": "omitted",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "afkeuren",
+    "tr": "onaylamamak",
+    "en": "disapprove",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "aftreden*",
+    "tr": "inmek*",
+    "en": "step down*",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "bederven*",
+    "tr": "şımartmak*",
+    "en": "spoil*",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "bezielen",
+    "tr": "ilham vermek",
+    "en": "inspire",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "bouwvakker, de",
+    "tr": "inşaat işçisi, the",
+    "en": "construction worker,the",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "bruidspaar, het",
+    "tr": "gelin çifti, BT",
+    "en": "bridal couple, It",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "doelstelling, de",
+    "tr": "amaç, the",
+    "en": "goal, the",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "filosofie, de",
+    "tr": "Felsefe, the",
+    "en": "philosophy, the",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "gein, de",
+    "tr": "şaka yapmak, the",
+    "en": "kidding, the",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "hartgrondig",
+    "tr": "yürekten",
+    "en": "heartfelt",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "indammen",
+    "tr": "içermek",
+    "en": "contain",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "ineens",
+    "tr": "Birden",
+    "en": "suddenly",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "kleurrijk",
+    "tr": "renkli",
+    "en": "colorful",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "ludiek",
+    "tr": "oynak",
+    "en": "playful",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "massaal",
+    "tr": "toplu halde",
+    "en": "en masse",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "nerveus",
+    "tr": "gergin",
+    "en": "nervous",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "omslag, de",
+    "tr": "kapak, the",
+    "en": "cover, the",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "onrust, de",
+    "tr": "huzursuzluk, the",
+    "en": "restlessness, the",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "ontploffen",
+    "tr": "patlamak",
+    "en": "explode",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "onvoorwaardelijk",
+    "tr": "koşulsuz",
+    "en": "unconditionally",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "opheffen*",
+    "tr": "iptal etmek*",
+    "en": "to cancel*",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "orde, de",
+    "tr": "emir, the",
+    "en": "order, the",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "rel, de",
+    "tr": "isyan, the",
+    "en": "riot, the",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "schokken",
+    "tr": "şok",
+    "en": "shock",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "strikt",
+    "tr": "sıkı",
+    "en": "strict",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "tafereel, het",
+    "tr": "sahne, BT",
+    "en": "scene, It",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "tegendraads",
+    "tr": "aksine",
+    "en": "contrary",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "vertonen",
+    "tr": "göstermek",
+    "en": "show",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "vrijwillig",
+    "tr": "gönüllü olarak",
+    "en": "voluntarily",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "wantrouwen, het",
+    "tr": "güvensizlik, BT",
+    "en": "mistrust, It",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "wapen, het",
+    "tr": "silah, BT",
+    "en": "weapon, It",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "wekken",
+    "tr": "uyanmak",
+    "en": "wake up",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "werpen*",
+    "tr": "fırlatmak*",
+    "en": "throw*",
+    "chapter": "9.4"
+  },
+  {
+    "nl": "aanduiden",
+    "tr": "belirtmek için",
+    "en": "to indicate",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "benoemen",
+    "tr": "atamak",
+    "en": "appoint",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "bewindslieden, de",
+    "tr": "bakanlar, the",
+    "en": "ministers, the",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "commissie, de",
+    "tr": "Komisyon, the",
+    "en": "Commission, the",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "direct",
+    "tr": "hemen",
+    "en": "straight away",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "gezelschap, het",
+    "tr": "şirket, BT",
+    "en": "company, It",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "ingrijpen*",
+    "tr": "araya girmek*",
+    "en": "intervene*",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "kabinet, het",
+    "tr": "kabine, BT",
+    "en": "cabinet, It",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "kwaliteit, de",
+    "tr": "kalite, the",
+    "en": "quality, the",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "meerdere",
+    "tr": "çoklu",
+    "en": "multiple",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "meerderheid, de",
+    "tr": "çoğunluk, the",
+    "en": "majority, the",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "nood, de",
+    "tr": "ihtiyaç, the",
+    "en": "need, the",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "opvolger, de",
+    "tr": "varis, the",
+    "en": "successor, the",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "parlement, het",
+    "tr": "parlamento, BT",
+    "en": "parliament, It",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "politicus, de",
+    "tr": "politikacı, the",
+    "en": "politician, the",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "portefeuille, de",
+    "tr": "portföy, the",
+    "en": "portfolio, the",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "stemmen",
+    "tr": "oylamak",
+    "en": "to vote",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "uitbrengen*",
+    "tr": "dışarı çıkarmak*",
+    "en": "bring out*",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "uitreiken",
+    "tr": "uzanmak",
+    "en": "reach out",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "uitvoeren",
+    "tr": "yürütmek",
+    "en": "to carry out",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "verkiezingen, de",
+    "tr": "seçimler, the",
+    "en": "elections, the",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "volksvertegenwoordiger, de",
+    "tr": "milletvekili, the",
+    "en": "deputy, the",
+    "chapter": "10.1"
+  },
+  {
+    "nl": "affaire, de",
+    "tr": "ilişki,",
+    "en": "affair, the",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "benaderen",
+    "tr": "yaklaşmak",
+    "en": "to approach",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "bevinden, zich*",
+    "tr": "yer almak, kendisi*",
+    "en": "to be located, himself*",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "bijeen",
+    "tr": "birlikte",
+    "en": "together",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "democraat, de",
+    "tr": "demokrat, the",
+    "en": "democrat, the",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "erfelijk",
+    "tr": "kalıtsal",
+    "en": "hereditary",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "erven",
+    "tr": "miras",
+    "en": "inherit",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "feitelijk",
+    "tr": "Aslında",
+    "en": "actually",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "instemming, de",
+    "tr": "onay, the",
+    "en": "consent, the",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "intellectueel, de",
+    "tr": "entelektüel, the",
+    "en": "intellectual, the",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "juichen",
+    "tr": "tezahürat",
+    "en": "cheer",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "krampachtig",
+    "tr": "spazmodik",
+    "en": "spasmodic",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "leven",
+    "tr": "yaşamak",
+    "en": "to live",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "mythe, de",
+    "tr": "efsane, the",
+    "en": "myth, the",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "naast",
+    "tr": "Sonraki",
+    "en": "next",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "nogmaals",
+    "tr": "bir kez daha",
+    "en": "once more",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "opmerkelijk",
+    "tr": "dikkat çekici",
+    "en": "remarkable",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "paradox, de",
+    "tr": "paradoks, the",
+    "en": "paradox, the",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "parlementair",
+    "tr": "parlamenter",
+    "en": "parliamentary",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "republikeins",
+    "tr": "cumhuriyetçi",
+    "en": "republican",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "rijkdom, de",
+    "tr": "varlık, the",
+    "en": "wealth, the",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "samenhang, de",
+    "tr": "tutarlılık, the",
+    "en": "consistency, the",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "staat, de",
+    "tr": "duruyor, the",
+    "en": "stands, the",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "vorst, de",
+    "tr": "don, the",
+    "en": "frost, the",
+    "chapter": "10.2"
+  },
+  {
+    "nl": "af",
+    "tr": "kapalı",
+    "en": "off",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "afschermen",
+    "tr": "kalkan",
+    "en": "shield",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "afspiegeling, de",
+    "tr": "yansıma,",
+    "en": "reflection, the",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "alsmaar",
+    "tr": "durmadan",
+    "en": "ever",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "buffer, de",
+    "tr": "tampon, the",
+    "en": "buffer, the",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "drijven*",
+    "tr": "yürütmek*",
+    "en": "to conduct*",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "intens",
+    "tr": "yoğun",
+    "en": "intense",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "inzet, de",
+    "tr": "kazık, the",
+    "en": "stake, the",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "kloof, de",
+    "tr": "açıklık, the",
+    "en": "gap, the",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "massief",
+    "tr": "cüsseli",
+    "en": "massive",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "neiging, de",
+    "tr": "eğim, the",
+    "en": "inclination, the",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "omweg, de",
+    "tr": "dolambaçlı yol, the",
+    "en": "detour, the",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "ontwijken",
+    "tr": "atlatmak",
+    "en": "dodge",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "oplage, de",
+    "tr": "Baskı, the",
+    "en": "Edition, the",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "plaatsen",
+    "tr": "yer",
+    "en": "places",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "prominent",
+    "tr": "öne çıkan",
+    "en": "prominent",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "roeren, zich",
+    "tr": "karıştırmak, kendisi",
+    "en": "stir, himself",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "specifiek",
+    "tr": "özellikle",
+    "en": "specifically",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "stroom, de",
+    "tr": "akım, the",
+    "en": "current, the",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "tekenend",
+    "tr": "çizim",
+    "en": "drawing",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "trachten",
+    "tr": "girişim",
+    "en": "attempt",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "trekken*",
+    "tr": "Çekmek*",
+    "en": "Pull*",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "uitdijen",
+    "tr": "genişletmek",
+    "en": "expand",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "verpakken",
+    "tr": "paketleme",
+    "en": "packing",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "verstandhouding, de",
+    "tr": "anlayış, the",
+    "en": "understanding, the",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "voorlichter, de",
+    "tr": "eğitimci, the",
+    "en": "educator, the",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "voorop",
+    "tr": "ilerde",
+    "en": "ahead",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "worstelen",
+    "tr": "mücadele etme",
+    "en": "struggling",
+    "chapter": "10.3"
+  },
+  {
+    "nl": "aanbeveling, de",
+    "tr": "tavsiye,",
+    "en": "recommendation, the",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "aanstellen",
+    "tr": "atama",
+    "en": "to appoint",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "aanvaardbaar",
+    "tr": "kabul edilebilir",
+    "en": "acceptable",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "begroting, de",
+    "tr": "bütçe,",
+    "en": "budget, the",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "behartigen",
+    "tr": "göz kulak olmak",
+    "en": "look after",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "belofte, de",
+    "tr": "söz, the",
+    "en": "promise, the",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "bereid",
+    "tr": "tedarikli",
+    "en": "prepared",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "capabel",
+    "tr": "yetenekli",
+    "en": "capable",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "concreet",
+    "tr": "özel",
+    "en": "specific",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "donor, de",
+    "tr": "bağışçı, the",
+    "en": "donor, the",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "draagvlak, het",
+    "tr": "destek alanı, BT",
+    "en": "support base, It",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "gedurende",
+    "tr": "sırasında",
+    "en": "during",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "halveren",
+    "tr": "yarıya indirmek",
+    "en": "halve",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "hulpverlener, de",
+    "tr": "BAKICI, the",
+    "en": "caregiver, the",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "lidstaat, de",
+    "tr": "üye devlet, the",
+    "en": "member state, the",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "lokaal",
+    "tr": "yerel",
+    "en": "local",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "mislukken",
+    "tr": "hata",
+    "en": "fail",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "naderhand",
+    "tr": "daha sonrasında",
+    "en": "afterwards",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "naïef",
+    "tr": "toy",
+    "en": "naive",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "omliggend",
+    "tr": "çevreleyen",
+    "en": "surrounding",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "ontbreken*",
+    "tr": "kayıp*",
+    "en": "are missing*",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "productiviteit, de",
+    "tr": "üretkenlik, the",
+    "en": "productivity, the",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "samenstellen",
+    "tr": "derlemek",
+    "en": "compile",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "succes, het",
+    "tr": "iyi şanslar, BT",
+    "en": "good luck, It",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "terugbrengen*",
+    "tr": "geri dönmek*",
+    "en": "return*",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "treffen*",
+    "tr": "tanışmak*",
+    "en": "meet*",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "vastleggen",
+    "tr": "kurmak",
+    "en": "to establish",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "verantwoordelijkheid, de",
+    "tr": "sorumluluk, the",
+    "en": "responsibility, the",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "verhoging, de",
+    "tr": "yükseklik, the",
+    "en": "elevation, the",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "verwaarlozen",
+    "tr": "ihmal etmek",
+    "en": "neglect",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "vooruitgang, de",
+    "tr": "ilerlemek, the",
+    "en": "progress, the",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "zodanig",
+    "tr": "çok",
+    "en": "such",
+    "chapter": "10.4"
+  },
+  {
+    "nl": "wc-bril, de",
+    "tr": "klozet, the",
+    "en": "toilet seat, the",
+    "chapter": "1 (introductie)"
+  },
+  {
+    "nl": "heuvel, de",
+    "tr": "tepe, the",
+    "en": "hill, the",
+    "chapter": "2 (introductie)"
+  },
+  {
+    "nl": "afwijzen*",
+    "tr": "reddetmek*",
+    "en": "reject*",
+    "chapter": "4 (introductie)"
+  },
+  {
+    "nl": "beschuldigen",
+    "tr": "suçlamak",
+    "en": "to blame",
+    "chapter": "4 (introductie)"
+  },
+  {
+    "nl": "betrappen",
+    "tr": "yakalamak",
+    "en": "catch",
+    "chapter": "4 (introductie)"
+  },
+  {
+    "nl": "binnendringen*",
+    "tr": "izinsiz girmek*",
+    "en": "intrude*",
+    "chapter": "4 (introductie)"
+  },
+  {
+    "nl": "justitie, de",
+    "tr": "adalet, the",
+    "en": "justice, the",
+    "chapter": "4 (introductie)"
+  },
+  {
+    "nl": "misdaad, de",
+    "tr": "suç, the",
+    "en": "crime, the",
+    "chapter": "4 (introductie)"
+  },
+  {
+    "nl": "mishandeling, de",
+    "tr": "saldırı, the",
+    "en": "assault, the",
+    "chapter": "4 (introductie)"
+  },
+  {
+    "nl": "moord, de",
+    "tr": "cinayet, the",
+    "en": "murder, the",
+    "chapter": "4 (introductie)"
+  },
+  {
+    "nl": "overbrengen*",
+    "tr": "iletmek*",
+    "en": "convey*",
+    "chapter": "4 (introductie)"
+  },
+  {
+    "nl": "overval, de",
+    "tr": "yağma, the",
+    "en": "raid, the",
+    "chapter": "4 (introductie)"
+  },
+  {
+    "nl": "schieten*",
+    "tr": "ateş etmek*",
+    "en": "to shoot*",
+    "chapter": "4 (introductie)"
+  },
+  {
+    "nl": "vandalisme, het",
+    "tr": "vandalizm, BT",
+    "en": "vandalism, It",
+    "chapter": "4 (introductie)"
+  },
+  {
+    "nl": "verdenken*",
+    "tr": "şüphelenmek*",
+    "en": "suspect*",
+    "chapter": "4 (introductie)"
+  },
+  {
+    "nl": "vernielen",
+    "tr": "enkaz",
+    "en": "wreck",
+    "chapter": "4 (introductie)"
+  },
+  {
+    "nl": "beeld, het",
+    "tr": "görüntü, o",
+    "en": "image, it",
+    "chapter": "5 (introductie)"
+  },
+  {
+    "nl": "extravert",
+    "tr": "dışa dönük",
+    "en": "extroverted",
+    "chapter": "5 (introductie)"
+  },
+  {
+    "nl": "gespannen",
+    "tr": "gergin",
+    "en": "stretched",
+    "chapter": "5 (introductie)"
+  },
+  {
+    "nl": "initiatief, het",
+    "tr": "girişim, BT",
+    "en": "initiative, It",
+    "chapter": "5 (introductie)"
+  },
+  {
+    "nl": "introvert",
+    "tr": "içe dönük",
+    "en": "introvert",
+    "chapter": "5 (introductie)"
+  },
+  {
+    "nl": "levendig",
+    "tr": "canlı",
+    "en": "lively",
+    "chapter": "5 (introductie)"
+  },
+  {
+    "nl": "stabiliteit, de",
+    "tr": "istikrar, the",
+    "en": "stability, the",
+    "chapter": "5 (introductie)"
+  },
+  {
+    "nl": "voorstellen, zich",
+    "tr": "önermek, kendisi",
+    "en": "to suggest, himself",
+    "chapter": "5 (introductie)"
+  },
+  {
+    "nl": "emmer, de",
+    "tr": "Kova, the",
+    "en": "bucket, the",
+    "chapter": "8 (introductie)"
+  },
+  {
+    "nl": "gordijn, het",
+    "tr": "perde, BT",
+    "en": "curtain, It",
+    "chapter": "8 (introductie)"
+  },
+  {
+    "nl": "pop, de",
+    "tr": "oyuncak bebek, the",
+    "en": "doll, the",
+    "chapter": "8 (introductie)"
+  },
+  {
+    "nl": "stout",
+    "tr": "yaramaz",
+    "en": "naughty",
+    "chapter": "8 (introductie)"
+  },
+  {
+    "nl": "tak, de",
+    "tr": "dal, the",
+    "en": "branch, the",
+    "chapter": "8 (introductie)"
+  },
+  {
+    "nl": "verstoppen",
+    "tr": "gizlemek",
+    "en": "to hide",
+    "chapter": "8 (introductie)"
+  },
+  {
+    "nl": "wenken",
+    "tr": "işaret etmek",
+    "en": "beckon",
+    "chapter": "8 (introductie)"
+  }
+]

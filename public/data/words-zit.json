@@ -1,0 +1,1370 @@
+[
+  {
+    "nl": "1 dag geleden X over 1 dag",
+    "tr": "1 gün önce X 1 gün sonra"
+  },
+  {
+    "nl": "1201-2100",
+    "tr": "1201-2100"
+  },
+  {
+    "nl": "301-600",
+    "tr": "301-600"
+  },
+  {
+    "nl": "aan X uit",
+    "tr": "Açık X kapalı"
+  },
+  {
+    "nl": "aandoen X uitdoen",
+    "tr": "Giymek, vermek X çıkarmak"
+  },
+  {
+    "nl": "aantrekken X uittrekken",
+    "tr": "Içeri çekmek X dışarı çekmek"
+  },
+  {
+    "nl": "Aanwezig X afwezig",
+    "tr": "Mevcut, varolan X yok, olmayan"
+  },
+  {
+    "nl": "aardig X onaardig",
+    "tr": "güzel X unkind"
+  },
+  {
+    "nl": "Achter X voor",
+    "tr": "arkasında X önünde"
+  },
+  {
+    "nl": "actief X passief",
+    "tr": "aktif X pasif"
+  },
+  {
+    "nl": "afgesloten X open",
+    "tr": "kapalı X açık"
+  },
+  {
+    "nl": "afschuwelijk X prachtig",
+    "tr": "korkunç,berbat,dehşet X güzel, harika şaşırtıcı"
+  },
+  {
+    "nl": "afwezig X aanwezig",
+    "tr": "yok, bulunmayan X mevcut, bulunan"
+  },
+  {
+    "nl": "allebei X alleen",
+    "tr": "her ikisi de X tek, yalnızca"
+  },
+  {
+    "nl": "alleen X samen",
+    "tr": "tek, sadece, yalnız X hep, birlikte, beraber"
+  },
+  {
+    "nl": "alles X niets",
+    "tr": "her şey X hiçbir şey"
+  },
+  {
+    "nl": "altijd X nooit",
+    "tr": "her zaman X asla, hiç"
+  },
+  {
+    "nl": "angtig X dapper",
+    "tr": "korkak X cesur"
+  },
+  {
+    "nl": "antwoorden X vragen",
+    "tr": "cevaplar X sorular"
+  },
+  {
+    "nl": "apart X samen",
+    "tr": "ayrı X birlikte"
+  },
+  {
+    "nl": "arm X rijk",
+    "tr": "fakir, zavallı x zengin"
+  },
+  {
+    "nl": "arts X patiënt",
+    "tr": "doktor X hasta"
+  },
+  {
+    "nl": "avond X ochtend",
+    "tr": "akşam X sabah"
+  },
+  {
+    "nl": "bang zijn X durven",
+    "tr": "korkmak X cesaret"
+  },
+  {
+    "nl": "begin X einde",
+    "tr": "başlangıç X son"
+  },
+  {
+    "nl": "beginnen X stoppen",
+    "tr": "başlamak X durmak"
+  },
+  {
+    "nl": "beide X apart",
+    "tr": "ikisi de X ayrı ayrı"
+  },
+  {
+    "nl": "beneden X boven",
+    "tr": "aşağı, aşağıda X yukarı, yukarda"
+  },
+  {
+    "nl": "beroemd X onbekend",
+    "tr": "ünlü, meşhur X bilinmeyen, meçhul"
+  },
+  {
+    "nl": "beter X slechter",
+    "tr": "daha iyi X daha kötü"
+  },
+  {
+    "nl": "bezet X vrij",
+    "tr": "meşgul, dolu X serbest, özgür, bedava"
+  },
+  {
+    "nl": "bezig zijn X klaar zijn",
+    "tr": "yapmak, etmek X hazır olmak"
+  },
+  {
+    "nl": "bijzonder X gewoon",
+    "tr": "özel (şahsa münhasır) X alelade,sıradan"
+  },
+  {
+    "nl": "binnen X buiten",
+    "tr": "içinde X dışında"
+  },
+  {
+    "nl": "binnen X buiten",
+    "tr": "içeri X dışarı"
+  },
+  {
+    "nl": "blij X verdrietig",
+    "tr": "mutlu x üzgün"
+  },
+  {
+    "nl": "blijven X weggaan",
+    "tr": "devam etmek X bırakmak"
+  },
+  {
+    "nl": "bloot X gekleed",
+    "tr": "çıplak, saf, temiz X giyinmiş"
+  },
+  {
+    "nl": "boven X onder",
+    "tr": "yukarıda X aşağıda"
+  },
+  {
+    "nl": "breed X smal",
+    "tr": "geniş X dar"
+  },
+  {
+    "nl": "broer X zus",
+    "tr": "erkek kardeş X kız kardeş"
+  },
+  {
+    "nl": "buiten X binnen",
+    "tr": "dışında X içinde"
+  },
+  {
+    "nl": "buitenland X binnenland",
+    "tr": "yurtdışı X yurtiçi"
+  },
+  {
+    "nl": "circa X precies",
+    "tr": "yaklaşık X tam olarak"
+  },
+  {
+    "nl": "cirkel X vierkant",
+    "tr": "daire X kare"
+  },
+  {
+    "nl": "correct X fout",
+    "tr": "doğru X yanlış"
+  },
+  {
+    "nl": "dag X nacht",
+    "tr": "gündüz X gece"
+  },
+  {
+    "nl": "dalen X stijgen",
+    "tr": "alçalmak X yükselmek"
+  },
+  {
+    "nl": "democratie X dictatuur",
+    "tr": "demokrasi X diktatörlük"
+  },
+  {
+    "nl": "dezelfde X de andere",
+    "tr": "aynısı X başkası"
+  },
+  {
+    "nl": "dichtbij X ver[af]",
+    "tr": "yakın X uzak"
+  },
+  {
+    "nl": "dik X dun",
+    "tr": "kalın, şişman X ince, zayıf"
+  },
+  {
+    "nl": "directeur X werknemer",
+    "tr": "yönetici X çalışan"
+  },
+  {
+    "nl": "dochter X zoon",
+    "tr": "kız evlat X erkek evlat"
+  },
+  {
+    "nl": "dokter X ziek(e)",
+    "tr": "doktor X hasta kişi"
+  },
+  {
+    "nl": "dom X slim",
+    "tr": "aptal,akılsız X zeki, akıllı"
+  },
+  {
+    "nl": "donker X licht",
+    "tr": "koyu, karanlık X açık, hafif, belirgin"
+  },
+  {
+    "nl": "dood X leven",
+    "tr": "ölü, ölmüş X diri,yaşam,ömür"
+  },
+  {
+    "nl": "dorp X stad",
+    "tr": "köy, nahiye X şehir, ilçe, kasaba"
+  },
+  {
+    "nl": "dorst X honger",
+    "tr": "susuzluk X açlık"
+  },
+  {
+    "nl": "dragen X loslaten",
+    "tr": "dayanmak (tahammül) X vazgeçmek"
+  },
+  {
+    "nl": "drinken X eten",
+    "tr": "içmek X yemek"
+  },
+  {
+    "nl": "droog X nat",
+    "tr": "kuru X ıslak"
+  },
+  {
+    "nl": "druk X stil",
+    "tr": "telaşlı, baskı, meşgul X Sessiz, sakin,rahat"
+  },
+  {
+    "nl": "durven X bang zijn",
+    "tr": "cesaret etmek X korkmak"
+  },
+  {
+    "nl": "duur X goedkoop",
+    "tr": "pahalı X ucuz"
+  },
+  {
+    "nl": "duwen X trekken",
+    "tr": "itmek X çekmek"
+  },
+  {
+    "nl": "eenvoudig X complex",
+    "tr": "basit, sade X karmaşık, kompleks"
+  },
+  {
+    "nl": "eerder X later",
+    "tr": "önceden, evvelce X sonradan, ilerde"
+  },
+  {
+    "nl": "eerste X laatst(e)",
+    "tr": "ilk, birinci X son, sonuncu"
+  },
+  {
+    "nl": "einde X begin",
+    "tr": "son X başlangıç"
+  },
+  {
+    "nl": "ergens X nergens",
+    "tr": "bir yerde X hiçbir yerde"
+  },
+  {
+    "nl": "ervaren, geroutineerd X onervaren",
+    "tr": "deneyimli X deneyimsiz"
+  },
+  {
+    "nl": "even X oneven",
+    "tr": "düz, denk, eşit X düzensiz,eşit olmayan"
+  },
+  {
+    "nl": "exclusief X inclusief",
+    "tr": "hariç, özel, gizli, saklı X dahil"
+  },
+  {
+    "nl": "fijn X slecht",
+    "tr": "iyi X kötü"
+  },
+  {
+    "nl": "fout X goed",
+    "tr": "yanlış,hata, hatalı X iyi, doğru, düzgün"
+  },
+  {
+    "nl": "gaan X komen",
+    "tr": "gitmek X gelmek"
+  },
+  {
+    "nl": "geboren X gestorven",
+    "tr": "doğmak,doğmuş X ölmek, ölmüş"
+  },
+  {
+    "nl": "geen X een",
+    "tr": "hiç, yok, olmayan şey X belirsiz birşey"
+  },
+  {
+    "nl": "gehuwd X ongehuwd",
+    "tr": "evli X evlenmemiş"
+  },
+  {
+    "nl": "gek X normaal",
+    "tr": "çılgın, deli, manyak X normal"
+  },
+  {
+    "nl": "geluk X pech",
+    "tr": "şans, talih, mutluluk X kaza, aksilik, talihsizlik"
+  },
+  {
+    "nl": "gelukkig X ongelukkig",
+    "tr": "mutlu, şanslı x mutsuz, şansız"
+  },
+  {
+    "nl": "gemakkelijk X moeilijk",
+    "tr": "kolay, basit, kullanışlı X zor, ağır,güç"
+  },
+  {
+    "nl": "genoeg X te weinig",
+    "tr": "Yeterince, yeterli X çok az"
+  },
+  {
+    "nl": "gevaarlijk X veilig",
+    "tr": "tehlikeli X güvenli, belirli"
+  },
+  {
+    "nl": "gevolg X oorzaak",
+    "tr": "Sonuç, başarı X neden, sebep"
+  },
+  {
+    "nl": "geweldig X matig",
+    "tr": "büyük, kocaman X orta, ölçülü"
+  },
+  {
+    "nl": "gezond X ziek",
+    "tr": "salıklı X hasta"
+  },
+  {
+    "nl": "gierig X gul",
+    "tr": "cimri X bonkör"
+  },
+  {
+    "nl": "gisteren X vandaag",
+    "tr": "dün X bugün"
+  },
+  {
+    "nl": "glad X ruw",
+    "tr": "pürüzsüz, düz, kaygan X kaba, ham"
+  },
+  {
+    "nl": "glans, effen X stroef, oneffen",
+    "tr": "prlak X mat"
+  },
+  {
+    "nl": "goed X fout",
+    "tr": "iyi, doğru, düzgün X yanlış,hata, hatalı"
+  },
+  {
+    "nl": "goedkoop X duur",
+    "tr": "ucuz X pahalı"
+  },
+  {
+    "nl": "gooien X vangen",
+    "tr": "atmak X yakalamak"
+  },
+  {
+    "nl": "groot X klein",
+    "tr": "büyük X küçük"
+  },
+  {
+    "nl": "halen X brengen",
+    "tr": "elde etmek,yetişmek X getirmek,götürmek"
+  },
+  {
+    "nl": "half X geheel",
+    "tr": "yarım X tam, bütün"
+  },
+  {
+    "nl": "half X heel",
+    "tr": "yarım X tam, bütün"
+  },
+  {
+    "nl": "handig X onhandig",
+    "tr": "kullanışlı, maharetli X kullanışsız, beceriksiz"
+  },
+  {
+    "nl": "hard X zacht",
+    "tr": "sert,sıkı,zor,yüksek X yumuşak, nazik, hoş"
+  },
+  {
+    "nl": "heel X kapot",
+    "tr": "bütün, adamakıllı X bozuk, kırık"
+  },
+  {
+    "nl": "heerlijk X vies",
+    "tr": "hos, uygun, lezzetli X kirli, pis"
+  },
+  {
+    "nl": "heet X koud",
+    "tr": "sıcak, acı X soğuk"
+  },
+  {
+    "nl": "herinneren X vergeten",
+    "tr": "hatırlamak X unutmak"
+  },
+  {
+    "nl": "hetzelfde X anders",
+    "tr": "aynı X farklı"
+  },
+  {
+    "nl": "honger X dorst",
+    "tr": "açlk X susuzluk"
+  },
+  {
+    "nl": "hoog X laag",
+    "tr": "yüksek X alçak"
+  },
+  {
+    "nl": "huilen X lachen",
+    "tr": "ağlamak X gülmek"
+  },
+  {
+    "nl": "iedereen X niemand",
+    "tr": "herkes, hepsi x kimse, hiç kimse"
+  },
+  {
+    "nl": "iemand X niemand",
+    "tr": "birisi, bir kimse X kimse, hiçkimse"
+  },
+  {
+    "nl": "iets X niets",
+    "tr": "birşey X hiçbir şey"
+  },
+  {
+    "nl": "Ijverig X lui",
+    "tr": "çalışkan X tembel"
+  },
+  {
+    "nl": "illegaal X legaal",
+    "tr": "yasadışı X yasal"
+  },
+  {
+    "nl": "in X uit",
+    "tr": "içinde X dışında"
+  },
+  {
+    "nl": "inclusief X exclusief",
+    "tr": "dahil X hariç, özel, gizli, saklı"
+  },
+  {
+    "nl": "ingang X uitgang",
+    "tr": "giriş X çıkış"
+  },
+  {
+    "nl": "instappen X uistappen",
+    "tr": "binmek, çıkmak X inmek, alçalmak"
+  },
+  {
+    "nl": "internationaal X nationaal",
+    "tr": "uluslararası X ulusal"
+  },
+  {
+    "nl": "ja X nee",
+    "tr": "evet X hayır"
+  },
+  {
+    "nl": "jong X oud",
+    "tr": "genç X yaşlı"
+  },
+  {
+    "nl": "jongen X meisje",
+    "tr": "erkek X kız"
+  },
+  {
+    "nl": "jongeren X ouderen",
+    "tr": "genç insanlar(gençlik) X yaşlı insanlar(yaşlılık)"
+  },
+  {
+    "nl": "juist X verkeerd",
+    "tr": "doğru X yanlış"
+  },
+  {
+    "nl": "kalm X zenuwachtig",
+    "tr": "sakin X gerginlik, sinir"
+  },
+  {
+    "nl": "kapot X heel",
+    "tr": "bozuk, kırık X bütün, adamakıllı"
+  },
+  {
+    "nl": "kind X volwassene",
+    "tr": "çocuk X yetişkin"
+  },
+  {
+    "nl": "klaar zijn X beginnen",
+    "tr": "bitirmek, hazır olmak X başlamak"
+  },
+  {
+    "nl": "klein X groot",
+    "tr": "küçük X büyük"
+  },
+  {
+    "nl": "komen X gaan",
+    "tr": "gelmek X gitmek"
+  },
+  {
+    "nl": "kopen X verkopen",
+    "tr": "satın almak X satmak"
+  },
+  {
+    "nl": "kort X lang",
+    "tr": "kısa X uzun"
+  },
+  {
+    "nl": "koud X warm",
+    "tr": "soğuk X sıcak"
+  },
+  {
+    "nl": "krijgen X geven",
+    "tr": "almak X vermek"
+  },
+  {
+    "nl": "krimpen X uitzetten",
+    "tr": "küçülmek X bolarmak, büyümek"
+  },
+  {
+    "nl": "krom X recht",
+    "tr": "eğri, yamuk X doğru, düz, adalet"
+  },
+  {
+    "nl": "kwaad X blij",
+    "tr": "kızgın, sinirli, kötü X mutlu, neşeli"
+  },
+  {
+    "nl": "laag X hoog",
+    "tr": "alçak, adi X yüksek, uzun"
+  },
+  {
+    "nl": "laat X vroeg",
+    "tr": "geç, gecikmiş X erken"
+  },
+  {
+    "nl": "laatste X eerste",
+    "tr": "en son X ilk önce"
+  },
+  {
+    "nl": "lachen X huilen",
+    "tr": "gülmek X ağlamak"
+  },
+  {
+    "nl": "lang X kort",
+    "tr": "uzun X kısa"
+  },
+  {
+    "nl": "langzaam X snel",
+    "tr": "yavaş X hızlı"
+  },
+  {
+    "nl": "later X vroeger",
+    "tr": "daha sonra X daha önce"
+  },
+  {
+    "nl": "lawaai X stilte",
+    "tr": "Gürültü X sessizlik"
+  },
+  {
+    "nl": "leeg X vol",
+    "tr": "boş X dolu"
+  },
+  {
+    "nl": "leerling X leraar",
+    "tr": "öğrenci, çırak X öğretmen, hoca"
+  },
+  {
+    "nl": "legaal X illegaal",
+    "tr": "Yasal X yasadışı"
+  },
+  {
+    "nl": "lekker X vies",
+    "tr": "lezzetli, güzel, iyi X kirli, pis"
+  },
+  {
+    "nl": "lelijk X mooi",
+    "tr": "Çirkin X güzel"
+  },
+  {
+    "nl": "leraar X leerling",
+    "tr": "öğretmen X öğrenci"
+  },
+  {
+    "nl": "leren X vergeten",
+    "tr": "öğrenmek X unutmak"
+  },
+  {
+    "nl": "leuk X vervelend",
+    "tr": "güzel, iyi, hoş X iğrenç, sıkıcı"
+  },
+  {
+    "nl": "leven X dood",
+    "tr": "diri,yaşam,ömür X ölü, ölmüş"
+  },
+  {
+    "nl": "lezen X schrijven",
+    "tr": "okumak X yazmak"
+  },
+  {
+    "nl": "licht X donker & zwaar",
+    "tr": "açık, hafif X koyu,ağır"
+  },
+  {
+    "nl": "lief X stout",
+    "tr": "tatlı, sevimli X yaramaz"
+  },
+  {
+    "nl": "liggen X staan",
+    "tr": "yatmak, uzanmak X ayakta/dik durmak"
+  },
+  {
+    "nl": "links X rechts",
+    "tr": "sol X sağ"
+  },
+  {
+    "nl": "los X vast",
+    "tr": "gevşek, serbest, hür X katı, sabit, belirli"
+  },
+  {
+    "nl": "luisteren X praten",
+    "tr": "dinlemek X konuşmak"
+  },
+  {
+    "nl": "lukken X mislukken",
+    "tr": "başarılı X başarısız"
+  },
+  {
+    "nl": "maan X zon",
+    "tr": "ay X güneş"
+  },
+  {
+    "nl": "mager X vet",
+    "tr": "yağsız, ince, zayıf X kalın, şişman, yağ"
+  },
+  {
+    "nl": "makkelijk X moeilijk",
+    "tr": "kolay X zor"
+  },
+  {
+    "nl": "man X vrouw",
+    "tr": "erkek X kadın"
+  },
+  {
+    "nl": "maximaal X minimaal",
+    "tr": "maksimum X minimum"
+  },
+  {
+    "nl": "meer X minder",
+    "tr": "daha fazla X daha az"
+  },
+  {
+    "nl": "meervoud X enkelvoud",
+    "tr": "çoğul X tekil"
+  },
+  {
+    "nl": "meest X minst",
+    "tr": "en (fazla) X en (fazla)"
+  },
+  {
+    "nl": "meestal X bijna nooit",
+    "tr": "genellikle X hemen hemen hiç"
+  },
+  {
+    "nl": "meisje X jongen",
+    "tr": "kız x erkek"
+  },
+  {
+    "nl": "met X zonder",
+    "tr": "ile,beraber X -sız, olmadan"
+  },
+  {
+    "nl": "mevrouw X meneer",
+    "tr": "beyefendi, bay X hanımefendi, bayan"
+  },
+  {
+    "nl": "minderheid X meerderheid",
+    "tr": "azınlık X çoğunluk"
+  },
+  {
+    "nl": "minste X meest",
+    "tr": "en (az) X en (fazla)"
+  },
+  {
+    "nl": "mis X raak",
+    "tr": "hatalı, yanlış, bozuk X sağlam, çarpıcı"
+  },
+  {
+    "nl": "mislukken X slagen",
+    "tr": "başarısız X başarılı"
+  },
+  {
+    "nl": "modern X ouderwets",
+    "tr": "modern,çağdaş X eski kafalı,eskimoda"
+  },
+  {
+    "nl": "moe X energiek",
+    "tr": "yorgun X enerjik"
+  },
+  {
+    "nl": "moeder X vader",
+    "tr": "anne X baba"
+  },
+  {
+    "nl": "moeilijk X makkelijk",
+    "tr": "zor X kolay"
+  },
+  {
+    "nl": "moeten doen X zelf willen",
+    "tr": "yapmak zorunda X keyfe keder"
+  },
+  {
+    "nl": "mooi X lelijk",
+    "tr": "güzel X çirkin"
+  },
+  {
+    "nl": "morgen X gisteren",
+    "tr": "yarın X dün"
+  },
+  {
+    "nl": "na X voor",
+    "tr": "sonra X önce"
+  },
+  {
+    "nl": "nacht X dag",
+    "tr": "gece X gündüz"
+  },
+  {
+    "nl": "nadat X voordat",
+    "tr": "(daha) sonra X (daha) önce"
+  },
+  {
+    "nl": "najaar X voorjaar",
+    "tr": "sonbahar X ilkbahar"
+  },
+  {
+    "nl": "nat X droog",
+    "tr": "ıslk X kuru"
+  },
+  {
+    "nl": "nationaal X internationaal",
+    "tr": "Ulusal X uluslararası"
+  },
+  {
+    "nl": "nee X ja",
+    "tr": "hayır X evet"
+  },
+  {
+    "nl": "negatief X positief",
+    "tr": "negatif X pozitif"
+  },
+  {
+    "nl": "nemen X geven",
+    "tr": "almak X vermek"
+  },
+  {
+    "nl": "nergens X ergens",
+    "tr": "hiçbir yerde X bir yerde"
+  },
+  {
+    "nl": "netjes X rommelig",
+    "tr": "temiz, düzenli X dağınık"
+  },
+  {
+    "nl": "netto X bruto",
+    "tr": "net X brüt"
+  },
+  {
+    "nl": "niemand X iemand",
+    "tr": "hiç kimse X herkes"
+  },
+  {
+    "nl": "niet X wel",
+    "tr": "kötü, hayır, değil X iyi, evet, muhtemelen"
+  },
+  {
+    "nl": "niets X alles",
+    "tr": "hiçbir şey X her şey"
+  },
+  {
+    "nl": "nieuw X oud",
+    "tr": "yeni X eski"
+  },
+  {
+    "nl": "niks X alles",
+    "tr": "hiçbir şey X her şey"
+  },
+  {
+    "nl": "nodig X onnodig",
+    "tr": "gerekli X gereksiz"
+  },
+  {
+    "nl": "nooit X altijd",
+    "tr": "hiçbir zaman, asla X her zaman"
+  },
+  {
+    "nl": "noorden X zuiden",
+    "tr": "kuzey X güney"
+  },
+  {
+    "nl": "normaal X vreemd",
+    "tr": "normal X enteresan, garip, sıradışı"
+  },
+  {
+    "nl": "nu X straks",
+    "tr": "şimdi X sonra"
+  },
+  {
+    "nl": "ochtend X avond",
+    "tr": "saah X akşam"
+  },
+  {
+    "nl": "oma X opa",
+    "tr": "büyükanne X büyükbaba"
+  },
+  {
+    "nl": "omhoog X omlaag",
+    "tr": "yukarıya X aşağıya"
+  },
+  {
+    "nl": "onafhankelijk X afhankelijk",
+    "tr": "bağımsız X bağımlı"
+  },
+  {
+    "nl": "onbekend X bekend",
+    "tr": "bilinmeyen, meçhul X bilinen, ünlü"
+  },
+  {
+    "nl": "onder X boven",
+    "tr": "altında X üstünde"
+  },
+  {
+    "nl": "onmogelijk X mogelijk",
+    "tr": "imkansız X belki, mümkün"
+  },
+  {
+    "nl": "oom X tante",
+    "tr": "amca, dayı, enişte X teyze, hala, yenge"
+  },
+  {
+    "nl": "oorlog X vrede",
+    "tr": "savaş X barış, huzur"
+  },
+  {
+    "nl": "op X onder",
+    "tr": "yukarda X aşağıda"
+  },
+  {
+    "nl": "open X dicht",
+    "tr": "açık X kapalı"
+  },
+  {
+    "nl": "openen X sluiten",
+    "tr": "açmak X kapatmak"
+  },
+  {
+    "nl": "oplossing X probleem",
+    "tr": "çözüm, çare X sorun, aksilik, kaza"
+  },
+  {
+    "nl": "optimist X pessimist",
+    "tr": "iyimser X kötümser"
+  },
+  {
+    "nl": "oud X jong",
+    "tr": "yaşlı X genç"
+  },
+  {
+    "nl": "oud X nieuw",
+    "tr": "eski X yeni"
+  },
+  {
+    "nl": "overal X nergens",
+    "tr": "her yerde X hiçbir yerde"
+  },
+  {
+    "nl": "pakken X geven",
+    "tr": "almak, anlamak X vermek, çıkmak"
+  },
+  {
+    "nl": "papa X mama",
+    "tr": "baba X anne"
+  },
+  {
+    "nl": "pittig X zoet",
+    "tr": "acı X tatlı"
+  },
+  {
+    "nl": "plezierig X verdrietig",
+    "tr": "hoş, neşeli, sevimli X üzgün, üzücü"
+  },
+  {
+    "nl": "plus X min",
+    "tr": "artı X eksi"
+  },
+  {
+    "nl": "populair X impopulair",
+    "tr": "popüler X popüler olmayan"
+  },
+  {
+    "nl": "positief X negatief",
+    "tr": "pozitif X negatif"
+  },
+  {
+    "nl": "prachtig X afschuwelijk",
+    "tr": "güzel,harika,şaşırtıcı X korkunç,berbat, dehşet"
+  },
+  {
+    "nl": "praten X luisteren",
+    "tr": "konuşmak X dinlemek"
+  },
+  {
+    "nl": "precies X ongeveer",
+    "tr": "tam olarak, kesin X yaklaşık"
+  },
+  {
+    "nl": "present X absent",
+    "tr": "mevcut X namevcut, yok"
+  },
+  {
+    "nl": "raak X mis",
+    "tr": "sağlam, çarpıcı X hatalı, yanlış, bozuk"
+  },
+  {
+    "nl": "recht X krom",
+    "tr": "doğru, düz, adalet X eğri, yamuk"
+  },
+  {
+    "nl": "rechts X links",
+    "tr": "sağ X sol"
+  },
+  {
+    "nl": "retour X enkeltje",
+    "tr": "gidiş dönüş X tekli (bilet)"
+  },
+  {
+    "nl": "rijk X arm",
+    "tr": "zengin X fakir"
+  },
+  {
+    "nl": "roepen X stil zijn",
+    "tr": "bağır-, ara-,çağrı X sessiz olmak"
+  },
+  {
+    "nl": "rug X buik",
+    "tr": "sırt, bel, arka, geri X karın, göbek, mide"
+  },
+  {
+    "nl": "ruim X strak",
+    "tr": "bol, ambar X sıkı, katı"
+  },
+  {
+    "nl": "rustig X druk",
+    "tr": "sessiz, rahat, sakin X meşgul, teleşlı, baskı"
+  },
+  {
+    "nl": "samen X alleen",
+    "tr": "hep, birlikte, beraber X tek, sadece, yalnız"
+  },
+  {
+    "nl": "scheef X recht",
+    "tr": "Eğri, yamuk X düz, doğru"
+  },
+  {
+    "nl": "scherp X bot",
+    "tr": "keskin, sivri, şiddetli X kör, yassı, tatlı,hoş"
+  },
+  {
+    "nl": "schoon X vuil",
+    "tr": "temiz X kirli"
+  },
+  {
+    "nl": "schrijven X lezen",
+    "tr": "yazmak X okumak"
+  },
+  {
+    "nl": "slap X strak",
+    "tr": "geşek X sıkı"
+  },
+  {
+    "nl": "slecht X goed",
+    "tr": "Kötü X iyi"
+  },
+  {
+    "nl": "slim X dom",
+    "tr": "akılı, zeki X aptal"
+  },
+  {
+    "nl": "sluiten X openen",
+    "tr": "kapatmak X açmak"
+  },
+  {
+    "nl": "smakelijk X vies",
+    "tr": "lezetli X iğrenç, kirli"
+  },
+  {
+    "nl": "small X breed",
+    "tr": "dar X geniş"
+  },
+  {
+    "nl": "smerig X schoon",
+    "tr": "pis, kirl X temiz"
+  },
+  {
+    "nl": "snel X langzaam",
+    "tr": "hızlı X yavaş"
+  },
+  {
+    "nl": "soms X nooit",
+    "tr": "bazen X asla"
+  },
+  {
+    "nl": "soms, af en toe X vaak",
+    "tr": "bazen X sık sık"
+  },
+  {
+    "nl": "speciaal X gewoon",
+    "tr": "özel, ayrı X alelade, sıradan, alışılmış"
+  },
+  {
+    "nl": "spreken X luisteren",
+    "tr": "konuşmak X dinlemek"
+  },
+  {
+    "nl": "staan X liggen",
+    "tr": "ayakta/dik durmak X yatmak, uzanmak"
+  },
+  {
+    "nl": "stad X dorp",
+    "tr": "şehir, ilçe, kasaba X köy, nahiye"
+  },
+  {
+    "nl": "start X finish",
+    "tr": "başlamak X bitirmek"
+  },
+  {
+    "nl": "sterk X zwak",
+    "tr": "güçlü X zayıf"
+  },
+  {
+    "nl": "stijgen X dalen",
+    "tr": "artmak, yükselmek X inmek"
+  },
+  {
+    "nl": "stil X druk",
+    "tr": "Sessiz, sakin,rahat X telaşlı, baskı, meşgul"
+  },
+  {
+    "nl": "tegen X voor",
+    "tr": "e karşı X e için"
+  },
+  {
+    "nl": "terug X heen",
+    "tr": "geri X ileri"
+  },
+  {
+    "nl": "tevreden X ongelukkig",
+    "tr": "memnun X mutsuz"
+  },
+  {
+    "nl": "toekomst X verleden",
+    "tr": "gelecek X geçmiş"
+  },
+  {
+    "nl": "trekken X duwen",
+    "tr": "çekmek X itmek"
+  },
+  {
+    "nl": "trouwen X scheiden",
+    "tr": "evlenmek X boşanmak"
+  },
+  {
+    "nl": "uit X aan",
+    "tr": "den, dan, söndür X de, da, yak"
+  },
+  {
+    "nl": "uitgang X ingang",
+    "tr": "çıkş X giriş"
+  },
+  {
+    "nl": "uitkleden X aankleden",
+    "tr": "sounmak X giyinmek"
+  },
+  {
+    "nl": "vaak X soms",
+    "tr": "sık sık X bazen"
+  },
+  {
+    "nl": "vader X moeder",
+    "tr": "baba X anne"
+  },
+  {
+    "nl": "vandaag X gisteren",
+    "tr": "buün X dün"
+  },
+  {
+    "nl": "vast X los",
+    "tr": "katı, sabit, belirli X gevşek, serbest, hür"
+  },
+  {
+    "nl": "veel X weinig",
+    "tr": "çok X az"
+  },
+  {
+    "nl": "veilig X gevaarlijk",
+    "tr": "güvenli X tehlikeli"
+  },
+  {
+    "nl": "ver X dichtbij",
+    "tr": "uzak X yakın"
+  },
+  {
+    "nl": "verdrietig X blij",
+    "tr": "üzgün X mutlu"
+  },
+  {
+    "nl": "verkeerd X goed",
+    "tr": "yanlış X doğru"
+  },
+  {
+    "nl": "verleden X toekomst",
+    "tr": "geçmiş X gelecek"
+  },
+  {
+    "nl": "verliezen X winnen",
+    "tr": "kaybetmek X kazanmak"
+  },
+  {
+    "nl": "vertellen X luisteren",
+    "tr": "anlatmak,söylemek X dinlemek,duymak"
+  },
+  {
+    "nl": "vervelend X leuk",
+    "tr": "can sıkıcı X hoş, eğlenceli"
+  },
+  {
+    "nl": "vies X lekker & schoon",
+    "tr": "kirli, pis X güzel ve temiz"
+  },
+  {
+    "nl": "vijand X vriend",
+    "tr": "düşman X dost"
+  },
+  {
+    "nl": "vinden X zoeken",
+    "tr": "aramak X bulmak"
+  },
+  {
+    "nl": "vlakbij X ver",
+    "tr": "yakın X uzak"
+  },
+  {
+    "nl": "vlug X langzaam",
+    "tr": "hızlı X yavaş"
+  },
+  {
+    "nl": "vol X leeg",
+    "tr": "dolu X boş"
+  },
+  {
+    "nl": "voldoende X onvoldoende",
+    "tr": "yeterli X yetersiz"
+  },
+  {
+    "nl": "volgende X vorige",
+    "tr": "sonraki X önceki"
+  },
+  {
+    "nl": "volwassene X kind",
+    "tr": "yetişkin X çocuk"
+  },
+  {
+    "nl": "voor X achter",
+    "tr": "öndeki X arkadaki"
+  },
+  {
+    "nl": "voor X na",
+    "tr": "önce X sonra"
+  },
+  {
+    "nl": "voornaam X achternaam",
+    "tr": "ad X soyad"
+  },
+  {
+    "nl": "vorig X volgend",
+    "tr": "önceki X sonraki"
+  },
+  {
+    "nl": "vraag X antwoord",
+    "tr": "soru X cevap"
+  },
+  {
+    "nl": "vrede X oorlog",
+    "tr": "barış X savaş"
+  },
+  {
+    "nl": "vreemd X normaal",
+    "tr": "enteresan, garip, sıradışı X normal"
+  },
+  {
+    "nl": "vriend X vijand",
+    "tr": "dost, arkadaş X düşman"
+  },
+  {
+    "nl": "vriendelijk X onvriendelijk",
+    "tr": "dostça X düşmanca"
+  },
+  {
+    "nl": "vrij X bezet",
+    "tr": "serbest, özgür, bedava X meşgul, dolu"
+  },
+  {
+    "nl": "vrijgezel X getrouwd",
+    "tr": "bekar X evli"
+  },
+  {
+    "nl": "vroeg X laat",
+    "tr": "erken X geç"
+  },
+  {
+    "nl": "vrouw X man",
+    "tr": "kadın X erkek"
+  },
+  {
+    "nl": "vuil X schoon",
+    "tr": "kirli X temiz"
+  },
+  {
+    "nl": "wachten X vertrekken",
+    "tr": "beklemek X ayrılmak, terk etmek"
+  },
+  {
+    "nl": "warm X koud",
+    "tr": "sıcak X soğuk"
+  },
+  {
+    "nl": "weigeren X accepteren",
+    "tr": "reddetmek, karşı çıkmak X Kabul etmek"
+  },
+  {
+    "nl": "weinig X veel",
+    "tr": "az X çok"
+  },
+  {
+    "nl": "wel X niet",
+    "tr": "iyi, evet, muhtemelen X kötü, hayır, değil"
+  },
+  {
+    "nl": "westen X oosten",
+    "tr": "batı X doğu"
+  },
+  {
+    "nl": "willen X moeten",
+    "tr": "istemek, dilemek X zorunda/gerek-, meli"
+  },
+  {
+    "nl": "winnen X verliezen",
+    "tr": "kazanmak X kaybetmek"
+  },
+  {
+    "nl": "winst X verlies",
+    "tr": "kar, kazanç, yarar X kayıp, arıza, zarar"
+  },
+  {
+    "nl": "winter X zomer",
+    "tr": "kış X yaz"
+  },
+  {
+    "nl": "zacht X hard",
+    "tr": "yumuşak X sert"
+  },
+  {
+    "nl": "ziek X gezond",
+    "tr": "hasta X sağlıklı"
+  },
+  {
+    "nl": "zinken X drijven",
+    "tr": "batmak X çıkmak"
+  },
+  {
+    "nl": "zitten X staan",
+    "tr": "oturmak, olmak X ayakta/dik durmak"
+  },
+  {
+    "nl": "zoeken X vinden",
+    "tr": "aramak X bulmak"
+  },
+  {
+    "nl": "zoet X zout",
+    "tr": "tatlı X tuzlu"
+  },
+  {
+    "nl": "zoet X zuur",
+    "tr": "tatlı X ekşi"
+  },
+  {
+    "nl": "zomer X winter",
+    "tr": "yaz X kış"
+  },
+  {
+    "nl": "zon X maan",
+    "tr": "güneş X ay"
+  },
+  {
+    "nl": "zonder X met",
+    "tr": "-sız, olmadan X ile, beraber"
+  },
+  {
+    "nl": "zoon X dochter",
+    "tr": "erkek evlat X kız evlat"
+  },
+  {
+    "nl": "zuiden X noorden",
+    "tr": "güney X kuzey"
+  },
+  {
+    "nl": "zus X broer",
+    "tr": "kızkardeş X erkekkardeş"
+  },
+  {
+    "nl": "zwaar X licht",
+    "tr": "ağır, zor, güç X hafif, ışık, açık"
+  },
+  {
+    "nl": "zwak X sterk",
+    "tr": "zayıf X güçlü"
+  },
+  {
+    "nl": "zwart X wit",
+    "tr": "siyah X beyaz"
+  },
+  {
+    "nl": "zwijgen X spreken",
+    "tr": "sessiz kalmak X konuşmak"
+  },
+  {
+    "nl": "гаaг X gewoon",
+    "tr": "acayip, tuhaf, garip X alelade, sıradan"
+  }
+]

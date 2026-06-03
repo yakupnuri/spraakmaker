@@ -1,0 +1,5518 @@
+[
+  {
+    "nl": "aanbieden",
+    "tr": "teklif etmek"
+  },
+  {
+    "nl": "aanhebben",
+    "tr": "giymek"
+  },
+  {
+    "nl": "aankomen (kilo)",
+    "tr": "kilo almak (kilo)"
+  },
+  {
+    "nl": "aankomen (reizen)",
+    "tr": "varmak (seyahat)"
+  },
+  {
+    "nl": "aanstaande",
+    "tr": "yakında çıkacak"
+  },
+  {
+    "nl": "aantal, het",
+    "tr": "sayı"
+  },
+  {
+    "nl": "aardappel, de",
+    "tr": "patates"
+  },
+  {
+    "nl": "abonnement, het",
+    "tr": "abonelik"
+  },
+  {
+    "nl": "achter",
+    "tr": "arkasında"
+  },
+  {
+    "nl": "achternaam, de",
+    "tr": "soyadı"
+  },
+  {
+    "nl": "adres, het",
+    "tr": "adres"
+  },
+  {
+    "nl": "advies, het",
+    "tr": "tavsiye"
+  },
+  {
+    "nl": "aflopen",
+    "tr": "süresi dolmak"
+  },
+  {
+    "nl": "afspraak, de",
+    "tr": "randevu"
+  },
+  {
+    "nl": "oturdu",
+    "tr": "zaten"
+  },
+  {
+    "nl": "al(le)",
+    "tr": "herşey)"
+  },
+  {
+    "nl": "algemeen",
+    "tr": "genel"
+  },
+  {
+    "nl": "alleen",
+    "tr": "sadece"
+  },
+  {
+    "nl": "alles",
+    "tr": "herşey"
+  },
+  {
+    "nl": "alsjeblieft",
+    "tr": "Lütfen"
+  },
+  {
+    "nl": "alstublieft",
+    "tr": "Lütfen"
+  },
+  {
+    "nl": "alweer",
+    "tr": "tekrar"
+  },
+  {
+    "nl": "ander",
+    "tr": "diğer"
+  },
+  {
+    "nl": "anderhalf",
+    "tr": "bir buçuk"
+  },
+  {
+    "nl": "antwoord, het",
+    "tr": "cevapla"
+  },
+  {
+    "nl": "antwoorden",
+    "tr": "Yanıtlar"
+  },
+  {
+    "nl": "appartement, het",
+    "tr": "apartman"
+  },
+  {
+    "nl": "appel, de",
+    "tr": "elma"
+  },
+  {
+    "nl": "appeltaart, de",
+    "tr": "elmalı turta"
+  },
+  {
+    "nl": "arm",
+    "tr": "kol"
+  },
+  {
+    "nl": "auto, de",
+    "tr": "araba"
+  },
+  {
+    "nl": "automaat, de",
+    "tr": "otomat"
+  },
+  {
+    "nl": "autorijles, de",
+    "tr": "sürüş dersi"
+  },
+  {
+    "nl": "avond, de",
+    "tr": "akşam"
+  },
+  {
+    "nl": "avondeten, het",
+    "tr": "akşam yemeği"
+  },
+  {
+    "nl": "baas, de",
+    "tr": "patron"
+  },
+  {
+    "nl": "bad, het",
+    "tr": "banyo"
+  },
+  {
+    "nl": "bakker, de",
+    "tr": "fırıncı"
+  },
+  {
+    "nl": "balkon, het",
+    "tr": "balkon"
+  },
+  {
+    "nl": "banaan, de",
+    "tr": "muz"
+  },
+  {
+    "nl": "band, de",
+    "tr": "bant"
+  },
+  {
+    "nl": "bang",
+    "tr": "endişeli"
+  },
+  {
+    "nl": "bang voor",
+    "tr": "korkmak"
+  },
+  {
+    "nl": "bank, de (geld)",
+    "tr": "banka, (para)"
+  },
+  {
+    "nl": "bank, de (meubel)",
+    "tr": "kanepe, (mobilya)"
+  },
+  {
+    "nl": "bed, het",
+    "tr": "yatak"
+  },
+  {
+    "nl": "bedanken",
+    "tr": "Teşekkür"
+  },
+  {
+    "nl": "bedoelen",
+    "tr": "anlamına gelmek"
+  },
+  {
+    "nl": "beetje, het",
+    "tr": "biraz"
+  },
+  {
+    "nl": "beginnen *",
+    "tr": "başlamak *"
+  },
+  {
+    "nl": "bekend",
+    "tr": "bilinen"
+  },
+  {
+    "nl": "bekijken",
+    "tr": "görmek"
+  },
+  {
+    "nl": "belangrijk",
+    "tr": "önemli"
+  },
+  {
+    "nl": "bellen",
+    "tr": "telefonla aramak"
+  },
+  {
+    "nl": "beneden",
+    "tr": "aşağı"
+  },
+  {
+    "nl": "benieuwd",
+    "tr": "Meraklı"
+  },
+  {
+    "nl": "bericht , het",
+    "tr": "mesaj"
+  },
+  {
+    "nl": "beste",
+    "tr": "En iyi"
+  },
+  {
+    "nl": "bestellen",
+    "tr": "sipariş vermek"
+  },
+  {
+    "nl": "betalen",
+    "tr": "Ödemek"
+  },
+  {
+    "nl": "beurt, de",
+    "tr": "dön"
+  },
+  {
+    "nl": "bezorgen",
+    "tr": "teslim etmek"
+  },
+  {
+    "nl": "biefstuk, de",
+    "tr": "biftek"
+  },
+  {
+    "nl": "bier(tje), het",
+    "tr": "bira (küçük)"
+  },
+  {
+    "nl": "bij",
+    "tr": "bal arısı"
+  },
+  {
+    "nl": "bijna",
+    "tr": "neredeyse"
+  },
+  {
+    "nl": "bijvoorbeeld",
+    "tr": "Örneğin"
+  },
+  {
+    "nl": "bijzonder",
+    "tr": "özel"
+  },
+  {
+    "nl": "binnengaan",
+    "tr": "giriş"
+  },
+  {
+    "nl": "binnenkomen",
+    "tr": "giriş"
+  },
+  {
+    "nl": "bioscoop, de",
+    "tr": "sinema"
+  },
+  {
+    "nl": "bitterbal, de",
+    "tr": "acı"
+  },
+  {
+    "nl": "blauw",
+    "tr": "mavi"
+  },
+  {
+    "nl": "bloem, de",
+    "tr": "çiçek"
+  },
+  {
+    "nl": "bloes, de",
+    "tr": "bluz"
+  },
+  {
+    "nl": "blond",
+    "tr": "sarışın"
+  },
+  {
+    "nl": "boek, het",
+    "tr": "kitap"
+  },
+  {
+    "nl": "bon, de",
+    "tr": "fiş(fatura)"
+  },
+  {
+    "nl": "boodschap(pen) de",
+    "tr": "mesaj (lar)"
+  },
+  {
+    "nl": "boot, de",
+    "tr": "önyükleme"
+  },
+  {
+    "nl": "borrel, de",
+    "tr": "içki"
+  },
+  {
+    "nl": "borrelhapje, het",
+    "tr": "atıştırmalık"
+  },
+  {
+    "nl": "boterham, de",
+    "tr": "sandviç"
+  },
+  {
+    "nl": "boven",
+    "tr": "yukarıda"
+  },
+  {
+    "nl": "brief, de",
+    "tr": "mektup"
+  },
+  {
+    "nl": "bril, de",
+    "tr": "gözlük"
+  },
+  {
+    "nl": "broek, de",
+    "tr": "pantolon"
+  },
+  {
+    "nl": "broer, de",
+    "tr": "erkek kardeş"
+  },
+  {
+    "nl": "brood, het",
+    "tr": "ekmek"
+  },
+  {
+    "nl": "brug, de",
+    "tr": "köprü"
+  },
+  {
+    "nl": "bruiloft, de",
+    "tr": "düğün"
+  },
+  {
+    "nl": "bruin",
+    "tr": "Kahverengi"
+  },
+  {
+    "nl": "bus, de",
+    "tr": "otobüs"
+  },
+  {
+    "nl": "buurjongen, de",
+    "tr": "komşu çocuk"
+  },
+  {
+    "nl": "buurman, de",
+    "tr": "komşu"
+  },
+  {
+    "nl": "buurvrouw, de",
+    "tr": "komşu"
+  },
+  {
+    "nl": "centrum, het",
+    "tr": "merkez"
+  },
+  {
+    "nl": "champignon, de",
+    "tr": "mantar"
+  },
+  {
+    "nl": "cijfer, het",
+    "tr": "şekil"
+  },
+  {
+    "nl": "citroen, de",
+    "tr": "limon"
+  },
+  {
+    "nl": "collega, de",
+    "tr": "meslektaş"
+  },
+  {
+    "nl": "compliment, het",
+    "tr": "iltifat"
+  },
+  {
+    "nl": "computer, de",
+    "tr": "bilgisayar"
+  },
+  {
+    "nl": "cursus, de",
+    "tr": "kurs"
+  },
+  {
+    "nl": "daar",
+    "tr": "orada"
+  },
+  {
+    "nl": "daarna",
+    "tr": "sonradan"
+  },
+  {
+    "nl": "daarom",
+    "tr": "bu nedenle"
+  },
+  {
+    "nl": "dag, de",
+    "tr": "gün"
+  },
+  {
+    "nl": "dagelijks",
+    "tr": "günlük"
+  },
+  {
+    "nl": "dame, de",
+    "tr": "bayan"
+  },
+  {
+    "nl": "danken (dank u wel)",
+    "tr": "teşekkür ederim teşekkür ederim)"
+  },
+  {
+    "nl": "datum, de",
+    "tr": "tarih"
+  },
+  {
+    "nl": "delen",
+    "tr": "Paylaş"
+  },
+  {
+    "nl": "denken *",
+    "tr": "düşünmek *"
+  },
+  {
+    "nl": "dessert, het",
+    "tr": "tatlı"
+  },
+  {
+    "nl": "dezelfde",
+    "tr": "aynısı"
+  },
+  {
+    "nl": "dier, het",
+    "tr": "hayvan"
+  },
+  {
+    "nl": "ding, het",
+    "tr": "şey"
+  },
+  {
+    "nl": "diploma, het",
+    "tr": "diploma"
+  },
+  {
+    "nl": "dochter, de",
+    "tr": "kızı"
+  },
+  {
+    "nl": "doen *",
+    "tr": "yapmak *"
+  },
+  {
+    "nl": "donker",
+    "tr": "karanlık"
+  },
+  {
+    "nl": "door",
+    "tr": "tarafından"
+  },
+  {
+    "nl": "door de week",
+    "tr": "hafta boyunca"
+  },
+  {
+    "nl": "dorp, het",
+    "tr": "köy"
+  },
+  {
+    "nl": "dorst, de (dorst hebben)",
+    "tr": "susamış, susamış"
+  },
+  {
+    "nl": "douche, de",
+    "tr": "duş"
+  },
+  {
+    "nl": "dragen *",
+    "tr": "giymek *"
+  },
+  {
+    "nl": "drinken *",
+    "tr": "İçmek *"
+  },
+  {
+    "nl": "drukken",
+    "tr": "bastırmak"
+  },
+  {
+    "nl": "duren",
+    "tr": "son"
+  },
+  {
+    "nl": "dus",
+    "tr": "Yani"
+  },
+  {
+    "nl": "duur",
+    "tr": "pahalı"
+  },
+  {
+    "nl": "echt (waar)",
+    "tr": "Gerçekten mi)"
+  },
+  {
+    "nl": "eerst",
+    "tr": "ilk"
+  },
+  {
+    "nl": "ei, het (eieren)",
+    "tr": "yumurta (yumurtalar)"
+  },
+  {
+    "nl": "eigen",
+    "tr": "kendi"
+  },
+  {
+    "nl": "eiland, het",
+    "tr": "ada"
+  },
+  {
+    "nl": "eind, het",
+    "tr": "bitir"
+  },
+  {
+    "nl": "eindelijk",
+    "tr": "En sonunda"
+  },
+  {
+    "nl": "elk",
+    "tr": "her biri"
+  },
+  {
+    "nl": "elkaar",
+    "tr": "herbiri"
+  },
+  {
+    "nl": "en",
+    "tr": "ve"
+  },
+  {
+    "nl": "eraf zijn (er is een knoop af)",
+    "tr": "kapalı olmak (düğüm kapalı)"
+  },
+  {
+    "nl": "erg",
+    "tr": "çok"
+  },
+  {
+    "nl": "eruitzien",
+    "tr": "bak"
+  },
+  {
+    "nl": "eten *",
+    "tr": "yemek yemek"
+  },
+  {
+    "nl": "eten, het",
+    "tr": "yemek(isim)"
+  },
+  {
+    "nl": "familie, de",
+    "tr": "aile"
+  },
+  {
+    "nl": "fantastisch",
+    "tr": "fantastik"
+  },
+  {
+    "nl": "feest, het",
+    "tr": "parti"
+  },
+  {
+    "nl": "feestdag, de",
+    "tr": "tatil"
+  },
+  {
+    "nl": "feliciteren",
+    "tr": "tebrik etmek"
+  },
+  {
+    "nl": "fiets, de",
+    "tr": "bisiklet"
+  },
+  {
+    "nl": "fietsen",
+    "tr": "bisiklete binmek"
+  },
+  {
+    "nl": "fijn",
+    "tr": "Güzel"
+  },
+  {
+    "nl": "film, de",
+    "tr": "film"
+  },
+  {
+    "nl": "flatgebouw, het",
+    "tr": "apartman binası"
+  },
+  {
+    "nl": "fles, de",
+    "tr": "şişe"
+  },
+  {
+    "nl": "formulier, het",
+    "tr": "form"
+  },
+  {
+    "nl": "fout, de",
+    "tr": "hata,"
+  },
+  {
+    "nl": "fris, het",
+    "tr": "taze"
+  },
+  {
+    "nl": "fruit, het",
+    "tr": "meyve"
+  },
+  {
+    "nl": "gaan *",
+    "tr": "gitmek *"
+  },
+  {
+    "nl": "garnaal, de",
+    "tr": "karides"
+  },
+  {
+    "nl": "gat, het",
+    "tr": "delik"
+  },
+  {
+    "nl": "gebakken",
+    "tr": "pişmiş"
+  },
+  {
+    "nl": "geboorte, de",
+    "tr": "doğum"
+  },
+  {
+    "nl": "geboren",
+    "tr": "doğmuş"
+  },
+  {
+    "nl": "gebouw, het",
+    "tr": "bina"
+  },
+  {
+    "nl": "geel",
+    "tr": "Sarı"
+  },
+  {
+    "nl": "geen",
+    "tr": "Hayır"
+  },
+  {
+    "nl": "gegrild",
+    "tr": "ızgara"
+  },
+  {
+    "nl": "gehakt, het",
+    "tr": "kıyma"
+  },
+  {
+    "nl": "gek zijn op",
+    "tr": "Aşk"
+  },
+  {
+    "nl": "geld, het",
+    "tr": "para"
+  },
+  {
+    "nl": "gelijk hebben",
+    "tr": "haklı olmak"
+  },
+  {
+    "nl": "geloven",
+    "tr": "inanmak"
+  },
+  {
+    "nl": "gelukkig",
+    "tr": "mutlu"
+  },
+  {
+    "nl": "gerecht, het",
+    "tr": "yemek"
+  },
+  {
+    "nl": "geslacht, het",
+    "tr": "cinsiyet"
+  },
+  {
+    "nl": "geven (geef) *",
+    "tr": "vermek"
+  },
+  {
+    "nl": "geweldig",
+    "tr": "harika"
+  },
+  {
+    "nl": "gewoon",
+    "tr": "sadece"
+  },
+  {
+    "nl": "gezellig",
+    "tr": "Rahat"
+  },
+  {
+    "nl": "gezin, het",
+    "tr": "aile"
+  },
+  {
+    "nl": "gisteren",
+    "tr": "dün"
+  },
+  {
+    "nl": "glas, het (glaasje)",
+    "tr": "cam,bardak"
+  },
+  {
+    "nl": "goed",
+    "tr": "iyi"
+  },
+  {
+    "nl": "goedkoop",
+    "tr": "ucuz"
+  },
+  {
+    "nl": "graag",
+    "tr": "memnuniyetle"
+  },
+  {
+    "nl": "graag (twee koffie graag)",
+    "tr": "lütfen (iki kahve lütfen)"
+  },
+  {
+    "nl": "gram",
+    "tr": "gram"
+  },
+  {
+    "nl": "gratis",
+    "tr": "Bedava"
+  },
+  {
+    "nl": "groen",
+    "tr": "yeşil"
+  },
+  {
+    "nl": "groente",
+    "tr": "sebze"
+  },
+  {
+    "nl": "groeten",
+    "tr": "Saygılarımızla"
+  },
+  {
+    "nl": "groot",
+    "tr": "büyük"
+  },
+  {
+    "nl": "gympen, de",
+    "tr": "spor ayakkabılar"
+  },
+  {
+    "nl": "haar, het",
+    "tr": "saç"
+  },
+  {
+    "nl": "hagelslag, de",
+    "tr": "serpme"
+  },
+  {
+    "nl": "hal, de",
+    "tr": "salon"
+  },
+  {
+    "nl": "halen",
+    "tr": "getirmek"
+  },
+  {
+    "nl": "half",
+    "tr": "yarım"
+  },
+  {
+    "nl": "halte, de (de bushalte)",
+    "tr": "durak (otobüs durağı)"
+  },
+  {
+    "nl": "handtekening, de",
+    "tr": "imza"
+  },
+  {
+    "nl": "hapje, het",
+    "tr": "atıştırmalık"
+  },
+  {
+    "nl": "hardlopen",
+    "tr": "koşma"
+  },
+  {
+    "nl": "hartelijk gefeliciteerd",
+    "tr": "Tebrikler"
+  },
+  {
+    "nl": "hartelijke groeten, de",
+    "tr": "saygılarımla"
+  },
+  {
+    "nl": "hartig",
+    "tr": "içten"
+  },
+  {
+    "nl": "hartstikke",
+    "tr": "harika"
+  },
+  {
+    "nl": "hebben *",
+    "tr": "sahip olmak *"
+  },
+  {
+    "nl": "heel (de hele dag)",
+    "tr": "tüm gün (tüm gün)"
+  },
+  {
+    "nl": "heerlijk",
+    "tr": "lezzetli"
+  },
+  {
+    "nl": "helaas",
+    "tr": "ne yazık ki"
+  },
+  {
+    "nl": "helpen *",
+    "tr": "yardım *"
+  },
+  {
+    "nl": "heten *",
+    "tr": "isim *"
+  },
+  {
+    "nl": "hier",
+    "tr": "buraya"
+  },
+  {
+    "nl": "hoe (hoe heet je?)",
+    "tr": "nasıl (adın ne?)"
+  },
+  {
+    "nl": "hoe laat",
+    "tr": "ne zaman"
+  },
+  {
+    "nl": "hoeveel",
+    "tr": "Ne kadar"
+  },
+  {
+    "nl": "hoezo",
+    "tr": "nasıl yani"
+  },
+  {
+    "nl": "honger hebben",
+    "tr": "aç olmak"
+  },
+  {
+    "nl": "honger, de",
+    "tr": "açlık"
+  },
+  {
+    "nl": "hoofdgerecht, het",
+    "tr": "ana yemek"
+  },
+  {
+    "nl": "hoog",
+    "tr": "yüksek"
+  },
+  {
+    "nl": "houden van *",
+    "tr": "Aşk *"
+  },
+  {
+    "nl": "huis, het",
+    "tr": "ev"
+  },
+  {
+    "nl": "huisarts, de",
+    "tr": "aile hekimi"
+  },
+  {
+    "nl": "huren, de huur",
+    "tr": "kiralama,kiralik"
+  },
+  {
+    "nl": "idee, het",
+    "tr": "fikir"
+  },
+  {
+    "nl": "iets",
+    "tr": "bir şey"
+  },
+  {
+    "nl": "in",
+    "tr": "içinde"
+  },
+  {
+    "nl": "inchecken",
+    "tr": "kontrol etmek"
+  },
+  {
+    "nl": "informatie, de",
+    "tr": "bilgi"
+  },
+  {
+    "nl": "ingang, de",
+    "tr": "giriş"
+  },
+  {
+    "nl": "inschrijven",
+    "tr": "Kayıt ol"
+  },
+  {
+    "nl": "instappen",
+    "tr": "içeri girmek"
+  },
+  {
+    "nl": "invullen",
+    "tr": "doldurmak"
+  },
+  {
+    "nl": "ja",
+    "tr": "Evet"
+  },
+  {
+    "nl": "jaar, het",
+    "tr": "yıl"
+  },
+  {
+    "nl": "jam, de",
+    "tr": "reçel"
+  },
+  {
+    "nl": "jammer (het is jammer voor u)",
+    "tr": "çok kötü (senin için çok kötü)"
+  },
+  {
+    "nl": "jarig",
+    "tr": "doğum günü"
+  },
+  {
+    "nl": "jas, de",
+    "tr": "ceket"
+  },
+  {
+    "nl": "jong",
+    "tr": "genç"
+  },
+  {
+    "nl": "jongen, de",
+    "tr": "oğlan"
+  },
+  {
+    "nl": "jurk, de",
+    "tr": "elbise"
+  },
+  {
+    "nl": "kaart, de (menukaart, de)",
+    "tr": "kart (menü kartı)"
+  },
+  {
+    "nl": "kaart, de (plattegrond, de)",
+    "tr": "harita"
+  },
+  {
+    "nl": "kaart, de (toegangskaart, de)",
+    "tr": "kart (erişim kartı)"
+  },
+  {
+    "nl": "kaas, de",
+    "tr": "peynir"
+  },
+  {
+    "nl": "kalender, de",
+    "tr": "takvim"
+  },
+  {
+    "nl": "kamer, de",
+    "tr": "oda"
+  },
+  {
+    "nl": "kapot",
+    "tr": "Kırık"
+  },
+  {
+    "nl": "kapper, de",
+    "tr": "kuaför"
+  },
+  {
+    "nl": "kassa, de",
+    "tr": "kontrol et"
+  },
+  {
+    "nl": "kast, de",
+    "tr": "dolap"
+  },
+  {
+    "nl": "keer, de",
+    "tr": "zamanlar"
+  },
+  {
+    "nl": "kennen",
+    "tr": "bilmek"
+  },
+  {
+    "nl": "kerk, de",
+    "tr": "kilise"
+  },
+  {
+    "nl": "keuken, de",
+    "tr": "mutfak"
+  },
+  {
+    "nl": "kiezen *",
+    "tr": "seçin *"
+  },
+  {
+    "nl": "kijken *",
+    "tr": "bak *"
+  },
+  {
+    "nl": "kilo, de",
+    "tr": "kilo"
+  },
+  {
+    "nl": "kilometer, de",
+    "tr": "kilometre"
+  },
+  {
+    "nl": "kinderen, de (het kind)",
+    "tr": "çocuklar (çocuk)"
+  },
+  {
+    "nl": "kip, de",
+    "tr": "tavuk"
+  },
+  {
+    "nl": "klaar",
+    "tr": "hazır"
+  },
+  {
+    "nl": "klant, de",
+    "tr": "müşteri"
+  },
+  {
+    "nl": "klas, de (openbaar vervoer)",
+    "tr": "sınıf (toplu taşıma)"
+  },
+  {
+    "nl": "klas, de (school)",
+    "tr": "sınıf (okul)"
+  },
+  {
+    "nl": "klein",
+    "tr": "küçük"
+  },
+  {
+    "nl": "kleren, de",
+    "tr": "kıyafetler"
+  },
+  {
+    "nl": "kleur, de",
+    "tr": "Renkler"
+  },
+  {
+    "nl": "klopt dat?",
+    "tr": "bu doğru mu?"
+  },
+  {
+    "nl": "knoflook, de",
+    "tr": "sarımsak"
+  },
+  {
+    "nl": "knoop, de",
+    "tr": "düğme"
+  },
+  {
+    "nl": "koekje, het",
+    "tr": "çerez"
+  },
+  {
+    "nl": "koffie,de",
+    "tr": "kahve"
+  },
+  {
+    "nl": "koken",
+    "tr": "pişirmek"
+  },
+  {
+    "nl": "komen *",
+    "tr": "gelmek"
+  },
+  {
+    "nl": "kop, de",
+    "tr": "fincan"
+  },
+  {
+    "nl": "kopen *",
+    "tr": "satın almak *"
+  },
+  {
+    "nl": "kort",
+    "tr": "kısa"
+  },
+  {
+    "nl": "korting, de",
+    "tr": "indirim, the"
+  },
+  {
+    "nl": "kosten",
+    "tr": "maliyet"
+  },
+  {
+    "nl": "krant, de",
+    "tr": "gazete"
+  },
+  {
+    "nl": "krijgen *",
+    "tr": "almak *"
+  },
+  {
+    "nl": "kroeg, de",
+    "tr": "pub"
+  },
+  {
+    "nl": "krul, de",
+    "tr": "kivirmak,bükmek"
+  },
+  {
+    "nl": "kunnen *",
+    "tr": "yapabilmek *"
+  },
+  {
+    "nl": "kussen, het",
+    "tr": "yastik"
+  },
+  {
+    "nl": "kwart, het (tijd)",
+    "tr": "çeyrek, (zaman)"
+  },
+  {
+    "nl": "kwartier, het",
+    "tr": "çeyrek"
+  },
+  {
+    "nl": "laag",
+    "tr": "düşük"
+  },
+  {
+    "nl": "laat",
+    "tr": "geç"
+  },
+  {
+    "nl": "land, het",
+    "tr": "arazi"
+  },
+  {
+    "nl": "lang",
+    "tr": "uzun"
+  },
+  {
+    "nl": "langs",
+    "tr": "boyunca"
+  },
+  {
+    "nl": "langskomen",
+    "tr": "gel"
+  },
+  {
+    "nl": "leeftijd, de",
+    "tr": "yaş"
+  },
+  {
+    "nl": "lekker",
+    "tr": "nefis"
+  },
+  {
+    "nl": "lekker vinden *",
+    "tr": "sevmek *"
+  },
+  {
+    "nl": "lenen",
+    "tr": "ödünç almak"
+  },
+  {
+    "nl": "les, de",
+    "tr": "ders"
+  },
+  {
+    "nl": "leuk",
+    "tr": "eğlence"
+  },
+  {
+    "nl": "lezen *",
+    "tr": "okumak"
+  },
+  {
+    "nl": "licht",
+    "tr": "ışık"
+  },
+  {
+    "nl": "lichtblauw",
+    "tr": "açık mavi"
+  },
+  {
+    "nl": "lied(je), het",
+    "tr": "şarkı (sen)"
+  },
+  {
+    "nl": "lieve",
+    "tr": "Sayın"
+  },
+  {
+    "nl": "lift, de",
+    "tr": "asansör"
+  },
+  {
+    "nl": "lijken *",
+    "tr": "görünür *"
+  },
+  {
+    "nl": "linkerkant, de",
+    "tr": "sol taraf"
+  },
+  {
+    "nl": "links",
+    "tr": "ayrıldı"
+  },
+  {
+    "nl": "linksaf",
+    "tr": "Sola çevirin"
+  },
+  {
+    "nl": "lopen *",
+    "tr": "yürü *"
+  },
+  {
+    "nl": "luisteren *",
+    "tr": "dinlemek"
+  },
+  {
+    "nl": "lunch, de",
+    "tr": "öğle yemeği"
+  },
+  {
+    "nl": "lusten",
+    "tr": "arzular"
+  },
+  {
+    "nl": "maaltijd, de",
+    "tr": "yemek"
+  },
+  {
+    "nl": "maand, de",
+    "tr": "ay"
+  },
+  {
+    "nl": "maart",
+    "tr": "Mart"
+  },
+  {
+    "nl": "maat, de",
+    "tr": "boyut"
+  },
+  {
+    "nl": "maken",
+    "tr": "yapmak"
+  },
+  {
+    "nl": "man, de",
+    "tr": "adam"
+  },
+  {
+    "nl": "markt, de",
+    "tr": "piyasa,pazar"
+  },
+  {
+    "nl": "meedoen",
+    "tr": "Katıl"
+  },
+  {
+    "nl": "meegaan",
+    "tr": "devam et"
+  },
+  {
+    "nl": "meenemen",
+    "tr": "almak"
+  },
+  {
+    "nl": "meestal",
+    "tr": "çoğunlukla"
+  },
+  {
+    "nl": "melk, de",
+    "tr": "süt"
+  },
+  {
+    "nl": "meneer, de",
+    "tr": "efendim"
+  },
+  {
+    "nl": "met",
+    "tr": "ile"
+  },
+  {
+    "nl": "meter, de",
+    "tr": "metre"
+  },
+  {
+    "nl": "metro, de",
+    "tr": "metro"
+  },
+  {
+    "nl": "meubels, de",
+    "tr": "mobilya"
+  },
+  {
+    "nl": "mevrouw, de",
+    "tr": "bayan"
+  },
+  {
+    "nl": "middag",
+    "tr": "öğleden sonra"
+  },
+  {
+    "nl": "minstens",
+    "tr": "en azından"
+  },
+  {
+    "nl": "minuut, de",
+    "tr": "dakika"
+  },
+  {
+    "nl": "misschien",
+    "tr": "belki"
+  },
+  {
+    "nl": "mobiele telefoon, de",
+    "tr": "cep telefonu"
+  },
+  {
+    "nl": "modeshow, de",
+    "tr": "moda şovu"
+  },
+  {
+    "nl": "moeder, de",
+    "tr": "anne"
+  },
+  {
+    "nl": "moeten *",
+    "tr": "meli *"
+  },
+  {
+    "nl": "mogen (mag) *",
+    "tr": "(izin isteme)"
+  },
+  {
+    "nl": "momen(tje), het",
+    "tr": "bir dakika"
+  },
+  {
+    "nl": "mooi",
+    "tr": "güzel"
+  },
+  {
+    "nl": "morgen",
+    "tr": "yarın"
+  },
+  {
+    "nl": "morgen, de",
+    "tr": "yarın,sabah"
+  },
+  {
+    "nl": "muziek, de",
+    "tr": "müzik"
+  },
+  {
+    "nl": "na",
+    "tr": "sonra"
+  },
+  {
+    "nl": "naam, de",
+    "tr": "isim"
+  },
+  {
+    "nl": "naar",
+    "tr": "!-e"
+  },
+  {
+    "nl": "naartoe",
+    "tr": "!-e"
+  },
+  {
+    "nl": "naast",
+    "tr": "Sonraki"
+  },
+  {
+    "nl": "nacht, de",
+    "tr": "gece"
+  },
+  {
+    "nl": "namelijk",
+    "tr": "yani"
+  },
+  {
+    "nl": "nationaliteit, de",
+    "tr": "milliyet"
+  },
+  {
+    "nl": "natuurlijk",
+    "tr": "elbette"
+  },
+  {
+    "nl": "Nederlands(e)",
+    "tr": "Hollandaca (e)"
+  },
+  {
+    "nl": "nee",
+    "tr": "Hayır"
+  },
+  {
+    "nl": "nemen *",
+    "tr": "al *"
+  },
+  {
+    "nl": "net",
+    "tr": "sadece"
+  },
+  {
+    "nl": "net (voor kleren)",
+    "tr": "net (giysiler için)"
+  },
+  {
+    "nl": "niemand",
+    "tr": "kimse"
+  },
+  {
+    "nl": "niet",
+    "tr": "değil"
+  },
+  {
+    "nl": "niets",
+    "tr": "hiçbir şey değil"
+  },
+  {
+    "nl": "nieuw",
+    "tr": "yeni"
+  },
+  {
+    "nl": "niks",
+    "tr": "hiçbir şey değil"
+  },
+  {
+    "nl": "nog",
+    "tr": "hala"
+  },
+  {
+    "nl": "nooit",
+    "tr": "asla"
+  },
+  {
+    "nl": "nu",
+    "tr": "şimdi"
+  },
+  {
+    "nl": "nummer, het",
+    "tr": "sayı"
+  },
+  {
+    "nl": "ober, de",
+    "tr": "garson"
+  },
+  {
+    "nl": "ochtend, de",
+    "tr": "sabah"
+  },
+  {
+    "nl": "of",
+    "tr": "veya"
+  },
+  {
+    "nl": "om een uur of (twee)",
+    "tr": "bir veya (iki) saatte"
+  },
+  {
+    "nl": "onder",
+    "tr": "altında"
+  },
+  {
+    "nl": "onderweg",
+    "tr": "yolda"
+  },
+  {
+    "nl": "ongeveer",
+    "tr": "hakkında"
+  },
+  {
+    "nl": "ons, het",
+    "tr": "biz"
+  },
+  {
+    "nl": "ontbijt, het",
+    "tr": "kahvaltı"
+  },
+  {
+    "nl": "oog, het",
+    "tr": "göz"
+  },
+  {
+    "nl": "ook",
+    "tr": "Ayrıca"
+  },
+  {
+    "nl": "op",
+    "tr": "açık"
+  },
+  {
+    "nl": "open",
+    "tr": "Açık"
+  },
+  {
+    "nl": "openbaar vervoer, het",
+    "tr": "toplu taşıma"
+  },
+  {
+    "nl": "openingstijden, de",
+    "tr": "açılış saatleri"
+  },
+  {
+    "nl": "opladen",
+    "tr": "yük"
+  },
+  {
+    "nl": "opschieten",
+    "tr": "Acele et"
+  },
+  {
+    "nl": "opstaan",
+    "tr": "yükselmek"
+  },
+  {
+    "nl": "oud",
+    "tr": "eski"
+  },
+  {
+    "nl": "ouder, de",
+    "tr": "ebeveyn"
+  },
+  {
+    "nl": "ov-chipkaart, de",
+    "tr": "OV çip kartı"
+  },
+  {
+    "nl": "over (kwart over twee)",
+    "tr": "geçmiş (ikiyi çeyrek geçiyor)"
+  },
+  {
+    "nl": "over (over 10 minuten)",
+    "tr": "içinde (10 dakika içinde)"
+  },
+  {
+    "nl": "overhemd, het",
+    "tr": "gömlek"
+  },
+  {
+    "nl": "overstappen",
+    "tr": "değişiklik"
+  },
+  {
+    "nl": "oversteken",
+    "tr": "geçmek"
+  },
+  {
+    "nl": "paar, het",
+    "tr": "çift"
+  },
+  {
+    "nl": "paars",
+    "tr": "Menekşe"
+  },
+  {
+    "nl": "pad, het (fietspad)",
+    "tr": "yol(bisiklet yolu)"
+  },
+  {
+    "nl": "pad, het (in de supermarkt)",
+    "tr": "kurbağa(süpermarkette)"
+  },
+  {
+    "nl": "pak, het (kleding)",
+    "tr": "takım elbise(giyim)"
+  },
+  {
+    "nl": "pakken",
+    "tr": "kapmak"
+  },
+  {
+    "nl": "pannenkoek, de",
+    "tr": "krep"
+  },
+  {
+    "nl": "park, het",
+    "tr": "park"
+  },
+  {
+    "nl": "parkeren",
+    "tr": "otopark"
+  },
+  {
+    "nl": "pas (pas 19)",
+    "tr": "geçiş (19 geçiş)"
+  },
+  {
+    "nl": "passen bij / in",
+    "tr": "maç / içinde"
+  },
+  {
+    "nl": "patat, de",
+    "tr": "patates kızartması"
+  },
+  {
+    "nl": "pauze, de",
+    "tr": "ara"
+  },
+  {
+    "nl": "per",
+    "tr": "başına"
+  },
+  {
+    "nl": "persoonlijk",
+    "tr": "şahsen"
+  },
+  {
+    "nl": "pet, de",
+    "tr": "kap"
+  },
+  {
+    "nl": "pinda, de",
+    "tr": "fıstık"
+  },
+  {
+    "nl": "pinnen",
+    "tr": "iğneler"
+  },
+  {
+    "nl": "plaats, de",
+    "tr": "yerleştir"
+  },
+  {
+    "nl": "plaats, de",
+    "tr": "yerleştir"
+  },
+  {
+    "nl": "plan, het",
+    "tr": "plan"
+  },
+  {
+    "nl": "plattegrond, de",
+    "tr": "harita"
+  },
+  {
+    "nl": "plein, het",
+    "tr": "kare"
+  },
+  {
+    "nl": "plezier, het",
+    "tr": "zevk"
+  },
+  {
+    "nl": "politie, de",
+    "tr": "polis"
+  },
+  {
+    "nl": "pond, de",
+    "tr": "pound, the"
+  },
+  {
+    "nl": "postcode, de",
+    "tr": "Posta kodu"
+  },
+  {
+    "nl": "prachtig",
+    "tr": "muhteşem"
+  },
+  {
+    "nl": "praktisch",
+    "tr": "pratik"
+  },
+  {
+    "nl": "praten (over)",
+    "tr": "hakkında konuşmak)"
+  },
+  {
+    "nl": "precies",
+    "tr": "kesinlikle"
+  },
+  {
+    "nl": "prima",
+    "tr": "ince"
+  },
+  {
+    "nl": "probleem, het",
+    "tr": "sorun"
+  },
+  {
+    "nl": "programma, het (tv)",
+    "tr": "program (TV)"
+  },
+  {
+    "nl": "proost",
+    "tr": "şerefe"
+  },
+  {
+    "nl": "provincie, de",
+    "tr": "il"
+  },
+  {
+    "nl": "raam, het",
+    "tr": "pencere"
+  },
+  {
+    "nl": "raden *",
+    "tr": "tahmin etmek *"
+  },
+  {
+    "nl": "reageren",
+    "tr": "yorum Yap"
+  },
+  {
+    "nl": "rechtdoor",
+    "tr": "dosdoğru"
+  },
+  {
+    "nl": "rechterkant, de",
+    "tr": "sağ taraf"
+  },
+  {
+    "nl": "rechts",
+    "tr": "sağ"
+  },
+  {
+    "nl": "rechtsaf (gaan)",
+    "tr": "sağa dön (git)"
+  },
+  {
+    "nl": "regenen",
+    "tr": "yağmur"
+  },
+  {
+    "nl": "reis (enkele), de",
+    "tr": "trip (single), the"
+  },
+  {
+    "nl": "reizen",
+    "tr": "seyahat etmek"
+  },
+  {
+    "nl": "rekening, de",
+    "tr": "hesap"
+  },
+  {
+    "nl": "restaurant, het",
+    "tr": "restoran"
+  },
+  {
+    "nl": "retour, het",
+    "tr": "Geri vermek"
+  },
+  {
+    "nl": "reus, de",
+    "tr": "dev"
+  },
+  {
+    "nl": "richting, de",
+    "tr": "true"
+  },
+  {
+    "nl": "rijden *",
+    "tr": "sürmek *"
+  },
+  {
+    "nl": "rijst, de",
+    "tr": "pirinç"
+  },
+  {
+    "nl": "rijtjeshuis, het",
+    "tr": "teraslı ev"
+  },
+  {
+    "nl": "rits, de",
+    "tr": "fermuar"
+  },
+  {
+    "nl": "rok, de",
+    "tr": "etek"
+  },
+  {
+    "nl": "rondje, het (een rondje geven)",
+    "tr": "yuvarla (bir tur ver)"
+  },
+  {
+    "nl": "rood",
+    "tr": "kırmızı"
+  },
+  {
+    "nl": "ruilen",
+    "tr": "değiş tokuş"
+  },
+  {
+    "nl": "ruim",
+    "tr": "geniş"
+  },
+  {
+    "nl": "rustig",
+    "tr": "sessiz"
+  },
+  {
+    "nl": "'s avonds",
+    "tr": "akşam"
+  },
+  {
+    "nl": "'s middags",
+    "tr": "öğleden sonra"
+  },
+  {
+    "nl": "'s morgens",
+    "tr": "sabahleyin"
+  },
+  {
+    "nl": "'s nachts",
+    "tr": "geceleyin"
+  },
+  {
+    "nl": "s ochtends",
+    "tr": "sabahleyin"
+  },
+  {
+    "nl": "salami, de",
+    "tr": "salam"
+  },
+  {
+    "nl": "salaris, het",
+    "tr": "maaş"
+  },
+  {
+    "nl": "saldo, het",
+    "tr": "denge"
+  },
+  {
+    "nl": "saus, de",
+    "tr": "sos"
+  },
+  {
+    "nl": "scherm, het",
+    "tr": "ekran"
+  },
+  {
+    "nl": "schoen, de",
+    "tr": "ayakkabı"
+  },
+  {
+    "nl": "school, de",
+    "tr": "okul"
+  },
+  {
+    "nl": "schrijven *",
+    "tr": "yazmak *"
+  },
+  {
+    "nl": "sla, de",
+    "tr": "marul"
+  },
+  {
+    "nl": "slaapkamer, de",
+    "tr": "yatak odası"
+  },
+  {
+    "nl": "slager, de",
+    "tr": "kasap"
+  },
+  {
+    "nl": "slagroom, de",
+    "tr": "krem şanti"
+  },
+  {
+    "nl": "slapen *",
+    "tr": "uyumak *"
+  },
+  {
+    "nl": "slecht",
+    "tr": "kötü"
+  },
+  {
+    "nl": "snappen",
+    "tr": "anlayış"
+  },
+  {
+    "nl": "snel",
+    "tr": "hızlı"
+  },
+  {
+    "nl": "snijden (gesneden) *",
+    "tr": "kesme (dilimlenmiş) *"
+  },
+  {
+    "nl": "sok, de",
+    "tr": "çorap"
+  },
+  {
+    "nl": "soms",
+    "tr": "ara sıra"
+  },
+  {
+    "nl": "soort, de",
+    "tr": "tür"
+  },
+  {
+    "nl": "sorry",
+    "tr": "Afedersiniz"
+  },
+  {
+    "nl": "spannend",
+    "tr": "heyecan verici"
+  },
+  {
+    "nl": "sperzieboon, de",
+    "tr": "yeşil fasulye"
+  },
+  {
+    "nl": "spijkerbroek, de",
+    "tr": "kot pantolon"
+  },
+  {
+    "nl": "spijten *",
+    "tr": "pişmanlık *"
+  },
+  {
+    "nl": "spoor, het",
+    "tr": "takip et"
+  },
+  {
+    "nl": "sporten",
+    "tr": "Spor Dalları"
+  },
+  {
+    "nl": "spreken *",
+    "tr": "konuşmak *"
+  },
+  {
+    "nl": "sprookje, het",
+    "tr": "peri masalı"
+  },
+  {
+    "nl": "staan (staat) *",
+    "tr": "stand (durum) *"
+  },
+  {
+    "nl": "stad, de",
+    "tr": "şehir"
+  },
+  {
+    "nl": "station, het",
+    "tr": "istasyon"
+  },
+  {
+    "nl": "steeds",
+    "tr": "her zaman"
+  },
+  {
+    "nl": "steil (haar)",
+    "tr": "düz saç)"
+  },
+  {
+    "nl": "stoel, de",
+    "tr": "sandalye"
+  },
+  {
+    "nl": "straat, de",
+    "tr": "sokak"
+  },
+  {
+    "nl": "straks",
+    "tr": "sonra"
+  },
+  {
+    "nl": "stropdas, de",
+    "tr": "kravat"
+  },
+  {
+    "nl": "student, de",
+    "tr": "öğrenci"
+  },
+  {
+    "nl": "studeren",
+    "tr": "çalışmak"
+  },
+  {
+    "nl": "stuk",
+    "tr": "parça"
+  },
+  {
+    "nl": "suiker, de",
+    "tr": "şeker"
+  },
+  {
+    "nl": "supermarkt, de",
+    "tr": "süpermarket"
+  },
+  {
+    "nl": "taart, de",
+    "tr": "kek"
+  },
+  {
+    "nl": "tafel, de",
+    "tr": "tablo"
+  },
+  {
+    "nl": "tas, de (tasje erbij?)",
+    "tr": "çanta (onunla çanta mı?)"
+  },
+  {
+    "nl": "te (te laat)",
+    "tr": "çok (çok geç)"
+  },
+  {
+    "nl": "te koop",
+    "tr": "satılık"
+  },
+  {
+    "nl": "tegen",
+    "tr": "karşısında"
+  },
+  {
+    "nl": "tegoedbon, de",
+    "tr": "kupon"
+  },
+  {
+    "nl": "telefoonboek, het",
+    "tr": "telefon rehberi"
+  },
+  {
+    "nl": "terugbellen",
+    "tr": "geri aramak"
+  },
+  {
+    "nl": "teruggeven",
+    "tr": "dönüş"
+  },
+  {
+    "nl": "thee, de",
+    "tr": "çay"
+  },
+  {
+    "nl": "thuis",
+    "tr": "ev"
+  },
+  {
+    "nl": "tijd, de",
+    "tr": "zaman"
+  },
+  {
+    "nl": "tijdens",
+    "tr": "süre"
+  },
+  {
+    "nl": "toch (dat is toch niet oud)",
+    "tr": "neyse (bu zaten eski değil)"
+  },
+  {
+    "nl": "toegang, de",
+    "tr": "Erişmek"
+  },
+  {
+    "nl": "toegangskaartje, het",
+    "tr": "giriş bileti"
+  },
+  {
+    "nl": "toilet, het",
+    "tr": "tuvalet"
+  },
+  {
+    "nl": "tomaat, de",
+    "tr": "domates"
+  },
+  {
+    "nl": "tonijn, de",
+    "tr": "ton balığı"
+  },
+  {
+    "nl": "tot (tot zaterdag)",
+    "tr": "kadar (cumartesiye kadar)"
+  },
+  {
+    "nl": "tot (van ... tot)",
+    "tr": "-den (... -den)"
+  },
+  {
+    "nl": "traditie, de",
+    "tr": "gelenek"
+  },
+  {
+    "nl": "tram, de",
+    "tr": "tramvay"
+  },
+  {
+    "nl": "trap, de",
+    "tr": "merdivenler"
+  },
+  {
+    "nl": "trein, de",
+    "tr": "tren"
+  },
+  {
+    "nl": "trouwen",
+    "tr": "Evlenmek"
+  },
+  {
+    "nl": "trui, de",
+    "tr": "kazak"
+  },
+  {
+    "nl": "T-shirt, het",
+    "tr": "T-shirt"
+  },
+  {
+    "nl": "tuin, de",
+    "tr": "bahçe"
+  },
+  {
+    "nl": "tussen",
+    "tr": "arasında"
+  },
+  {
+    "nl": "tussen de middag",
+    "tr": "öğlen"
+  },
+  {
+    "nl": "uit (ik kom uit...)",
+    "tr": "from (Ben ...)"
+  },
+  {
+    "nl": "uitchecken",
+    "tr": "kontrol etmek"
+  },
+  {
+    "nl": "uiterlijk, het",
+    "tr": "görünüm"
+  },
+  {
+    "nl": "uitgaan",
+    "tr": "çıkmak"
+  },
+  {
+    "nl": "uitnodigen",
+    "tr": "davet etmek"
+  },
+  {
+    "nl": "uitnodiging, de",
+    "tr": "davetiye"
+  },
+  {
+    "nl": "uitstappen",
+    "tr": "kurtulmak için"
+  },
+  {
+    "nl": "uniform, het",
+    "tr": "üniforma"
+  },
+  {
+    "nl": "universiteit, de",
+    "tr": "üniversite"
+  },
+  {
+    "nl": "uur, het (om 3 uur)",
+    "tr": "saat(saat 3 de)"
+  },
+  {
+    "nl": "vaak",
+    "tr": "sıklıkla"
+  },
+  {
+    "nl": "vader, de",
+    "tr": "baba"
+  },
+  {
+    "nl": "vakantie, de",
+    "tr": "tatil"
+  },
+  {
+    "nl": "vanaf",
+    "tr": "itibaren"
+  },
+  {
+    "nl": "vanavond",
+    "tr": "Bu gece"
+  },
+  {
+    "nl": "vandaag",
+    "tr": "bugün"
+  },
+  {
+    "nl": "vandaan",
+    "tr": "uzakta"
+  },
+  {
+    "nl": "vanmiddag",
+    "tr": "bu öğleden sonra"
+  },
+  {
+    "nl": "vanmorgen",
+    "tr": "bu sabah"
+  },
+  {
+    "nl": "vannacht",
+    "tr": "Bu gece"
+  },
+  {
+    "nl": "vanochtend",
+    "tr": "bu sabah"
+  },
+  {
+    "nl": "varen *",
+    "tr": "yelken *"
+  },
+  {
+    "nl": "veel",
+    "tr": "bir çok"
+  },
+  {
+    "nl": "vegetariër, de",
+    "tr": "vejeteryan"
+  },
+  {
+    "nl": "ver",
+    "tr": "uzak"
+  },
+  {
+    "nl": "verder (verder zoeken)",
+    "tr": "devam et (daha fazla ara)"
+  },
+  {
+    "nl": "verdieping, de",
+    "tr": "zemin"
+  },
+  {
+    "nl": "verhuizen",
+    "tr": "taşınmak"
+  },
+  {
+    "nl": "verjaardag, de",
+    "tr": "doğum günü"
+  },
+  {
+    "nl": "verkeerd",
+    "tr": "false"
+  },
+  {
+    "nl": "verkoper, de",
+    "tr": "satıcı"
+  },
+  {
+    "nl": "verliefd",
+    "tr": "aşık"
+  },
+  {
+    "nl": "vertrekken *",
+    "tr": "ayrılmak *"
+  },
+  {
+    "nl": "vervelend",
+    "tr": "Can sıkıcı"
+  },
+  {
+    "nl": "via",
+    "tr": "vasıtasıyla"
+  },
+  {
+    "nl": "vieren",
+    "tr": "kutlamak"
+  },
+  {
+    "nl": "vierkante meter, de",
+    "tr": "metrekare"
+  },
+  {
+    "nl": "vies",
+    "tr": "kirli"
+  },
+  {
+    "nl": "villa, de",
+    "tr": "villa"
+  },
+  {
+    "nl": "vinden",
+    "tr": "bulmak"
+  },
+  {
+    "nl": "vis, de",
+    "tr": "balık"
+  },
+  {
+    "nl": "vlakbij",
+    "tr": "yakınlarda"
+  },
+  {
+    "nl": "vlees, het",
+    "tr": "et"
+  },
+  {
+    "nl": "vleeswaren, de",
+    "tr": "soğuk etler"
+  },
+  {
+    "nl": "voetbal, het",
+    "tr": "futbol"
+  },
+  {
+    "nl": "vol",
+    "tr": "tam"
+  },
+  {
+    "nl": "volgen",
+    "tr": "takip etmek"
+  },
+  {
+    "nl": "volgend",
+    "tr": "Sonraki"
+  },
+  {
+    "nl": "volgens",
+    "tr": "göre"
+  },
+  {
+    "nl": "voor (vijf voor acht)",
+    "tr": "için (beş ila sekiz)"
+  },
+  {
+    "nl": "voordeel, het",
+    "tr": "avantaj"
+  },
+  {
+    "nl": "voorgerecht, het",
+    "tr": "meze"
+  },
+  {
+    "nl": "voornaam, de",
+    "tr": "ilk isim"
+  },
+  {
+    "nl": "voorstel, het",
+    "tr": "teklif"
+  },
+  {
+    "nl": "voorstellen",
+    "tr": "takdim etmek"
+  },
+  {
+    "nl": "vorig",
+    "tr": "son"
+  },
+  {
+    "nl": "vraag, de",
+    "tr": "soru"
+  },
+  {
+    "nl": "vragen *",
+    "tr": "Sormak *"
+  },
+  {
+    "nl": "vriend, de",
+    "tr": "arkadaş"
+  },
+  {
+    "nl": "vriendin, de",
+    "tr": "kız arkadaş"
+  },
+  {
+    "nl": "vrij",
+    "tr": "Bedava"
+  },
+  {
+    "nl": "vrij (vrij klein)",
+    "tr": "ücretsiz (oldukça küçük)"
+  },
+  {
+    "nl": "vrouw, de",
+    "tr": "kadın"
+  },
+  {
+    "nl": "waar",
+    "tr": "nerede,neresi"
+  },
+  {
+    "nl": "wachten",
+    "tr": "beklemek"
+  },
+  {
+    "nl": "wakker",
+    "tr": "uyanık"
+  },
+  {
+    "nl": "wanneer",
+    "tr": "ne zaman"
+  },
+  {
+    "nl": "want",
+    "tr": "Çünkü"
+  },
+  {
+    "nl": "warm",
+    "tr": "Ilık, hafif sıcak"
+  },
+  {
+    "nl": "wasmachine, de",
+    "tr": "çamaşır makinesi,"
+  },
+  {
+    "nl": "wat",
+    "tr": "ne"
+  },
+  {
+    "nl": "wat (iets)",
+    "tr": "ne (bir şey)"
+  },
+  {
+    "nl": "water, het",
+    "tr": "su"
+  },
+  {
+    "nl": "wc, de",
+    "tr": "wc"
+  },
+  {
+    "nl": "wedstrijd, de",
+    "tr": "maç"
+  },
+  {
+    "nl": "week, de",
+    "tr": "hafta"
+  },
+  {
+    "nl": "weekend, het",
+    "tr": "hafta sonu"
+  },
+  {
+    "nl": "weer",
+    "tr": "tekrar"
+  },
+  {
+    "nl": "weg, de",
+    "tr": "uzakta"
+  },
+  {
+    "nl": "weggaan",
+    "tr": "çekip gitmek"
+  },
+  {
+    "nl": "welk",
+    "tr": "hangi"
+  },
+  {
+    "nl": "werkdag, de",
+    "tr": "iş günü"
+  },
+  {
+    "nl": "werken",
+    "tr": "çalışmak"
+  },
+  {
+    "nl": "werkkamer, de",
+    "tr": "ofis,"
+  },
+  {
+    "nl": "weten *",
+    "tr": "biliyorum *"
+  },
+  {
+    "nl": "wie",
+    "tr": "kim"
+  },
+  {
+    "nl": "wijn, de",
+    "tr": "şarap"
+  },
+  {
+    "nl": "wijzen (de weg) *",
+    "tr": "yolu göster *"
+  },
+  {
+    "nl": "willen *",
+    "tr": "istemek *"
+  },
+  {
+    "nl": "winkel, de",
+    "tr": "dükkan"
+  },
+  {
+    "nl": "wit",
+    "tr": "beyaz"
+  },
+  {
+    "nl": "wonen (woon)",
+    "tr": "yaşayan (yaşayan)"
+  },
+  {
+    "nl": "woning, de",
+    "tr": "ev"
+  },
+  {
+    "nl": "woningbouwvereniging, de",
+    "tr": "konut birliği"
+  },
+  {
+    "nl": "woonplaats, de",
+    "tr": "ikamet"
+  },
+  {
+    "nl": "worden *",
+    "tr": "dönüşmek ,olmak"
+  },
+  {
+    "nl": "zalm, de",
+    "tr": "somon"
+  },
+  {
+    "nl": "zebrapad, het",
+    "tr": "yaya geçidi, it"
+  },
+  {
+    "nl": "zeggen *",
+    "tr": "söylemek"
+  },
+  {
+    "nl": "zelfs",
+    "tr": "hatta"
+  },
+  {
+    "nl": "zetten",
+    "tr": "koymak"
+  },
+  {
+    "nl": "ziekenhuis, het",
+    "tr": "hastane"
+  },
+  {
+    "nl": "zielig",
+    "tr": "acıklı"
+  },
+  {
+    "nl": "zien *",
+    "tr": "görmek *"
+  },
+  {
+    "nl": "zijn (ben, bent, is) *",
+    "tr": "olmak fiili"
+  },
+  {
+    "nl": "zin hebben in",
+    "tr": "gibi hissediyorum"
+  },
+  {
+    "nl": "zitten *",
+    "tr": "oturmak *"
+  },
+  {
+    "nl": "zo (ik houd niet zo ...)",
+    "tr": "bunun gibi (bundan hoşlanmadım ...)"
+  },
+  {
+    "nl": "zoeken *",
+    "tr": "Aramak*"
+  },
+  {
+    "nl": "zoet",
+    "tr": "tatlı"
+  },
+  {
+    "nl": "zolder, de",
+    "tr": "çatı katı"
+  },
+  {
+    "nl": "zo'n",
+    "tr": "güneş"
+  },
+  {
+    "nl": "zonder",
+    "tr": "olmadan"
+  },
+  {
+    "nl": "zoon, de",
+    "tr": "oğlum"
+  },
+  {
+    "nl": "zout",
+    "tr": "tuz"
+  },
+  {
+    "nl": "zullen (zal) *",
+    "tr": "olacak *"
+  },
+  {
+    "nl": "zus, de",
+    "tr": "kardeş"
+  },
+  {
+    "nl": "zwart",
+    "tr": "siyah"
+  },
+  {
+    "nl": "NL",
+    "tr": "TR"
+  },
+  {
+    "nl": "afrekenen",
+    "tr": "ödemek"
+  },
+  {
+    "nl": "apparaat, het",
+    "tr": "cihaz"
+  },
+  {
+    "nl": "bak, de",
+    "tr": "kap"
+  },
+  {
+    "nl": "bedrag, het",
+    "tr": "Miktar"
+  },
+  {
+    "nl": "beker, de",
+    "tr": "Fincan"
+  },
+  {
+    "nl": "benzinestation, het",
+    "tr": "petrol istasyonu"
+  },
+  {
+    "nl": "betaling, de",
+    "tr": "ödeme"
+  },
+  {
+    "nl": "broodje, het",
+    "tr": "sandviç"
+  },
+  {
+    "nl": "contant",
+    "tr": "nakit"
+  },
+  {
+    "nl": "gebruiken",
+    "tr": "kullanım"
+  },
+  {
+    "nl": "genoeg",
+    "tr": "yeterli"
+  },
+  {
+    "nl": "groeien",
+    "tr": "büyümek"
+  },
+  {
+    "nl": "hoeven",
+    "tr": "gerek duymak, ihtiyacı olmak"
+  },
+  {
+    "nl": "insteken",
+    "tr": "eklemek, koymak, sokmak"
+  },
+  {
+    "nl": "intoetsen",
+    "tr": "veri girişi"
+  },
+  {
+    "nl": "kantine, de",
+    "tr": "kantin"
+  },
+  {
+    "nl": "kauwgom, de",
+    "tr": "sakız"
+  },
+  {
+    "nl": "kiosk, de",
+    "tr": "kiosk"
+  },
+  {
+    "nl": "kleding, de",
+    "tr": "çamaşırlar"
+  },
+  {
+    "nl": "kleingeld, het",
+    "tr": "değişiklik"
+  },
+  {
+    "nl": "lukken",
+    "tr": "başarılı olmak"
+  },
+  {
+    "nl": "pak, het (koffie)",
+    "tr": "paket, (kahve)"
+  },
+  {
+    "nl": "pas, de",
+    "tr": "banka kartı"
+  },
+  {
+    "nl": "passen",
+    "tr": "geçme"
+  },
+  {
+    "nl": "pincode, de",
+    "tr": "pin kodu,"
+  },
+  {
+    "nl": "procent, het",
+    "tr": "yüzde, o"
+  },
+  {
+    "nl": "sparen",
+    "tr": "kayıt etmek"
+  },
+  {
+    "nl": "tegenwoordig",
+    "tr": "şu günlerde"
+  },
+  {
+    "nl": "terughebben van*",
+    "tr": "geri dön *"
+  },
+  {
+    "nl": "tijdschrift, het",
+    "tr": "dergi, o"
+  },
+  {
+    "nl": "verkopen*",
+    "tr": "satmak*"
+  },
+  {
+    "nl": "vooral",
+    "tr": "çoğunlukla"
+  },
+  {
+    "nl": "zegeltjes, de",
+    "tr": "pullar"
+  },
+  {
+    "nl": "aannemelijk",
+    "tr": "Mantıklı"
+  },
+  {
+    "nl": "advertentie, de",
+    "tr": "İlan"
+  },
+  {
+    "nl": "apart",
+    "tr": "ayrı"
+  },
+  {
+    "nl": "bod, het",
+    "tr": "teklif"
+  },
+  {
+    "nl": "college, het",
+    "tr": "kolej"
+  },
+  {
+    "nl": "deel, het",
+    "tr": "Bölüm"
+  },
+  {
+    "nl": "deur, de",
+    "tr": "kapı"
+  },
+  {
+    "nl": "frisdrank, de",
+    "tr": "Meşrubat"
+  },
+  {
+    "nl": "hout, het",
+    "tr": "Odun"
+  },
+  {
+    "nl": "ieder",
+    "tr": "her biri"
+  },
+  {
+    "nl": "koelkast, de",
+    "tr": "buzdolabı"
+  },
+  {
+    "nl": "koopje, het",
+    "tr": "pazarlık etmek"
+  },
+  {
+    "nl": "leer, het",
+    "tr": "deri"
+  },
+  {
+    "nl": "materiaal, het",
+    "tr": "malzeme"
+  },
+  {
+    "nl": "meisje, het",
+    "tr": "kız"
+  },
+  {
+    "nl": "merk, het",
+    "tr": "Marka"
+  },
+  {
+    "nl": "meteen",
+    "tr": "derhal"
+  },
+  {
+    "nl": "muziekinstrument, het",
+    "tr": "müzik aleti"
+  },
+  {
+    "nl": "net (nette)",
+    "tr": "temiz (temiz)"
+  },
+  {
+    "nl": "programma, het (wasmachine)",
+    "tr": "program (çamaşır makinesi)"
+  },
+  {
+    "nl": "redelijk (in redelijke staat)",
+    "tr": "makul (adil durumda)"
+  },
+  {
+    "nl": "slechts",
+    "tr": "sadece"
+  },
+  {
+    "nl": "staat, de",
+    "tr": "durum"
+  },
+  {
+    "nl": "stelen (gestolen)*",
+    "tr": "çalmak (çalmak) *"
+  },
+  {
+    "nl": "vraagprijs, de",
+    "tr": "fiyat sormak"
+  },
+  {
+    "nl": "weg moeten*",
+    "tr": "gitmeli *"
+  },
+  {
+    "nl": "weinig",
+    "tr": "Çok az, kucuk"
+  },
+  {
+    "nl": "aanbieding, de",
+    "tr": "teklif"
+  },
+  {
+    "nl": "batterij, de",
+    "tr": "pil"
+  },
+  {
+    "nl": "beeld, het",
+    "tr": "heykel"
+  },
+  {
+    "nl": "garantie, de",
+    "tr": "Garanti"
+  },
+  {
+    "nl": "gegevens, de",
+    "tr": "veri"
+  },
+  {
+    "nl": "geluid, het",
+    "tr": "ses"
+  },
+  {
+    "nl": "maar",
+    "tr": "fakat"
+  },
+  {
+    "nl": "opschrijven*",
+    "tr": "yaz *"
+  },
+  {
+    "nl": "televisie, de",
+    "tr": "televizyon"
+  },
+  {
+    "nl": "wassen*",
+    "tr": "Yıkama*"
+  },
+  {
+    "nl": "zelf",
+    "tr": "kendini"
+  },
+  {
+    "nl": "chips, de",
+    "tr": "cips"
+  },
+  {
+    "nl": "duidelijk",
+    "tr": "Açıkça"
+  },
+  {
+    "nl": "examen, het",
+    "tr": "sınav"
+  },
+  {
+    "nl": "heleboel (een heleboel)",
+    "tr": "çok (çok)"
+  },
+  {
+    "nl": "huismerk, het",
+    "tr": "özel etiket"
+  },
+  {
+    "nl": "iedereen",
+    "tr": "herkes"
+  },
+  {
+    "nl": "krat, de",
+    "tr": "sandık"
+  },
+  {
+    "nl": "maar",
+    "tr": "fakat"
+  },
+  {
+    "nl": "makkelijk",
+    "tr": "kolay"
+  },
+  {
+    "nl": "mazzel, de",
+    "tr": "şanslı"
+  },
+  {
+    "nl": "moeilijk",
+    "tr": "zor"
+  },
+  {
+    "nl": "noot, de",
+    "tr": "fındık"
+  },
+  {
+    "nl": "olijf, de",
+    "tr": "zeytin"
+  },
+  {
+    "nl": "sap, het",
+    "tr": "Meyve suyu"
+  },
+  {
+    "nl": "sinaasappel, de",
+    "tr": "Portakal"
+  },
+  {
+    "nl": "slagen",
+    "tr": "başarılı olmak"
+  },
+  {
+    "nl": "spullen, de",
+    "tr": "şey"
+  },
+  {
+    "nl": "stuk(je), het (per stuk)",
+    "tr": "parça (siz) (parça başına)"
+  },
+  {
+    "nl": "tweedehands",
+    "tr": "ikinci el"
+  },
+  {
+    "nl": "uitgeven*",
+    "tr": "harcamak*"
+  },
+  {
+    "nl": "zak, de",
+    "tr": "çanta"
+  },
+  {
+    "nl": "aantekenen",
+    "tr": "Not almak, kayıt"
+  },
+  {
+    "nl": "afhangen*",
+    "tr": "bağımlı*"
+  },
+  {
+    "nl": "allerlei",
+    "tr": "her türlü"
+  },
+  {
+    "nl": "ambassade, de",
+    "tr": "elçilik"
+  },
+  {
+    "nl": "bepalen",
+    "tr": "belirlemek"
+  },
+  {
+    "nl": "bewijs, het",
+    "tr": "kanıt"
+  },
+  {
+    "nl": "brievenbus, de",
+    "tr": "posta kutusu"
+  },
+  {
+    "nl": "buitenland, het",
+    "tr": "yurt dışı"
+  },
+  {
+    "nl": "De postbezorger",
+    "tr": "Posta dağıtıcısı"
+  },
+  {
+    "nl": "doos, de",
+    "tr": "Kutu"
+  },
+  {
+    "nl": "folder, de",
+    "tr": "el ilanı"
+  },
+  {
+    "nl": "gebeurtenis, de",
+    "tr": "Etkinlik"
+  },
+  {
+    "nl": "gewicht, het",
+    "tr": "ağırlık"
+  },
+  {
+    "nl": "huwelijk, het",
+    "tr": "düğün"
+  },
+  {
+    "nl": "kaart, de",
+    "tr": "Harita"
+  },
+  {
+    "nl": "locatie, de",
+    "tr": "yer"
+  },
+  {
+    "nl": "omdat",
+    "tr": "Çünkü"
+  },
+  {
+    "nl": "ontvangen*",
+    "tr": "teslim almak*"
+  },
+  {
+    "nl": "pakket, het",
+    "tr": "paket"
+  },
+  {
+    "nl": "plakken",
+    "tr": "Yapışmak"
+  },
+  {
+    "nl": "post, de",
+    "tr": "İleti"
+  },
+  {
+    "nl": "postkantoor, het",
+    "tr": "Postane"
+  },
+  {
+    "nl": "postzegel, de",
+    "tr": "pul"
+  },
+  {
+    "nl": "regelmatig",
+    "tr": "düzenli olarak"
+  },
+  {
+    "nl": "tarief, het",
+    "tr": "tarıfe, oran"
+  },
+  {
+    "nl": "versturen",
+    "tr": "göndermek"
+  },
+  {
+    "nl": "visum, het",
+    "tr": "vize"
+  },
+  {
+    "nl": "wegen*",
+    "tr": "tartmak *"
+  },
+  {
+    "nl": "bibliotheek, de",
+    "tr": "kütüphane"
+  },
+  {
+    "nl": "lid, het",
+    "tr": "üye"
+  },
+  {
+    "nl": "openbaar",
+    "tr": "halka açık"
+  },
+  {
+    "nl": "overdag",
+    "tr": "gün boyunca"
+  },
+  {
+    "nl": "balie, de",
+    "tr": "sayaç"
+  },
+  {
+    "nl": "ergens (kan ik u verder nog",
+    "tr": "bir yerde (seni daha ileri götürebilir miyim"
+  },
+  {
+    "nl": "handig",
+    "tr": "işe yarar"
+  },
+  {
+    "nl": "legitimatiebewijs, het",
+    "tr": "ID, it"
+  },
+  {
+    "nl": "liggen*",
+    "tr": "Yalan*"
+  },
+  {
+    "nl": "openen",
+    "tr": "açmak"
+  },
+  {
+    "nl": "pen, de",
+    "tr": "kalem"
+  },
+  {
+    "nl": "rijbewijs, het",
+    "tr": "ehliyet, it"
+  },
+  {
+    "nl": "verschillend",
+    "tr": "farklı"
+  },
+  {
+    "nl": "zo'n",
+    "tr": "boyle bir, hakkında, yaklasık olarak. cok, buyuk"
+  },
+  {
+    "nl": "aangeven*",
+    "tr": "kayıt olmak bir çocuğun doğumu"
+  },
+  {
+    "nl": "aanwezig",
+    "tr": "mevcut, sunmak"
+  },
+  {
+    "nl": "afdeling, de",
+    "tr": "Bölüm"
+  },
+  {
+    "nl": "afval, het",
+    "tr": "atık"
+  },
+  {
+    "nl": "ambtenaar, de",
+    "tr": "subay"
+  },
+  {
+    "nl": "bekendmaken",
+    "tr": "duyurmak, ilan etmek"
+  },
+  {
+    "nl": "bewoner, de",
+    "tr": "yerli, yerlisi"
+  },
+  {
+    "nl": "bezoek, het",
+    "tr": "ziyaret etmek"
+  },
+  {
+    "nl": "buiten",
+    "tr": "Dışarıda"
+  },
+  {
+    "nl": "burgerzaken",
+    "tr": "Sivil İşler"
+  },
+  {
+    "nl": "centraal",
+    "tr": "merkezi"
+  },
+  {
+    "nl": "functie, de",
+    "tr": "durum"
+  },
+  {
+    "nl": "gang, de",
+    "tr": "koridor"
+  },
+  {
+    "nl": "gebeuren",
+    "tr": "gerçekleşmesi için"
+  },
+  {
+    "nl": "geldig",
+    "tr": "geçerli"
+  },
+  {
+    "nl": "gemeente, de",
+    "tr": "İlçe"
+  },
+  {
+    "nl": "gemeentehuis, het",
+    "tr": "belediye binası"
+  },
+  {
+    "nl": "gesloten",
+    "tr": "kapalı"
+  },
+  {
+    "nl": "hetzelfde",
+    "tr": "aynısı"
+  },
+  {
+    "nl": "hoogte, de (op de hoogte",
+    "tr": "yükseklik,"
+  },
+  {
+    "nl": "kopie, de",
+    "tr": "Kopyala"
+  },
+  {
+    "nl": "manier, de",
+    "tr": "yol"
+  },
+  {
+    "nl": "milieu, het",
+    "tr": "çevre, o"
+  },
+  {
+    "nl": "mogelijk",
+    "tr": "mümkün"
+  },
+  {
+    "nl": "ophalen",
+    "tr": "kaldirmak"
+  },
+  {
+    "nl": "papier, het",
+    "tr": "kağıt, o"
+  },
+  {
+    "nl": "plaatsvinden*",
+    "tr": "yer almak*"
+  },
+  {
+    "nl": "punt, het (plaats)",
+    "tr": "nokta, o (yer)"
+  },
+  {
+    "nl": "schoonhouden*",
+    "tr": "Temiz tut*"
+  },
+  {
+    "nl": "schriftelijk",
+    "tr": "yazılı"
+  },
+  {
+    "nl": "sommige",
+    "tr": "biraz"
+  },
+  {
+    "nl": "trekken*",
+    "tr": "çekmek*"
+  },
+  {
+    "nl": "vergeten*",
+    "tr": "unutmak*"
+  },
+  {
+    "nl": "verzamelen",
+    "tr": "toplamak"
+  },
+  {
+    "nl": "voldoende",
+    "tr": "Yeter"
+  },
+  {
+    "nl": "vuilnisbak",
+    "tr": "çöp Kutusu"
+  },
+  {
+    "nl": "zorgen voor",
+    "tr": "sağlamak"
+  },
+  {
+    "nl": "achter elkaar",
+    "tr": "arka arkaya"
+  },
+  {
+    "nl": "bewaren",
+    "tr": "Tut"
+  },
+  {
+    "nl": "bijwerking, de",
+    "tr": "yan etki"
+  },
+  {
+    "nl": "blijven (werken)*",
+    "tr": "çalışmaya devam etmek için) *"
+  },
+  {
+    "nl": "borstvoeding, de",
+    "tr": "Emzirme"
+  },
+  {
+    "nl": "dicht",
+    "tr": "kapat"
+  },
+  {
+    "nl": "dosering",
+    "tr": "dozaj"
+  },
+  {
+    "nl": "droog",
+    "tr": "kuru"
+  },
+  {
+    "nl": "druppel, de",
+    "tr": "düşürmek"
+  },
+  {
+    "nl": "enkel(e)",
+    "tr": "birkaç)"
+  },
+  {
+    "nl": "geneesmiddel, het",
+    "tr": "ilaç"
+  },
+  {
+    "nl": "hoofdpijn, de",
+    "tr": "baş ağrısı"
+  },
+  {
+    "nl": "koorts, de",
+    "tr": "ateş"
+  },
+  {
+    "nl": "maximaal",
+    "tr": "maksimum"
+  },
+  {
+    "nl": "neus, de",
+    "tr": "burun"
+  },
+  {
+    "nl": "ontstaan*",
+    "tr": "kaynak *"
+  },
+  {
+    "nl": "opletten",
+    "tr": "çok dikkat"
+  },
+  {
+    "nl": "overgevoelig",
+    "tr": "aşırı duyarlı"
+  },
+  {
+    "nl": "schade, de",
+    "tr": "hasar"
+  },
+  {
+    "nl": "sluiten*",
+    "tr": "Kapat*"
+  },
+  {
+    "nl": "snuiten* (neus)",
+    "tr": "üflemek * (burun)"
+  },
+  {
+    "nl": "tablet, de",
+    "tr": "tablet"
+  },
+  {
+    "nl": "temperatuur, de",
+    "tr": "sıcaklık"
+  },
+  {
+    "nl": "zwanger",
+    "tr": "hamile"
+  },
+  {
+    "nl": "been, het",
+    "tr": "bacak"
+  },
+  {
+    "nl": "buren, de",
+    "tr": "komşular"
+  },
+  {
+    "nl": "contact opnemen met*",
+    "tr": "İletişim*"
+  },
+  {
+    "nl": "dik",
+    "tr": "şişman"
+  },
+  {
+    "nl": "dokter",
+    "tr": "doktor"
+  },
+  {
+    "nl": "dringend",
+    "tr": "acilen"
+  },
+  {
+    "nl": "gevaar, het",
+    "tr": "Tehlike"
+  },
+  {
+    "nl": "hulp, de",
+    "tr": "Yardım"
+  },
+  {
+    "nl": "knie, de",
+    "tr": "diz"
+  },
+  {
+    "nl": "pijn, de",
+    "tr": "Ağrı"
+  },
+  {
+    "nl": "praktijk, de",
+    "tr": "uygulama"
+  },
+  {
+    "nl": "spoedgeval, het",
+    "tr": "acil Durum"
+  },
+  {
+    "nl": "spreekuur",
+    "tr": "muayene saati"
+  },
+  {
+    "nl": "sterkte",
+    "tr": "çabuk iyileş"
+  },
+  {
+    "nl": "vallen*",
+    "tr": "sonbahar*"
+  },
+  {
+    "nl": "assistente, de",
+    "tr": "asistan"
+  },
+  {
+    "nl": "au",
+    "tr": "au"
+  },
+  {
+    "nl": "binnen",
+    "tr": "içinde"
+  },
+  {
+    "nl": "blijven*",
+    "tr": "kalmak*"
+  },
+  {
+    "nl": "borst, de",
+    "tr": "göğüs"
+  },
+  {
+    "nl": "doodmoe",
+    "tr": "çok yorgun"
+  },
+  {
+    "nl": "gauw",
+    "tr": "yakında"
+  },
+  {
+    "nl": "gevoel, het",
+    "tr": "duygu"
+  },
+  {
+    "nl": "hoesten",
+    "tr": "öksürük"
+  },
+  {
+    "nl": "keel, de",
+    "tr": "boğaz"
+  },
+  {
+    "nl": "klacht, de",
+    "tr": "şikayet"
+  },
+  {
+    "nl": "koffer, de",
+    "tr": "Bavul"
+  },
+  {
+    "nl": "kuur, de (antibioticumkuur)",
+    "tr": "tedavi (antibiyotik tedavisi)"
+  },
+  {
+    "nl": "last hebben van*",
+    "tr": "* muzdarip"
+  },
+  {
+    "nl": "midden",
+    "tr": "orta"
+  },
+  {
+    "nl": "onderzoeken*",
+    "tr": "araştırmak*"
+  },
+  {
+    "nl": "overgaan (pijn, ziekte)*",
+    "tr": "geçmek (ağrı, hastalık) *"
+  },
+  {
+    "nl": "pakken (een koffer)",
+    "tr": "bir bavul hazırla)"
+  },
+  {
+    "nl": "pijnstiller, de",
+    "tr": "Ağrı kesici"
+  },
+  {
+    "nl": "rug, de",
+    "tr": "geri"
+  },
+  {
+    "nl": "sinds",
+    "tr": "dan beri"
+  },
+  {
+    "nl": "vanzelf (dat gaat vanzelf over)",
+    "tr": "kendi kendine (kendi kendine geçer)"
+  },
+  {
+    "nl": "verkouden zijn*",
+    "tr": "soğuk algınlığı*"
+  },
+  {
+    "nl": "verschil, het",
+    "tr": "fark"
+  },
+  {
+    "nl": "voet, de",
+    "tr": "ayak"
+  },
+  {
+    "nl": "voorschrijven*",
+    "tr": "Reçetelemek *"
+  },
+  {
+    "nl": "voorzichtig",
+    "tr": "dikkatli"
+  },
+  {
+    "nl": "vreselijk",
+    "tr": "korkunç"
+  },
+  {
+    "nl": "waarschijnlijk",
+    "tr": "muhtemelen"
+  },
+  {
+    "nl": "zeer doen*",
+    "tr": "incitmek *"
+  },
+  {
+    "nl": "zuchten",
+    "tr": "iç çekmek"
+  },
+  {
+    "nl": "bakken*",
+    "tr": "pişirme *"
+  },
+  {
+    "nl": "boter, de",
+    "tr": "Tereyağı"
+  },
+  {
+    "nl": "buik, de",
+    "tr": "karın"
+  },
+  {
+    "nl": "conditie, de",
+    "tr": "durum"
+  },
+  {
+    "nl": "friet, de",
+    "tr": "kızartma"
+  },
+  {
+    "nl": "gezelligheid, de",
+    "tr": "rahatlık"
+  },
+  {
+    "nl": "gezond",
+    "tr": "sağlıklı"
+  },
+  {
+    "nl": "leven",
+    "tr": "hayat"
+  },
+  {
+    "nl": "olie, de",
+    "tr": "sıvı yağ"
+  },
+  {
+    "nl": "ongezond",
+    "tr": "sağlıksız"
+  },
+  {
+    "nl": "roken",
+    "tr": "sigara içmek"
+  },
+  {
+    "nl": "snoepen",
+    "tr": "atıştırma"
+  },
+  {
+    "nl": "vet, het (vet)",
+    "tr": "yağ (şişman)"
+  },
+  {
+    "nl": "druk",
+    "tr": "meşgul"
+  },
+  {
+    "nl": "kennis, de",
+    "tr": "bilgi"
+  },
+  {
+    "nl": "onderwerp, het",
+    "tr": "konu"
+  },
+  {
+    "nl": "plek, de",
+    "tr": "yer"
+  },
+  {
+    "nl": "regen, de",
+    "tr": "yağmur"
+  },
+  {
+    "nl": "rij, de",
+    "tr": "sıra"
+  },
+  {
+    "nl": "aardig",
+    "tr": "Güzel"
+  },
+  {
+    "nl": "binnenkort",
+    "tr": "yakında"
+  },
+  {
+    "nl": "inderdaad",
+    "tr": "aslında"
+  },
+  {
+    "nl": "moe",
+    "tr": "yorgun"
+  },
+  {
+    "nl": "nergens",
+    "tr": "Hiçbir yerde"
+  },
+  {
+    "nl": "ruzie, de",
+    "tr": "kavga"
+  },
+  {
+    "nl": "zorgen (zich zorgen maken over)",
+    "tr": "endişelenmek (endişelenmek)"
+  },
+  {
+    "nl": "band, de (familie)",
+    "tr": "grup (aile)"
+  },
+  {
+    "nl": "dood",
+    "tr": "ölüm"
+  },
+  {
+    "nl": "eenzaam",
+    "tr": "yalnız"
+  },
+  {
+    "nl": "familielid, het",
+    "tr": "aile üyesi"
+  },
+  {
+    "nl": "kleinkind, het",
+    "tr": "torun"
+  },
+  {
+    "nl": "los",
+    "tr": "gevşek"
+  },
+  {
+    "nl": "missen",
+    "tr": "özlemek"
+  },
+  {
+    "nl": "neef, de",
+    "tr": "hala kızı"
+  },
+  {
+    "nl": "nicht, de",
+    "tr": "yeğen"
+  },
+  {
+    "nl": "oma, de",
+    "tr": "Nene"
+  },
+  {
+    "nl": "oom, de",
+    "tr": "amca dayı"
+  },
+  {
+    "nl": "opa, de",
+    "tr": "büyükbaba"
+  },
+  {
+    "nl": "samen",
+    "tr": "birlikte"
+  },
+  {
+    "nl": "schoonmoeder, de",
+    "tr": "Kayınvalide"
+  },
+  {
+    "nl": "schoonvader, de",
+    "tr": "kayınpeder"
+  },
+  {
+    "nl": "schoonzus, de",
+    "tr": "Baldız"
+  },
+  {
+    "nl": "spelen",
+    "tr": "Oyna"
+  },
+  {
+    "nl": "sterk",
+    "tr": "kuvvetli"
+  },
+  {
+    "nl": "tante, de",
+    "tr": "teyze"
+  },
+  {
+    "nl": "vroeger",
+    "tr": "günler içinde"
+  },
+  {
+    "nl": "zwager, de",
+    "tr": "kayınbirader"
+  },
+  {
+    "nl": "aantrekkelijk",
+    "tr": "çekici"
+  },
+  {
+    "nl": "alleenstaand",
+    "tr": "tek"
+  },
+  {
+    "nl": "belangstelling, de",
+    "tr": "faiz"
+  },
+  {
+    "nl": "eerlijk",
+    "tr": "adil"
+  },
+  {
+    "nl": "genieten*",
+    "tr": "eğlenmek*"
+  },
+  {
+    "nl": "huidskleur",
+    "tr": "ten rengi"
+  },
+  {
+    "nl": "humor, de",
+    "tr": "Mizah"
+  },
+  {
+    "nl": "iemand",
+    "tr": "birisi"
+  },
+  {
+    "nl": "inmiddels",
+    "tr": "o esnada"
+  },
+  {
+    "nl": "interesse, de",
+    "tr": "faiz"
+  },
+  {
+    "nl": "karakter, het",
+    "tr": "karakter"
+  },
+  {
+    "nl": "lief",
+    "tr": "tatlı"
+  },
+  {
+    "nl": "liefde, de",
+    "tr": "Aşk"
+  },
+  {
+    "nl": "omgeving, de",
+    "tr": "çevre"
+  },
+  {
+    "nl": "persoon, de",
+    "tr": "kişi"
+  },
+  {
+    "nl": "relatie, de",
+    "tr": "ilişki"
+  },
+  {
+    "nl": "scheiden*",
+    "tr": "boşanma*"
+  },
+  {
+    "nl": "serieus",
+    "tr": "ciddi"
+  },
+  {
+    "nl": "slank",
+    "tr": "ince"
+  },
+  {
+    "nl": "spontaan",
+    "tr": "doğal"
+  },
+  {
+    "nl": "sterven*",
+    "tr": "ölmek*"
+  },
+  {
+    "nl": "toen",
+    "tr": "sonra"
+  },
+  {
+    "nl": "trouw",
+    "tr": "sadık"
+  },
+  {
+    "nl": "vast (vaste relatie)",
+    "tr": "sabit (sabit ilişki)"
+  },
+  {
+    "nl": "verantwoordelijk",
+    "tr": "sorumluluk sahibi"
+  },
+  {
+    "nl": "verlegen",
+    "tr": "utangaç"
+  },
+  {
+    "nl": "verwennen",
+    "tr": "şımartmak"
+  },
+  {
+    "nl": "verzorgd",
+    "tr": "yemekli"
+  },
+  {
+    "nl": "vorig",
+    "tr": "son"
+  },
+  {
+    "nl": "vrijgezel, de",
+    "tr": "Tek"
+  },
+  {
+    "nl": "wandelen",
+    "tr": "yürümek"
+  },
+  {
+    "nl": "als",
+    "tr": "gibi"
+  },
+  {
+    "nl": "architect, de",
+    "tr": "mimar"
+  },
+  {
+    "nl": "basisschool",
+    "tr": "ilkokul"
+  },
+  {
+    "nl": "beroep, het",
+    "tr": "meslek"
+  },
+  {
+    "nl": "duur, de",
+    "tr": "pahalı"
+  },
+  {
+    "nl": "havo, de",
+    "tr": "Havo"
+  },
+  {
+    "nl": "hbo, het",
+    "tr": "HBO"
+  },
+  {
+    "nl": "jongere, de",
+    "tr": "daha genç"
+  },
+  {
+    "nl": "kok, de",
+    "tr": "pişirmek"
+  },
+  {
+    "nl": "leraar, de",
+    "tr": "öğretmen"
+  },
+  {
+    "nl": "leren",
+    "tr": "öğrenmek"
+  },
+  {
+    "nl": "maatschappelijk werker, de",
+    "tr": "sosyal hizmet uzmanı"
+  },
+  {
+    "nl": "mbo, het",
+    "tr": "MBO"
+  },
+  {
+    "nl": "meevallen*",
+    "tr": "beklenenden daha iyi *"
+  },
+  {
+    "nl": "middelbaar (middelbare school)",
+    "tr": "ortaokul (lise)"
+  },
+  {
+    "nl": "niveau, het",
+    "tr": "seviye"
+  },
+  {
+    "nl": "onderwijs, het",
+    "tr": "Eğitim"
+  },
+  {
+    "nl": "piloot, de",
+    "tr": "pilot"
+  },
+  {
+    "nl": "theoretisch",
+    "tr": "teorik"
+  },
+  {
+    "nl": "verpleegkunde, de",
+    "tr": "hemşire"
+  },
+  {
+    "nl": "vmbo, het",
+    "tr": "VMBO"
+  },
+  {
+    "nl": "vooropleiding, de",
+    "tr": "ön eğitim"
+  },
+  {
+    "nl": "vwo, het",
+    "tr": "VWO"
+  },
+  {
+    "nl": "wetenschappelijk",
+    "tr": "ilmi"
+  },
+  {
+    "nl": "afstuderen",
+    "tr": "mezun olmak"
+  },
+  {
+    "nl": "baan, de",
+    "tr": "iş"
+  },
+  {
+    "nl": "biologie, de",
+    "tr": "Biyoloji"
+  },
+  {
+    "nl": "economie, de",
+    "tr": "ekonomi"
+  },
+  {
+    "nl": "Engels",
+    "tr": "ingilizce"
+  },
+  {
+    "nl": "geleden",
+    "tr": "önce"
+  },
+  {
+    "nl": "geneeskunde, de",
+    "tr": "ilaç"
+  },
+  {
+    "nl": "hogeschool, de",
+    "tr": "Üniversite"
+  },
+  {
+    "nl": "opeens",
+    "tr": "aniden"
+  },
+  {
+    "nl": "opnieuw",
+    "tr": "tekrar"
+  },
+  {
+    "nl": "stap, de",
+    "tr": "adım"
+  },
+  {
+    "nl": "stom",
+    "tr": "Aptal"
+  },
+  {
+    "nl": "studie, de",
+    "tr": "ders çalışma"
+  },
+  {
+    "nl": "terwijl",
+    "tr": "süre"
+  },
+  {
+    "nl": "toekomst, de",
+    "tr": "gelecek"
+  },
+  {
+    "nl": "verleden, het",
+    "tr": "geçmiş"
+  },
+  {
+    "nl": "beoordelen",
+    "tr": "hakim"
+  },
+  {
+    "nl": "gesprek, het",
+    "tr": "konuşma"
+  },
+  {
+    "nl": "gymnastiek, de",
+    "tr": "Jimnastik"
+  },
+  {
+    "nl": "huiswerk, het",
+    "tr": "Ev ödevi"
+  },
+  {
+    "nl": "komst, de (bedankt voor uw",
+    "tr": "geliyor (senin için teşekkürler"
+  },
+  {
+    "nl": "matig",
+    "tr": "vasat"
+  },
+  {
+    "nl": "meegeven*",
+    "tr": "ver *"
+  },
+  {
+    "nl": "meester, de (school)",
+    "tr": "usta (okul)"
+  },
+  {
+    "nl": "onvoldoende",
+    "tr": "yetersiz"
+  },
+  {
+    "nl": "prestatie, de",
+    "tr": "verim"
+  },
+  {
+    "nl": "rapport, het",
+    "tr": "bildiri"
+  },
+  {
+    "nl": "rekenen, het",
+    "tr": "hesaplamak"
+  },
+  {
+    "nl": "samenwerken",
+    "tr": "işbirliği yapmak"
+  },
+  {
+    "nl": "sociaal",
+    "tr": "sosyal"
+  },
+  {
+    "nl": "taal, de",
+    "tr": "dil"
+  },
+  {
+    "nl": "tekenen",
+    "tr": "çizmek"
+  },
+  {
+    "nl": "tempo, het",
+    "tr": "hız"
+  },
+  {
+    "nl": "uitstekend",
+    "tr": "mükemmel"
+  },
+  {
+    "nl": "vak, het",
+    "tr": "alan"
+  },
+  {
+    "nl": "voldoende, de",
+    "tr": "Yeter"
+  },
+  {
+    "nl": "aanpakken",
+    "tr": "ele almak"
+  },
+  {
+    "nl": "actief",
+    "tr": "aktif"
+  },
+  {
+    "nl": "begrijpen *",
+    "tr": "anlama *"
+  },
+  {
+    "nl": "controleren",
+    "tr": "kontrol etmek"
+  },
+  {
+    "nl": "hard",
+    "tr": "zor"
+  },
+  {
+    "nl": "juffrouw, de (school)",
+    "tr": "Okulu özlemek)"
+  },
+  {
+    "nl": "leerling, de",
+    "tr": "öğrenci"
+  },
+  {
+    "nl": "leren",
+    "tr": "öğrenmek"
+  },
+  {
+    "nl": "mening, de",
+    "tr": "fikir"
+  },
+  {
+    "nl": "motivatie, de",
+    "tr": "motivasyon"
+  },
+  {
+    "nl": "radio, de",
+    "tr": "radyo"
+  },
+  {
+    "nl": "tevreden",
+    "tr": "memnun"
+  },
+  {
+    "nl": "uitspreken*",
+    "tr": "Telaffuz etmek *"
+  },
+  {
+    "nl": "zeuren",
+    "tr": "sızlanmak"
+  },
+  {
+    "nl": "activiteit, de",
+    "tr": "aktivite"
+  },
+  {
+    "nl": "bekend",
+    "tr": "bilinen"
+  },
+  {
+    "nl": "concert, het",
+    "tr": "konser"
+  },
+  {
+    "nl": "cultureel",
+    "tr": "kültürel"
+  },
+  {
+    "nl": "dansen",
+    "tr": "dans"
+  },
+  {
+    "nl": "keuze, de",
+    "tr": "tercih"
+  },
+  {
+    "nl": "kunst, de",
+    "tr": "Sanat"
+  },
+  {
+    "nl": "literatuur, de",
+    "tr": "Edebiyat"
+  },
+  {
+    "nl": "museum, het",
+    "tr": "müze"
+  },
+  {
+    "nl": "orkest, het",
+    "tr": "orkestra"
+  },
+  {
+    "nl": "reserveren",
+    "tr": "rezerve etmek"
+  },
+  {
+    "nl": "theater, het",
+    "tr": "tiyatro"
+  },
+  {
+    "nl": "wandeling, de",
+    "tr": "yürümek"
+  },
+  {
+    "nl": "zingen*",
+    "tr": "şarkı söylemek*"
+  },
+  {
+    "nl": "abstract",
+    "tr": "Öz"
+  },
+  {
+    "nl": "afgesproken",
+    "tr": "kabul"
+  },
+  {
+    "nl": "beroemd",
+    "tr": "tanınmış"
+  },
+  {
+    "nl": "expressief",
+    "tr": "anlamlı"
+  },
+  {
+    "nl": "festival, het",
+    "tr": "Festival"
+  },
+  {
+    "nl": "figuratief",
+    "tr": "mecazi"
+  },
+  {
+    "nl": "gek",
+    "tr": "çılgın"
+  },
+  {
+    "nl": "hangen*",
+    "tr": "takılmak*"
+  },
+  {
+    "nl": "helder",
+    "tr": "parlak"
+  },
+  {
+    "nl": "hoogtepunt, het",
+    "tr": "Vurgulamak"
+  },
+  {
+    "nl": "klinken*",
+    "tr": "ses*"
+  },
+  {
+    "nl": "kunstenaar, de",
+    "tr": "sanatçı"
+  },
+  {
+    "nl": "lelijk",
+    "tr": "çirkin"
+  },
+  {
+    "nl": "licht, het",
+    "tr": "ışık"
+  },
+  {
+    "nl": "lijn, de",
+    "tr": "hat"
+  },
+  {
+    "nl": "ongelofelijk",
+    "tr": "Inanılmaz"
+  },
+  {
+    "nl": "ontwikkeling, de",
+    "tr": "geliştirme"
+  },
+  {
+    "nl": "realistisch",
+    "tr": "gerçekçi"
+  },
+  {
+    "nl": "saai",
+    "tr": "sıkıcı"
+  },
+  {
+    "nl": "schilderen",
+    "tr": "Boya"
+  },
+  {
+    "nl": "schilderij, het",
+    "tr": "boyama"
+  },
+  {
+    "nl": "schrijver, de",
+    "tr": "yazar"
+  },
+  {
+    "nl": "stip, de",
+    "tr": "nokta"
+  },
+  {
+    "nl": "strak (strakke lijnen)",
+    "tr": "sıkı (temiz çizgiler)"
+  },
+  {
+    "nl": "streep, de",
+    "tr": "şerit"
+  },
+  {
+    "nl": "tentoonstelling, de",
+    "tr": "sergi"
+  },
+  {
+    "nl": "trouwens",
+    "tr": "dışında"
+  },
+  {
+    "nl": "uitdrukken",
+    "tr": "ifade etmek"
+  },
+  {
+    "nl": "veranderen",
+    "tr": "değişiklik"
+  },
+  {
+    "nl": "zanger, de",
+    "tr": "şarkıcı"
+  },
+  {
+    "nl": "arbeid, de",
+    "tr": "emek"
+  },
+  {
+    "nl": "boodschap, de",
+    "tr": "İleti"
+  },
+  {
+    "nl": "Delfts blauw",
+    "tr": "Delft mavi"
+  },
+  {
+    "nl": "gedicht, het",
+    "tr": "şiir"
+  },
+  {
+    "nl": "grappig",
+    "tr": "komik"
+  },
+  {
+    "nl": "krachtig",
+    "tr": "güçlü"
+  },
+  {
+    "nl": "muur, de",
+    "tr": "duvar"
+  },
+  {
+    "nl": "spreekwoord, het",
+    "tr": "atasözü"
+  },
+  {
+    "nl": "tegel, de",
+    "tr": "fayans"
+  },
+  {
+    "nl": "vertellen",
+    "tr": "söylemek"
+  },
+  {
+    "nl": "waarheid, de",
+    "tr": "hakikat"
+  },
+  {
+    "nl": "zin, de",
+    "tr": "duyu"
+  },
+  {
+    "nl": "breed",
+    "tr": "geniş"
+  },
+  {
+    "nl": "dak, het",
+    "tr": "çatı"
+  },
+  {
+    "nl": "eeuw, de",
+    "tr": "yüzyıl"
+  },
+  {
+    "nl": "gek worden van*",
+    "tr": "delirmek *"
+  },
+  {
+    "nl": "gracht, de",
+    "tr": "kanal"
+  },
+  {
+    "nl": "modern",
+    "tr": "modern"
+  },
+  {
+    "nl": "plat",
+    "tr": "düz"
+  },
+  {
+    "nl": "recht",
+    "tr": "Düz"
+  },
+  {
+    "nl": "rond (vorm)",
+    "tr": "yuvarlak biçimde)"
+  },
+  {
+    "nl": "roze",
+    "tr": "pembe"
+  },
+  {
+    "nl": "schuin",
+    "tr": "eğik"
+  },
+  {
+    "nl": "smal",
+    "tr": "dar"
+  },
+  {
+    "nl": "toren, de",
+    "tr": "kule"
+  },
+  {
+    "nl": "administratie, de",
+    "tr": "yönetim"
+  },
+  {
+    "nl": "afhankelijk",
+    "tr": "bağımlı"
+  },
+  {
+    "nl": "bestaan uit*",
+    "tr": "oluşur *"
+  },
+  {
+    "nl": "bestelling, de",
+    "tr": "sipariş"
+  },
+  {
+    "nl": "bewerken",
+    "tr": "Düzenle"
+  },
+  {
+    "nl": "blad, het",
+    "tr": "çarşaf"
+  },
+  {
+    "nl": "direct",
+    "tr": "hemen"
+  },
+  {
+    "nl": "eng",
+    "tr": "korkutucu"
+  },
+  {
+    "nl": "enthousiast",
+    "tr": "hevesli"
+  },
+  {
+    "nl": "hekel (een hekel hebben aan)",
+    "tr": "nefret (nefret)"
+  },
+  {
+    "nl": "hetzij ... hetzij",
+    "tr": "hemen hemen"
+  },
+  {
+    "nl": "hoofdkantoor, het",
+    "tr": "Merkez"
+  },
+  {
+    "nl": "momenteel",
+    "tr": "şu anda"
+  },
+  {
+    "nl": "ontwerp, het",
+    "tr": "tasarım"
+  },
+  {
+    "nl": "samenstellen",
+    "tr": "derlemek"
+  },
+  {
+    "nl": "secretaresse, de",
+    "tr": "Sekreter"
+  },
+  {
+    "nl": "slag, de",
+    "tr": "savaş"
+  },
+  {
+    "nl": "streng",
+    "tr": "katı"
+  },
+  {
+    "nl": "uiteindelijk",
+    "tr": "Sonunda"
+  },
+  {
+    "nl": "vertalen",
+    "tr": "Çevirmek"
+  },
+  {
+    "nl": "voorbereiden",
+    "tr": "hazırlamak"
+  },
+  {
+    "nl": "werkzaamheden, de",
+    "tr": "aktiviteler"
+  },
+  {
+    "nl": "zoals",
+    "tr": "gibi"
+  },
+  {
+    "nl": "ervaring, de",
+    "tr": "deneyim"
+  },
+  {
+    "nl": "huishouden, het",
+    "tr": "ev halkı"
+  },
+  {
+    "nl": "inhouden (betekenen)*",
+    "tr": "dahil (ortalama) *"
+  },
+  {
+    "nl": "klaarmaken",
+    "tr": "Hazırlamak"
+  },
+  {
+    "nl": "medewerker, de",
+    "tr": "işbirlikçi"
+  },
+  {
+    "nl": "personeel, het",
+    "tr": "Personel"
+  },
+  {
+    "nl": "raar",
+    "tr": "tuhaf"
+  },
+  {
+    "nl": "rond (tijd: rond half drie)",
+    "tr": "civarında (zaman: yaklaşık iki buçuk)"
+  },
+  {
+    "nl": "schoonmaken",
+    "tr": "temizlemek"
+  },
+  {
+    "nl": "thuiszorg, de",
+    "tr": "Evde bakım"
+  },
+  {
+    "nl": "uitzendbureau, het",
+    "tr": "iş bulma kurumu"
+  },
+  {
+    "nl": "vergadering, de",
+    "tr": "toplantı"
+  },
+  {
+    "nl": "vervolgens",
+    "tr": "ondan sonra"
+  },
+  {
+    "nl": "wekker, de",
+    "tr": "alarm saati"
+  },
+  {
+    "nl": "bevatten",
+    "tr": "içeren"
+  },
+  {
+    "nl": "bieden*",
+    "tr": "teklif*"
+  },
+  {
+    "nl": "bureau, het",
+    "tr": "sıra"
+  },
+  {
+    "nl": "cv, het (curriculum vitae)",
+    "tr": "CV (özgeçmiş)"
+  },
+  {
+    "nl": "eis, de",
+    "tr": "gereksinim"
+  },
+  {
+    "nl": "hopen",
+    "tr": "Umut etmek"
+  },
+  {
+    "nl": "inhouden*",
+    "tr": "içerir *"
+  },
+  {
+    "nl": "kantoor, het",
+    "tr": "ofis"
+  },
+  {
+    "nl": "minimaal",
+    "tr": "en az"
+  },
+  {
+    "nl": "mondeling",
+    "tr": "Oral"
+  },
+  {
+    "nl": "overzicht, het",
+    "tr": "genel bakış"
+  },
+  {
+    "nl": "seizoen, het",
+    "tr": "mevsim"
+  },
+  {
+    "nl": "sfeer, de",
+    "tr": "ortam"
+  },
+  {
+    "nl": "sollicitant, de",
+    "tr": "başvuru sahibi"
+  },
+  {
+    "nl": "solliciteren",
+    "tr": "Uygulamak"
+  },
+  {
+    "nl": "tip, de",
+    "tr": "İpucu"
+  },
+  {
+    "nl": "vloeiend",
+    "tr": "Akan"
+  },
+  {
+    "nl": "bedrijf, het",
+    "tr": "şirket"
+  },
+  {
+    "nl": "bruto",
+    "tr": "brüt"
+  },
+  {
+    "nl": "buurt, de",
+    "tr": "Komşuluk"
+  },
+  {
+    "nl": "gast, de",
+    "tr": "misafir"
+  },
+  {
+    "nl": "geschikt",
+    "tr": "Uygun"
+  },
+  {
+    "nl": "receptioniste, de",
+    "tr": "resepsiyonist"
+  },
+  {
+    "nl": "reclamebureau, het",
+    "tr": "tanıtım ajansı"
+  },
+  {
+    "nl": "ster, de (vijf sterren hotel)",
+    "tr": "yıldız (beş yıldızlı otel)"
+  },
+  {
+    "nl": "telefoniste, de",
+    "tr": "Şebeke"
+  },
+  {
+    "nl": "verzorger, de",
+    "tr": "BAKICI"
+  },
+  {
+    "nl": "werknemer, de",
+    "tr": "işçi"
+  },
+  {
+    "nl": "aan boord",
+    "tr": "tahtada"
+  },
+  {
+    "nl": "achtergrond, de",
+    "tr": "arka fon"
+  },
+  {
+    "nl": "bemanningslid, het",
+    "tr": "mürettebat üyesi"
+  },
+  {
+    "nl": "bericht, het (nieuwsbericht)",
+    "tr": "mesaj (haber öğesi)"
+  },
+  {
+    "nl": "generatie, de",
+    "tr": "nesil"
+  },
+  {
+    "nl": "gewond (raken)",
+    "tr": "yaralanmak)"
+  },
+  {
+    "nl": "gezondheid, de",
+    "tr": "sağlık"
+  },
+  {
+    "nl": "inademen",
+    "tr": "nefes almak"
+  },
+  {
+    "nl": "infectie, de",
+    "tr": "enfeksiyon"
+  },
+  {
+    "nl": "inzittende, de",
+    "tr": "yolcu"
+  },
+  {
+    "nl": "kanker",
+    "tr": "kanser"
+  },
+  {
+    "nl": "krantenkop, de",
+    "tr": "Gazete başlığı"
+  },
+  {
+    "nl": "longen, de",
+    "tr": "akciğerler"
+  },
+  {
+    "nl": "migratie, de",
+    "tr": "göç"
+  },
+  {
+    "nl": "neerstorten",
+    "tr": "çökmek"
+  },
+  {
+    "nl": "onderzoeker, de",
+    "tr": "araştırmacı"
+  },
+  {
+    "nl": "ongeluk, het",
+    "tr": "kaza"
+  },
+  {
+    "nl": "opnemen* (in een ziekenhuis)",
+    "tr": "kabul * (hastanede)"
+  },
+  {
+    "nl": "overleven",
+    "tr": "hayatta kalmak"
+  },
+  {
+    "nl": "publiceren",
+    "tr": "yayımlamak"
+  },
+  {
+    "nl": "speelplaats, de",
+    "tr": "oyun alanı"
+  },
+  {
+    "nl": "tabak, de",
+    "tr": "tütün"
+  },
+  {
+    "nl": "uurloon, het",
+    "tr": "saatlik ücret"
+  },
+  {
+    "nl": "vallen* (er vallen doden)",
+    "tr": "düş * (ölümler var)"
+  },
+  {
+    "nl": "verklaren",
+    "tr": "ilan etmek"
+  },
+  {
+    "nl": "verzwakt",
+    "tr": "ayrılmış"
+  },
+  {
+    "nl": "volwassene, de",
+    "tr": "yetişkin"
+  },
+  {
+    "nl": "wereld, de",
+    "tr": "dünya"
+  },
+  {
+    "nl": "band, de (auto, fiets)",
+    "tr": "lastik (araba, bisiklet)"
+  },
+  {
+    "nl": "doorgaan*",
+    "tr": "Bin*"
+  },
+  {
+    "nl": "doorgeven*",
+    "tr": "geçmek *"
+  },
+  {
+    "nl": "geval, het",
+    "tr": "durum"
+  },
+  {
+    "nl": "herhaling, de",
+    "tr": "tekrar et"
+  },
+  {
+    "nl": "knooppunt, het (verkeer)",
+    "tr": "kavşak (trafik)"
+  },
+  {
+    "nl": "lek",
+    "tr": "sızıntı"
+  },
+  {
+    "nl": "mededeling, de",
+    "tr": "Beyan"
+  },
+  {
+    "nl": "menen",
+    "tr": "anlamına gelmek"
+  },
+  {
+    "nl": "op weg zijn naar*",
+    "tr": "yolda olmak *"
+  },
+  {
+    "nl": "perron, het",
+    "tr": "platform"
+  },
+  {
+    "nl": "reiziger, de",
+    "tr": "gezgin"
+  },
+  {
+    "nl": "rekening houden met*",
+    "tr": "dikkate almak*"
+  },
+  {
+    "nl": "rennen",
+    "tr": "Çalıştırmak"
+  },
+  {
+    "nl": "stilstaan*",
+    "tr": "sabit dur *"
+  },
+  {
+    "nl": "technisch",
+    "tr": "teknik"
+  },
+  {
+    "nl": "verschijnen*",
+    "tr": "göstermek için*"
+  },
+  {
+    "nl": "verschrikkelijk",
+    "tr": "korkunç"
+  },
+  {
+    "nl": "vertraging, de",
+    "tr": "gecikme"
+  },
+  {
+    "nl": "vervoer, het",
+    "tr": "Ulaşım"
+  },
+  {
+    "nl": "wegens",
+    "tr": "Nedeniyle"
+  },
+  {
+    "nl": "zich ergeren aan iets",
+    "tr": "bir şeyden rahatsız olmak"
+  },
+  {
+    "nl": "af en toe",
+    "tr": "bazen"
+  },
+  {
+    "nl": "afkoelen",
+    "tr": "soğuma"
+  },
+  {
+    "nl": "afnemen*",
+    "tr": "azaltmak*"
+  },
+  {
+    "nl": "afwisseling, de",
+    "tr": "Çeşitlilik"
+  },
+  {
+    "nl": "behoorlijk",
+    "tr": "oldukça"
+  },
+  {
+    "nl": "bewolkt",
+    "tr": "bulutlu"
+  },
+  {
+    "nl": "bui, de",
+    "tr": "duş"
+  },
+  {
+    "nl": "dooien",
+    "tr": "çözülmek"
+  },
+  {
+    "nl": "erg",
+    "tr": "çok"
+  },
+  {
+    "nl": "gedoe, het",
+    "tr": "güçlük"
+  },
+  {
+    "nl": "graad, de",
+    "tr": "derece"
+  },
+  {
+    "nl": "heel (heel mooi)",
+    "tr": "çok çok güzel)"
+  },
+  {
+    "nl": "ijs",
+    "tr": "buz"
+  },
+  {
+    "nl": "kans, de (kans op)",
+    "tr": "şans (şansı)"
+  },
+  {
+    "nl": "koud",
+    "tr": "soğuk"
+  },
+  {
+    "nl": "onweer, het",
+    "tr": "fırtına"
+  },
+  {
+    "nl": "oosten, het",
+    "tr": "Doğu"
+  },
+  {
+    "nl": "opklaring, de",
+    "tr": "Boşluk"
+  },
+  {
+    "nl": "paraplu, de",
+    "tr": "şemsiye"
+  },
+  {
+    "nl": "plant, de",
+    "tr": "bitki"
+  },
+  {
+    "nl": "schijnen*",
+    "tr": "parlamak*"
+  },
+  {
+    "nl": "sneeuw, de",
+    "tr": "kar"
+  },
+  {
+    "nl": "stevig (onweersbuien)",
+    "tr": "güçlü (gök gürültülü fırtına)"
+  },
+  {
+    "nl": "storm, de",
+    "tr": "fırtına"
+  },
+  {
+    "nl": "terras, het",
+    "tr": "teras"
+  },
+  {
+    "nl": "uitdrukking, de",
+    "tr": "ifade"
+  },
+  {
+    "nl": "voorjaar, het",
+    "tr": "ilkbahar"
+  },
+  {
+    "nl": "voorlopig",
+    "tr": "şu an için"
+  },
+  {
+    "nl": "vriezen*",
+    "tr": "donmak*"
+  },
+  {
+    "nl": "vrolijk",
+    "tr": "neşeli"
+  },
+  {
+    "nl": "waaien",
+    "tr": "darbe"
+  },
+  {
+    "nl": "weer, het",
+    "tr": "hava"
+  },
+  {
+    "nl": "weersverwachting, de",
+    "tr": "hava Durumu tahmini"
+  },
+  {
+    "nl": "wennen aan",
+    "tr": "alışmak"
+  },
+  {
+    "nl": "westen, het",
+    "tr": "Batı"
+  },
+  {
+    "nl": "wind, de",
+    "tr": "rüzgar"
+  },
+  {
+    "nl": "winter, de",
+    "tr": "kış"
+  },
+  {
+    "nl": "wisselvallig",
+    "tr": "vur ve ıskala"
+  },
+  {
+    "nl": "wolk, de",
+    "tr": "bulut"
+  },
+  {
+    "nl": "wolkenvelden, de",
+    "tr": "bulut alanları"
+  },
+  {
+    "nl": "zomer, de",
+    "tr": "yaz"
+  },
+  {
+    "nl": "zon, de",
+    "tr": "Güneş"
+  },
+  {
+    "nl": "altijd",
+    "tr": "her zaman"
+  },
+  {
+    "nl": "impulsief",
+    "tr": "dürtüsel"
+  },
+  {
+    "nl": "nadenken* (over)",
+    "tr": "hakkında düşün)"
+  },
+  {
+    "nl": "allemaal",
+    "tr": "hepsi"
+  },
+  {
+    "nl": "overal",
+    "tr": "her yerde"
+  },
+  {
+    "nl": "aanvragen*",
+    "tr": "talep etmek*"
+  },
+  {
+    "nl": "nodig hebben*",
+    "tr": "ihtiyaç*"
+  },
+  {
+    "nl": "opzoeken*",
+    "tr": "bakmak için *"
+  },
+  {
+    "nl": "pasfoto, de",
+    "tr": "pasaport fotoğrafı"
+  },
+  {
+    "nl": "paspoort, het",
+    "tr": "pasaport"
+  },
+  {
+    "nl": "rekening, de (bankrekening)",
+    "tr": "hesap (banka hesabı)"
+  },
+  {
+    "nl": "sturen",
+    "tr": "göndermek"
+  },
+  {
+    "nl": "zwaar",
+    "tr": "ağır"
+  },
+  {
+    "nl": "apotheek, de",
+    "tr": "eczane"
+  },
+  {
+    "nl": "medicijn, het",
+    "tr": "ilaç"
+  },
+  {
+    "nl": "recept, het (van de dokter)",
+    "tr": "reçete (doktordan)"
+  },
+  {
+    "nl": "ziek",
+    "tr": "hasta"
+  },
+  {
+    "nl": "aanzetten",
+    "tr": "açmak"
+  },
+  {
+    "nl": "stoppen",
+    "tr": "Dur"
+  },
+  {
+    "nl": "strand, het",
+    "tr": "plaj"
+  },
+  {
+    "nl": "thuiskomen*",
+    "tr": "eve geliyor *"
+  },
+  {
+    "nl": "duinen, de",
+    "tr": "kum tepeleri"
+  },
+  {
+    "nl": "klikken (het klikt)",
+    "tr": "tıklama (tıklar)"
+  },
+  {
+    "nl": "klomp, de",
+    "tr": "Ahşap ayakkabı"
+  },
+  {
+    "nl": "ontmoeten",
+    "tr": "Tanışın"
+  },
+  {
+    "nl": "ouder, de",
+    "tr": "daha eski"
+  },
+  {
+    "nl": "overweg kunnen met*",
+    "tr": "iyi anlaşmak*"
+  },
+  {
+    "nl": "visite, de",
+    "tr": "ziyaret etmek"
+  },
+  {
+    "nl": "aardig",
+    "tr": "Güzel"
+  },
+  {
+    "nl": "accepteren",
+    "tr": "kabul etmek"
+  },
+  {
+    "nl": "besluiten*",
+    "tr": "karar ver*"
+  },
+  {
+    "nl": "ideaal",
+    "tr": "ideal"
+  },
+  {
+    "nl": "ideaalbeeld",
+    "tr": "ideal görüntü"
+  },
+  {
+    "nl": "kant",
+    "tr": "yan"
+  },
+  {
+    "nl": "lachen*",
+    "tr": "gülmek*"
+  },
+  {
+    "nl": "negatief",
+    "tr": "olumsuz"
+  },
+  {
+    "nl": "positief",
+    "tr": "pozitif"
+  },
+  {
+    "nl": "punt, het",
+    "tr": "nokta"
+  },
+  {
+    "nl": "resultaat, het",
+    "tr": "sonuç"
+  },
+  {
+    "nl": "verwachten",
+    "tr": "beklemek"
+  },
+  {
+    "nl": "bewegen *",
+    "tr": "taşımak *"
+  },
+  {
+    "nl": "bezig zijn met*",
+    "tr": "ile meşgul olmak *"
+  },
+  {
+    "nl": "fysiotherapie, de",
+    "tr": "fizyoterapi"
+  },
+  {
+    "nl": "horen",
+    "tr": "duymak"
+  },
+  {
+    "nl": "interessant",
+    "tr": "ilginç"
+  },
+  {
+    "nl": "oefenen",
+    "tr": "pratik yapmak"
+  },
+  {
+    "nl": "omgaan met*",
+    "tr": "üstesinden gelmek*"
+  },
+  {
+    "nl": "opleiding, de",
+    "tr": "Eğitim"
+  },
+  {
+    "nl": "patiënt, de",
+    "tr": "hasta"
+  },
+  {
+    "nl": "schouder, de",
+    "tr": "omuz"
+  },
+  {
+    "nl": "spier, de",
+    "tr": "kas"
+  },
+  {
+    "nl": "theorie, de",
+    "tr": "teori"
+  },
+  {
+    "nl": "uitleggen",
+    "tr": "açıklamak"
+  },
+  {
+    "nl": "kritisch",
+    "tr": "kritik"
+  },
+  {
+    "nl": "discipline, de",
+    "tr": "disiplin"
+  },
+  {
+    "nl": "hobby, de",
+    "tr": "hobi"
+  },
+  {
+    "nl": "letten op",
+    "tr": "dikkat et"
+  },
+  {
+    "nl": "regisseur, de",
+    "tr": "yönetmen"
+  },
+  {
+    "nl": "selecteren",
+    "tr": "Seçme"
+  },
+  {
+    "nl": "zowel ... als",
+    "tr": "Hem de"
+  },
+  {
+    "nl": "armoede, de",
+    "tr": "yoksulluk"
+  },
+  {
+    "nl": "bewust",
+    "tr": "bilinçli olarak"
+  },
+  {
+    "nl": "combineren",
+    "tr": "birleştirmek"
+  },
+  {
+    "nl": "daardoor",
+    "tr": "bu nedenle"
+  },
+  {
+    "nl": "doorgaan met*",
+    "tr": "devam et*"
+  },
+  {
+    "nl": "na een tijdje",
+    "tr": "bir süre sonra"
+  },
+  {
+    "nl": "optreden, het",
+    "tr": "verim"
+  },
+  {
+    "nl": "publiek, het",
+    "tr": "seyirci"
+  },
+  {
+    "nl": "recht, het",
+    "tr": "Düz"
+  },
+  {
+    "nl": "verhaal, het",
+    "tr": "hikaye"
+  },
+  {
+    "nl": "wassen beeld",
+    "tr": "balmumu heykeli"
+  },
+  {
+    "nl": "bel, de",
+    "tr": "aramak"
+  },
+  {
+    "nl": "boer, de",
+    "tr": "çiftçi"
+  },
+  {
+    "nl": "dijk, de",
+    "tr": "lezbiyen"
+  },
+  {
+    "nl": "koe, de",
+    "tr": "inek"
+  },
+  {
+    "nl": "lucht, de",
+    "tr": "gökyüzü"
+  },
+  {
+    "nl": "noorden, het",
+    "tr": "kuzeyinde"
+  },
+  {
+    "nl": "normaal",
+    "tr": "normal"
+  },
+  {
+    "nl": "proeven",
+    "tr": "damak zevki"
+  },
+  {
+    "nl": "stem, de",
+    "tr": "ses"
+  },
+  {
+    "nl": "zee, de",
+    "tr": "deniz"
+  },
+  {
+    "nl": "zuiden, het",
+    "tr": "güney"
+  },
+  {
+    "nl": "monteur, de",
+    "tr": "tamirci"
+  },
+  {
+    "nl": "netto",
+    "tr": "ağ"
+  },
+  {
+    "nl": "ooit",
+    "tr": "hiç"
+  },
+  {
+    "nl": "repareren",
+    "tr": "tamir etmek"
+  },
+  {
+    "nl": "tenminste",
+    "tr": "en azından"
+  },
+  {
+    "nl": "verdienen",
+    "tr": "kazanmak"
+  },
+  {
+    "nl": "vliegtuig, het",
+    "tr": "uçak"
+  },
+  {
+    "nl": "blijken*",
+    "tr": "sonuçlanmak *"
+  },
+  {
+    "nl": "onderzoek, het",
+    "tr": "Araştırma"
+  },
+  {
+    "nl": "zich haasten",
+    "tr": "acele"
+  },
+  {
+    "nl": "zich voelen",
+    "tr": "hissetmek"
+  },
+  {
+    "nl": "file, de",
+    "tr": "dosya"
+  },
+  {
+    "nl": "verkeer, het",
+    "tr": "trafik"
+  },
+  {
+    "nl": "volhouden",
+    "tr": "ısrar etmek"
+  },
+  {
+    "nl": "zich vervelen",
+    "tr": "sıkılmak"
+  }
+]

@@ -1,26 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme inline {
+  --color-ds-red: #C23B22;
+  --color-ds-blue: #1B3F8B;
+  --color-ds-yellow: #F2C12E;
+  --color-ds-black: #1A1A1A;
+  --color-ds-white: #F5F2EB;
+  --color-ds-gray: #D4D0C8;
+  --color-ds-green: #2E8B57;
+  --font-sans: 'DM Sans', sans-serif;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+:root {
+  --ds-red: #C23B22;
+  --ds-blue: #1B3F8B;
+  --ds-yellow: #F2C12E;
+  --ds-black: #1A1A1A;
+  --ds-white: #F5F2EB;
+  --ds-gray: #D4D0C8;
+  --ds-green: #2E8B57;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --ds-white: #1A1A1A;
+    --ds-black: #F5F2EB;
+    --ds-gray: #2C2C28;
   }
 }
 
+/* De Stijl: Zero border-radius everywhere */
+*, *::before, *::after {
+  border-radius: 0 !important;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'DM Sans', sans-serif;
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--ds-white);
+  color: var(--ds-black);
+  font-family: 'DM Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* No shadows in De Stijl */
+* {
+  box-shadow: none !important;
+}
+
+/* ─── Feedback Animations ─────────────────────── */
+
+@keyframes pulse-scale {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+}
+
+@keyframes flash-blue {
+  0% { background-color: var(--ds-blue); }
+  100% { background-color: transparent; }
+}
+
+@keyframes flash-green {
+  0% { background-color: var(--ds-green); }
+  100% { background-color: transparent; }
+}
+
+@keyframes flash-red {
+  0% { background-color: var(--ds-red); }
+  100% { background-color: transparent; }
+}
+
+@keyframes combo-pulse {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.15); opacity: 0.8; }
+}
+
+.animate-pulse-scale {
+  animation: pulse-scale 0.3s ease-out;
+}
+
+.animate-flash-blue {
+  animation: flash-blue 0.3s ease-out;
+}
+
+.animate-flash-green {
+  animation: flash-green 0.3s ease-out;
+}
+
+.animate-flash-red {
+  animation: flash-red 0.3s ease-out;
+}
+
+.animate-combo-pulse {
+  animation: combo-pulse 0.4s ease-in-out;
 }

@@ -1,0 +1,992 @@
+[
+  {
+    "nl": "aan het hart gaan",
+    "tr": "dokunmak",
+    "example_nl": "Het verlies van zijn geliefde ging hem aan het hart.",
+    "example_tr": "Sevdiği kişiyi kaybetmek onun kalbini yaraladı."
+  },
+  {
+    "nl": "aan mijn lijf geen polonaise",
+    "tr": "polonez yok",
+    "example_nl": "Ik voel me niet al te energiek vandaag, geen polonaise in mijn lijf.",
+    "example_tr": "Bugün kendimi pek enerjik hissetmiyorum, bedenimde dans yok."
+  },
+  {
+    "nl": "achter de schermen",
+    "tr": "perde arkası",
+    "example_nl": "De voorbereidingen gebeuren achter de schermen.",
+    "example_tr": "Hazırlıklar perde arkasında gerçekleşiyor."
+  },
+  {
+    "nl": "achter iets komen",
+    "tr": "bir şey öğrenmek",
+    "example_nl": "Ze probeerde achter de waarheid te komen.",
+    "example_tr": "Gerçeği öğrenmeye çalıştı."
+  },
+  {
+    "nl": "achterover gaan liggen",
+    "tr": "geri yatmak",
+    "example_nl": "Na een lange dag werken, ging hij achterover liggen om te ontspannen.",
+    "example_tr": "Uzun bir iş gününden sonra rahatlamak için geriye yattı."
+  },
+  {
+    "nl": "af zijn van iets/iemand",
+    "tr": "bir şeyden/birinden uzak olmak",
+    "example_nl": "Hij is af van zijn slechte gewoonten.",
+    "example_tr": "O, kötü alışkanlıklarından kurtuldu."
+  },
+  {
+    "nl": "al dan niet",
+    "tr": "olsun ya da olmasın",
+    "example_nl": "We zullen morgen, al dan niet, beslissen.",
+    "example_tr": "Yarın, olup olmamak kaydıyla, karar vereceğiz."
+  },
+  {
+    "nl": "als het ware",
+    "tr": "olduğu gibi",
+    "example_nl": "Hij beschreef het als het ware paradijs.",
+    "example_tr": "O, bunu sanki cennet gibi tanımladı."
+  },
+  {
+    "nl": "beneden zijn stand",
+    "tr": "mevkisinin altında",
+    "example_nl": "Zijn levensstijl is beneden zijn stand.",
+    "example_tr": "Onun yaşam tarzı standartlarının altında."
+  },
+  {
+    "nl": "bij nader inzien",
+    "tr": "yansıma üzerine",
+    "example_nl": "Bij nader inzien, was het geen goed idee.",
+    "example_tr": "Daha yakından bakıldığında, bu iyi bir fikir değildi."
+  },
+  {
+    "nl": "bij vlagen",
+    "tr": "zaman zaman",
+    "example_nl": "Het regent bij vlagen vandaag.",
+    "example_tr": "Bugün ara sıra yağmur yağıyor."
+  },
+  {
+    "nl": "binnen de perken houden",
+    "tr": "içerir",
+    "example_nl": "Probeer je uitgaven binnen de perken te houden.",
+    "example_tr": "Harcamalarını sınırlamaya çalış."
+  },
+  {
+    "nl": "brokken maken",
+    "tr": "parçalamak",
+    "example_nl": "Hij heeft weer brokken gemaakt met zijn impulsieve gedrag.",
+    "example_tr": "O, tez canlı davranışlarıyla tekrar sorunlar çıkardı."
+  },
+  {
+    "nl": "brood op de plank",
+    "tr": "bir yaşam",
+    "example_nl": "Ze heeft altijd brood op de plank met haar baan.",
+    "example_tr": "Onun işi sayesinde her zaman geçim kaynağı var."
+  },
+  {
+    "nl": "buiten de gebaande paden treden",
+    "tr": "alışılmışın dışına çıkmak",
+    "example_nl": "Ze besloot buiten de gebaande paden te treden en een nieuw avontuur te beginnen.",
+    "example_tr": "Yeni bir macera başlatmak için geleneksel yoldan sapmaya karar verdi."
+  },
+  {
+    "nl": "buiten het bestek vallen/gaan",
+    "tr": "düşme/kapsam dışına çıkma",
+    "example_nl": "Zijn gedrag viel buiten het bestek van acceptabel.",
+    "example_tr": "Onun davranışı kabul edilebilir sınırların dışındaydı."
+  },
+  {
+    "nl": "daar valt niet tegenop te boksen",
+    "tr": "Bunu yenemezsin.",
+    "example_nl": "Tegen de ziekte vallen is niet eenvoudig.",
+    "example_tr": "Hastalığa karşı koymak kolay değil."
+  },
+  {
+    "nl": "daar zit iets achter",
+    "tr": "Bunun arkasında bir şey var.",
+    "example_nl": "Er zit iets achter zijn vreemde gedrag.",
+    "example_tr": "Onun tuhaf davranışlarının arkasında bir şey var."
+  },
+  {
+    "nl": "dat is zijn lust en zijn leven",
+    "tr": "bu onun tutkusu ve hayatı",
+    "example_nl": "Zijn hobby is zijn lust en zijn leven.",
+    "example_tr": "Onun hobisi onun hayatının vazgeçilmezi."
+  },
+  {
+    "nl": "dat kunt u niet maken",
+    "tr": "Bunu yapamazsın.",
+    "example_nl": "Dat kun je niet maken, het is onacceptabel.",
+    "example_tr": "Bunun olmasına izin veremezsin, kabul edilemez."
+  },
+  {
+    "nl": "de bebouwde kom",
+    "tr": "yerleşik alan",
+    "example_nl": "Ze woonden net buiten de bebouwde kom.",
+    "example_tr": "Onlar şehir sınırlarının hemen dışında yaşıyorlardı."
+  },
+  {
+    "nl": "de deur uit (doen/zijn)",
+    "tr": "ayrılmak (yapmak/olmak)",
+    "example_nl": "Het is tijd om de deur uit te gaan.",
+    "example_tr": "Kapıdan çıkmak için zaman geldi."
+  },
+  {
+    "nl": "de goede zaak",
+    "tr": "iyi amaç",
+    "example_nl": "Werken voor een goed doel is de goede zaak.",
+    "example_tr": "Bir hayır kurumu için çalışmak, iyi bir iş."
+  },
+  {
+    "nl": "de kat uit de boom kijken",
+    "tr": "bekle ve gör",
+    "example_nl": "Hij kijkt altijd de kat uit de boom voordat hij een beslissing neemt.",
+    "example_tr": "O, bir karar vermeden önce her zaman durumu gözlemliyor."
+  },
+  {
+    "nl": "de kneepjes van het vak",
+    "tr": "ticaretin püf noktaları",
+    "example_nl": "Hij kent de kneepjes van het vak als geen ander.",
+    "example_tr": "O, işin inceliklerini hiçbir başkası kadar iyi biliyor."
+  },
+  {
+    "nl": "de levende legende",
+    "tr": "yaşayan efsane",
+    "example_nl": "De beroemde voetballer is een levende legende.",
+    "example_tr": "Ünlü futbolcu bir yaşayan efsane."
+  },
+  {
+    "nl": "de tijd verstrijkt",
+    "tr": "zaman geçer",
+    "example_nl": "De tijd verstrijkt snel als je plezier hebt.",
+    "example_tr": "Eğleniyorsanız zaman hızla geçer."
+  },
+  {
+    "nl": "door merg en been gaan",
+    "tr": "kalın ve ince boyunca gitmek",
+    "example_nl": "Zijn woorden gingen door merg en been.",
+    "example_tr": "Onun sözleri tüylerini diken diken etti."
+  },
+  {
+    "nl": "een appeltje met iemand te schillen hebben",
+    "tr": "biriyle görülecek bir hesabın olması",
+    "example_nl": "Hij heeft een appeltje te schillen met zijn collega.",
+    "example_tr": "Onun meslektaşıyla hesaplaşacak bir sorunu var."
+  },
+  {
+    "nl": "een belangrijke plaats innemen",
+    "tr": "önemli bir yer işgal etmek",
+    "example_nl": "Hij neemt een belangrijke plaats in.",
+    "example_tr": "O, önemli bir yere sahiptir."
+  },
+  {
+    "nl": "een beroep doen op iemand",
+    "tr": "birine hitap etmek",
+    "example_nl": "Ze deed een beroep op haar vrienden.",
+    "example_tr": "Arkadaşlarına başvurdu."
+  },
+  {
+    "nl": "een blauwtje lopen",
+    "tr": "ayağa kalkmak",
+    "example_nl": "Hij liep een blauwtje bij de bar.",
+    "example_tr": "Barın önünde bir hayal kırıklığı yaşadı."
+  },
+  {
+    "nl": "een dubbele bodem",
+    "tr": "çifte anlam",
+    "example_nl": "Zijn woorden hadden een dubbele bodem.",
+    "example_tr": "Onun sözlerinin altında iki anlam vardı."
+  },
+  {
+    "nl": "een gepeperde discussie",
+    "tr": "biberli bir tartışma",
+    "example_nl": "Ze hadden een gepeperde discussie.",
+    "example_tr": "Onların arasında hararetli bir tartışma vardı."
+  },
+  {
+    "nl": "Een mens lijdt het meest door het lijden dat hij vreest.",
+    "tr": "Bir kişi en çok korktuğu acılar yüzünden acı çeker.",
+    "example_nl": "Een mens lijdt het meest door het lijden dat hij vreest.",
+    "example_tr": "Bir insan, korktuğu acıdan en çok muzdariptir."
+  },
+  {
+    "nl": "een punt zetten achter",
+    "tr": "son vermek",
+    "example_nl": "Hij wil een punt zetten achter zijn carrière.",
+    "example_tr": "Kariyerine son vermek istiyor."
+  },
+  {
+    "nl": "een sleutelrol spelen",
+    "tr": "kilit bir rol oynamaktadır",
+    "example_nl": "Ze speelt een sleutelrol in het project.",
+    "example_tr": "Proje içinde önemli bir rol oynuyor."
+  },
+  {
+    "nl": "een stapje terug doen",
+    "tr": "geri adım atın",
+    "example_nl": "Hij besloot een stapje terug te doen.",
+    "example_tr": "Daha geride durmaya karar verdi."
+  },
+  {
+    "nl": "een stormloop",
+    "tr": "acele et",
+    "example_nl": "De winkel werd bestormd door klanten.",
+    "example_tr": "Mağaza müşteriler tarafından hücum edildi."
+  },
+  {
+    "nl": "een vlucht nemen",
+    "tr": "kalkış",
+    "example_nl": "Ze nam een vlucht om te ontsnappen.",
+    "example_tr": "Kaçmak için bir uçuş aldı."
+  },
+  {
+    "nl": "ergens aan toe zijn",
+    "tr": "bir şeye ihtiyacım var",
+    "example_nl": "Hij is ergens aan toe.",
+    "example_tr": "O, bir şeye hazır."
+  },
+  {
+    "nl": "ergens doorheen",
+    "tr": "bir şeyi atlatmak",
+    "example_nl": "Ze ging ergens doorheen dat haar veranderde.",
+    "example_tr": "Bir şeyden geçti ve değişti."
+  },
+  {
+    "nl": "ergens tegen kunnen",
+    "tr": "bir şeyle başa çıkmak",
+    "example_nl": "Hij kan nergens tegen.",
+    "example_tr": "O, hiçbir şeye katlanamaz."
+  },
+  {
+    "nl": "ergens voor gaan",
+    "tr": "bir şey için git",
+    "example_nl": "Ze gaat ergens voor, ongeacht de kosten.",
+    "example_tr": "O, maliyeti ne olursa olsun bir şey için çabalıyor."
+  },
+  {
+    "nl": "ferme jongens, stoere knapen",
+    "tr": "güçlü adamlar, sert adamlar",
+    "example_nl": "Ferme jongens, stoere knapen!",
+    "example_tr": "Cesur adamlar, kuvvetli delikanlılar!"
+  },
+  {
+    "nl": "gaan zitten voor iets/iemand",
+    "tr": "bir şey/birisi için oturmak",
+    "example_nl": "We gaan zitten voor de presentatie.",
+    "example_tr": "Sunum için oturuyoruz."
+  },
+  {
+    "nl": "gepaard gaan met iets",
+    "tr": "bir şeye eşlik etmek.",
+    "example_nl": "Het gebeurde vaak gepraard met gelach.",
+    "example_tr": "Sık sık gülme ile eşlik etti."
+  },
+  {
+    "nl": "gesteld zijn op iets",
+    "tr": "bir şeye düşkün olmak",
+    "example_nl": "Ze is erg gesteld op haar huisdieren.",
+    "example_tr": "Evcil hayvanlarına çok düşkündür."
+  },
+  {
+    "nl": "gevoed worden door iets/iemand",
+    "tr": "bir şey/birisi tarafından beslenmek",
+    "example_nl": "Hij wordt gevoed door zijn passie.",
+    "example_tr": "Onun tutkusu tarafından besleniyor."
+  },
+  {
+    "nl": "grip krijgen op iets",
+    "tr": "bir şeyi kavramak",
+    "example_nl": "Ze kreeg grip op de situatie.",
+    "example_tr": "Durumu kontrol altına aldı."
+  },
+  {
+    "nl": "haarscherp",
+    "tr": "jilet gibi keskin",
+    "example_nl": "De tekst is haarscherp afgedrukt.",
+    "example_tr": "Metin çok keskin bir şekilde basıldı."
+  },
+  {
+    "nl": "het doet iemand (niet) veel",
+    "tr": "birilerinin umurunda (değil)",
+    "example_nl": "Het doet hem niet veel.",
+    "example_tr": "Onu çok etkilemiyor."
+  },
+  {
+    "nl": "het draait om iets/iemand",
+    "tr": "bir şey/birisi hakkında",
+    "example_nl": "Het draait om teamwork in dit project.",
+    "example_tr": "Bu projede takım çalışması önemlidir."
+  },
+  {
+    "nl": "het heft in eigen hand nemen",
+    "tr": "meseleleri kendi ellerinize alın",
+    "example_nl": "Ze nam het heft in eigen handen.",
+    "example_tr": "Kontrolü kendi eline aldı."
+  },
+  {
+    "nl": "het hoofd boven water houden",
+    "tr": "başa çıkma",
+    "example_nl": "Ondanks de moeilijkheden houdt hij zijn hoofd boven water.",
+    "example_tr": "Zorluklara rağmen ayakta kalmayı başarıyor."
+  },
+  {
+    "nl": "het loopt storm",
+    "tr": "havalanıyor",
+    "example_nl": "Het loopt storm voor de nieuwe film.",
+    "example_tr": "Yeni film için büyük bir talep var."
+  },
+  {
+    "nl": "het maakt niets uit",
+    "tr": "Hiç fark etmez.",
+    "example_nl": "Het maakt niets uit, ik ben tevreden.",
+    "example_tr": "Fark etmez, ben memnunum."
+  },
+  {
+    "nl": "het roer omgooien",
+    "tr": "rotayı değiştir",
+    "example_nl": "Hij besloot het roer om te gooien en een nieuwe carrière te beginnen.",
+    "example_tr": "Yelkeni değiştirip yeni bir kariyere başlamaya karar verdi."
+  },
+  {
+    "nl": "het stokje doorgeven",
+    "tr": "bayrağı devredin",
+    "example_nl": "Ze besloot het stokje door te geven aan haar opvolger.",
+    "example_tr": "Halefini devretmeye karar verdi."
+  },
+  {
+    "nl": "het veld ruimen",
+    "tr": "bırak",
+    "example_nl": "Hij besloot het veld te ruimen en met pensioen te gaan.",
+    "example_tr": "Emekli olmaya karar verdi."
+  },
+  {
+    "nl": "het voor het zeggen hebben",
+    "tr": "sorumlu olmak",
+    "example_nl": "Ze heeft het voor het zeggen in het bedrijf.",
+    "example_tr": "Şirkette söz sahibi."
+  },
+  {
+    "nl": "hou je vast",
+    "tr": "bekle",
+    "example_nl": "Hou je vast, we gaan een wilde rit maken.",
+    "example_tr": "Sıkı tutun, vahşi bir yolculuk yapacağız."
+  },
+  {
+    "nl": "houvast hebben aan iets/iemand",
+    "tr": "bir şeye/birine tutunmak",
+    "example_nl": "Ze heeft houvast aan haar geloof.",
+    "example_tr": "İnancında destek buluyor."
+  },
+  {
+    "nl": "iemand binnen hengelen",
+    "tr": "birini içeri çekmek",
+    "example_nl": "Hij probeerde iemand binnen te hengelen voor het project.",
+    "example_tr": "Projeye birini dahil etmeye çalıştı."
+  },
+  {
+    "nl": "iemand in de arm nemen",
+    "tr": "birini askere almak",
+    "example_nl": "Ze nam haar vriend in de arm en troostte hem.",
+    "example_tr": "Arkadaşını koluna aldı ve onu teselli etti."
+  },
+  {
+    "nl": "iemand naar beneden halen",
+    "tr": "birini aşağı çekmek",
+    "example_nl": "Hij probeerde iemand naar beneden te halen door geruchten te verspreiden.",
+    "example_tr": "Dedikodu yayarak birini küçümsemeye çalıştı."
+  },
+  {
+    "nl": "iemand onderuit halen/schoppen",
+    "tr": "birini küçümsemek/tekmelemek",
+    "example_nl": "Ze haalde haar concurrent onderuit door haar zwakheden bloot te leggen.",
+    "example_tr": "Rakibini zayıf yönlerini açığa çıkararak zor durumda bıraktı."
+  },
+  {
+    "nl": "iemand tegen het lijf lopen",
+    "tr": "birine çarpmak",
+    "example_nl": "Hij liep per ongeluk zijn oude vriend tegen het lijf.",
+    "example_tr": "Tesadüfen eski arkadaşıyla karşılaştı."
+  },
+  {
+    "nl": "iemand vogelvrij verklaren",
+    "tr": "kanun kaçağı biri",
+    "example_nl": "De criminelen verklaarden hem vogelvrij en hij was in gevaar.",
+    "example_tr": "Suçlular onu hedef tahtası ilan ettiler ve o tehlikede idi."
+  },
+  {
+    "nl": "iets aan zijn hoofd hebben",
+    "tr": "aklında bir şey var",
+    "example_nl": "Ze lijkt iets aan haar hoofd te hebben, ze gedraagt zich vreemd.",
+    "example_tr": "Sanırım kafasında bir şeyler var, garip davranıyor."
+  },
+  {
+    "nl": "iets dergelijks",
+    "tr": "bunun gibi bir şey",
+    "example_nl": "De regeling is iets dergelijks als wat we eerder hadden.",
+    "example_tr": "Düzenleme, önceden sahip olduğumuz bir şeye benziyor."
+  },
+  {
+    "nl": "iets geweld aandoen",
+    "tr": "bir şeyi ihlal etmek",
+    "example_nl": "Hij wilde niets geweld aandoen, maar zichzelf verdedigen.",
+    "example_tr": "O, hiç kimseye zarar vermek istemiyordu, sadece kendini savunmak istedi."
+  },
+  {
+    "nl": "iets hoog in het vaandel hebben staan",
+    "tr": "bir şeye çok değer vermek",
+    "example_nl": "Ze heeft kwaliteit hoog in het vaandel staan in haar werk.",
+    "example_tr": "İşinde kaliteyi önemsiyor."
+  },
+  {
+    "nl": "iets in je geheugen prenten",
+    "tr": "bir şeyi ezberlemek",
+    "example_nl": "De leraar wilde de lesstof in de geheugens van de studenten prenten.",
+    "example_tr": "Öğretmen öğrencilerin hafızalarına ders materyalini kazımak istedi."
+  },
+  {
+    "nl": "iets maar/echt niets vinden",
+    "tr": "bir şeyden hoşlanmamak",
+    "example_nl": "Ze kan iets maar echt niets vinden om te dragen.",
+    "example_tr": "Giyilecek bir şey bulamıyor."
+  },
+  {
+    "nl": "iets niet trekken",
+    "tr": "bir şeyi sevme",
+    "example_nl": "Hij kan de stress niet trekken, het wordt te veel voor hem.",
+    "example_tr": "Stresi kaldıramıyor, onun için çok fazla."
+  },
+  {
+    "nl": "iets rijmen met iets",
+    "tr": "bir şeyi bir şeyle kafiyelendirmek",
+    "example_nl": "De kleuren van het schilderij moeten iets rijmen met de inrichting.",
+    "example_tr": "Tablonun renkleri dekorasyonla uyumlu olmalıdır."
+  },
+  {
+    "nl": "iets staat of valt met",
+    "tr": "bir şey bağlıdır",
+    "example_nl": "Het succes van het project staat of valt met goede communicatie.",
+    "example_tr": "Projenin başarısı, iyi iletişimle doğru orantılıdır."
+  },
+  {
+    "nl": "iets ter harte nemen",
+    "tr": "bir şeyi kalbe almak",
+    "example_nl": "Ze neemt kritiek altijd ter harte en probeert te verbeteren.",
+    "example_tr": "Eleştiriyi her zaman ciddiye alır ve kendini geliştirmeye çalışır."
+  },
+  {
+    "nl": "iets vliegt om",
+    "tr": "bir şey uçup gidiyor",
+    "example_nl": "In sommige culturen vliegt bijgeloof om.",
+    "example_tr": "Bazı kültürlerde batıl inançlar yaygındır."
+  },
+  {
+    "nl": "iets voor de boeg hebben",
+    "tr": "önümüzde bir şey var",
+    "example_nl": "Ze heeft veel plannen voor de toekomst.",
+    "example_tr": "Geleceğe dair birçok planı var."
+  },
+  {
+    "nl": "iets zat zijn",
+    "tr": "bir şeyden bıkmak",
+    "example_nl": "Hij is zijn baan zat en wil iets anders proberen.",
+    "example_tr": "İşinden bıktı ve başka bir şey denemek istiyor."
+  },
+  {
+    "nl": "iets/iemand voorop stellen",
+    "tr": "bir şeyi/birini ilk sıraya koymak",
+    "example_nl": "Ze stelt het geluk van haar familie voorop.",
+    "example_tr": "Ailesinin mutluluğunu öncelikli olarak kabul eder."
+  },
+  {
+    "nl": "in … zin (in financiële zin)",
+    "tr": "... anlamda (finansal anlamda)",
+    "example_nl": "In financiële zin is het een gunstige investering.",
+    "example_tr": "Finansal olarak bakıldığında, bu iyi bir yatırım."
+  },
+  {
+    "nl": "in de ogen van iemand",
+    "tr": "birinin gözlerinde",
+    "example_nl": "In de ogen van haar baas doet ze geweldig werk.",
+    "example_tr": "Patronunun gözünde harika iş çıkarıyor."
+  },
+  {
+    "nl": "in de vingers hebben",
+    "tr": "bir kavrayışa sahip olmak",
+    "example_nl": "Ze heeft de danspassen in de vingers.",
+    "example_tr": "Dans adımlarını çok iyi biliyor."
+  },
+  {
+    "nl": "in één oogopslag",
+    "tr": "Bir bakışta",
+    "example_nl": "In één oogopslag zag hij dat er iets mis was.",
+    "example_tr": "Bir bakışta bir şeyin yanlış olduğunu fark etti."
+  },
+  {
+    "nl": "in grote lijnen",
+    "tr": "genel anlamda",
+    "example_nl": "Hij legde in grote lijnen uit hoe het systeem werkt.",
+    "example_tr": "Sistemin nasıl çalıştığını genel hatlarıyla anlattı."
+  },
+  {
+    "nl": "in het spel zijn",
+    "tr": "oyunda olmak",
+    "example_nl": "Ze is betrokken in het spel en neemt het serieus.",
+    "example_tr": "Oyunun içinde ve ona ciddiyetle yaklaşıyor."
+  },
+  {
+    "nl": "in het teken van iets/iemand",
+    "tr": "bir şeyin/birinin karakterinde",
+    "example_nl": "Het feest staat in het teken van vriendschap.",
+    "example_tr": "Parti dostluğun sembolüdür."
+  },
+  {
+    "nl": "in hoeverre",
+    "tr": "ne ölçüde",
+    "example_nl": "In hoeverre ben je bereid risico's te nemen?",
+    "example_tr": "Hangi dereceye kadar risk almaya hazırsın?"
+  },
+  {
+    "nl": "in mijn beleving",
+    "tr": "benim tecrübelerime göre",
+    "example_nl": "In mijn beleving is dit de beste keuze.",
+    "example_tr": "Benim düşünceme göre bu en iyi seçenek."
+  },
+  {
+    "nl": "in staat zijn",
+    "tr": "yapabiliyorlar",
+    "example_nl": "Ze is in staat om moeilijke problemen op te lossen.",
+    "example_tr": "Zor sorunları çözmek için yeteneklidir."
+  },
+  {
+    "nl": "in stelling brengen",
+    "tr": "pozit",
+    "example_nl": "Ze brachten de troepen in stelling voor de aanval.",
+    "example_tr": "Saldırı için birlikleri pozisyon aldırdılar."
+  },
+  {
+    "nl": "in trek zijn",
+    "tr": "talep görmek",
+    "example_nl": "Die nieuwe technologie is in trek bij consumenten.",
+    "example_tr": "Yeni teknoloji tüketiciler arasında popüler."
+  },
+  {
+    "nl": "in verband met iets/iemand",
+    "tr": "bir şeyle/biriyle bağlantılı olarak",
+    "example_nl": "In verband met het evenement zijn er verkeersbeperkingen.",
+    "example_tr": "Etkinlikle ilgili trafik kısıtlamaları var."
+  },
+  {
+    "nl": "in volle gang",
+    "tr": "tüm hızıyla",
+    "example_nl": "De renovatie van het huis is in volle gang.",
+    "example_tr": "Ev yenileme tam gaz devam ediyor."
+  },
+  {
+    "nl": "je ei kwijt willen",
+    "tr": "sözünü söylemek isteyen",
+    "example_nl": "Ik wil mijn ei kwijt.",
+    "example_tr": "Düşüncelerimi ifade etmek istiyorum."
+  },
+  {
+    "nl": "je mond houden",
+    "tr": "sessiz ol",
+    "example_nl": "Je kunt beter je mond houden.",
+    "example_tr": "Daha iyi susmalısın."
+  },
+  {
+    "nl": "je mond opendoen",
+    "tr": "Ağzını aç.",
+    "example_nl": "Hij besloot eindelijk zijn mond open te doen.",
+    "example_tr": "Sonunda ağzını açmaya karar verdi."
+  },
+  {
+    "nl": "je vingers uitsteken naar iets/iemand",
+    "tr": "bir şeyi/birini parmakla göstermek",
+    "example_nl": "Hij steekt zijn vingers uit naar meer verantwoordelijkheid.",
+    "example_tr": "Daha fazla sorumluluk almayı istiyor."
+  },
+  {
+    "nl": "kort kunnen zijn over iets",
+    "tr": "bir şey hakkında kısa olmak",
+    "example_nl": "Kun je kort zijn over wat er is gebeurd?",
+    "example_tr": "Ne olduğu konusunda kısaca anlatabilir misin?"
+  },
+  {
+    "nl": "lijnrecht tegenover iets/iemand staan",
+    "tr": "bir şeye/birine taban tabana zıt olmak",
+    "example_nl": "Ze staat lijnrecht tegenover haar collega in deze kwestie.",
+    "example_tr": "Bu konuda meslektaşıyla tamamen farklı düşünüyor."
+  },
+  {
+    "nl": "met beide benen op de grond staan",
+    "tr": "iki ayağınızı da yerde tutun",
+    "example_nl": "Ze staat met beide benen op de grond en is realistisch.",
+    "example_tr": "Gerçekçi ve sağlam bir şekilde duruyor."
+  },
+  {
+    "nl": "mijn handen jeuken",
+    "tr": "ellerim kaşınıyor",
+    "example_nl": "Mijn handen jeuken om aan het werk te gaan.",
+    "example_tr": "İşe başlamak için sabırsızlanıyorum."
+  },
+  {
+    "nl": "navraag doen",
+    "tr": "sorgulamak",
+    "example_nl": "Ze deed navraag over de beschikbaarheid van de kamer.",
+    "example_tr": "Oda müsaitliği hakkında soruşturma yaptı."
+  },
+  {
+    "nl": "niet voor niets",
+    "tr": "bir sebepten dolayı",
+    "example_nl": "Niet voor niets wordt hij als de beste beschouwd.",
+    "example_tr": "Boşuna en iyi olarak kabul edilmiyor."
+  },
+  {
+    "nl": "niet wegnemen dat",
+    "tr": "onu alma",
+    "example_nl": "Laten we niet wegnemen dat het een uitdagende taak is.",
+    "example_tr": "Zorlu bir görev olduğunu unutmayalım."
+  },
+  {
+    "nl": "om de hoek komen kijken",
+    "tr": "köşede olmak",
+    "example_nl": "Hij komt om de hoek kijken als er hulp nodig is.",
+    "example_tr": "Yardıma ihtiyaç olduğunda ortaya çıkar."
+  },
+  {
+    "nl": "onder de pet houden",
+    "tr": "gizli tutun",
+    "example_nl": "Hij houdt de details onder de pet.",
+    "example_tr": "Detayları saklıyor."
+  },
+  {
+    "nl": "onder druk staan",
+    "tr": "baskı altında olmak",
+    "example_nl": "Ze staat onder druk om het project op tijd af te ronden.",
+    "example_tr": "Projeyi zamanında bitirmek için baskı altında."
+  },
+  {
+    "nl": "onder vuur liggen",
+    "tr": "ateş altında",
+    "example_nl": "Het bedrijf ligt onder vuur vanwege zijn beleid.",
+    "example_tr": "Şirket politikaları nedeniyle eleştiriliyor."
+  },
+  {
+    "nl": "oog hebben voor iets/iemand",
+    "tr": "bir şeye/birine dikkat etmek",
+    "example_nl": "Ze heeft oog voor detail in haar werk.",
+    "example_tr": "İşinde detaylara dikkat ediyor."
+  },
+  {
+    "nl": "op (een idee) komen",
+    "tr": "(bir fikir) ile gelmek",
+    "example_nl": "Op een dag kwam hij op het briljante idee.",
+    "example_tr": "Bir gün parlak bir fikre geldi."
+  },
+  {
+    "nl": "op apegapen liggen",
+    "tr": "uykuya dalmak",
+    "example_nl": "Na de lange reis liggen ze op apegapen.",
+    "example_tr": "Uzun seyahatten sonra bitkin durumda."
+  },
+  {
+    "nl": "op de been brengen",
+    "tr": "başla",
+    "example_nl": "Hij probeert de gewonde soldaten op de been te brengen.",
+    "example_tr": "Yaralı askerleri ayağa kaldırmaya çalışıyor."
+  },
+  {
+    "nl": "op de blaren zitten",
+    "tr": "allık",
+    "example_nl": "Ze zit op de blaren van haar fouten.",
+    "example_tr": "Hatalarının bedelini ödüyor."
+  },
+  {
+    "nl": "op de drempel staan van iets",
+    "tr": "bir şeyin eşiğinde olmak",
+    "example_nl": "We staan op de drempel van een nieuw tijdperk.",
+    "example_tr": "Yeni bir dönemin eşiğindeyiz."
+  },
+  {
+    "nl": "op de loer liggen",
+    "tr": "PUSUDA",
+    "example_nl": "Het gevaar ligt altijd op de loer.",
+    "example_tr": "Tehlike her zaman bekliyor."
+  },
+  {
+    "nl": "op de schop gaan",
+    "tr": "Sarsıntı",
+    "example_nl": "Het gebouw gaat binnenkort op de schop voor renovatie.",
+    "example_tr": "Binanın yakında yeniden inşa edilmesi gerekecek."
+  },
+  {
+    "nl": "op de valreep",
+    "tr": "son dakikada",
+    "example_nl": "Hij arriveerde op het nippertje voor de vergadering.",
+    "example_tr": "Toplantı için son anda geldi."
+  },
+  {
+    "nl": "op een laag pitje",
+    "tr": "arka planda",
+    "example_nl": "Het project staat op een laag pitje vanwege budgetproblemen.",
+    "example_tr": "Bütçe sorunları nedeniyle proje yavaş ilerliyor."
+  },
+  {
+    "nl": "op eigen kosten",
+    "tr": "masrafları size ait olmak üzere",
+    "example_nl": "Ze werkt op eigen kosten aan haar kunstproject.",
+    "example_tr": "Sanat projesi için kendi masrafıyla çalışıyor."
+  },
+  {
+    "nl": "op grote schaal",
+    "tr": "büyük ölçekte",
+    "example_nl": "Het nieuwe beleid wordt op grote schaal geïmplementeerd.",
+    "example_tr": "Yeni politika geniş ölçekte uygulanıyor."
+  },
+  {
+    "nl": "op het eerste gezicht",
+    "tr": "ilk görüşte",
+    "example_nl": "Het lijkt op het eerste gezicht eenvoudig, maar het is het niet.",
+    "example_tr": "İlk bakışta basit gibi görünüyor, ama öyle değil."
+  },
+  {
+    "nl": "op het punt staan",
+    "tr": "yapmak üzere",
+    "example_nl": "Ze staat op het punt om een belangrijke beslissing te nemen.",
+    "example_tr": "Önemli bir karar vermeye hazır."
+  },
+  {
+    "nl": "op heterdaad betrappen",
+    "tr": "suçüstü yakalandı",
+    "example_nl": "Hij betrapte de dief op heterdaad.",
+    "example_tr": "Hırsızı suç üstü yakaladı."
+  },
+  {
+    "nl": "op je sterfbed",
+    "tr": "ölüm döşeğinde",
+    "example_nl": "Ze vond een brief op zijn sterfbed die haar diep raakte.",
+    "example_tr": "Ölüm döşeğinde onu derinden etkileyen bir mektup buldu."
+  },
+  {
+    "nl": "op scherp staan",
+    "tr": "kenarda",
+    "example_nl": "Ze staat op scherp voor de grote wedstrijd.",
+    "example_tr": "Büyük yarış için hazır durumda."
+  },
+  {
+    "nl": "op scherp zetten",
+    "tr": "kenarda",
+    "example_nl": "Hij besloot zijn plan op scherp te zetten en actie te ondernemen.",
+    "example_tr": "Planını hızlandırmaya ve harekete geçmeye karar verdi."
+  },
+  {
+    "nl": "op vrije voeten",
+    "tr": "büyük",
+    "example_nl": "Na zijn vrijlating is hij weer op vrije voeten.",
+    "example_tr": "Tahliye olduktan sonra tekrar özgürdü."
+  },
+  {
+    "nl": "op weg",
+    "tr": "yolda",
+    "example_nl": "Ze is onderweg naar de vergadering.",
+    "example_tr": "Toplantıya gidiyor."
+  },
+  {
+    "nl": "op zijn van de zenuwen",
+    "tr": "gergin olmak",
+    "example_nl": "Ze is op de zenuwen vanwege de aanstaande presentatie.",
+    "example_tr": "Yaklaşan sunum nedeniyle sinirli."
+  },
+  {
+    "nl": "op…na",
+    "tr": "sonra...",
+    "example_nl": "Ze trouwen op 4 juli.",
+    "example_tr": "4 Temmuz'da evleniyorlar."
+  },
+  {
+    "nl": "over de schreef gaan",
+    "tr": "çizgiyi geçmek",
+    "example_nl": "Hij ging over de schreef door de regels te overtreden.",
+    "example_tr": "Kuralları ihlal ederek sınırı aştı."
+  },
+  {
+    "nl": "peentjes zweten",
+    "tr": "Her tarafım terliyor.",
+    "example_nl": "Hij zweette peentjes van de inspanning.",
+    "example_tr": "Çabasından ter döktü."
+  },
+  {
+    "nl": "'s werelds",
+    "tr": "dünyanın",
+    "example_nl": "Het is 's werelds beste restaurant.",
+    "example_tr": "Bu dünyanın en iyi restoranı."
+  },
+  {
+    "nl": "schijn bedriegt",
+    "tr": "görünüş aldatıcıdır",
+    "example_nl": "Schijn bedriegt, soms is niets wat het lijkt.",
+    "example_tr": "Görünüşler aldatır, bazen hiçbir şey göründüğü gibi değildir."
+  },
+  {
+    "nl": "tal van",
+    "tr": "bol miktarda",
+    "example_nl": "Er zijn tal van redenen om te glimlachen.",
+    "example_tr": "Gülümsemek için birçok neden var."
+  },
+  {
+    "nl": "te gek voor woorden",
+    "tr": "kelimeler için çok çılgın",
+    "example_nl": "De situatie is te gek voor woorden.",
+    "example_tr": "Durum sözlerle anlatılamayacak kadar harika."
+  },
+  {
+    "nl": "ten einde raad zijn",
+    "tr": "çaresiz",
+    "example_nl": "Ik ben ten einde raad, ik weet niet wat ik moet doen.",
+    "example_tr": "Artık ne yapacağımı bilmiyorum."
+  },
+  {
+    "nl": "ten prooi vallen aan iets",
+    "tr": "bir şeyin kurbanı olmak",
+    "example_nl": "Het bos is ten prooi gevallen aan de brand.",
+    "example_tr": "Orman yangının kurbanı oldu."
+  },
+  {
+    "nl": "tevoorschijn komen",
+    "tr": "görünür",
+    "example_nl": "De zon komt tevoorschijn achter de wolken.",
+    "example_tr": "Güneş bulutların arkasından çıkıyor."
+  },
+  {
+    "nl": "tot de verbeelding spreken",
+    "tr": "hayal gücünü yakalayın",
+    "example_nl": "Het boek tot de verbeelding spreken van velen.",
+    "example_tr": "Kitap birçok kişinin hayal gücünü harekete geçiriyor."
+  },
+  {
+    "nl": "uit de hand lopen",
+    "tr": "kontrolden çıkmak",
+    "example_nl": "Het feest liep uit de hand en eindigde in chaos.",
+    "example_tr": "Parti kontrol dışına çıktı ve kaosa yol açtı."
+  },
+  {
+    "nl": "van alle tijden",
+    "tr": "tüm zamanların",
+    "example_nl": "Klassieke muziek is van alle tijden.",
+    "example_tr": "Klasik müzik her zaman popüler."
+  },
+  {
+    "nl": "van formaat",
+    "tr": "önemli",
+    "example_nl": "Het schilderij is van formaat en imposant.",
+    "example_tr": "Tablo büyük ve etkileyici."
+  },
+  {
+    "nl": "van slag raken door",
+    "tr": "tarafından üzgün",
+    "example_nl": "Hij raakte van slag door het slechte nieuws.",
+    "example_tr": "Kötü haberlerden dolayı şaşkına döndü."
+  },
+  {
+    "nl": "vanuit … oogpunt",
+    "tr": "... bakış açısından",
+    "example_nl": "Vanuit historisch oogpunt is het interessant.",
+    "example_tr": "Tarihsel bakış açısından ilginçtir."
+  },
+  {
+    "nl": "voor een breed publiek",
+    "tr": "geniş bir kitle için",
+    "example_nl": "De film is geschikt voor een breed publiek.",
+    "example_tr": "Film geniş bir izleyici kitlesi için uygundur."
+  },
+  {
+    "nl": "voor gek staan",
+    "tr": "aptal gibi görünüyorsun",
+    "example_nl": "Ze stonden voor gek met hun rare kostuums.",
+    "example_tr": "Garip kostümleriyle komik durumda idiler."
+  },
+  {
+    "nl": "voor raadsels stellen",
+    "tr": "mevcut bilmeceler",
+    "example_nl": "De puzzel stelt me voor raadsels.",
+    "example_tr": "Bulmaca beni şaşırtıyor."
+  },
+  {
+    "nl": "vooropstaan",
+    "tr": "önce gel",
+    "example_nl": "Hij wil vooropstaan en leiderschap tonen.",
+    "example_tr": "Liderlik yapmak ve öne çıkmak istiyor."
+  },
+  {
+    "nl": "vreemdgaan",
+    "tr": "Aldatma",
+    "example_nl": "Hij besloot te vreemdgaan en loog tegen zijn partner.",
+    "example_tr": "Aldatmaya karar verdi ve partnerine yalan söyledi."
+  },
+  {
+    "nl": "wel degelijk",
+    "tr": "gerçekten",
+    "example_nl": "De resultaten zijn wel degelijk indrukwekkend.",
+    "example_tr": "Sonuçlar kesinlikle etkileyici."
+  },
+  {
+    "nl": "willens en wetens",
+    "tr": "bilerek ve isteyerek",
+    "example_nl": "Hij handelde willens en wetens in strijd met de wet.",
+    "example_tr": "Bilerek ve isteyerek yasaya aykırı davrandı."
+  },
+  {
+    "nl": "zich als een vis in het water voelen",
+    "tr": "suda balık gibi hissetmek",
+    "example_nl": "In het zwembad voel ik me als een vis in het water.",
+    "example_tr": "Yüzme havuzunda kendimi çok rahat hissediyorum."
+  },
+  {
+    "nl": "zich ergens van afkeren",
+    "tr": "bir şeyden uzaklaşmak",
+    "example_nl": "Hij keerde zich af van zijn oude vrienden.",
+    "example_tr": "Eski arkadaşlarından uzaklaştı."
+  },
+  {
+    "nl": "zich in zijn graf omdraaien",
+    "tr": "mezarında dönüyor",
+    "example_nl": "Als Beethoven dit hoort, zou hij zich in zijn graf omdraaien.",
+    "example_tr": "Beethoven bunu duysa, mezarında ters dönerdi."
+  },
+  {
+    "nl": "zich schrap zetten",
+    "tr": "kendini destekle",
+    "example_nl": "Ze zetten zich schrap voor de zware uitdaging.",
+    "example_tr": "Zorlu zorluklara karşı hazırlık yaptılar."
+  },
+  {
+    "nl": "zich te buiten gaan aan iets",
+    "tr": "bir şeyle şımartmak",
+    "example_nl": "Hij ging zich te buiten aan te veel eten en drinken.",
+    "example_tr": "Çok fazla yemek ve içki tüketmeye başladı."
+  },
+  {
+    "nl": "zij aan zij",
+    "tr": "yan yana",
+    "example_nl": "Ze liepen zij aan zij door het park.",
+    "example_tr": "Parkta yan yana yürüdüler."
+  },
+  {
+    "nl": "zijn neus stoten",
+    "tr": "burnunu çarparak",
+    "example_nl": "Hij stootte zijn neus doordat hij te laat kwam.",
+    "example_tr": "Geç kaldığı için hayal kırıklığına uğradı."
+  },
+  {
+    "nl": "zijn stempel drukken op iets",
+    "tr": "bir şey üzerinde iz bırakmak",
+    "example_nl": "Zijn stempel drukt op het bedrijf.",
+    "example_tr": "Şirket üzerinde etkisi büyük."
+  },
+  {
+    "nl": "zo gezond zijn als een vis",
+    "tr": "bir balık kadar sağlıklı olmak",
+    "example_nl": "Ze is zo gezond als een vis en sport regelmatig.",
+    "example_tr": "O, düzenli olarak spor yapar ve sağlıklıdır."
+  }
+]

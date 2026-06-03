@@ -1,0 +1,5658 @@
+[
+  {
+    "nl": "Aan cijfer",
+    "tr": "Şekil vermek"
+  },
+  {
+    "nl": "Aandacht",
+    "tr": "Dikkat"
+  },
+  {
+    "nl": "Aandoen",
+    "tr": "Açmak"
+  },
+  {
+    "nl": "aanduiding",
+    "tr": "gösterme belirti"
+  },
+  {
+    "nl": "Aanduiding: dat bromfietsers verwezen worden naar de rijbaan",
+    "tr": "Belirti: motorlu bisikletler taşıt yoluna yönlendirilmektedir."
+  },
+  {
+    "nl": "Aanduiding: dat bromfietssers verwezen worden naar eenfiets-/ bromfietspad",
+    "tr": "Belirti: motorlu bisikletler bisiklet/motor yoluna yönlenlendirilmektedir."
+  },
+  {
+    "nl": "aangebracht",
+    "tr": "yapıştırılmıştır"
+  },
+  {
+    "nl": "Aangeduid",
+    "tr": "Belirlenmiş"
+  },
+  {
+    "nl": "aangegeven",
+    "tr": "Belirtilmedikçe"
+  },
+  {
+    "nl": "aangeven",
+    "tr": "belirtmek"
+  },
+  {
+    "nl": "aanhanger",
+    "tr": "takipçi"
+  },
+  {
+    "nl": "aanhangwagen",
+    "tr": "Römork"
+  },
+  {
+    "nl": "aanhangwagen oplegger aanhanger",
+    "tr": "römork"
+  },
+  {
+    "nl": "aankondiging",
+    "tr": "uyarı"
+  },
+  {
+    "nl": "aanpassen",
+    "tr": "ayarlamak"
+  },
+  {
+    "nl": "aanrijden",
+    "tr": "Çarpışma"
+  },
+  {
+    "nl": "aanrijding botsing",
+    "tr": "yandan çarpmak"
+  },
+  {
+    "nl": "Aanslaan",
+    "tr": "Etkisi"
+  },
+  {
+    "nl": "Aanstaat",
+    "tr": "Açık tutmak"
+  },
+  {
+    "nl": "aantreffen",
+    "tr": "Bulmak"
+  },
+  {
+    "nl": "aanvullen",
+    "tr": "tamamlayıcı"
+  },
+  {
+    "nl": "aanweizig zijn",
+    "tr": "bulunmak"
+  },
+  {
+    "nl": "Aan welke zijde",
+    "tr": "Hangi tarafa"
+  },
+  {
+    "nl": "aanwijzingen",
+    "tr": "talimatlar"
+  },
+  {
+    "nl": "aanwijzingen instructies",
+    "tr": "talimatlar"
+  },
+  {
+    "nl": "aanzetten",
+    "tr": "Işığı açmak"
+  },
+  {
+    "nl": "aanzienlijk",
+    "tr": "oldukça"
+  },
+  {
+    "nl": "aard",
+    "tr": "tür nitelik"
+  },
+  {
+    "nl": "Achter de achterste",
+    "tr": "Dingil (aks)"
+  },
+  {
+    "nl": "Achteruit",
+    "tr": "Geri gitmek"
+  },
+  {
+    "nl": "achteruitrijlamp",
+    "tr": "geri vites lambası"
+  },
+  {
+    "nl": "achteruitrijlichten",
+    "tr": "geri vites lambaları"
+  },
+  {
+    "nl": "achterzijde",
+    "tr": "Arka taraf"
+  },
+  {
+    "nl": "ademhalingsproblemen",
+    "tr": "Nefes alma problemi"
+  },
+  {
+    "nl": "Ademtest",
+    "tr": "Nefes testi"
+  },
+  {
+    "nl": "Adviessnelheid",
+    "tr": "Tavsiye hızı"
+  },
+  {
+    "nl": "afbuigen",
+    "tr": "v dönüş"
+  },
+  {
+    "nl": "affzetten",
+    "tr": "kapatmak"
+  },
+  {
+    "nl": "afgegeven",
+    "tr": "Verilmiş"
+  },
+  {
+    "nl": "Afgeknotte driehoek",
+    "tr": "Köşeleri kesik üçgen levha"
+  },
+  {
+    "nl": "afgelegd",
+    "tr": "yolculuk"
+  },
+  {
+    "nl": "Afgeleid",
+    "tr": "Görüşme"
+  },
+  {
+    "nl": "Afgesloten",
+    "tr": "Kapatıldı"
+  },
+  {
+    "nl": "Afgesteld",
+    "tr": "Düzeltilmiş"
+  },
+  {
+    "nl": "afhankelijk",
+    "tr": "bağımlı"
+  },
+  {
+    "nl": "afleiden",
+    "tr": "dikkatini dağıtmak"
+  },
+  {
+    "nl": "afleiding",
+    "tr": "Oyalamak"
+  },
+  {
+    "nl": "Afmetingen",
+    "tr": "Boyutlar"
+  },
+  {
+    "nl": "afremmen op de motor",
+    "tr": "Motor freni yapmak"
+  },
+  {
+    "nl": "Afrijden",
+    "tr": "Uzaklaşmak"
+  },
+  {
+    "nl": "afrit",
+    "tr": "çıkış"
+  },
+  {
+    "nl": "afslaan",
+    "tr": "yönelmek"
+  },
+  {
+    "nl": "afstand",
+    "tr": "Mesafe"
+  },
+  {
+    "nl": "afstellen",
+    "tr": "ayarlamak"
+  },
+  {
+    "nl": "afwijken",
+    "tr": "sapmak"
+  },
+  {
+    "nl": "Afzetten",
+    "tr": "Kapatmak"
+  },
+  {
+    "nl": "Alert",
+    "tr": "Uyanık (dikkatli)"
+  },
+  {
+    "nl": "algemeen",
+    "tr": "genel"
+  },
+  {
+    "nl": "Alle deelnemers",
+    "tr": "Tüm katılımcılar"
+  },
+  {
+    "nl": "Als het na een langere droge periode gaat regenen",
+    "tr": "Eğer uzun bir periyottan sonra yağmur yağarsa"
+  },
+  {
+    "nl": "Als het zicht slecht",
+    "tr": "Eğer görünüm kötüyse"
+  },
+  {
+    "nl": "Als je vanuit een uitrit",
+    "tr": "Sen bir çıkıştaysan"
+  },
+  {
+    "nl": "Als zij met meer dan 1",
+    "tr": "Eğer birden fazla ise"
+  },
+  {
+    "nl": "ambtenaar",
+    "tr": "resmi memur"
+  },
+  {
+    "nl": "Andere vlekken",
+    "tr": "Farklı noktalar"
+  },
+  {
+    "nl": "anticiperen",
+    "tr": "beklemek öngörmek"
+  },
+  {
+    "nl": "Aquaplaning",
+    "tr": "Kızaklama"
+  },
+  {
+    "nl": "Aslast",
+    "tr": "aks yükü"
+  },
+  {
+    "nl": "Asstreep",
+    "tr": "yolu bölen çizgi"
+  },
+  {
+    "nl": "autogordel",
+    "tr": "emniyet Kemeri"
+  },
+  {
+    "nl": "autopech",
+    "tr": "araç arızası"
+  },
+  {
+    "nl": "autorijden",
+    "tr": "Araç kullanmak"
+  },
+  {
+    "nl": "autosnelweg",
+    "tr": "Otoyol"
+  },
+  {
+    "nl": "Autoweg",
+    "tr": "Motorlu taşıt yolu"
+  },
+  {
+    "nl": "Balken",
+    "tr": "Kirişler"
+  },
+  {
+    "nl": "bandenspanning",
+    "tr": "Lastik basıncı"
+  },
+  {
+    "nl": "Barst",
+    "tr": "Çatlak"
+  },
+  {
+    "nl": "Beademing",
+    "tr": "Nefes verme"
+  },
+  {
+    "nl": "Bebouuwde kom",
+    "tr": "Yerleşim birimi"
+  },
+  {
+    "nl": "bebouwde kom",
+    "tr": "yerleşim alanı"
+  },
+  {
+    "nl": "Bedekken",
+    "tr": "Kapsamak"
+  },
+  {
+    "nl": "bedekt",
+    "tr": "kaplı"
+  },
+  {
+    "nl": "Bedoeld",
+    "tr": "İfade etmek"
+  },
+  {
+    "nl": "Bedraagt",
+    "tr": "Olduğu"
+  },
+  {
+    "nl": "bedrag",
+    "tr": "toplam"
+  },
+  {
+    "nl": "bedragen",
+    "tr": "Miktar"
+  },
+  {
+    "nl": "begeleiding",
+    "tr": "eşlik etmek eskort"
+  },
+  {
+    "nl": "beginnende bestuurders",
+    "tr": "Yeni sürücüler"
+  },
+  {
+    "nl": "Begin parkeerverbodzone",
+    "tr": "Park etme yasağı bölgesi"
+  },
+  {
+    "nl": "begroeten",
+    "tr": "Selamlamak"
+  },
+  {
+    "nl": "Beide",
+    "tr": "İkisi"
+  },
+  {
+    "nl": "beide borden",
+    "tr": "Her iki işaret"
+  },
+  {
+    "nl": "beïnvloeden",
+    "tr": "etkilemek"
+  },
+  {
+    "nl": "Beïnvloeding",
+    "tr": "Etki"
+  },
+  {
+    "nl": "Bekent",
+    "tr": "Belirli"
+  },
+  {
+    "nl": "belemmeren",
+    "tr": "aksatmak"
+  },
+  {
+    "nl": "bemanning",
+    "tr": "Mürettebat"
+  },
+  {
+    "nl": "benedenloopendeweg",
+    "tr": "yokuş aşağı"
+  },
+  {
+    "nl": "beneden lopende weg",
+    "tr": "yokuş aşağı yol"
+  },
+  {
+    "nl": "bepaalde",
+    "tr": "bazı"
+  },
+  {
+    "nl": "beperkte",
+    "tr": "sınırlı"
+  },
+  {
+    "nl": "beperkte tijd",
+    "tr": "Sınırlı"
+  },
+  {
+    "nl": "Bereikbaar",
+    "tr": "Hazır"
+  },
+  {
+    "nl": "bereiken",
+    "tr": "ulaşmak"
+  },
+  {
+    "nl": "berm",
+    "tr": "yol kenarı"
+  },
+  {
+    "nl": "bermpaaltje",
+    "tr": "yol kenarı"
+  },
+  {
+    "nl": "beschermen",
+    "tr": "Koruma"
+  },
+  {
+    "nl": "beslissingwegwijzer",
+    "tr": "bilgi tabelası"
+  },
+  {
+    "nl": "Besparen",
+    "tr": "Kurtarmak (tasarruf etmek)"
+  },
+  {
+    "nl": "Bestaande",
+    "tr": "Mevcut"
+  },
+  {
+    "nl": "bestelauto",
+    "tr": "Toptancı aracı"
+  },
+  {
+    "nl": "bestelling",
+    "tr": "sipariş"
+  },
+  {
+    "nl": "bestemd",
+    "tr": "istenen"
+  },
+  {
+    "nl": "bestemd voor",
+    "tr": "yönelik"
+  },
+  {
+    "nl": "Besturen",
+    "tr": "Kontrol"
+  },
+  {
+    "nl": "Bestuurd",
+    "tr": "Kontrolü"
+  },
+  {
+    "nl": "Bestuurders",
+    "tr": "Sürücü"
+  },
+  {
+    "nl": "bestuurdersfouten",
+    "tr": "Sürücü hataları"
+  },
+  {
+    "nl": "Bestuurders uit tegengestelde richting moeten verkeer dat van deze richting nadert voor laten gaan",
+    "tr": "Karşıdan gelen sürücüler bu yönden yaklaşan trafiğe yol vermek zorundadır."
+  },
+  {
+    "nl": "Betere afwaterering",
+    "tr": "İyi drenaj"
+  },
+  {
+    "nl": "betrekking hebben op",
+    "tr": "İle ilgilidir"
+  },
+  {
+    "nl": "Betrokken",
+    "tr": "İlgili"
+  },
+  {
+    "nl": "beveiligingsinstallatie",
+    "tr": "Güvenlik kurumu"
+  },
+  {
+    "nl": "beveiligingsinstallatie defect",
+    "tr": "Kurulumun kusurlu olması"
+  },
+  {
+    "nl": "beveiligingsystemen",
+    "tr": "Güvenlik sistemleri"
+  },
+  {
+    "nl": "bevestigd",
+    "tr": "bağlı takılı"
+  },
+  {
+    "nl": "bevoegde",
+    "tr": "yönlendiren"
+  },
+  {
+    "nl": "Bevoegde ambtenaren",
+    "tr": "Yetkili görevliler"
+  },
+  {
+    "nl": "bevoegde persoon",
+    "tr": "yetkili kişi"
+  },
+  {
+    "nl": "bevor",
+    "tr": "terfi"
+  },
+  {
+    "nl": "bevorderen",
+    "tr": "teşvik etmek"
+  },
+  {
+    "nl": "bevorderen stimuleren",
+    "tr": "teşvik etmek"
+  },
+  {
+    "nl": "Bevriest",
+    "tr": "donma"
+  },
+  {
+    "nl": "bewaakte",
+    "tr": "korunaklı"
+  },
+  {
+    "nl": "bewaakte spoorwegovergang",
+    "tr": "kontrollü demiryolu geçidi"
+  },
+  {
+    "nl": "Bewaar",
+    "tr": "Kurtarmak"
+  },
+  {
+    "nl": "Bewaren",
+    "tr": "Kurtarmak"
+  },
+  {
+    "nl": "beweeg",
+    "tr": "hamle hareket"
+  },
+  {
+    "nl": "bewegen bewoog",
+    "tr": "hamle hareket"
+  },
+  {
+    "nl": "Bewerin",
+    "tr": "İfade"
+  },
+  {
+    "nl": "bewering",
+    "tr": "iddia"
+  },
+  {
+    "nl": "bewusteloos",
+    "tr": "bilinçsiz"
+  },
+  {
+    "nl": "Bewusteloos geraakt",
+    "tr": "Baygın olmak"
+  },
+  {
+    "nl": "Bezig",
+    "tr": "Meşgul"
+  },
+  {
+    "nl": "Bezit",
+    "tr": "Özellik"
+  },
+  {
+    "nl": "bezorgen",
+    "tr": "teslim etmek"
+  },
+  {
+    "nl": "Bij de Eerstvolgende zijweg",
+    "tr": "Birinci sağ çıkıştan"
+  },
+  {
+    "nl": "Bij een splitsing van wegen",
+    "tr": "Yolların çatalı (ayrım yeri)"
+  },
+  {
+    "nl": "Bij gebruik",
+    "tr": "Kullanıldığında"
+  },
+  {
+    "nl": "Bij hoge teorentallen",
+    "tr": "Yüksek hızlarda"
+  },
+  {
+    "nl": "Bij nadering",
+    "tr": "Yaklaşırken"
+  },
+  {
+    "nl": "Bijvoorbeeld",
+    "tr": "Örnek"
+  },
+  {
+    "nl": "Bij welk bord",
+    "tr": "Hangi bord"
+  },
+  {
+    "nl": "Bij welke bevolkingsgroep ligt",
+    "tr": "Hangi nufus grubunda"
+  },
+  {
+    "nl": "Bijzondere",
+    "tr": "Özel"
+  },
+  {
+    "nl": "Binnen Een erf",
+    "tr": "Bir mahalle arasında"
+  },
+  {
+    "nl": "blauwe streep",
+    "tr": "Mavi şerit"
+  },
+  {
+    "nl": "Blijfen",
+    "tr": "Kalmak"
+  },
+  {
+    "nl": "Blijft",
+    "tr": "Devamlı"
+  },
+  {
+    "nl": "Blijschade ontstaan",
+    "tr": "Maddi hasarlı kaza"
+  },
+  {
+    "nl": "blinde",
+    "tr": "görme engelli"
+  },
+  {
+    "nl": "bloedproef",
+    "tr": "Kan testi"
+  },
+  {
+    "nl": "bocht",
+    "tr": "viraj"
+  },
+  {
+    "nl": "Bodem",
+    "tr": "Kir"
+  },
+  {
+    "nl": "Bomen",
+    "tr": "Ağaçlar"
+  },
+  {
+    "nl": "Bord mag aan beide zijden worden voorbij gegaan",
+    "tr": "Levhanın her iki yanından geçme serbestiyeti"
+  },
+  {
+    "nl": "Borstcompressies",
+    "tr": "Kalp masajı"
+  },
+  {
+    "nl": "botsing",
+    "tr": "çarpışma"
+  },
+  {
+    "nl": "Botst",
+    "tr": "Vurmak, çarpmak"
+  },
+  {
+    "nl": "Boven",
+    "tr": "Yukarıda"
+  },
+  {
+    "nl": "Bovenkant",
+    "tr": "Baş"
+  },
+  {
+    "nl": "brandstof",
+    "tr": "yakıt"
+  },
+  {
+    "nl": "Brandstofgebruik",
+    "tr": "Yakıt tüketimi"
+  },
+  {
+    "nl": "brandstofverbruik",
+    "tr": "yakıt tüketimi"
+  },
+  {
+    "nl": "Brandweerauto",
+    "tr": "İtfaiye"
+  },
+  {
+    "nl": "Breder",
+    "tr": "Daha geniş"
+  },
+  {
+    "nl": "Breedte",
+    "tr": "Genişlik"
+  },
+  {
+    "nl": "Breek",
+    "tr": "Kırmak"
+  },
+  {
+    "nl": "Brommobielen",
+    "tr": "Moped araba"
+  },
+  {
+    "nl": "Bruggen",
+    "tr": "Köprüler"
+  },
+  {
+    "nl": "Buiten de bebouwde kom",
+    "tr": "Şehir dışında"
+  },
+  {
+    "nl": "calamiteit",
+    "tr": "felaket"
+  },
+  {
+    "nl": "Calamiteiten",
+    "tr": "Felaket"
+  },
+  {
+    "nl": "carpoolen",
+    "tr": "ortak otomobil"
+  },
+  {
+    "nl": "centrifugale",
+    "tr": "merkezkaç kuvveti"
+  },
+  {
+    "nl": "centrifugale krachten",
+    "tr": "merkez kaç kuvveti"
+  },
+  {
+    "nl": "Cijfer",
+    "tr": "Şekil"
+  },
+  {
+    "nl": "circa",
+    "tr": "yaklaşık"
+  },
+  {
+    "nl": "Circa (ongeveer)",
+    "tr": "yaklaşık olarak"
+  },
+  {
+    "nl": "claustrofobie",
+    "tr": "Kapalı alan fobisi"
+  },
+  {
+    "nl": "constante snelheid",
+    "tr": "sabit hız"
+  },
+  {
+    "nl": "Controlelampje",
+    "tr": "Gösterge ışığı"
+  },
+  {
+    "nl": "Correct",
+    "tr": "Vermek"
+  },
+  {
+    "nl": "correct reageren",
+    "tr": "doğru tepki ver"
+  },
+  {
+    "nl": "corresponderen",
+    "tr": "Uygun"
+  },
+  {
+    "nl": "daar",
+    "tr": "zamir (yer, şahıs)"
+  },
+  {
+    "nl": "Daaran zoveel mogelijk aanpassen",
+    "tr": "Mümkün olduğu kadar aradaki mesafeyi korumak"
+  },
+  {
+    "nl": "Daardoor heeft",
+    "tr": "Bundan dolayı"
+  },
+  {
+    "nl": "Daarmee",
+    "tr": "Birlikte"
+  },
+  {
+    "nl": "Daarom",
+    "tr": "Dolayısıyla"
+  },
+  {
+    "nl": "Daar staan",
+    "tr": "Orada durulur"
+  },
+  {
+    "nl": "dader",
+    "tr": "suçlu"
+  },
+  {
+    "nl": "Dakkoffer",
+    "tr": "Çatı bağajı"
+  },
+  {
+    "nl": "daling",
+    "tr": "aşağı doğru rampa"
+  },
+  {
+    "nl": "dashboard",
+    "tr": "gösterge paneli"
+  },
+  {
+    "nl": "dashboardkast",
+    "tr": "gösterge paneli"
+  },
+  {
+    "nl": "Dat is milieubewuster",
+    "tr": "Daha çevreye duyarlı"
+  },
+  {
+    "nl": "Dat is niet strafbaar",
+    "tr": "Cezalandırılamaz"
+  },
+  {
+    "nl": "Dat mag maar liever iets zoets",
+    "tr": "Tatlı bir şeyden daha iyi"
+  },
+  {
+    "nl": "De afstand tussen beide",
+    "tr": "İkisi arasındaki mesafe"
+  },
+  {
+    "nl": "de afstand tussen beide auto's",
+    "tr": "İki aracın arasındaki mesafe"
+  },
+  {
+    "nl": "Dealbare",
+    "tr": "Bölünen"
+  },
+  {
+    "nl": "de bebouwde kom",
+    "tr": "Yerleşim alanı"
+  },
+  {
+    "nl": "De bemanning Coördineert",
+    "tr": "Mürettabat kordine eder."
+  },
+  {
+    "nl": "de controle verliezen",
+    "tr": "könrölü kaybetmek"
+  },
+  {
+    "nl": "De daaronder",
+    "tr": "Bunun altında"
+  },
+  {
+    "nl": "De dader",
+    "tr": "Fail"
+  },
+  {
+    "nl": "De dode hoek",
+    "tr": "Kör nokta"
+  },
+  {
+    "nl": "De doorgaande rijbaan oprijden",
+    "tr": "Yol boyunca ilerlemek"
+  },
+  {
+    "nl": "De doorgetrokken streep",
+    "tr": "Düz çizgi"
+  },
+  {
+    "nl": "de doorstroming",
+    "tr": "akış"
+  },
+  {
+    "nl": "de eigenaar",
+    "tr": "Araç sahibi"
+  },
+  {
+    "nl": "deelbare",
+    "tr": "paylaşılabilir"
+  },
+  {
+    "nl": "deelnemer",
+    "tr": "katılma"
+  },
+  {
+    "nl": "Deelnemers",
+    "tr": "Katılımcılar"
+  },
+  {
+    "nl": "De extra gevaren",
+    "tr": "Ekstra tehlikeler"
+  },
+  {
+    "nl": "defecte",
+    "tr": "arızalı"
+  },
+  {
+    "nl": "De gemiddelde reactietijd",
+    "tr": "Ortalama tepki süresi"
+  },
+  {
+    "nl": "Degene",
+    "tr": "İlk"
+  },
+  {
+    "nl": "De gewonde",
+    "tr": "Yaralı"
+  },
+  {
+    "nl": "de halte wegrijden",
+    "tr": "duraktan yola çıkmak"
+  },
+  {
+    "nl": "De helm (-en)",
+    "tr": "Kask"
+  },
+  {
+    "nl": "De inhaalafstand",
+    "tr": "Sollama mesafesi"
+  },
+  {
+    "nl": "De kant",
+    "tr": "Kenar"
+  },
+  {
+    "nl": "De lange ondeelbare lading",
+    "tr": "Uzun bölünemez yük"
+  },
+  {
+    "nl": "De life-hamer",
+    "tr": "Can çekici"
+  },
+  {
+    "nl": "De maximumsnelheid op autosnelwegen is 130 km / u.",
+    "tr": "Otoyollarda maksimum hız 130 km / saattir."
+  },
+  {
+    "nl": "De medische hulp",
+    "tr": "Tıbbi yardım"
+  },
+  {
+    "nl": "De meeste dodelijke",
+    "tr": "En ölümcül"
+  },
+  {
+    "nl": "De motor direct afzetten",
+    "tr": "Motoru Kapatmak (durdurmak)"
+  },
+  {
+    "nl": "De motor stationair warm draaien",
+    "tr": "Motoru rölantide çalıştırarak ısıtmak"
+  },
+  {
+    "nl": "De oorzaak",
+    "tr": "Sebep"
+  },
+  {
+    "nl": "De oorzaken van verkeersongevallen",
+    "tr": "Trafik kazalarının nedenleri"
+  },
+  {
+    "nl": "De overige bestuurders",
+    "tr": "Diğer tüm sürücüler"
+  },
+  {
+    "nl": "De radio uitzetten",
+    "tr": "Radyoyu kapat"
+  },
+  {
+    "nl": "de registrerer",
+    "tr": "Kayıt"
+  },
+  {
+    "nl": "De remweg",
+    "tr": "Fren mesafesi"
+  },
+  {
+    "nl": "De remweg blijft gelijk",
+    "tr": "Fren mesafesi aynı kalır"
+  },
+  {
+    "nl": "De remweg neemt af",
+    "tr": "Fren mesafesi azalır"
+  },
+  {
+    "nl": "De remweg neemt toe",
+    "tr": "Fren mesafesi artar"
+  },
+  {
+    "nl": "De rijbaan oprijden",
+    "tr": "Yola çıkmak"
+  },
+  {
+    "nl": "De rijrichting",
+    "tr": "Sürüş yönü"
+  },
+  {
+    "nl": "de rotonde verlaten",
+    "tr": "Kavşaktan ayrılmak"
+  },
+  {
+    "nl": "de ruitenwissers",
+    "tr": "cam silecekleri"
+  },
+  {
+    "nl": "de snelheid",
+    "tr": "HızlıLIK"
+  },
+  {
+    "nl": "de som",
+    "tr": "toplam"
+  },
+  {
+    "nl": "deur om te schakelen bij een zo hoog mogelijk toerental",
+    "tr": "mümkün olan en yüksek hızda geçiş yaparak"
+  },
+  {
+    "nl": "deur om te schakelen bij een zo laag mogelijk toerental",
+    "tr": "mümkün olan en düşük hızda geçiş yaparak"
+  },
+  {
+    "nl": "de veiligheidseisen",
+    "tr": "Güvenlik gereklilikleri"
+  },
+  {
+    "nl": "De veiligste plek",
+    "tr": "En güvenli yer"
+  },
+  {
+    "nl": "De wegbeheerder",
+    "tr": "Yol görevlisi"
+  },
+  {
+    "nl": "De wet",
+    "tr": "Kanun"
+  },
+  {
+    "nl": "Dezelfte",
+    "tr": "Aynı"
+  },
+  {
+    "nl": "De zijkanten",
+    "tr": "Kenar"
+  },
+  {
+    "nl": "de zon schijnt",
+    "tr": "Güneş parlıyor"
+  },
+  {
+    "nl": "diagonaal",
+    "tr": "çapraz"
+  },
+  {
+    "nl": "dichtstbijzijnde",
+    "tr": "En yakın"
+  },
+  {
+    "nl": "dijk",
+    "tr": "hendek"
+  },
+  {
+    "nl": "Dijkwegen",
+    "tr": "Set üstü yolları (60'lık gibi)"
+  },
+  {
+    "nl": "Dimlicht",
+    "tr": "kısa far"
+  },
+  {
+    "nl": "Dimlicht aan",
+    "tr": "Sis lambası"
+  },
+  {
+    "nl": "Direckt krachtig afremmen",
+    "tr": "Hemen güçlü fren yapmak"
+  },
+  {
+    "nl": "dode hoek",
+    "tr": "kör nokta"
+  },
+  {
+    "nl": "dodelijk",
+    "tr": "Ölümcül"
+  },
+  {
+    "nl": "Donker",
+    "tr": "Karanlık"
+  },
+  {
+    "nl": "dood",
+    "tr": "ölü"
+  },
+  {
+    "nl": "doodlopende weg",
+    "tr": "çıkmaz sokak"
+  },
+  {
+    "nl": "Door",
+    "tr": "Dolayısla"
+  },
+  {
+    "nl": "Door de passagiers",
+    "tr": "Yolcular tarafından"
+  },
+  {
+    "nl": "doorgaan",
+    "tr": "ilerlemek"
+  },
+  {
+    "nl": "doorgaand",
+    "tr": "içinden bastan basa"
+  },
+  {
+    "nl": "door geleidelijk",
+    "tr": "yavaş yavaş"
+  },
+  {
+    "nl": "Doorgetrokken",
+    "tr": "Düz çizgi"
+  },
+  {
+    "nl": "Doorgetrokken streep",
+    "tr": "düz çizgi"
+  },
+  {
+    "nl": "Door goed anticiperen",
+    "tr": "İyi tahmin ederek"
+  },
+  {
+    "nl": "Door goed te anticiperen",
+    "tr": "İyi tahmin ederek"
+  },
+  {
+    "nl": "doorsneden",
+    "tr": "araya (yola) girmek (kesmek)"
+  },
+  {
+    "nl": "doorsnijden",
+    "tr": "Kesmek, araya girmek"
+  },
+  {
+    "nl": "Door te gaan",
+    "tr": "Devam etmek"
+  },
+  {
+    "nl": "door voorzichtig te rijden",
+    "tr": "dikkatle sürerek"
+  },
+  {
+    "nl": "Dorp",
+    "tr": "Köy"
+  },
+  {
+    "nl": "dovane",
+    "tr": "gümrük"
+  },
+  {
+    "nl": "dreigend",
+    "tr": "tehdit"
+  },
+  {
+    "nl": "drempel",
+    "tr": "tümsek"
+  },
+  {
+    "nl": "Driehoek",
+    "tr": "Üçgen"
+  },
+  {
+    "nl": "Drugs",
+    "tr": "Uyuşturucular"
+  },
+  {
+    "nl": "Drukke weg",
+    "tr": "Yoğun yol"
+  },
+  {
+    "nl": "Dus",
+    "tr": "Böylece"
+  },
+  {
+    "nl": "Educatieve Maatregel Alcohol",
+    "tr": "Alkol Eğitimi Yönetimi"
+  },
+  {
+    "nl": "Eeinde spitsstrook",
+    "tr": "Yoğun trafik şeridinin sonu"
+  },
+  {
+    "nl": "eenassige",
+    "tr": "dingil"
+  },
+  {
+    "nl": "Een bekende rijden",
+    "tr": "Tanıdık bir sürücü"
+  },
+  {
+    "nl": "Een boete krijken",
+    "tr": "Para cezası"
+  },
+  {
+    "nl": "Een eigen gemaakte kentekenplaat",
+    "tr": "Elde yapılmış plaka"
+  },
+  {
+    "nl": "Een gedeelte van de weg",
+    "tr": "Yolun bir bölümü"
+  },
+  {
+    "nl": "een gewone weg",
+    "tr": "normal bir yol"
+  },
+  {
+    "nl": "een helling",
+    "tr": "Eğim"
+  },
+  {
+    "nl": "Een hogere versnelling gaan rijden",
+    "tr": "Yüksek vitesle araç sürmek"
+  },
+  {
+    "nl": "Een juist ingestelde parkeerschijf",
+    "tr": "Düzgün ayarlanmış park göstergesi"
+  },
+  {
+    "nl": "een keuze maken",
+    "tr": "Bir seçim yapmak"
+  },
+  {
+    "nl": "Een lage versnelling",
+    "tr": "Düşük vites"
+  },
+  {
+    "nl": "Een lekke band",
+    "tr": "Bir patlak lastik"
+  },
+  {
+    "nl": "Een obstakel vormt",
+    "tr": "Bir engel oluşturmak"
+  },
+  {
+    "nl": "Een oplegger",
+    "tr": "Römork"
+  },
+  {
+    "nl": "Een paar keer",
+    "tr": "Birkaç defa"
+  },
+  {
+    "nl": "een passagier valt",
+    "tr": "Bir yolcu indirmek"
+  },
+  {
+    "nl": "Een poging om gevaar af te wenden",
+    "tr": "Bir tehlikeyi önleme girişimi"
+  },
+  {
+    "nl": "Éénrichtingsverkeer",
+    "tr": "Tek yönlü yol"
+  },
+  {
+    "nl": "eenrichtingsweg",
+    "tr": "tek yönlü yol"
+  },
+  {
+    "nl": "eenrichtingswegin deze richting gesloten voor voertuigen ruiters en geleiders van rij- of trekdieren of vee",
+    "tr": "Tek yönlü yol: bu yönde araçlara atlara binek ve kuşum hayvanları ve büyükbaş hayvanların sürülerine kapalıdır."
+  },
+  {
+    "nl": "Een rijstrook opschuiven",
+    "tr": "Şeritte ilerlemek"
+  },
+  {
+    "nl": "Eens",
+    "tr": "Bir kere"
+  },
+  {
+    "nl": "Een stilstaande file",
+    "tr": "Bir (durgun) trafik yoğunluğu"
+  },
+  {
+    "nl": "Een stilstaand voertuig",
+    "tr": "Sabit bir araç"
+  },
+  {
+    "nl": "eentonig",
+    "tr": "monoton"
+  },
+  {
+    "nl": "eentonig saai",
+    "tr": "monoton"
+  },
+  {
+    "nl": "een tunnel die een lengte heeft van 17 kilometer",
+    "tr": "17 km uzunluğunda bir tünel"
+  },
+  {
+    "nl": "Eenzijdig ongeluk",
+    "tr": "Tek taraflı kaza"
+  },
+  {
+    "nl": "eerder glad",
+    "tr": "kaygan"
+  },
+  {
+    "nl": "efficiëntie",
+    "tr": "verimli"
+  },
+  {
+    "nl": "Eiende of versmalling vluchtstrook",
+    "tr": "Yol daralması veya emniyet şeridin bitimi (2 metreden az) veya emniyet şeridine dönüşmeyen giriş şeridi sonu"
+  },
+  {
+    "nl": "eigenaar",
+    "tr": "mal sahibi"
+  },
+  {
+    "nl": "eigen vaardighedin",
+    "tr": "kendi becerilerini"
+  },
+  {
+    "nl": "Einde adviessnelheid",
+    "tr": "Tavsiye hız sınırı sonu"
+  },
+  {
+    "nl": "Einde autosnelweg",
+    "tr": "Otoyolun sonu"
+  },
+  {
+    "nl": "Einde autoweg",
+    "tr": "Motorlu taşıt yolunun sonu"
+  },
+  {
+    "nl": "Einde erf",
+    "tr": "İkamet alanı sonu"
+  },
+  {
+    "nl": "Einde maximum snelheid",
+    "tr": "Azami hız sınırlaması sonu"
+  },
+  {
+    "nl": "Einde parkeerverbodzone",
+    "tr": "Park etme yasağı bölgesi sonu"
+  },
+  {
+    "nl": "Einde van alle door verkeersborden aangegeven verboden",
+    "tr": "Trafik levhaları ile konulan tüm yasakların sonu"
+  },
+  {
+    "nl": "Einde van alle op een elektronisch signaleringsbord aangegeven verboden",
+    "tr": "Elektronik levhalarla konulan tüm yasakların sonu"
+  },
+  {
+    "nl": "Einde verbod voor motorvoertuigen om elkaar onderling in te halen",
+    "tr": "Motorlu taşıtların birbirlerini geçme yasağının sonu"
+  },
+  {
+    "nl": "Einde voetpad",
+    "tr": "Yaya yolunun sonu"
+  },
+  {
+    "nl": "Einde voorrangsweg",
+    "tr": "Anayol sonu"
+  },
+  {
+    "nl": "Eindigen",
+    "tr": "Sonlanması"
+  },
+  {
+    "nl": "Elkaar",
+    "tr": "Birbirlerini"
+  },
+  {
+    "nl": "En daarnaar te handelen",
+    "tr": "Ve buna göre hareket etmek"
+  },
+  {
+    "nl": "Enkele",
+    "tr": "1 kaç"
+  },
+  {
+    "nl": "Ergens",
+    "tr": "Bir yerde"
+  },
+  {
+    "nl": "Erg mistig",
+    "tr": "Çok sisli"
+  },
+  {
+    "nl": "Er is een storing",
+    "tr": "Bir arıza var."
+  },
+  {
+    "nl": "Er is ongeluk gebeurd",
+    "tr": "Kaza oldu"
+  },
+  {
+    "nl": "ernstig",
+    "tr": "Ciddi"
+  },
+  {
+    "nl": "Eruit",
+    "tr": "Dışarı"
+  },
+  {
+    "nl": "Eruit trekt",
+    "tr": "Çekmek"
+  },
+  {
+    "nl": "Ervaren bestuurders",
+    "tr": "Deneyimli şoförler"
+  },
+  {
+    "nl": "essentiële",
+    "tr": "hayali"
+  },
+  {
+    "nl": "evenement",
+    "tr": "Olay"
+  },
+  {
+    "nl": "evenredig",
+    "tr": "Orantılı"
+  },
+  {
+    "nl": "Eventueel",
+    "tr": "Gerektiğinde"
+  },
+  {
+    "nl": "Even verderop",
+    "tr": "Biraz uzakta"
+  },
+  {
+    "nl": "exclusief",
+    "tr": "özel ayrıcalıklı"
+  },
+  {
+    "nl": "Extra op letten",
+    "tr": "Ekstra dikkat etmek"
+  },
+  {
+    "nl": "feit",
+    "tr": "gerçek"
+  },
+  {
+    "nl": "fel",
+    "tr": "şiddetle sertçe"
+  },
+  {
+    "nl": "Fiets-/ bromfietspad",
+    "tr": "Mecburi bisiklet ve motorlu bisiklet yolu"
+  },
+  {
+    "nl": "Fietsen met trapondersteuning",
+    "tr": "pedallı bisikletler"
+  },
+  {
+    "nl": "Fietsstroken",
+    "tr": "Bisiklet yolları"
+  },
+  {
+    "nl": "File",
+    "tr": "Trafik yoğunluğu"
+  },
+  {
+    "nl": "Gas los laten",
+    "tr": "gaz pedalını serbest bırakma"
+  },
+  {
+    "nl": "gebeiden",
+    "tr": "alan"
+  },
+  {
+    "nl": "Geblaats",
+    "tr": "Yerleştirilmiş"
+  },
+  {
+    "nl": "gebleken",
+    "tr": "olduğunu ortaya çıkardı"
+  },
+  {
+    "nl": "gebod",
+    "tr": "emir"
+  },
+  {
+    "nl": "Gebod tot het volgen van de rijrichting die op het bord is aangegeven",
+    "tr": "Levhada belirtilen yönü takip etme mecburiyeti"
+  },
+  {
+    "nl": "Gebod voor alle bestuurders het bord voorbij te gaan aan de zijde die de pijl aangeeft.",
+    "tr": "Tüm sürücülere levhadaki okun gösterdiği yönden gitme mecburiyeti"
+  },
+  {
+    "nl": "gebouwen",
+    "tr": "Binalar"
+  },
+  {
+    "nl": "Gedragen",
+    "tr": "Davranmak"
+  },
+  {
+    "nl": "geef ritser ruimte",
+    "tr": "boşluk verme"
+  },
+  {
+    "nl": "Gegavens staan",
+    "tr": "Veri (detaylar)"
+  },
+  {
+    "nl": "Gegeven",
+    "tr": "Verilen"
+  },
+  {
+    "nl": "gehandicapten",
+    "tr": "Özürlü insanlar"
+  },
+  {
+    "nl": "gehandicaptenparkeerplaats",
+    "tr": "Engelliler aracı park yeri"
+  },
+  {
+    "nl": "Gehandicaptenvoertuig",
+    "tr": "engelli aracı"
+  },
+  {
+    "nl": "Gehele",
+    "tr": "Bütün, tamamı"
+  },
+  {
+    "nl": "Gehouden",
+    "tr": "Bekletilen"
+  },
+  {
+    "nl": "Geldig",
+    "tr": "Geçerlilik"
+  },
+  {
+    "nl": "Geldigheid",
+    "tr": "Geçerlilik"
+  },
+  {
+    "nl": "geldt",
+    "tr": "uygulamak"
+  },
+  {
+    "nl": "Gelegen",
+    "tr": "Bulunan"
+  },
+  {
+    "nl": "gelegenheid bestemd voor het onmiddellijk laden en lossen van goederen",
+    "tr": "Yükleme ve boşaltma işlemlerinin hemen yapılması için park yeri"
+  },
+  {
+    "nl": "gelegen zijn",
+    "tr": "uygun elverişli"
+  },
+  {
+    "nl": "geleidelijk",
+    "tr": "kademeli olarak"
+  },
+  {
+    "nl": "gelijkaardige",
+    "tr": "Eş değer (kavşak)"
+  },
+  {
+    "nl": "gelijkaardig rotonde",
+    "tr": "Eşit kavşak"
+  },
+  {
+    "nl": "Gelijkmatiger",
+    "tr": "Eşit"
+  },
+  {
+    "nl": "gelijkwaardig",
+    "tr": "Eşit kavşak"
+  },
+  {
+    "nl": "Gelijkwaardig kruispunt",
+    "tr": "Eş değer kavşak"
+  },
+  {
+    "nl": "Geluidsniveau",
+    "tr": "Ses seviyesi"
+  },
+  {
+    "nl": "geluidssignalen",
+    "tr": "Ses sinyalleri"
+  },
+  {
+    "nl": "Geluidswallen",
+    "tr": "Ses duvarları"
+  },
+  {
+    "nl": "Gemarkeerd",
+    "tr": "İşaretli"
+  },
+  {
+    "nl": "gemiddelde",
+    "tr": "Ortalama"
+  },
+  {
+    "nl": "Geneesmiddelen",
+    "tr": "İlaçlar"
+  },
+  {
+    "nl": "Genoeg",
+    "tr": "Yeterince"
+  },
+  {
+    "nl": "Genoeg ruimte",
+    "tr": "Yeterli mesafe"
+  },
+  {
+    "nl": "Genoeg snelheid",
+    "tr": "Yeterli hız"
+  },
+  {
+    "nl": "Gepaste snelheid",
+    "tr": "Uygun hız"
+  },
+  {
+    "nl": "Geplaatst",
+    "tr": "Yerleştirilmiş"
+  },
+  {
+    "nl": "Geraakt",
+    "tr": "Dokunma"
+  },
+  {
+    "nl": "Geregeld",
+    "tr": "Düzenli olarak"
+  },
+  {
+    "nl": "gericht zijn",
+    "tr": "hüküm odaklı hedefli"
+  },
+  {
+    "nl": "geschieden",
+    "tr": "ayrılmış"
+  },
+  {
+    "nl": "Geschikt",
+    "tr": "Uygun"
+  },
+  {
+    "nl": "Gesleept",
+    "tr": "Çekilen"
+  },
+  {
+    "nl": "Gesloten in beide richtingen voor voortuigen, ruiters en geleiders van rij- of trekdieren of vee",
+    "tr": "Her iki yönde araçlara, atlılara, binek ve koşum hayvanları ve büyükbaş hayvanların sürücülerine kapalıdır"
+  },
+  {
+    "nl": "Gesloten motorvoertuigen met aanhangwagen",
+    "tr": "Römorklu motorlu araçlar giremez."
+  },
+  {
+    "nl": "Gesloten voor alle motorvoertuigen",
+    "tr": "Motorlu taşıtlar giremez."
+  },
+  {
+    "nl": "Gesloten voor autobussen",
+    "tr": "Otobüsler giremez."
+  },
+  {
+    "nl": "Gesloten voor autobussen en vrachtauto's",
+    "tr": "Otobüs ve kamyon giremez."
+  },
+  {
+    "nl": "Gesloten voor bromfietsen, snorfietsen en gehandicaptenvoertuigen met in werking zijnde motor",
+    "tr": "Motoru çalışır vaziyette olan motorlu bisiklet ve engelli araçları giremez."
+  },
+  {
+    "nl": "Gesloten voor fietsen, snorfietsen, bromfietsen en gehandicaptenvoertuigen.",
+    "tr": "Bisiklet, küçük motorlu bisiklet ve engelli engelli aracı giremez."
+  },
+  {
+    "nl": "Gesloten voor motorfietsen",
+    "tr": "Motorsikletler giremez."
+  },
+  {
+    "nl": "Gesloten voor motorvoertuigen die niet sneller kunnen of mogen rijden dan 25 km/u",
+    "tr": "Saatte 25 km'den fazla hız yapamayan veya yapması yasak olan motorlu taşıtlar giremez"
+  },
+  {
+    "nl": "Gesloten voor motorvoertuigen op meer dan twee wielen",
+    "tr": "İkiden fazla tekerleği olan motorlu taşıtlar giremez."
+  },
+  {
+    "nl": "Gesloten voor ruiters, vee, wagens, motorvoertuigen die niet sneller kunnen of mogen rijden dan 25 km/u",
+    "tr": "Atlılar, büyükbaş hayvanlar, arabalar, saat 25 km'den fazla hız yapamayan veya yapması yasak olan motoru taşıtlar ve otomobiller ve de bisiklet, motorlu bisiklet, engelliler aracı için kapalıdır"
+  },
+  {
+    "nl": "Gesloten voor voertuigen die, met inbegrip van de ladin, heger zijn dan op het bord is aangegeven",
+    "tr": "Yüksekliği yükü ile birlikte levhadan belirtilen ölçüden yüksek olan araç giremez"
+  },
+  {
+    "nl": "Gesloten voor voertuigen die, met inbegrip van de lading, breder zijn dan op het bord is aangegeven",
+    "tr": "Genişliği, yüküyle beraber levhada belirtilen ölçüden geniş olan araç giremez."
+  },
+  {
+    "nl": "Gesloten voor voertuigen en samenstellen van voertuigen, waarvan de totaalmassa hoger is dan op het bord is aangegeven",
+    "tr": "Toplam ağırlığı levhada belirtilen değerden fazla olan araç ve katar giremez."
+  },
+  {
+    "nl": "Gesloten voor voertuigen en samenstellen van voertuigen die met inbegrip van de lading , langer zijn dan op het bord is aangegeven.",
+    "tr": "Uzunluğu, yüküyle beraber levhada belirtilen ölçüden uzun olan araç ev katar giremez."
+  },
+  {
+    "nl": "Gesloten voor voertuigen waarvan de aslast hoger is dan op het bord is aangegeven",
+    "tr": "Dingil başına belirtilen miktarda fazla yük düşen araç giremez."
+  },
+  {
+    "nl": "Gesloten voor voetgangers",
+    "tr": "Yayalar giremez."
+  },
+  {
+    "nl": "Gesloten voor voortuigen met bepaalde gevaarlijke stoffen.",
+    "tr": "Belirli bir tehlikeli madde taşıyan araç giremez."
+  },
+  {
+    "nl": "Gesloten voor vrachtauto's",
+    "tr": "Kamyonlar giremez."
+  },
+  {
+    "nl": "getuig",
+    "tr": "tanık"
+  },
+  {
+    "nl": "Getuige",
+    "tr": "Tanık"
+  },
+  {
+    "nl": "Gevaar",
+    "tr": "Tehlike"
+  },
+  {
+    "nl": "gevaarherkening",
+    "tr": "tehlike algılama"
+  },
+  {
+    "nl": "Gevaarherkenning",
+    "tr": "tehlikeyi sezme"
+  },
+  {
+    "nl": "gevaarlijke daling",
+    "tr": "Tehlike iniş (bordu %10)"
+  },
+  {
+    "nl": "gevaarlijke stoffen",
+    "tr": "Tehlikeli madde"
+  },
+  {
+    "nl": "Gevallen",
+    "tr": "Olaylar"
+  },
+  {
+    "nl": "Geval van pech",
+    "tr": "Kötü şans"
+  },
+  {
+    "nl": "gevangenisstraf",
+    "tr": "hapis"
+  },
+  {
+    "nl": "gevoelig",
+    "tr": "hassas"
+  },
+  {
+    "nl": "gevoelige",
+    "tr": "duyarlı"
+  },
+  {
+    "nl": "gevolgen",
+    "tr": "Etkiler"
+  },
+  {
+    "nl": "gewaarschuwd",
+    "tr": "Uyarısında"
+  },
+  {
+    "nl": "Gewond",
+    "tr": "Yaralılar"
+  },
+  {
+    "nl": "Gewonde",
+    "tr": "Yaralı"
+  },
+  {
+    "nl": "Gewoon",
+    "tr": "Sadece"
+  },
+  {
+    "nl": "Gezakt",
+    "tr": "Başarısız"
+  },
+  {
+    "nl": "Gezicht",
+    "tr": "Yüz"
+  },
+  {
+    "nl": "gips",
+    "tr": "alçı"
+  },
+  {
+    "nl": "Glad",
+    "tr": "Kayganlaşmak"
+  },
+  {
+    "nl": "gladde",
+    "tr": "kaygan"
+  },
+  {
+    "nl": "gladheid",
+    "tr": "kayganlık"
+  },
+  {
+    "nl": "Goede hoor",
+    "tr": "İyi işitme"
+  },
+  {
+    "nl": "Goedelen laden",
+    "tr": "Mal teslim almak"
+  },
+  {
+    "nl": "Goedelen lossen",
+    "tr": "Malları bırakmak"
+  },
+  {
+    "nl": "Goederen",
+    "tr": "Mallar"
+  },
+  {
+    "nl": "Goedkeuringsmark",
+    "tr": "Onaylı"
+  },
+  {
+    "nl": "goedkeuringsmerk",
+    "tr": "plaka onay işareti"
+  },
+  {
+    "nl": "Gordels",
+    "tr": "Kemerler"
+  },
+  {
+    "nl": "Grensovergangen",
+    "tr": "Sınır kapısı"
+  },
+  {
+    "nl": "grind",
+    "tr": "çakıl"
+  },
+  {
+    "nl": "Grip",
+    "tr": "Kavrama"
+  },
+  {
+    "nl": "Grootlicht",
+    "tr": "uzun far"
+  },
+  {
+    "nl": "gunstig",
+    "tr": "olumlu"
+  },
+  {
+    "nl": "haaientanden",
+    "tr": "köpek balığı dişleri"
+  },
+  {
+    "nl": "Haast",
+    "tr": "Acele"
+  },
+  {
+    "nl": "Haastige",
+    "tr": "Acele"
+  },
+  {
+    "nl": "Hagel",
+    "tr": "Dolu"
+  },
+  {
+    "nl": "Halve meten",
+    "tr": "Yarım metre"
+  },
+  {
+    "nl": "handelen",
+    "tr": "Hareket"
+  },
+  {
+    "nl": "Handig",
+    "tr": "Kullanışlı, yararlı"
+  },
+  {
+    "nl": "hectometerpaal",
+    "tr": "hangi km deyiz"
+  },
+  {
+    "nl": "helm",
+    "tr": "kask"
+  },
+  {
+    "nl": "helt",
+    "tr": "eğimli"
+  },
+  {
+    "nl": "herkennen",
+    "tr": "tanımak"
+  },
+  {
+    "nl": "herstellen",
+    "tr": "Tahmin etmek"
+  },
+  {
+    "nl": "herstellen repareren",
+    "tr": "tamir etme"
+  },
+  {
+    "nl": "herstellen van",
+    "tr": "onarım"
+  },
+  {
+    "nl": "Het achteropkomend",
+    "tr": "Arkadan"
+  },
+  {
+    "nl": "Het dichte blader dak",
+    "tr": "Yoğun ağaç gölgesi"
+  },
+  {
+    "nl": "het hele jaar",
+    "tr": "tüm yıl"
+  },
+  {
+    "nl": "het inschatten",
+    "tr": "tahmin etmek"
+  },
+  {
+    "nl": "Het invoegende voortuig",
+    "tr": "Yola giren araç"
+  },
+  {
+    "nl": "Het landelijke",
+    "tr": "Ülke çapında"
+  },
+  {
+    "nl": "het maakt niet",
+    "tr": "önemi yok"
+  },
+  {
+    "nl": "Het maakt niet uit",
+    "tr": "Önemi yok"
+  },
+  {
+    "nl": "Het meest veilig",
+    "tr": "En güvenli"
+  },
+  {
+    "nl": "het milieu",
+    "tr": "Çevre"
+  },
+  {
+    "nl": "het motorblok schoonspuiten",
+    "tr": "Motoru temizlemek"
+  },
+  {
+    "nl": "Het paard",
+    "tr": "At"
+  },
+  {
+    "nl": "het remvermogen",
+    "tr": "fren gücü"
+  },
+  {
+    "nl": "Het stuur steviger vasthouden",
+    "tr": "Direksiyonu daha sıkı tutun."
+  },
+  {
+    "nl": "Het trekkendvermogen",
+    "tr": "Çekme gücü"
+  },
+  {
+    "nl": "Het uitvoegende voertuig",
+    "tr": "Çıkan araç"
+  },
+  {
+    "nl": "het uitzicht wordt belemmerd",
+    "tr": "Görüntüyü engellemek"
+  },
+  {
+    "nl": "het verkeer aan de wegkant",
+    "tr": "yolun kenarındaki trafik"
+  },
+  {
+    "nl": "het voertuig",
+    "tr": "Arka taraf"
+  },
+  {
+    "nl": "Hetzelfte",
+    "tr": "Aynı"
+  },
+  {
+    "nl": "Het zicht door",
+    "tr": "Ön görmek, bakış açısı"
+  },
+  {
+    "nl": "Het zicht is niet erg belemmerd; U voert mist voorlicht in combinatie met dimlicht; Mag dat?",
+    "tr": "Görünüm ciddi olarak engellenmedi; Kısa hüzmeli farlarla birlikte sis lambası çalıştırıyorsunuz; Buna izin var mı?"
+  },
+  {
+    "nl": "Het zicht is uitstekend",
+    "tr": "Görünüm mükemmel"
+  },
+  {
+    "nl": "Heupgordel",
+    "tr": "Kucak kemeri"
+  },
+  {
+    "nl": "hierdoor",
+    "tr": "Bundan dolayı"
+  },
+  {
+    "nl": "Hinder",
+    "tr": "Sıkıntı"
+  },
+  {
+    "nl": "hinderen",
+    "tr": "sıkıntılı"
+  },
+  {
+    "nl": "Hinder veroorzaken",
+    "tr": "Engel oluşturmak"
+  },
+  {
+    "nl": "hodometer",
+    "tr": "kilometre sayacı"
+  },
+  {
+    "nl": "hoefen niet (geen)",
+    "tr": "gerek yok"
+  },
+  {
+    "nl": "hoeft niet (geen)",
+    "tr": "gerekli değil"
+  },
+  {
+    "nl": "hoeven te",
+    "tr": "Gereklilik"
+  },
+  {
+    "nl": "HOE ver",
+    "tr": "ne kadar uzak"
+  },
+  {
+    "nl": "Hoger",
+    "tr": "Yüksek"
+  },
+  {
+    "nl": "hogere mate",
+    "tr": "üst düzey"
+  },
+  {
+    "nl": "Hoofd",
+    "tr": "Kafa"
+  },
+  {
+    "nl": "Hoofdgroeven van een band",
+    "tr": "Lastiğin izlerinin derinliği"
+  },
+  {
+    "nl": "Hoofdsteun",
+    "tr": "Baş desteği"
+  },
+  {
+    "nl": "Hoog",
+    "tr": "Yüksek"
+  },
+  {
+    "nl": "Hoogte onderdoorgang",
+    "tr": "Alt geçit yüksekliği (mesafe tabelası)"
+  },
+  {
+    "nl": "hulpdiensten",
+    "tr": "acil servisler"
+  },
+  {
+    "nl": "hulpkoppeling",
+    "tr": "römork bağlantı topuzu"
+  },
+  {
+    "nl": "Hulpmiddel",
+    "tr": "Yardım"
+  },
+  {
+    "nl": "Hulp te verlenen",
+    "tr": "Yardım etmek"
+  },
+  {
+    "nl": "Hun aanhangwagens of werktuigen",
+    "tr": "Onların römorkları ve ekipmanları"
+  },
+  {
+    "nl": "Ik rijd in mijn auto",
+    "tr": "Ben arabamı sürerim."
+  },
+  {
+    "nl": "Ik rijd niet",
+    "tr": "Araba sürmem"
+  },
+  {
+    "nl": "Ik volg",
+    "tr": "Ben takip ederim."
+  },
+  {
+    "nl": "Inclusief",
+    "tr": "(Şunlar) dahil"
+  },
+  {
+    "nl": "In de berm",
+    "tr": "Yol kenarında"
+  },
+  {
+    "nl": "Inderdaad",
+    "tr": "Elbette, gerçekten"
+  },
+  {
+    "nl": "In de Rechtuitstand",
+    "tr": "Dündüz"
+  },
+  {
+    "nl": "In de stand naar links",
+    "tr": "Sola yakın yerleşmek"
+  },
+  {
+    "nl": "In de volgende",
+    "tr": "Aşağıdaki"
+  },
+  {
+    "nl": "In de volgende situaties",
+    "tr": "Aşağıdaki durumlarda"
+  },
+  {
+    "nl": "In de weg geleden brug",
+    "tr": "Yolda bulunan bir köprü"
+  },
+  {
+    "nl": "Indien",
+    "tr": "Eğer"
+  },
+  {
+    "nl": "Inhaalpoging onderschat",
+    "tr": "Yetersiz sollama girişimi"
+  },
+  {
+    "nl": "Inhalen",
+    "tr": "Sollamak"
+  },
+  {
+    "nl": "In- of uitladen",
+    "tr": "Yüklemek ya da boşaltmak"
+  },
+  {
+    "nl": "In plaats daarvan",
+    "tr": "Onun yerine"
+  },
+  {
+    "nl": "Inrijden",
+    "tr": "İçeriye girmek"
+  },
+  {
+    "nl": "Inrijden toegestaan",
+    "tr": "Girmek serbest"
+  },
+  {
+    "nl": "Inrit",
+    "tr": "Giriş"
+  },
+  {
+    "nl": "Inslaan",
+    "tr": "Vurmak"
+  },
+  {
+    "nl": "Installatie defect",
+    "tr": "Kurulum bozukluğu"
+  },
+  {
+    "nl": "In te richten",
+    "tr": "Kurmak"
+  },
+  {
+    "nl": "Invloed",
+    "tr": "Etki"
+  },
+  {
+    "nl": "Invoegen",
+    "tr": "Giriş"
+  },
+  {
+    "nl": "Invoegstrook",
+    "tr": "Yerleşme şeridi"
+  },
+  {
+    "nl": "Is het verstandig",
+    "tr": "Akıllıca mı?"
+  },
+  {
+    "nl": "identificeren",
+    "tr": "belirlemek"
+  },
+  {
+    "nl": "iegen kenteken",
+    "tr": "Kendi plakası"
+  },
+  {
+    "nl": "ijzel",
+    "tr": "don buzlanma"
+  },
+  {
+    "nl": "ik ben nu verplicht om verlichting te voeren?",
+    "tr": "şimdi aydınlatmayı açmakla mecbur musun?"
+  },
+  {
+    "nl": "inbegrip",
+    "tr": "dahil etmek"
+  },
+  {
+    "nl": "inclusief",
+    "tr": "dahil"
+  },
+  {
+    "nl": "in de gaten",
+    "tr": "gözünü ayırmamak dikkatli bakmak"
+  },
+  {
+    "nl": "indien",
+    "tr": "Eğer"
+  },
+  {
+    "nl": "indienen",
+    "tr": "eğer"
+  },
+  {
+    "nl": "indien mogelijk",
+    "tr": "eğer mümkünse"
+  },
+  {
+    "nl": "ingericht",
+    "tr": "donanımlı"
+  },
+  {
+    "nl": "inhalen",
+    "tr": "sollamak"
+  },
+  {
+    "nl": "in het gips",
+    "tr": "alçı içinde"
+  },
+  {
+    "nl": "in het kader van",
+    "tr": "bağlamında çerçevesinde"
+  },
+  {
+    "nl": "inleveren",
+    "tr": "teslim etmek"
+  },
+  {
+    "nl": "in plaats daarvan",
+    "tr": "onun yerine"
+  },
+  {
+    "nl": "inrijden",
+    "tr": "sürmek"
+  },
+  {
+    "nl": "inroepen",
+    "tr": "Çağırmak, aramak"
+  },
+  {
+    "nl": "inslaan",
+    "tr": "parçalamak"
+  },
+  {
+    "nl": "interlokaal",
+    "tr": "uzun mesafe"
+  },
+  {
+    "nl": "invaliden",
+    "tr": "özürlü engelli"
+  },
+  {
+    "nl": "invloed",
+    "tr": "etki"
+  },
+  {
+    "nl": "invoegen",
+    "tr": "Yola yerleşmek"
+  },
+  {
+    "nl": "inzicht in",
+    "tr": "Öngörmek"
+  },
+  {
+    "nl": "inzittenden",
+    "tr": "Oturanlar"
+  },
+  {
+    "nl": "Ja nadert",
+    "tr": "Sen yaklaşıyorsun."
+  },
+  {
+    "nl": "Je bedenkt",
+    "tr": "Sen düşünürsün"
+  },
+  {
+    "nl": "Je bent gedurende",
+    "tr": "Sen yaptın."
+  },
+  {
+    "nl": "Je beveiligt",
+    "tr": "Sen uzaklaşıyorsun?"
+  },
+  {
+    "nl": "Je denkt nog prima te kunnen rijden",
+    "tr": "Sen hala arabayı çok iyi kullanabildiğini düşünürsün."
+  },
+  {
+    "nl": "Je haalt hier in",
+    "tr": "Sen burada solluyorsun"
+  },
+  {
+    "nl": "je houdt",
+    "tr": "tutarsın"
+  },
+  {
+    "nl": "Je merkt",
+    "tr": "Fark ettin"
+  },
+  {
+    "nl": "Je merkt dat",
+    "tr": "Olmaksızın"
+  },
+  {
+    "nl": "Je neemt hier rustpauze",
+    "tr": "Sen burada bir mola veriyorsun."
+  },
+  {
+    "nl": "Je ogen sluiten",
+    "tr": "Gözlerini kapat"
+  },
+  {
+    "nl": "Je raakt",
+    "tr": "Sen batarsın"
+  },
+  {
+    "nl": "Je slaat",
+    "tr": "Sen vurursun"
+  },
+  {
+    "nl": "Je sleept",
+    "tr": "Sen çekiyorsun"
+  },
+  {
+    "nl": "Je staat klaar",
+    "tr": "Sen hazırsın"
+  },
+  {
+    "nl": "Je staat voorgesorteerd",
+    "tr": "Sen ayrılma noktasında duruyorsun"
+  },
+  {
+    "nl": "Je telefoon uitschakelen",
+    "tr": "Telefonu kapat"
+  },
+  {
+    "nl": "Je voert",
+    "tr": "Sen açıyorsun (ışıkları)"
+  },
+  {
+    "nl": "Je voert een bromfiets aan de hand mee.",
+    "tr": "Sen bromfietsi elinde götürüyorsun."
+  },
+  {
+    "nl": "Je volgt",
+    "tr": "Sen takip edersin."
+  },
+  {
+    "nl": "Je wilt invoegen",
+    "tr": "Sen yola girmek istiyorsun."
+  },
+  {
+    "nl": "Je wilt links afslaan",
+    "tr": "Sen sola dönmek istiyorsun."
+  },
+  {
+    "nl": "Je wisselt van rijstrook",
+    "tr": "Şerit değiştirmek"
+  },
+  {
+    "nl": "Je zonnebril afzetten",
+    "tr": "Güneş gözlüğünü çıkar"
+  },
+  {
+    "nl": "joy",
+    "tr": "eğlence"
+  },
+  {
+    "nl": "joyriding",
+    "tr": "araç çalma"
+  },
+  {
+    "nl": "juiste (juist) rijstrook",
+    "tr": "Doğru şerit"
+  },
+  {
+    "nl": "Juiste beslissingen",
+    "tr": "Doğru kararlar"
+  },
+  {
+    "nl": "Kade",
+    "tr": "Rıhtım"
+  },
+  {
+    "nl": "Kan je een auto rijden?",
+    "tr": "Sen bir araba sürebilir misin?"
+  },
+  {
+    "nl": "Kan je verwachten?",
+    "tr": "Bekler misin?"
+  },
+  {
+    "nl": "Kans",
+    "tr": "Şans"
+  },
+  {
+    "nl": "Keerverbod",
+    "tr": "Geri dönülmez"
+  },
+  {
+    "nl": "Kennis",
+    "tr": "Bilgi"
+  },
+  {
+    "nl": "kenteken",
+    "tr": "plaka"
+  },
+  {
+    "nl": "kentekenbewijs",
+    "tr": "tescil belgesi ruhsat"
+  },
+  {
+    "nl": "Kentekencard",
+    "tr": "Ruhsat"
+  },
+  {
+    "nl": "keren",
+    "tr": "u dönüşü yapmak"
+  },
+  {
+    "nl": "keuring",
+    "tr": "muayene test"
+  },
+  {
+    "nl": "Klapband",
+    "tr": "lastiğin patlaması"
+  },
+  {
+    "nl": "knipperend",
+    "tr": "yanıp sönen ışıklar"
+  },
+  {
+    "nl": "Knippert",
+    "tr": "Yanıp sönen ikaz ışığı"
+  },
+  {
+    "nl": "koelvloeistof",
+    "tr": "soğutma sıvısı"
+  },
+  {
+    "nl": "Koelvloeistofpeil",
+    "tr": "Soğutma su seviyesi"
+  },
+  {
+    "nl": "kogeldruk",
+    "tr": "römorkun bağlandığı topuza basıncı"
+  },
+  {
+    "nl": "koplampen",
+    "tr": "Ön far"
+  },
+  {
+    "nl": "koppeling",
+    "tr": "Debriyaş"
+  },
+  {
+    "nl": "Korter",
+    "tr": "Daha kısa"
+  },
+  {
+    "nl": "Kost",
+    "tr": "Masraf"
+  },
+  {
+    "nl": "krachtig",
+    "tr": "sert güçlü"
+  },
+  {
+    "nl": "krachtig afremmen",
+    "tr": "Güçlü Frenlemek"
+  },
+  {
+    "nl": "krachtig induwt",
+    "tr": "sert fren yapmak"
+  },
+  {
+    "nl": "Kruis",
+    "tr": "Çapraz"
+  },
+  {
+    "nl": "Kruisend",
+    "tr": "Kavşak"
+  },
+  {
+    "nl": "Kruisende weg",
+    "tr": "Kesişen yol"
+  },
+  {
+    "nl": "kruisend verkeer",
+    "tr": "kesişen trafik"
+  },
+  {
+    "nl": "kruising",
+    "tr": "geçit"
+  },
+  {
+    "nl": "kruispunt",
+    "tr": "kavşak"
+  },
+  {
+    "nl": "Kunt u door anticiperen de stop afstand verkorten",
+    "tr": "Durma mesafesini yolu iyi gözlemleyerek azaltabilir misiniz?"
+  },
+  {
+    "nl": "kwartiertje",
+    "tr": "15 dk"
+  },
+  {
+    "nl": "kwetsbaar",
+    "tr": "Kırılgan, hassas"
+  },
+  {
+    "nl": "kwetsbare",
+    "tr": "hassas"
+  },
+  {
+    "nl": "Kwijtraken",
+    "tr": "Kaybetmek"
+  },
+  {
+    "nl": "Laadvermogen",
+    "tr": "yük kapasitesi"
+  },
+  {
+    "nl": "Laagstaande",
+    "tr": "Düşük"
+  },
+  {
+    "nl": "Laagvliegende vliegtuigen",
+    "tr": "alçak uçuş"
+  },
+  {
+    "nl": "Laat",
+    "tr": "Bırak"
+  },
+  {
+    "nl": "Ladder",
+    "tr": "Merdiven"
+  },
+  {
+    "nl": "lading",
+    "tr": "yük"
+  },
+  {
+    "nl": "Lage bandenspanning",
+    "tr": "Düşük lastik basıncı"
+  },
+  {
+    "nl": "Lagere snelheid",
+    "tr": "Daha düşük hızlılık"
+  },
+  {
+    "nl": "Lage snelheid",
+    "tr": "Düşük hızlı"
+  },
+  {
+    "nl": "landbouw",
+    "tr": "tarım"
+  },
+  {
+    "nl": "landbouwvoertgen",
+    "tr": "Tarım araçları"
+  },
+  {
+    "nl": "Landbouwvoertuig",
+    "tr": "tarım aracı"
+  },
+  {
+    "nl": "Landbouwvoertuigen",
+    "tr": "Tarım araçları"
+  },
+  {
+    "nl": "Landen",
+    "tr": "Ülkeler"
+  },
+  {
+    "nl": "landschap",
+    "tr": "manzara"
+  },
+  {
+    "nl": "Langer",
+    "tr": "Daha Uzun"
+  },
+  {
+    "nl": "Langere",
+    "tr": "Genişletilmiş"
+  },
+  {
+    "nl": "Langere remweg",
+    "tr": "Uzun tren mesafesi"
+  },
+  {
+    "nl": "Langer remweg",
+    "tr": "Daha uzun fren mesafesi"
+  },
+  {
+    "nl": "Lang in de versnelling blijven rijden",
+    "tr": "Uzun süre düşük viteste kalmak"
+  },
+  {
+    "nl": "Langs de tunnelwand",
+    "tr": "Tünel duvarı boyunca"
+  },
+  {
+    "nl": "Langs de vrachtwagen",
+    "tr": "Kamyon boyunca"
+  },
+  {
+    "nl": "langzaam",
+    "tr": "Yavaşça"
+  },
+  {
+    "nl": "Lastdrager",
+    "tr": "yük taşıyıcı"
+  },
+  {
+    "nl": "Lastig",
+    "tr": "Kullanışsız"
+  },
+  {
+    "nl": "Last van",
+    "tr": "Şikayet etmek"
+  },
+  {
+    "nl": "Leg je in die tijd af bij",
+    "tr": "Bu zaman zarfında"
+  },
+  {
+    "nl": "leid",
+    "tr": "yol açmak sebep olmak"
+  },
+  {
+    "nl": "leidt",
+    "tr": "sevk etmek, yol açmak"
+  },
+  {
+    "nl": "Let",
+    "tr": "Müsade vermek"
+  },
+  {
+    "nl": "letsel",
+    "tr": "yaralanma"
+  },
+  {
+    "nl": "letten",
+    "tr": "dikkat etmek"
+  },
+  {
+    "nl": "Linkerzijde",
+    "tr": "Sol taraf"
+  },
+  {
+    "nl": "Lopende weg",
+    "tr": "Aşağı yol"
+  },
+  {
+    "nl": "los",
+    "tr": "gevşek"
+  },
+  {
+    "nl": "Losbreekreminrichting",
+    "tr": "römork freni"
+  },
+  {
+    "nl": "losliggende stenen",
+    "tr": "gevşek zemin"
+  },
+  {
+    "nl": "Lossen",
+    "tr": "Boşaltmak"
+  },
+  {
+    "nl": "Losse spullen",
+    "tr": "Gevşek eşyalar"
+  },
+  {
+    "nl": "luchtweerstand",
+    "tr": "hava direnci"
+  },
+  {
+    "nl": "Maar liever",
+    "tr": "Daha iyi"
+  },
+  {
+    "nl": "Mag je doorrijden?",
+    "tr": "Devam edebilir misin?"
+  },
+  {
+    "nl": "Mag je zo gaan rijden?",
+    "tr": "Bu şekilde araba sürebilir misin?"
+  },
+  {
+    "nl": "Mag je zo voorsorteren?",
+    "tr": "Bu şekilde yapabilir misin?"
+  },
+  {
+    "nl": "mankeert",
+    "tr": "sorun sıkıntı"
+  },
+  {
+    "nl": "Markeringsbord",
+    "tr": "İşaretleme levhası"
+  },
+  {
+    "nl": "massa",
+    "tr": "yük"
+  },
+  {
+    "nl": "matige",
+    "tr": "iklimli azla yetinen"
+  },
+  {
+    "nl": "matigen",
+    "tr": "hafifletmek teskin etmek"
+  },
+  {
+    "nl": "Maximummassa",
+    "tr": "Maksimum ağırlık"
+  },
+  {
+    "nl": "maximumsnelheid",
+    "tr": "Azami hız sınırlaması"
+  },
+  {
+    "nl": "Maximumsnelheid 70 km/u op elektronisch signalerinsbord",
+    "tr": "Elektronik levhada 70 km/s azami hız sınırlaması"
+  },
+  {
+    "nl": "Maximumsnelheid op een elektronisch signaleringsbord",
+    "tr": "Elektronik levhada azami hız sınırlaması"
+  },
+  {
+    "nl": "medewerking",
+    "tr": "İşbirliği"
+  },
+  {
+    "nl": "medewerking verlenen",
+    "tr": "İşbirliği sağlamak"
+  },
+  {
+    "nl": "Mee",
+    "tr": "Birlikte"
+  },
+  {
+    "nl": "Meenemen",
+    "tr": "Birlikte olmak (taşımak)"
+  },
+  {
+    "nl": "Meer bedraagt dan 750 kg",
+    "tr": "750 kg dan fazla olduğu"
+  },
+  {
+    "nl": "Meer kans",
+    "tr": "Şans"
+  },
+  {
+    "nl": "meer moeite",
+    "tr": "daha çok zorluk"
+  },
+  {
+    "nl": "Meest",
+    "tr": "Genellikle"
+  },
+  {
+    "nl": "meestal",
+    "tr": "Çoğunlukla"
+  },
+  {
+    "nl": "Meeste",
+    "tr": "En"
+  },
+  {
+    "nl": "Meeste dodelijke ongevallen",
+    "tr": "En ölümcül kaza"
+  },
+  {
+    "nl": "melding",
+    "tr": "Talep"
+  },
+  {
+    "nl": "Mest",
+    "tr": "Gübre"
+  },
+  {
+    "nl": "Met beperkte snelheid",
+    "tr": "Hızları sınırlandırılmış ile"
+  },
+  {
+    "nl": "Meteen",
+    "tr": "Hemen"
+  },
+  {
+    "nl": "Met gepaste",
+    "tr": "Uygun"
+  },
+  {
+    "nl": "met inbegrip van",
+    "tr": "Dahil olmak üzere"
+  },
+  {
+    "nl": "met inbegrip van de lading",
+    "tr": "Yük de dahil"
+  },
+  {
+    "nl": "Met in werking",
+    "tr": "Çalışıyorken"
+  },
+  {
+    "nl": "Met in werking zijnde motor",
+    "tr": "Motor çalışırken"
+  },
+  {
+    "nl": "Met meer dere rijstroken",
+    "tr": "Çok fazla şerit"
+  },
+  {
+    "nl": "Met oplegger",
+    "tr": "Römork ile"
+  },
+  {
+    "nl": "Met zwaailicht",
+    "tr": "Yanıp sönen ışık ile"
+  },
+  {
+    "nl": "Middenasaanhangwagens",
+    "tr": "Çift dingilli römorklar"
+  },
+  {
+    "nl": "milieuvriendelijk rijstijl",
+    "tr": "Çevreci sürüş"
+  },
+  {
+    "nl": "milieuzone",
+    "tr": "temiz çevre alan"
+  },
+  {
+    "nl": "millieubewust",
+    "tr": "Çevre duyarlılığı"
+  },
+  {
+    "nl": "Millitaire colonne",
+    "tr": "Askeri konvoy"
+  },
+  {
+    "nl": "Minder",
+    "tr": "Düşük"
+  },
+  {
+    "nl": "Minderen",
+    "tr": "Düşürmek"
+  },
+  {
+    "nl": "Minder grip",
+    "tr": "Daha az yol tutuş"
+  },
+  {
+    "nl": "Minder grip op de weg",
+    "tr": "Daha az yol tutuş"
+  },
+  {
+    "nl": "mindervaliden",
+    "tr": "engelli insan"
+  },
+  {
+    "nl": "Minste",
+    "tr": "En az"
+  },
+  {
+    "nl": "Misdrijd",
+    "tr": "Suç"
+  },
+  {
+    "nl": "misdrijf",
+    "tr": "suç"
+  },
+  {
+    "nl": "misdrijf (het)",
+    "tr": "Suç"
+  },
+  {
+    "nl": "Mist",
+    "tr": "Sis"
+  },
+  {
+    "nl": "Mistachterlicht",
+    "tr": "Arka sis lambası"
+  },
+  {
+    "nl": "mits",
+    "tr": "koşuluyla"
+  },
+  {
+    "nl": "Modder",
+    "tr": "Çamur"
+  },
+  {
+    "nl": "moeite met het inschatten",
+    "tr": "tahmin etme zorluğu"
+  },
+  {
+    "nl": "Moet je rekenin houden",
+    "tr": "Hesaba katmak"
+  },
+  {
+    "nl": "mogelijk",
+    "tr": "Mümkün"
+  },
+  {
+    "nl": "Motorfietsongevallen",
+    "tr": "Motor bisiklet kazaları"
+  },
+  {
+    "nl": "Motoroliepeil",
+    "tr": "Motor yağı seviyesi"
+  },
+  {
+    "nl": "Motorrijder",
+    "tr": "Motorcu"
+  },
+  {
+    "nl": "motorrijtuigen",
+    "tr": "motorla hareket eden"
+  },
+  {
+    "nl": "Motorrijtuigen belasting",
+    "tr": "MTVergisi"
+  },
+  {
+    "nl": "Motorvoertuigen",
+    "tr": "Motorlu araçlar"
+  },
+  {
+    "nl": "Motor warmdraaien",
+    "tr": "Motoru ısıtmak"
+  },
+  {
+    "nl": "Naar beneden",
+    "tr": "Aşağıya"
+  },
+  {
+    "nl": "naar beneden gaan",
+    "tr": "Aşağıya"
+  },
+  {
+    "nl": "naar je werk gaan",
+    "tr": "İşe gitmek"
+  },
+  {
+    "nl": "Naastgelegen",
+    "tr": "Bitişik"
+  },
+  {
+    "nl": "Nabijheid",
+    "tr": "Yakın(lık)"
+  },
+  {
+    "nl": "naderen",
+    "tr": "Yaklaşmak"
+  },
+  {
+    "nl": "nadert",
+    "tr": "yaklaşan"
+  },
+  {
+    "nl": "Na de top",
+    "tr": "Zirveden sonra"
+  },
+  {
+    "nl": "Na een pechstop",
+    "tr": "Bir arıza sonrası"
+  },
+  {
+    "nl": "Na het uitzetten van de motor",
+    "tr": "Motoru durdurduktan sonra"
+  },
+  {
+    "nl": "Namelijk verblindend",
+    "tr": "Yani kör edici"
+  },
+  {
+    "nl": "Nat wegdek",
+    "tr": "Islak yol yüzeyi"
+  },
+  {
+    "nl": "nekletsel",
+    "tr": "boyun yaralanması"
+  },
+  {
+    "nl": "Niet beïnvloeden",
+    "tr": "Etkilemeyen"
+  },
+  {
+    "nl": "Niet lukt",
+    "tr": "Başaramazsan"
+  },
+  {
+    "nl": "niet volledig",
+    "tr": "Tam değilse"
+  },
+  {
+    "nl": "Nieuw wegdek",
+    "tr": "Yeni Yol yüzeyi"
+  },
+  {
+    "nl": "Nodig vakkundige hulp inroepen",
+    "tr": "Uzman yardımına ihtiyaç olmak"
+  },
+  {
+    "nl": "nogmaals",
+    "tr": "tekrar"
+  },
+  {
+    "nl": "nood",
+    "tr": "ihtiyaç acil durum"
+  },
+  {
+    "nl": "Noodgeval",
+    "tr": "Acil durum"
+  },
+  {
+    "nl": "noodzakelijk",
+    "tr": "Gerekli"
+  },
+  {
+    "nl": "Nooit",
+    "tr": "Asla"
+  },
+  {
+    "nl": "Nul-limiet",
+    "tr": "Sıfır limit"
+  },
+  {
+    "nl": "Nuttigen",
+    "tr": "Etkisi altında kalma"
+  },
+  {
+    "nl": "obstakel",
+    "tr": "engel"
+  },
+  {
+    "nl": "oilpeil",
+    "tr": "yağ seviyesi"
+  },
+  {
+    "nl": "Om de middelpuntvliedende kracht op te vangen",
+    "tr": "Merkez kaç kuvvetinin emerek azaltmak için"
+  },
+  {
+    "nl": "om een ​​gevaar af te wenden",
+    "tr": "Bir tehlikeyi önlemek"
+  },
+  {
+    "nl": "om een ​​passagier te laten",
+    "tr": "bir yolcu bırakmak için"
+  },
+  {
+    "nl": "Om een lifter mee te nemen",
+    "tr": "Bir otostopçu almak için"
+  },
+  {
+    "nl": "Om een passagier te laten uitstappen",
+    "tr": "Bir yolcu bırakmak için"
+  },
+  {
+    "nl": "Omgeving",
+    "tr": "Bölge"
+  },
+  {
+    "nl": "Om goederen te lossen",
+    "tr": "Malları boşaltmak için"
+  },
+  {
+    "nl": "Om het gevaar af te wenden",
+    "tr": "Tehlikeyi önlemek"
+  },
+  {
+    "nl": "Omhooglopende weg",
+    "tr": "Yukarıya yol"
+  },
+  {
+    "nl": "omleiding",
+    "tr": "yönlendirme"
+  },
+  {
+    "nl": "Om op te volgen",
+    "tr": "Takip etmek"
+  },
+  {
+    "nl": "Om richting aan te geven",
+    "tr": "Yön değiştirmek için sinyal vermek"
+  },
+  {
+    "nl": "omstandigheden",
+    "tr": "koşullar şartlar"
+  },
+  {
+    "nl": "om te reageren",
+    "tr": "tepki için"
+  },
+  {
+    "nl": "Om te remmen",
+    "tr": "Fren yapmak"
+  },
+  {
+    "nl": "Om te snelheid van de tegenligger in te schatten",
+    "tr": "Karşıdan gelen aracın hızını tahmin etmek (zordur)"
+  },
+  {
+    "nl": "Om te winkelen",
+    "tr": "Alışveriş için"
+  },
+  {
+    "nl": "Omvolledige",
+    "tr": "Tamamlanmamış"
+  },
+  {
+    "nl": "Onbeperkte",
+    "tr": "Sınırsız (süre)"
+  },
+  {
+    "nl": "ondeelbaare lading",
+    "tr": "Bölünemez yük"
+  },
+  {
+    "nl": "ondeelbare",
+    "tr": "Bölünemez"
+  },
+  {
+    "nl": "onderbroeken streep",
+    "tr": "Kisik çizgiyle"
+  },
+  {
+    "nl": "onderbroken",
+    "tr": "aralıklı kesik kesik"
+  },
+  {
+    "nl": "Onderbroken streep",
+    "tr": "Kesikli çizgi"
+  },
+  {
+    "nl": "onderdeel (het)",
+    "tr": "Bölüm, parça"
+  },
+  {
+    "nl": "onderdeel (het) van de rijbaan",
+    "tr": "Yolun bir bölümü"
+  },
+  {
+    "nl": "Onderdoorgang",
+    "tr": "Alt geçit"
+  },
+  {
+    "nl": "Onderhoudsbeurt",
+    "tr": "Bakım"
+  },
+  {
+    "nl": "onderling",
+    "tr": "karşılıklı olarak"
+  },
+  {
+    "nl": "Onderschat",
+    "tr": "Hafif"
+  },
+  {
+    "nl": "Onderstaande stellingen",
+    "tr": "Aşağıdaki ifadeler"
+  },
+  {
+    "nl": "ondersteuning",
+    "tr": "destek"
+  },
+  {
+    "nl": "Onder welke weeromstandigheden die het zicht beperkt tot 50 meter mag u het mistachterlicht laten branden",
+    "tr": "Görünürlüğün 50 metreden az olduğu hangi durumlarda arka sis farını açabilirsiniz?"
+  },
+  {
+    "nl": "onderzoek",
+    "tr": "araştırma"
+  },
+  {
+    "nl": "onderzoeken",
+    "tr": "Araştırmalar"
+  },
+  {
+    "nl": "Oneven dagen",
+    "tr": "Ayın tekli günleri"
+  },
+  {
+    "nl": "Ongeldig",
+    "tr": "Geçersiz"
+  },
+  {
+    "nl": "ongelijkmatiger",
+    "tr": "Daha düzensiz"
+  },
+  {
+    "nl": "ongelijkwaardig",
+    "tr": "eşdeğer olmayan"
+  },
+  {
+    "nl": "ongeremde",
+    "tr": "kontrolsüz"
+  },
+  {
+    "nl": "ongeval",
+    "tr": "trafik kazası"
+  },
+  {
+    "nl": "ongeval (het) waarbij",
+    "tr": "Kaza vasıtasıyla"
+  },
+  {
+    "nl": "Ongevallen",
+    "tr": "Kaza"
+  },
+  {
+    "nl": "Ongevalsoorzaak",
+    "tr": "Kaza nedeni"
+  },
+  {
+    "nl": "Ongevalsrisico",
+    "tr": "Kaza riski"
+  },
+  {
+    "nl": "Ongeveer",
+    "tr": "Yaklaşık"
+  },
+  {
+    "nl": "Ongungstige",
+    "tr": "Elverişsiz"
+  },
+  {
+    "nl": "ongunstige",
+    "tr": "olumsuz elverişsiz"
+  },
+  {
+    "nl": "onmiddellijk",
+    "tr": "hemen"
+  },
+  {
+    "nl": "onoverzichtelijk",
+    "tr": "belirsiz görülemeyen"
+  },
+  {
+    "nl": "onoverzichtelijk (adj)",
+    "tr": "Belirsiz"
+  },
+  {
+    "nl": "Ontbreekt",
+    "tr": "Eksik"
+  },
+  {
+    "nl": "onthoud",
+    "tr": "hatırlatma"
+  },
+  {
+    "nl": "ontstaan",
+    "tr": "ortaya çıkmak"
+  },
+  {
+    "nl": "Ontwaseming",
+    "tr": "Ön hava kanalları (cama vuran)"
+  },
+  {
+    "nl": "ontzeggen",
+    "tr": "mahrum etmek"
+  },
+  {
+    "nl": "ontzegging",
+    "tr": "Ret"
+  },
+  {
+    "nl": "onverharde",
+    "tr": "toprak yol"
+  },
+  {
+    "nl": "onverharde weg",
+    "tr": "stabilize yol"
+  },
+  {
+    "nl": "Onverplicht fietspad",
+    "tr": "Mecburi olmayan bisiklet yolu"
+  },
+  {
+    "nl": "onvoorspelbaar",
+    "tr": "öngörülemeyen"
+  },
+  {
+    "nl": "onvoorspelbaar gedragen",
+    "tr": "Öngörülemeyen davranışlar"
+  },
+  {
+    "nl": "Onzuiniger",
+    "tr": "Daha verimsiz"
+  },
+  {
+    "nl": "Ook minimumsnelheid op autosnelwegen is 60 km / u.",
+    "tr": "Otoyollarda minimum hız 60 km / saattir."
+  },
+  {
+    "nl": "Oorzaak",
+    "tr": "Neden"
+  },
+  {
+    "nl": "oorzaken",
+    "tr": "neden olmak"
+  },
+  {
+    "nl": "Op de doorgaande rijbaan",
+    "tr": "Karayolunda"
+  },
+  {
+    "nl": "op de plek laten liggen",
+    "tr": "yerinde bırakmak"
+  },
+  {
+    "nl": "op de stoep",
+    "tr": "kaldırımda"
+  },
+  {
+    "nl": "Op de strook",
+    "tr": "Şeritte"
+  },
+  {
+    "nl": "op de vluchtstrook",
+    "tr": "Acil şeritte"
+  },
+  {
+    "nl": "Op de weghelft",
+    "tr": "Yolun kenarında"
+  },
+  {
+    "nl": "opeens",
+    "tr": "aniden"
+  },
+  {
+    "nl": "Op een veilige plaats",
+    "tr": "Güvenli bir yerde"
+  },
+  {
+    "nl": "Openbare weg",
+    "tr": "Kamu yolu"
+  },
+  {
+    "nl": "opgeblazen",
+    "tr": "kabarmış kabartmalı"
+  },
+  {
+    "nl": "Opgesteld",
+    "tr": "Duraklamak"
+  },
+  {
+    "nl": "Op het dashbord",
+    "tr": "Ön gögüste"
+  },
+  {
+    "nl": "opleggen",
+    "tr": "almak kabul etmek"
+  },
+  {
+    "nl": "Opleggers",
+    "tr": "Dorse"
+  },
+  {
+    "nl": "Opletten",
+    "tr": "Dikkat etmek"
+  },
+  {
+    "nl": "Oplettend",
+    "tr": "Dikkatle"
+  },
+  {
+    "nl": "Op meer dan",
+    "tr": "Üzerindeki"
+  },
+  {
+    "nl": "Opnemen",
+    "tr": "Kurmak"
+  },
+  {
+    "nl": "Oprijden",
+    "tr": "Geçmek, çıkmak"
+  },
+  {
+    "nl": "Oprit",
+    "tr": "Rampa"
+  },
+  {
+    "nl": "Opspattend water",
+    "tr": "Su birikintisi"
+  },
+  {
+    "nl": "opstellen",
+    "tr": "sıraya girmek"
+  },
+  {
+    "nl": "optrekken",
+    "tr": "Hareket etmek"
+  },
+  {
+    "nl": "opvolgen",
+    "tr": "Takip etmek"
+  },
+  {
+    "nl": "Op welke plaatsen",
+    "tr": "Hangi yerlerde"
+  },
+  {
+    "nl": "Op welke wijze kunt u brandstof besparen?",
+    "tr": "Yakıt tasarrufu nasıl yaparsın?"
+  },
+  {
+    "nl": "Oren",
+    "tr": "Kulak"
+  },
+  {
+    "nl": "Outdoen",
+    "tr": "Kapatmak"
+  },
+  {
+    "nl": "Overdag",
+    "tr": "Gündüz"
+  },
+  {
+    "nl": "Overdag deur regen is het zicht slecht; welke verlichting mag u voeren?",
+    "tr": "Gün boyunca kötü hava var hangi ışıklarınızı yakarsınız?"
+  },
+  {
+    "nl": "overdreven",
+    "tr": "abartılı"
+  },
+  {
+    "nl": "Overgang",
+    "tr": "Giriş"
+  },
+  {
+    "nl": "Overige",
+    "tr": "Diğer"
+  },
+  {
+    "nl": "Overige verkeer",
+    "tr": "Her türlü trafiği"
+  },
+  {
+    "nl": "overschatten",
+    "tr": "abartmak"
+  },
+  {
+    "nl": "overschijden",
+    "tr": "Aşmak"
+  },
+  {
+    "nl": "overschreden",
+    "tr": "asildi"
+  },
+  {
+    "nl": "Overschrijden",
+    "tr": "Aşmak, geçmek"
+  },
+  {
+    "nl": "oversteekplaats",
+    "tr": "yaya geçidi"
+  },
+  {
+    "nl": "oversteken",
+    "tr": "karşıya geçmek"
+  },
+  {
+    "nl": "Overstekende",
+    "tr": "Geçit"
+  },
+  {
+    "nl": "over te slaan",
+    "tr": "atlamak (vites)"
+  },
+  {
+    "nl": "Overtreding",
+    "tr": "Suç (kabahat türünden)"
+  },
+  {
+    "nl": "overweg",
+    "tr": "demiryolu geçidi"
+  },
+  {
+    "nl": "Overwegbomen",
+    "tr": "Yolu açıp kapatan bariyerler"
+  },
+  {
+    "nl": "Overweg zonder overwegbomen",
+    "tr": "Kontrolsüz demiryolu geçidi"
+  },
+  {
+    "nl": "overzichtelijk",
+    "tr": "Açık"
+  },
+  {
+    "nl": "overzien",
+    "tr": "denetlemek"
+  },
+  {
+    "nl": "paging",
+    "tr": "teşebbüs"
+  },
+  {
+    "nl": "parkeergelegenheid",
+    "tr": "Park yeri"
+  },
+  {
+    "nl": "parkeergelegenheid alleen bestemd voor personenauto's",
+    "tr": "Sadece kişisel otomobiller için park yeri"
+  },
+  {
+    "nl": "parkeergelegenheid alleen doorgedeeltelijk op het troftoirte parkeren",
+    "tr": "Kısmen kaldırıma park etmek kaydıyla park yeri"
+  },
+  {
+    "nl": "parkeergelegenheid tot behoeve van overstappera op het openbaar vervoer",
+    "tr": "Toplu taşıma yolcularına park imkanı"
+  },
+  {
+    "nl": "Parkeerrem",
+    "tr": "El freni"
+  },
+  {
+    "nl": "Parkeerschijf",
+    "tr": "park diski"
+  },
+  {
+    "nl": "Parkeerschijfzone",
+    "tr": "Park zaman göstergeci bölgesi"
+  },
+  {
+    "nl": "Parkeervak",
+    "tr": "Park alanı"
+  },
+  {
+    "nl": "Parkeer verbod",
+    "tr": "Park yasak"
+  },
+  {
+    "nl": "Parkeervergunning",
+    "tr": "Park izni"
+  },
+  {
+    "nl": "pas...aan",
+    "tr": "ayarlamak"
+  },
+  {
+    "nl": "Passagier",
+    "tr": "Yolcu"
+  },
+  {
+    "nl": "pech",
+    "tr": "ariza şanssızlık"
+  },
+  {
+    "nl": "Percentages",
+    "tr": "Yüzdeler"
+  },
+  {
+    "nl": "Pijlstok",
+    "tr": "Yağ çubuğu"
+  },
+  {
+    "nl": "plank",
+    "tr": "kalas"
+  },
+  {
+    "nl": "plattegrond, de",
+    "tr": "Harita, plan"
+  },
+  {
+    "nl": "Portier",
+    "tr": "Kapı"
+  },
+  {
+    "nl": "prioriteit",
+    "tr": "öncelik"
+  },
+  {
+    "nl": "Profileringsdiepte",
+    "tr": "Profil derinliği"
+  },
+  {
+    "nl": "Punt",
+    "tr": "Nokta"
+  },
+  {
+    "nl": "Raadzaam",
+    "tr": "Önermek"
+  },
+  {
+    "nl": "Raak niet in paniek",
+    "tr": "Panik yapma"
+  },
+  {
+    "nl": "rand",
+    "tr": "kenar ayrıt"
+  },
+  {
+    "nl": "reactietijd",
+    "tr": "reaksiyon süresi"
+  },
+  {
+    "nl": "Reageer",
+    "tr": "Tepki vermek"
+  },
+  {
+    "nl": "Reageren",
+    "tr": "Tepki"
+  },
+  {
+    "nl": "rechtdoor",
+    "tr": "Düz gitmek"
+  },
+  {
+    "nl": "Rechter",
+    "tr": "Hakim"
+  },
+  {
+    "nl": "rechter (de) stadslicht",
+    "tr": "Sağ park ışığı"
+  },
+  {
+    "nl": "Rechterzijde",
+    "tr": "Sağ taraf"
+  },
+  {
+    "nl": "redelijkerwijs",
+    "tr": "oldukça"
+  },
+  {
+    "nl": "Regelmatig",
+    "tr": "Düzenli olarak"
+  },
+  {
+    "nl": "rekening houden",
+    "tr": "dikkate almak"
+  },
+  {
+    "nl": "rekening houden met",
+    "tr": "Hesaba katmak"
+  },
+  {
+    "nl": "Reliëfmarkering",
+    "tr": "Kabartmalı işaretleme"
+  },
+  {
+    "nl": "remvermogen",
+    "tr": "fren gücü"
+  },
+  {
+    "nl": "Remweg korter",
+    "tr": "Kısa fren mesafesi"
+  },
+  {
+    "nl": "reservewiel",
+    "tr": "istetme yedek lastik"
+  },
+  {
+    "nl": "richting",
+    "tr": "Yönlü"
+  },
+  {
+    "nl": "Richting aangeven",
+    "tr": "Yönü belirtmek (sinyal vermek)"
+  },
+  {
+    "nl": "Richting verandert",
+    "tr": "Yön değiştirmek"
+  },
+  {
+    "nl": "Rijbaan",
+    "tr": "Şeritlerin toplamına verilen ad"
+  },
+  {
+    "nl": "rijbaan langs",
+    "tr": "Şerit boyunca"
+  },
+  {
+    "nl": "Rijbaanversmalling",
+    "tr": "yol daralması"
+  },
+  {
+    "nl": "Rijbanen",
+    "tr": "şeritler"
+  },
+  {
+    "nl": "rijbevoegdheid",
+    "tr": "Görüş kabiliyeti"
+  },
+  {
+    "nl": "rijgedrag",
+    "tr": "sürüş davranışı"
+  },
+  {
+    "nl": "rijrichting",
+    "tr": "sürüş yönü"
+  },
+  {
+    "nl": "Rijstijl",
+    "tr": "Sürüş tarzı"
+  },
+  {
+    "nl": "Rijstrook",
+    "tr": "Şerit"
+  },
+  {
+    "nl": "rijstrooken",
+    "tr": "Şeritler"
+  },
+  {
+    "nl": "rijstrookofrijbaan",
+    "tr": "bölünmüş yol"
+  },
+  {
+    "nl": "rijstrook veranderen",
+    "tr": "Şeridi değiştirmek (yolu)"
+  },
+  {
+    "nl": "rijvaardigheid",
+    "tr": "Sürüş becerisi"
+  },
+  {
+    "nl": "rijverbod",
+    "tr": "sürüş yasağı"
+  },
+  {
+    "nl": "rijverbod (het)",
+    "tr": "Sürüş yasağı"
+  },
+  {
+    "nl": "ringen",
+    "tr": "halka yüzük"
+  },
+  {
+    "nl": "Rivieroever",
+    "tr": "Nehir kıyısı"
+  },
+  {
+    "nl": "Rode vlag",
+    "tr": "Kırmızı bayrak"
+  },
+  {
+    "nl": "rolstoel",
+    "tr": "tekerlekli sandalye"
+  },
+  {
+    "nl": "rolweerstand",
+    "tr": "yuvarlanma direnci"
+  },
+  {
+    "nl": "Rotonde: verplichte rijrichting",
+    "tr": "Zorunlu sürüş yönü"
+  },
+  {
+    "nl": "Ruggelings",
+    "tr": "Sırt üstü"
+  },
+  {
+    "nl": "Ruime afstand",
+    "tr": "Uygun boşluk"
+  },
+  {
+    "nl": "Ruit",
+    "tr": "Cam"
+  },
+  {
+    "nl": "ruitensproeier",
+    "tr": "ön cam yıkayıcı"
+  },
+  {
+    "nl": "Ruitensproeiervloeistof",
+    "tr": "Ön cam yıkama suyu"
+  },
+  {
+    "nl": "ruiter",
+    "tr": "at binicisi"
+  },
+  {
+    "nl": "Ruiterpad",
+    "tr": "Atlı yolu"
+  },
+  {
+    "nl": "rundvlees",
+    "tr": "Sığır"
+  },
+  {
+    "nl": "rust",
+    "tr": "dinlenme"
+  },
+  {
+    "nl": "Rustig",
+    "tr": "Sessizce"
+  },
+  {
+    "nl": "Rustig gas",
+    "tr": "Sakin bir gaz (vermek)"
+  },
+  {
+    "nl": "rustpauze",
+    "tr": "Mola"
+  },
+  {
+    "nl": "rustug rijden",
+    "tr": "sessizce (hemen) sürmek"
+  },
+  {
+    "nl": "Sanitaire",
+    "tr": "Sıhhi"
+  },
+  {
+    "nl": "schade",
+    "tr": "hasar, kaza"
+  },
+  {
+    "nl": "schadelijk",
+    "tr": "zararlı kotu"
+  },
+  {
+    "nl": "schakel",
+    "tr": "bağlantı"
+  },
+  {
+    "nl": "schakelen",
+    "tr": "vites değiştirmek"
+  },
+  {
+    "nl": "Schakelt",
+    "tr": "Vites değiştirmek"
+  },
+  {
+    "nl": "Schatten",
+    "tr": "Tahmin etmek"
+  },
+  {
+    "nl": "Scherpe",
+    "tr": "Keskin"
+  },
+  {
+    "nl": "schijnt (schijnen) weinig",
+    "tr": "Az görünmek"
+  },
+  {
+    "nl": "Schrijken",
+    "tr": "Ürkmek, korkmak"
+  },
+  {
+    "nl": "schuift",
+    "tr": "değiştirmek"
+  },
+  {
+    "nl": "schuin",
+    "tr": "eğimli"
+  },
+  {
+    "nl": "situaties (de)",
+    "tr": "Durum"
+  },
+  {
+    "nl": "slachtoffer",
+    "tr": "kazazede kurban"
+  },
+  {
+    "nl": "slachtoffer (het)",
+    "tr": "Mağdur"
+  },
+  {
+    "nl": "Slagbomen",
+    "tr": "bariyer"
+  },
+  {
+    "nl": "Slechte weersomstandigheden",
+    "tr": "Kötü hava koşulları"
+  },
+  {
+    "nl": "slechthorend",
+    "tr": "sağır"
+  },
+  {
+    "nl": "slechts",
+    "tr": "sadece"
+  },
+  {
+    "nl": "Slecht zichtbaar",
+    "tr": "Kötü görünmek"
+  },
+  {
+    "nl": "Sleepkabel gespannen",
+    "tr": "Çekme halatı gergin olmalı"
+  },
+  {
+    "nl": "Slepen van een auto",
+    "tr": "Arabayı çekme"
+  },
+  {
+    "nl": "slijtage",
+    "tr": "kullanarak aşınma"
+  },
+  {
+    "nl": "slipgevaar",
+    "tr": "kayma tehlikesi"
+  },
+  {
+    "nl": "Sneeuw",
+    "tr": "Kar"
+  },
+  {
+    "nl": "sneeuwval",
+    "tr": "Kar yağışı"
+  },
+  {
+    "nl": "Snelheid",
+    "tr": "Hız"
+  },
+  {
+    "nl": "Snelheidmeter",
+    "tr": "Km sayacı"
+  },
+  {
+    "nl": "Snelheid opvoeren",
+    "tr": "Hızı arttırmak"
+  },
+  {
+    "nl": "Snelheids verschil",
+    "tr": "Hız farkı"
+  },
+  {
+    "nl": "Sommige",
+    "tr": "Bazı"
+  },
+  {
+    "nl": "sommige gevallen",
+    "tr": "Bazı olaylar"
+  },
+  {
+    "nl": "soorten",
+    "tr": "çeşitler"
+  },
+  {
+    "nl": "spanning",
+    "tr": "basınç"
+  },
+  {
+    "nl": "sparen",
+    "tr": "biriktirme tasarruf"
+  },
+  {
+    "nl": "Specifieke verboden",
+    "tr": "Özel yasaklar"
+  },
+  {
+    "nl": "Speekseltest",
+    "tr": "Tükürük testi"
+  },
+  {
+    "nl": "Spitsstrook open",
+    "tr": "Yoğun trafik şeridi açık"
+  },
+  {
+    "nl": "Spitsstrook vrijmaken",
+    "tr": "Yoğun trafik şeridini boşaltın"
+  },
+  {
+    "nl": "spitstrook",
+    "tr": "acele şerit"
+  },
+  {
+    "nl": "splitsing",
+    "tr": "çatallanma"
+  },
+  {
+    "nl": "splitsing autosnelwegen",
+    "tr": "Otoyol ayrımı"
+  },
+  {
+    "nl": "spoedeisende",
+    "tr": "acil durumda"
+  },
+  {
+    "nl": "spoedeisende hulp",
+    "tr": "Acil durum yardımı"
+  },
+  {
+    "nl": "Spookfile",
+    "tr": "Düzensiz file"
+  },
+  {
+    "nl": "spoor",
+    "tr": "demir yolu"
+  },
+  {
+    "nl": "spoorvorming",
+    "tr": "iz oluşumu"
+  },
+  {
+    "nl": "Spoorwegovergang",
+    "tr": "Demir yolu geçidi"
+  },
+  {
+    "nl": "Staat",
+    "tr": "Ayarlamak"
+  },
+  {
+    "nl": "Stadlichten",
+    "tr": "Park lambaları"
+  },
+  {
+    "nl": "Sta klaar om",
+    "tr": "O duruma hazırlamak"
+  },
+  {
+    "nl": "stapvoets",
+    "tr": "yürüme hızında"
+  },
+  {
+    "nl": "stationair",
+    "tr": "sabit"
+  },
+  {
+    "nl": "Steekt",
+    "tr": "Taşar"
+  },
+  {
+    "nl": "steile helling",
+    "tr": "dik rampa"
+  },
+  {
+    "nl": "Stenen of puin",
+    "tr": "Taş ya fa moloz"
+  },
+  {
+    "nl": "Sterker",
+    "tr": "Güçlü"
+  },
+  {
+    "nl": "Steun",
+    "tr": "Destek"
+  },
+  {
+    "nl": "Stiele",
+    "tr": "Dik (rampa)"
+  },
+  {
+    "nl": "stikken",
+    "tr": "boğulmak"
+  },
+  {
+    "nl": "Stilstaan",
+    "tr": "Hareketsiz durmak"
+  },
+  {
+    "nl": "Stilstand",
+    "tr": "Hareketsiz durmak"
+  },
+  {
+    "nl": "stok",
+    "tr": "değnek sopa"
+  },
+  {
+    "nl": "stoot",
+    "tr": "itme kuvveti"
+  },
+  {
+    "nl": "Stop: in het bord kan warden aangegeven door wie of waarom het bord wordt toegepast",
+    "tr": "Dur: Levhada kim ve niçin durmak zorunda olduğunuz belirtilir."
+  },
+  {
+    "nl": "Stop: verleen voorrang aan bestuurders op de kruisende weg",
+    "tr": "Dur: Kesişen yoldaki sürücülere yol ver"
+  },
+  {
+    "nl": "stopafstand",
+    "tr": "Durma mesafesi"
+  },
+  {
+    "nl": "Stopteken",
+    "tr": "Dur işareti"
+  },
+  {
+    "nl": "storing",
+    "tr": "basarisizdik ariza"
+  },
+  {
+    "nl": "straf",
+    "tr": "ceza"
+  },
+  {
+    "nl": "strafbaar",
+    "tr": "cezayi hak eden"
+  },
+  {
+    "nl": "Strafbare",
+    "tr": "cezalandırılabilir"
+  },
+  {
+    "nl": "strafblad",
+    "tr": "sabıka kaydı"
+  },
+  {
+    "nl": "Strak",
+    "tr": "Sıkı"
+  },
+  {
+    "nl": "stralen schijnen",
+    "tr": "isin yaymak parlamak"
+  },
+  {
+    "nl": "Streep",
+    "tr": "Şerit, çizgi"
+  },
+  {
+    "nl": "strook",
+    "tr": "şerit"
+  },
+  {
+    "nl": "Sturen",
+    "tr": "Direksiyon"
+  },
+  {
+    "nl": "Sturen gaat veel lichter",
+    "tr": "Direksiyon çok hafif"
+  },
+  {
+    "nl": "Stuur bekrachtiging",
+    "tr": "Direksiyonun hidroliği sertleşir"
+  },
+  {
+    "nl": "Stuurgedrag beheersen",
+    "tr": "Diriksiyonu kontrol etmek"
+  },
+  {
+    "nl": "Taperaansluiting",
+    "tr": "Sol şeridin sora ererek devam eden trafiğin sağ şerit olduğu levha"
+  },
+  {
+    "nl": "taxistandplaats",
+    "tr": "Taksi durağı"
+  },
+  {
+    "nl": "tegelijk",
+    "tr": "birlikte"
+  },
+  {
+    "nl": "tegemoetkomend verkeer",
+    "tr": "Karşıdan gelen trafik"
+  },
+  {
+    "nl": "tegen de richting van de wind insturen",
+    "tr": "against the direction of the wind."
+  },
+  {
+    "nl": "tegengestelde",
+    "tr": "karşı aksi"
+  },
+  {
+    "nl": "tegengestelde richting",
+    "tr": "karşı yön"
+  },
+  {
+    "nl": "tegenkomen",
+    "tr": "karşılaşmak"
+  },
+  {
+    "nl": "tegenliggers",
+    "tr": "Karşıdan gelenler"
+  },
+  {
+    "nl": "Tegenmoetkomende",
+    "tr": "yaklaşan"
+  },
+  {
+    "nl": "Te gering",
+    "tr": "Akıllıca"
+  },
+  {
+    "nl": "Telefongespräch",
+    "tr": "Telefon görüşmesi"
+  },
+  {
+    "nl": "tenminste",
+    "tr": "Minumum (en az)"
+  },
+  {
+    "nl": "Tenzij",
+    "tr": "İstisna, sadece"
+  },
+  {
+    "nl": "Ter afwending",
+    "tr": "Geri çevirmek"
+  },
+  {
+    "nl": "Terugkeer",
+    "tr": "Geri dönmek"
+  },
+  {
+    "nl": "Terugschakelen",
+    "tr": "Vites düşürmek"
+  },
+  {
+    "nl": "Teveel",
+    "tr": "Çok fazla"
+  },
+  {
+    "nl": "tevens",
+    "tr": "ayrıca"
+  },
+  {
+    "nl": "Te verhogen",
+    "tr": "Yükseltmek"
+  },
+  {
+    "nl": "Te verminderen",
+    "tr": "Azaltmak"
+  },
+  {
+    "nl": "Tevoren",
+    "tr": "Önce"
+  },
+  {
+    "nl": "tijdelijk",
+    "tr": "Geçici olarak"
+  },
+  {
+    "nl": "Tijdelijke",
+    "tr": "Geçici"
+  },
+  {
+    "nl": "tijdens",
+    "tr": "sirasinda"
+  },
+  {
+    "nl": "tijdens de schemering",
+    "tr": "Akşam karanlığı zamanında"
+  },
+  {
+    "nl": "tijdens een bijzondere manoeuvre",
+    "tr": "Özel bir manevra esnasında"
+  },
+  {
+    "nl": "tijdens gevaar",
+    "tr": "Tehlike anında"
+  },
+  {
+    "nl": "Tijdig",
+    "tr": "Vakitli"
+  },
+  {
+    "nl": "Toch",
+    "tr": "Yine de"
+  },
+  {
+    "nl": "Toch Gaat rijden",
+    "tr": "Yine de sürmeye devam etmek"
+  },
+  {
+    "nl": "toegepast",
+    "tr": "uygulanan uygulamalı"
+  },
+  {
+    "nl": "toegestaan",
+    "tr": "İzin"
+  },
+  {
+    "nl": "Toegestane",
+    "tr": "İzin verilmek"
+  },
+  {
+    "nl": "Toegestane maximummassa",
+    "tr": "İzin verilen ağırlık"
+  },
+  {
+    "nl": "toerenteller",
+    "tr": "Devir sayacı"
+  },
+  {
+    "nl": "toestemming",
+    "tr": "izin, müsade"
+  },
+  {
+    "nl": "toeteren",
+    "tr": "Korna çalmak"
+  },
+  {
+    "nl": "Totaalmassa",
+    "tr": "Toplam ağırlık"
+  },
+  {
+    "nl": "Trajectaanduiding",
+    "tr": "Yol şeması (yörünge)"
+  },
+  {
+    "nl": "trapondersteuning",
+    "tr": "merdiven destekli"
+  },
+  {
+    "nl": "trekhaal",
+    "tr": "çeki demiri"
+  },
+  {
+    "nl": "trekken",
+    "tr": "çekmek"
+  },
+  {
+    "nl": "trottoir",
+    "tr": "kaldırım"
+  },
+  {
+    "nl": "trottoir stoep",
+    "tr": "kaldirim"
+  },
+  {
+    "nl": "Tunneleffect",
+    "tr": "Tunel etkisi"
+  },
+  {
+    "nl": "Tussenafstand",
+    "tr": "Aradaki mesafe"
+  },
+  {
+    "nl": "Tussenafstand Houden",
+    "tr": "Aradaki mesafeyi korumak"
+  },
+  {
+    "nl": "U bent hier om de wegenkaart te lezen; mag dat?",
+    "tr": "Yol haritasını okumak için burada durdunuz; Bu mümkün mü?"
+  },
+  {
+    "nl": "U heeft een nieuwe benzine auto gekocht. Na hoeveel jaar moet de APK keuring plaats?",
+    "tr": "Yeni bir benzinli araba satın aldınız. Kaç yıl sonra APK denetimi yapılmalı?"
+  },
+  {
+    "nl": "Uiterste rechterzijde",
+    "tr": "Tam sağ tarafta"
+  },
+  {
+    "nl": "uitgezonderd",
+    "tr": "Haricinde"
+  },
+  {
+    "nl": "uitlaat",
+    "tr": "egzoz"
+  },
+  {
+    "nl": "uitrijstrook",
+    "tr": "Çıkış şeridi"
+  },
+  {
+    "nl": "uitrit",
+    "tr": "çıkış"
+  },
+  {
+    "nl": "Uitrit passeren",
+    "tr": "Çıkıştan çıkmak"
+  },
+  {
+    "nl": "uitrollen",
+    "tr": "ruloyu açmak"
+  },
+  {
+    "nl": "uitschakelen",
+    "tr": "kapatmak fişini çekmek"
+  },
+  {
+    "nl": "uitsluitend",
+    "tr": "sadece"
+  },
+  {
+    "nl": "Uitstappen",
+    "tr": "Çıkmak"
+  },
+  {
+    "nl": "Uitsteeken",
+    "tr": "Taşmak"
+  },
+  {
+    "nl": "Uitsteekt",
+    "tr": "Çıkıntı (fazlalık)"
+  },
+  {
+    "nl": "Uitsteken",
+    "tr": "Taşan (fazlalık)"
+  },
+  {
+    "nl": "uitstekend",
+    "tr": "goze carpan cikinti"
+  },
+  {
+    "nl": "uitstekend!",
+    "tr": "mükemmel"
+  },
+  {
+    "nl": "Uitstekende delen",
+    "tr": "Parçalar"
+  },
+  {
+    "nl": "uitstekende lading",
+    "tr": "Mükemmel yük"
+  },
+  {
+    "nl": "uitstralen",
+    "tr": "isik sacmak"
+  },
+  {
+    "nl": "Uit tegengestelde richting",
+    "tr": "Ters yönden gelen"
+  },
+  {
+    "nl": "uitvaart",
+    "tr": "cenaze"
+  },
+  {
+    "nl": "uitvaartstoet",
+    "tr": "Cenaze konvoyu"
+  },
+  {
+    "nl": "uitvaatstoet",
+    "tr": "cenaze alayı"
+  },
+  {
+    "nl": "uitvoegen",
+    "tr": "cikmak"
+  },
+  {
+    "nl": "Uitvoegstrook",
+    "tr": "Çıkış şeridi"
+  },
+  {
+    "nl": "Uitvoeren",
+    "tr": "Devam etmek"
+  },
+  {
+    "nl": "uitvoering",
+    "tr": "gerceklesme"
+  },
+  {
+    "nl": "uitvoert",
+    "tr": ".. yapan"
+  },
+  {
+    "nl": "uitwerking",
+    "tr": "ayrıntı"
+  },
+  {
+    "nl": "uitwijk",
+    "tr": "bir aracı geçip gitmek"
+  },
+  {
+    "nl": "uitwijken naar",
+    "tr": "Kenara çekmek"
+  },
+  {
+    "nl": "uitwijkmogelijkheden",
+    "tr": "geri dönüs secenekleri"
+  },
+  {
+    "nl": "uitwijkplaats",
+    "tr": "geri dönüs yeri"
+  },
+  {
+    "nl": "Uitwijkplaats rechts van de weg",
+    "tr": "Sağ yoldan alternatif yola devam etme"
+  },
+  {
+    "nl": "uitwijkroute",
+    "tr": "Alternatif yol"
+  },
+  {
+    "nl": "Uitzetten",
+    "tr": "Kapatmak"
+  },
+  {
+    "nl": "uitzicht",
+    "tr": "Görünüm"
+  },
+  {
+    "nl": "uitzicht (het)",
+    "tr": "Görüntü"
+  },
+  {
+    "nl": "U keert hier, mag dat",
+    "tr": "Buraya gidebilir misin?"
+  },
+  {
+    "nl": "unieke",
+    "tr": "özgün benzersiz"
+  },
+  {
+    "nl": "Urineproef",
+    "tr": "İdrar testi"
+  },
+  {
+    "nl": "U wilt linksaf; een vrachtauto komt u tegemoet; wat doet u?",
+    "tr": "Sonra dönmek istiyorsun bir kamyon ile karşılaşıyorsun ne yaparsın"
+  },
+  {
+    "nl": "U wilt rechtsaf; moet u de voetganger voor laten gaan?",
+    "tr": "Sağa dönmek istiyorsan; Yaya ilerlemesine izin verir misin?"
+  },
+  {
+    "nl": "U zult hier rechtsaf; moet u de invalide voertuig voor laten gaan?",
+    "tr": "Buraya dönmek istersin; engelli aracın ilerlemesine izin vermek zorunda mısınız?"
+  },
+  {
+    "nl": "Vaak",
+    "tr": "Sıklıkla"
+  },
+  {
+    "nl": "vaardigheden",
+    "tr": "yetenek beceri"
+  },
+  {
+    "nl": "vaart",
+    "tr": "hız"
+  },
+  {
+    "nl": "Vaker",
+    "tr": "Daha sık"
+  },
+  {
+    "nl": "vakkundig",
+    "tr": "Uzman"
+  },
+  {
+    "nl": "vangrail",
+    "tr": "demir bariyer"
+  },
+  {
+    "nl": "van te voren",
+    "tr": "önceden"
+  },
+  {
+    "nl": "van tevoren weten",
+    "tr": "önceden bilmek"
+  },
+  {
+    "nl": "Vanuit",
+    "tr": "İtibaren"
+  },
+  {
+    "nl": "Varen",
+    "tr": "Yolculuk"
+  },
+  {
+    "nl": "Vasthemaakt",
+    "tr": "Bağlanmalı, sabitlenmeli"
+  },
+  {
+    "nl": "Vasthouden",
+    "tr": "Elinde tutmak"
+  },
+  {
+    "nl": "vastzetten",
+    "tr": "saptamak sabitlemek"
+  },
+  {
+    "nl": "vee",
+    "tr": "sığır"
+  },
+  {
+    "nl": "veebinding",
+    "tr": "bağlantı"
+  },
+  {
+    "nl": "Veel rook",
+    "tr": "Çok duman"
+  },
+  {
+    "nl": "Veerlen voorrang aan de bestuurders op de kruisende weg",
+    "tr": "Kesişen yoldaki tüm sürücelere yol ver"
+  },
+  {
+    "nl": "veilig",
+    "tr": "Güvenli bir şekilde"
+  },
+  {
+    "nl": "veiligheidseisen",
+    "tr": "Emniyet gereksinimleri"
+  },
+  {
+    "nl": "veldoende",
+    "tr": "yeterli"
+  },
+  {
+    "nl": "Ventieldopje",
+    "tr": "vana kapagi valf"
+  },
+  {
+    "nl": "Ventieldopjes",
+    "tr": "Sibop kapağı"
+  },
+  {
+    "nl": "Verantwoord",
+    "tr": "Sorumluluk"
+  },
+  {
+    "nl": "verantwoordelijk",
+    "tr": "Sorumlu"
+  },
+  {
+    "nl": "Verantwoord rijgedrag",
+    "tr": "Sorumlu sürüş davranışları"
+  },
+  {
+    "nl": "Verbantrommel + s",
+    "tr": "İlk yardım çantası"
+  },
+  {
+    "nl": "verbeelding",
+    "tr": "hayal gücü"
+  },
+  {
+    "nl": "verbergen (gevoel)",
+    "tr": "gizlemek"
+  },
+  {
+    "nl": "verbinden",
+    "tr": "bağlamak"
+  },
+  {
+    "nl": "Verblind",
+    "tr": "Körlük"
+  },
+  {
+    "nl": "Verbod fietsen en bromfietsen te plaatsen",
+    "tr": "Bisiklet ve motorlu bisiklet bırakmak yasaktır."
+  },
+  {
+    "nl": "Verbod stil te staan",
+    "tr": "Duraklamak yasaktır."
+  },
+  {
+    "nl": "Verbod voor bestuurders door te gaan bij nadering van verkeer uit tegengestelde richting",
+    "tr": "Karşı istikametten trafiğin sıkışması halinde sürücülere devam etmek yasaktır."
+  },
+  {
+    "nl": "Verbod voor motorvoertuigen om elkaar onderling in te halen",
+    "tr": "Motorlu taşıtların birbirini geçmesi yasaktır."
+  },
+  {
+    "nl": "Verbod voor vrachtauto's om motorvoertuigen in te halen",
+    "tr": "Kamyonların motorlu taşıtları geçmesi yasaktır."
+  },
+  {
+    "nl": "verbonden",
+    "tr": "bağlı"
+  },
+  {
+    "nl": "verbruik",
+    "tr": "tüketim"
+  },
+  {
+    "nl": "Verderop",
+    "tr": "Ötesinde"
+  },
+  {
+    "nl": "vergelijkbare",
+    "tr": "karşılaştırılabilir"
+  },
+  {
+    "nl": "vergunninghouder",
+    "tr": "izin sahibi"
+  },
+  {
+    "nl": "Verharde weg",
+    "tr": "Taş yol (sağlam yol)"
+  },
+  {
+    "nl": "Verhogen",
+    "tr": "Arttırmak"
+  },
+  {
+    "nl": "verhoogt",
+    "tr": "artar"
+  },
+  {
+    "nl": "Verhouding",
+    "tr": "Oran"
+  },
+  {
+    "nl": "verkeersbrigadier",
+    "tr": "trafik görevlisi"
+  },
+  {
+    "nl": "Verkeersinzicht",
+    "tr": "Trafik anlayışı"
+  },
+  {
+    "nl": "Verkeerslachtoffers",
+    "tr": "trafik zayiatı"
+  },
+  {
+    "nl": "verkeersmaatregel",
+    "tr": "trafik kuralı ölçüsü"
+  },
+  {
+    "nl": "Verkeersnoodzakelijke",
+    "tr": "Trafik gerekliliği"
+  },
+  {
+    "nl": "verkeersongeval (het)",
+    "tr": "Trafik kazası"
+  },
+  {
+    "nl": "Verkeersregelaar",
+    "tr": "Trafik düzenleyicisi"
+  },
+  {
+    "nl": "verkeersregels",
+    "tr": "Trafik kuralları"
+  },
+  {
+    "nl": "Verkeerssituaties",
+    "tr": "Trafik durumları"
+  },
+  {
+    "nl": "Verkeersslachtoffer",
+    "tr": "Trafik kazası"
+  },
+  {
+    "nl": "Verkeersspiegel",
+    "tr": "Trafik aynası"
+  },
+  {
+    "nl": "Verkeerstekens",
+    "tr": "İşaretleri"
+  },
+  {
+    "nl": "verklaring",
+    "tr": "açıklama"
+  },
+  {
+    "nl": "Verlaat",
+    "tr": "Çıkmak"
+  },
+  {
+    "nl": "Verlaat de doorgaande",
+    "tr": "Üzerinden geçmek"
+  },
+  {
+    "nl": "verlaten",
+    "tr": "ayrılmak"
+  },
+  {
+    "nl": "Verleen voorrang",
+    "tr": "Öncelik vermek"
+  },
+  {
+    "nl": "Verleen voorrang aan de bestuurders op de kruisende weg",
+    "tr": "Kesişen yoldaki sürücülere yol ver."
+  },
+  {
+    "nl": "verlichting",
+    "tr": "Işığı açmak"
+  },
+  {
+    "nl": "verliezen",
+    "tr": "kayıplar"
+  },
+  {
+    "nl": "verlopen",
+    "tr": "süresi dolmak"
+  },
+  {
+    "nl": "vermeld",
+    "tr": "adı geçen"
+  },
+  {
+    "nl": "vermindering van het waarnemingsvermogen",
+    "tr": "Algılamanın azalması"
+  },
+  {
+    "nl": "Vermindert",
+    "tr": "Azaltmak"
+  },
+  {
+    "nl": "vermoeden",
+    "tr": "tahmin"
+  },
+  {
+    "nl": "vermoeidheid",
+    "tr": "yorgunluk"
+  },
+  {
+    "nl": "Vermogen",
+    "tr": "Yetenek"
+  },
+  {
+    "nl": "Veroordeeld",
+    "tr": "Mahkum olmak"
+  },
+  {
+    "nl": "veroorzaken",
+    "tr": "Sebep olmak"
+  },
+  {
+    "nl": "verplaatsen",
+    "tr": "hareket hamle"
+  },
+  {
+    "nl": "verplicht",
+    "tr": "Zorunlu, mecburi"
+  },
+  {
+    "nl": "verplichte",
+    "tr": "zorunlu"
+  },
+  {
+    "nl": "Verplicht fietspad",
+    "tr": "Mevburi bisiklet yolu"
+  },
+  {
+    "nl": "verrardelijk",
+    "tr": "haince firsat kollayan"
+  },
+  {
+    "nl": "verrassen",
+    "tr": "sürpriz"
+  },
+  {
+    "nl": "versnelling",
+    "tr": "Vites hizlanmak"
+  },
+  {
+    "nl": "versnellingspook versnellingshendel",
+    "tr": "Vites kolu"
+  },
+  {
+    "nl": "Verstaan",
+    "tr": "Anlamak"
+  },
+  {
+    "nl": "verstandig",
+    "tr": "makul"
+  },
+  {
+    "nl": "vervangen",
+    "tr": "degistirmek"
+  },
+  {
+    "nl": "Vervelend",
+    "tr": "Kötü, sinir bozucu"
+  },
+  {
+    "nl": "vervoeren",
+    "tr": "Nakliye etmek"
+  },
+  {
+    "nl": "vervoeren, transporteren",
+    "tr": "Taşıma"
+  },
+  {
+    "nl": "vervolgens",
+    "tr": "sonra"
+  },
+  {
+    "nl": "vervuilde",
+    "tr": "kirli"
+  },
+  {
+    "nl": "Vervuilde wegen",
+    "tr": "Kirlenmiş yollar"
+  },
+  {
+    "nl": "vervuilende",
+    "tr": "çevreyi kirleten"
+  },
+  {
+    "nl": "verwacht",
+    "tr": "ummak sanmak"
+  },
+  {
+    "nl": "verwachten",
+    "tr": "Beklemek"
+  },
+  {
+    "nl": "verwarren",
+    "tr": "karıştırmak yanıltmak"
+  },
+  {
+    "nl": "verwijzen",
+    "tr": "yönlendirme"
+  },
+  {
+    "nl": "verwisselen",
+    "tr": "değiştirme"
+  },
+  {
+    "nl": "Verzekerd",
+    "tr": "Sigortalı"
+  },
+  {
+    "nl": "verzoorzaken",
+    "tr": "neden olmak"
+  },
+  {
+    "nl": "verzwaren",
+    "tr": "güçlendirmek"
+  },
+  {
+    "nl": "Vielig",
+    "tr": "Güvenli"
+  },
+  {
+    "nl": "Vlak",
+    "tr": "Düz"
+  },
+  {
+    "nl": "vlakbij",
+    "tr": "yaklaşma"
+  },
+  {
+    "nl": "Vlak voor",
+    "tr": "Hemen önün"
+  },
+  {
+    "nl": "Vliegen",
+    "tr": "Uçmak"
+  },
+  {
+    "nl": "vloei",
+    "tr": "akis"
+  },
+  {
+    "nl": "vloeistoffen",
+    "tr": "sivilar"
+  },
+  {
+    "nl": "Vlot doorschakelen",
+    "tr": "Makul geçişler"
+  },
+  {
+    "nl": "Vlotte beslissingen",
+    "tr": "Doğru kararlar"
+  },
+  {
+    "nl": "vluchthaven",
+    "tr": "Emniyet limanı (cep)"
+  },
+  {
+    "nl": "vluchtheuvel",
+    "tr": "sığınak"
+  },
+  {
+    "nl": "vluchtstrook",
+    "tr": "Emniyet şeridi"
+  },
+  {
+    "nl": "Vocht",
+    "tr": "Nem"
+  },
+  {
+    "nl": "Voelbaarheid",
+    "tr": "Duyarlılık"
+  },
+  {
+    "nl": "voeren (v)",
+    "tr": "Uyarı"
+  },
+  {
+    "nl": "voertuig (het)",
+    "tr": "Araç"
+  },
+  {
+    "nl": "voertuigen",
+    "tr": "tasit araba"
+  },
+  {
+    "nl": "voertuig gecontroleerd plaatsen",
+    "tr": "Aracı kontrollü olarak park etmek"
+  },
+  {
+    "nl": "Voert zwaailicht",
+    "tr": "Yanıp sönen ışıkla"
+  },
+  {
+    "nl": "voet",
+    "tr": "ayak"
+  },
+  {
+    "nl": "voetganger",
+    "tr": "yaya"
+  },
+  {
+    "nl": "Voetgangers",
+    "tr": "Yaya geçidi"
+  },
+  {
+    "nl": "Voetpad",
+    "tr": "Yaya yolu"
+  },
+  {
+    "nl": "voldoen aan",
+    "tr": "karşı karşıya kalma (dava ile)"
+  },
+  {
+    "nl": "voldoet",
+    "tr": "karsilayan"
+  },
+  {
+    "nl": "Volgafstand",
+    "tr": "takip mesafesi"
+  },
+  {
+    "nl": "Volgafstand voldoende",
+    "tr": "Takip mesafesi süresi"
+  },
+  {
+    "nl": "Volgelopen",
+    "tr": "Sular altında"
+  },
+  {
+    "nl": "Volgen",
+    "tr": "Takip etmek"
+  },
+  {
+    "nl": "volgens",
+    "tr": "göre"
+  },
+  {
+    "nl": "volgorde, de",
+    "tr": "Devam eden, düzgün"
+  },
+  {
+    "nl": "Volgt daartoe",
+    "tr": "Bu amaçla"
+  },
+  {
+    "nl": "Volledig",
+    "tr": "Tam"
+  },
+  {
+    "nl": "volwassenen",
+    "tr": "yetişkinler"
+  },
+  {
+    "nl": "vooraanduidig",
+    "tr": "belirtilen"
+  },
+  {
+    "nl": "voorbij",
+    "tr": "önceden"
+  },
+  {
+    "nl": "Voorbijgaan",
+    "tr": "Geçiş yapmak"
+  },
+  {
+    "nl": "Voordat",
+    "tr": "Önce"
+  },
+  {
+    "nl": "voordat je wegrijdt",
+    "tr": "sürmeden önce"
+  },
+  {
+    "nl": "voor de doorstroming van het verkeer",
+    "tr": "trafiğin akışı için"
+  },
+  {
+    "nl": "Voordelen",
+    "tr": "Faydalı"
+  },
+  {
+    "nl": "Voor een betere afwatering",
+    "tr": "Suyu daha iyi akıtmak için"
+  },
+  {
+    "nl": "Voorgaan",
+    "tr": "Devam etmek"
+  },
+  {
+    "nl": "voorgesorteerd staat",
+    "tr": "önceden ayrılmış (şeridine yerleşmiş)"
+  },
+  {
+    "nl": "Voorkant",
+    "tr": "Ön"
+  },
+  {
+    "nl": "Voorkeur",
+    "tr": "Tercih etmek"
+  },
+  {
+    "nl": "Voor laten gaan",
+    "tr": "Öncelik vermek"
+  },
+  {
+    "nl": "voorligger",
+    "tr": "öndeki araba"
+  },
+  {
+    "nl": "Voorligger bewaart",
+    "tr": "Öndeki araç"
+  },
+  {
+    "nl": "voorrang",
+    "tr": "geçiş önceliği vermek"
+  },
+  {
+    "nl": "Voorrangskruispunt",
+    "tr": "Tali yol kavşağı"
+  },
+  {
+    "nl": "Voorrangskruispunt zijweg links",
+    "tr": "Soldan tali yol kavşağı"
+  },
+  {
+    "nl": "Voorrangskruispunt zijweg rechts",
+    "tr": "Sağdan tali yol kavşağı"
+  },
+  {
+    "nl": "voorrangsregel",
+    "tr": "Öncelik kuralı"
+  },
+  {
+    "nl": "Voorrangsvoertuig",
+    "tr": "Öncelikli araç"
+  },
+  {
+    "nl": "voorrangsvoertuigen",
+    "tr": "Öncelikli araçlar"
+  },
+  {
+    "nl": "voorrangsweg",
+    "tr": "Anayol"
+  },
+  {
+    "nl": "voorrang verlenen",
+    "tr": "Öncelik vermek"
+  },
+  {
+    "nl": "Voor rechts afslaan",
+    "tr": "Sağa dönmek için"
+  },
+  {
+    "nl": "voorruit",
+    "tr": "Ön cam"
+  },
+  {
+    "nl": "voorsorteren",
+    "tr": "şerit ayrılması"
+  },
+  {
+    "nl": "voorspellen",
+    "tr": "tahmin"
+  },
+  {
+    "nl": "voortbewegen",
+    "tr": "İleriye çekmek"
+  },
+  {
+    "nl": "Voortbewogen",
+    "tr": "İleri taşımak"
+  },
+  {
+    "nl": "Voorwaarschuwing",
+    "tr": "Önceden uyarı"
+  },
+  {
+    "nl": "voorwerpen",
+    "tr": "Nesneler"
+  },
+  {
+    "nl": "voorzichtig",
+    "tr": "İhtiyatlı"
+  },
+  {
+    "nl": "voorzichtigheid",
+    "tr": "dikkat ihtiyat"
+  },
+  {
+    "nl": "Voorzien",
+    "tr": "Sağlamak"
+  },
+  {
+    "nl": "voorzien van",
+    "tr": "sağlamak temin etmek"
+  },
+  {
+    "nl": "Voorzijde",
+    "tr": "Ön taraf"
+  },
+  {
+    "nl": "voren",
+    "tr": "ileri"
+  },
+  {
+    "nl": "Vorst",
+    "tr": "Don"
+  },
+  {
+    "nl": "vrachtauto",
+    "tr": "kamyon"
+  },
+  {
+    "nl": "Vriezen",
+    "tr": "Donma"
+  },
+  {
+    "nl": "Vrijmaken",
+    "tr": "Boşalt"
+  },
+  {
+    "nl": "vrijwel altijd",
+    "tr": "genellikle, her zaman"
+  },
+  {
+    "nl": "Vrijwillige stop",
+    "tr": "Gönüllü olarak durmak"
+  },
+  {
+    "nl": "Vroeg mogelijk",
+    "tr": "Mümlün olduğunca erken"
+  },
+  {
+    "nl": "Vuil",
+    "tr": "Kir"
+  },
+  {
+    "nl": "Vulpistool",
+    "tr": "Benzin pompası"
+  },
+  {
+    "nl": "Waardan",
+    "tr": "Hangisinin"
+  },
+  {
+    "nl": "Waar dit bord is geplaats",
+    "tr": "Bu bordun nereye yerleştirildiği"
+  },
+  {
+    "nl": "waardoor bloed het brandstofverbruik worden verlaagd?",
+    "tr": "Yakıt tüketimi nasıl azaltılabilir?"
+  },
+  {
+    "nl": "waar moet je rekening mee houden...",
+    "tr": "Neyi hesaba katarsın?"
+  },
+  {
+    "nl": "waarnemen",
+    "tr": "algilamak"
+  },
+  {
+    "nl": "waarneming",
+    "tr": "algı"
+  },
+  {
+    "nl": "waarnemingsvermogen",
+    "tr": "sezi"
+  },
+  {
+    "nl": "waarnemingvermogen",
+    "tr": "sezi"
+  },
+  {
+    "nl": "waarschijnlijk",
+    "tr": "muhtemelen"
+  },
+  {
+    "nl": "Waarschuwen",
+    "tr": "Uyarmak"
+  },
+  {
+    "nl": "waarschuwing",
+    "tr": "uyarı levhası"
+  },
+  {
+    "nl": "waarschuwingsknipperlichten",
+    "tr": "Dörtlü reflektörler (4'lüler)"
+  },
+  {
+    "nl": "Waarschuwingsknippertlichten",
+    "tr": "Yanıp sönen ışıklar (alarmlichten)"
+  },
+  {
+    "nl": "waarvan",
+    "tr": "ki bunun"
+  },
+  {
+    "nl": "Waarvoor",
+    "tr": "Ne için"
+  },
+  {
+    "nl": "Wanneer mag u een geluid- of lichtsignaal geven?",
+    "tr": "Ne zaman sesli veya hafif bir sinyal vereceksin?"
+  },
+  {
+    "nl": "Wat gebeurt",
+    "tr": "Ne olur"
+  },
+  {
+    "nl": "Wat gladder",
+    "tr": "Daha kaygan"
+  },
+  {
+    "nl": "Wat is er aan de hand?",
+    "tr": "Ne oldu?"
+  },
+  {
+    "nl": "wat is jouw toegestane maximumsnelheid op deze weg?",
+    "tr": "Bu yolda izin verilen azami hız nedir?"
+  },
+  {
+    "nl": "Wat kan de afbraak van alcohol in het bloed versnellen?",
+    "tr": "Kanda alkolün parçalanmasını hızlandıran nedir?"
+  },
+  {
+    "nl": "Wat wordt bedoeld?",
+    "tr": "Ne demektir?"
+  },
+  {
+    "nl": "Weegt",
+    "tr": "Ağırlığındadır"
+  },
+  {
+    "nl": "Weer",
+    "tr": "Hava - yeniden, tekrar"
+  },
+  {
+    "nl": "Weersomstandigheden",
+    "tr": "Hava koşulları"
+  },
+  {
+    "nl": "Weerszijden",
+    "tr": "İki taraf"
+  },
+  {
+    "nl": "Weg",
+    "tr": "(Yolun kenarıyla birlikte komple)"
+  },
+  {
+    "nl": "Wegbeheerder",
+    "tr": "Yol yöneticisi"
+  },
+  {
+    "nl": "wegbeligning",
+    "tr": "yol işaretleri"
+  },
+  {
+    "nl": "wegdek",
+    "tr": "yol yüzeyi"
+  },
+  {
+    "nl": "Wegdek (het)",
+    "tr": "Yol yüzeyi"
+  },
+  {
+    "nl": "Wegen",
+    "tr": "Tartmak"
+  },
+  {
+    "nl": "Wegens",
+    "tr": "Nedeniyle"
+  },
+  {
+    "nl": "weggebruiker",
+    "tr": "Yol kullanıcısı"
+  },
+  {
+    "nl": "Weggedeelte",
+    "tr": "Yol bölümü"
+  },
+  {
+    "nl": "Weggedrag",
+    "tr": "Yol tutuşu"
+  },
+  {
+    "nl": "Wegligging",
+    "tr": "yol tutusu"
+  },
+  {
+    "nl": "wegomleiding",
+    "tr": "Geçici rota (sarı levları talip ederek)"
+  },
+  {
+    "nl": "Wegrijden",
+    "tr": "Yola çıkmak"
+  },
+  {
+    "nl": "wegverkanting",
+    "tr": "yol egimi"
+  },
+  {
+    "nl": "Wegvuil",
+    "tr": "Pislik"
+  },
+  {
+    "nl": "wegwijzer",
+    "tr": "tabela"
+  },
+  {
+    "nl": "Weigert",
+    "tr": "Reddetmek"
+  },
+  {
+    "nl": "weinig",
+    "tr": "az"
+  },
+  {
+    "nl": "Wel",
+    "tr": "İyi"
+  },
+  {
+    "nl": "welke kanten",
+    "tr": "hangi taraf"
+  },
+  {
+    "nl": "Welke marketing is tijdelijk?",
+    "tr": "hangi işaret geçici?"
+  },
+  {
+    "nl": "Welke volg afstand is u aan voordat u gaat inhalen?",
+    "tr": "Sollamadan önce hangi hız mesafesini takip etmelisiniz?"
+  },
+  {
+    "nl": "Welke volgafstand vaart u met een snelheid van 120 kilometer per uur?",
+    "tr": "En azından saatte 120 kilometre hızla hangi takip mesafesini tutuyorsunuz?"
+  },
+  {
+    "nl": "Welk wegdeel",
+    "tr": "Yolun hangi kısmı (bölümü)"
+  },
+  {
+    "nl": "wenden",
+    "tr": "dönmek"
+  },
+  {
+    "nl": "werkeersteken",
+    "tr": "trafik işaretleri"
+  },
+  {
+    "nl": "Werk in uitvoering",
+    "tr": "İş devam ediyor"
+  },
+  {
+    "nl": "Wettelijk",
+    "tr": "Kanuni"
+  },
+  {
+    "nl": "Wie mag eerst?",
+    "tr": "Kim öncelikli?"
+  },
+  {
+    "nl": "wiet",
+    "tr": "ot"
+  },
+  {
+    "nl": "wijken",
+    "tr": "yol vermek"
+  },
+  {
+    "nl": "Wijzen",
+    "tr": "İşaret etmek"
+  },
+  {
+    "nl": "willekeurig",
+    "tr": "rastgele secmek"
+  },
+  {
+    "nl": "Wind",
+    "tr": "Rüzgar"
+  },
+  {
+    "nl": "Wisselende",
+    "tr": "Sürekli değişen"
+  },
+  {
+    "nl": "wisselen van rijstrook",
+    "tr": "Şerit değiştirirken"
+  },
+  {
+    "nl": "Wisselt",
+    "tr": "Değişim"
+  },
+  {
+    "nl": "Witte pijl",
+    "tr": "Beyaz ok"
+  },
+  {
+    "nl": "Wordt ingehaald",
+    "tr": "Sollanılan araç"
+  },
+  {
+    "nl": "wordt u hier gewaarschuwd voor een voetgangersoversteekplaats?",
+    "tr": "Burada yaya geçidi konusunda uyarı mı oluyor?"
+  },
+  {
+    "nl": "Yeni bir benzinli araba satın aldınız. Kaç yıl sonra APK denetimi yapılmalı?",
+    "tr": "Sürüş kabiliyetini etkileyen ilaçlar var mı"
+  },
+  {
+    "nl": "Zachte",
+    "tr": "Yumşak"
+  },
+  {
+    "nl": "Zand of grind",
+    "tr": "Kum ya da çakıl"
+  },
+  {
+    "nl": "zebrapad",
+    "tr": "Yaya geçidi"
+  },
+  {
+    "nl": "Zeer laag",
+    "tr": "Çok düşük"
+  },
+  {
+    "nl": "Zet de verlichting aan",
+    "tr": "Aydınlatmayı aç"
+  },
+  {
+    "nl": "Zicht",
+    "tr": "Görünüm"
+  },
+  {
+    "nl": "zichtbaar",
+    "tr": "görülebilir"
+  },
+  {
+    "nl": "zijde",
+    "tr": "yan taraf"
+  },
+  {
+    "nl": "Zijligging",
+    "tr": "Yan yatmak"
+  },
+  {
+    "nl": "zijn voorzien van",
+    "tr": "İle sağlanmaktadır"
+  },
+  {
+    "nl": "Zijweg",
+    "tr": "Yan yol"
+  },
+  {
+    "nl": "Zijweg links",
+    "tr": "Sol yan yol"
+  },
+  {
+    "nl": "Zijwind",
+    "tr": "Yandan Rüzgar"
+  },
+  {
+    "nl": "Zoals",
+    "tr": "Gibi"
+  },
+  {
+    "nl": "Zo Gesleept worden",
+    "tr": "Bu şekilde çekmek"
+  },
+  {
+    "nl": "zojuist",
+    "tr": "sadece"
+  },
+  {
+    "nl": "zo laat mogelijk",
+    "tr": "olabildiğince geç"
+  },
+  {
+    "nl": "zo lang mogelijk in een lage versnelling te blijven rijden",
+    "tr": "mümkün olduğunca düşük vitesde kalma"
+  },
+  {
+    "nl": "Zorgen voor je eigen veiligheid",
+    "tr": "Kendi güvenliğini sağla"
+  },
+  {
+    "nl": "zorgt ervoor dat",
+    "tr": "ile ilgilenir"
+  },
+  {
+    "nl": "zorgt voor",
+    "tr": "sağlar"
+  },
+  {
+    "nl": "Zo snel mogelijk",
+    "tr": "Mümkün olan en kısa sürede"
+  },
+  {
+    "nl": "Zoveel",
+    "tr": "Mümkün olduğu kadar"
+  },
+  {
+    "nl": "zo ver mogelijk",
+    "tr": "mümkün olduğunca uzak"
+  },
+  {
+    "nl": "zo vroeg mogelijk",
+    "tr": "olabildiğince erken"
+  },
+  {
+    "nl": "zowel...als",
+    "tr": "Her ikisi de"
+  },
+  {
+    "nl": "zowel buiten als binnen",
+    "tr": "hem icerde hem disarda"
+  },
+  {
+    "nl": "zuiniger",
+    "tr": "Daha ekonomik"
+  },
+  {
+    "nl": "Zuniger",
+    "tr": "Ekonomik"
+  }
+]

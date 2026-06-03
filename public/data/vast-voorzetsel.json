@@ -1,0 +1,2762 @@
+[
+  {
+    "expression": "beginnen met",
+    "tr": "İle başlamak.",
+    "examples": []
+  },
+  {
+    "expression": "Ik begin met mijn nieuwe project.",
+    "tr": "Yeni projemle başlıyorum.",
+    "examples": []
+  },
+  {
+    "expression": "bezig zijn met",
+    "tr": "İle meşgul olmak.",
+    "examples": []
+  },
+  {
+    "expression": "Hij is altijd bezig met zijn werk.",
+    "tr": "O her zaman işiyle meşgul.",
+    "examples": []
+  },
+  {
+    "expression": "condoleren met",
+    "tr": "Başsağlığı dilemek.",
+    "examples": [
+      {
+        "nl": "We condoleren met het verlies van je grootvader.",
+        "tr": "Büyükbabanın kaybı için başsağlığı diliyoruz."
+      }
+    ]
+  },
+  {
+    "expression": "ervaring hebben met",
+    "tr": "Bir şeyle ilgili deneyime sahip olmak.",
+    "examples": [
+      {
+        "nl": "Ze heeft ervaring met grafisch ontwerpen.",
+        "tr": "Grafik tasarım konusunda deneyimi var."
+      }
+    ]
+  },
+  {
+    "expression": "feliciteren met",
+    "tr": "Tebrik etmek.",
+    "examples": [
+      {
+        "nl": "Laten we haar feliciteren met haar promotie.",
+        "tr": "Onu terfi ettiği için tebrik edelim."
+      }
+    ]
+  },
+  {
+    "expression": "Het eens zijn met",
+    "tr": "Aynı fikirde olmak.",
+    "examples": []
+  },
+  {
+    "expression": "Ik ben het eens met je standpunt.",
+    "tr": "Senin görüşünü onaylıyorum.",
+    "examples": []
+  },
+  {
+    "expression": "Ik ben het eens met je voorstel.",
+    "tr": "Senin önerinle aynı fikirdeyim.",
+    "examples": []
+  },
+  {
+    "expression": "kennismaken met",
+    "tr": "Birisiyle tanışmak.",
+    "examples": [
+      {
+        "nl": "Laten we kennismaken met onze nieuwe buren.",
+        "tr": "Yeni komşularımızla tanışalım."
+      }
+    ]
+  },
+  {
+    "expression": "meedoen met",
+    "tr": "Bir şeye katılmak.",
+    "examples": []
+  },
+  {
+    "expression": "Ik wil graag meedoen met het evenement.",
+    "tr": "Etkinliğe katılmak istiyorum.",
+    "examples": []
+  },
+  {
+    "expression": "praten met/over",
+    "tr": "Bir şey hakkında konuşmak.",
+    "examples": [
+      {
+        "nl": "Laten we praten over de nieuwe projecten.",
+        "tr": "Yeni projeler hakkında konuşalım."
+      }
+    ]
+  },
+  {
+    "expression": "rekening houden met",
+    "tr": "Bir şeyi hesaba katmak.",
+    "examples": [
+      {
+        "nl": "We moeten rekening houden met het budget.",
+        "tr": "Bütçeyi hesaba katmalıyız."
+      }
+    ]
+  },
+  {
+    "expression": "samenwerken met",
+    "tr": "Birlikte çalışmak.",
+    "examples": [
+      {
+        "nl": "We gaan samenwerken met andere afdelingen.",
+        "tr": "Diğer bölümlerle birlikte çalışacağız."
+      }
+    ]
+  },
+  {
+    "expression": "tevreden zijn met",
+    "tr": "Bir şeyden memnun olmak.",
+    "examples": []
+  },
+  {
+    "expression": "Ben tevreden met mijn prestaties.",
+    "tr": "Başarılarımdan memnunum.",
+    "examples": []
+  },
+  {
+    "expression": "trouwen met",
+    "tr": "Evlenmek.",
+    "examples": []
+  },
+  {
+    "expression": "Ze gaan volgende maand trouwen.",
+    "tr": "Gelecek ay evlenecekler.",
+    "examples": []
+  },
+  {
+    "expression": "vergelijken met",
+    "tr": "Bir şeyi karşılaştırmak.",
+    "examples": [
+      {
+        "nl": "Laten we deze twee producten vergelijken.",
+        "tr": "Bu iki ürünü karşılaştıralım."
+      }
+    ]
+  },
+  {
+    "expression": "zich bemoeien met",
+    "tr": "Bir şeye karışmak.",
+    "examples": []
+  },
+  {
+    "expression": "Je moet je niet met hun ruzie bemoeien.",
+    "tr": "Onların kavgasına karışma.",
+    "examples": []
+  },
+  {
+    "expression": "bezorgd zijn over",
+    "tr": "Endişeli hissetmek.",
+    "examples": [
+      {
+        "nl": "Ze is bezorgd over haar examenresultaten.",
+        "tr": "O, sınav sonuçları konusunda endişeli."
+      }
+    ]
+  },
+  {
+    "expression": "een vraag stellen over",
+    "tr": "Bir konu hakkında bir soru sormak.",
+    "examples": [
+      {
+        "nl": "Ik wil een vraag stellen over dit onderwerp.",
+        "tr": "Bu konu hakkında bir soru sormak istiyorum."
+      }
+    ]
+  },
+  {
+    "expression": "nadenken over",
+    "tr": "Bir şey hakkında düşünmek.",
+    "examples": [
+      {
+        "nl": "Laten we nadenken over hoe we dit probleem kunnen oplossen.",
+        "tr": "Bu problemi nasıl çözebileceğimizi düşünelim."
+      }
+    ]
+  },
+  {
+    "expression": "zich verbazen over",
+    "tr": "Bir şeye şaşırmak.",
+    "examples": [
+      {
+        "nl": "Ik verbaas me over zijn snelle vooruitgang.",
+        "tr": "Onun hızlı ilerlemesine şaşırıyorum."
+      }
+    ]
+  },
+  {
+    "expression": "zich zorgen maken over",
+    "tr": "endişelenmek",
+    "examples": []
+  },
+  {
+    "expression": "Ze maakt zich zorgen over haar examens.",
+    "tr": "Sınavları hakkında endişeleniyor.",
+    "examples": []
+  },
+  {
+    "expression": "geïnteresseerd zijn in",
+    "tr": "Bir şeye ilgi duymak.",
+    "examples": [
+      {
+        "nl": "Ik ben geïnteresseerd in kunstgeschiedenis.",
+        "tr": "Sanat tarihine ilgi duyuyorum."
+      }
+    ]
+  },
+  {
+    "expression": "slecht zijn in",
+    "tr": "Bir şeyde kötü olmak.",
+    "examples": []
+  },
+  {
+    "expression": "Hij is slecht in wiskunde.",
+    "tr": "Matematikte kötü.",
+    "examples": []
+  },
+  {
+    "expression": "zich vergissen in",
+    "tr": "hata yapmak",
+    "examples": []
+  },
+  {
+    "expression": "Hij kan zich vergissen in de datum.",
+    "tr": "Tarihte hata yapabilir.",
+    "examples": []
+  },
+  {
+    "expression": "trek hebben in",
+    "tr": "Bir şeyi istemek veya arzulamak.",
+    "examples": []
+  },
+  {
+    "expression": "Ik heb trek in pizza vanavond.",
+    "tr": "Bu akşam pizza istiyorum.",
+    "examples": []
+  },
+  {
+    "expression": "zin hebben in",
+    "tr": "istemek, arzu etmek",
+    "examples": []
+  },
+  {
+    "expression": "Ik heb zin in een ijsje.",
+    "tr": "Dondurma yemek istiyorum.",
+    "examples": []
+  },
+  {
+    "expression": "geld overmaken naar",
+    "tr": "Parayı birinden başka birine transfer etmek.",
+    "examples": [
+      {
+        "nl": "Ik zal geld overmaken naar je bankrekening.",
+        "tr": "Banka hesabına para transferi yapacağım."
+      }
+    ]
+  },
+  {
+    "expression": "informeren naar",
+    "tr": "Bir şey hakkında bilgi almak.",
+    "examples": [
+      {
+        "nl": "Ik wil graag informeren naar de beschikbare vacatures.",
+        "tr": "Uygun iş ilanları hakkında bilgi almak istiyorum."
+      }
+    ]
+  },
+  {
+    "expression": "kijken naar",
+    "tr": "Bir şeye bakmak.",
+    "examples": []
+  },
+  {
+    "expression": "Ik kijk naar de mooie zonsondergang.",
+    "tr": "Güzel günbatımına bakıyorum.",
+    "examples": []
+  },
+  {
+    "expression": "solliciteren naar",
+    "tr": "İş başvurusunda bulunmak.",
+    "examples": [
+      {
+        "nl": "Ze gaat solliciteren naar een baan in de IT-sector.",
+        "tr": "IT sektöründe bir işe başvuracak."
+      }
+    ]
+  },
+  {
+    "expression": "luisteren naar",
+    "tr": "Bir şeyi dinlemek.",
+    "examples": []
+  },
+  {
+    "expression": "Ik luister naar mijn favoriete muziek.",
+    "tr": "Favori müziğimi dinliyorum.",
+    "examples": []
+  },
+  {
+    "expression": "lachen om",
+    "tr": "Bir şey hakkında gülmek.",
+    "examples": []
+  },
+  {
+    "expression": "We kunnen lachen om dezelfde grappen.",
+    "tr": "Aynı şakalara gülebiliriz.",
+    "examples": []
+  },
+  {
+    "expression": "(een) hekel hebben aan",
+    "tr": "nefret etmek",
+    "examples": [
+      {
+        "nl": "Hij heeft een hekel aan regenachtige dagen.",
+        "tr": "Yağmurlu günlerden nefret eder."
+      }
+    ]
+  },
+  {
+    "expression": "(zich) aanpassen aan",
+    "tr": "uyum sağlamak",
+    "examples": [
+      {
+        "nl": "Ze paste zich aan aan de nieuwe omgeving.",
+        "tr": "Yeni çevreye uyum sağladı."
+      }
+    ]
+  },
+  {
+    "expression": "(zich) ergeren aan",
+    "tr": "sinirlenmek",
+    "examples": []
+  },
+  {
+    "expression": "Ze ergert zich aan luide muziek.",
+    "tr": "Yüksek müziğe sinirlenir.",
+    "examples": []
+  },
+  {
+    "expression": "(zich) hechten aan",
+    "tr": "bağlanmak",
+    "examples": []
+  },
+  {
+    "expression": "Hij hecht zich aan zijn huisdieren.",
+    "tr": "Evcil hayvanlarına bağlanır.",
+    "examples": []
+  },
+  {
+    "expression": "(zich) houden aan",
+    "tr": "uymak, bağlı kalmak",
+    "examples": [
+      {
+        "nl": "Ze houdt zich aan een gezonde levensstijl.",
+        "tr": "Sağlıklı bir yaşam tarzına uyar."
+      }
+    ]
+  },
+  {
+    "expression": "(zich) onttrekken aan",
+    "tr": "kaçınmak, kaçmak",
+    "examples": [
+      {
+        "nl": "Hij wil zich onttrekken aan het gesprek.",
+        "tr": "Konuşmadan kaçınmak istiyor."
+      }
+    ]
+  },
+  {
+    "expression": "(zich) opdringen aan",
+    "tr": "zorlamak, dayatmak",
+    "examples": []
+  },
+  {
+    "expression": "Ze dringt haar ideeën aan iedereen op.",
+    "tr": "Fikirlerini herkese zorlar.",
+    "examples": []
+  },
+  {
+    "expression": "(zich) voorstellen aan",
+    "tr": "kendini tanıtmak, tanitmak",
+    "examples": []
+  },
+  {
+    "expression": "Laat me me voorstellen aan je vrienden.",
+    "tr": "Arkadaşlarıma kendimi tanıtmama izin ver.",
+    "examples": [
+      {
+        "nl": "Ze wil zich voorstellen aan haar nieuwe collega's.",
+        "tr": "Yeni meslektaşlarına kendini tanıtmak istiyor."
+      }
+    ]
+  },
+  {
+    "expression": "(zich) wagen aan",
+    "tr": "cesaret etmek",
+    "examples": [
+      {
+        "nl": "Durf jij je te wagen aan een nieuw avontuur?",
+        "tr": "Yeni bir maceraya cesaret eder misin?"
+      }
+    ]
+  },
+  {
+    "expression": "(zich) wijden aan",
+    "tr": "adamak",
+    "examples": [
+      {
+        "nl": "Ze wil haar leven wijden aan liefdadigheid.",
+        "tr": "Hayatını yardım işlerine adamak istiyor."
+      }
+    ]
+  },
+  {
+    "expression": "beantwoorden aan",
+    "tr": "karşılık vermek",
+    "examples": [
+      {
+        "nl": "De resultaten moeten beantwoorden aan de verwachtingen.",
+        "tr": "Sonuçlar beklentilere karşılık vermelidir."
+      }
+    ]
+  },
+  {
+    "expression": "behoefte hebben aan",
+    "tr": "ihtiyacı olmak",
+    "examples": [
+      {
+        "nl": "Mensen hebben behoefte aan voedsel en water.",
+        "tr": "İnsanlar yiyecek ve suya ihtiyaç duyarlar."
+      }
+    ]
+  },
+  {
+    "expression": "deelnemen aan",
+    "tr": "katılmak",
+    "examples": []
+  },
+  {
+    "expression": "Ze wil deelnemen aan het debat.",
+    "tr": "Tartışmaya katılmak istiyor.",
+    "examples": []
+  },
+  {
+    "expression": "denken aan",
+    "tr": "düşünmek",
+    "examples": []
+  },
+  {
+    "expression": "Denk je vaak aan je familie?",
+    "tr": "Aileni sık sık düşünür müsün?",
+    "examples": []
+  },
+  {
+    "expression": "gebrek hebben aan",
+    "tr": "eksiklik yaşamak",
+    "examples": []
+  },
+  {
+    "expression": "Ze heeft gebrek aan zelfvertrouwen.",
+    "tr": "Özgüven eksikliği yaşıyor.",
+    "examples": []
+  },
+  {
+    "expression": "gewend zijn aan",
+    "tr": "alışkın olmak",
+    "examples": []
+  },
+  {
+    "expression": "Ze is gewend aan vroeg opstaan.",
+    "tr": "Erken kalkmaya alışıktır.",
+    "examples": []
+  },
+  {
+    "expression": "grenzen aan",
+    "tr": "sınırlamak",
+    "examples": []
+  },
+  {
+    "expression": "We moeten grenzen aan geweld stellen.",
+    "tr": "Şiddete sınırlar koymalıyız.",
+    "examples": []
+  },
+  {
+    "expression": "haperen aan",
+    "tr": "saplanmak",
+    "examples": []
+  },
+  {
+    "expression": "De deur hapert aan de onderkant.",
+    "tr": "Kapı alt kısımda takılıyor.",
+    "examples": []
+  },
+  {
+    "expression": "herinneren aan",
+    "tr": "hatırlatmak",
+    "examples": [
+      {
+        "nl": "Ik zal je herinneren aan de vergadering.",
+        "tr": "Toplantıyı hatırlatacağım."
+      }
+    ]
+  },
+  {
+    "expression": "lijden aan",
+    "tr": "acı çekmek",
+    "examples": []
+  },
+  {
+    "expression": "Ze lijdt aan ernstige allergieën.",
+    "tr": "Ciddi alerjilere acı çekiyor.",
+    "examples": []
+  },
+  {
+    "expression": "mankeren aan",
+    "tr": "eksiklik yaşamak",
+    "examples": []
+  },
+  {
+    "expression": "De oude machine mankeert aan onderhoud.",
+    "tr": "Eski makine bakımda eksiklik yaşıyor.",
+    "examples": []
+  },
+  {
+    "expression": "onderwerpen aan",
+    "tr": "tabi tutmak",
+    "examples": [
+      {
+        "nl": "Ze wil haar scriptie onderwerpen aan onderzoek.",
+        "tr": "Tezini araştırmaya tabi tutmak istiyor."
+      }
+    ]
+  },
+  {
+    "expression": "ontbreken aan",
+    "tr": "eksiklik göstermek",
+    "examples": [
+      {
+        "nl": "Er ontbreekt aan gegevens in het rapport.",
+        "tr": "Rapor eksik verileri gösteriyor."
+      }
+    ]
+  },
+  {
+    "expression": "ontkomen aan",
+    "tr": "kurtulmak",
+    "examples": [
+      {
+        "nl": "Ze kon maar net aan een ongeluk ontkomen.",
+        "tr": "Ancak bir kaza ile kurtuldu."
+      }
+    ]
+  },
+  {
+    "expression": "ontsnappen aan",
+    "tr": "kaçmak",
+    "examples": [
+      {
+        "nl": "De gevangene probeerde aan zijn bewakers te ontsnappen.",
+        "tr": "Mahkum gardiyanlardan kaçmaya çalıştı."
+      }
+    ]
+  },
+  {
+    "expression": "schelen aan",
+    "tr": "önemsemek",
+    "examples": [
+      {
+        "nl": "Het schelen hem niet aan wat anderen denken.",
+        "tr": "Başkalarının ne düşündüğünü umursamaz."
+      }
+    ]
+  },
+  {
+    "expression": "sterven aan",
+    "tr": "ölmek",
+    "examples": []
+  },
+  {
+    "expression": "Ze stierf aan kanker op jonge leeftijd.",
+    "tr": "Genç yaşta kansere öldü.",
+    "examples": []
+  },
+  {
+    "expression": "tegengesteld zijn aan",
+    "tr": "zıt olmak",
+    "examples": [
+      {
+        "nl": "Zijn woorden zijn tegengesteld aan zijn daden.",
+        "tr": "Sözleri eylemlerine zıttır."
+      }
+    ]
+  },
+  {
+    "expression": "trouw zijn aan",
+    "tr": "sadık olmak",
+    "examples": []
+  },
+  {
+    "expression": "Hij is trouw aan zijn vrienden.",
+    "tr": "Arkadaşlarına sadıktır.",
+    "examples": []
+  },
+  {
+    "expression": "twijfelen aan",
+    "tr": "şüphe etmek",
+    "examples": []
+  },
+  {
+    "expression": "Ik twijfel aan zijn oprechtheid.",
+    "tr": "O'nun samimiyetine şüphe ediyorum.",
+    "examples": []
+  },
+  {
+    "expression": "verslaafd zijn aan",
+    "tr": "bağımlı olmak",
+    "examples": []
+  },
+  {
+    "expression": "Ze is verslaafd aan sociale media.",
+    "tr": "Sosyal medyaya bağımlıdır.",
+    "examples": []
+  },
+  {
+    "expression": "voldoen aan",
+    "tr": "karşılamak",
+    "examples": [
+      {
+        "nl": "De winkel moet voldoen aan de veiligheidsnormen.",
+        "tr": "Mağaza güvenlik standartlarını karşılamalıdır."
+      }
+    ]
+  },
+  {
+    "expression": "voorafgaan aan",
+    "tr": "öncü olmak",
+    "examples": [
+      {
+        "nl": "Het ontwerp zal voorafgaan aan de productie.",
+        "tr": "Tasarım, üretime öncülük edecek."
+      }
+    ]
+  },
+  {
+    "expression": "voorkeur geven aan",
+    "tr": "tercih etmek",
+    "examples": [
+      {
+        "nl": "Ze geeft de voorkeur aan thee boven koffie.",
+        "tr": "Kahve yerine çayı tercih eder."
+      }
+    ]
+  },
+  {
+    "expression": "wanhopen aan",
+    "tr": "umutsuz olmak",
+    "examples": [
+      {
+        "nl": "Ze wanhoopt aan de toekomst van de planeet.",
+        "tr": "Gezegenin geleceğine umutsuz."
+      }
+    ]
+  },
+  {
+    "expression": "wennen aan",
+    "tr": "alışmak",
+    "examples": [
+      {
+        "nl": "Het kost tijd om te wennen aan een nieuwe cultuur.",
+        "tr": "Yeni bir kültüre alışmak zaman alır."
+      }
+    ]
+  },
+  {
+    "expression": "wijten aan",
+    "tr": "atfetmek",
+    "examples": []
+  },
+  {
+    "expression": "Ze wijt haar succes aan hard werken.",
+    "tr": "Başarısını sıkı çalışmaya atfeder.",
+    "examples": []
+  },
+  {
+    "expression": "toevoegen aan",
+    "tr": "eklemek",
+    "examples": []
+  },
+  {
+    "expression": "Voeg extra suiker toe aan de thee.",
+    "tr": "Çaya ekstra şeker ekleyin.",
+    "examples": []
+  },
+  {
+    "expression": "zijn aan",
+    "tr": "ait olmak",
+    "examples": []
+  },
+  {
+    "expression": "Deze kamer is zijn aan de directeur.",
+    "tr": "Bu oda müdüre aittir.",
+    "examples": []
+  },
+  {
+    "expression": "zich houden aan regels",
+    "tr": "kurallara uymak",
+    "examples": [
+      {
+        "nl": "Iedereen moet zich houden aan de huisregels.",
+        "tr": "Herkes ev kurallarına uymalıdır."
+      }
+    ]
+  },
+  {
+    "expression": "werk overdragen aan",
+    "tr": "işi devretmek, is teslim etmek",
+    "examples": [
+      {
+        "nl": "Hij moet zijn werk overdragen aan zijn collega.",
+        "tr": "İşi meslektaşına devretmelidir."
+      }
+    ]
+  },
+  {
+    "expression": "geld uitgeven aan",
+    "tr": "para harcamak",
+    "examples": []
+  },
+  {
+    "expression": "Ze geeft te veel geld uit aan kleding.",
+    "tr": "Giyim için fazla para harcıyor.",
+    "examples": []
+  },
+  {
+    "expression": "Ik heb een hekel aan gymnastiek.",
+    "tr": "Jimnastikten nefret ederim.",
+    "examples": [
+      {
+        "nl": "Veel mensen vinden dat een buitenlander zich moet aanpassen aan het leven in Nederland.",
+        "tr": "Birçok insan bir yabancının Hollanda'daki yaşama uyum sağlaması gerektiğini düşünüyor."
+      }
+    ]
+  },
+  {
+    "expression": "Ik erger mij aan dat gesmoes.",
+    "tr": "Bu kendini beğenmişlik beni sinir ediyor.",
+    "examples": []
+  },
+  {
+    "expression": "Klimop hecht zich aan muren en bomen.",
+    "tr": "Sarmaşıklar duvarlara ve ağaçlara yapışır.",
+    "examples": []
+  },
+  {
+    "expression": "Je moet je aan je afspraak houden.",
+    "tr": "Anlaşmana sadık kalmalısın.",
+    "examples": [
+      {
+        "nl": "Hij heeft zich aan het examen onttrokken.",
+        "tr": "Sınavdan kaçtı."
+      },
+      {
+        "nl": "Zij probeerde haar mening aan haar vriendin op te dringen.",
+        "tr": "Kendi fikrini arkadaşına zorla kabul ettirmeye çalıştı."
+      },
+      {
+        "nl": "Heb je je deze winter aan schaatsen gewaagd?",
+        "tr": "Bu kış paten kaymayı denedin mi?"
+      }
+    ]
+  },
+  {
+    "expression": "Ze wijdt zich helemaal aan haar studie.",
+    "tr": "Kendini tamamen derslerine adadı.",
+    "examples": [
+      {
+        "nl": "Hij beantwoordt niet aan mijn verwachtingen.",
+        "tr": "Beklentilerimi karşılayamıyor."
+      },
+      {
+        "nl": "De slachtoffers van de overstroming hebben veel behoefte aan dekens.",
+        "tr": "Sel kurbanlarının battaniyeye çok ihtiyacı var."
+      },
+      {
+        "nl": "De leerlingen namen allemaal deel aan de wedstrijd.",
+        "tr": "Öğrencilerin hepsi yarışmaya katıldı."
+      },
+      {
+        "nl": "Denk je aan je huiswerk? Vergeet het niet!",
+        "tr": "Ödevini mi düşünüyorsun? Sakın unutma!"
+      }
+    ]
+  },
+  {
+    "expression": "Die mensen hebben aan alles gebrek.",
+    "tr": "Bu insanlar her şeyden yoksun.",
+    "examples": []
+  },
+  {
+    "expression": "Wij zijn gewend aan dat lawaai.",
+    "tr": "Biz bu gürültüye alışığız.",
+    "examples": []
+  },
+  {
+    "expression": "België grenst aan Nederland.",
+    "tr": "Belçika, Hollanda ile sınır komşusu.",
+    "examples": []
+  },
+  {
+    "expression": "Wat hapert er aan die machine?",
+    "tr": "O makinenin nesi var?",
+    "examples": [
+      {
+        "nl": "Dat schilderij herinnert mij aan vroeger.",
+        "tr": "Bu resim bana eski günleri hatırlatıyor."
+      }
+    ]
+  },
+  {
+    "expression": "Hij lijdt aan een ernstige ziekte.",
+    "tr": "Ciddi bir hastalıktan muzdarip.",
+    "examples": []
+  },
+  {
+    "expression": "Het mankeert hem aan gezond verstand!",
+    "tr": "Sağduyudan yoksun!",
+    "examples": [
+      {
+        "nl": "De Romeinse keizers hebben vele volkeren aan zich onderworpen.",
+        "tr": "Roma imparatorları birçok halka boyun eğdirdi."
+      }
+    ]
+  },
+  {
+    "expression": "Het ontbreekt mij aan contant geld.",
+    "tr": "Nakit param yok.",
+    "examples": [
+      {
+        "nl": "Hij is bij dat ongeluk aan de dood ontkomen.",
+        "tr": "O kazada ölümden kurtuldu."
+      }
+    ]
+  },
+  {
+    "expression": "Die fout is aan mijn aandacht ontsnapt.",
+    "tr": "Bu hata dikkatimden kaçmış.",
+    "examples": []
+  },
+  {
+    "expression": "Wat scheelt er aan?",
+    "tr": "Nesi var bunun?",
+    "examples": []
+  },
+  {
+    "expression": "Hij is aan kanker gestorven.",
+    "tr": "Kanserden öldü.",
+    "examples": [
+      {
+        "nl": "Oorlog is tegengesteld aan vreedzaam samenleven.",
+        "tr": "Savaş, barış içinde bir arada yaşamanın karşıtıdır."
+      }
+    ]
+  },
+  {
+    "expression": "De soldaten waren trouw aan hun koning.",
+    "tr": "Askerler krallarına sadıktı.",
+    "examples": [
+      {
+        "nl": "Ik twijfel aan de waarheid van dit verhaal.",
+        "tr": "Bu hikayenin doğruluğundan şüpheliyim."
+      }
+    ]
+  },
+  {
+    "expression": "jongeren zijn verslaafd aan gokken.",
+    "tr": "Gençler kumar bağımlısı.",
+    "examples": [
+      {
+        "nl": "Hij voldoet aan de eisen om toegelaten te worden.",
+        "tr": "Kabul için gerekli şartları karşılıyor."
+      },
+      {
+        "nl": "Hard werken gaat vaak vooraf aan succes.",
+        "tr": "Sıkı çalışma genellikle başarıdan önce gelir."
+      },
+      {
+        "nl": "Hij gaf de voorkeur aan een huis in het centrum van de stad.",
+        "tr": "Şehir merkezinde bir evi tercih etti."
+      }
+    ]
+  },
+  {
+    "expression": "Ik wanhoop aan een goede afloop.",
+    "tr": "Mutlu sondan umudumu kesiyorum.",
+    "examples": [
+      {
+        "nl": "Ben je al gewend aan je nieuwe omgeving?",
+        "tr": "Yeni çevrenize alışabildiniz mi?"
+      },
+      {
+        "nl": "De regen is te wijten aan een lagedrukgebied.",
+        "tr": "Yağmur alçak basınç alanından kaynaklanıyor."
+      }
+    ]
+  },
+  {
+    "expression": "Hier heb ik niets aan toe te voegen.",
+    "tr": "Buna ekleyecek bir şeyim yok.",
+    "examples": []
+  },
+  {
+    "expression": "Iran is rijk aan olie.",
+    "tr": "İran petrol açısından zengindir.",
+    "examples": []
+  },
+  {
+    "expression": "aandacht vestigen op",
+    "tr": "dikkat çekmek",
+    "examples": [
+      {
+        "nl": "Hij vestigt de aandacht op het belang van het milieu.",
+        "tr": "Çevrenin önemine dikkat çekiyor."
+      }
+    ]
+  },
+  {
+    "expression": "antwoord geven op",
+    "tr": "Bir soruya cevap vermek.",
+    "examples": [
+      {
+        "nl": "Een antwoord geven op een vraag is beleefd.",
+        "tr": "Bir soruya cevap vermek kibardır."
+      }
+    ]
+  },
+  {
+    "expression": "aandringen op",
+    "tr": "israr etmek",
+    "examples": [
+      {
+        "nl": "Ze dringt erop aan dat hij zijn huiswerk maakt.",
+        "tr": "Ev ödevini yapması konusunda ısrar ediyor."
+      }
+    ]
+  },
+  {
+    "expression": "aanmerkingen maken op",
+    "tr": "kusur bulmak, eleştirmek",
+    "examples": [
+      {
+        "nl": "Hij maakte aanmerkingen op het rapport van zijn collega.",
+        "tr": "Meslektaşının raporunu eleştirdi."
+      }
+    ]
+  },
+  {
+    "expression": "aanspraak maken op",
+    "tr": "bir şeyde hak talep etmek",
+    "examples": []
+  },
+  {
+    "expression": "Ze maakt aanspraak op de promotie.",
+    "tr": "Terfinin hakkını talep ediyor.",
+    "examples": []
+  },
+  {
+    "expression": "acht slaan op",
+    "tr": "dikkat etmek, kulak vermek",
+    "examples": []
+  },
+  {
+    "expression": "Sla acht op de waarschuwingen.",
+    "tr": "Uyarılara dikkat et.",
+    "examples": []
+  },
+  {
+    "expression": "afgaan op",
+    "tr": "birinin sözlerinden hareket etmek",
+    "examples": []
+  },
+  {
+    "expression": "Ze ging af op zijn aanbeveling.",
+    "tr": "Onun tavsiyesine göre hareket etti.",
+    "examples": []
+  },
+  {
+    "expression": "afkomen op",
+    "tr": "aşağı inmek, birine doğru gitmek, (birinden) kurtulmak",
+    "examples": []
+  },
+  {
+    "expression": "We moeten van deze berg afkomen.",
+    "tr": "Bu dağdan inmeliyiz.",
+    "examples": []
+  },
+  {
+    "expression": "antwoorden op",
+    "tr": "cevaplamak",
+    "examples": []
+  },
+  {
+    "expression": "Ze antwoordde op zijn vraag.",
+    "tr": "Sorusuna cevap verdi.",
+    "examples": []
+  },
+  {
+    "expression": "baseren op",
+    "tr": "dayanmak, dayandırmak",
+    "examples": []
+  },
+  {
+    "expression": "De beslissing is gebaseerd op feiten.",
+    "tr": "Karar gerçeklere dayanıyor.",
+    "examples": []
+  },
+  {
+    "expression": "bedacht zijn op",
+    "tr": "bir şeye tedbirli olmak",
+    "examples": []
+  },
+  {
+    "expression": "Ze was bedacht op mogelijke problemen.",
+    "tr": "Muhtemel sorunlara karşı tedbirliydi.",
+    "examples": []
+  },
+  {
+    "expression": "betrappen op",
+    "tr": "suç üstü yakalanmak",
+    "examples": [
+      {
+        "nl": "Ze betrapte hem terwijl hij probeerde in te breken.",
+        "tr": "Onu hırsızlık yapmaya çalışırken suç üstü yakaladı."
+      }
+    ]
+  },
+  {
+    "expression": "bezuinigen op",
+    "tr": "tasarruf, kismak, kesinti yapmak",
+    "examples": [
+      {
+        "nl": "De regering moet bezuinigen op de uitgaven.",
+        "tr": "Hükümet harcamalarda tasarruf yapmalı."
+      }
+    ]
+  },
+  {
+    "expression": "boos zijn op",
+    "tr": "bir şeye kızgın olmak",
+    "examples": [
+      {
+        "nl": "Ze is boos op haar collega vanwege haar onverantwoordelijkheid.",
+        "tr": "Sorumsuz davranışları nedeniyle meslektaşına kızgın."
+      }
+    ]
+  },
+  {
+    "expression": "commentaar geven op",
+    "tr": "yorum yapmak",
+    "examples": []
+  },
+  {
+    "expression": "Ze gaf commentaar op het artikel.",
+    "tr": "Makale hakkında yorum yaptı.",
+    "examples": []
+  },
+  {
+    "expression": "dol zijn op",
+    "tr": "bir şeye bayılmak",
+    "examples": []
+  },
+  {
+    "expression": "Hij is dol op chocolade.",
+    "tr": "Çikolataya bayılır.",
+    "examples": []
+  },
+  {
+    "expression": "eindigen op",
+    "tr": "bitirmek",
+    "examples": [
+      {
+        "nl": "De wedstrijd eindigde op een gelijkspel.",
+        "tr": "Maç berabere bitti."
+      }
+    ]
+  },
+  {
+    "expression": "gek zijn op",
+    "tr": "bir şeye delirmek",
+    "examples": []
+  },
+  {
+    "expression": "Ze is gek op haar nieuwe kat.",
+    "tr": "Yeni kedisine deli oluyor.",
+    "examples": []
+  },
+  {
+    "expression": "hopen op",
+    "tr": "umut etmek",
+    "examples": []
+  },
+  {
+    "expression": "We hopen op een betere toekomst.",
+    "tr": "Daha iyi bir gelecek umuyoruz.",
+    "examples": []
+  },
+  {
+    "expression": "ingaan op",
+    "tr": "ele almak",
+    "examples": []
+  },
+  {
+    "expression": "Laten we ingaan op de details.",
+    "tr": "Detayları ele alalım.",
+    "examples": []
+  },
+  {
+    "expression": "intekenen op",
+    "tr": "taahhütte bulunmak",
+    "examples": []
+  },
+  {
+    "expression": "Ze tekende in voor de marathon.",
+    "tr": "Maraton için taahhütte bulundu.",
+    "examples": []
+  },
+  {
+    "expression": "invloed hebben op",
+    "tr": "etkilemek",
+    "examples": [
+      {
+        "nl": "Zijn woorden hebben invloed op haar beslissing.",
+        "tr": "Sözleri onun kararını etkiliyor."
+      }
+    ]
+  },
+  {
+    "expression": "kans hebben op",
+    "tr": "şansı olmak",
+    "examples": []
+  },
+  {
+    "expression": "Ze hebben een kans op winst.",
+    "tr": "Kazanma şansları var.",
+    "examples": []
+  },
+  {
+    "expression": "kijk hebben op",
+    "tr": "bir şeyden anlamak",
+    "examples": []
+  },
+  {
+    "expression": "Hij heeft kijk op mode.",
+    "tr": "Modadan anlıyor.",
+    "examples": []
+  },
+  {
+    "expression": "kritiek hebben op",
+    "tr": "bir şeyi eleştirmek",
+    "examples": []
+  },
+  {
+    "expression": "Ze heeft kritiek op de nieuwe regeling.",
+    "tr": "Yeni düzenlemeyi eleştiriyor.",
+    "examples": []
+  },
+  {
+    "expression": "kwaad zijn op",
+    "tr": "bir şeye kızmak",
+    "examples": [
+      {
+        "nl": "Ze is kwaad op haar buurman vanwege het lawaai.",
+        "tr": "Gürültü nedeniyle komşusuna kızgın."
+      }
+    ]
+  },
+  {
+    "expression": "lijken op",
+    "tr": "bir şeye benzemek",
+    "examples": []
+  },
+  {
+    "expression": "Ze lijkt op haar moeder.",
+    "tr": "Annesine benziyor.",
+    "examples": []
+  },
+  {
+    "expression": "overwinning behalen op",
+    "tr": "zafer elde etmek",
+    "examples": [
+      {
+        "nl": "Ze behaalde een overwinning op haar concurrenten.",
+        "tr": "Rakiplerini yendi."
+      }
+    ]
+  },
+  {
+    "expression": "passen op",
+    "tr": "dikkat etmek",
+    "examples": []
+  },
+  {
+    "expression": "Pas op voor de gladde vloer!",
+    "tr": "Kaygan zemine dikkat et!",
+    "examples": []
+  },
+  {
+    "expression": "pochen op",
+    "tr": "palavra atmak, bir şeyle ovunmak",
+    "examples": []
+  },
+  {
+    "expression": "Hij pocht op zijn prestaties.",
+    "tr": "Başarılarıyla ovunuyor.",
+    "examples": []
+  },
+  {
+    "expression": "prat gaan op",
+    "tr": "bir şeyle ovunmak",
+    "examples": []
+  },
+  {
+    "expression": "Ze gaat prat op haar nieuwe auto.",
+    "tr": "Yeni arabasıyla ovunuyor.",
+    "examples": []
+  },
+  {
+    "expression": "reageren op",
+    "tr": "tepki göstermek, cevap vermek",
+    "examples": []
+  },
+  {
+    "expression": "Ze reageerde niet op zijn opmerkingen.",
+    "tr": "Yorumlarına tepki vermedi.",
+    "examples": []
+  },
+  {
+    "expression": "recht hebben op",
+    "tr": "hakkı olmak",
+    "examples": []
+  },
+  {
+    "expression": "Ze heeft recht op compensatie.",
+    "tr": "Tazminata hakkı var.",
+    "examples": []
+  },
+  {
+    "expression": "rekenen op",
+    "tr": "hesaplamak",
+    "examples": []
+  },
+  {
+    "expression": "We kunnen rekenen op hun steun.",
+    "tr": "Desteğini hesaplayabiliriz.",
+    "examples": []
+  },
+  {
+    "expression": "schelden op",
+    "tr": "sövmek, küfretmek",
+    "examples": [
+      {
+        "nl": "Hij schold op zijn collega na een verhitte discussie.",
+        "tr": "Sıcak bir tartışmanın ardından meslektaşına sövdü."
+      }
+    ]
+  },
+  {
+    "expression": "schieten op",
+    "tr": "ateş etmek",
+    "examples": [
+      {
+        "nl": "Ze schoten op de doelen tijdens het schiettoernooi.",
+        "tr": "Atış turnuvası sırasında hedeflere ateş ettiler."
+      }
+    ]
+  },
+  {
+    "expression": "slaan op",
+    "tr": "vurmak, dövmek",
+    "examples": [
+      {
+        "nl": "Hij sloeg op de deur om binnen te komen.",
+        "tr": "İçeri girmek için kapıya vurdu."
+      }
+    ]
+  },
+  {
+    "expression": "stemmen op",
+    "tr": "oylamak, oy vermek",
+    "examples": [
+      {
+        "nl": "Burgers stemmen op de politieke partij van hun keuze.",
+        "tr": "Vatandaşlar tercih ettikleri siyasi partiye oy verirler."
+      }
+    ]
+  },
+  {
+    "expression": "steunen op",
+    "tr": "desteklemek",
+    "examples": [
+      {
+        "nl": "We moeten elkaar steunen op moeilijke momenten.",
+        "tr": "Zor anlarda birbirimizi desteklemeliyiz."
+      }
+    ]
+  },
+  {
+    "expression": "storten op",
+    "tr": "kendini işe vermek",
+    "examples": []
+  },
+  {
+    "expression": "Hij zal zich storten op het onderzoek.",
+    "tr": "Araştırmaya kendini verecek.",
+    "examples": []
+  },
+  {
+    "expression": "terugkomen op",
+    "tr": "geri gelmek",
+    "examples": [
+      {
+        "nl": "Ze zal later terugkomen op haar beslissing.",
+        "tr": "Daha sonra kararını gözden geçirecek."
+      }
+    ]
+  },
+  {
+    "expression": "toeleggen op",
+    "tr": "bir şeye kendini vermek, odaklanmak",
+    "examples": []
+  },
+  {
+    "expression": "Hij legt zich toe op zijn carrière.",
+    "tr": "Kariyerine kendini veriyor.",
+    "examples": []
+  },
+  {
+    "expression": "toezien op",
+    "tr": "denetlemek",
+    "examples": [
+      {
+        "nl": "De leraar moet toezien op het gedrag van de studenten.",
+        "tr": "Öğretmen öğrencilerin davranışlarını denetlemelidir."
+      }
+    ]
+  },
+  {
+    "expression": "trakteren op",
+    "tr": "ısmarlamak",
+    "examples": [
+      {
+        "nl": "Ze trakteerde op ijsjes voor haar verjaardag.",
+        "tr": "Doğum günü için dondurma ısmarladi."
+      }
+    ]
+  },
+  {
+    "expression": "trots zijn op",
+    "tr": "gurur duymak",
+    "examples": []
+  },
+  {
+    "expression": "Ze is trots op haar prestaties.",
+    "tr": "Başarılarıyla gurur duyuyor.",
+    "examples": []
+  },
+  {
+    "expression": "uitkijken op",
+    "tr": "bir şeye bakmak",
+    "examples": [
+      {
+        "nl": "Hun huis kijkt uit op een prachtig uitzicht.",
+        "tr": "Evleri güzel bir manzaraya bakıyor."
+      }
+    ]
+  },
+  {
+    "expression": "uitkomen op",
+    "tr": "çıkmak",
+    "examples": [
+      {
+        "nl": "Zijn boek zal uitkomen op zijn verjaardag.",
+        "tr": "Kitabı doğum gününde çıkacak."
+      }
+    ]
+  },
+  {
+    "expression": "verdacht zijn op",
+    "tr": "şüphelenmek",
+    "examples": [
+      {
+        "nl": "Ze is verdacht op haar buurman vanwege de verdwenen spullen.",
+        "tr": "Kaybolan eşyalar nedeniyle komşusuna şüpheli."
+      }
+    ]
+  },
+  {
+    "expression": "zich verheugen op",
+    "tr": "ya sevinmek, dört gözle beklemek",
+    "examples": []
+  },
+  {
+    "expression": "Ze verheugt zich op de vakantie.",
+    "tr": "Tatili dört gözle bekliyor.",
+    "examples": []
+  },
+  {
+    "expression": "verkijken op",
+    "tr": "hafife almak",
+    "examples": [
+      {
+        "nl": "Verkijk je niet op de moeilijkheid van de taak.",
+        "tr": "Görevin zorluğunu hafife alma."
+      }
+    ]
+  },
+  {
+    "expression": "verliefd zijn op",
+    "tr": "aşık olmak",
+    "examples": []
+  },
+  {
+    "expression": "Hij is verliefd op zijn jeugdvriendin.",
+    "tr": "Gençlik arkadaşına aşık.",
+    "examples": []
+  },
+  {
+    "expression": "vertrouwen op",
+    "tr": "güvenmek",
+    "examples": [
+      {
+        "nl": "We moeten op elkaar vertrouwen om te slagen.",
+        "tr": "Başarılı olmak için birbirimize güvenmeliyiz."
+      }
+    ]
+  },
+  {
+    "expression": "verzot zijn op",
+    "tr": "düşkün olmak, delisi olmak",
+    "examples": []
+  },
+  {
+    "expression": "Ze is verzot op chocolade.",
+    "tr": "Çikolataya deli oluyor.",
+    "examples": []
+  },
+  {
+    "expression": "voorsprong hebben op",
+    "tr": "hamle farkı avantajlı olmak",
+    "examples": [
+      {
+        "nl": "Ons team heeft een voorsprong op de concurrentie.",
+        "tr": "Takımımız rakibe karşı bir hamle farkına sahiptir."
+      }
+    ]
+  },
+  {
+    "expression": "vooruitlopen op",
+    "tr": "dan erken davranmak",
+    "examples": [
+      {
+        "nl": "We moeten vooruitlopen op de veranderende markt.",
+        "tr": "Değişen pazarda erken davranmalıyız."
+      }
+    ]
+  },
+  {
+    "expression": "wachten op",
+    "tr": "beklemek",
+    "examples": [
+      {
+        "nl": "We wachten op de trein om te vertrekken.",
+        "tr": "Trenin kalkmasını bekliyoruz."
+      }
+    ]
+  },
+  {
+    "expression": "wijzen op",
+    "tr": "işaret etmek",
+    "examples": []
+  },
+  {
+    "expression": "Hij wees op de fouten in het rapport.",
+    "tr": "Raporun hatalarına işaret etti.",
+    "examples": []
+  },
+  {
+    "expression": "zich  abonneren op",
+    "tr": "abone olmak",
+    "examples": []
+  },
+  {
+    "expression": "Ik wil me abonneren op dat tijdschrift.",
+    "tr": "O dergiye abone olmak istiyorum.",
+    "examples": []
+  },
+  {
+    "expression": "zich concentreren op",
+    "tr": "konsantre olmak",
+    "examples": [
+      {
+        "nl": "Ze moet zich concentreren op haar studie.",
+        "tr": "Çalışmasına konsantre olmalı."
+      }
+    ]
+  },
+  {
+    "expression": "zich voorbereiden op",
+    "tr": "hazırlanmak, icin hazirlanmak",
+    "examples": [
+      {
+        "nl": "Ze moet zich voorbereiden op het examen.",
+        "tr": "Sınava hazırlanmalı."
+      }
+    ]
+  },
+  {
+    "expression": "zich werpen op",
+    "tr": "atmak, fırlatmak",
+    "examples": [
+      {
+        "nl": "Ze zal zich werpen op de nieuwe uitdagingen.",
+        "tr": "Yeni zorluklara atılacak."
+      }
+    ]
+  },
+  {
+    "expression": "zinnen op",
+    "tr": "istemek",
+    "examples": []
+  },
+  {
+    "expression": "Hij zint op een nieuwe baan.",
+    "tr": "Yeni bir iş istiyor.",
+    "examples": []
+  },
+  {
+    "expression": "wraak zinnen op",
+    "tr": "öç almayı düşünmek",
+    "examples": []
+  },
+  {
+    "expression": "Ze zint op wraak na het verraad.",
+    "tr": "İhanet sonrası öç almayı düşünüyor.",
+    "examples": [
+      {
+        "nl": "Hiermee vestig ik uw aandacht op het volgende (in officiële brieven)",
+        "tr": "Bu vesileyle, aşağıdaki hususlara dikkatinizi çekerim (resmi yazı ile)"
+      },
+      {
+        "nl": "De regering dringt aan op hulp aan Roemenië.",
+        "tr": "Hükümet Romanya'ya yardım etmekte ısrar ediyor."
+      },
+      {
+        "nl": "Je moet niet overal aanmerkingen op maken.",
+        "tr": "Her şey hakkında yorum yapmamalısınız."
+      },
+      {
+        "nl": "Als student kun je aanspraak maken op een studiebeurs.",
+        "tr": "Bir öğrenci olarak burs talep edebilirsiniz."
+      },
+      {
+        "nl": "Ik heb mij op dat nieuwe weekblad geabonneerd.",
+        "tr": "Yeni haftalık dergiye abone oldum."
+      },
+      {
+        "nl": "U dient acht te slaan op de kleine lettertjes ...",
+        "tr": "Küçük yazılara dikkat etmelisiniz..."
+      },
+      {
+        "nl": "Je moet niet altijd afgaan op wat er gezegd wordt.",
+        "tr": "Her zaman söylenenlere güvenmemelisiniz."
+      }
+    ]
+  },
+  {
+    "expression": "De kinderen kwamen op de ijsman af.",
+    "tr": "Çocuklar dondurmacıya yaklaştı.",
+    "examples": []
+  },
+  {
+    "expression": "Hij antwoordde op de gestelde vraag.",
+    "tr": "Sorulan soruya cevap verdi.",
+    "examples": [
+      {
+        "nl": "De uitspraak van de rechter is gebaseerd op bewijzen.",
+        "tr": "Yargıcın kararı kanıtlara dayanıyor."
+      },
+      {
+        "nl": "Je moet in Nederland altijd bedacht zijn op mist.",
+        "tr": "Hollanda'da her zaman sise dikkat etmelisiniz."
+      }
+    ]
+  },
+  {
+    "expression": "De dief werd op heterdaad betrapt.",
+    "tr": "Hırsız suçüstü yakalandı.",
+    "examples": []
+  },
+  {
+    "expression": "De regering bezuinigt op het onderwijs.",
+    "tr": "Hükümet eğitimde kesintiye gidiyor.",
+    "examples": []
+  },
+  {
+    "expression": "Ik ben boos op mijn broer",
+    "tr": "Kardeşime kızgınım.",
+    "examples": [
+      {
+        "nl": "De krant geeft commentaar op het nieuws.",
+        "tr": "Gazete haberleri yorumluyor."
+      }
+    ]
+  },
+  {
+    "expression": "Jan is dol op ijs.",
+    "tr": "Jan dondurmaya bayılır.",
+    "examples": []
+  },
+  {
+    "expression": "'Woord' eindigt op een d.",
+    "tr": "Kelime d ile biter.",
+    "examples": []
+  },
+  {
+    "expression": "Ik ben gek op chocola.",
+    "tr": "Çikolataya bayılırım.",
+    "examples": []
+  },
+  {
+    "expression": "Ik hoop op een goed cijfer.",
+    "tr": "İyi bir not almayı umuyorum.",
+    "examples": [
+      {
+        "nl": "De leraar ging niet in op de bezwaren van de leerlingen.",
+        "tr": "Öğretmen öğrencilerin itirazlarına cevap vermedi."
+      },
+      {
+        "nl": "Mijn vader heeft ingetekend op de afleveringen van deze encyclopedie.",
+        "tr": "Babam bu ansiklopedinin bölümlerine abone oldu."
+      },
+      {
+        "nl": "Zij heeft veel invloed op haar vriendin.",
+        "tr": "Arkadaşı üzerinde çok etkisi var."
+      },
+      {
+        "nl": "Bij de staatsloterij heb je kans op de honderdduizend!",
+        "tr": "Devlet piyangosunda yüz bin kazanma şansınız var!"
+      },
+      {
+        "nl": "Mijn vriend heeft veel kijk op techniek.",
+        "tr": "Arkadaşımın teknoloji konusunda çok bilgisi var."
+      }
+    ]
+  },
+  {
+    "expression": "Die jongen heeft overal kritiek op.",
+    "tr": "Bu çocuk her şeyi eleştiriyor.",
+    "examples": []
+  },
+  {
+    "expression": "Ben je kwaad op me?",
+    "tr": "Bana kızgın mısın?",
+    "examples": []
+  },
+  {
+    "expression": "Jij lijkt op je moeder.",
+    "tr": "Annene benziyorsun.",
+    "examples": [
+      {
+        "nl": "Napoleon heeft de overwinning op Rusland niet behaald.",
+        "tr": "Napolyon Rusya'ya karşı zafer kazanmadı."
+      }
+    ]
+  },
+  {
+    "expression": "Moet je op je broertje passen?",
+    "tr": "Küçük kardeşine bakmak zorunda mısın?",
+    "examples": []
+  },
+  {
+    "expression": "Hij pocht altijd op zijn afkomst.",
+    "tr": "Her zaman kökeniyle övünür.",
+    "examples": []
+  },
+  {
+    "expression": "Hij gaat prat op zijn mooie cijfers.",
+    "tr": "İyi notlarıyla övünür.",
+    "examples": [
+      {
+        "nl": "De leraar reageerde niet op de brutale opmerking.",
+        "tr": "Öğretmen küstahça sözlere cevap vermedi."
+      },
+      {
+        "nl": "Alle kinderen hebben recht op goed onderwijs.",
+        "tr": "Bütün çocukların iyi bir eğitim alma hakkı vardır."
+      }
+    ]
+  },
+  {
+    "expression": "Ik reken op je hulp.",
+    "tr": "Yardımınıza güveniyorum.",
+    "examples": [
+      {
+        "nl": "Er wordt veel op de belastingdienst gescholden.",
+        "tr": "Vergi yetkililerine çok fazla küfür ediliyor."
+      }
+    ]
+  },
+  {
+    "expression": "Jagers schieten op wild.",
+    "tr": "Avcılar avı vurur.",
+    "examples": []
+  },
+  {
+    "expression": "Waar slaat dat nu op?",
+    "tr": "Bu da ne demek şimdi?",
+    "examples": []
+  },
+  {
+    "expression": "Ik stem op die nieuwe partij.",
+    "tr": "Yeni partiye oy veriyorum.",
+    "examples": []
+  },
+  {
+    "expression": "Een tafel steunt meestal op vier poten.",
+    "tr": "Bir masa genellikle dört ayak üzerinde durur.",
+    "examples": []
+  },
+  {
+    "expression": "Hij heeft zich op zijn werk gestort.",
+    "tr": "Kendini işine verdi.",
+    "examples": []
+  },
+  {
+    "expression": "Kom je terug op je voorstel?",
+    "tr": "Teklifine geri dönecek misin?",
+    "examples": [
+      {
+        "nl": "Ik heb mij toegelegd op het repareren van radio's.",
+        "tr": "Kendimi radyo tamirine adadım."
+      }
+    ]
+  },
+  {
+    "expression": "voogd ziet toe op zijn pupil.",
+    "tr": "Guardian öğrencisini izliyor.",
+    "examples": []
+  },
+  {
+    "expression": "Als ik slaag trakteer ik op gebakjes.",
+    "tr": "Eğer başarırsam sana pasta ısmarlayacağım.",
+    "examples": [
+      {
+        "nl": "Het meisje was trots op haar mooie nieuwe schoenen.",
+        "tr": "Kız yeni güzel ayakkabılarıyla gurur duyuyordu."
+      }
+    ]
+  },
+  {
+    "expression": "Onze flat kijkt uit op de markt.",
+    "tr": "Dairemiz pazara bakıyor.",
+    "examples": [
+      {
+        "nl": "Deze straat komt uit op het Stationsplein.",
+        "tr": "Bu sokak İstasyon Meydanı'na açılıyor."
+      },
+      {
+        "nl": "In het donker moet je verdacht zijn op obstakels.",
+        "tr": "Karanlıkta engellere karşı şüpheci olmalısınız."
+      }
+    ]
+  },
+  {
+    "expression": "Ik verheug mij op het feest.",
+    "tr": "Partiyi dört gözle bekliyorum.",
+    "examples": []
+  },
+  {
+    "expression": "Ik heb mij op dat probleem verkeken.",
+    "tr": "Bu sorunu yanlış değerlendirmişim.",
+    "examples": [
+      {
+        "nl": "Wim is steeds verliefd op een ander meisje.",
+        "tr": "Wim her zaman başka bir kıza aşık oluyor."
+      }
+    ]
+  },
+  {
+    "expression": "Vertrouw maar op mij!",
+    "tr": "Güven bana!",
+    "examples": []
+  },
+  {
+    "expression": "Mijn vriend is verzot op speelfilms.",
+    "tr": "Arkadaşım uzun metrajlı filmlere düşkündür.",
+    "examples": [
+      {
+        "nl": "Met een goede start heb je vaak een voorsprong op je mededingers.",
+        "tr": "İyi bir başlangıç yapmak sizi rakiplerinizin önüne geçirir."
+      }
+    ]
+  },
+  {
+    "expression": "Je moet niet op de zaken vooruitlopen.",
+    "tr": "Kendini aşma.",
+    "examples": []
+  },
+  {
+    "expression": "Wacht je bij de bushalte op me?",
+    "tr": "Beni otobüs durağında bekler misin?",
+    "examples": []
+  },
+  {
+    "expression": "De leraar wijst ons op onze fouten.",
+    "tr": "Öğretmen hatalarımızı gösteriyor.",
+    "examples": []
+  },
+  {
+    "expression": "Hij zint op wraak.",
+    "tr": "İntikam peşinde.",
+    "examples": []
+  },
+  {
+    "expression": "(in) aanmerking komen voor",
+    "tr": "musait olmak, uygun olmak",
+    "examples": [
+      {
+        "nl": "Hij komt in aanmerking voor een studiebeurs.",
+        "tr": "Bir öğrenim bursu için uygun."
+      }
+    ]
+  },
+  {
+    "expression": "(zich) inschrijven voor",
+    "tr": "kayıt olmak",
+    "examples": []
+  },
+  {
+    "expression": "Ze schrijft zich in voor de cursus.",
+    "tr": "Kursa kaydoluyor.",
+    "examples": []
+  },
+  {
+    "expression": "(zich) lenen voor",
+    "tr": "odunc almak",
+    "examples": [
+      {
+        "nl": "Ze leende zich geld voor een nieuwe auto.",
+        "tr": "Yeni bir araba için kendisine para ödünç aldı."
+      }
+    ]
+  },
+  {
+    "expression": "(zich) schamen voor",
+    "tr": "utanmak",
+    "examples": []
+  },
+  {
+    "expression": "Ze schaamt zich voor haar fouten.",
+    "tr": "Hatalarından utanıyor.",
+    "examples": []
+  },
+  {
+    "expression": "(zich) uitgeven voor",
+    "tr": "harcamak",
+    "examples": [
+      {
+        "nl": "Hij geeft zich uit voor een kenner van kunst.",
+        "tr": "Kendisini sanatın bir uzmanı olarak harcıyor."
+      }
+    ]
+  },
+  {
+    "expression": "(zich) wachten voor",
+    "tr": "beklemek",
+    "examples": []
+  },
+  {
+    "expression": "We wachten voor de trein.",
+    "tr": "Trene bekliyoruz.",
+    "examples": []
+  },
+  {
+    "expression": "aansprakelijk zijn voor",
+    "tr": "sorumlu olmak",
+    "examples": [
+      {
+        "nl": "Het bedrijf is aansprakelijk voor de schade.",
+        "tr": "Şirket hasardan sorumludur."
+      }
+    ]
+  },
+  {
+    "expression": "bang zijn voor",
+    "tr": "korkmak",
+    "examples": []
+  },
+  {
+    "expression": "Ze is bang voor spinnen.",
+    "tr": "Örümceklerden korkuyor.",
+    "examples": []
+  },
+  {
+    "expression": "belangstelling hebben voor",
+    "tr": "bir şeye ilgi göstermek",
+    "examples": [
+      {
+        "nl": "Hij heeft belangstelling voor geschiedenis.",
+        "tr": "Tarihe ilgisi var."
+      }
+    ]
+  },
+  {
+    "expression": "bestemd voor",
+    "tr": "tahsis etmek",
+    "examples": []
+  },
+  {
+    "expression": "Dit cadeau is bestemd voor jou.",
+    "tr": "Bu hediye senin için ayrılmış.",
+    "examples": []
+  },
+  {
+    "expression": "bevreesd zijn voor",
+    "tr": "dan korkmak, dan endişelenmek",
+    "examples": []
+  },
+  {
+    "expression": "Hij is bevreesd voor de donder.",
+    "tr": "Gök gürültüsünden korkuyor.",
+    "examples": []
+  },
+  {
+    "expression": "danken voor",
+    "tr": "teşekkür etmek",
+    "examples": []
+  },
+  {
+    "expression": "Ik dank je voor je hulp.",
+    "tr": "Yardımın için teşekkür ederim.",
+    "examples": []
+  },
+  {
+    "expression": "geschikt zijn voor",
+    "tr": "uygun, müsait olmak",
+    "examples": []
+  },
+  {
+    "expression": "Hij is geschikt voor deze baan.",
+    "tr": "Bu iş için uygun.",
+    "examples": []
+  },
+  {
+    "expression": "instaan voor",
+    "tr": "ya kefil olmak, için garanti vermek",
+    "examples": []
+  },
+  {
+    "expression": "Ik sta in voor zijn integriteit.",
+    "tr": "Onun dürüstlüğünün garantisini veririm.",
+    "examples": []
+  },
+  {
+    "expression": "interesse hebben voor",
+    "tr": "bir şeye ilgi duymak",
+    "examples": []
+  },
+  {
+    "expression": "Ze heeft interesse voor wetenschap.",
+    "tr": "Bilime ilgisi var.",
+    "examples": []
+  },
+  {
+    "expression": "onderdoen voor",
+    "tr": "aşağıda olmak, alt düzeyde olmak",
+    "examples": []
+  },
+  {
+    "expression": "Hij doet onder voor zijn broer.",
+    "tr": "Ağabeyinin altında kalıyor.",
+    "examples": []
+  },
+  {
+    "expression": "onverschillig zijn voor",
+    "tr": "vurdum duymaz, duyarsız",
+    "examples": []
+  },
+  {
+    "expression": "Ze is onverschillig voor politiek.",
+    "tr": "Politikaya karşı duyarsız.",
+    "examples": []
+  },
+  {
+    "expression": "opkomen voor",
+    "tr": "bir şeyi savunmak, doğmak, filizlenmek, oluşmak, sahneye çıkmak",
+    "examples": []
+  },
+  {
+    "expression": "Ze komt op voor vrouwenrechten.",
+    "tr": "Kadın haklarını savunuyor.",
+    "examples": []
+  },
+  {
+    "expression": "reclame maken voor",
+    "tr": "Reklam yapmak.",
+    "examples": [
+      {
+        "nl": "We moeten reclame maken voor ons nieuwe product.",
+        "tr": "Yeni ürünümüz için reklam yapmalıyız."
+      }
+    ]
+  },
+  {
+    "expression": "slagen voor",
+    "tr": "bir şeyi başarmak, gecmek(sinav)",
+    "examples": []
+  },
+  {
+    "expression": "Ze slaagde voor haar examens.",
+    "tr": "Sınavlarını başardı.",
+    "examples": []
+  },
+  {
+    "expression": "strijden voor",
+    "tr": "savaşmak, mücadele etmek",
+    "examples": []
+  },
+  {
+    "expression": "Ze strijden voor gelijkheid.",
+    "tr": "Eşitlik için mücadele ediyorlar.",
+    "examples": []
+  },
+  {
+    "expression": "uitkijken voor",
+    "tr": "dikkat et",
+    "examples": []
+  },
+  {
+    "expression": "Kijk uit voor die auto!",
+    "tr": "O arabaya dikkat et!",
+    "examples": []
+  },
+  {
+    "expression": "vatbaar zijn voor",
+    "tr": "soğuğa karşı hassas olmak",
+    "examples": [
+      {
+        "nl": "Sommige mensen zijn vatbaar voor verkoudheid.",
+        "tr": "Bazı insanlar soğuk algınlığına hassastır."
+      }
+    ]
+  },
+  {
+    "expression": "verantwoordelijk zijn voor",
+    "tr": "sorumlu olmak",
+    "examples": [
+      {
+        "nl": "Ze is verantwoordelijk voor de marketing.",
+        "tr": "Pazarlamadan sorumludur."
+      }
+    ]
+  },
+  {
+    "expression": "vluchten voor",
+    "tr": "kaçmak, den kacmak",
+    "examples": []
+  },
+  {
+    "expression": "Ze vluchten voor de oorlog.",
+    "tr": "Savaştan kaçıyorlar.",
+    "examples": []
+  },
+  {
+    "expression": "voelen voor",
+    "tr": "hissetmek",
+    "examples": []
+  },
+  {
+    "expression": "Ze voelt voor de daklozen.",
+    "tr": "Evsizlere duyarlıdır.",
+    "examples": []
+  },
+  {
+    "expression": "voorzien in",
+    "tr": "ihtiyacı karşılamak",
+    "examples": []
+  },
+  {
+    "expression": "De organisatie voorziet in voedselhulp.",
+    "tr": "Kuruluş, gıda yardımını karşılıyor.",
+    "examples": []
+  },
+  {
+    "expression": "waarschuwen voor",
+    "tr": "ikaz etmek, uyarmak",
+    "examples": [
+      {
+        "nl": "Ik wil je waarschuwen voor de gladde wegen.",
+        "tr": "Sizi kaygan yollara karşı uyarayım istiyorum."
+      }
+    ]
+  },
+  {
+    "expression": "wijken voor",
+    "tr": "birine yer açmak",
+    "examples": []
+  },
+  {
+    "expression": "De menigte week voor de ambulance.",
+    "tr": "Kalabalık ambulansa yol açtı.",
+    "examples": []
+  },
+  {
+    "expression": "zorgen voor",
+    "tr": "endişe etmek",
+    "examples": []
+  },
+  {
+    "expression": "Ze zorgen voor hun kinderen.",
+    "tr": "Çocukları için endişe ediyorlar.",
+    "examples": []
+  },
+  {
+    "expression": "zwichten voor",
+    "tr": "boyun eğmek, bir şeye, birine pes etmek",
+    "examples": []
+  },
+  {
+    "expression": "Hij zwichtte voor de druk.",
+    "tr": "Baskıya boyun eğdi.",
+    "examples": []
+  },
+  {
+    "expression": "niet in aanmerking komen voor",
+    "tr": "dikkate alınmamak, uygun bulunmamak",
+    "examples": [
+      {
+        "nl": "Hij komt niet in aanmerking voor de baan.",
+        "tr": "İş için uygun bulunmuyor."
+      }
+    ]
+  },
+  {
+    "expression": "respect hebben voor",
+    "tr": "saygı duymak",
+    "examples": []
+  },
+  {
+    "expression": "Ze heeft respect voor ouderen.",
+    "tr": "Yaşlılara saygısı var.",
+    "examples": []
+  },
+  {
+    "expression": "sparen voor",
+    "tr": "biriktirmek",
+    "examples": []
+  },
+  {
+    "expression": "Ze sparen voor een vakantie.",
+    "tr": "Tatil için biriktiriyorlar.",
+    "examples": []
+  },
+  {
+    "expression": "voorkeur hebben voor",
+    "tr": "tercih etmek, yeğlemek",
+    "examples": []
+  },
+  {
+    "expression": "Hij heeft voorkeur voor thee.",
+    "tr": "Çayı tercih eder.",
+    "examples": [
+      {
+        "nl": "De arme vrouw kwam niet in aanmerking voor hulp.",
+        "tr": "Zavallı kadın yardım almaya hak kazanamadı."
+      }
+    ]
+  },
+  {
+    "expression": "Ik leen me niet meer voor dat werk.",
+    "tr": "Artık kendimi bu işe vermiyorum.",
+    "examples": []
+  },
+  {
+    "expression": "Ik schaam me voor mijn vuile handen.",
+    "tr": "Kirli ellerimden utanıyorum.",
+    "examples": [
+      {
+        "nl": "De rijke man gaf zich voor een bedelaar uit.",
+        "tr": "Zengin adam dilenci gibi davrandı."
+      }
+    ]
+  },
+  {
+    "expression": "Wacht u voor de hond!",
+    "tr": "Dikkat köpek var!",
+    "examples": [
+      {
+        "nl": "De verzekering stelde de automobilist aansprakelijk voor de schade.",
+        "tr": "Sigorta şirketi, meydana gelen hasardan sürücüyü sorumlu tuttu."
+      }
+    ]
+  },
+  {
+    "expression": "Ben je bang voor die grote hond?",
+    "tr": "O büyük köpekten korkuyor musun?",
+    "examples": [
+      {
+        "nl": "De klanten hadden veel belangstelling voor het nieuwste model.",
+        "tr": "Müşteriler son modele yoğun ilgi gösterdi."
+      }
+    ]
+  },
+  {
+    "expression": "Dit pakje is bestemd voor mijn familie",
+    "tr": "Bu paket aileme yöneliktir",
+    "examples": []
+  },
+  {
+    "expression": "De regering is bevreesd voor inflatie.",
+    "tr": "Hükümet enflasyondan korkuyor.",
+    "examples": []
+  },
+  {
+    "expression": "Mag ik je danken voor je hulp?",
+    "tr": "Yardımınız için teşekkür edebilir miyim?",
+    "examples": [
+      {
+        "nl": "Hij is eigenlijk niet geschikt voor dat beroep.",
+        "tr": "Aslında o mesleğe uygun değil."
+      },
+      {
+        "nl": "Ik sta in voor de waarheid van zijn woorden.",
+        "tr": "Sözlerinin doğruluğunu tasdik ederim."
+      },
+      {
+        "nl": "Heb jij interesse voor een tweedehands radio?",
+        "tr": "İkinci el bir radyoyla ilgileniyor musunuz?"
+      },
+      {
+        "nl": "Hij doet niet voor zijn oudere broer onder.",
+        "tr": "O, ağabeyinden aşağı değildir."
+      }
+    ]
+  },
+  {
+    "expression": "Hij is onverschillig voor cijfers.",
+    "tr": "Sayılara kayıtsızdır.",
+    "examples": []
+  },
+  {
+    "expression": "Voor je vriend moet je opkomen.",
+    "tr": "Arkadaşın için ayağa kalkmalısın.",
+    "examples": []
+  },
+  {
+    "expression": "Hij is geslaagd voor zijn rijexamen.",
+    "tr": "Direksiyon sınavını geçti.",
+    "examples": []
+  },
+  {
+    "expression": "Wij strijden voor een beter milieu.",
+    "tr": "Daha iyi bir çevre için mücadele ediyoruz.",
+    "examples": [
+      {
+        "nl": "Op de fiets moet je uitkijken voor auto's.",
+        "tr": "Bisiklet sürerken arabalara dikkat etmelisiniz."
+      }
+    ]
+  },
+  {
+    "expression": "Die man is niet voor rede vatbaar",
+    "tr": "Bu adam mantık ötesi",
+    "examples": [
+      {
+        "nl": "Je bent verantwoordelijk voor je eigen daden.",
+        "tr": "Kendi eylemlerinizden siz sorumlusunuz."
+      },
+      {
+        "nl": "Veel mensen vluchten voor oorlogsgeweld.",
+        "tr": "Birçok insan savaş şiddetinden kaçıyor."
+      }
+    ]
+  },
+  {
+    "expression": "Voel je ervoor om met mij mee te gaan?",
+    "tr": "Benimle gelmek ister misin?",
+    "examples": []
+  },
+  {
+    "expression": "Dit boek voorziet in een behoefte.",
+    "tr": "Bu kitap bir ihtiyacı karşılıyor.",
+    "examples": []
+  },
+  {
+    "expression": "Ik waarschuw je voor de laatste keer.",
+    "tr": "Seni son kez uyarıyorum.",
+    "examples": [
+      {
+        "nl": "Ajax moest wijken voor de nieuwe kampioen.",
+        "tr": "Ajax'ın yeni şampiyona yer açması gerekiyordu."
+      }
+    ]
+  },
+  {
+    "expression": "De poes zorgt voor haar jongen.",
+    "tr": "Kedi yavrularına bakıyor.",
+    "examples": []
+  },
+  {
+    "expression": "Hij is voor de verleiding gezwicht.",
+    "tr": "Günaha yenik düştü.",
+    "examples": []
+  },
+  {
+    "expression": "(in het) bezit zijn van",
+    "tr": "Sahip olmak",
+    "examples": [
+      {
+        "nl": "Ik ben in het bezit van een nieuwe fiets.",
+        "tr": "Yeni bir bisikletim var."
+      }
+    ]
+  },
+  {
+    "expression": "(op de) hoogte zijn van",
+    "tr": "Haberdar olmak",
+    "examples": [
+      {
+        "nl": "Ben jij ervan op de hoogte dat we morgen een wiskunderepetitie hebben?",
+        "tr": "Yarın matematik provası olduğumuzun farkında mısın?"
+      }
+    ]
+  },
+  {
+    "expression": "(zich) bedienen van",
+    "tr": "Hizmetinde olmak",
+    "examples": [
+      {
+        "nl": "Bedien je gerust van deze lekkere hapjes!",
+        "tr": "Bu lezzetli atıştırmalıklardan kendine servis yapmaktan çekinme!"
+      }
+    ]
+  },
+  {
+    "expression": "(zich) rekenschap geven van",
+    "tr": "Hesap vermek - sorumlu olmak",
+    "examples": [
+      {
+        "nl": "Je moet je rekenschap geven van je daden.",
+        "tr": "Eylemlerinizi hesaba katmalısınız."
+      }
+    ]
+  },
+  {
+    "expression": "afbrengen van",
+    "tr": "Sonuçlandırmak",
+    "examples": [
+      {
+        "nl": "Ik kon hem niet van dat dwaze plan afbrengen.",
+        "tr": "Onu bu aptalca plandan kurtaramadım."
+      }
+    ]
+  },
+  {
+    "expression": "afhangen van",
+    "tr": "Bağlı olmak",
+    "examples": [
+      {
+        "nl": "Het hangt van je rapportcijfers af of je overgaat.",
+        "tr": "Aktarıp aktarmama raporunuzun rakamlarına bağlı."
+      }
+    ]
+  },
+  {
+    "expression": "afhankelijk zijn van",
+    "tr": "Bağımlı olmak",
+    "examples": []
+  },
+  {
+    "expression": "Een baby is afhankelijk van de moeder.",
+    "tr": "Bir bebek anneye bağlıdır.",
+    "examples": []
+  },
+  {
+    "expression": "afhelpen van",
+    "tr": "Kurtarmak",
+    "examples": [
+      {
+        "nl": "Heeft de dokter je van die vervelende wrat afgeholpen?",
+        "tr": "Doktor bu sinir bozucu siğilden kurtulmanıza yardımcı oldu mu?"
+      }
+    ]
+  },
+  {
+    "expression": "afstammen van",
+    "tr": "Birinin soyundan gelmek",
+    "examples": [
+      {
+        "nl": "De mens stamt waarschijnlijk af van de apen.",
+        "tr": "İnsanlar muhtemelen maymunlardan inerler."
+      }
+    ]
+  },
+  {
+    "expression": "afstand doen van",
+    "tr": "Vazgeçmek - çekilmek",
+    "examples": [
+      {
+        "nl": "De koningin deed afstand van de troon ten gunste van haar dochter.",
+        "tr": "Kraliçe tahtı kızının lehine reddetti."
+      }
+    ]
+  },
+  {
+    "expression": "bevrijden van",
+    "tr": "Azat etmek",
+    "examples": [
+      {
+        "nl": "Ik ben gelukkig van die vervelende plicht bevrijd.",
+        "tr": "Neyse ki, bu nahoş görevden kurtuldum."
+      }
+    ]
+  },
+  {
+    "expression": "bewust zijn van",
+    "tr": "Bilincinde olmak",
+    "examples": [
+      {
+        "nl": "Ik was me er niet van bewust dat iedereen mij horen kon.",
+        "tr": "Kimsenin beni duyabileceğinin bilincinde değildim."
+      }
+    ]
+  },
+  {
+    "expression": "bezeten zijn van",
+    "tr": "Bir şeyin delisi olmak",
+    "examples": []
+  },
+  {
+    "expression": "Mijn broer is bezeten van auto's.",
+    "tr": "Kardeşim arabalara takıntılıdır.",
+    "examples": []
+  },
+  {
+    "expression": "gebruikmaken van",
+    "tr": "Kullanmak",
+    "examples": [
+      {
+        "nl": "Mag ik even gebruikmaken van uw telefoon?",
+        "tr": "Telefonunu bir süre kullanabilir miyim?"
+      }
+    ]
+  },
+  {
+    "expression": "gediend zijn van",
+    "tr": "Bir şeyi hoş bulmak",
+    "examples": [
+      {
+        "nl": "Van die flauwe praatjes ben ik niet gediend.",
+        "tr": "Bu saçma konuşmalardan hoşlanmıyorum."
+      }
+    ]
+  },
+  {
+    "expression": "genieten van",
+    "tr": "Zevkini çıkarmak, tadını çıkartmak",
+    "examples": []
+  },
+  {
+    "expression": "Heb jij ook zo van de vakantie genoten?",
+    "tr": "Siz de böyle tatilin tadını çıkardınız mı?",
+    "examples": []
+  },
+  {
+    "expression": "houden van",
+    "tr": "Hoşlanmak, sevmek",
+    "examples": []
+  },
+  {
+    "expression": "Mijn moeder houdt veel van bloemen.",
+    "tr": "Annem çiçekleri çok sever.",
+    "examples": []
+  },
+  {
+    "expression": "onkundig zijn van",
+    "tr": "Cahil olmak",
+    "examples": []
+  },
+  {
+    "expression": "Ik was onkundig van dat feit.",
+    "tr": "O gerçeğin farkında değildim.",
+    "examples": []
+  },
+  {
+    "expression": "overtuigen van",
+    "tr": "İnandırmak - ikna etmek",
+    "examples": [
+      {
+        "nl": "Ik zal je ervan overtuigen dat je het mis hebt.",
+        "tr": "Seni yanlış olduğuna ikna edeceğim."
+      }
+    ]
+  },
+  {
+    "expression": "plezier hebben van",
+    "tr": "Zevk almak",
+    "examples": [
+      {
+        "nl": "Wij hebben veel plezier van onze kleurentelevisie.",
+        "tr": "Renkli televizyonumuzdan keyif alıyoruz."
+      }
+    ]
+  },
+  {
+    "expression": "profiteren van",
+    "tr": "Faydalanmak",
+    "examples": []
+  },
+  {
+    "expression": "Van mooi weer moet je profiteren.",
+    "tr": "İyi hava koşullarından yararlanmak zorundasınız.",
+    "examples": []
+  },
+  {
+    "expression": "redden van",
+    "tr": "Kurtarmak",
+    "examples": [
+      {
+        "nl": "Hij heeft het kind van de verdrinkingsdood gered.",
+        "tr": "Çocuğu boğulmaktan kurtardı."
+      }
+    ]
+  },
+  {
+    "expression": "scheiden van",
+    "tr": "Ayırmak",
+    "examples": [
+      {
+        "nl": "Het meisje leeft gescheiden van haar ouders.",
+        "tr": "Kız ebeveynlerinden ayrı yaşıyor."
+      }
+    ]
+  },
+  {
+    "expression": "schrikken van",
+    "tr": "Korkmak, ...'dan korkmak-sarsilmak",
+    "examples": [
+      {
+        "nl": "Ben jij ook zo geschrokken van die aardbeving?",
+        "tr": "O depremden de şok musunuz?"
+      }
+    ]
+  },
+  {
+    "expression": "spijt hebben van",
+    "tr": "Pişman olmak",
+    "examples": [
+      {
+        "nl": "Ik heb spijt van mijn ondoordachte woorden.",
+        "tr": "Düşüncesiz sözlerime pişmanım."
+      }
+    ]
+  },
+  {
+    "expression": "terugkomen van",
+    "tr": "Geri gelmek",
+    "examples": []
+  },
+  {
+    "expression": "Hij kwam terug van zijn werk.",
+    "tr": "İşten döndü.",
+    "examples": []
+  },
+  {
+    "expression": "uitgaan van",
+    "tr": "Bir şeyden yola çıkmak - hareket etmek",
+    "examples": [
+      {
+        "nl": "In de wiskunde ga je uit van hypotheses.",
+        "tr": "Matematikte hipotezlerden başlıyorsunuz."
+      }
+    ]
+  },
+  {
+    "expression": "verdenken van",
+    "tr": "Şüphelenmek",
+    "examples": []
+  },
+  {
+    "expression": "Hij wordt verdacht van diefstal.",
+    "tr": "Hırsızlık olduğundan şüpheleniliyor.",
+    "examples": []
+  },
+  {
+    "expression": "verliezen van",
+    "tr": "Kaybetmek",
+    "examples": [
+      {
+        "nl": "De derde klas heeft met volleybal verloren van de eerste klas.",
+        "tr": "Üçüncü sınıf, birinci sınıftan voleybol ile kaybetti."
+      }
+    ]
+  },
+  {
+    "expression": "verlossen van",
+    "tr": "Kurtarmak",
+    "examples": [
+      {
+        "nl": "De stroper verloste de vos van de strik.",
+        "tr": "Kaçak avcı tilkiyi yaydan serbest bıraktı."
+      }
+    ]
+  },
+  {
+    "expression": "verschillen van",
+    "tr": "Farklı olmak",
+    "examples": [
+      {
+        "nl": "De nieuwe docent verschilt nogal van de vorige.",
+        "tr": "Yeni öğretmen öncekinden oldukça farklı."
+      }
+    ]
+  },
+  {
+    "expression": "verstand hebben van",
+    "tr": "Bir şeyden anlamak",
+    "examples": []
+  },
+  {
+    "expression": "Hebt u verstand van computers?",
+    "tr": "Bilgisayarları anlıyor musunuz?",
+    "examples": []
+  },
+  {
+    "expression": "versteld staan van",
+    "tr": "Hayran kalmak",
+    "examples": []
+  },
+  {
+    "expression": "Ik sta versteld van zijn optreden.",
+    "tr": "Performansına hayran kaldım.",
+    "examples": []
+  },
+  {
+    "expression": "verstoken zijn van",
+    "tr": "Mahrum kalmak",
+    "examples": []
+  },
+  {
+    "expression": "Die man is van alle hulp verstoken.",
+    "tr": "O adam herhangi bir yardımdan yoksun bırakıldı.",
+    "examples": []
+  },
+  {
+    "expression": "vervreemden van",
+    "tr": "Yabancılaşmak",
+    "examples": [
+      {
+        "nl": "Hij is helemaal van zijn eigen cultuur vervreemd.",
+        "tr": "Kendi kültüründen tamamen yabancılaşmış."
+      }
+    ]
+  },
+  {
+    "expression": "vervuld zijn van",
+    "tr": "Dolu olmak",
+    "examples": [
+      {
+        "nl": "Ik ben vervuld van blijdschap over de goede afloop.",
+        "tr": "Mutlu sondan çok memnunum."
+      }
+    ]
+  },
+  {
+    "expression": "voorzien van",
+    "tr": "Sağlamak - Tedarik etmek",
+    "examples": []
+  },
+  {
+    "expression": "Ik ben van alles voorzien.",
+    "tr": "Bana her şey veriliyor.",
+    "examples": []
+  },
+  {
+    "expression": "vrijspreken van",
+    "tr": "Aklanmak - Beraat etmek",
+    "examples": [
+      {
+        "nl": "De rechter spreekt de vrouw vrij van de beschuldiging.",
+        "tr": "Hakim suçlamadan kadına beraat etti."
+      }
+    ]
+  },
+  {
+    "expression": "vrijstellen van",
+    "tr": "Muaf tutmak",
+    "examples": [
+      {
+        "nl": "Sommige jongens zijn vrijgesteld van dat examen.",
+        "tr": "Bazı çocuklar bu sınavdan muaftır."
+      }
+    ]
+  },
+  {
+    "expression": "walgen van",
+    "tr": "İğrenmek - Tiksinmek",
+    "examples": []
+  },
+  {
+    "expression": "Ik walge van spruitjes.",
+    "tr": "Brüksel lahanası ile tiksiniyorum.",
+    "examples": []
+  },
+  {
+    "expression": "wemelen van",
+    "tr": "İle dolup taşmak - Dân geçilmemek",
+    "examples": []
+  },
+  {
+    "expression": "Deze sloot wemelt van de kikkers.",
+    "tr": "Bu hendek kurbağalarla dolu.",
+    "examples": []
+  },
+  {
+    "expression": "winnen van",
+    "tr": "Kazanmak",
+    "examples": [
+      {
+        "nl": "Wij hebben het niet van onze tegenstanders kunnen winnen.",
+        "tr": "Rakiplerimizi yenemedik."
+      }
+    ]
+  },
+  {
+    "expression": "zeker zijn van",
+    "tr": "Emin olmak",
+    "examples": [
+      {
+        "nl": "De soldaten zijn zeker van de overwinning.",
+        "tr": "Askerler zaferden emindir."
+      }
+    ]
+  },
+  {
+    "expression": "zuiveren van",
+    "tr": "Arındırmak - Temizlemek",
+    "examples": [
+      {
+        "nl": "Het kraanwater is gezuiverd van allerlei ongerechtigheden.",
+        "tr": "Musluk suyu her türlü haksızlıktan arındırılır."
+      }
+    ]
+  }
+]

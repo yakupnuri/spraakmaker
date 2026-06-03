@@ -12,7 +12,8 @@ export const metadata: Metadata = {
     title: "Spraakmaker",
   },
   icons: {
-    apple: "/icon.svg",
+    icon: "/icon.png",
+    apple: "/icon.png",
   },
 };
 

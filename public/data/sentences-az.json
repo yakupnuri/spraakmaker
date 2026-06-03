@@ -1,0 +1,1342 @@
+[
+  {
+    "nl": "1. Hoe is het?",
+    "tr": "Naber?"
+  },
+  {
+    "nl": "2. Zo zo",
+    "tr": "Idare eder."
+  },
+  {
+    "nl": "3. Hoe gaat het?",
+    "tr": "Nasıl gidiyor?"
+  },
+  {
+    "nl": "4. Laten we gaan!",
+    "tr": "Haydi gidelim!"
+  },
+  {
+    "nl": "5. Laten we doorgaan!",
+    "tr": "Devam edelim"
+  },
+  {
+    "nl": "6. Geef me een hand!",
+    "tr": "Yardım et, bir el at!"
+  },
+  {
+    "nl": "7. Ik zal ervoor zorgen!",
+    "tr": "İlgileneceğim, bakacağım."
+  },
+  {
+    "nl": "8. Ga hier weg!",
+    "tr": "Defol Buradan!"
+  },
+  {
+    "nl": "9. Mijn hoofd vermoordt me!",
+    "tr": "Başım beni öldürüyor!"
+  },
+  {
+    "nl": "10. Wat een mooi meisje!",
+    "tr": "Ne güzel bir kız!"
+  },
+  {
+    "nl": "11. Ik ben blut!",
+    "tr": "Parasızım!"
+  },
+  {
+    "nl": "12. Ik heb honger!",
+    "tr": "Açım!"
+  },
+  {
+    "nl": "13. Ik heb honger!",
+    "tr": "Açlıktan ölüyorum!"
+  },
+  {
+    "nl": "14. Begrijp me niet verkeerd!",
+    "tr": "Beni yanlış anlama!"
+  },
+  {
+    "nl": "15. Het klinkt goed!",
+    "tr": "Kulağa hoş geliyor!"
+  },
+  {
+    "nl": "16. Het gaat mij te ver!",
+    "tr": "Bu beni aşar!"
+  },
+  {
+    "nl": "17. Het is aan jou!",
+    "tr": "Sana bağlı, sen bilirsin."
+  },
+  {
+    "nl": "18. Je kunt me vertrouwen!",
+    "tr": "Bana güvenebilirsin!"
+  },
+  {
+    "nl": "19. Laten we ter zake komen!",
+    "tr": "Sadede gelelim!"
+  },
+  {
+    "nl": "20. Raad eens wat!",
+    "tr": "Bil bakalım ne oldu/ Tahmin et ne oldu"
+  },
+  {
+    "nl": "21. Ik ben niet in goede staat!",
+    "tr": "Formdan düştüm!"
+  },
+  {
+    "nl": "22. Mijn batterij is leeg.",
+    "tr": "Şarjım bitti."
+  },
+  {
+    "nl": "23. Mijn batterij is bijna leeg.",
+    "tr": "Şarjım az kaldı."
+  },
+  {
+    "nl": "24. Weet je wat!",
+    "tr": "Ne diyeceğimi biliyorsun!"
+  },
+  {
+    "nl": "25. Het is beter dan niets!",
+    "tr": "Hiç yoktan iyidir!"
+  },
+  {
+    "nl": "26. Ik haal de telefoon / deur!",
+    "tr": "Kapıya, telefona ben bakarım."
+  },
+  {
+    "nl": "27. Het is mijn beurt!",
+    "tr": "Benim sıram!"
+  },
+  {
+    "nl": "28. Het maakt niet uit!",
+    "tr": "Sorun değil!"
+  },
+  {
+    "nl": "29. Graag gedaan.",
+    "tr": "Rica ederim."
+  },
+  {
+    "nl": "30. Lang niet gezien!",
+    "tr": "Görülmeyeli uzun zaman oldu!"
+  },
+  {
+    "nl": "31. Langdurig geen gepraat!",
+    "tr": "Konuşmayalı uzun zaman oldu!"
+  },
+  {
+    "nl": "32. Wil je uitgaan?",
+    "tr": "Takılmak ister misin?"
+  },
+  {
+    "nl": "33. Laten we naar beneden lopen!",
+    "tr": "Bu gece buluşalım."
+  },
+  {
+    "nl": "34. Ik hoop het!",
+    "tr": "Öyle umuyorum."
+  },
+  {
+    "nl": "35. Ik heb geen idee!",
+    "tr": "Hiçbir fikrim yok!"
+  },
+  {
+    "nl": "36. Laten we afspreken!",
+    "tr": "Buluşalım."
+  },
+  {
+    "nl": "37. Je ziet er niet zo uit als je leeftijd!",
+    "tr": "Yaşını göstermiyorsun!"
+  },
+  {
+    "nl": "38. We zijn veilig en gezond!",
+    "tr": "Güvendeyiz."
+  },
+  {
+    "nl": "39. Pis me niet van!",
+    "tr": "Beni kızdırma!"
+  },
+  {
+    "nl": "40. Beterschap snel!",
+    "tr": "Geçmiş olsun!"
+  },
+  {
+    "nl": "41. Ik verloor mijn geduld!",
+    "tr": "Sinirlerim bozuldu!"
+  },
+  {
+    "nl": "42. Doe alsof je thuis bent!",
+    "tr": "Kendini evinde hisset!"
+  },
+  {
+    "nl": "43. Schiet op!",
+    "tr": "Acele et!"
+  },
+  {
+    "nl": "44. Rustig aan!",
+    "tr": "Sakin ol!"
+  },
+  {
+    "nl": "45. Help jezelf.",
+    "tr": "Buyrun?"
+  },
+  {
+    "nl": "46. Naar mijn mening,",
+    "tr": "Benim düşünceme göre"
+  },
+  {
+    "nl": "47. Ik vind het niet erg!",
+    "tr": "Benim için farketmez."
+  },
+  {
+    "nl": "48. Ken je elkaar?",
+    "tr": "Birbirinizi tanıyor musunuz?"
+  },
+  {
+    "nl": "49. Bent u op Facebook?",
+    "tr": "Facebook'un var mı?"
+  },
+  {
+    "nl": "50. Wat brengt je tot liefde?",
+    "tr": "Seni aşka getiren nedir?"
+  },
+  {
+    "nl": "51. Geef mij de schuld niet!",
+    "tr": "Beni suçlama!"
+  },
+  {
+    "nl": "52. Ik ben verliefd op hem / hem!",
+    "tr": "Ona aşığım."
+  },
+  {
+    "nl": "53. Ik heb contact met Sally!",
+    "tr": "Sally ile hala görüşüyorum."
+  },
+  {
+    "nl": "54. Ik heb een idee.",
+    "tr": "Bir fikrim var."
+  },
+  {
+    "nl": "55. Ik heb nu de handen vol.",
+    "tr": "Şu an ellerim dolu."
+  },
+  {
+    "nl": "56. Mijn kamer is een zooitje.",
+    "tr": "Odam çok dağınık."
+  },
+  {
+    "nl": "57. Maak je een grapje?",
+    "tr": "Şaka mı yapıyorsun?"
+  },
+  {
+    "nl": "58. Zo snel mogelijk",
+    "tr": "Mümkün olan en kısa sürede"
+  },
+  {
+    "nl": "59. Trouwens",
+    "tr": "Bu arada"
+  },
+  {
+    "nl": "60. Doe me een lol",
+    "tr": "Bana bir iyilik yap."
+  },
+  {
+    "nl": "61. Ze kan geen grapje maken.",
+    "tr": "O şaka kaldırmaz."
+  },
+  {
+    "nl": "62. Ik ben zijn fan.",
+    "tr": "Onun hayranıyım."
+  },
+  {
+    "nl": "63. Ik ben verloren.",
+    "tr": "Kayboldum."
+  },
+  {
+    "nl": "64. Laten we contact houden.",
+    "tr": "İletişimde kalalım."
+  },
+  {
+    "nl": "65. Let op uw eigen zaken.",
+    "tr": "Kendi işine bak."
+  },
+  {
+    "nl": "66. Vroeg of laat",
+    "tr": "Er ya da geç."
+  },
+  {
+    "nl": "67. Ik beloof het",
+    "tr": "Söz veriyorum."
+  },
+  {
+    "nl": "68. Ik ben trots op je!",
+    "tr": "Seninle gurur duyuyorum."
+  },
+  {
+    "nl": "69. Ik heb een verrassing voor je.",
+    "tr": "Sana birsürprizim var."
+  },
+  {
+    "nl": "70. Volg mij.",
+    "tr": "Beni takip et."
+  },
+  {
+    "nl": "71. Echt niet!",
+    "tr": "Olamaz!"
+  },
+  {
+    "nl": "72. Ik ben het ermee eens",
+    "tr": "Aynı fikirdeyim."
+  },
+  {
+    "nl": "73. Veel plezier.",
+    "tr": "İyi eğlenceler."
+  },
+  {
+    "nl": "74. Doe geen moeite!",
+    "tr": "Zahmet etme."
+  },
+  {
+    "nl": "75. Ik ben sprakeloos.",
+    "tr": "Nutkum tutuldu."
+  },
+  {
+    "nl": "76. Happy Eid!",
+    "tr": "İyi bayramlar!"
+  },
+  {
+    "nl": "77. Houd je hoofd hoog!",
+    "tr": "Boynunu bükme, dik tut!"
+  },
+  {
+    "nl": "78. Houd je neus schoon!",
+    "tr": "Pis ißlere bulaşma!"
+  },
+  {
+    "nl": "79. De tijd is om!",
+    "tr": "Vakit doldu."
+  },
+  {
+    "nl": "80. Vergeet het maar!",
+    "tr": "Unut bunu!"
+  },
+  {
+    "nl": "81. Vergeef me!",
+    "tr": "Affet beni!"
+  },
+  {
+    "nl": "82. Niet bewegen!",
+    "tr": "Kımıldama!"
+  },
+  {
+    "nl": "83. Maak je geen zorgen!",
+    "tr": "Endişelenme!"
+  },
+  {
+    "nl": "84. Raak niet aan!",
+    "tr": "Dokunma!"
+  },
+  {
+    "nl": "85. Geniet van uw maaltijd!",
+    "tr": "Afiyet olsun."
+  },
+  {
+    "nl": "86. Veel plezier!",
+    "tr": "Keyfine bak!"
+  },
+  {
+    "nl": "87. Veel plezier!",
+    "tr": "İyi eğlenceler."
+  },
+  {
+    "nl": "88. Gezegend!",
+    "tr": "Çok yaşa!"
+  },
+  {
+    "nl": "89. Bottoms up!",
+    "tr": "Şerefe!"
+  },
+  {
+    "nl": "90. Vrolijk op!",
+    "tr": "Neşelen!"
+  },
+  {
+    "nl": "91. Kom op!",
+    "tr": "Neşelen!"
+  },
+  {
+    "nl": "92. Wees stil!",
+    "tr": "Sessiz ol!"
+  },
+  {
+    "nl": "93. Wees kalm!",
+    "tr": "Sakin ol!"
+  },
+  {
+    "nl": "94. Wees voorzichtig",
+    "tr": "Dikkatli ol!"
+  },
+  {
+    "nl": "95. Wees geduldig!",
+    "tr": "Sabırlı ol!"
+  },
+  {
+    "nl": "96. Na jou!",
+    "tr": "Senden sonra ..."
+  },
+  {
+    "nl": "97. Sta mij toe!",
+    "tr": "İzin ver!"
+  },
+  {
+    "nl": "98. Wat mij betreft",
+    "tr": "Bence ..."
+  },
+  {
+    "nl": "99. Hoe angstaanjagend!",
+    "tr": "Nasıl ürkütücü!"
+  },
+  {
+    "nl": "100. Ik heb geen keus!",
+    "tr": "Bir seçeneğim yok!"
+  },
+  {
+    "nl": "101. Wat een schande!",
+    "tr": "Yazıklar olsun!"
+  },
+  {
+    "nl": "102. Het is aan mij!",
+    "tr": "Bendendir. (Ismarlama)"
+  },
+  {
+    "nl": "103. Misschien niet!",
+    "tr": "Olmayabilir!"
+  },
+  {
+    "nl": "104. Niet vermelden!",
+    "tr": "Lafı, sözü gal edilmez!"
+  },
+  {
+    "nl": "105. Allemaal aan boord!",
+    "tr": "Herkes binsin! (Arabaya, gemiye, trene vs ...)"
+  },
+  {
+    "nl": "106. Stel je voor!",
+    "tr": "Hayal et!"
+  },
+  {
+    "nl": "107. Als er iets gebeurt, bel me dan!",
+    "tr": "Bir şey olursa bir alo de!"
+  },
+  {
+    "nl": "108. Zo niet ...",
+    "tr": "Eğer olmazsa, eğer öyle değilse ..."
+  },
+  {
+    "nl": "109. Rust even uit!",
+    "tr": "Dinlenmek!"
+  },
+  {
+    "nl": "110. Blijf op de hoogte!",
+    "tr": "İletişimde kalalım!"
+  },
+  {
+    "nl": "111. Houd in gedachten!",
+    "tr": "Aklında bulunsun!"
+  },
+  {
+    "nl": "112. Blijf doen!",
+    "tr": "Yapmaya devam et!"
+  },
+  {
+    "nl": "113. Blijf doorgaan!",
+    "tr": "İlerlemeye devam et!"
+  },
+  {
+    "nl": "114. Slaap lekker!",
+    "tr": "İyi uykular!"
+  },
+  {
+    "nl": "115. Kom hier!",
+    "tr": "Buraya-gel!"
+  },
+  {
+    "nl": "116. Eenmaal per dag!",
+    "tr": "Günde bir kez."
+  },
+  {
+    "nl": "* Tweemaal per dag",
+    "tr": "Günde iki kez."
+  },
+  {
+    "nl": "* Drie keer per dag",
+    "tr": "Günde üç kez."
+  },
+  {
+    "nl": "117. Laat me raden!",
+    "tr": "Dur tahmin edelim!"
+  },
+  {
+    "nl": "118. Gewoon een moment!",
+    "tr": "Bir dakika!"
+  },
+  {
+    "nl": "119. Nog niet!",
+    "tr": "Henüz değil!"
+  },
+  {
+    "nl": "120. Heb een hart!",
+    "tr": "İnsaf be!"
+  },
+  {
+    "nl": "121. Maar, als dat niet zo is?",
+    "tr": "Olmazsa ne olacak?"
+  },
+  {
+    "nl": "122. Probeer het opnieuw!",
+    "tr": "Tekrar dene!"
+  },
+  {
+    "nl": "123. Geef me een pauze!",
+    "tr": "Rahat bırak!"
+  },
+  {
+    "nl": "124. Ik weet het niet. Als ik kan!",
+    "tr": "Yapıp yapamayacağımı bilmiyorum!"
+  },
+  {
+    "nl": "125. Hoe vreemd!",
+    "tr": "Ne tuhaf!"
+  },
+  {
+    "nl": "126. Laat het zijn!",
+    "tr": "Bırak olsun!"
+  },
+  {
+    "nl": "127. Ik hoop dat",
+    "tr": "Bunu umuyorum."
+  },
+  {
+    "nl": "128. U denkt van wel.",
+    "tr": "Böyle mi düşünüyorsun!"
+  },
+  {
+    "nl": "129. Ik denk het wel!",
+    "tr": "Böyle düşünüyorum."
+  },
+  {
+    "nl": "130. Ik vind het niet erg!",
+    "tr": "Umrumda değil!"
+  },
+  {
+    "nl": "131. Meer of minder.",
+    "tr": "Aşağı yukarı."
+  },
+  {
+    "nl": "132. Laat maar zitten!",
+    "tr": "Geen gitsin."
+  },
+  {
+    "nl": "133. Waarom niet?",
+    "tr": "Neden olmasın!"
+  },
+  {
+    "nl": "134. Als ik jou was ...",
+    "tr": "Eğer yerinde olsaydım ..."
+  },
+  {
+    "nl": "135. Geef me een mening!",
+    "tr": "Fikir ver bana!"
+  },
+  {
+    "nl": "136. Houd uw kin omhoog!",
+    "tr": "Başını dik tut, metin ol!"
+  },
+  {
+    "nl": "137. Makkelijk doet het!",
+    "tr": "Acelet etme, yavaş."
+  },
+  {
+    "nl": "138. Geef me een kans!",
+    "tr": "Bir şans ver bana!"
+  },
+  {
+    "nl": "139. Geef me knuffel!",
+    "tr": "Sarıl bana!"
+  },
+  {
+    "nl": "140. Wat is er mis met jou?",
+    "tr": "Neyin var, sorunun nedir?"
+  },
+  {
+    "nl": "141. Ik veronderstel ...",
+    "tr": "Tahminimce"
+  },
+  {
+    "nl": "142. Ik denk",
+    "tr": "Bence"
+  },
+  {
+    "nl": "143. Naar mijn mening",
+    "tr": "Benim fikrimce"
+  },
+  {
+    "nl": "144. Ik bedoel",
+    "tr": "Demek istediğim, kastettiğim. ."
+  },
+  {
+    "nl": "145. In het feit",
+    "tr": "Aslında olan ..."
+  },
+  {
+    "nl": "146. Niet zo geweldig",
+    "tr": "O kadar da iyi değil!"
+  },
+  {
+    "nl": "147. Ik kan er niet meer tegen!",
+    "tr": "Daha fazla dayanamıyorum."
+  },
+  {
+    "nl": "148. Geen kans.",
+    "tr": "Şansın yok!"
+  },
+  {
+    "nl": "149. Ik wou, ik had ...",
+    "tr": "Keşke Olsaydı. ."
+  },
+  {
+    "nl": "150. Zorg ervoor!",
+    "tr": "Emin ol!"
+  },
+  {
+    "nl": "151. Ik ben terug!",
+    "tr": "Geri geldim."
+  },
+  {
+    "nl": "152. Wat is er gebeurd?",
+    "tr": "Ne oldu?"
+  },
+  {
+    "nl": "153. Ben je daar?",
+    "tr": "Orda mısın?"
+  },
+  {
+    "nl": "154. Kom er vanaf!",
+    "tr": "Bırak bu işleri, vazgeç!"
+  },
+  {
+    "nl": "155. Begrijp me niet verkeerd!",
+    "tr": "Beni anaal!"
+  },
+  {
+    "nl": "156. Heb je het?",
+    "tr": "Anladın mı?"
+  },
+  {
+    "nl": "157. Echt niet!",
+    "tr": "Olamaz!"
+  },
+  {
+    "nl": "158. Ik ben blut!",
+    "tr": "Parasızım, çulsuzum!"
+  },
+  {
+    "nl": "159. Ik veronderstel van wel!",
+    "tr": "Sanırım öyle!"
+  },
+  {
+    "nl": "160. Het zij zo!",
+    "tr": "Peki, öyle olsun!"
+  },
+  {
+    "nl": "161. Daar ben ik het mee eens!",
+    "tr": "Kaboel ediyorum."
+  },
+  {
+    "nl": "162. Ik beloof het!",
+    "tr": "Söz veriyorum!"
+  },
+  {
+    "nl": "163. Doe de pauze aan!",
+    "tr": "Hoop! Frene bas!"
+  },
+  {
+    "nl": "164. Probeer het opnieuw!",
+    "tr": "Tekrar dene!"
+  },
+  {
+    "nl": "165. Ga uit mijn leven!",
+    "tr": "Hayatımdan defol!"
+  },
+  {
+    "nl": "166. Dat denk je!",
+    "tr": "Sen öyle san!"
+  },
+  {
+    "nl": "167. Hoor je dat?",
+    "tr": "Bunu duydun mu?"
+  },
+  {
+    "nl": "168. Nog een keer!",
+    "tr": "Bir kez daha!"
+  },
+  {
+    "nl": "169. Niemand weet waar ik ben!",
+    "tr": "Kimse nerede olduğumu bilmiyor!"
+  },
+  {
+    "nl": "170. Niemand weet wie ik ben!",
+    "tr": "Kim olduğu kimse bilmiyorum."
+  },
+  {
+    "nl": "171. Niemand weet het!",
+    "tr": "Kimse bilemez!"
+  },
+  {
+    "nl": "172. Je bent altijd in mijn gedachten!",
+    "tr": "Haar zamanaklımdasın."
+  },
+  {
+    "nl": "173. Je bent gek!",
+    "tr": "Delinin tekisin!"
+  },
+  {
+    "nl": "174. Geef nooit op!",
+    "tr": "Asla vazgeçme!"
+  },
+  {
+    "nl": "175. Laat het me weten.",
+    "tr": "Haberdar et."
+  },
+  {
+    "nl": "176. Niet bewegen!",
+    "tr": "Kımıldama!"
+  },
+  {
+    "nl": "177. Houd het op!",
+    "tr": "Devam et!"
+  },
+  {
+    "nl": "178. Houd je belofte!",
+    "tr": "Sözünü tut!"
+  },
+  {
+    "nl": "179. Geef me er vijf!",
+    "tr": "Çak bir beşlik!"
+  },
+  {
+    "nl": "180. Nooit meer!",
+    "tr": "Bir daha asla!"
+  },
+  {
+    "nl": "181. Laat maar zitten!",
+    "tr": "Salla gitsin."
+  },
+  {
+    "nl": "182. Wat nog meer?",
+    "tr": "Başka?"
+  },
+  {
+    "nl": "183. Natuurlijk!",
+    "tr": "Tabiki ..."
+  },
+  {
+    "nl": "184. Who cares?",
+    "tr": "Kimin umrunda !?"
+  },
+  {
+    "nl": "185. Genoeg is genoeg!",
+    "tr": "Yeter artık yeter!"
+  },
+  {
+    "nl": "186. Volg mij.",
+    "tr": "Takip et beni."
+  },
+  {
+    "nl": "187. Veel geluk!",
+    "tr": "İyi şanslar."
+  },
+  {
+    "nl": "188. De beste wensen!",
+    "tr": "En iyi dileklerimle!"
+  },
+  {
+    "nl": "189. Ben je vol",
+    "tr": "Doydun mu?"
+  },
+  {
+    "nl": "190. Om mijnentwil.",
+    "tr": "Hatırım için."
+  },
+  {
+    "nl": "191. Waarvoor?",
+    "tr": "Ne için?"
+  },
+  {
+    "nl": "192. Ik heb het net gehaald!",
+    "tr": "Şimdi yaptım."
+  },
+  {
+    "nl": "193. Ik weet wat ik zei",
+    "tr": "Ne dediğimi biliyorum."
+  },
+  {
+    "nl": "194. Ik kom snel terug.",
+    "tr": "Çok yakın zamanda geri döneceğim."
+  },
+  {
+    "nl": "195. Ik heb haast!",
+    "tr": "Acelem var."
+  },
+  {
+    "nl": "196. Ik heb haast!",
+    "tr": "Acelem var."
+  },
+  {
+    "nl": "197. Het kost echt tijd",
+    "tr": "Bu gerçekten zaman alır."
+  },
+  {
+    "nl": "198. Het lijkt in orde",
+    "tr": "Tamam gibi gözüküyor."
+  },
+  {
+    "nl": "199. Vertragen!",
+    "tr": "Yavaşla."
+  },
+  {
+    "nl": "200. Stop met het maken van zo'n geluid",
+    "tr": "Gürültü yapmayı kes."
+  },
+  {
+    "nl": "201. Dat is alles!",
+    "tr": "Hepsi bu, bu kadar."
+  },
+  {
+    "nl": "202. Tot zover goed!",
+    "tr": "şimdilik herşey yolunda!"
+  },
+  {
+    "nl": "203. Denk er over na!",
+    "tr": "İyi düşün."
+  },
+  {
+    "nl": "205. Hier gaan we.",
+    "tr": "Gidiyoruz, başlıyoruz."
+  },
+  {
+    "nl": "206. Ga eens kijken",
+    "tr": "İzleyelim, bakalım."
+  },
+  {
+    "nl": "207. Schaam je",
+    "tr": "Utanmalısın, utan!"
+  },
+  {
+    "nl": "208. Trouwens",
+    "tr": "Bu arada"
+  },
+  {
+    "nl": "209. Pardon?",
+    "tr": "Bakarmısınız? / Afedersiniz."
+  },
+  {
+    "nl": "210. Met andere woorden:",
+    "tr": "Başka bir deyişle"
+  },
+  {
+    "nl": "211. Ik heb geen keus",
+    "tr": "Başka seçeneğim yok."
+  },
+  {
+    "nl": "212. Hoe angstaanjagend!",
+    "tr": "Ne kadar korkutucu!"
+  },
+  {
+    "nl": "213. Ik had geen keus!",
+    "tr": "Başka seçeneğim yoktu!"
+  },
+  {
+    "nl": "214. Blijf verder gaan",
+    "tr": "devam et"
+  },
+  {
+    "nl": "215. Houd je ogen open",
+    "tr": "Gözlerini aç"
+  },
+  {
+    "nl": "216. Denk er eens over na",
+    "tr": "bunu bir düşün. Denk eens na - Düşün"
+  },
+  {
+    "nl": "217. Houd het simpel",
+    "tr": "Basit tut!"
+  },
+  {
+    "nl": "218. Zo niet!",
+    "tr": "Böyle olma!"
+  },
+  {
+    "nl": "219. Neem de verantwoordelijkheid over!",
+    "tr": "Sorumluluk al!"
+  },
+  {
+    "nl": "220. Maak een besluit!",
+    "tr": "Karar ver!"
+  },
+  {
+    "nl": "221. Kom naar beneden",
+    "tr": "Aşağıya in!"
+  },
+  {
+    "nl": "222. Ik zal mijn best doen!",
+    "tr": "Elimden gelenin en iyisini yapacağım!"
+  },
+  {
+    "nl": "223. Laten we duidelijk zijn!",
+    "tr": "Açık olalım!"
+  },
+  {
+    "nl": "224. Op deze manier",
+    "tr": "Bu taraftan"
+  },
+  {
+    "nl": "225. Zeg nooit nooit!",
+    "tr": "Asla, asla deme!"
+  },
+  {
+    "nl": "226. Wees veilig",
+    "tr": "Güvende ol!"
+  },
+  {
+    "nl": "227. Blijf veilig!",
+    "tr": "Güvende kal!"
+  },
+  {
+    "nl": "228. Kijk om je heen!",
+    "tr": "Etrafına bak!"
+  },
+  {
+    "nl": "229. Heb je nog iets anders nodig?",
+    "tr": "Başka birşeye ihtiyacın var mı?"
+  },
+  {
+    "nl": "230. Ga kijken!",
+    "tr": "Git gör! - Git bak!"
+  },
+  {
+    "nl": "231. Ga weg!",
+    "tr": "Git başımdan!"
+  },
+  {
+    "nl": "232. Waarvoor?",
+    "tr": "Ne için?"
+  },
+  {
+    "nl": "233. Adem in en uit!",
+    "tr": "Nefes al, nefes ver!"
+  },
+  {
+    "nl": "234. Er is een fout gemaakt!",
+    "tr": "Bir yanlışlık olmuş!"
+  },
+  {
+    "nl": "235. Ik denk het niet!",
+    "tr": "Bence değil, olmaz!"
+  },
+  {
+    "nl": "236. Ik ben de slaaf van niemand!",
+    "tr": "Kimsenin kölesi değilim!"
+  },
+  {
+    "nl": "237. Ga door zonder mij!",
+    "tr": "Bensiz devam edin!"
+  },
+  {
+    "nl": "238. Stop de dop!",
+    "tr": "Taksiyi durdur!"
+  },
+  {
+    "nl": "239. Ik ben trots op je!",
+    "tr": "Seninle gurur duyuyorum!"
+  },
+  {
+    "nl": "240. Hands up!",
+    "tr": "Eller yukarı!"
+  },
+  {
+    "nl": "241. Ga weg!",
+    "tr": "Defol!"
+  },
+  {
+    "nl": "242. Ik zag eruit als mijn (moeder).",
+    "tr": "Anneme benzerdim."
+  },
+  {
+    "nl": "243. Ben je vanavond vrij?",
+    "tr": "Bu akşam müsait misin?"
+  },
+  {
+    "nl": "244. Ik vertel u de waarheid!",
+    "tr": "Sana gerçeği söylüyorum!"
+  },
+  {
+    "nl": "245. Ik weiger!",
+    "tr": "Reddediyorum!"
+  },
+  {
+    "nl": "246. Wat is er gebeurd?",
+    "tr": "Ne oldu?"
+  },
+  {
+    "nl": "247. Wat gebeurt er?",
+    "tr": "Neler oluyor?"
+  },
+  {
+    "nl": "248. Helemaal mijn schuld!",
+    "tr": "Tamamen benim suçum!"
+  },
+  {
+    "nl": "249. Genoeg gepraat!",
+    "tr": "Bu kadar konuşma yeter!"
+  },
+  {
+    "nl": "250. Je weet niets!",
+    "tr": "Hiçbirşey bilmiyorsun!"
+  },
+  {
+    "nl": "251. Luister omhoog!",
+    "tr": "Dinleyin!"
+  },
+  {
+    "nl": "252. Ik meen het!",
+    "tr": "Ben ciddiyim!"
+  },
+  {
+    "nl": "253. Beetje!",
+    "tr": "Beni ısırdı!"
+  },
+  {
+    "nl": "254. Dank me niet!",
+    "tr": "Bana teşekkür etme!"
+  },
+  {
+    "nl": "255. Ik viel van mijn fiets!",
+    "tr": "Bisikletimdendüştüm!"
+  },
+  {
+    "nl": "256. Zoals het hoort!",
+    "tr": "Olması gerektiği gibi!"
+  },
+  {
+    "nl": "257. Zoals ik al zei",
+    "tr": "Dediğim gibi"
+  },
+  {
+    "nl": "258. Niet deze keer",
+    "tr": "bu kez değil"
+  },
+  {
+    "nl": "259. Geef niet op!",
+    "tr": "Vazgeçme"
+  },
+  {
+    "nl": "260. word niet boos op me",
+    "tr": "Bana kızma!"
+  },
+  {
+    "nl": "261. Blijf nieuwsgierig",
+    "tr": "Merak etmeye devam edin!"
+  },
+  {
+    "nl": "262. Ik kijk er naar uit!",
+    "tr": "Dört gözlebekliyorum."
+  },
+  {
+    "nl": "263. Wat heb je gezien?",
+    "tr": "Ne gördün?"
+  },
+  {
+    "nl": "264. Alles gebeurde zo snel ...",
+    "tr": "Herşey çok hızlı oldu."
+  },
+  {
+    "nl": "265. Telkens weer opnieuw",
+    "tr": "Tekrar tekrar"
+  },
+  {
+    "nl": "266. Line up!",
+    "tr": "Sıraya gir!"
+  },
+  {
+    "nl": "267. Mijn handen zijn vastgebonden!",
+    "tr": "Elim kolum bağlı!"
+  },
+  {
+    "nl": "268. Breek een been (het kwaad)!",
+    "tr": "Şeytanın bacağını kır!"
+  },
+  {
+    "nl": "269. Uit het niets!",
+    "tr": "Durup dururken."
+  },
+  {
+    "nl": "270. Het was helemaal uit de lucht vallen.",
+    "tr": "Tamamen beklenmedikti"
+  },
+  {
+    "nl": "271. Wat een prachtige jurk",
+    "tr": "what a beautiful dress"
+  },
+  {
+    "nl": "alstublieft",
+    "tr": "lütfen, buyrun (resmi)"
+  },
+  {
+    "nl": "alsjeblieft",
+    "tr": "lütfen, buyrun (gayriresmi)"
+  },
+  {
+    "nl": "Deze brief is van jou! Alsjeblieft.",
+    "tr": "Bu mektup senin! Buyrun."
+  },
+  {
+    "nl": "synoniemen",
+    "tr": "eş anlamlı"
+  },
+  {
+    "nl": "afkorting",
+    "tr": "resmi kısaltma"
+  },
+  {
+    "nl": "Deze brief is van jou! Alsjeblief",
+    "tr": "Bu mektup senin! Buyrun"
+  },
+  {
+    "nl": "Alsjeblieft, de krant van vandaag!",
+    "tr": "Buyrun, bugünün gazetesi!"
+  },
+  {
+    "nl": "Wil je suiker in de thee? Alsjeblieft.",
+    "tr": "Çayda şeker istermisin? Lütfen."
+  },
+  {
+    "nl": "Mevrouw, wilt u alstublieft het raam dichtdoen?",
+    "tr": "Hanımefendi, camı kapatmak ister misiniz?"
+  },
+  {
+    "nl": "Stilte, alstublieft!",
+    "tr": "Sessizlik, lütfen!"
+  },
+  {
+    "nl": "Een kopje koffie, alsjeblieft.",
+    "tr": "Bir fincan kahve, lütfen."
+  },
+  {
+    "nl": "Alstublieft, ga weg, alstublieft!",
+    "tr": "Lütfen, git, lütfen!"
+  },
+  {
+    "nl": "Alstublieft doe iets!",
+    "tr": "Lütfen bir şey yap!"
+  },
+  {
+    "nl": "Luister alsjeblieft goed!",
+    "tr": "Lütfen dikkatlice/iyi dinle!"
+  },
+  {
+    "nl": "Alstublieft, hoor mij!",
+    "tr": "Lütfen, beni duy!"
+  },
+  {
+    "nl": "Alstublieft laat me vrij, alstublieft!",
+    "tr": "Lütfen beni rahat bırak, lütfen!"
+  },
+  {
+    "nl": "Geeft u me alstublieft uw telefoonummer.",
+    "tr": "Bana telefon numaranızı verin lütfen."
+  },
+  {
+    "nl": "Dit is mijn telefoonnummer, alstublieft.",
+    "tr": "Bu benim telefon numaram, buyrun."
+  },
+  {
+    "nl": "Alstublieft, luister naar me!",
+    "tr": "Lütfen, beni dinle!"
+  },
+  {
+    "nl": "Een ogenblikje geduld, alstublieft.",
+    "tr": "Bir saniye lütfen/Biraz sabır lütfen"
+  },
+  {
+    "nl": "Een ogenblikje alstublieft.",
+    "tr": "Bir saniye lütfen."
+  },
+  {
+    "nl": "Wacht even, alstublieft.",
+    "tr": "Biraz bekleyin, lütfen."
+  },
+  {
+    "nl": "Vergeet alstublieft Tsjernobyl niet!",
+    "tr": "Lütfen Çernobil'i unutma!"
+  },
+  {
+    "nl": "Kunt u mij dit precies uitleggen, alstubliesft?",
+    "tr": "Bunu bana tam olarak açıklar mısınız lütfen?"
+  },
+  {
+    "nl": "Deze kant op alstublieft.",
+    "tr": "Bu taraftan lütfen."
+  },
+  {
+    "nl": "Word je alstublieft wakker!",
+    "tr": "Lütfen uyan!"
+  },
+  {
+    "nl": "Alsjeblieft, geven jullie me nog een kans!",
+    "tr": "Lütfen bana bir şans daha verin!"
+  },
+  {
+    "nl": "Neem je alstublieft een initiatief!",
+    "tr": "Lütfen insiyatif al!"
+  },
+  {
+    "nl": "Een momentje alstublieft!",
+    "tr": "Bir saniye lütfen!"
+  },
+  {
+    "nl": "Niet aanraken, alstublieft!",
+    "tr": "Dokunma, lütfen!"
+  },
+  {
+    "nl": "Alstublieft stop!",
+    "tr": "Dur lütfen!"
+  },
+  {
+    "nl": "Rustig aan alstublieft!",
+    "tr": "Sakin ol lütfen!"
+  },
+  {
+    "nl": "Ik kwam vorige week",
+    "tr": "Ben geçen hafta geldim."
+  },
+  {
+    "nl": "Hoe gaat het?",
+    "tr": "Nasılsın?"
+  },
+  {
+    "nl": "Wat kost het?",
+    "tr": "Bu kaç para?"
+  },
+  {
+    "nl": "Hoe is het weer?",
+    "tr": "Hava nasıl?"
+  },
+  {
+    "nl": "Hoe haat het met uw familie?",
+    "tr": "Senin ailen nasıl?"
+  },
+  {
+    "nl": "Hoe gaat het met uw kinderen?",
+    "tr": "Senin çocukların nasıl?"
+  },
+  {
+    "nl": "boodschappen doen",
+    "tr": "Alışveriş yapmak"
+  },
+  {
+    "nl": "Is het fris?",
+    "tr": "O Taze mi?"
+  },
+  {
+    "nl": "Het is te duur.",
+    "tr": "O pahalı."
+  },
+  {
+    "nl": "Het is muf",
+    "tr": "O bayat."
+  },
+  {
+    "nl": "Dit is goedkoop.",
+    "tr": "O ucuz."
+  },
+  {
+    "nl": "Maak geen lawaai.",
+    "tr": "Gürültü yapma"
+  },
+  {
+    "nl": "Niet irriteren me.",
+    "tr": "Beni sinirlendirme."
+  },
+  {
+    "nl": "Niet uitschakelen van de TV.",
+    "tr": "Televizyonu kapatma."
+  },
+  {
+    "nl": "Maak niet puinhoop.",
+    "tr": "Karışıklık yapma."
+  },
+  {
+    "nl": "Niet vechten of schreeuwen.",
+    "tr": "Kavga etmeyin veya çığlık atmayın."
+  },
+  {
+    "nl": "Ik ben blij",
+    "tr": "Ben mutluyum."
+  },
+  {
+    "nl": "Ik ben verdrietig.",
+    "tr": "Ben üzgünüm."
+  },
+  {
+    "nl": "Ik ben opgewonden",
+    "tr": "Ben tedirginim."
+  },
+  {
+    "nl": "Ik ben energiek.",
+    "tr": "Ben enerjiliyim."
+  },
+  {
+    "nl": "Ik ben eenzaam.",
+    "tr": "Ben yalnızım."
+  },
+  {
+    "nl": "Praten met de winkelier",
+    "tr": "Dükkancı ile konuşmak"
+  },
+  {
+    "nl": "Ik wil wat vlees en groenten te kopen.",
+    "tr": "Ben biraz et ve sebze satın almak istiyorum."
+  },
+  {
+    "nl": "Ik wil wat boter en brood voor het ontbijt te kopen.",
+    "tr": "Ben kahvaltı için biraz tereyağı ve ekmek almak istiyorum."
+  },
+  {
+    "nl": "Heb je gehakt vlees?",
+    "tr": "Sizin kıymanız var mı?"
+  },
+  {
+    "nl": "Geef me een kilo.",
+    "tr": "Bir kilo ver."
+  },
+  {
+    "nl": "Kunt u mij helpen?",
+    "tr": "Bana yardım edebilir misin?"
+  },
+  {
+    "nl": "Ik ben op zoek naar olie.",
+    "tr": "Ben yağ arıyorum."
+  },
+  {
+    "nl": "Bedankt voor de informatie",
+    "tr": "Bilgi için teşekkür ederim"
+  },
+  {
+    "nl": "Accepteert u creditcards?",
+    "tr": "Kredi kartını kabul ediyor musunuz?"
+  },
+  {
+    "nl": "Bedankt voor uw hulp.",
+    "tr": "Yardımınız için teşekkür ederim."
+  }
+]

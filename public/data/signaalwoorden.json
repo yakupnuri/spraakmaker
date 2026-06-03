@@ -1,0 +1,2152 @@
+[
+  {
+    "category": "Opsomming",
+    "category_tr": "Listeleme",
+    "words": [
+      {
+        "nl": "En",
+        "tr": "Ve"
+      },
+      {
+        "nl": "Rachid ontvangt morgen de gasten en Caroline presenteert het project.",
+        "tr": "Rachid yarın konuklarını ağırlayacak ve Caroline projeyi sunacak."
+      },
+      {
+        "nl": "Ook",
+        "tr": "Ayrıca"
+      },
+      {
+        "nl": "Als je op vakantie gaat, moet je zorgen dat je geschikte kleding meeneemt.",
+        "tr": "Tatile çıkarken yanınıza uygun kıyafetler aldığınızdan emin olun."
+      },
+      {
+        "nl": "Ook moet je controleren of je paspoort nog geldig is.",
+        "tr": "Pasaportunuzun hala geçerli olup olmadığını da kontrol etmelisiniz."
+      },
+      {
+        "nl": "Tevens",
+        "tr": "Ayrıca"
+      },
+      {
+        "nl": "Mijn collega Henk is verantwoordelijk voor de planning van de trainingen.",
+        "tr": "Meslektaşım Henk eğitimlerin planlanmasından sorumlu."
+      },
+      {
+        "nl": "Tevens is hij contactpersoon voor de docenten.",
+        "tr": "Kendisi aynı zamanda öğretmenler için irtibat kişisidir."
+      },
+      {
+        "nl": "Evenals",
+        "tr": "Bunun yanı sıra"
+      },
+      {
+        "nl": "Het kabinet heeft bezuinigingen aangekondigd in het onderwijs, evenals in de zorg.",
+        "tr": "Kabine, sağlık hizmetlerinin yanı sıra eğitim alanında da kesintilere gidileceğini açıkladı."
+      },
+      {
+        "nl": "Evenmin",
+        "tr": "Ne de"
+      },
+      {
+        "nl": "Mijn vader spreekt geen Engels en min moeder evenmin.",
+        "tr": "Babam İngilizce bilmiyor, eksi annem de bilmiyor."
+      },
+      {
+        "nl": "Bovendien",
+        "tr": "Ayrıca"
+      },
+      {
+        "nl": "Kinderen zouden meer buiten moeten spelen. \r\nHet is goed voor hun gezondheid omdat ze veel bewegen. \r\nBovendien is het goed voor hun sociale ontwikkeling.",
+        "tr": "Çocuklar dışarıda daha fazla oynamalıdır. \r\nBu onların sağlığı için iyidir çünkü çok fazla egzersiz yaparlar. \r\nDahası, sosyal gelişimleri için de iyidir."
+      },
+      {
+        "nl": "Daarnaast",
+        "tr": "Ek olarak"
+      },
+      {
+        "nl": "Alice heft problemen met het schrijven van brieven. \r\nZe maakt vaak fouten in de woordvolgorde. \r\nDaarnaast is haar woordenschat beperkt, waardoor ze vaak dezelfde woorden gebruikt.",
+        "tr": "Alice'in mektup yazmakta sorunları var. \r\nKelime sıralamasında sık sık hatalar yapıyor. \r\nAyrıca kelime dağarcığı sınırlı olduğundan sık sık aynı kelimeleri kullanıyor."
+      },
+      {
+        "nl": "ten eerste... ten tweede...",
+        "tr": "ilk olarak... ikinci olarak..."
+      },
+      {
+        "nl": "Wilt u zich inschrijven voor een taalcursus? Ten eerste moet u een instaptoets maken, ten tweede moet u kijken op welke dagen de cursussen worden aangeboden.",
+        "tr": "Bir dil kursuna kayıt olmak ister misiniz? İlk olarak, bir giriş sınavına girmeniz gerekir; ikinci olarak, kursların hangi günlerde sunulduğunu kontrol etmeniz gerekir."
+      },
+      {
+        "nl": "Tot slot",
+        "tr": "Son olarak"
+      },
+      {
+        "nl": "Tot slot kunt u zich online voor de cursus inschrijven.",
+        "tr": "Son olarak, kurs için online kayıt yaptırabilirsiniz."
+      }
+    ]
+  },
+  {
+    "category": "Tijd",
+    "category_tr": "Zaman",
+    "words": [
+      {
+        "nl": "Eerst",
+        "tr": "Birinci"
+      },
+      {
+        "nl": "Eerst neem je de bus naar het station.",
+        "tr": "Önce otobüse binip istasyona gidiyorsunuz."
+      },
+      {
+        "nl": "Dan",
+        "tr": "Sonra"
+      },
+      {
+        "nl": "Dan neem je de trein naar Amsterdam Central.",
+        "tr": "Sonra Amsterdam Merkez'e giden trene binersiniz."
+      },
+      {
+        "nl": "Daarna",
+        "tr": "Sonra da"
+      },
+      {
+        "nl": "Daarna neem je de tram naar het Museumplein.",
+        "tr": "Sonra tramvayla Museumplein'a gidersiniz."
+      },
+      {
+        "nl": "Tot slot",
+        "tr": "Sonunda"
+      },
+      {
+        "nl": "Tot slot loop je naar het Rijksmuseum.",
+        "tr": "Son olarak, Rijksmuseum'a yürüyorsunuz."
+      },
+      {
+        "nl": "Toen",
+        "tr": "Ne zaman"
+      },
+      {
+        "nl": "Min oma overleed toen ik negen jaar was. Toen was ik erg verdrietig.",
+        "tr": "Büyükannem ben dokuz yaşındayken öldü. O zaman çok üzgündüm."
+      },
+      {
+        "nl": "Vroeger",
+        "tr": "Önce"
+      },
+      {
+        "nl": "Vroeger woonden we in een dorp.",
+        "tr": "Eskiden bir köyde yaşıyorduk."
+      },
+      {
+        "nl": "Voordat",
+        "tr": "Daha önce"
+      },
+      {
+        "nl": "Voordat Willem gaat slapen, leest hij altijd een boek.",
+        "tr": "Willem uyumadan önce her zaman bir kitap okur."
+      },
+      {
+        "nl": "Alvorens",
+        "tr": "Daha önce"
+      },
+      {
+        "nl": "Alvorens het formulier op te sturen, dient u her te ondertekenen.",
+        "tr": "Formu göndermeden önce lütfen imzalayın."
+      },
+      {
+        "nl": "Nadat",
+        "tr": "Sonra"
+      },
+      {
+        "nl": "Nadat ik heb gedoucht, ga ik ontbijten.",
+        "tr": "Duş aldıktan sonra kahvaltı yapıyorum."
+      },
+      {
+        "nl": "Terwijl",
+        "tr": "O sırada"
+      },
+      {
+        "nl": "Terwijl de docent de grammatica uitlegt, maken de studenten aantekeningen.",
+        "tr": "Öğretmen dilbilgisini açıklarken öğrenciler not alır."
+      }
+    ]
+  },
+  {
+    "category": "Tegenstelling",
+    "category_tr": "Karşıt Görüş",
+    "words": [
+      {
+        "nl": "Maar",
+        "tr": "Ama"
+      },
+      {
+        "nl": "We willen deze zomer graag op vakantie gaan, maar ik heb net een nieuwe baan. \r\nWe weten dus nog niet of we op vakantie kunnen.",
+        "tr": "Bu yaz tatile çıkmak istiyoruz ama ben yeni bir işe girdim. \r\nBu yüzden henüz tatile çıkıp çıkamayacağımızı bilmiyoruz."
+      },
+      {
+        "nl": "Echter",
+        "tr": "Ancak"
+      },
+      {
+        "nl": "Peter had zich op het examen voorbereid. \r\nHij is echter gezakt en moet binnenkort het herexamen maken.",
+        "tr": "Peter sınava hazırlanıyordu. \r\nAncak, başarısız oldu ve yakında yeniden sınava girmesi gerekiyor."
+      },
+      {
+        "nl": "Toch",
+        "tr": "Hala"
+      },
+      {
+        "nl": "Heleen voelde zich vanochtend ziek. \r\nToch is ze naar haar werk gegaan.",
+        "tr": "Heleen bu sabah kendini hasta hissetti. \r\nYine de işe gitti."
+      },
+      {
+        "nl": "Ondanks",
+        "tr": "Buna rağmen"
+      },
+      {
+        "nl": "Ondanks het slechte weer werd het popfestival druk bezocht.",
+        "tr": "Kötü hava koşullarına rağmen pop festivaline katılım yüksekti."
+      },
+      {
+        "nl": "Desondanks",
+        "tr": "Bununla birlikte"
+      },
+      {
+        "nl": "Het was slecht weer tijdens het popfestival.\r\nDesondanks werd het druk bezocht.",
+        "tr": "Pop festivali sırasında hava kötüydü. \r\nBuna rağmen kalabalıktı."
+      },
+      {
+        "nl": "Niettemin",
+        "tr": "Yine de"
+      },
+      {
+        "nl": "Vandaag ligt er sneeuw. \r\nNiettemin gaan de meeste mensen gewoon op de fers naar hun werk.",
+        "tr": "Bugün kar var. \r\nBuna rağmen, çoğu insan sadece işe gidiyor."
+      },
+      {
+        "nl": "Enerzijds ... Anderzijds ...",
+        "tr": "Bir yandan... Diğer taraftan..."
+      },
+      {
+        "nl": "Enerzijds vind ik min huis heel prettig en groot genoeg voor mijn gezin.",
+        "tr": "Bir yandan, evimi çok güzel ve ailem için yeterince büyük buluyorum."
+      },
+      {
+        "nl": "Anderzijds is het erg oud en kost het onderhoud ons veel geld.",
+        "tr": "Öte yandan, çok eski ve bakımı bize çok pahalıya mal oluyor."
+      },
+      {
+        "nl": "Aan de ene kant ... Aan de andere kant ....",
+        "tr": "Bir yandan ... Diğer yandan ...."
+      },
+      {
+        "nl": "Aan de ene kant is naar een ander land verhuizen moeilijk omdat je je familie en vrienden achterlaat.\r\nAan de andere kant ontmoet je veel nieuwe en interessante mensen.",
+        "tr": "Bir yandan başka bir ülkeye taşınmak zor çünkü ailenizi ve arkadaşlarınızı geride bırakıyorsunuz.\r\nÖte yandan, pek çok yeni ve ilginç insanla tanışıyorsunuz."
+      },
+      {
+        "nl": "In tegenstelling tot",
+        "tr": "Aksine"
+      },
+      {
+        "nl": "In tegenstelling tot eerdere berichten wordt er op dit moment nog niet over een faillissement van het bedrijf gesproken.",
+        "tr": "Önceki raporların aksine, şu anda şirket için iflastan söz edilmiyor."
+      },
+      {
+        "nl": "Oorzaak/ Gevolg",
+        "tr": "Neden/ Etki"
+      },
+      {
+        "nl": "Doordat",
+        "tr": "Çünkü"
+      },
+      {
+        "nl": "Doordat er een ongeluk was gebeurd, werd her kruispunt afgesloten.",
+        "tr": "Bir kaza olduğu için kavşağı kapalıydı."
+      },
+      {
+        "nl": "Daardoor",
+        "tr": "Sonuç olarak"
+      },
+      {
+        "nl": "Mirjam heeft haar been gebroken. \r\nDaardoor kan ze op het moment niet fietsen.",
+        "tr": "Mirjam bacağını kırdı. \r\nSonuç olarak şu anda bisiklete binemiyor."
+      },
+      {
+        "nl": "Wegens",
+        "tr": "Çünkü"
+      },
+      {
+        "nl": "Wegens de slechte resultaten bi het laatste examen zijn er extra lessen ingepland.",
+        "tr": "Son sınavda alınan kötü sonuçlar nedeniyle ek dersler planlanmıştır."
+      },
+      {
+        "nl": "Vanwege",
+        "tr": "Nedeniyle"
+      },
+      {
+        "nl": "Vanwege het slechte weer kan het straatfeest helaas niet doorgaan.",
+        "tr": "Kötü hava koşulları nedeniyle sokak partisi ne yazık ki gerçekleştirilemiyor."
+      },
+      {
+        "nl": "Als gevolg daarvan",
+        "tr": "Sonuç olarak"
+      },
+      {
+        "nl": "De economische crisis duurt langer dan verwacht Als gevolg daarvan blijft de werkloosheid stijgen.",
+        "tr": "Ekonomik kriz beklenenden daha uzun sürüyor ve bunun sonucunda işsizlik artmaya devam ediyor."
+      }
+    ]
+  },
+  {
+    "category": "Toelichting/ voorbeeld",
+    "category_tr": "Açıklama/örnek",
+    "words": [
+      {
+        "nl": "Bijvoorbeeld",
+        "tr": "Örneğin"
+      },
+      {
+        "nl": "Ik vind Nederlanders sportieve mensen. \r\nZe fietsen bijvoorbeeld veel en ik zie in het weekend veel mensen op sportvelden.",
+        "tr": "Hollandalıların sportif insanlar olduğunu düşünüyorum. \r\nÖrneğin çok fazla bisiklet sürüyorlar ve hafta sonları spor sahalarında birçok insan görüyorum."
+      },
+      {
+        "nl": "Zoals",
+        "tr": "Mesela"
+      },
+      {
+        "nl": "We eten veel verschillende soorten groenten, zoals aubergine, tomaat, bloemkool en komkommer.",
+        "tr": "Patlıcan, domates, karnabahar ve salatalık gibi birçok farklı türde sebze yiyoruz."
+      },
+      {
+        "nl": "Zo",
+        "tr": "Bu yüzden"
+      },
+      {
+        "nl": "In het weekend doet Carlo niet veel. \r\nZe slaapt hij op zaterdag en zondag uit en kookt hij meestal niet.",
+        "tr": "Hafta sonları Carlo pek bir şey yapmaz. \r\nCumartesi ve Pazar günleri dışarıda uyuyor ve genellikle yemek yapmıyor."
+      }
+    ]
+  },
+  {
+    "category": "Voorwaarde",
+    "category_tr": "Durum",
+    "words": [
+      {
+        "nl": "Als",
+        "tr": "As"
+      },
+      {
+        "nl": "Als u zich over vier dagen nier beter voelt, moet u een nieuwe afspraak maken.",
+        "tr": "Dört gün içinde böbreğinizi daha iyi hissederseniz, bir randevu daha almalısınız."
+      },
+      {
+        "nl": "Indien",
+        "tr": "Eğer"
+      },
+      {
+        "nl": "Indien u niet binnen tien dagen betaalt, blokkeren we uw abonnement.",
+        "tr": "On gün içinde ödeme yapmazsanız, aboneliğinizi bloke edeceğiz."
+      },
+      {
+        "nl": "Op voorwaarde dat",
+        "tr": "Şu şartla ki"
+      },
+      {
+        "nl": "U kunt zich inschrijven voor de sportacademie, op voorwaarde dat u medisch wordt goedgekeurd.",
+        "tr": "Tıbbi olarak onaylanmış olmanız koşuluyla spor akademisine kayıt olabilirsiniz."
+      },
+      {
+        "nl": "Mits",
+        "tr": "Sağlandı"
+      },
+      {
+        "nl": "U komt in aanmerking voor een vergoeding, mits u aanvullend verzekerd bent.",
+        "tr": "Ek sigortanız olması koşuluyla geri ödeme almaya hak kazanırsınız."
+      },
+      {
+        "nl": "Tenzij",
+        "tr": "Sağlanan"
+      },
+      {
+        "nl": "We gaan morgen picknicken in het park, tenzij het gaat regenen.",
+        "tr": "Yağmur yağmazsa yarın parkta piknik yapacağız."
+      }
+    ]
+  },
+  {
+    "category": "doel / middel",
+    "category_tr": "son / araçlar",
+    "words": [
+      {
+        "nl": "om... te",
+        "tr": "için... için"
+      },
+      {
+        "nl": "Ik ga vanmiddag naar de mark om groenten is kopen.",
+        "tr": "Bu öğleden sonra sebze almak için markete gideceğim."
+      },
+      {
+        "nl": "Opdat",
+        "tr": "Bu yüzden"
+      },
+      {
+        "nl": "Ze schrijft haar afspraken altijd in haar agenda opdat ze ze niet vergeet.",
+        "tr": "Randevularını unutmamak için her zaman günlüğüne yazar."
+      },
+      {
+        "nl": "Door... te",
+        "tr": "Tarafından... için"
+      },
+      {
+        "nl": "Door veel te oefenen, word je Nederlands steeds beter.",
+        "tr": "Çok pratik yaparak Hollandacanız gittikçe daha iyi hale gelir."
+      },
+      {
+        "nl": "Door middel van",
+        "tr": "Bu sayede"
+      },
+      {
+        "nl": "Door middel van een kleine test controleert de docent of de cursisten de stof goed beheersen.",
+        "tr": "Öğretmen, küçük bir test aracılığıyla öğrencilerin materyali iyi öğrenip öğrenmediklerini kontrol eder."
+      },
+      {
+        "nl": "Daarmee",
+        "tr": "Bununla birlikte"
+      },
+      {
+        "nl": "Dit is een groot, gekarteld mes. \r\nDaarmee kan je bijvoorbeeld stokbrood snijden.",
+        "tr": "Bu büyük, tırtıklı bir bıçaktır. \r\nÖrneğin bununla Fransız ekmeği kesebilirsiniz."
+      }
+    ]
+  },
+  {
+    "category": "Samenvatting",
+    "category_tr": "Özet",
+    "words": [
+      {
+        "nl": "Kortom",
+        "tr": "Kısacası"
+      },
+      {
+        "nl": "Kortom, er moet nog veel gebeuren om het probleem op te lossen. al met al",
+        "tr": "Kısacası, sorunu çözmek için yapılması gereken çok şey var. sonuç olarak"
+      },
+      {
+        "nl": "Al met al was her een gezellig feest.",
+        "tr": "Sonuç olarak, keyifli bir partiydi."
+      }
+    ]
+  },
+  {
+    "category": "Conclusie",
+    "category_tr": "Sonuç",
+    "words": [
+      {
+        "nl": "Dus",
+        "tr": "Bu yüzden"
+      },
+      {
+        "nl": "Her onderzoek bewijst dus dat her nieuwe medicijn positieve effecten heeft.",
+        "tr": "Böylece araştırması, yeni ilacının olumlu etkileri olduğunu kanıtlıyor."
+      },
+      {
+        "nl": "Daarom",
+        "tr": "Bu nedenle"
+      },
+      {
+        "nl": "We weten niet precies wat de gevolgen zin op de langere termijn. \r\nDaarom is er nog meer onderzoek nodig.",
+        "tr": "Uzun vadede etkilerinin ne olduğunu tam olarak bilmiyoruz. \r\nBu nedenle daha fazla araştırmaya ihtiyaç var."
+      },
+      {
+        "nl": "Dat houdt in",
+        "tr": "Bu şu anlama geliyor"
+      },
+      {
+        "nl": "We willen een goed beeld krijgen van de werking van dit dieet. \r\nDat houdt in dat u een week lang een dagboek moet bijhouden over wat u eet.",
+        "tr": "Bu diyetin nasıl işlediğine dair iyi bir resim elde etmek istiyoruz. \r\nBu, bir hafta boyunca yediklerinizin günlüğünü tutmayı içerir."
+      }
+    ]
+  },
+  {
+    "category": "reden / verklaring",
+    "category_tr": "neden / açıklama",
+    "words": [
+      {
+        "nl": "Daarom",
+        "tr": "Bu nedenle"
+      },
+      {
+        "nl": "Her is erg koud vandaag. Daarom dragen de kinderen een warme muts.",
+        "tr": "Bugün çok soğuk. Bu yüzden çocuklar sıcak tutan şapkalar takıyorlar."
+      },
+      {
+        "nl": "Want",
+        "tr": "Çünkü"
+      },
+      {
+        "nl": "Ellen kwam vandaag te laat, want ze had zich verslapen.",
+        "tr": "Ellen bugün geç geldi çünkü uyuyakalmıştı."
+      },
+      {
+        "nl": "Omdat",
+        "tr": "Çünkü"
+      },
+      {
+        "nl": "Vandaag was Simone niet aanwezig omdat ze een afspraak bij de tandarts had.",
+        "tr": "Simone dişçi randevusu olduğu için bugün burada değildi."
+      },
+      {
+        "nl": "Aangezien",
+        "tr": "O zamandan beri"
+      },
+      {
+        "nl": "Aangezien u zich te laat hebt ingeschreven, kunt u helaas niet aan de cursus deelnemen.",
+        "tr": "Geç kayıt yaptırdığınız için maalesef kursa katılamıyorsunuz."
+      },
+      {
+        "nl": "Dus",
+        "tr": "Bu yüzden"
+      },
+      {
+        "nl": "Morgen ben ik jarig, dus ga ik min collega's trakteren.",
+        "tr": "Yarın benim doğum günüm, bu yüzden eksi meslektaşlarıma ikramda bulunacağım."
+      },
+      {
+        "nl": "Namelijk",
+        "tr": "Şöyle ki"
+      },
+      {
+        "nl": "Rachel mag nog niet stemmen. \r\nZe is namelik nog geen achttien jaar.",
+        "tr": "Rachel henüz oy kullanamıyor. \r\nYani, henüz on sekiz yaşında değil."
+      },
+      {
+        "nl": "Immers",
+        "tr": "Sonuçta"
+      },
+      {
+        "nl": "Michael let goed op wat hij eet. \r\nHij wil immers zo'n tien kilo afvallen.",
+        "tr": "Michael yediklerine çok dikkat ediyor. \r\nSonuçta, yaklaşık 10 kilo vermek istiyor."
+      },
+      {
+        "nl": "Net als",
+        "tr": "Gibi"
+      },
+      {
+        "nl": "Net als zijn vader is John gek op auto's.",
+        "tr": "Babası gibi John da arabaları seviyor."
+      },
+      {
+        "nl": "Zoals",
+        "tr": "Tıpkı babası gibi."
+      },
+      {
+        "nl": "Patricia maakt erwtensoep zoals ze dat van haar moeder heeft geleerd.",
+        "tr": "Patricia annesinden öğrendiği gibi bezelye çorbası yapıyor."
+      },
+      {
+        "nl": "Vergeleken met",
+        "tr": "Karşılaştırıldığında"
+      },
+      {
+        "nl": "Vergeleken met de Italiaanse keuken is de Nederlandse keuken niet 20 best.",
+        "tr": "İtalyan mutfağı ile karşılaştırıldığında, Hollanda mutfağı en iyi 20 mutfak arasında değildir."
+      },
+      {
+        "nl": "In vergelijking met",
+        "tr": "Karşılaştırıldığında"
+      },
+      {
+        "nl": "De huizenverkoop is weer verder gedaald in vergelijking met dezelfde periode een jaar geleden.",
+        "tr": "Konut satışları bir yıl öncesinin aynı dönemine kıyasla daha da düşmüştür."
+      }
+    ]
+  },
+  {
+    "category": "Statistische figuren beschrijven",
+    "category_tr": "2-İstatistiksel rakamlar açıklaması",
+    "words": [
+      {
+        "nl": "Vier statistische figuren",
+        "tr": "Dört istatistiksel gösterge"
+      },
+      {
+        "nl": "U kunt de volgende statistische figuren \r\ntegenkomen",
+        "tr": "Aşağıdaki istatistiki rakamlarla karşılaşabilirsiniz:"
+      },
+      {
+        "nl": "1- Voorbereiding",
+        "tr": "1- Hazırlık"
+      },
+      {
+        "nl": "Kijk naar de figuur.",
+        "tr": "Şekle bakın."
+      },
+      {
+        "nl": "Wat ziet u?",
+        "tr": "Ne görüyorsunuz?"
+      },
+      {
+        "nl": "Welke informatie wordt er gegeven?",
+        "tr": "Hangi bilgiler veriliyor?"
+      },
+      {
+        "nl": "Wat valt u op?",
+        "tr": "Ne fark ettiniz?"
+      },
+      {
+        "nl": "Welke conclusie kunt u trekken?",
+        "tr": "Nasıl bir sonuç çıkarabilirsiniz?"
+      },
+      {
+        "nl": "2- Inleiding",
+        "tr": "2- Giriş"
+      },
+      {
+        "nl": "In de inleiding introduceert u de statistische figuur.",
+        "tr": "Giriş bölümünde, istatistiksel şekli tanıtırsınız."
+      },
+      {
+        "nl": "U kunt eventueel ook de bron vermelden.",
+        "tr": "Gerekirse kaynaktan da bahsedebilirsiniz."
+      },
+      {
+        "nl": "Wat is het onderwerp van de figuur?",
+        "tr": "Şeklin konusu nedir?"
+      },
+      {
+        "nl": "Wat laat de figuur zien?",
+        "tr": "Şekil neyi gösteriyor?"
+      },
+      {
+        "nl": "De grafiek laat ... zien.",
+        "tr": "Grafik gösteriyor ki ... gösterir."
+      },
+      {
+        "nl": "In het diagram is te zien dat...",
+        "tr": "Diyagram gösteriyor ki ...."
+      },
+      {
+        "nl": "De tabel geeft ... weer.",
+        "tr": "Tablo gösteriyor ki ... gösterir."
+      },
+      {
+        "nl": "In de grafiek wordt …. weergegeven.",
+        "tr": "Grafik gösteriyor ki ....."
+      },
+      {
+        "nl": "De tabel is afkomstig van (naam organisatie).",
+        "tr": "Tablo (kuruluşun adı)'ndan alınmıştır."
+      },
+      {
+        "nl": "De grafiek is afkomstig uit een publicatie/ een rapport van (naam organisatie).",
+        "tr": "Grafik, (kuruluşun adı) tarafından hazırlanan bir yayın/rapordan alınmıştır."
+      },
+      {
+        "nl": "3- Kern",
+        "tr": "3- Çekirdek"
+      },
+      {
+        "nl": "In de kern geeft u meer gedetailleerde informatie, maar alleen de opvallende zaken.",
+        "tr": "Çekirdekte, daha ayrıntılı bilgi vereceksiniz, ancak yalnızca göze çarpan konuları."
+      },
+      {
+        "nl": "Het is dus niet de bedoeling dat u alle informatie uit de figuur gaat opsommen.",
+        "tr": "Yani niyetiniz şekildeki tüm bilgileri listelemek değil."
+      },
+      {
+        "nl": "Wat blijkt wit de figuur?",
+        "tr": "Beyaz şekil neyi gösteriyor?"
+      },
+      {
+        "nl": "Volgens de grafiek/ de tabel/ het diagram is....",
+        "tr": "Grafiğe/tabloya/diyagrama göre...."
+      },
+      {
+        "nl": "Uit de grafiek/ de tabel/ het diagram blijkt dat...",
+        "tr": "Grafikten/ tablodan/ diyagramdan şunu görebiliriz..."
+      },
+      {
+        "nl": "Uit de grafiek kunnen we opmaken/ concluderen dat...",
+        "tr": "Grafikten şunu görebiliriz/sonuca varabiliriz ..."
+      },
+      {
+        "nl": "A neemt toe, terwijl B afneemt.",
+        "tr": "A artarken B azalır."
+      },
+      {
+        "nl": "A stijgt, terwijl B daalt.",
+        "tr": "A artarken B azalır."
+      },
+      {
+        "nl": "…blijft gelijk…",
+        "tr": "...aynı kaldığını..."
+      },
+      {
+        "nl": "We zien een daling/ afname/ stijging / toename van...",
+        "tr": "Aşağıdakilerde bir azalma/azalma/artış/artış görüyoruz..."
+      },
+      {
+        "nl": "het aantal... (dat + bijzin)",
+        "tr": "sayısında... (o + cümle)"
+      },
+      {
+        "nl": "het percentage.. (dat + bijzin)",
+        "tr": "yüzde... (o + yan cümle)"
+      },
+      {
+        "nl": "de hoeveelheid.. (die + bijzin)",
+        "tr": "miktar.... (o + alt cümle)"
+      },
+      {
+        "nl": "Op de eerste plaats staat…,",
+        "tr": "İlk sırada ...,"
+      },
+      {
+        "nl": "(direct) gevolgd door…,",
+        "tr": "(doğrudan) ardından...,"
+      },
+      {
+        "nl": "daarna …,",
+        "tr": "sonra ..,"
+      },
+      {
+        "nl": "vervolgens …,",
+        "tr": "sonra ..,"
+      },
+      {
+        "nl": "tot slot ...",
+        "tr": "son olarak ..."
+      },
+      {
+        "nl": "4- Slot",
+        "tr": "4- Sonuç"
+      },
+      {
+        "nl": "Tot slot beschrijft u wat u is opgevallen, en trekt u een conclusie.",
+        "tr": "Son olarak, ne fark ettiğinizi açıklayın ve bir sonuç çıkarın."
+      },
+      {
+        "nl": "Wat valt u op?",
+        "tr": "Ne fark ettiniz?"
+      },
+      {
+        "nl": "Welke conclusie kunt u trekken?",
+        "tr": "Nasıl bir sonuç çıkarabilirsiniz?"
+      },
+      {
+        "nl": "Het verbaast me dat ...",
+        "tr": "Şaşırdım ..."
+      },
+      {
+        "nl": "In ben er verbaasd over dat …",
+        "tr": "Şaşırdım ki ..."
+      },
+      {
+        "nl": "Het valt me op dat ...",
+        "tr": "Şu gerçek beni şaşırttı ..."
+      },
+      {
+        "nl": "Ik vind het opvallend dat …",
+        "tr": "Şu gerçeğe şaşırdım ..."
+      },
+      {
+        "nl": "Je kan (dus) de conclusie trekken dat …",
+        "tr": "(Böylece) şu sonuca varabilirsiniz ..."
+      },
+      {
+        "nl": "Je kunt (dus) concluderen dat …",
+        "tr": "(Böylece) şu sonuca varabilirsiniz ..."
+      },
+      {
+        "nl": "Al met al kun je zeggen dat …",
+        "tr": "Sonuç olarak şunu söyleyebilirsiniz ki..."
+      },
+      {
+        "nl": "Het is duidelijk dat …",
+        "tr": "Açıktır ki ..."
+      },
+      {
+        "nl": "Kennelijk/ Blijkbaar (+ inversie) …",
+        "tr": "Açık / Belirgin (+ ters çevirme) ..."
+      },
+      {
+        "nl": "Dit staafdiagram geeft het percentage werklozen weer in landen van de eurozone in de jaren 2012 en 2013.",
+        "tr": "Bu çubuk grafik 2012 ve 2013 yıllarında Avro Bölgesi ülkelerindeki işsizlik oranını göstermektedir."
+      },
+      {
+        "nl": "In het diagram worden de percentages werklozen van maart 2012 vergeleken met die van maart 2013.",
+        "tr": "Grafik Mart 2012 ve Mart 2013 işsizlik oranlarını karşılaştırmaktadır."
+      },
+      {
+        "nl": "Het diagram is afkomstig uit een publicatie van Eurostat.",
+        "tr": "Grafik bir Eurostat yayınından alınmıştır."
+      },
+      {
+        "nl": "In dit diagram is te zien dat de werkloosheid in de meeste landen van de eurozone tussen maart 2012 en maart 2013 is gestegen, behalve in Duitsland en Ierland, waar het percentage werklozen zelfs licht gedaald is.",
+        "tr": "Bu grafik, Mart 2012 ile Mart 2013 arasında, işsizlik oranının aslında biraz düştüğü Almanya ve İrlanda dışında, çoğu Avro Bölgesi ülkesinde işsizliğin arttığını göstermektedir."
+      },
+      {
+        "nl": "In Zuid-Europese landen zoals Portugal, Cyprus en met name Spanje is het probleem het grootst.",
+        "tr": "Özellikle Portekiz, Kıbrıs ve İspanya gibi Güney Avrupa ülkeleri en büyük sorunu yaşamaktadır."
+      },
+      {
+        "nl": "Uitzondering hierop is Malta, war het percentage werklozen relatief laag is en nauwelijks is gestegen.",
+        "tr": "Bunun istisnası, işsizlik oranının nispeten düşük olduğu ve neredeyse hiç artmadığı Malta'dır."
+      },
+      {
+        "nl": "Het valt me op dat in Noord-Europese landen de werkloosheid structureel lager is dan in Zuid-Europese landen.",
+        "tr": "Kuzey Avrupa ülkelerinde işsizliğin yapısal olarak Güney Avrupa ülkelerinden daha düşük olduğu dikkatimi çekiyor."
+      },
+      {
+        "nl": "Dit kan een gevolg zijn van het feit dat deze landen de ontwikkeling van Duitsland meer volgen, en Duitsland staat bekend als een stabiele en sterke economie.",
+        "tr": "Bu durum, bu ülkelerin Almanya'nın gelişimini daha yakından takip etmelerinin ve Almanya'nın istikrarlı ve güçlü bir ekonomi olarak bilinmesinin bir sonucu olabilir."
+      }
+    ]
+  },
+  {
+    "category": "Formele brieven schrijven",
+    "category_tr": "Resmi mektup yazma",
+    "words": [
+      {
+        "nl": "Afzender",
+        "tr": "Gönderen"
+      },
+      {
+        "nl": "Geadresseerde eventueel aangevuld met t.a.v. ...",
+        "tr": "Alıcı, muhtemelen şununla desteklenir: ...\r\ngerekirse takviye t.a.v. ...."
+      },
+      {
+        "nl": "(ter attentie van ... + naam contactpersoon aan wie de brief gericht is)",
+        "tr": "(Dikkatine ... + mektubun gönderildiği irtibat kişisinin adı)"
+      },
+      {
+        "nl": "Betreft: ______________________ (thema)",
+        "tr": "Konu: ______________________ (tema)"
+      },
+      {
+        "nl": "Plaats + Datum",
+        "tr": "Yer + Tarih"
+      },
+      {
+        "nl": "Aanhef",
+        "tr": "Selamlama"
+      },
+      {
+        "nl": "Geachte heer... (achternaam)/ Geachte mevrouw .... (achternaam)",
+        "tr": "Sayın Bay... (soyadı)/ Sayın Bayan .... (soyadı)"
+      },
+      {
+        "nl": "Geachte heer/ mevrouw, (als de naam niet bekend is)",
+        "tr": "Sayın Bay/Bayan, (adınız bilinmiyorsa)"
+      },
+      {
+        "nl": "Afsluitende zinnen",
+        "tr": "Sonuç cümleleri"
+      },
+      {
+        "nl": "Ik hoop u hiermee voldoende geïnformeerd te hebben.",
+        "tr": "Umarım bu size yeterli bilgi vermiştir."
+      },
+      {
+        "nl": "Indien u meer informatie wenst, kunt u contact opnemen met…",
+        "tr": "Daha fazla bilgi almak isterseniz, lütfen ... ile iletişime geçin."
+      },
+      {
+        "nl": "Ik verzoek u om ...",
+        "tr": "Sizden ricam ..."
+      },
+      {
+        "nl": "Wilt u zo vriendelijk zijn om …",
+        "tr": "Rica etsem ..."
+      },
+      {
+        "nl": "In afwachting van uw antwoord, …",
+        "tr": "Cevabınızı bekliyorum, ..."
+      },
+      {
+        "nl": "Ik zie uw reactie tegemoet.",
+        "tr": "Cevabınızı dört gözle bekliyorum."
+      },
+      {
+        "nl": "Ik hoop binnenkort/ spoedig iets van u te horen.",
+        "tr": "En kısa zamanda sizden haber almayı umuyorum."
+      },
+      {
+        "nl": "Afsluiting",
+        "tr": "Kapanış"
+      },
+      {
+        "nl": "Met vriendelijke groet,",
+        "tr": "Saygılarımla,"
+      },
+      {
+        "nl": "Hoogachtend,",
+        "tr": "Saygılarımla,"
+      },
+      {
+        "nl": "Handtekening (indien nodig)",
+        "tr": "İmza (gerekliyse)"
+      },
+      {
+        "nl": "Vermelding bijlage(n) (indien van toepassing)",
+        "tr": "Ek(ler)in belirtilmesi (varsa)"
+      },
+      {
+        "nl": "Voorbeeld:",
+        "tr": "Örnek olarak:"
+      },
+      {
+        "nl": "Adriaan Zwarts",
+        "tr": "Adriaan Zwarts"
+      },
+      {
+        "nl": "Nassausingel 11",
+        "tr": "Nassausingel 11"
+      },
+      {
+        "nl": "2453 LB Leiderdorp",
+        "tr": "2453 LB Leiderdorp"
+      },
+      {
+        "nl": "a.zwarts@xs2all.nl",
+        "tr": "a.zwarts@xs2all.nl"
+      },
+      {
+        "nl": "Dutch Airlines t.a.v. klantenservice",
+        "tr": "Dutch Airlines Attn: Müşteri Hizmetleri"
+      },
+      {
+        "nl": "Halfweg 77",
+        "tr": "Halfweg 77"
+      },
+      {
+        "nl": "4453 PP Haarlemmermeer",
+        "tr": "4453 PP Haarlemmermeer"
+      },
+      {
+        "nl": "info@dutchairlines.nl",
+        "tr": "info@dutchairlines.nl"
+      },
+      {
+        "nl": "Betreft: Schade aan bagage",
+        "tr": "Konu Bagajda hasar"
+      },
+      {
+        "nl": "Leiderdorp, 28 augustus 2013",
+        "tr": "Leiderdorp, 28 Ağustos 2013"
+      },
+      {
+        "nl": "Geachte heer/ mevrouw,",
+        "tr": "Sayın Bay/Bayan,"
+      },
+      {
+        "nl": "Op 20 augustus 2013 heb ik met uw luchtvaartmaatschappij gevlogen van",
+        "tr": "20 Ağustos 2013 tarihinde havayolu şirketiniz ile"
+      },
+      {
+        "nl": "Rotterdam Airport naar Lissabon.",
+        "tr": "Rotterdam Havalimanı'ndan Lizbon'a."
+      },
+      {
+        "nl": "Mijn vluchtnummer was DA 2308.",
+        "tr": "Uçuş numaram DA 2308 idi."
+      },
+      {
+        "nl": "Bij aankomst op de luchthaven Lissabon bleek dat min bagage beschadigd was.",
+        "tr": "Lizbon Havalimanı'na vardığımda, min bagajın hasarlı olduğu ortaya çıktı."
+      },
+      {
+        "nl": "Ik heb toen direct een PIR-formulier ingevuld.",
+        "tr": "O zaman hemen bir PIR formu doldurdum."
+      },
+      {
+        "nl": "Een kopie van dit formuleer stuur ik u als bijlage mee.",
+        "tr": "Bu formun bir kopyasını ekliyorum."
+      },
+      {
+        "nl": "Ik stel u hierbij aansprakelijk voor de schade die ik door de beschadigde bagage heb opgelopen.",
+        "tr": "Hasarlı bagajın bana verdiği zarardan sizi sorumlu tutuyorum."
+      },
+      {
+        "nl": "Het slot van min koffer is kapot, waardoor ik min koffer niet meer kan afsluiten.",
+        "tr": "Min valizimin kilidi kırıldı, bu da min valizimi kilitlememi imkansız hale getirdi."
+      },
+      {
+        "nl": "Hierdoor is min koffer onbruikbaar geworden.",
+        "tr": "Bu durum valizimi kullanılamaz hale getirdi."
+      },
+      {
+        "nl": "In Lissabon heb ik een nieuwe koffer moeten kopen.",
+        "tr": "I Lizbon'da yeni bir valiz almak zorunda kaldım."
+      },
+      {
+        "nl": "Een kopie van de aankoopbon vindt u in de bijlage.",
+        "tr": "Satın alma makbuzunun bir kopyası ektedir."
+      },
+      {
+        "nl": "Ik verzoek u om mijn schadebedrag binnen vier weken op mijn rekeningnummer te storten.",
+        "tr": "Hasar tutarımın dört hafta içinde hesap numarama aktarılmasını talep ediyorum."
+      },
+      {
+        "nl": "Dit nummer is 44.45.12, ten name van Adrian Zwarts.",
+        "tr": "Bu numara Adrian Zwarts adına 44.45.12'dir."
+      },
+      {
+        "nl": "Met vriendelijke groet,",
+        "tr": "Saygılarımla,"
+      },
+      {
+        "nl": "Adriaan Zwarts",
+        "tr": "Adriaan Zwarts"
+      },
+      {
+        "nl": "Bijlagen:",
+        "tr": "Ekler:"
+      },
+      {
+        "nl": "kopie PIR-formulier",
+        "tr": "PIR formunun kopyası"
+      },
+      {
+        "nl": "kopie aankoopbon koffer",
+        "tr": "satın alma makbuzunun kopyası"
+      }
+    ]
+  },
+  {
+    "category": "Informele brieven en e",
+    "category_tr": "mails - Gayri resmi mektuplar ve e-postalar",
+    "words": [
+      {
+        "nl": "Informele brieven",
+        "tr": "Resmi olmayan mektuplar"
+      },
+      {
+        "nl": "Voor informele brieven en e-mails zin er nauwelijks formele regels.",
+        "tr": "Resmi olmayan mektuplar ve e-postalar için neredeyse hiç resmi kural yoktur."
+      },
+      {
+        "nl": "Mensen ontwikkelen daarin vaak hun eigen stijl binnen hun familie, groep vrienden en/of collega 's.",
+        "tr": "Bunlarda insanlar genellikle aile, arkadaş grubu ve/veya iş arkadaşları içinde kendi tarzlarını geliştirirler."
+      },
+      {
+        "nl": "Dit gelde nog sterker voor berichtjes op sociale media zoals Twitter en Facebook.",
+        "tr": "Bu durum Twitter ve Facebook gibi sosyal medyadaki mesajlar için daha da geçerlidir."
+      },
+      {
+        "nl": "De berichten daarop zijn meestal geschreven in informele stil, met korte zinnen en veel spreektaal.",
+        "tr": "Bu mecralardaki mesajlar genellikle kısa cümleler ve günlük konuşma diliyle gayri resmi bir tarzda yazılır."
+      },
+      {
+        "nl": "Hieronder vindt u een paar suggesties voor de aanhef en de afsluiting in informele brieven en e-mails.",
+        "tr": "Aşağıda resmi olmayan mektup ve e-postalarda selamlama ve kapanış için birkaç öneri yer almaktadır."
+      },
+      {
+        "nl": "Aanhef",
+        "tr": "Selamlama"
+      },
+      {
+        "nl": "Beste …,/ Lieve ...,",
+        "tr": "Sayın ...,/ Sayın ...,"
+      },
+      {
+        "nl": "In e-mails is de aanhef vaak nog informeler (zoals in spreektaal):",
+        "tr": "E-postalarda selamlama genellikle daha da gayri resmidir (konuşma dilinde olduğu gibi):"
+      },
+      {
+        "nl": "Hoi ...,/ Hallo ..., / Ha ...,",
+        "tr": "Selam ...,/ Merhaba ..., / Ha ...,"
+      },
+      {
+        "nl": "Afsluiting",
+        "tr": "Kapanış"
+      },
+      {
+        "nl": "Groet, ...",
+        "tr": "Selamlar, ..."
+      },
+      {
+        "nl": "Groeten van ...",
+        "tr": "Selamlar ..."
+      },
+      {
+        "nl": "Groetjes, ...",
+        "tr": "Selamlar, ..."
+      },
+      {
+        "nl": "(Veel) liefs, ...",
+        "tr": "(Çok) sevgiler, ..."
+      },
+      {
+        "nl": "Voorbeelden: Petra nodigt familie en vrienden it voor de 5oe verjaardag van haar man Tom.",
+        "tr": "Örnekler: Petra, kocası Tom'un 5oe doğum günü için ailesini ve arkadaşlarını davet eder."
+      },
+      {
+        "nl": "Utrecht, 19 augustus 2013",
+        "tr": "Utrecht, 19 Ağustos 2013"
+      },
+      {
+        "nl": "Lieve vrienden en familie,",
+        "tr": "Sevgili dostlarım ve ailem,"
+      },
+      {
+        "nl": "Zoals de meesten van jullie weten, wordt Tom volgende week zaterdag 5o jaar.",
+        "tr": "Çoğunuzun bildiği gibi, Tom önümüzdeki Cumartesi günü 50 yaşına giriyor."
+      },
+      {
+        "nl": "Hij is daar zelf niet zo blij mee en wil er niks aan doen, maar dat vind ik niet leuk.",
+        "tr": "Kendisi bu konuda pek mutlu değil ve bu konuda bir şey yapmak istemiyor, ama ben bundan hoşlanmıyorum."
+      },
+      {
+        "nl": "Je wordt maar een keer 50 in je leven, dus dat moet gevierd worden!",
+        "tr": "İnsan hayatında sadece bir kez 50 yaşına giriyor, bu yüzden kutlanmalı!"
+      },
+      {
+        "nl": "Ik heb daarom bedacht om een surpriseparty voor hem te organiseren.",
+        "tr": "Bu yüzden onun için sürpriz bir parti düzenlemeyi düşündüm."
+      },
+      {
+        "nl": "Daarvoor wil ik jullie graag uitnodigen.",
+        "tr": "Hepinizi davet etmek istiyorum."
+      },
+      {
+        "nl": "Het zou leuk zin als jullie allemaal tussen 17 en 18 uur verzamelen in ons huis.",
+        "tr": "Akşam 5 ile 6 arasında bizim evde toplanırsanız iyi olur."
+      },
+      {
+        "nl": "Dan zorg ik dat Tom even de deur uit is, ik verzin wel een smoes.",
+        "tr": "Tom'un evden çıktığından emin olacağım ve bir bahane bulacağım."
+      },
+      {
+        "nl": "Als hij dan rond 18.00 thuiskomt, treft hij een huis vol gasten aan (en hopelijk vindt hij dat een leuke verrassing, anders heb ik een probleem).",
+        "tr": "Akşam 6 gibi eve döndüğünde bir ev dolusu misafir bulacak (ve umarım bu sürpriz hoşuna gider, yoksa sorun yaşarım)."
+      },
+      {
+        "nl": "Laten jullie voor a.s. donderdag even weten of je komt, en met hoeveel? Hopelijk tot zaterdag!",
+        "tr": "Lütfen gelecek Perşembe'den önce gelip gelmeyeceğinizi ve kaç kişi geleceğinizi bana bildirin. Cumartesi günü görüşmek dileğiyle!"
+      },
+      {
+        "nl": "Veel liefs,",
+        "tr": "Sevgilerimle,"
+      },
+      {
+        "nl": "Petra",
+        "tr": "Petra"
+      },
+      {
+        "nl": "E-mails",
+        "tr": "E-postalar"
+      },
+      {
+        "nl": "e-mail aan vrienden",
+        "tr": "arkadaşlara e-posta"
+      },
+      {
+        "nl": "Van: Vivianne Bertens",
+        "tr": "Gönderen: Vivianne Bertens"
+      },
+      {
+        "nl": "Aan: Karin en Herman Jansen",
+        "tr": "Kime? Karin ve Herman Jansen"
+      },
+      {
+        "nl": "Onderwerp: bezoekje",
+        "tr": "Konu: ziyaret"
+      },
+      {
+        "nl": "Beste Karin en Herman,",
+        "tr": "Sevgili Karin ve Herman,"
+      },
+      {
+        "nl": "Komende woensdag moet ik voor mijn werk in Rotterdam zin, dan ben ik bij jullie in de buurt.",
+        "tr": "Önümüzdeki Çarşamba günü iş için Rotterdam'da olmam gerekiyor, yani sizin mahallede olacağım."
+      },
+      {
+        "nl": "Vinden jullie het leuk als ik na min afspraak even bij jullie langskom?",
+        "tr": "Randevumdan sonra sizi ziyaret etmemi ister misiniz?"
+      },
+      {
+        "nl": "We hebben elkaar al een tijdje niet gezien en het lijkt me gezellig om weer eens bij te kletsen.",
+        "tr": "Birbirimizi bir süredir görmedik ve tekrar görüşmek güzel olurdu."
+      },
+      {
+        "nl": "Ik denk dat ik rond 17.30 uur bij jullie kan zijn.",
+        "tr": "Sanırım saat 17.30 gibi senin evinde olabilirim."
+      },
+      {
+        "nl": "Laten jullie me weten of jullie dan thuis zijn?",
+        "tr": "O saatte evde olursan bana haber verir misin?"
+      },
+      {
+        "nl": "Als het niet uitkomt, kunnen we een andere afspraak maken.",
+        "tr": "Eğer uygun değilse, başka bir randevu ayarlayabiliriz."
+      },
+      {
+        "nl": "Groetjes,",
+        "tr": "Selamlar,"
+      },
+      {
+        "nl": "Vivianne",
+        "tr": "Vivianne"
+      },
+      {
+        "nl": "e-mail op het werk",
+        "tr": "iş yerinde e-posta"
+      },
+      {
+        "nl": "Van: Pieter de Jong",
+        "tr": "Gönderen: Pieter de Jong"
+      },
+      {
+        "nl": "Aan: John van Dijk",
+        "tr": "Kime? John van Dijk"
+      },
+      {
+        "nl": "Onderwerp: afspraak verzetten",
+        "tr": "Konu: randevuyu yeniden planlayın"
+      },
+      {
+        "nl": "Hoi John,",
+        "tr": "Merhaba John,"
+      },
+      {
+        "nl": "We hebben morgen om 10 uur afgesproken om de planning van project ZPX door te nemen, maar dat gaat me niet lukken.",
+        "tr": "ZPX projesinin planlamasını gözden geçirmek için yarın sabah 10'da buluşmak üzere anlaşmıştık, ancak bunu yapamayacağım."
+      },
+      {
+        "nl": "Er is iets tussengekomen, ik moet morgenochtend naar een klant om daar een probleempje op te lossen.",
+        "tr": "Bir işim çıktı, yarın sabah küçük bir sorunu çözmek için bir müşteriyi ziyaret etmem gerekiyor."
+      },
+      {
+        "nl": "Kunnen we de bespreking uitstellen naar later deze week?",
+        "tr": "Toplantıyı bu hafta sonuna erteleyebilir miyiz?"
+      },
+      {
+        "nl": "Ik heb vrij veel ruimte in mijn agenda, dus laat maar even weten wanneer jij kan.",
+        "tr": "Programımda oldukça fazla boşluk var, bu yüzden ne zaman yapabileceğinizi bana bildirin."
+      },
+      {
+        "nl": "Groet,",
+        "tr": "Saygılarımla,"
+      },
+      {
+        "nl": "Pieter",
+        "tr": "Pieter"
+      }
+    ]
+  },
+  {
+    "category": "Leesstrategieën",
+    "category_tr": "Okuma stratejileri",
+    "words": [
+      {
+        "nl": "Bij het lezen van een tekst kunt u de volgende strategieën gebruiken.",
+        "tr": "Bir metni okurken aşağıdaki stratejileri kullanabilirsiniz."
+      },
+      {
+        "nl": "1-Lees de titel. Begrijpt u de titel? Zoek eventueel woorden op.",
+        "tr": "1-Başlığı okuyun. Başlığı anladınız mı? Gerekirse kelimelere bakın."
+      },
+      {
+        "nl": "2-Waarover gaat het artikel, denkt u, als u de titel leest?",
+        "tr": "2-Başlığı okuduğunuzda makalenin ne hakkında olduğunu düşünüyorsunuz?"
+      },
+      {
+        "nl": "3-Lees de eerste alinea en de laatste alinea. Waar gaat het artikel over, denkt u?",
+        "tr": "3-İlk paragrafı ve son paragrafı okuyun. Sizce makale ne hakkında?"
+      },
+      {
+        "nl": "4-Lees nu het artikel in vogelvlucht: u 'scant' de tekst.",
+        "tr": "4-Makaleyi şimdi kısaca okuyun: metni 'tarayın'."
+      },
+      {
+        "nl": "Dit betekent dat u geen woorden opzoekt en dat u niet alles woord voor woord leest.",
+        "tr": "Bu, kelimelere bakmadığınız ve her şeyi kelime kelime okumadığınız anlamına gelir."
+      },
+      {
+        "nl": "Om een idee te krijgen: één pagina A4 leest u dan in ongeveer twee minuten!",
+        "tr": "Bir fikir edinmek için: Bir A4 sayfasını yaklaşık iki dakikada okuyacaksınız!"
+      },
+      {
+        "nl": "Waar gaat het artikel volgens u over?",
+        "tr": "Makalenin ne hakkında olduğunu düşünüyorsunuz?"
+      },
+      {
+        "nl": "5-Lees nu het artikel rustig door en onderstreep de woorden die u niet  kent.",
+        "tr": "5-Makaleyi yavaşça okuyun ve bilmediğiniz kelimelerin altını çizin."
+      },
+      {
+        "nl": "6-Bekijk van welke woorden u de betekenis uit de context kunt afleiden.",
+        "tr": "6-Bağlamdan hangi kelimelerin anlamını çıkarabileceğinize bakın."
+      },
+      {
+        "nl": "7-Kies die woorden uit die voor het tekstbegrip noodzakelijkerwijs opgezocht moeten worden (5 tot 10 woorden, afhankelijk van de lengte van de tekst).",
+        "tr": "7-Metni anlamak için bakılması gereken kelimeleri seçin (metnin uzunluğuna bağlı olarak 5 ila 10 kelime)."
+      },
+      {
+        "nl": "Zoek ze nog niet op.",
+        "tr": "Henüz onlara bakmayın."
+      },
+      {
+        "nl": "8-Vergelijk de woorden met die van een andere cursist. Kunt u elkaars woorden uitleggen?",
+        "tr": "8-Kelimeleri başka bir öğrencinin kelimeleriyle karşılaştırın. Birbirinizin sözcüklerini açıklayabilir misiniz?"
+      },
+      {
+        "nl": "9-Zoek daarna die woorden op die u allebei niet hebt begrepen.",
+        "tr": "9-Şimdi ikinizin de anlamadığı sözcüklere bakın."
+      },
+      {
+        "nl": "10-Lees de tekst nu nog een keer per alinea door en geef van iedere alinea in uw eigen woorden kort weer waar hij over gaat (mondeling en/of schriftelijk).",
+        "tr": "10-Metni paragraf paragraf tekrar okuyun ve her paragrafın ne hakkında olduğunu kendi kelimelerinizle kısaca belirtin (sözlü ve/veya yazılı olarak)."
+      },
+      {
+        "nl": "11-Vat nu de tekst kort samen in uw eigen woorden (mondeling en/of schriftelijk).",
+        "tr": "11-Metni kendi kelimelerinizle kısaca özetleyin (sözlü ve/veya yazılı olarak)."
+      },
+      {
+        "nl": "12-Lees de tekst tot slot, eventueel na een paar dagen, nog een keer.",
+        "tr": "12-Metni muhtemelen birkaç gün sonra tekrar okuyun."
+      },
+      {
+        "nl": "Probeer nu uw leestempo te verhogen.",
+        "tr": "Şimdi okuma hızınızı artırmaya çalışın."
+      }
+    ]
+  },
+  {
+    "category": "Luisterstrategieën bil berichten op radio, tv of internet",
+    "category_tr": "Radyo, TV veya internet üzerinden iki mesaj dinleme stratejileri",
+    "words": [
+      {
+        "nl": "Als u (op radio, tv of internet) naar het nieuws of een actualiteitenprogramma kijkt en/of luistert, kunt u de volgende strategieën gebruiken.",
+        "tr": "Haberleri veya güncel bir programı izliyor ve/veya dinliyorsanız (radyo, televizyon veya internetten) aşağıdaki stratejileri kullanabilirsiniz."
+      },
+      {
+        "nl": "1- Kijk en/of luister een keer naar her fragment en schrijf met enkele woorden op welke onderwerpen erin aan de orde komen.",
+        "tr": "1- Parçayı bir kez izleyin ve/veya dinleyin ve kapsadığı konuları birkaç kelimeyle yazın."
+      },
+      {
+        "nl": "2- Kijk en/of luister nu nog een keer en probeer per item een aantal belangrijke woorden en woordcombinaties/witdrukkingen op te schrijven.",
+        "tr": "2- Şimdi tekrar izleyin ve/veya dinleyin ve her madde için bazı önemli kelimeleri ve kelime kombinasyonlarını/beyaz ifadeleri yazmaya çalışın."
+      },
+      {
+        "nl": "3- Stel uzelf per item de volgende vragen:",
+        "tr": "3- Her öğe için kendinize aşağıdaki soruları sorun:"
+      },
+      {
+        "nl": "Wat is er aan de hand?",
+        "tr": "Neler oluyor?"
+      },
+      {
+        "nl": "Wanneer is het gebeurd?",
+        "tr": "Ne zaman oldu?"
+      },
+      {
+        "nl": "Waar is het gebeurd?",
+        "tr": "Nerede oldu?"
+      },
+      {
+        "nl": "Wie zijn erbij betrokken?",
+        "tr": "Kimler dahil oldu?"
+      },
+      {
+        "nl": "Waarom wordt er aandacht aan besteed?",
+        "tr": "Neden ele alınıyor?"
+      },
+      {
+        "nl": "4- Controleer per item of er woorden of uitdrukkingen zijn die u niet begrijpt maar die u wel nodig hebt voor het totale begrip. Zoek deze woorden op in een woordenbock.",
+        "tr": "4- Her madde için, anlamadığınız ancak genel anlama için ihtiyacınız olan herhangi bir kelime veya ifade olup olmadığını kontrol edin. Bu kelimeleri bir kelime klasöründe arayın."
+      },
+      {
+        "nl": "5- Vat nu ieder item in uw eigen woorden kort samen. U kunt het opschrijven of bespreken met een medecursist.",
+        "tr": "5- Şimdi her bir maddeyi kendi kelimelerinizle kısaca özetleyin. Bunu yazabilir veya bir öğrenci arkadaşınızla tartışabilirsiniz."
+      },
+      {
+        "nl": "6- Kies nu een item en probeer daar zelf vragen bij te formuleren. Stel deze vragen eventueel aan een medecursist.",
+        "tr": "6- Şimdi bir madde seçin ve bu madde hakkında kendiniz sorular oluşturmaya çalışın. Gerekirse bu soruları bir öğrenci arkadaşınıza sorun."
+      },
+      {
+        "nl": "Voorbeelden: Bij een fragment over politieke of zakelijke onderhandelingen:",
+        "tr": "Örnekler: Siyasi veya ticari müzakerelerle ilgili bir alıntı için:"
+      },
+      {
+        "nl": "Hoe zin de onderhandelingen verlopen?",
+        "tr": "Müzakereler nasıl gitti?"
+      },
+      {
+        "nl": "Welke partijen zijn erbij betrokken?",
+        "tr": "Hangi taraflar dahil oldu?"
+      },
+      {
+        "nl": "Welke overeenkomst is er gesloten?",
+        "tr": "Hangi anlaşmaya varıldı?"
+      },
+      {
+        "nl": "Zijn de partijen tevreden met het behaalde resultaat?",
+        "tr": "Taraflar elde edilen sonuçtan memnun mu?"
+      },
+      {
+        "nl": "Bij een fragment over een ramp of een ongeluk:",
+        "tr": "Bir felaket veya kaza ile ilgili bir alıntıda:"
+      },
+      {
+        "nl": "Wat is er precies gebeurd?",
+        "tr": "Tam olarak ne oldu?"
+      },
+      {
+        "nl": "Wat is de oorzaak?",
+        "tr": "Sebebi nedir?"
+      },
+      {
+        "nl": "Hoeveel slachtoffers zijn er?",
+        "tr": "Kaç kurban var?"
+      },
+      {
+        "nl": "Hoe verloopt de hulpverlening?",
+        "tr": "Yardım çalışmaları nasıl ilerliyor?"
+      },
+      {
+        "nl": "Bij een fragment over een feestelijke en/ of culturele gebeurtenis:",
+        "tr": "Şenlikli ve/veya kültürel bir etkinlikle ilgili bir alıntıda:"
+      },
+      {
+        "nl": "Waar (en waarom) heeft deze gebeurtenis plaatsgevonden?",
+        "tr": "Bu etkinlik nerede (ve neden) gerçekleşti?"
+      },
+      {
+        "nl": "Wat is er allemaal georganiseerd?",
+        "tr": "Ne organize edildi?"
+      },
+      {
+        "nl": "Hoe is de sfeer en hoe reageren de mensen?",
+        "tr": "Atmosfer nasıldı ve insanlar nasıl tepki verdi?"
+      }
+    ]
+  },
+  {
+    "category": "Hoe zeg ik het?",
+    "category_tr": "Nasıl söylerim?",
+    "words": [
+      {
+        "nl": "Alle uitingen zin te beluisteren op de website.",
+        "tr": "Tüm ifade cümleleri web sitesinde duyulabilir."
+      },
+      {
+        "nl": "Advies geven",
+        "tr": "Tavsiye vermek"
+      },
+      {
+        "nl": "Dat moet je zeker doen!",
+        "tr": "Bunu kesinlikle yapmalısın!"
+      },
+      {
+        "nl": "Je kunt beter …",
+        "tr": "Yapsan iyi olur."
+      },
+      {
+        "nl": "Als ik jou was, zou ik In uw plaats zou ik ...",
+        "tr": "Yerinde olsaydım, senin yerine ben yapardım."
+      },
+      {
+        "nl": "Het beste is om …",
+        "tr": "En iyisi..."
+      },
+      {
+        "nl": "Advies vragen",
+        "tr": "Tavsiye almak"
+      },
+      {
+        "nl": "Wat zal ik doen?",
+        "tr": "Ne yapmalıyım?"
+      },
+      {
+        "nl": "Wat moet ik doen?",
+        "tr": "Ne yapmalıyım?"
+      },
+      {
+        "nl": "Wat zou ik kunnen doen?",
+        "tr": "Ne yapabilirim?"
+      },
+      {
+        "nl": "Heb iii een idee wat ik kan doen?",
+        "tr": "Ne yapabileceğime dair bir fikrim var mı?"
+      },
+      {
+        "nl": "Hoe kan ik dat het beste aanpakken?",
+        "tr": "Bu konuda izleyebileceğim en iyi yol nedir?"
+      },
+      {
+        "nl": "Kun je advies geven?",
+        "tr": "Tavsiye verebilir misiniz?"
+      },
+      {
+        "nl": "Wat zou jij doen?",
+        "tr": "Siz olsanız ne yapardınız?"
+      },
+      {
+        "nl": "Wat zou u doen in min plaats?",
+        "tr": "Benim yerimde olsaydınız ne yapardınız?"
+      },
+      {
+        "nl": "Wat zou u doen in zo'n geval?",
+        "tr": "Böyle bir durumda siz ne yapardınız?"
+      },
+      {
+        "nl": "Afraden",
+        "tr": "Cesaretini kırmak"
+      },
+      {
+        "nl": "Zoiets moet je gewoon niet doen!",
+        "tr": "Böyle bir şey yapmamalısın!"
+      },
+      {
+        "nl": "Dat moet je nooit accepteren!",
+        "tr": "Bunu asla kabul etmemelisin!"
+      },
+      {
+        "nl": "Ik zou dat niet doen …",
+        "tr": "Ben olsam yapmazdım."
+      },
+      {
+        "nl": "Ik ben bang dat …",
+        "tr": "Korkarım ki..."
+      },
+      {
+        "nl": "Excuses aanbieden",
+        "tr": "Özür dilerim."
+      },
+      {
+        "nl": "Sorry (hoor), ik deed het niet expres.",
+        "tr": "Üzgünüm (duyun), bilerek yapmadım."
+      },
+      {
+        "nl": "Neem me niet kwalijk.",
+        "tr": "Lütfen beni affedin."
+      },
+      {
+        "nl": "Neemt u me niet kwalijk, ik deed het niet met opzet.",
+        "tr": "Affedersiniz, bilerek yapmadım."
+      },
+      {
+        "nl": "Het spijt me.",
+        "tr": "Özür dilerim."
+      },
+      {
+        "nl": "Het is mijn fout.",
+        "tr": "Bu benim hatam."
+      },
+      {
+        "nl": "Dat overkomt me niet meer.",
+        "tr": "Bir daha başıma gelmeyecek."
+      },
+      {
+        "nl": "Dat doe ik voortaan anders.",
+        "tr": "Bundan sonra daha farklı yapacağım."
+      },
+      {
+        "nl": "Instemmen",
+        "tr": "Katılıyorum."
+      },
+      {
+        "nl": "Ik ben het met je eens.",
+        "tr": "Sana katılıyorum."
+      },
+      {
+        "nl": "Ik ben het ermee eens.",
+        "tr": "Katılıyorum."
+      },
+      {
+        "nl": "Daar ben ik het mee eens.",
+        "tr": "Katılıyorum."
+      },
+      {
+        "nl": "Dat vind ik ook.",
+        "tr": "Katılıyorum."
+      },
+      {
+        "nl": "Dat is waar.",
+        "tr": "Bu doğru."
+      },
+      {
+        "nl": "Dat klopt.",
+        "tr": "Bu doğru."
+      },
+      {
+        "nl": "Dat is zo.",
+        "tr": "Aynen öyle."
+      },
+      {
+        "nl": "Meevoelen",
+        "tr": "Empati kurun"
+      },
+      {
+        "nl": "Ik kan het me zo goed voorstellen.",
+        "tr": "Anlayabiliyorum."
+      },
+      {
+        "nl": "Ik kan me indenken dat je je rot voelt.",
+        "tr": "Kötü hissettiğini hayal edebiliyorum."
+      },
+      {
+        "nl": "Ik begrijp hoe je je voelt.",
+        "tr": "Nasıl hissettiğinizi anlıyorum."
+      },
+      {
+        "nl": "Wat erg voor je!",
+        "tr": "Senin için ne kadar kötü!"
+      },
+      {
+        "nl": "Het spit me zo voor je.",
+        "tr": "Senin için çok üzülüyorum."
+      },
+      {
+        "nl": "Je moet je niet zo druk maken.",
+        "tr": "Bu kadar endişelenmemelisin."
+      },
+      {
+        "nl": "Het zal best meevallen, dat zul je zien.",
+        "tr": "Çok kötü olmayacak, göreceksin."
+      },
+      {
+        "nl": "Wil je erover praten?",
+        "tr": "Bu konuda konuşmak ister misin?"
+      },
+      {
+        "nl": "Kan ik wat voor je doen?",
+        "tr": "Senin için ne yapabilirim?"
+      },
+      {
+        "nl": "Kan ik je helpen?",
+        "tr": "Yardım edebilir miyim?"
+      },
+      {
+        "nl": "Zal ik met je meegaan?",
+        "tr": "Seninle geleyim mi?"
+      },
+      {
+        "nl": "Sterkte!",
+        "tr": "İyi şanslar!"
+      },
+      {
+        "nl": "Houd je taai!",
+        "tr": "Kendine iyi bak!"
+      },
+      {
+        "nl": "Mening geven",
+        "tr": "Fikrinizi belirtin"
+      },
+      {
+        "nl": "Ik vind dat ...",
+        "tr": "Bence ..."
+      },
+      {
+        "nl": "Ik denk dat …",
+        "tr": "Bence ..."
+      },
+      {
+        "nl": "Ik geloof dat …",
+        "tr": "İnanıyorum ki ..."
+      },
+      {
+        "nl": "Volgens mij ...",
+        "tr": "Bana göre ..."
+      },
+      {
+        "nl": "Naar min mening …",
+        "tr": "Benim görüşüme göre..."
+      },
+      {
+        "nl": "Ik vind het mooi.",
+        "tr": "Bence çok güzel."
+      },
+      {
+        "nl": "Ik vind het prachtig.",
+        "tr": "Bence çok harika."
+      },
+      {
+        "nl": "Ik vind het schitterend.",
+        "tr": "Bence muhteşem."
+      },
+      {
+        "nl": "Ik vind het fantastisch.",
+        "tr": "Bence harika."
+      },
+      {
+        "nl": "Ik vind het indrukwekkend.",
+        "tr": "Bence etkileyici."
+      },
+      {
+        "nl": "Ik vind het bijzonder.",
+        "tr": "Bence çok özel."
+      },
+      {
+        "nl": "Ik vind het wel aardig.",
+        "tr": "Ben beğendim."
+      },
+      {
+        "nl": "Ik vind het niet zo mooi.",
+        "tr": "Ben pek sevmedim."
+      },
+      {
+        "nl": "Het is niet mijn smaak.",
+        "tr": "Benim zevkime göre değil."
+      },
+      {
+        "nl": "Ik vind het lelijk.",
+        "tr": "Bence çirkin."
+      },
+      {
+        "nl": "Ik vind het vreselijk.",
+        "tr": "Bence berbat./Bundan nefret ediyorum."
+      },
+      {
+        "nl": "Ik vind het verschrikkelijk.",
+        "tr": "Bence berbat/korkunc."
+      },
+      {
+        "nl": "Mening vragen",
+        "tr": "Fikirleri sormak"
+      },
+      {
+        "nl": "Wat vind je daarvan?",
+        "tr": "Bunun hakkında ne düşünüyorsun?"
+      },
+      {
+        "nl": "Wat denk je daarvan?",
+        "tr": "Bunun hakkında ne düşünüyorsun?"
+      },
+      {
+        "nl": "Hoe denk je erover?",
+        "tr": "Bu konu hakkında ne düşünüyorsun?"
+      },
+      {
+        "nl": "Wat is jouw mening daarover?",
+        "tr": "Bu konuda fikriniz nedir?"
+      },
+      {
+        "nl": "Niet instemmen",
+        "tr": "Katılmıyorum"
+      },
+      {
+        "nl": "Ik ben het niet met je eens.",
+        "tr": "Size katılmıyorum."
+      },
+      {
+        "nl": "Ik ben het er niet mee eens.",
+        "tr": "Katılmıyorum."
+      },
+      {
+        "nl": "Daar ben ik het niet mee eens.",
+        "tr": "Buna katılmıyorum."
+      },
+      {
+        "nl": "Dat vind ik niet.",
+        "tr": "Ben öyle düşünmüyorum."
+      },
+      {
+        "nl": "Dat is niet waar.",
+        "tr": "Bu doğru değil."
+      },
+      {
+        "nl": "Dat klopt niet.",
+        "tr": "Bu doğru değil."
+      },
+      {
+        "nl": "Dat slaat nergens op.",
+        "tr": "Bu hiç mantıklı değil."
+      },
+      {
+        "nl": "Vriendelijk:",
+        "tr": "Dostça:"
+      },
+      {
+        "nl": "Ik begrijp je wel, maar...",
+        "tr": "Sizi anlıyorum ama..."
+      },
+      {
+        "nl": "Ik ben het gedeeltelijk met je eens, maar…",
+        "tr": "Kısmen sana katılıyorum, ama..."
+      },
+      {
+        "nl": "Ja, maar denk je niet dat …",
+        "tr": "Evet, ama sizce de ..."
+      },
+      {
+        "nl": "Onderbreken",
+        "tr": "Kesinti"
+      },
+      {
+        "nl": "Sorry, maar ...",
+        "tr": "Üzgünüm ama..."
+      },
+      {
+        "nl": "Mag ik je even onderbreken …",
+        "tr": "Bir dakikanızı alabilir miyim?"
+      },
+      {
+        "nl": "Mag ik even?",
+        "tr": "Bir dakikanızı alabilir miyim?"
+      },
+      {
+        "nl": "Opsommen",
+        "tr": "Numaralandır"
+      },
+      {
+        "nl": "ten eerste /",
+        "tr": "ilk olarak /"
+      },
+      {
+        "nl": "ten tweede ...",
+        "tr": "ikinci olarak ..."
+      },
+      {
+        "nl": "in de eerste plaats /",
+        "tr": "ilk olarak /"
+      },
+      {
+        "nl": "in de tweede plaats eerst /",
+        "tr": "ikinci olarak birinci /"
+      },
+      {
+        "nl": "dan /",
+        "tr": "sonra /"
+      },
+      {
+        "nl": "vervolgens /",
+        "tr": "sonraki /"
+      },
+      {
+        "nl": "daarna /",
+        "tr": "daha sonra /"
+      },
+      {
+        "nl": "tot slot ...",
+        "tr": "nihayet ..."
+      },
+      {
+        "nl": "bovendien /",
+        "tr": "ek olarak /"
+      },
+      {
+        "nl": "verder /",
+        "tr": "daha ileri /"
+      },
+      {
+        "nl": "ook …",
+        "tr": "Ayrıca..."
+      },
+      {
+        "nl": "Overtuigen",
+        "tr": "İkna etmek"
+      },
+      {
+        "nl": "Het is toch zeker zo dat …",
+        "tr": "Şüphesiz ki ..."
+      },
+      {
+        "nl": "Je moet toch toegeven dat …",
+        "tr": "Elbette kabul etmelisiniz ki ..."
+      },
+      {
+        "nl": "Het is toch duidelijk dat ...",
+        "tr": "Şüphesiz ki ..."
+      },
+      {
+        "nl": "Jij vindt toch ook dat …",
+        "tr": "Elbette kabul edersiniz ki ..."
+      },
+      {
+        "nl": "Protesteren",
+        "tr": "Protesto"
+      },
+      {
+        "nl": "Dat doe ik niet!",
+        "tr": "İstemiyorum!/Ben onu yapmam!"
+      },
+      {
+        "nl": "Dat wil ik niet.",
+        "tr": "Yapmak istemiyorum./Bunu istemiyorum."
+      },
+      {
+        "nl": "Dat kan ik niet doen.",
+        "tr": "Bunu/Onu yapamam."
+      },
+      {
+        "nl": "Ik ben het hier niet mee eens.",
+        "tr": "Bunu kabul etmiyorum./Buna katılmıyorum."
+      },
+      {
+        "nl": "Ik vind dit niet eerlijk!",
+        "tr": "Bunun adil olduğunu düşünmüyorum!"
+      },
+      {
+        "nl": "Dat neem ik niet!",
+        "tr": "Bunu kabul etmiyorum! / Bunu almayacağım!"
+      },
+      {
+        "nl": "Dat kunnen we niet accepteren.",
+        "tr": "Bunu kabul edemeyiz."
+      },
+      {
+        "nl": "We zullen ons hier niet bij neerleggen.",
+        "tr": "Bunu kabul etmeyeceğiz./Biz buna teslim olmayacağız."
+      },
+      {
+        "nl": "Ik ga niet akkoord met ...",
+        "tr": "... ile aynı fikirde değilim/Ben buna katılmıyorum…"
+      },
+      {
+        "nl": "Ik protesteer tegen ...",
+        "tr": "Protesto ediyorum."
+      },
+      {
+        "nl": "Reageren op kritiek Sorry, …",
+        "tr": "Eleştirilere yanıt vermek Üzgünüm, ..."
+      },
+      {
+        "nl": "Neem me niet kwalijk.",
+        "tr": "Affedersiniz."
+      },
+      {
+        "nl": "O, wat dom van me!",
+        "tr": "Oh, ne kadar aptalım!"
+      },
+      {
+        "nl": "Ja, ik weet het, het is niet zo best.",
+        "tr": "Evet, biliyorum, çok iyi değil."
+      },
+      {
+        "nl": "Het is min fout.",
+        "tr": "Bu eksi bir hata./Daha az yanlış."
+      },
+      {
+        "nl": "Ja, dat doe ik voortaan anders.",
+        "tr": "Evet, bundan sonra daha farklı yapacağım."
+      },
+      {
+        "nl": "Hoe bedoel je dat?",
+        "tr": "Nasıl yani?/Ne demek istiyorsun?"
+      },
+      {
+        "nl": "Ik begrijp niet goed wat je bedoelt.",
+        "tr": "Ne demek istediğini tam olarak anlamadım."
+      },
+      {
+        "nl": "Wat is er niet goed aan?",
+        "tr": "Nesi var bunun?/Bunda iyi olmayan ne var?"
+      },
+      {
+        "nl": "Waarom zeg je dat?",
+        "tr": "Neden böyle söylüyorsun?"
+      },
+      {
+        "nl": "Maar dat is niet waar!",
+        "tr": "Ama bu doğru değil ki!"
+      },
+      {
+        "nl": "Dat klopt toch niet.",
+        "tr": "Bu doğru değil zaten."
+      },
+      {
+        "nl": "Ik vind het zelf wel goed, hoor.",
+        "tr": "Yine de ben beğendim./Ben kendi adıma iyi olduğunu düşünüyorum."
+      },
+      {
+        "nl": "Ik ben het niet met je eens.",
+        "tr": "Sana katılmıyorum./Seninle aynı fikirde değilim."
+      },
+      {
+        "nl": "Uitleg vragen",
+        "tr": "Açıklama iste"
+      },
+      {
+        "nl": "Wat bedoel je precies?",
+        "tr": "Tam olarak ne demek istiyorsun?"
+      },
+      {
+        "nl": "Kun je dat uitleggen?",
+        "tr": "Bunu açıklayabilir misiniz?"
+      },
+      {
+        "nl": "Voorkeur geven",
+        "tr": "Tercih verin"
+      },
+      {
+        "nl": "Ik houd van ...",
+        "tr": "Ben ... severim."
+      },
+      {
+        "nl": "Ik ga liever naar ...",
+        "tr": "Ben ... gitmeyi tercih ederim."
+      },
+      {
+        "nl": "Dat is leuk/ fantastisch/ te gek.",
+        "tr": "Bu eğlenceli/ harika/ müthiş."
+      },
+      {
+        "nl": "Dat vind ik lekker/ heerlijk.",
+        "tr": "Bunu begendim/seviyorum."
+      },
+      {
+        "nl": "Ik ben dol/ gek op …",
+        "tr": "Seviyorum/ bayılıyorum ..."
+      },
+      {
+        "nl": "Ik houd niet van ...",
+        "tr": "Ben ... sevmiyorum."
+      },
+      {
+        "nl": "Dat is niet leuk.",
+        "tr": "Bu eğlenceli değil./ Bu hoş değil."
+      },
+      {
+        "nl": "Dat is vervelend.",
+        "tr": "Bu can sıkıcı."
+      },
+      {
+        "nl": "Dat is niks voor mij.",
+        "tr": "Bu benim için bir şey değil."
+      },
+      {
+        "nl": "Dat vind ik niks zo lekker,",
+        "tr": "Böyle şeylerden hoşlanmam, /Bu hiç hoşuma gitmiyor"
+      },
+      {
+        "nl": "Ik ben niet zo dol/ gek op …",
+        "tr": "Ben ...'dan pek hoşlanmam / hoşlanmam."
+      },
+      {
+        "nl": "Ik heb een hekel aan ...",
+        "tr": "Sevmiyorum ..."
+      },
+      {
+        "nl": "Wat ik niet zo leuk vind van ... is …",
+        "tr": "Çok sevmediğim şey ... …/ Hoşuma gitmeyen şey ise…"
+      },
+      {
+        "nl": "Liever niet.",
+        "tr": "Daha ziyade değil./Aksine değil./Tercih etmiyorum."
+      },
+      {
+        "nl": "Voorstel doen",
+        "tr": "Önermek, Teklif yap"
+      },
+      {
+        "nl": "Waar vind je van ...?",
+        "tr": "... hakkında ne düşünüyorsun?"
+      },
+      {
+        "nl": "Zullen we naar ... gaan?",
+        "tr": "... gidelim mi?"
+      },
+      {
+        "nl": "Heb je zin om ...?",
+        "tr": "Canın ... istiyor mu?"
+      },
+      {
+        "nl": "Ik stel voor dat we ...",
+        "tr": "Bence ..."
+      },
+      {
+        "nl": "Waarom gaan we niet ...?",
+        "tr": "Neden gitmiyoruz ...?"
+      },
+      {
+        "nl": "Ga je mee ...?",
+        "tr": "Gelir misin ...?"
+      },
+      {
+        "nl": "Waarschuwen",
+        "tr": "Uyarı"
+      },
+      {
+        "nl": "Kijk uit!",
+        "tr": "Dikkat edin!"
+      },
+      {
+        "nl": "Pas op!",
+        "tr": "Dikkat et!/Göz kulak olmak!"
+      },
+      {
+        "nl": "Let op!",
+        "tr": "Dikkat et!"
+      },
+      {
+        "nl": "Voorzichtig!",
+        "tr": "Dikkat edin!/Dikkatlice!"
+      },
+      {
+        "nl": "Afblijven!",
+        "tr": "Çek ellerini! / Dokunma!"
+      },
+      {
+        "nl": "Opzij!",
+        "tr": "Çekilin! / Kenara çekilin!"
+      },
+      {
+        "nl": "Stop!",
+        "tr": "Durun!"
+      },
+      {
+        "nl": "Nee!",
+        "tr": "Hayır! Hayır!"
+      },
+      {
+        "nl": "Je moet beter uitkijken.",
+        "tr": "Daha dikkatli olmalısın./Daha fazla dikkat etmelisin."
+      },
+      {
+        "nl": "Wees voorzichtig.",
+        "tr": "Dikkatli ol."
+      },
+      {
+        "nl": "Dat is gevaarlijk.",
+        "tr": "Bu çok tehlikeli."
+      },
+      {
+        "nl": "U neemt grote risico's als u zo doet.",
+        "tr": "Böyle davranarak büyük risk alıyorsun."
+      },
+      {
+        "nl": "Is het wel verstandig om ...?",
+        "tr": "Bu akıllıca mı?"
+      },
+      {
+        "nl": "Is het niet beter om …?",
+        "tr": "…daha iyi değil mi? /"
+      },
+      {
+        "nl": "Ik zou het niet doen, als ik jou was.",
+        "tr": "Senin yerinde olsam bunu yapmazdım."
+      },
+      {
+        "nl": "Weigeren",
+        "tr": "Reddet"
+      },
+      {
+        "nl": "Nee, dat wil ik niet.",
+        "tr": "Hayır, istemiyorum."
+      },
+      {
+        "nl": "Nee hoor, dat kan niet.",
+        "tr": "Hayır, yapamazsın."
+      },
+      {
+        "nl": "Geen denken aan.",
+        "tr": "Asla olmaz."
+      },
+      {
+        "nl": "Het spijt me, maar ik denkt niet dat het lukt.",
+        "tr": "Üzgünüm ama işe yarayacağını sanmıyorum."
+      },
+      {
+        "nl": "Sorry, het gaat helaas niet.",
+        "tr": "Üzgünüm, yapamam."
+      },
+      {
+        "nl": "Oh, wat jammer! Ik kan niet.",
+        "tr": "Oh, ne utanç verici! Yapamam."
+      }
+    ]
+  }
+]

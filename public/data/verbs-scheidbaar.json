@@ -1,0 +1,3456 @@
+[
+  {
+    "verb": "afmaken",
+    "tr": "bitirmek\" veya \"tamamlamak",
+    "examples": [
+      {
+        "nl": "We kunnen het vandaag nog afmaken.",
+        "tr": "Bugün bitirebiliriz."
+      },
+      {
+        "nl": "Zij maken het op school af.",
+        "tr": "Onlar okulda bitiriyor."
+      },
+      {
+        "nl": "Het is te laat om het nu nog af te maken.",
+        "tr": "Artık bitirmek için çok geç."
+      },
+      {
+        "nl": "Hij heeft het zelf al afgemaakt.",
+        "tr": "Zaten kendisi bitirmiş."
+      },
+      {
+        "nl": "Ze zegt, dat ze het huis vandaag afmaakt.",
+        "tr": "Evi bugün bitirebileceğini söylüyor."
+      }
+    ]
+  },
+  {
+    "verb": "aandoen",
+    "tr": "giymek veya üzerine almak",
+    "examples": [
+      {
+        "nl": "Hij deed zijn jas aan voordat hij naar buiten ging.",
+        "tr": "Dışarı çıkmadan önce ceketini giydi."
+      },
+      {
+        "nl": "Ik zal schone kleren aandoen.",
+        "tr": "Temiz kıyafetler giyeceğim."
+      },
+      {
+        "nl": "Doe je dikke jas maar aan.",
+        "tr": "Kalın paltonu giy."
+      },
+      {
+        "nl": "Het is droog, je hoeft geen regenjas aan te doen.",
+        "tr": "Hava kuru, yağmurluk giymenize gerek yok."
+      },
+      {
+        "nl": "Ze heeft een mooie jurk aangedaan.",
+        "tr": "Çok güzel bir elbise giydi."
+      }
+    ]
+  },
+  {
+    "verb": "aandoen",
+    "tr": "dokunmak veya etkilemek",
+    "examples": [
+      {
+        "nl": "Het nieuws deed hem verdriet aan.",
+        "tr": "Haberler ona üzüntü verdi."
+      }
+    ]
+  },
+  {
+    "verb": "terugbrengen",
+    "tr": "Dönüş, Geri dönmek",
+    "examples": [
+      {
+        "nl": "Wil je het boek volgende week terugbrengen ?",
+        "tr": "Kitabı gelecek hafta iade edecek misin?"
+      },
+      {
+        "nl": "Ik breng het morgen wel terug.",
+        "tr": "Yarın geri getireceğim."
+      },
+      {
+        "nl": "Het is echt niet nodig het morgen al terug te brengen.",
+        "tr": "Yarın getirmene gerek yok zaten."
+      },
+      {
+        "nl": "Hij heeft het te laat teruggebracht.",
+        "tr": "Çok geç iade etti."
+      },
+      {
+        "nl": "Haar broer wil, dat zij het vandaag terugbrengt.",
+        "tr": "Kardeşi bugün geri getirmesini istiyor."
+      },
+      {
+        "nl": "Vergeet niet de boeken terug te brengen naar de bibliotheek.",
+        "tr": "Kitapları kütüphaneye geri götürmeyi unutma."
+      }
+    ]
+  },
+  {
+    "verb": "aanbellen",
+    "tr": "kapıyı çalmak",
+    "examples": [
+      {
+        "nl": "Ze belde aan bij het huis van haar vriendin.",
+        "tr": "Arkadaşının evinin zilini çaldı."
+      }
+    ]
+  },
+  {
+    "verb": "afbellen",
+    "tr": "telefonla arayarak iptal etmek",
+    "examples": [
+      {
+        "nl": "Hij belde af voor de afspraak.",
+        "tr": "Randevuyu iptal etmek için aradı."
+      }
+    ]
+  },
+  {
+    "verb": "opbellen",
+    "tr": "telefonla aramak",
+    "examples": [
+      {
+        "nl": "Ik zal je vanavond opbellen.",
+        "tr": "Bu akşam seni arayacağım."
+      },
+      {
+        "nl": "Hij zei dat hij had opgebeld.",
+        "tr": "Aradığını söyledi."
+      },
+      {
+        "nl": "Hij zei dat hij op had gebeld.",
+        "tr": "Aradığını söyledi."
+      },
+      {
+        "nl": "Hij zei dat hij opgebeld had.",
+        "tr": "Aradığını söyledi."
+      }
+    ]
+  },
+  {
+    "verb": "terugbellen",
+    "tr": "geri aramak",
+    "examples": [
+      {
+        "nl": "Ik zal je later terugbellen.",
+        "tr": "Daha sonra seni geri arayacağım."
+      }
+    ]
+  },
+  {
+    "verb": "afbreken",
+    "tr": "Kırmak veya Koparmak",
+    "examples": [
+      {
+        "nl": "We gaan het oude gebouw afbreken en een nieuw huis bouwen.",
+        "tr": "Eski binayı yıkıp yeni bir ev inşa edeceğiz."
+      }
+    ]
+  },
+  {
+    "verb": "inbreken",
+    "tr": "Hırsızlık için bir yere izinsiz girmek",
+    "examples": [
+      {
+        "nl": "Er is ingebroken in mijn huis terwijl ik weg was.",
+        "tr": "Ben yokken evime izinsiz girildi."
+      }
+    ]
+  },
+  {
+    "verb": "meebrengen",
+    "tr": "Bir şeyi beraberinde getirmek",
+    "examples": [
+      {
+        "nl": "Breng alsjeblieft je paspoort mee naar de luchthaven.",
+        "tr": "Lütfen havaalanına pasaportunu getir."
+      }
+    ]
+  },
+  {
+    "verb": "wegbrengen",
+    "tr": "Bir şeyi bir yere götürmek",
+    "examples": [
+      {
+        "nl": "Hij bracht zijn kinderen naar school.",
+        "tr": "Çocuklarını okula götürdü."
+      }
+    ]
+  },
+  {
+    "verb": "indelen",
+    "tr": "Sınıflandırmak veya Düzenlemek",
+    "examples": [
+      {
+        "nl": "De boeken zijn ingedeeld op onderwerp.",
+        "tr": "Kitaplar konuya göre sınıflandırılmıştır."
+      }
+    ]
+  },
+  {
+    "verb": "meedelen",
+    "tr": "Bildirmek veya Paylaşmak",
+    "examples": [
+      {
+        "nl": "Ik wil je graag meedelen dat ik morgen niet kan komen.",
+        "tr": "Sana yarın gelemeyeceğimi bildirmek istiyorum."
+      },
+      {
+        "nl": "Hij deelde ons het goede nieuws mee.",
+        "tr": "Bize iyi haberleri iletti/ bildirdi."
+      }
+    ]
+  },
+  {
+    "verb": "uitdelen",
+    "tr": "Dağıtmak veya Paylaştırmak",
+    "examples": [
+      {
+        "nl": "De leraar deelde snoepjes uit aan de leerlingen.",
+        "tr": "Öğretmen öğrencilere şeker dağıttı."
+      }
+    ]
+  },
+  {
+    "verb": "aandoen",
+    "tr": "Giyinmek",
+    "examples": [
+      {
+        "nl": "Het koude weer doet me mijn jas aandoen.",
+        "tr": "Soğuk hava beni ceketimi giymeye zorluyor."
+      },
+      {
+        "nl": "Je moet je schoenen aandoen voordat je naar buiten gaat.",
+        "tr": "Dışarı çıkmadan önce ayakkabılarını giymelisin"
+      }
+    ]
+  },
+  {
+    "verb": "indoen",
+    "tr": "Giymek veya Takmak (özellikle gözlük, eldiven vb.)",
+    "examples": [
+      {
+        "nl": "Hij deed zijn bril in om beter te kunnen zien.",
+        "tr": "Daha iyi görebilmek için gözlüğünü taktı."
+      }
+    ]
+  },
+  {
+    "verb": "meedoen",
+    "tr": "Katılmak veya Yer Almak",
+    "examples": [
+      {
+        "nl": "Wil je meedoen aan het spel?",
+        "tr": "Oyuna katılmak ister misin?"
+      }
+    ]
+  },
+  {
+    "verb": "nadoen",
+    "tr": "Taklit etmek veya Aynısını yapmak",
+    "examples": [
+      {
+        "nl": "Het kind deed zijn ouders na.",
+        "tr": "Çocuk ebeveynlerini taklit etti."
+      }
+    ]
+  },
+  {
+    "verb": "overdoen",
+    "tr": "Yeniden yapmak veya Tekrarlamak",
+    "examples": [
+      {
+        "nl": "Ze besloot de test over te doen.",
+        "tr": "Testi yeniden yapmaya karar verdi."
+      }
+    ]
+  },
+  {
+    "verb": "uitdoen",
+    "tr": "Çıkarmak veya Söndürmek",
+    "examples": [
+      {
+        "nl": "Hij deed zijn schoenen uit en ging op de bank liggen.",
+        "tr": "Ayakkabılarını çıkardı ve koltuğa uzandı."
+      }
+    ]
+  },
+  {
+    "verb": "wegdoen",
+    "tr": "Atmak veya Kurtulmak",
+    "examples": [
+      {
+        "nl": "Ik ga deze oude kleding wegdoen.",
+        "tr": "Bu eski kıyafetleri atacağım."
+      }
+    ]
+  },
+  {
+    "verb": "doordrinken",
+    "tr": "Tamamen içmek veya Bitirmek",
+    "examples": [
+      {
+        "nl": "Hij dronk zijn glas in één keer door.",
+        "tr": "Bardaktaki içeceği tek seferde bitirdi."
+      }
+    ]
+  },
+  {
+    "verb": "meedrinken",
+    "tr": "Birlikte içmek",
+    "examples": [
+      {
+        "nl": "Kom je meedrinken?",
+        "tr": "Birlikte içmeye gelir misin?"
+      }
+    ]
+  },
+  {
+    "verb": "indrinken",
+    "tr": "Önceden içmek (özellikle eğlence veya sosyal etkinlik öncesinde)",
+    "examples": [
+      {
+        "nl": "Ze zijn aan het indrinken voor het feest van vanavond.",
+        "tr": "Bu akşamki parti için önceden içmeye başladılar."
+      }
+    ]
+  },
+  {
+    "verb": "opdrinken",
+    "tr": "İçmek veya tamamen bitirmek",
+    "examples": [
+      {
+        "nl": "Hij dronk zijn koffie snel op.",
+        "tr": "Kahvesini hızlıca içti."
+      }
+    ]
+  },
+  {
+    "verb": "onderduiken",
+    "tr": "Saklanmak veya gizlenmek",
+    "examples": [
+      {
+        "nl": "Hij dook onder het bed om zich te verstoppen.",
+        "tr": "Saklanmak için yatağın altına girdi."
+      },
+      {
+        "nl": "Tijdens de oorlog moesten veel mensen onderduiken om aan vervolging te ontsnappen.",
+        "tr": "Savaş sırasında birçok insan, takibattan kaçmak için saklanmak zorunda kaldı."
+      },
+      {
+        "nl": "Ze moest onderduiken omdat ze bedreigd werd.",
+        "tr": "Tehdit edildiği için saklanmak zorunda kaldı."
+      }
+    ]
+  },
+  {
+    "verb": "dooreten",
+    "tr": "Tamamen yemek veya bitirmek",
+    "examples": [
+      {
+        "nl": "Ze at haar bord snel dooreten.",
+        "tr": "Tabağını hızla bitirdi."
+      }
+    ]
+  },
+  {
+    "verb": "mee-eten",
+    "tr": "Birlikte yemek yemek",
+    "examples": [
+      {
+        "nl": "Mag ik vanavond met jullie mee-eten?",
+        "tr": "Bu akşam sizinle birlikte yemek yemeğe katılabilir miyim?"
+      }
+    ]
+  },
+  {
+    "verb": "opeten",
+    "tr": "Tamamen yemek veya bitirmek",
+    "examples": [
+      {
+        "nl": "Hij heeft al het eten opgegeten.",
+        "tr": "Bütün yemeği bitirdi."
+      }
+    ]
+  },
+  {
+    "verb": "nafluiten",
+    "tr": "Islık çalmak (genellikle birini etkilemek için)",
+    "examples": [
+      {
+        "nl": "De jongens floten naar de voorbijgangers.",
+        "tr": "Çocuklar geçenlere ıslık çaldı."
+      }
+    ]
+  },
+  {
+    "verb": "uitfluiten",
+    "tr": "Islıkla protesto etmek veya yanlış olduğunu belirtmek",
+    "examples": [
+      {
+        "nl": "Het publiek begon de scheidsrechter uit te fluiten.",
+        "tr": "Seyirciler hakemi ıslıklamaya başladı."
+      }
+    ]
+  },
+  {
+    "verb": "binnengaan",
+    "tr": "İçeri girmek",
+    "examples": [
+      {
+        "nl": "Ze gingen het huis binnen en begroetten de gasten.",
+        "tr": "Eve girdiler ve misafirleri selamladılar."
+      }
+    ]
+  },
+  {
+    "verb": "doorgaan",
+    "tr": "Anlam 1: Devam etmek",
+    "examples": [
+      {
+        "nl": "De vergadering zal morgen doorgaan.",
+        "tr": "Toplantı yarın devam edecek."
+      },
+      {
+        "nl": "Ga maar door, ik kom zo bij je.",
+        "tr": "Devam et, hemen yanına geliyorum."
+      }
+    ]
+  },
+  {
+    "verb": "meegaan",
+    "tr": "Beraber gitmek veya katılmak",
+    "examples": [
+      {
+        "nl": "Wil je meegaan naar de film?",
+        "tr": "Filme beraber gitmek ister misin?"
+      }
+    ]
+  },
+  {
+    "verb": "misgaan",
+    "tr": "Yanlış gitmek veya ters gitmek",
+    "examples": [
+      {
+        "nl": "De plannen zijn helemaal misgegaan.",
+        "tr": "Planlar tamamen ters gitti."
+      }
+    ]
+  },
+  {
+    "verb": "overgaan",
+    "tr": "Anlam 1: Geçmek veya dönüşmek",
+    "examples": [
+      {
+        "nl": "De bladeren van de bomen gaan over naar herfstkleuren.",
+        "tr": "Ağaçların yaprakları sonbahar renklerine dönüşüyor."
+      },
+      {
+        "nl": "Het feest gaat over in de late uurtjes.",
+        "tr": "Parti geç saatlere kadar devam ediyor."
+      }
+    ]
+  },
+  {
+    "verb": "samengaan",
+    "tr": "Bir araya gelmek veya birlikte olmak",
+    "examples": [
+      {
+        "nl": "Kunst en cultuur gaan vaak hand in hand.",
+        "tr": "Sanat ve kültür genellikle birlikte gider."
+      }
+    ]
+  },
+  {
+    "verb": "tegengaan",
+    "tr": "Karşı gelmek veya engellemek",
+    "examples": [
+      {
+        "nl": "Haar beslissing gaat tegen mijn advies in.",
+        "tr": "Kararı, benim tavsiyeme karşı geliyor."
+      },
+      {
+        "nl": "Teruggaan\r\nTeruglopen (liep terug, is teruggelopen)",
+        "tr": "Geri gitmek\r\ngeri yürümek, (geri gitmek/çekilmek)"
+      },
+      {
+        "nl": "Ze moesten teruggaan naar de vorige stad.",
+        "tr": "Önceki şehre geri gitmeleri gerekiyordu."
+      }
+    ]
+  },
+  {
+    "verb": "voorgaan",
+    "tr": "Öne geçmek veya ilerlemek",
+    "examples": [
+      {
+        "nl": "De gids zal ons voorgaan naar de volgende attractie.",
+        "tr": "Rehber bizi bir sonraki atraksiyona önderlik edecek."
+      },
+      {
+        "nl": "De gids zal ons voorgaan naar de top van de berg.",
+        "tr": "Rehber dağın zirvesine öncülük edecek."
+      },
+      {
+        "nl": "Laat de kinderen voorgaan in de rij.",
+        "tr": "Çocukları sıranın önünde gitmelerine izin ver."
+      }
+    ]
+  },
+  {
+    "verb": "aangeven",
+    "tr": "Anlam 1: Belirtmek veya ifade etmek",
+    "examples": [
+      {
+        "nl": "Hij gaf duidelijk aan wat hij wilde.",
+        "tr": "Ne istediğini açıkça belirtti."
+      },
+      {
+        "nl": "De postbode gaf het pakketje aan mij.",
+        "tr": "Postacı paketi bana verdi."
+      }
+    ]
+  },
+  {
+    "verb": "afgeven",
+    "tr": "Teslim etmek veya vermek",
+    "examples": [
+      {
+        "nl": "Ze gaf haar sollicitatiebrief af bij de receptie.",
+        "tr": "Başvuru mektubunu resepsiyona teslim etti."
+      }
+    ]
+  },
+  {
+    "verb": "doorgeven",
+    "tr": "Aktarmak veya iletmek",
+    "examples": [
+      {
+        "nl": "Kun je deze boodschap aan je collega doorgeven?",
+        "tr": "Bu mesajı meslektaşına iletebilir misin?"
+      },
+      {
+        "nl": "Mijn buurman heeft me een interessant boek doorgegeven.",
+        "tr": "Komşum bana ilginç bir kitap verdi."
+      }
+    ]
+  },
+  {
+    "verb": "opgeven",
+    "tr": "Vazgeçmek veya bırakmak",
+    "examples": [
+      {
+        "nl": "Ze gaf het op na vele mislukte pogingen.",
+        "tr": "Birçok başarısız deneme sonrası vazgeçti."
+      }
+    ]
+  },
+  {
+    "verb": "overgeven",
+    "tr": "Teslim olmak veya vazgeçmek",
+    "examples": [
+      {
+        "nl": "De soldaten moesten zich overgeven aan de vijand.",
+        "tr": "Askerler düşmana teslim oldu."
+      }
+    ]
+  },
+  {
+    "verb": "teruggeven",
+    "tr": "Geri vermek veya iade etmek",
+    "examples": [
+      {
+        "nl": "Ik moet dit boek teruggeven aan de bibliotheek.",
+        "tr": "Bu kitabı kütüphaneye geri vermem lazım."
+      }
+    ]
+  },
+  {
+    "verb": "toegeven",
+    "tr": "İtiraf etmek veya kabul etmek",
+    "examples": [
+      {
+        "nl": "Hij gaf toe dat hij een fout had gemaakt.",
+        "tr": "Bir hatayı yaptığını kabul etti."
+      }
+    ]
+  },
+  {
+    "verb": "uitgeven",
+    "tr": "Anlam 1: Harcamak veya para harcamak",
+    "examples": [
+      {
+        "nl": "Ze geeft veel geld uit aan kleding.",
+        "tr": "Kıyafetlere çok para harcıyor."
+      },
+      {
+        "nl": "De auteur gaf zijn nieuwste boek uit bij een bekende uitgeverij.",
+        "tr": "Yazar en son kitabını tanınmış bir yayınevinden bastırdı."
+      },
+      {
+        "nl": "Ik wil graag mijn nieuwe roman uitgeven.",
+        "tr": "Yeni romanımı yayınlamak istiyorum."
+      }
+    ]
+  },
+  {
+    "verb": "weergeven",
+    "tr": "Göstermek veya sunmak",
+    "examples": [
+      {
+        "nl": "De presentatie zal de resultaten weergeven.",
+        "tr": "Sunum sonuçları gösterecek."
+      }
+    ]
+  },
+  {
+    "verb": "omgooien",
+    "tr": "Devirmek veya ters çevirmek",
+    "examples": [
+      {
+        "nl": "Hij gooide per ongeluk zijn glas om.",
+        "tr": "Kazara bardağını devirdi."
+      }
+    ]
+  },
+  {
+    "verb": "weggooien",
+    "tr": "Atmak veya çöpe atmak",
+    "examples": [
+      {
+        "nl": "Ze gooide het oude speelgoed weg.",
+        "tr": "Eski oyuncakları çöpe attı."
+      }
+    ]
+  },
+  {
+    "verb": "aanhebben",
+    "tr": "Üzerinde olmak veya giyilmiş olmak",
+    "examples": [
+      {
+        "nl": "Ze heeft altijd een sjaal aan.",
+        "tr": "Her zaman bir atkı takar."
+      }
+    ]
+  },
+  {
+    "verb": "afhebben",
+    "tr": "Bitirmek veya tamamlamak",
+    "examples": [
+      {
+        "nl": "Hij heeft zijn huiswerk af.",
+        "tr": "Ödevini bitirdi."
+      }
+    ]
+  },
+  {
+    "verb": "overhebben",
+    "tr": "Kalmak veya artmak",
+    "examples": [
+      {
+        "nl": "We hebben nog wat tijd over.",
+        "tr": "Hala biraz zamanımız var."
+      }
+    ]
+  },
+  {
+    "verb": "aanhoren",
+    "tr": "Dinlemek veya sabırla dinlemek",
+    "examples": [
+      {
+        "nl": "De leraar hoorde geduldig de vragen van de studenten aan.",
+        "tr": "Öğretmen öğrencilerin sorularını sabırla dinledi."
+      }
+    ]
+  },
+  {
+    "verb": "aanhouden",
+    "tr": "Tutuklamak veya durdurmak",
+    "examples": [
+      {
+        "nl": "De politie hield de verdachte aan.",
+        "tr": "Polis şüpheliyi tutukladı."
+      }
+    ]
+  },
+  {
+    "verb": "achterhouden",
+    "tr": "Saklamak veya gizlemek",
+    "examples": [
+      {
+        "nl": "Hij hield belangrijke informatie achter.",
+        "tr": "Önemli bilgileri sakladı."
+      }
+    ]
+  },
+  {
+    "verb": "bijhouden",
+    "tr": "Takip etmek veya ayak uydurmak",
+    "examples": [
+      {
+        "nl": "Kun je het tempo bijhouden?",
+        "tr": "Tempoya ayak uydurabilir misin?"
+      }
+    ]
+  },
+  {
+    "verb": "inhouden",
+    "tr": "İçermek veya kapsamak",
+    "examples": [
+      {
+        "nl": "De tas hield een verrassing in.",
+        "tr": "Çanta bir sürpriz içeriyordu."
+      },
+      {
+        "nl": "Hij kon zijn lachen niet inhouden tijdens de grappige film.",
+        "tr": "Komik film sırasında gülmeyi içinde tutamadı."
+      },
+      {
+        "nl": "Ze moest haar tranen inhouden bij het afscheid.",
+        "tr": "Veda esnasında gözyaşlarını içinde tutmak zorunda kaldı."
+      }
+    ]
+  },
+  {
+    "verb": "ophouden",
+    "tr": "Durmak veya sona ermek",
+    "examples": [
+      {
+        "nl": "Kun je alsjeblieft ophouden met lawaai maken?",
+        "tr": "Lütfen gürültü yapmayı bırakabilir misin?"
+      }
+    ]
+  },
+  {
+    "verb": "tegenhouden",
+    "tr": "Engellemek veya durdurmak",
+    "examples": [
+      {
+        "nl": "Hij kon haar niet tegenhouden om weg te gaan.",
+        "tr": "Gitmesini engelleyemedi."
+      }
+    ]
+  },
+  {
+    "verb": "uithouden",
+    "tr": "Dayanmak veya katlanmak",
+    "examples": [
+      {
+        "nl": "Ik weet niet hoe hij het uithoudt in die hitte.",
+        "tr": "Onun o sıcakta nasıl dayandığını bilmiyorum."
+      },
+      {
+        "nl": "Ik kan niet uithouden in een lawaaierige omgeving.",
+        "tr": "Gürültülü bir ortamda dayanamam"
+      },
+      {
+        "nl": "Hij hield het niet meer uit van de pijn en ging naar de dokter.",
+        "tr": "Acıya daha fazla dayanamadı ve doktora gitti."
+      }
+    ]
+  },
+  {
+    "verb": "volhouden",
+    "tr": "Dayanmak veya sürdürmek",
+    "examples": [
+      {
+        "nl": "Blijf volhouden, je bent bijna klaar.",
+        "tr": "Devam et, neredeyse bitirdin."
+      }
+    ]
+  },
+  {
+    "verb": "omkeren",
+    "tr": "Dönmek veya tersine çevirmek",
+    "examples": [
+      {
+        "nl": "Ze keerde zich om en liep terug.",
+        "tr": "Döndü ve geri yürüdü."
+      }
+    ]
+  },
+  {
+    "verb": "terugkeren",
+    "tr": "Geri dönmek",
+    "examples": [
+      {
+        "nl": "Na de vakantie keren we terug naar huis.",
+        "tr": "Tatilden sonra eve dönüyoruz."
+      }
+    ]
+  },
+  {
+    "verb": "uitkeren",
+    "tr": "Ödemek veya dağıtmak",
+    "examples": [
+      {
+        "nl": "Het salaris wordt elke maand uitgekeerd.",
+        "tr": "Maaş her ay ödenir."
+      },
+      {
+        "nl": "De verzekering zal het geld uitkeren na het indienen van de claim.",
+        "tr": "Talep başvurusu yapıldıktan sonra sigorta şirketi para ödeyecek."
+      },
+      {
+        "nl": "Hij heeft zijn spaargeld laten uitkeren om een nieuwe auto te kopen.",
+        "tr": "Yeni bir araba almak için birikimlerini çekmeye karar verdi."
+      }
+    ]
+  },
+  {
+    "verb": "aankijken",
+    "tr": "Bakmak veya yüz yüze gelmek",
+    "examples": [
+      {
+        "nl": "Hij keek me recht in de ogen aan.",
+        "tr": "Bana doğrudan gözlerime baktı."
+      }
+    ]
+  },
+  {
+    "verb": "inkijken",
+    "tr": "İncelemek veya gözden geçirmek",
+    "examples": [
+      {
+        "nl": "Ik moet de documenten nog inkijken.",
+        "tr": "Belgeleri henüz gözden geçirmem gerekiyor."
+      }
+    ]
+  },
+  {
+    "verb": "nakijken",
+    "tr": "Kontrol etmek veya düzeltmek",
+    "examples": [
+      {
+        "nl": "De leraar moet de proefwerken nakijken.",
+        "tr": "Öğretmen sınavları kontrol etmek zorunda."
+      }
+    ]
+  },
+  {
+    "verb": "rondkijken",
+    "tr": "Etrafına bakmak veya gezmek",
+    "examples": [
+      {
+        "nl": "Ze liep rustig door de winkelstraat en keek nieuwsgierig rond.",
+        "tr": "Sakin bir şekilde alışveriş caddesinde yürüdü ve merakla etrafına baktı."
+      },
+      {
+        "nl": "We kunnen wat rondkijken in de stad voordat we een beslissing nemen.",
+        "tr": "Karar vermeden önce şehirde biraz dolaşabiliriz."
+      },
+      {
+        "nl": "Hij liep langzaam door de winkelstraat en keek nieuwsgierig rond.",
+        "tr": "O, dükkan sokağında yavaşça yürüyerek merakla etrafına baktı."
+      }
+    ]
+  },
+  {
+    "verb": "uitkijken",
+    "tr": "Dikkat etmek veya dikkatli olmak",
+    "examples": [
+      {
+        "nl": "Je moet uitkijken bij het oversteken van de straat.",
+        "tr": "Sokağı geçerken dikkatli olmalısın."
+      }
+    ]
+  },
+  {
+    "verb": "aankleden",
+    "tr": "Giyinmek",
+    "examples": [
+      {
+        "nl": "Ze kleedde zich snel aan voor het feest.",
+        "tr": "Parti için hızlıca giyindi."
+      }
+    ]
+  },
+  {
+    "verb": "omkleden",
+    "tr": "Üstünü değiştirmek veya giysilerini değiştirmek",
+    "examples": [
+      {
+        "nl": "Na het sporten kleedde hij zich om in schone kleren.",
+        "tr": "Spor yapmaktan sonra temiz kıyafetlerle değişti."
+      }
+    ]
+  },
+  {
+    "verb": "uitkleden",
+    "tr": "Soyunmak veya giysilerini çıkarmak",
+    "examples": [
+      {
+        "nl": "Ze kwam thuis en kleedde zich meteen uit.",
+        "tr": "Eve geldi ve hemen soyundu."
+      }
+    ]
+  },
+  {
+    "verb": "afknippen",
+    "tr": "Kesmek veya kesip ayırmak",
+    "examples": [
+      {
+        "nl": "Ik moet mijn haar laten afknippen, het is te lang geworden.",
+        "tr": "Saçımı kestirmem gerekiyor, çok uzadı."
+      },
+      {
+        "nl": "Ze heeft de bonenplanten afgeknipt om ze te laten groeien.",
+        "tr": "Fasulye bitkilerini büyümeleri için budadı."
+      }
+    ]
+  },
+  {
+    "verb": "doorknippen",
+    "tr": "Kesmeye devam etmek veya tamamen kesmek",
+    "examples": [
+      {
+        "nl": "Hij knipte het touw door midden.",
+        "tr": "İpi ortadan ikiye kesti."
+      },
+      {
+        "nl": "Ik ga het touw doorknippen om het cadeau uit te pakken.",
+        "tr": "Hediyeyi açmak için ipi kesmeye gidiyorum."
+      },
+      {
+        "nl": "Hij moest de kabel doorknippen om de elektriciteit uit te schakelen.",
+        "tr": "Elektriği kapatmak için kabloyu kesmek zorunda kaldı."
+      }
+    ]
+  },
+  {
+    "verb": "uitknippen",
+    "tr": "Kesip çıkarmak veya keserek ayırmak",
+    "examples": [
+      {
+        "nl": "Ze knipte de bon uit het tijdschrift.",
+        "tr": "Dergiden fişi kesip çıkardı."
+      }
+    ]
+  },
+  {
+    "verb": "aankomen",
+    "tr": "Varmak veya ulaşmak",
+    "examples": [
+      {
+        "nl": "De trein komt over vijf minuten aan op het station.",
+        "tr": "Tren beş dakika içinde istasyona varacak."
+      }
+    ]
+  },
+  {
+    "verb": "afkomen",
+    "tr": "Kurtulmak veya kendini kurtarmak",
+    "examples": [
+      {
+        "nl": "Ik kan niet van mijn verkoudheid afkomen.",
+        "tr": "Nezleden kurtulamıyorum."
+      }
+    ]
+  },
+  {
+    "verb": "inkomen",
+    "tr": "Gelir veya kazanç elde etmek",
+    "examples": [
+      {
+        "nl": "Zijn inkomen is voldoende om de huur te betalen.",
+        "tr": "Geliri kiranın ödenmesi için yeterli."
+      }
+    ]
+  },
+  {
+    "verb": "langskomen",
+    "tr": "Geçerken uğramak veya ziyaret etmek",
+    "examples": [
+      {
+        "nl": "Kom je morgen even langskomen?",
+        "tr": "Yarın uğramak için gelir misin?"
+      }
+    ]
+  },
+  {
+    "verb": "overkomen",
+    "tr": "Başına gelmek, başından geçmek, geçirmek, görmek; yanlış/ters anlaşılmak;",
+    "examples": [
+      {
+        "nl": "Het spijt me dat ik zo onbeleefd overkwam.",
+        "tr": "Kaba davrandığım için üzgünüm."
+      },
+      {
+        "nl": "Het is me vandaag iets vervelends overkomen.",
+        "tr": "Bugün bana bir şey kötü geldi."
+      },
+      {
+        "nl": "Hoe is het je gelukt om die hindernis te overkomen?",
+        "tr": "O engeli nasıl aştın?"
+      }
+    ]
+  },
+  {
+    "verb": "rondkomen",
+    "tr": "Geçinmek veya geçim sağlamak",
+    "examples": [
+      {
+        "nl": "Met mijn salaris kan ik net rondkomen.",
+        "tr": "Maaşımla zorlukla geçinebiliyorum."
+      }
+    ]
+  },
+  {
+    "verb": "samenkomen",
+    "tr": "Bir araya gelmek veya toplantı yapmak",
+    "examples": [
+      {
+        "nl": "We komen volgende week samen om de plannen te bespreken.",
+        "tr": "Planları görüşmek için gelecek hafta bir araya geleceğiz."
+      }
+    ]
+  },
+  {
+    "verb": "tegenkomen",
+    "tr": "Karşılaşmak veya rastlamak",
+    "examples": [
+      {
+        "nl": "Ik kwam toevallig mijn oude vriend tegen op straat.",
+        "tr": "Sokakta eski bir arkadaşımla tesadüfen karşılaştım."
+      }
+    ]
+  },
+  {
+    "verb": "terugkomen",
+    "tr": "Geri gelmek",
+    "examples": [
+      {
+        "nl": "Hij is net teruggekomen van zijn zakenreis.",
+        "tr": "İş seyahatinden yeni döndü."
+      }
+    ]
+  },
+  {
+    "verb": "uitkomen",
+    "tr": "Gerçekleşmek veya ortaya çıkmak",
+    "examples": [
+      {
+        "nl": "Zijn voorspelling kwam uiteindelijk uit.",
+        "tr": "Sonunda tahmini gerçekleşti."
+      }
+    ]
+  },
+  {
+    "verb": "wegkomen",
+    "tr": "Kaçmak veya kurtulmak",
+    "examples": [
+      {
+        "nl": "Hij kon net op tijd wegkomen voordat het begon te regenen.",
+        "tr": "Yağmur yağmaya başlamadan hemen önce kaçmayı başardı."
+      }
+    ]
+  },
+  {
+    "verb": "afkrijgen",
+    "tr": "Üstesinden gelmek veya başarmak",
+    "examples": [
+      {
+        "nl": "Ik kan die vlek niet van mijn shirt afkrijgen.",
+        "tr": "O lekeyi gömleğimden çıkaramıyorum."
+      }
+    ]
+  },
+  {
+    "verb": "binnenkrijgen",
+    "tr": "Edinmek veya kazanmak",
+    "examples": [
+      {
+        "nl": "Ze kon geen baan binnenkrijgen ondanks haar inspanningen.",
+        "tr": "Çabalarına rağmen iş bulamadı."
+      }
+    ]
+  },
+  {
+    "verb": "terugkrijgen",
+    "tr": "Geri almak veya iade almak",
+    "examples": [
+      {
+        "nl": "Kun je me mijn pen terugkrijgen?",
+        "tr": "Kalemimi geri alabilir misin?"
+      }
+    ]
+  },
+  {
+    "verb": "aanleggen",
+    "tr": "İnşa etmek veya kurmak",
+    "examples": [
+      {
+        "nl": "Ze willen een nieuwe snelweg aanleggen.",
+        "tr": "Yeni bir otoyol yapmak istiyorlar."
+      }
+    ]
+  },
+  {
+    "verb": "afleggen",
+    "tr": "Ziyaret etmek veya geçmek",
+    "examples": [
+      {
+        "nl": "We moeten nog een bezoek afleggen aan onze familie.",
+        "tr": "Ailemizi ziyaret etmemiz gerekiyor."
+      }
+    ]
+  },
+  {
+    "verb": "neerleggen",
+    "tr": "Yerleştirmek veya bırakmak",
+    "examples": [
+      {
+        "nl": "Hij legde zijn boek neer en stond op.",
+        "tr": "Kitabını bıraktı ve kalktı."
+      }
+    ]
+  },
+  {
+    "verb": "opleggen",
+    "tr": "Yüklemek veya emretmek",
+    "examples": [
+      {
+        "nl": "Ze legden strenge regels op aan hun kinderen.",
+        "tr": "Çocuklarına katı kurallar koydular."
+      }
+    ]
+  },
+  {
+    "verb": "overleggen",
+    "tr": "Danışmak veya görüşmek",
+    "examples": [
+      {
+        "nl": "We moeten overleggen voordat we een beslissing nemen.",
+        "tr": "Bir karar vermeden önce görüşmemiz gerekiyor."
+      }
+    ]
+  },
+  {
+    "verb": "voorleggen",
+    "tr": "Sunmak veya sunmak",
+    "examples": [
+      {
+        "nl": "Hij legde zijn ideeën voor aan het management.",
+        "tr": "Fikirlerini yönetim kuruluna sundu."
+      }
+    ]
+  },
+  {
+    "verb": "uitleggen",
+    "tr": "Açıklamak veya izah etmek",
+    "examples": [
+      {
+        "nl": "De leraar legde de lesstof duidelijk uit aan de studenten.",
+        "tr": "Öğretmen ders materyalini öğrencilere açık bir şekilde anlattı."
+      }
+    ]
+  },
+  {
+    "verb": "afleiden",
+    "tr": "Dikkatini dağıtmak veya yanıltmak",
+    "examples": [
+      {
+        "nl": "Laat je niet afleiden door de geluiden om je heen.",
+        "tr": "Çevrendeki sesler senin dikkatini dağıtmasına izin verme."
+      }
+    ]
+  },
+  {
+    "verb": "omleiden",
+    "tr": "Yönlendirmek veya başka bir yöne çevirmek",
+    "examples": [
+      {
+        "nl": "Vanwege een ongeluk moest het verkeer worden omgeleid.",
+        "tr": "Kaza nedeniyle trafik başka bir yöne yönlendirildi."
+      }
+    ]
+  },
+  {
+    "verb": "opleiden",
+    "tr": "Eğitmek veya yetiştirmek",
+    "examples": [
+      {
+        "nl": "Het bedrijf leidt nieuwe medewerkers op om hen voor te bereiden op hun taken.",
+        "tr": "Şirket yeni çalışanları yetiştirerek görevlerine hazırlar."
+      }
+    ]
+  },
+  {
+    "verb": "rondleiden",
+    "tr": "Gezdirmek veya rehberlik etmek",
+    "examples": [
+      {
+        "nl": "De gids zal ons door het museum rondleiden en ons interessante feiten vertellen.",
+        "tr": "Rehber bizi müzede gezdirecek ve ilginç bilgiler verecek."
+      }
+    ]
+  },
+  {
+    "verb": "afleveren",
+    "tr": "Teslim etmek veya sunmak",
+    "examples": [
+      {
+        "nl": "De koerier zal het pakket vanmiddag afleveren.",
+        "tr": "Kurye bu öğleden sonra paketi teslim edecek."
+      }
+    ]
+  },
+  {
+    "verb": "inleveren",
+    "tr": "Teslim etmek veya vermek",
+    "examples": [
+      {
+        "nl": "Vergeet niet je huiswerk in te leveren voor morgen.",
+        "tr": "Yarın için ödevini teslim etmeyi unutma."
+      }
+    ]
+  },
+  {
+    "verb": "aflezen",
+    "tr": "Okumak veya anlamak",
+    "examples": [
+      {
+        "nl": "De tijd kun je aflezen van de klok.",
+        "tr": "Saatteki zamanı saatten okuyabilirsin."
+      },
+      {
+        "nl": "Hij kon de informatie van het bord niet goed aflezen.",
+        "tr": "Tahtadaki bilgileri iyi okuyamadı."
+      },
+      {
+        "nl": "Ik kan de tijd op de klok aflezen.",
+        "tr": "Saatteki zamanı okuyabilirim."
+      }
+    ]
+  },
+  {
+    "verb": "nalezen",
+    "tr": "yeniden gözden geçirmek, incelemek icin tekrar okumak",
+    "examples": [
+      {
+        "nl": "ik heb dat boek er nog eens op nagelezen, maar…",
+        "tr": "O kitabı tekrar okudum ama..."
+      },
+      {
+        "nl": "Ik kon mijn sleutels niet meteen vinden, maar uiteindelijk heb ik ze toch nog nalezen",
+        "tr": "Anahtarlarımı hemen bulamadım ama sonunda onları okudum."
+      },
+      {
+        "nl": "Ik ga mijn scriptie nog een keer nalezen voordat ik hem inlever.",
+        "tr": "Tezimi teslim etmeden önce tekrar gözden geçireceğim."
+      },
+      {
+        "nl": "Zorg ervoor dat je je e-mails goed naleest voordat je ze verstuurt.",
+        "tr": "E-postalarınızı göndermeden önce dikkatlice okuduğunuzdan emin olun."
+      }
+    ]
+  },
+  {
+    "verb": "herlezen",
+    "tr": "yeniden okumak",
+    "examples": [
+      {
+        "nl": "Ik moet dat stuk nog op herlezen mogelijke fouten.",
+        "tr": "Olası hatalarla ilgili o yazıyı/parcayi/bolumu tekrar/ yeniden okumam gerekiyor."
+      }
+    ]
+  },
+  {
+    "verb": "overlezen",
+    "tr": "Üzerinden geçmek veya dikkatlice okumak",
+    "examples": [
+      {
+        "nl": "Voordat je je werk inlevert, moet je het nog even overlezen.",
+        "tr": "İşini teslim etmeden önce bir kez daha dikkatlice okumalısın."
+      }
+    ]
+  },
+  {
+    "verb": "uitlezen",
+    "tr": "Bitirmek veya tamamlamak",
+    "examples": [
+      {
+        "nl": "Ik ben bezig met het uitlezen van een interessant boek.",
+        "tr": "Ilginç bir kitabı bitirmekle meşgulüm."
+      }
+    ]
+  },
+  {
+    "verb": "voorlezen",
+    "tr": "Sesli okumak veya okumak",
+    "examples": [
+      {
+        "nl": "De leraar zal een verhaal voorlezen aan de kinderen.",
+        "tr": "Öğretmen çocuklara bir hikaye okuyacak."
+      }
+    ]
+  },
+  {
+    "verb": "aanlopen",
+    "tr": "Uğramak veya ziyaret etmek",
+    "examples": [
+      {
+        "nl": "Ik zal vanavond even bij mijn vriend aanlopen om gedag te zeggen.",
+        "tr": "Bu akşam arkadaşıma uğrayıp hoşça kal demek için geçeceğim."
+      }
+    ]
+  },
+  {
+    "verb": "achterlopen",
+    "tr": "Geride kalmak veya gecikmek",
+    "examples": [
+      {
+        "nl": "Mijn horloge loopt achter, dus ik moet het bijstellen.",
+        "tr": "Saatim geriden gidiyor, bu yüzden ayarlamam gerekiyor."
+      }
+    ]
+  },
+  {
+    "verb": "aflopen",
+    "tr": "Bitmek veya sona ermek",
+    "examples": [
+      {
+        "nl": "De film liep gisteravond laat af.",
+        "tr": "Film dün akşam geç saatte bitti."
+      },
+      {
+        "nl": "Onze vakantie loopt binnenkort af, dus we moeten inpakken.",
+        "tr": "Tatilimiz yakında bitecek, bu yüzden valiz yapmamız gerekiyor."
+      }
+    ]
+  },
+  {
+    "verb": "binnenlopen",
+    "tr": "İçeri girmek veya uğramak",
+    "examples": [
+      {
+        "nl": "Kom gerust even binnenlopen als je in de buurt bent.",
+        "tr": "Yakınsanız rahatlıkla içeri uğrayın."
+      }
+    ]
+  },
+  {
+    "verb": "doorlopen",
+    "tr": "Devam etmek veya geçmek",
+    "examples": [
+      {
+        "nl": "Loop maar door, ik kom zo bij je.",
+        "tr": "Devam et, hemen yanına geliyorum."
+      }
+    ]
+  },
+  {
+    "verb": "mislopen",
+    "tr": "Kaçırmak veya elde edememek",
+    "examples": [
+      {
+        "nl": "Hij heeft de trein gemist en daardoor de afspraak misgelopen.",
+        "tr": "Treni kaçırdı ve bu yüzden randevuyu kaçırdı."
+      }
+    ]
+  },
+  {
+    "verb": "omlopen",
+    "tr": "Etrafını dolaşmak veya başka bir yola yönelmek",
+    "examples": [
+      {
+        "nl": "Vanwege de wegwerkzaamheden moeten we omlopen om bij het restaurant te komen.",
+        "tr": "Yol çalışmaları nedeniyle restorana gitmek için başka bir yol izlememiz gerekiyor."
+      }
+    ]
+  },
+  {
+    "verb": "oplopen",
+    "tr": "Artmak veya arttırmak",
+    "examples": [
+      {
+        "nl": "De kosten van het project lopen steeds verder op.",
+        "tr": "Projenin maliyetleri giderek artıyor."
+      },
+      {
+        "nl": "Teruglopen (liep terug, is teruggelopen)\r\nTeruggaan",
+        "tr": "geri yürümek, (geri gitmek/çekilmek),\r\ngerilemek, geri gitmek, kötüleşmek,"
+      },
+      {
+        "nl": "Laten we teruggaan naar de auto",
+        "tr": "Arabaya geri dönelim."
+      },
+      {
+        "nl": "We liepen verkeerd en moesten teruglopen naar de juiste weg.",
+        "tr": "Yanlış yoldan yürüdük/bir rotaya girdik ve doğru yola geri dönmek zorunda kaldık."
+      },
+      {
+        "nl": "De prijzen zijn teruggelopen na de uitverkoop.",
+        "tr": "İndirimden sonra fiyatlar düştü."
+      }
+    ]
+  },
+  {
+    "verb": "uitlopen",
+    "tr": "Bitmek veya sona ermek",
+    "examples": [
+      {
+        "nl": "De voorstelling liep uit en eindigde pas laat in de avond.",
+        "tr": "Gösteri uzadı ve akşam geç saatte bitti."
+      }
+    ]
+  },
+  {
+    "verb": "weglopen",
+    "tr": "Uzaklaşmak veya kaçmak",
+    "examples": [
+      {
+        "nl": "Hij was boos en liep weg van de ruzie.",
+        "tr": "O sinirlendi ve tartışmadan uzaklaştı."
+      }
+    ]
+  },
+  {
+    "verb": "afkrijgen",
+    "tr": "Kurtulmak veya üstesinden gelmek",
+    "examples": [
+      {
+        "nl": "Ik kan die vlek niet afkrijgen van mijn shirt.",
+        "tr": "Bu lekeyi gömleğimden çıkaramıyorum."
+      }
+    ]
+  },
+  {
+    "verb": "binnenkrijgen",
+    "tr": "Elde etmek veya kazanmak",
+    "examples": [
+      {
+        "nl": "Ze heeft eindelijk de baan binnengekregen waar ze op hoopte.",
+        "tr": "Sonunda umut ettiği işi kazandı."
+      }
+    ]
+  },
+  {
+    "verb": "terugkrijgen",
+    "tr": "Geri almak",
+    "examples": [
+      {
+        "nl": "Kun je me mijn pen terugkrijgen? Ik heb hem gisteren uitgeleend.",
+        "tr": "Kalemimi geri alabilir misin? Dün ödünç verdim."
+      }
+    ]
+  },
+  {
+    "verb": "aanleggen",
+    "tr": "İnşa etmek veya yapmak",
+    "examples": [
+      {
+        "nl": "Ze willen een nieuwe weg aanleggen om het verkeer te verbeteren.",
+        "tr": "Trafik akışını iyileştirmek için yeni bir yol yapmak istiyorlar."
+      }
+    ]
+  },
+  {
+    "verb": "afleggen",
+    "tr": "Katetmek veya gitmek",
+    "examples": [
+      {
+        "nl": "We moeten nog een lange afstand afleggen voordat we bij de bestemming aankomen.",
+        "tr": "Hedefe varmadan önce uzun bir mesafe kat etmeliyiz."
+      }
+    ]
+  },
+  {
+    "verb": "neerleggen",
+    "tr": "Koymak veya bırakmak",
+    "examples": [
+      {
+        "nl": "Leg de boeken maar neer op de tafel.",
+        "tr": "Kitapları masanın üzerine koyun."
+      }
+    ]
+  },
+  {
+    "verb": "opleggen",
+    "tr": "Dayatmak veya yüklemek",
+    "examples": [
+      {
+        "nl": "Mijn baas heeft me een strakke deadline opgelegd.",
+        "tr": "Patronum bana sıkı bir teslim tarihi verdi."
+      }
+    ]
+  },
+  {
+    "verb": "overleggen",
+    "tr": "Tartışmak veya danışmak",
+    "examples": [
+      {
+        "nl": "Laten we overleggen voordat we een beslissing nemen.",
+        "tr": "Bir karar vermeden önce tartışalım."
+      }
+    ]
+  },
+  {
+    "verb": "voorleggen",
+    "tr": "Sunmak veya sunmak",
+    "examples": [
+      {
+        "nl": "Hij zal zijn plan aan het team voorleggen tijdens de vergadering.",
+        "tr": "Toplantı sırasında planını ekibe sunacak."
+      }
+    ]
+  },
+  {
+    "verb": "uitleggen",
+    "tr": "Açıklamak",
+    "examples": [
+      {
+        "nl": "Kan je me de regels uitleggen?",
+        "tr": "Kuralları bana açıklayabilir misin?"
+      }
+    ]
+  },
+  {
+    "verb": "afleiden",
+    "tr": "Sonuç çıkarmak veya dikkatini dağıtmak",
+    "examples": [
+      {
+        "nl": "Uit zijn gedrag kunnen we afleiden dat er iets mis is.",
+        "tr": "Davranışından bir şeylerin yanlış olduğunu çıkarabiliriz."
+      }
+    ]
+  },
+  {
+    "verb": "omleiden",
+    "tr": "Başka yöne yönlendirmek veya başka bir rota kullanmak",
+    "examples": [
+      {
+        "nl": "Vanwege wegwerkzaamheden moesten we omgeleid worden.",
+        "tr": "Yol çalışmaları nedeniyle başka bir yöne yönlendirildik."
+      }
+    ]
+  },
+  {
+    "verb": "opleiden",
+    "tr": "Eğitmek veya yetiştirmek",
+    "examples": [
+      {
+        "nl": "Het bedrijf investeert in het opleiden van jonge talenten.",
+        "tr": "Şirket, genç yetenekleri eğitmeye yatırım yapıyor."
+      }
+    ]
+  },
+  {
+    "verb": "rondleiden",
+    "tr": "Birini gezdirmek veya bir tur attırmak",
+    "examples": [
+      {
+        "nl": "Ik zal je graag rondleiden in de stad.",
+        "tr": "Sana şehirde gezdirmekten memnuniyet duyarım."
+      }
+    ]
+  },
+  {
+    "verb": "afleveren",
+    "tr": "Teslim etmek veya sunmak",
+    "examples": [
+      {
+        "nl": "De postbode heeft het pakket afgeleverd.",
+        "tr": "Postacı paketi teslim etti."
+      }
+    ]
+  },
+  {
+    "verb": "inleveren",
+    "tr": "Teslim etmek veya vermek",
+    "examples": [
+      {
+        "nl": "Je moet je opdracht morgenochtend inleveren.",
+        "tr": "Ödevinizi yarın sabah teslim etmelisiniz."
+      }
+    ]
+  },
+  {
+    "verb": "aflezen",
+    "tr": "Okumak veya anlamak",
+    "examples": [
+      {
+        "nl": "De tijd kun je op het horloge aflezen.",
+        "tr": "Saat bilgisini saatte okuyabilirsiniz."
+      }
+    ]
+  },
+  {
+    "verb": "overlezen",
+    "tr": "Üzerinden geçmek veya tekrar okumak",
+    "examples": [
+      {
+        "nl": "De tekst nog een keer overlezen voordat je hem inlevert.",
+        "tr": "Teslim etmeden önce metni bir kez daha oku."
+      }
+    ]
+  },
+  {
+    "verb": "uitlezen",
+    "tr": "Bir metni veya bir kitabı dikkatlice okumak veya incelemek",
+    "examples": [
+      {
+        "nl": "Ik ben bezig met het uitlezen van een interessant boek.",
+        "tr": "Ilginç bir kitabı bitirmekle meşgulüm."
+      }
+    ]
+  },
+  {
+    "verb": "voorlezen",
+    "tr": "Sesli bir şekilde başkalarına bir metin veya kitap okumak",
+    "examples": [
+      {
+        "nl": "De leraar zal een verhaal voorlezen aan de kinderen.",
+        "tr": "Öğretmen çocuklara bir hikaye okuyacak."
+      }
+    ]
+  },
+  {
+    "verb": "aanlopen",
+    "tr": "Bir yere veya birine yaklaşmak veya gitmek",
+    "examples": [
+      {
+        "nl": "Ik zal vanavond even bij mijn vriend aanlopen om gedag te zeggen.",
+        "tr": "Bu akşam arkadaşıma uğrayıp hoşça kal demek için geçeceğim."
+      }
+    ]
+  },
+  {
+    "verb": "achterlopen",
+    "tr": "Birinin arkasından gitmek veya geride kalmak",
+    "examples": [
+      {
+        "nl": "Mijn horloge loopt achter, dus ik moet het bijstellen.",
+        "tr": "Saatim geriden gidiyor, bu yüzden ayarlamam gerekiyor."
+      }
+    ]
+  },
+  {
+    "verb": "aflopen",
+    "tr": "Belirli bir süre sonunda tamamlanmak veya bitmek",
+    "examples": [
+      {
+        "nl": "\"De vergadering loopt om 17.00 uur af.\"",
+        "tr": "Toplantı saat 17.00'de sona eriyor."
+      },
+      {
+        "nl": "\"De deadline voor het indienen van het project loopt morgen af.\"",
+        "tr": "Projenin teslim tarihi yarın bitiyor."
+      }
+    ]
+  },
+  {
+    "verb": "binnenlopen",
+    "tr": "Bir yere girmek veya içeri girmek",
+    "examples": [
+      {
+        "nl": "Kom gerust even binnenlopen als je in de buurt bent.",
+        "tr": "Yakınsanız rahatlıkla içeri uğrayın."
+      }
+    ]
+  },
+  {
+    "verb": "doorlopen",
+    "tr": "Başladığı yerden geçerek veya bitiş noktasına kadar devam etmek",
+    "examples": [
+      {
+        "nl": "Loop maar door, ik kom zo bij je.",
+        "tr": "Devam et, hemen yanına geliyorum."
+      }
+    ]
+  },
+  {
+    "verb": "mislopen",
+    "tr": "Beklenen veya umulan bir şeyi kaçırmak veya elde edememek",
+    "examples": [
+      {
+        "nl": "Hij heeft de trein gemist en daardoor de afspraak misgelopen.",
+        "tr": "Treni kaçırdı ve bu yüzden randevuyu kaçırdı."
+      }
+    ]
+  },
+  {
+    "verb": "omlopen",
+    "tr": "Bir dönüş yapmak veya etrafında dolaşmak",
+    "examples": [
+      {
+        "nl": "Vanwege de wegwerkzaamheden moeten we omlopen om bij het restaurant te komen.",
+        "tr": "Yol çalışmaları nedeniyle restorana gitmek için başka bir yol izlememiz gerekiyor."
+      }
+    ]
+  },
+  {
+    "verb": "oplopen",
+    "tr": "Artış göstermek veya daha yüksek bir duruma gelmek",
+    "examples": [
+      {
+        "nl": "De kosten van het project lopen steeds verder op.",
+        "tr": "Projenin maliyetleri giderek artıyor."
+      }
+    ]
+  },
+  {
+    "verb": "teruglopen",
+    "tr": "Geriye doğru gitmek veya geri dönmek",
+    "examples": [
+      {
+        "nl": "Laten we teruggaan naar de auto.",
+        "tr": "Arabaya geri dönelim."
+      }
+    ]
+  },
+  {
+    "verb": "uitlopen",
+    "tr": "Bir şeyin sona ermesi veya tamamlanması",
+    "examples": [
+      {
+        "nl": "De voorstelling liep uit en eindigde pas laat in de avond.",
+        "tr": "Gösteri uzadı ve akşam geç saatte bitti."
+      }
+    ]
+  },
+  {
+    "verb": "weglopen",
+    "tr": "Bir yerden uzaklaşmak veya ayrılmak",
+    "examples": [
+      {
+        "nl": "Hij was boos en liep weg van de ruzie.",
+        "tr": "O sinirlendi ve tartışmadan uzaklaştı."
+      },
+      {
+        "nl": "aanmaken (maakte aan, h. aangemaakt)",
+        "tr": "hazırlamak, yapmak"
+      },
+      {
+        "nl": "Ik moet een nieuwe afspraak aanmaken met de dokter.",
+        "tr": "Doktorla yeni bir randevu almam gerekiyor."
+      },
+      {
+        "nl": "fig. met iemand de kachel",
+        "tr": "birini gülünç duruma düşürmek, alaya almak"
+      }
+    ]
+  },
+  {
+    "verb": "afmaken",
+    "tr": "Bir işi tamamlamak veya bitirmek. Ik maak mijn huiswerk af. (Ödevimi bitiriyorum.)",
+    "examples": [
+      {
+        "nl": "We rekenen de boodschappen af bij de kassa.",
+        "tr": "Kasada alışverişleri ödüyoruz."
+      }
+    ]
+  },
+  {
+    "verb": "meemaken",
+    "tr": "Bir olaya tanık olmak veya bir deneyimi yaşamak.",
+    "examples": [
+      {
+        "nl": "Hij heeft een interessante gebeurtenis meegemaakt tijdens zijn reis.",
+        "tr": "Seyahati sırasında ilginç bir olay yaşadı."
+      }
+    ]
+  },
+  {
+    "verb": "opmaken",
+    "tr": "Bir kaynağı tüketmek veya bitirmek.",
+    "examples": [
+      {
+        "nl": "Ze maken de tafel op voor het diner.",
+        "tr": "Yemek için masayı hazırlıyorlar."
+      }
+    ]
+  },
+  {
+    "verb": "uitmaken",
+    "tr": "Bir ilişkiyi sona erdirmek veya bitirmek.",
+    "examples": [
+      {
+        "nl": "Het koppel heeft besloten om hun relatie uit te maken.",
+        "tr": "Çift ilişkilerini bitirmeye karar verdi."
+      }
+    ]
+  },
+  {
+    "verb": "afnemen",
+    "tr": "Azalmak veya eksilmek.",
+    "examples": [
+      {
+        "nl": "De verkoper neemt de bestelling van de klant af.",
+        "tr": "Satıcı müşterinin siparişini alıyor."
+      },
+      {
+        "nl": "Naarmate de avond vordert, neemt de drukte in de stad af.",
+        "tr": "Akşam ilerledikçe şehirdeki kalabalık azalıyor."
+      }
+    ]
+  },
+  {
+    "verb": "innemen",
+    "tr": "Bir şeyi içmek veya tüketmek.",
+    "examples": [
+      {
+        "nl": "Her sabah kahvaltıda een glas vruchtensap innemen.",
+        "tr": "Her sabah kahvaltıda bir bardak meyve suyu içer."
+      }
+    ]
+  },
+  {
+    "verb": "opnemen",
+    "tr": "Bir şeyi kaydetmek veya almak.",
+    "examples": [
+      {
+        "nl": "De verkoper neemt de bestelling op van de klant.",
+        "tr": "Satıcı müşterinin siparişini alıyor."
+      }
+    ]
+  },
+  {
+    "verb": "terugnemen",
+    "tr": "Bir şeyi geri almak veya iptal etmek.",
+    "examples": [
+      {
+        "nl": "Ik ga mijn boeken terugnemen van mijn vriend.",
+        "tr": "Kitaplarımı arkadaşımdan geri alacağım."
+      }
+    ]
+  },
+  {
+    "verb": "aanpraten",
+    "tr": "Birine bir şeyi tavsiye etmek veya önermek.",
+    "examples": [
+      {
+        "nl": "Laat je niet door anderen iets aanpraten wat je niet wilt doen.",
+        "tr": "Başkalarının sizi yapmak istemediğiniz bir şeye ikna etmesine izin vermeyin."
+      }
+    ]
+  },
+  {
+    "verb": "bijpraten",
+    "tr": "Birine olaylar hakkında bilgi vermek veya güncelleme yapmak.",
+    "examples": [
+      {
+        "nl": "Laten we even bijpraten over wat er de afgelopen week is gebeurd.",
+        "tr": "Geçen hafta olanlar hakkında kısa bir sohbet edelim."
+      }
+    ]
+  },
+  {
+    "verb": "doorpraten",
+    "tr": "Konuşmayı sürdürmek veya devam ettirmek.",
+    "examples": [
+      {
+        "nl": "We moeten doorpraten om tot een oplossing te komen.",
+        "tr": "Bir çözüme varmak için konuşmaya devam etmeliyiz."
+      }
+    ]
+  },
+  {
+    "verb": "napraten",
+    "tr": "Bir olay hakkında konuşmaya veya tartışmaya devam etmek.",
+    "examples": [
+      {
+        "nl": "Na de vergadering zaten ze nog lang na te praten over de beslissingen.",
+        "tr": "Toplantıdan sonra kararlar hakkında uzun süre konuştular."
+      }
+    ]
+  },
+  {
+    "verb": "ompraten",
+    "tr": "Birini veya bir şeyi etkilemek veya ikna etmek için konuşmak.",
+    "examples": [
+      {
+        "nl": "Ik kan je niet ompraten om met me mee te gaan naar het feest.",
+        "tr": "Seni benimle partiye gelmeye ikna edemem."
+      }
+    ]
+  },
+  {
+    "verb": "uitpraten",
+    "tr": "Tartışma veya anlaşmazlık durumunda, konuşarak veya müzakere ederek çözüm bulmak.",
+    "examples": [
+      {
+        "nl": "We moeten dit probleem uitpraten voordat het escaleert.",
+        "tr": "Bu sorunu büyümeden halletmeliyiz."
+      }
+    ]
+  },
+  {
+    "verb": "afrekenen",
+    "tr": "Bir hesabı ödemek veya fatura düzenlemek.",
+    "examples": [
+      {
+        "nl": "Na het winkelen moeten we afrekenen bij de kassa.",
+        "tr": "Alışverişten sonra kasada ödememiz gerekiyor."
+      }
+    ]
+  },
+  {
+    "verb": "omrekenen",
+    "tr": "Bir birimi başka bir birime dönüştürmek.",
+    "examples": [
+      {
+        "nl": "Ik moet de valuta omrekenen voordat ik op reis ga.",
+        "tr": "Yolculuğa çıkmadan önce para birimini dönüştürmem gerekiyor."
+      }
+    ]
+  },
+  {
+    "verb": "uitrekenen",
+    "tr": "Matematiksel bir işlem yapmak veya bir problemin çözümünü bulmak.",
+    "examples": [
+      {
+        "nl": "Hij is druk bezig met het uitrekenen van de rekening.",
+        "tr": "Faturayı hesaplamakla meşgul."
+      }
+    ]
+  },
+  {
+    "verb": "aanrijden",
+    "tr": "Bir şeye veya birine çarpmak veya çarpmak.",
+    "examples": [
+      {
+        "nl": "De auto is tegen een paal aangereden.",
+        "tr": "Araba bir direğe çarptı."
+      }
+    ]
+  },
+  {
+    "verb": "binnenrijden",
+    "tr": "Bir araçla bir yere girmek veya içeri girmek.",
+    "examples": [
+      {
+        "nl": "Ik kan de auto niet binnenrijden omdat de parkeerplaats vol is.",
+        "tr": "Otopark dolu olduğu için arabayı içeri sürüyemiyorum."
+      },
+      {
+        "nl": "Je moet langzaam binnenrijden in de garage om geen schade te veroorzaken.",
+        "tr": "Garaja zarar vermemek için yavaşça içeri sürmelisin."
+      }
+    ]
+  },
+  {
+    "verb": "meerijden",
+    "tr": "Birisiyle aynı araçta seyahat etmek veya yolculuk yapmak.",
+    "examples": [
+      {
+        "nl": "Kun je met mij meerijden naar het feestje vanavond?",
+        "tr": "Bu akşamki partiye benimle birlikte gelebilir misin?"
+      },
+      {
+        "nl": "Ik ben moe, dus ik zou graag met iemand willen meerijden naar huis.",
+        "tr": "Yorgunum, bu yüzden biriyle eve gitmek istiyorum, yanıma alabilir miyim?"
+      }
+    ]
+  },
+  {
+    "verb": "wegrijden",
+    "tr": "Bir yerden ayrılmak veya bir araçla uzaklaşmak.",
+    "examples": [
+      {
+        "nl": "Na het tanken stapte hij in zijn auto en reed weg.",
+        "tr": "Benzin aldıktan sonra arabasına bindi ve uzaklaştı."
+      },
+      {
+        "nl": "Wanneer het stoplicht op groen springt, kun je wegrijden.",
+        "tr": "Trafik lambası yeşile döndüğünde, uzaklaşabilirsin."
+      }
+    ]
+  },
+  {
+    "verb": "naroepen",
+    "tr": "Birisine veya bir şeye bağırmak veya seslenmek.",
+    "examples": [
+      {
+        "nl": "Hij riep me na, maar ik hoorde hem niet.",
+        "tr": "Arkamdan çağırdı, ama onu duymadım."
+      }
+    ]
+  },
+  {
+    "verb": "oproepen",
+    "tr": "Birini çağırmak veya birine seslenmek.",
+    "examples": [
+      {
+        "nl": "De leraar riep de studenten op om stil te zijn.",
+        "tr": "Öğrencileri sakin olmaları için çağırdı."
+      }
+    ]
+  },
+  {
+    "verb": "afschrijven",
+    "tr": "Bir kaynaktan bir şeyi çıkarmak veya düşürmek.",
+    "examples": [
+      {
+        "nl": "Ik moet mijn uitgaven afschrijven in mijn boekhouding.",
+        "tr": "Giderlerimi muhasebeme kaydetmem gerekiyor."
+      }
+    ]
+  },
+  {
+    "verb": "bijschrijven",
+    "tr": "Birine veya bir şeye eklemek veya ilave etmek.",
+    "examples": [
+      {
+        "nl": "Ik wil graag mijn partner bijschrijven op mijn bankrekening.",
+        "tr": "Eşimi banka hesabıma eklemek istiyorum."
+      },
+      {
+        "nl": "Na het overhandigen van de benodigde documenten, zal de school mijn naam bijschrijven op de deelnemerslijst.",
+        "tr": "Gerekli belgeleri teslim ettikten sonra, okul adımı katılımcı listesine kaydedecek."
+      }
+    ]
+  },
+  {
+    "verb": "inschrijven",
+    "tr": "Bir kayda veya bir liste veya bir etkinliğe kayıt olmak.",
+    "examples": [
+      {
+        "nl": "Ik ga me inschrijven voor een taalcursus Nederlands.",
+        "tr": "Hollanda dil kursuna kayıt olacağım."
+      },
+      {
+        "nl": "Om deel te nemen aan het evenement moet je je van tevoren inschrijven.",
+        "tr": "Etkinliğe katılmak için önceden kaydolmanız gerekmektedir."
+      }
+    ]
+  },
+  {
+    "verb": "opschrijven",
+    "tr": "Yazılı olarak not almak veya kaydetmek.",
+    "examples": [
+      {
+        "nl": "Ik ga het adres van de winkel even opschrijven, zodat ik het niet vergeet.",
+        "tr": "Mağazanın adresini not alacağım, unutmamak için."
+      },
+      {
+        "nl": "Kun je alsjeblieft de boodschappen voor me opschrijven? Ik moet ze straks halen.",
+        "tr": "Lütfen alışveriş listesini bana yazabilir misin? Onları birazdan almalıyım."
+      }
+    ]
+  },
+  {
+    "verb": "overschrijven",
+    "tr": "Bir şeyin üzerine yazmak veya kopyalamak.",
+    "examples": [
+      {
+        "nl": "Ik moet mijn telefoonnummer overschrijven op dit formulier.",
+        "tr": "Telefon numaramı bu form üzerine yazmalıyım."
+      },
+      {
+        "nl": "De leraar vroeg ons om de zin van het bord over te schrijven in ons schrift.",
+        "tr": "Öğretmen, tahtadaki cümleyi defterimize yazmamızı istedi."
+      }
+    ]
+  },
+  {
+    "verb": "uitschrijven",
+    "tr": "Kayıt veya abonelikten çıkarmak veya iptal etmek.",
+    "examples": [
+      {
+        "nl": "Vergeet niet je naam uit te schrijven op het formulier.",
+        "tr": "Form üzerinde adını çıkarmayı unutma."
+      }
+    ]
+  },
+  {
+    "verb": "voorschrijven",
+    "tr": "Bir ilaç veya tedaviyi reçete etmek veya önermek.",
+    "examples": [
+      {
+        "nl": "De dokter heeft medicijnen voorgeschreven voor mijn verkoudheid.",
+        "tr": "Doktor, nezle için ilaçlar yazdı."
+      }
+    ]
+  },
+  {
+    "verb": "afslaan",
+    "tr": "Bir yolu veya yöntemi takip etmekten veya kabul etmekten vazgeçmek.",
+    "examples": [
+      {
+        "nl": "Sla hier af naar links en je ziet de winkel aan je rechterkant.",
+        "tr": "Buradan sola dön ve dükkanı sağ tarafta göreceksin."
+      },
+      {
+        "nl": "Hij sloeg links af bij de volgende straat.",
+        "tr": "Sonraki sokağa sola döndü."
+      },
+      {
+        "nl": "Ze besloten het aanbod om samen te werken af te slaan.",
+        "tr": "Birlikte çalışma teklifini reddetmeye karar verdiler."
+      },
+      {
+        "nl": "Toen ze me uitnodigden voor het feest, heb ik vriendelijk afgeslagen omdat ik al andere plannen had.",
+        "tr": "Bana partiye davet ettiğinde, başka planlarım olduğu için nazikçe geri çevirdim."
+      },
+      {
+        "nl": "inslaan: I g. (sloeg in, h. ingeslagen)",
+        "tr": "vur/grev: I g. (delinmiş/carpildi, h. delinmiş/parcalandi)"
+      },
+      {
+        "nl": "naar binnen slaan",
+        "tr": "içe bükmek, içe kasmak/katlamak"
+      },
+      {
+        "nl": "de bliksem is hier ingeslagen",
+        "tr": "Yıldırım buraya düştü."
+      },
+      {
+        "nl": "de inslagen van kogels waren op de muur te zien",
+        "tr": "duvarlarda mermi delikleri vardı;"
+      },
+      {
+        "nl": "zijn woorden sloegen in als een bom",
+        "tr": "bom sözleri bomba etkisi yaptı"
+      },
+      {
+        "nl": "Ze heeft voedsel ingeslagen voor de hele week.",
+        "tr": "Bir hafta boyunca yiyecek stokladı."
+      },
+      {
+        "nl": "De bliksem sloeg in de boom en veroorzaakte een brand.",
+        "tr": "Şimşek ağaca çarptı ve yangına neden oldu."
+      },
+      {
+        "nl": "neerslaan: (sloeg neer, h. neergeslagen)",
+        "tr": "yıkmak/yere serilmek: (devirdi, h. devrildi)"
+      },
+      {
+        "nl": "het leger heeft de opstand neergeslagen",
+        "tr": "ordu ayaklanmayı bastırdı"
+      },
+      {
+        "nl": "De politie heeft de rellen neergeslagen met harde hand.",
+        "tr": "Polis, ayaklanmayı sert bir şekilde bastırdı."
+      },
+      {
+        "nl": "overslaan: o'verslaan f. (sloeg over, h. overgeslagen)",
+        "tr": "atla: o'beat f. (atlandı, h. atlandı)"
+      },
+      {
+        "nl": "weglaten, niet merken",
+        "tr": "atlamak, unutmak, kaçırmak, görmemek"
+      },
+      {
+        "nl": "hij slaat nooit een feest over",
+        "tr": "O asla bir partiyi atlamaz."
+      },
+      {
+        "nl": "bij dit dieet mag je twee dagen",
+        "tr": "Bu diyette iki gün atlayabilirsin."
+      },
+      {
+        "nl": "het vuur sloeg over naar het woonhuis",
+        "tr": "yangın konuta sıçradı"
+      },
+      {
+        "nl": "mijn stem sloeg over",
+        "tr": "sesim çatallaştı, sesim bozuldu"
+      },
+      {
+        "nl": "Ze sloegen het hoofdstuk over en gingen direct naar het volgende.",
+        "tr": "Bir sonraki bölüme geçtiler ve bu bölümü atladılar."
+      },
+      {
+        "nl": "Hij sloeg zijn maaltijd over omdat hij geen honger had.",
+        "tr": "Aç olmadığı için öğününü atladı."
+      }
+    ]
+  },
+  {
+    "verb": "inslapen",
+    "tr": "Uyuyakalmak veya uykuya dalmak.",
+    "examples": [
+      {
+        "nl": "Ik kan nooit in slaap vallen als het te warm is.",
+        "tr": "Hava çok sıcak olduğunda hiç uyuyamam."
+      }
+    ]
+  },
+  {
+    "verb": "uitslapen",
+    "tr": "Uykusunu tamamen almak veya geç uyanmak.",
+    "examples": [
+      {
+        "nl": "Op zondag mag ik uitslapen en laat opstaan.",
+        "tr": "Pazar günleri geç uyuyup geç kalkabilirim."
+      }
+    ]
+  },
+  {
+    "verb": "in slikken",
+    "tr": "Bir şeyi yutmak veya içine almak.",
+    "examples": [
+      {
+        "nl": "Hij heeft per ongeluk zijn medicijn ingeslikt zonder water.",
+        "tr": "Su olmadan yanlışlıkla ilacını yuttu."
+      }
+    ]
+  },
+  {
+    "verb": "doorslikken",
+    "tr": "Bir şeyi yutmak veya kabul etmek.",
+    "examples": [
+      {
+        "nl": "Slik de pil door met wat water.",
+        "tr": "Hapı suyla birlikte yutun."
+      }
+    ]
+  },
+  {
+    "verb": "wegslikken",
+    "tr": "Bir şeyi hızla yutmak veya bastırmak.",
+    "examples": [
+      {
+        "nl": "Ik kan de kritiek niet zomaar wegslikken, het raakt me diep.",
+        "tr": "Eleştiriyi sadece yutamam, derinden etkiliyor beni."
+      }
+    ]
+  },
+  {
+    "verb": "aansluiten",
+    "tr": "Bir şeye veya birine bağlanmak veya katılmak.",
+    "examples": [
+      {
+        "nl": "Sluit de printer aan op de computer om te kunnen printen.",
+        "tr": "Yazdırma yapabilmek için yazıcıyı bilgisayara bağlayın."
+      }
+    ]
+  },
+  {
+    "verb": "afsluiten",
+    "tr": "Kapatmak veya sona erdirmek.",
+    "examples": [
+      {
+        "nl": "Vergeet niet om de deur af te sluiten als je weggaat.",
+        "tr": "Giderken kapıyı kilitlemeyi unutma."
+      }
+    ]
+  },
+  {
+    "verb": "buitensluiten",
+    "tr": "Birini dışarıda tutmak veya dahil etmemek.",
+    "examples": [
+      {
+        "nl": "Ze voelen zich buitengesloten van de groep.",
+        "tr": "Grubun dışında hissediyorlar kendilerini."
+      }
+    ]
+  },
+  {
+    "verb": "opsluiten",
+    "tr": "Kilit altına almak veya hapsedilmek.",
+    "examples": [
+      {
+        "nl": "De dief is opgesloten in de gevangenis.",
+        "tr": "Hırsız hapishaneye kapatıldı."
+      }
+    ]
+  },
+  {
+    "verb": "uitsluiten",
+    "tr": "Hariç tutmak veya dışarıda bırakmak.",
+    "examples": [
+      {
+        "nl": "Ze hebben hem uitgesloten van deelname aan het evenement.",
+        "tr": "Onu etkinliğe katılmaktan men ettiler."
+      }
+    ]
+  },
+  {
+    "verb": "afsnijden",
+    "tr": "Kesmek, kesintiye uğratmak veya kesmek suretiyle bir şeyi kısaltmak.",
+    "examples": [
+      {
+        "nl": "Chef de groenten afsnijden om ze voor te bereiden op het koken.",
+        "tr": "Şef sebzeleri keserek onları pişirmeye hazırlar."
+      }
+    ]
+  },
+  {
+    "verb": "doorsnijden",
+    "tr": "Kesmek veya bölüp geçmek.",
+    "examples": [
+      {
+        "nl": "Hij besloot het park door te snijden om tijd te besparen.",
+        "tr": "Zaman kazanmak için parkı keserek geçmeye karar verdi."
+      }
+    ]
+  },
+  {
+    "verb": "aanspelen",
+    "tr": "İma etmek, bahsetmek veya gönderme yapmak.",
+    "examples": [
+      {
+        "nl": "Hij spelen op zijn vorige succes om indruk te maken.",
+        "tr": "Etkilemek için önceki başarısına ima etti."
+      }
+    ]
+  },
+  {
+    "verb": "meespelen",
+    "tr": "Oynamak veya bir oyunun parçası olmak.",
+    "examples": [
+      {
+        "nl": "Hij wil graag meespelen in het toneelstuk.",
+        "tr": "Tiyatro oyununda oynamak istiyor."
+      }
+    ]
+  },
+  {
+    "verb": "tegenspelen",
+    "tr": "Karşı gelmek veya aleyhte hareket etmek.",
+    "examples": [
+      {
+        "nl": "Hij besloot de regels te tegenspelen en zijn eigen weg te gaan.",
+        "tr": "Kurallara karşı gelerek ve kendi yolunu izlemeye karar verdi."
+      }
+    ]
+  },
+  {
+    "verb": "toespelen",
+    "tr": "Bir şeyi veya birini hedef göstermek veya yönlendirmek.",
+    "examples": [
+      {
+        "nl": "Hij speelde de bal toespelen aan zijn teamgenoot.",
+        "tr": "Topu takım arkadaşına yönlendirdi."
+      }
+    ]
+  },
+  {
+    "verb": "aanspreken",
+    "tr": "Hitap etmek, söz almak veya konuşmak.",
+    "examples": [
+      {
+        "nl": "De leraar sprak de studenten aan over hun slechte gedrag.",
+        "tr": "Öğretmen öğrencilere kötü davranışları hakkında hitap etti."
+      }
+    ]
+  },
+  {
+    "verb": "afspreken",
+    "tr": "Anlaşmak, kararlaştırmak veya randevulaşmak.",
+    "examples": [
+      {
+        "nl": "Ze spraken af om elkaar op het station te ontmoeten.",
+        "tr": "Birbirleriyle istasyonda buluşmak için anlaştılar."
+      }
+    ]
+  },
+  {
+    "verb": "inspreken",
+    "tr": "Kaydetmek, dikte etmek veya bir kayda ses vermek.",
+    "examples": [
+      {
+        "nl": "De stemacteur spreekt de tekst in voor de animatiefilm.",
+        "tr": "Ses aktörü animasyon filmi için metni dikte ediyor."
+      }
+    ]
+  },
+  {
+    "verb": "doorspreken",
+    "tr": "Konuşmak, tartışmak veya ilerlemek.",
+    "examples": [
+      {
+        "nl": "Ze besloten het probleem met elkaar doorspreken.",
+        "tr": "Sorunu birlikte konuşmaya karar verdiler."
+      }
+    ]
+  },
+  {
+    "verb": "tegenspreken",
+    "tr": "Karşı gelmek, itiraz etmek veya çelişmek.",
+    "examples": [
+      {
+        "nl": "Ze durfde haar baas niet tegen te spreken.",
+        "tr": "Patronuna karşı gelmekten korktu."
+      }
+    ]
+  },
+  {
+    "verb": "toespreken",
+    "tr": "Konuşma yapmak, hitap etmek veya konuşmayı hedeflemek.",
+    "examples": [
+      {
+        "nl": "De burgemeester sprak het publiek toe tijdens de opening van het festival.",
+        "tr": "Belediye başkanı festivalin açılışında halka hitap etti."
+      }
+    ]
+  },
+  {
+    "verb": "uitspreken",
+    "tr": "Telaffuz etmek veya ifade etmek.",
+    "examples": [
+      {
+        "nl": "Hij kan het woord niet goed uitspreken.",
+        "tr": "Kelimeyi doğru telaffuz edemiyor."
+      }
+    ]
+  },
+  {
+    "verb": "aanstaan",
+    "tr": "Hoşuna gitmek, beğenmek veya uymak.",
+    "examples": [
+      {
+        "nl": "Die nieuwe jurk staat je goed.",
+        "tr": "Yeni elbise sana yakışıyor."
+      }
+    ]
+  },
+  {
+    "verb": "opstaan",
+    "tr": "Kalkmak, ayağa kalkmak veya yükselmek.",
+    "examples": [
+      {
+        "nl": "Elke ochtend vroeg opstaan om te gaan sporten.",
+        "tr": "Spor yapmaya gitmek için her sabah erken kalkmak."
+      }
+    ]
+  },
+  {
+    "verb": "toestaan",
+    "tr": "İzin vermek, kabul etmek veya müsaade etmek.",
+    "examples": [
+      {
+        "nl": "Haar ouders staan haar niet toe om uit te gaan.",
+        "tr": "Ebeveynleri onun dışarı çıkmasına izin vermiyor."
+      }
+    ]
+  },
+  {
+    "verb": "aansteken",
+    "tr": "Yakmak, ateşlemek veya başlatmak.",
+    "examples": [
+      {
+        "nl": "Hij stak de kaarsen aan om de kamer te verlichten.",
+        "tr": "Odaı aydınlatmak için mumları yaktı."
+      }
+    ]
+  },
+  {
+    "verb": "afsteken",
+    "tr": "Sözleri, davranışları veya özellikleriyle farklı olmak veya öne çıkmak.",
+    "examples": [
+      {
+        "nl": "Hij steekt af tegen de rest van het team vanwege zijn uitstekende vaardigheden.",
+        "tr": "Mükemmel yetenekleri nedeniyle diğer takıma karşı öne çıkıyor."
+      }
+    ]
+  },
+  {
+    "verb": "opsteken",
+    "tr": "Kaldırmak, dikmek veya yukarı doğru çıkarmak.",
+    "examples": [
+      {
+        "nl": "Hij stak zijn hand op om een vraag te stellen.",
+        "tr": "Bir soru sormak için elini kaldırdı."
+      }
+    ]
+  },
+  {
+    "verb": "oversteken",
+    "tr": "Karşıya geçmek veya geçiş yapmak.",
+    "examples": [
+      {
+        "nl": "De voetgangers staken over bij het zebrapad.",
+        "tr": "Yaya geçidinden geçtiler."
+      }
+    ]
+  },
+  {
+    "verb": "uitsteken",
+    "tr": "Dışarıya çıkmak, sarkmak veya uzanmak.",
+    "examples": [
+      {
+        "nl": "De tak steekt uit boven de rest van de boom.",
+        "tr": "Dal ağacın geri kalanından dışarı çıkıyor."
+      }
+    ]
+  },
+  {
+    "verb": "aanstellen",
+    "tr": "İşe almak, atamak veya bir pozisyona getirmek.",
+    "examples": [
+      {
+        "nl": "Het bedrijf besloot hem aan te stellen als de nieuwe manager.",
+        "tr": "Şirket onu yeni müdür olarak atamaya karar verdi."
+      }
+    ]
+  },
+  {
+    "verb": "bijstellen",
+    "tr": "Ayarlamak, düzeltmek veya değiştirmek.",
+    "examples": [
+      {
+        "nl": "Hij besloot zijn plan bij te stellen nadat hij nieuwe informatie had ontvangen.",
+        "tr": "Yeni bilgi aldıktan sonra planını değiştirmeye karar verdi."
+      }
+    ]
+  },
+  {
+    "verb": "instellen",
+    "tr": "Ayarlamak, kurmak veya hazırlamak.",
+    "examples": [
+      {
+        "nl": "Hij moet de temperatuur van de oven instellen voordat hij begint te bakken.",
+        "tr": "Pişirmeye başlamadan önce fırının sıcaklığını ayarlamalı."
+      }
+    ]
+  },
+  {
+    "verb": "opstellen",
+    "tr": "Hazırlamak, düzenlemek veya oluşturmak.",
+    "examples": [
+      {
+        "nl": "Ze moeten een rapport opstellen over hun bevindingen.",
+        "tr": "Bulgularıyla ilgili bir rapor hazırlamaları gerekiyor."
+      }
+    ]
+  },
+  {
+    "verb": "samenstellen",
+    "tr": "Bir araya getirmek, oluşturmak veya birleştirmek.",
+    "examples": [
+      {
+        "nl": "Het team zal de presentatie samenstellen.",
+        "tr": "Ekip sunumu bir araya getirecek."
+      }
+    ]
+  },
+  {
+    "verb": "terechtstellen",
+    "tr": "Yargılamak, mahkum etmek veya adaleti sağlamak.",
+    "examples": [
+      {
+        "nl": "De rechter zal de crimineel terechtstellen.",
+        "tr": "Yargıç suçluyu yargılayacak."
+      }
+    ]
+  },
+  {
+    "verb": "uitstellen",
+    "tr": "Ertelenmek, ertelemek veya geciktirmek.",
+    "examples": [
+      {
+        "nl": "Ze besloten de vergadering uit te stellen tot volgende week.",
+        "tr": "Toplantıyı gelecek haftaya kadar ertelemeye karar verdiler."
+      }
+    ]
+  },
+  {
+    "verb": "voorstellen",
+    "tr": "Tanıtmak, sunmak veya önermek.",
+    "examples": [
+      {
+        "nl": "Hij wil zijn nieuwe ideeën voorstellen aan het management.",
+        "tr": "Yeni fikirlerini yönetimle paylaşmak istiyor."
+      }
+    ]
+  },
+  {
+    "verb": "instoppen",
+    "tr": "Sokmak, içine yerleştirmek veya yatağa yatırmak.",
+    "examples": [
+      {
+        "nl": "Ze stopte de kinderen in bed voordat ze naar beneden ging.",
+        "tr": "Aşağıya gitmeden önce çocukları yatağa soktu."
+      }
+    ]
+  },
+  {
+    "verb": "onderstoppen",
+    "tr": "İçine itmek veya gizlice koymak.",
+    "examples": [
+      {
+        "nl": "Hij stopte stiekem een cadeau onder het kussen.",
+        "tr": "Gizlice bir hediye yastığın altına koydu."
+      }
+    ]
+  },
+  {
+    "verb": "aansturen op",
+    "tr": "Hedeflemek, yönlendirmek veya teşvik etmek.",
+    "examples": [
+      {
+        "nl": "De trainer stuurde zijn spelers aan op het winnen van de wedstrijd.",
+        "tr": "Antrenör takımını maçı kazanmaya teşvik etti."
+      }
+    ]
+  },
+  {
+    "verb": "doorsturen",
+    "tr": "İletmek, yönlendirmek veya göndermek.",
+    "examples": [
+      {
+        "nl": "Ze vroeg hem de e-mail door te sturen naar de juiste afdeling.",
+        "tr": "Doğru bölüme e-postayı yönlendirmesini istedi."
+      }
+    ]
+  },
+  {
+    "verb": "insturen",
+    "tr": "Göndermek, teslim etmek veya sunmak.",
+    "examples": [
+      {
+        "nl": "Ze moet haar sollicitatieformulier insturen voor de deadline.",
+        "tr": "Son teslim tarihine kadar başvuru formunu göndermesi gerekiyor."
+      }
+    ]
+  },
+  {
+    "verb": "meesturen",
+    "tr": "Bir şeyi birlikte göndermek veya eklemek.",
+    "examples": [
+      {
+        "nl": "İstediği belgeleri e-postada meesturen.",
+        "tr": "E-postaya belgeleri ekleyin."
+      }
+    ]
+  },
+  {
+    "verb": "opsturen",
+    "tr": "Göndermek, postalamak veya yollamak.",
+    "examples": [
+      {
+        "nl": "Het pakket wordt vandaag opgestuurd.",
+        "tr": "Paket bugün gönderilecek."
+      }
+    ]
+  },
+  {
+    "verb": "terugsturen",
+    "tr": "Geri göndermek, geri yollamak.",
+    "examples": [
+      {
+        "nl": "Ik ga het pakketje terugsturen naar de afzender omdat het verkeerd is geleverd.",
+        "tr": "Paketi yanlış teslim edildiği için göndericiye geri göndereceğim."
+      },
+      {
+        "nl": "De klant besloot het product terug te sturen vanwege een defect.",
+        "tr": "Müşteri, bir arıza nedeniyle ürünü geri göndermeye karar verdi."
+      },
+      {
+        "nl": "rondsturen: (stuurde rond, h. rondgestuurd)",
+        "tr": "etrafa gönder: (etrafına gönderildi, h. gönderildi)\r\n(belli bir çevreye) postalamak, göndermek, yollamak"
+      },
+      {
+        "nl": "De manager gaat de notulen van de vergadering rondsturen naar alle teamleden.",
+        "tr": "Yönetici toplantı tutanaklarını tüm ekip üyelerine dağıtacaktır."
+      },
+      {
+        "nl": "De uitnodigingen voor het feest worden binnenkort rondgestuurd naar alle genodigden.",
+        "tr": "Parti için davetiyeler yakında tüm davetlilere dağıtılacaktır."
+      },
+      {
+        "nl": "toesturen: (stuurde toe, h. toegestuurd)",
+        "tr": "göndermek, yollamak, havale etmek; iemand iets ~ birine bir şey göndermek"
+      },
+      {
+        "nl": "Kan je mij de documenten toesturen via e-mail?",
+        "tr": "Bana belgeleri e-posta yoluyla gönderebilir misin?"
+      },
+      {
+        "nl": "De klantenservice zal u de benodigde informatie toesturen.",
+        "tr": "Müşteri hizmetleri size gerekli bilgileri gönderecek."
+      },
+      {
+        "nl": "aftellen: (telde af, h. afgeteld)",
+        "tr": "(v. minuten) (geri) saymak; fig. iple çekmek, gün saymak;"
+      },
+      {
+        "nl": "Hij telde de dagen af tot het einde van zijn militaire dienst.",
+        "tr": "Askerliğin sonuna kadar gün sayıyordu, askerlik sonunu iple çekiyordu."
+      },
+      {
+        "nl": "Oudejaarsavond aftellen tot het nieuwe jaar.",
+        "tr": "Yılbaşı gecesinde yeni yılı beklemek için geriye doğru saymak."
+      },
+      {
+        "nl": "We gaan aftellen tot het nieuwe jaar begint.",
+        "tr": "Yeni yılın başlamasına kadar geri saymaya başlayacağız."
+      },
+      {
+        "nl": "De presentator begon af te tellen voordat het evenement begon.",
+        "tr": "Sunucu etkinlik başlamadan önce geri saymaya başladı."
+      }
+    ]
+  },
+  {
+    "verb": "bijtellen",
+    "tr": "Eklemek veya hesaba katmak.",
+    "examples": [
+      {
+        "nl": "De bon bij de rekening bijtellen.",
+        "tr": "Fişiyi hesaba eklemek."
+      }
+    ]
+  },
+  {
+    "verb": "doortellen",
+    "tr": "Saymak veya devam etmek.",
+    "examples": [
+      {
+        "nl": "De leraar vroeg de kinderen om de getallen door te tellen.",
+        "tr": "Öğretmen çocuklardan sayıları devam etmelerini istedi."
+      }
+    ]
+  },
+  {
+    "verb": "meetellen",
+    "tr": "Saymak, dahil etmek veya hesaba katmak.",
+    "examples": [
+      {
+        "nl": "De stemmen meetellen voor de uitslag.",
+        "tr": "Sonuç için oyları saymak."
+      }
+    ]
+  },
+  {
+    "verb": "natellen",
+    "tr": "Tekrar saymak, kontrol etmek veya hesabı doğrulamak.",
+    "examples": [
+      {
+        "nl": "Het geld natellen voordat je het in de kluis plaatst.",
+        "tr": "Parayı kasanın içine koymadan önce tekrar sayın."
+      }
+    ]
+  },
+  {
+    "verb": "optellen",
+    "tr": "Toplamak veya toplamını hesaplamak.",
+    "examples": [
+      {
+        "nl": "De bedragen optellen om het totaal te krijgen.",
+        "tr": "Toplamı elde etmek için tutarları toplamak."
+      }
+    ]
+  },
+  {
+    "verb": "uittellen",
+    "tr": "Ödemek veya hesaptan ödemek.",
+    "examples": [
+      {
+        "nl": "Het bedrag aan de kassa uittellen.",
+        "tr": "Kasadaki tutarı ödemek."
+      }
+    ]
+  },
+  {
+    "verb": "aantekenen",
+    "tr": "Not almak veya kaydetmek.",
+    "examples": [
+      {
+        "nl": "Belangrijke punten aantekenen tijdens de vergadering.",
+        "tr": "Toplantı sırasında önemli noktaları not almak."
+      }
+    ]
+  },
+  {
+    "verb": "bijtekenen",
+    "tr": "İmza atmak veya ek bir imza koymak.",
+    "examples": [
+      {
+        "nl": "Het contract bijtekenen om de overeenkomst te vernieuwen.",
+        "tr": "Anlaşmayı yenilemek için sözleşmeyi imzalamak."
+      }
+    ]
+  },
+  {
+    "verb": "natekenen",
+    "tr": "Kopyalamak, taklit etmek veya bir şeyi aynı şekilde çizmek.",
+    "examples": [
+      {
+        "nl": "De tekening natekenen op een leeg vel papier.",
+        "tr": "Çizimi boş bir kağıda kopyalamak."
+      }
+    ]
+  },
+  {
+    "verb": "aanvallen",
+    "tr": "Saldırmak veya hücum etmek.",
+    "examples": [
+      {
+        "nl": "De soldaten vielen de vijand aan.",
+        "tr": "Askerler düşmana saldırdı."
+      },
+      {
+        "nl": "afvallen: (viel af, is afgevallen)",
+        "tr": "kilo vermek: (kilo vermiş, kilo vermiş), katılmamak, ayrılmak, çıkmak, fire vermek; çekilmek"
+      },
+      {
+        "nl": "niet meer meedoen",
+        "tr": "artık katılmıyorum"
+      },
+      {
+        "nl": "van de genodigden vielen er drie af",
+        "tr": "davetlilerden üçü katilmadi/ayrildi."
+      },
+      {
+        "nl": "ik ben 5 kilo afgevallen",
+        "tr": "beş kilo verdim, beş kilo zayıfladım"
+      },
+      {
+        "nl": "Ben je van je geloof afgevallen?",
+        "tr": "hayırdır, dünya tersine mi döndü? \r\nbaşına saksı mı düştü?"
+      },
+      {
+        "nl": "Hij is veel afgevallen na het volgen van een dieet.",
+        "tr": "Diyet yaparak çok kilo verdi."
+      },
+      {
+        "nl": "Ik wil graag wat afvallen voordat de zomer begint.",
+        "tr": "Yaz başlamadan önce biraz kilo vermek istiyorum."
+      },
+      {
+        "nl": "Hij is in korte tijd veel afgevallen door gezonder te eten en regelmatig te sporten.",
+        "tr": "Daha sağlıklı beslenerek ve düzenli egzersiz yaparak kısa sürede çok kilo verdi."
+      },
+      {
+        "nl": "Het boek viel uit mijn handen toen ik in slaap viel.",
+        "tr": "Uykuya dalarken kitap elimden düştü."
+      },
+      {
+        "nl": "De appelboom begon zijn bladeren af te vallen in de herfst.",
+        "tr": "Elma ağacı sonbaharda yapraklarını dökmeye başladı."
+      },
+      {
+        "nl": "Ze viel haar vriend af toen ze hoorde wat hij had gedaan.",
+        "tr": "Erkek arkadaşının ne yaptığını duyunca ondan ayrıldı./ Ne yaptığını duyunca arkadaşını desteklemeyi bıraktı."
+      }
+    ]
+  },
+  {
+    "verb": "invallen",
+    "tr": "Akla gelmek, aniden gelmek veya ani bir değişiklik yapmak.",
+    "examples": [
+      {
+        "nl": "Het idee viel hem plotseling in.",
+        "tr": "Fikir aniden aklına geldi."
+      }
+    ]
+  },
+  {
+    "verb": "meevallen",
+    "tr": "Beklentileri aşmak, daha iyi olmak veya memnun etmek.",
+    "examples": [
+      {
+        "nl": "De resultaten van het examen vielen mee.",
+        "tr": "Sınav sonuçları beklenenden daha iyiydi."
+      }
+    ]
+  },
+  {
+    "verb": "neervallen",
+    "tr": "Düşmek veya yere düşmek.",
+    "examples": [
+      {
+        "nl": "Hij struikelde en viel neer.",
+        "tr": "Takıldı ve yere düştü."
+      }
+    ]
+  },
+  {
+    "verb": "omvallen",
+    "tr": "Devrilmek veya düşmek.",
+    "examples": [
+      {
+        "nl": "De boekenkast viel om en maakte een luid geluid.",
+        "tr": "Kitaplık devrildi ve yüksek bir ses çıkardı."
+      }
+    ]
+  },
+  {
+    "verb": "opvallen",
+    "tr": "Göze çarpmak, dikkat çekmek veya fark edilmek.",
+    "examples": [
+      {
+        "nl": "Haar opvallende outfit viel meteen op.",
+        "tr": "Dikkat çeken kıyafeti hemen dikkat çekti."
+      }
+    ]
+  },
+  {
+    "verb": "overvallen",
+    "tr": "Soygun yapmak veya aniden saldırmak.",
+    "examples": [
+      {
+        "nl": "De dieven overvielen de juwelier.",
+        "tr": "Hırsızlar mücevherciyi soydular."
+      }
+    ]
+  },
+  {
+    "verb": "samenvallen",
+    "tr": "Çakışmak, denk gelmek veya aynı zamana denk gelmek.",
+    "examples": [
+      {
+        "nl": "Onze vakantie valt samen met de zijne.",
+        "tr": "Tatilimiz onunkiyle denk geliyor."
+      }
+    ]
+  },
+  {
+    "verb": "tegenvallen",
+    "tr": "Beklentileri karşılamamak, hayal kırıklığına uğratmak veya istenmeyen bir durum olmak.",
+    "examples": [
+      {
+        "nl": "De resultaten van het onderzoek vielen tegen.",
+        "tr": "Araştırmanın sonuçları beklenenin altında kaldı."
+      }
+    ]
+  },
+  {
+    "verb": "terugvallen",
+    "tr": "Geri düşmek, azalmak veya eski haline dönmek.",
+    "examples": [
+      {
+        "nl": "De verkoopcijfers vallen terug na de feestdagen.",
+        "tr": "Satış rakamları tatillerden sonra geri düştü."
+      }
+    ]
+  },
+  {
+    "verb": "uitvallen",
+    "tr": "Kesilmek, durmak veya başarısız olmak.",
+    "examples": [
+      {
+        "nl": "De stroom is uitgevallen na de storm.",
+        "tr": "Fırtına sonrası elektrik kesildi."
+      }
+    ]
+  },
+  {
+    "verb": "doorvertellen",
+    "tr": "Başkasına iletmek veya başkasına anlatmak.",
+    "examples": [
+      {
+        "nl": "Het geheim niet doorvertellen.",
+        "tr": "Sırrı başkasına anlatmayın."
+      }
+    ]
+  },
+  {
+    "verb": "navertellen",
+    "tr": "Tekrar anlatmak, tekrar etmek veya aktarmak.",
+    "examples": [
+      {
+        "nl": "Het verhaal aan anderen navertellen.",
+        "tr": "Hikayeyi diğer insanlara tekrar anlatmak."
+      }
+    ]
+  },
+  {
+    "verb": "afvoeren",
+    "tr": "Uzaklaştırmak, kaldırmak veya tahliye etmek.",
+    "examples": [
+      {
+        "nl": "Het afval afvoeren naar de vuilnisbak.",
+        "tr": "Çöpleri çöp kutusuna götürmek."
+      }
+    ]
+  },
+  {
+    "verb": "invoeren",
+    "tr": "İçeri sokmak, girmek veya tanıtmak.",
+    "examples": [
+      {
+        "nl": "Nieuwe regels invoeren.",
+        "tr": "Yeni kuralları tanıtmak."
+      }
+    ]
+  },
+  {
+    "verb": "opvoeren",
+    "tr": "Sahneye koymak, sunmak veya artırmak.",
+    "examples": [
+      {
+        "nl": "Een toneelstuk opvoeren.",
+        "tr": "Bir tiyatro oyununu sahneye koymak."
+      }
+    ]
+  },
+  {
+    "verb": "uitvoeren",
+    "tr": "Gerçekleştirmek, uygulamak veya yapmak.",
+    "examples": [
+      {
+        "nl": "Een experiment uitvoeren.",
+        "tr": "Bir deney gerçekleştirmek."
+      }
+    ]
+  },
+  {
+    "verb": "vervoeren",
+    "tr": "Taşımak, nakletmek veya sevketmek.",
+    "examples": [
+      {
+        "nl": "Goederen per vrachtwagen vervoeren.",
+        "tr": "Malzemeleri bir kamyonla taşımak."
+      }
+    ]
+  },
+  {
+    "verb": "afwerken",
+    "tr": "Bitirmek, tamamlamak veya sonlandırmak.",
+    "examples": [
+      {
+        "nl": "Het project afwerken voor de deadline.",
+        "tr": "Proje süresinden önce bitirilir."
+      }
+    ]
+  },
+  {
+    "verb": "doorwerken",
+    "tr": "Çalışmaya devam etmek veya kesintisiz çalışmak.",
+    "examples": [
+      {
+        "nl": "We moeten doorwerken om de klus op tijd af te krijgen.",
+        "tr": "İşi zamanında bitirmek için çalışmaya devam etmeliyiz."
+      }
+    ]
+  },
+  {
+    "verb": "meewerken",
+    "tr": "Yardım etmek, işbirliği yapmak veya katkıda bulunmak.",
+    "examples": [
+      {
+        "nl": "De collega werkte graag mee aan het project.",
+        "tr": "Meslektaş, projeye memnuniyetle yardım etti."
+      }
+    ]
+  },
+  {
+    "verb": "newerken",
+    "tr": "Yeni bir işte çalışmak veya yeni işe başlamak.",
+    "examples": [
+      {
+        "nl": "Hij is net begonnen met newerken.",
+        "tr": "Yeni işe başladı."
+      }
+    ]
+  },
+  {
+    "verb": "inwerken",
+    "tr": "Eğitmek, işe almak veya yeni bir göreve hazırlamak.",
+    "examples": [
+      {
+        "nl": "De nieuwe medewerker inwerken in het team.",
+        "tr": "Yeni çalışanı ekibe hazırlamak."
+      }
+    ]
+  },
+  {
+    "verb": "opwerken (zich)",
+    "tr": "Yükselmek, terfi etmek veya ilerlemek (kendini).",
+    "examples": [
+      {
+        "nl": "Hij heeft zich opgewerkt tot een hogere positie.",
+        "tr": "Daha yüksek bir pozisyona yükseldi."
+      }
+    ]
+  },
+  {
+    "verb": "overwerken",
+    "tr": "Fazla mesai yapmak veya çalışmaya devam etmek.",
+    "examples": [
+      {
+        "nl": "Vanavond moet ik overwerken.",
+        "tr": "Bu akşam fazla mesai yapmam gerekiyor."
+      }
+    ]
+  },
+  {
+    "verb": "samenwerken",
+    "tr": "İşbirliği yapmak veya birlikte çalışmak.",
+    "examples": [
+      {
+        "nl": "We moeten samenwerken om dit project te voltooien.",
+        "tr": "Bu projeyi tamamlamak için işbirliği yapmalıyız."
+      }
+    ]
+  },
+  {
+    "verb": "tegenwerken",
+    "tr": "Karşı çıkmak, engel olmak veya direnmek.",
+    "examples": [
+      {
+        "nl": "Zijn collega's werkten tegen en maakten het moeilijk voor hem.",
+        "tr": "Meslektaşları direndi ve ona zorluk çıkardı."
+      }
+    ]
+  },
+  {
+    "verb": "uitwerken",
+    "tr": "Detaylandırmak, geliştirmek veya ayrıntılarıyla ele almak.",
+    "examples": [
+      {
+        "nl": "Het plan verder uitwerken voordat we ermee beginnen.",
+        "tr": "Başlamadan önce planı daha da detaylandıralım."
+      }
+    ]
+  },
+  {
+    "verb": "aanwijzen",
+    "tr": "Göstermek, işaret etmek veya atamak.",
+    "examples": [
+      {
+        "nl": "Hij wees de winnaar aan.",
+        "tr": "Kazananı gösterdi."
+      }
+    ]
+  },
+  {
+    "verb": "afwijzen",
+    "tr": "Reddetmek, kabul etmemek veya reddetmek.",
+    "examples": [
+      {
+        "nl": "Het voorstel afwijzen vanwege financiële problemen.",
+        "tr": "Mali sorunlar nedeniyle teklifi reddetmek."
+      },
+      {
+        "nl": "iemand met de vinger",
+        "tr": "birini boy hedefi göstermek"
+      },
+      {
+        "nl": "Hij wees naar de plek en zei dat hij daar was geweest.",
+        "tr": "Yere işaret etti ve orada olduğunu söyledi.)"
+      },
+      {
+        "nl": "Hij wees naar de foto op de muur en vertelde me het verhaal erachter.",
+        "tr": "Duvara asılı olan fotoğrafa işaret etti ve arkasındaki hikayeyi anlattı."
+      },
+      {
+        "nl": "De leraar vroeg de leerlingen om de fouten in de zin aan te wijzen.",
+        "tr": "Öğretmen öğrencilere cümledeki hataları göstermelerini istedi."
+      }
+    ]
+  },
+  {
+    "verb": "toewijzen",
+    "tr": "Atamak, tahsis etmek veya vermek.",
+    "examples": [
+      {
+        "nl": "Middelen toewijzen aan het project.",
+        "tr": "Projeye kaynak tahsis etmek."
+      }
+    ]
+  },
+  {
+    "verb": "uitwijzen",
+    "tr": "Göstermek, kanıtlamak veya belirtmek.",
+    "examples": [
+      {
+        "nl": "De resultaten wijzen uit dat het experiment succesvol was.",
+        "tr": "Sonuçlar deneyin başarılı olduğunu göstermektedir."
+      }
+    ]
+  },
+  {
+    "verb": "afzeggen",
+    "tr": "İptal etmek, vazgeçmek veya reddetmek.",
+    "examples": [
+      {
+        "nl": "De afspraak afzeggen vanwege ziekte.",
+        "tr": "Hastalık nedeniyle randevuyu iptal etmek."
+      }
+    ]
+  },
+  {
+    "verb": "opzeggen",
+    "tr": "İptal etmek, sona erdirmek veya fesih etmek.",
+    "examples": [
+      {
+        "nl": "Het contract opzeggen voordat de termijn eindigt.",
+        "tr": "Süre dolmadan sözleşmeyi sona erdirmek."
+      }
+    ]
+  },
+  {
+    "verb": "voorzeggen",
+    "tr": "Okumak, dikte etmek veya önceden söylemek.",
+    "examples": [
+      {
+        "nl": "Ze las het gedicht voor.",
+        "tr": "Şiiri okudu."
+      }
+    ]
+  },
+  {
+    "verb": "aanzetten",
+    "tr": "Açmak, çalıştırmak veya başlatmak.",
+    "examples": [
+      {
+        "nl": "De computer aanzetten.",
+        "tr": "Bilgisayarı açmak."
+      }
+    ]
+  },
+  {
+    "verb": "afzetten",
+    "tr": "Kapatmak, durdurmak veya indirmek.",
+    "examples": [
+      {
+        "nl": "De motor afzetten.",
+        "tr": "Motoru durdurmak."
+      }
+    ]
+  },
+  {
+    "verb": "doorzetten",
+    "tr": "Kararlılıkla devam etmek, ilerlemek veya sürdürmek.",
+    "examples": [
+      {
+        "nl": "Ondanks de moeilijkheden besloot hij door te zetten.",
+        "tr": "Zorluklara rağmen devam etmeye karar verdi."
+      }
+    ]
+  },
+  {
+    "verb": "inzetten",
+    "tr": "Kullanmak, uygulamak veya başlatmak.",
+    "examples": [
+      {
+        "nl": "Nieuwe technologieën inzetten om de productiviteit te verhogen.",
+        "tr": "Üretkenliği artırmak için yeni teknolojiler kullanmak."
+      }
+    ]
+  },
+  {
+    "verb": "neerzetten",
+    "tr": "Koymak, yerleştirmek veya bırakmak.",
+    "examples": [
+      {
+        "nl": "De boodschappen neerzetten op het aanrecht.",
+        "tr": "Market alışverişlerini mutfak tezgahına bırakmak."
+      },
+      {
+        "nl": "dat bedrijf zet elk jaar voor 3 miljoen om",
+        "tr": "om o şirket her yıl 3 milyonluk satış/ciro yapıyor"
+      },
+      {
+        "nl": "een stof in een andere stof",
+        "tr": "bir maddeyi başka maddeye dönüştürmek"
+      },
+      {
+        "nl": "plannen in daden",
+        "tr": "planları gerçekleştirmek, planları eyleme dökmek, planları hayata geçirmek"
+      },
+      {
+        "nl": "omzetten in daden",
+        "tr": "Sözcükleri eylemlere dönüştürmek."
+      },
+      {
+        "nl": "Hij wil zijn spaargeld omzetten in aandelen.",
+        "tr": "Birikimlerini hisselere dönüştürmek istiyor."
+      },
+      {
+        "nl": "Ik ga het document omzetten naar een PDF-bestand.",
+        "tr": "Belgeyi PDF formatına dönüştüreceğim."
+      },
+      {
+        "nl": "Ze willen de oude fabriek omzetten in een kunstgalerij.",
+        "tr": "Eski fabrikayı bir sanat galerisine dönüştürmek istiyorlar."
+      },
+      {
+        "nl": "Hij moet zijn plannen omzetten in actie.",
+        "tr": "Planlarını eyleme dönüştürmesi gerekiyor."
+      },
+      {
+        "nl": "De voetballer kon de strafschop omzetten in een doelpunt.",
+        "tr": "Futbolcu penaltıyı golle sonuçlandırdı."
+      },
+      {
+        "nl": "De nieuwe wet zal de regels voor belastingen omzetten",
+        "tr": "Yeni yasa vergi kurallarını değiştirecek."
+      }
+    ]
+  },
+  {
+    "verb": "opzetten",
+    "tr": "Kurmak, oluşturmak veya hazırlamak.",
+    "examples": [
+      {
+        "nl": "Een bedrijf opzetten.",
+        "tr": "Bir şirket kurmak."
+      }
+    ]
+  },
+  {
+    "verb": "uitzetten",
+    "tr": "Kapatmak, söndürmek veya kapatmak.",
+    "examples": [
+      {
+        "nl": "Het licht uitzetten voordat je weggaat.",
+        "tr": "Ayrılmadan önce ışığı kapatın."
+      }
+    ]
+  },
+  {
+    "verb": "voortzetten",
+    "tr": "Devam etmek, sürdürmek veya ilerlemek.",
+    "examples": [
+      {
+        "nl": "De bespreking voortzetten na de lunch.",
+        "tr": "Öğle yemeğinden sonra toplantıya devam etmek."
+      }
+    ]
+  },
+  {
+    "verb": "opzien",
+    "tr": "Şaşırmak, hayret etmek veya gözlerini dikmek.",
+    "examples": [
+      {
+        "nl": "Hij zag op van zijn boek toen hij de deur hoorde openen.",
+        "tr": "Kapının açıldığını duyunca kitabından başını kaldırdı."
+      }
+    ]
+  },
+  {
+    "verb": "uitzien",
+    "tr": "Gözükmek, görünmek veya beklemek.",
+    "examples": [
+      {
+        "nl": "Het huis ziet er mooi uit.",
+        "tr": "Ev güzel görünüyor."
+      },
+      {
+        "nl": "Hij stelt zich voor.",
+        "tr": "Kendini tanıtıyor."
+      },
+      {
+        "nl": "Ik maak met de buren kennis.",
+        "tr": "Komşularla tanıştım."
+      },
+      {
+        "nl": "Hij spreekt het woord goed uit.",
+        "tr": "Kelimeyi iyi telaffuz ediyor."
+      },
+      {
+        "nl": "De trein komt in het station aan.",
+        "tr": "Tren istasyona varıyor."
+      },
+      {
+        "nl": "We gaan morgen uit.",
+        "tr": "Yarın dışarı çıkıyoruz."
+      },
+      {
+        "nl": "Ik nodig mijn vrienden uit.",
+        "tr": "Arkadaşlarımı davet ediyorum."
+      },
+      {
+        "nl": "Ze spreken vanavond af.",
+        "tr": "Bu gece buluşacaklar."
+      },
+      {
+        "nl": "Hij doet zijn trui aan.",
+        "tr": "Kazağını giyiyor."
+      },
+      {
+        "nl": "Ze doet haar jas uit.",
+        "tr": "Ceketini çıkarıyor."
+      },
+      {
+        "nl": "Hij staat om zes uur op.",
+        "tr": "Saat altıda kalkıyor."
+      },
+      {
+        "nl": "Hij lost het probleem op.",
+        "tr": "Problemi çözer."
+      },
+      {
+        "nl": "Ze doet het licht uit.",
+        "tr": "Kız ışığı kapatır."
+      },
+      {
+        "nl": "Het meisje doet de deur dicht.",
+        "tr": "Kız kapıyı kapatıyor."
+      },
+      {
+        "nl": "Ik doe het raam open.",
+        "tr": "Pencereyi açıyorum."
+      },
+      {
+        "nl": "Ik schrijf jouw adres op.",
+        "tr": "Adresini yazıyorum."
+      },
+      {
+        "nl": "Je maakt de vaatwasser leeg.",
+        "tr": "Bulaşık makinesini boşaltıyorsun."
+      },
+      {
+        "nl": "Hij maakt het eten klaar.",
+        "tr": "Yemeği hazırlıyor."
+      },
+      {
+        "nl": "Ze komen het bureau binnen.",
+        "tr": "Ofise giriyorlar."
+      },
+      {
+        "nl": "Ik werk graag met andere mensen samen.",
+        "tr": "Diğer insanlarla çalışmayı seviyorum."
+      },
+      {
+        "nl": "Hij staat elke dag om 6 uur op",
+        "tr": "Her gün sabah 6'da kalkıyor."
+      },
+      {
+        "nl": "Rijd je mee naar Amsterdam?",
+        "tr": "Benimle Amsterdam'a geliyor musun?"
+      },
+      {
+        "nl": "Hij trekt zijn nieuwe kleren aan",
+        "tr": "Yeni kıyafetlerini giyiyor."
+      }
+    ]
+  },
+  {
+    "verb": "ik doe het licht aan",
+    "tr": "Işığı açıyorum",
+    "examples": [
+      {
+        "nl": "Doe het licht uit, alsjeblieft!",
+        "tr": "Işığı kapatın, lütfen!"
+      },
+      {
+        "nl": "De trein komt op spoor 6a aan",
+        "tr": "Tren 6a hattına varıyor."
+      },
+      {
+        "nl": "Hoe laat kom je thuis?",
+        "tr": "Eve ne zaman geliyorsun?"
+      }
+    ]
+  },
+  {
+    "verb": "ik blijf vandaag thuis",
+    "tr": "Bugün evde kalacağım.",
+    "examples": [
+      {
+        "nl": "Mijn moeder maakt elke woensdag schoon",
+        "tr": "Annem her Çarşamba temizlik yapar."
+      },
+      {
+        "nl": "Jan slaapt in het weekend graag uit",
+        "tr": "Jan hafta sonları uyumayı seviyor"
+      },
+      {
+        "nl": "Je wast de kopjes goed af",
+        "tr": "Bardakları iyice yıkayın"
+      },
+      {
+        "nl": "Doe het raam open alsjeblieft!",
+        "tr": "Pencereyi açın lütfen!"
+      },
+      {
+        "nl": "Doe de deur dicht alsjeblieft!",
+        "tr": "Kapıyı kapatın lütfen!"
+      }
+    ]
+  }
+]

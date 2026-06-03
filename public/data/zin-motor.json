@@ -1,0 +1,222 @@
+{
+  "sentences": [
+    {
+      "tr": "Ben her gün Hollandaca çalışıyorum.",
+      "nl": "Ik studeer elke dag Nederlands.",
+      "components": [
+        { "type": "onderwerp", "correct": "Ik" },
+        { "type": "werkwoord", "correct": "studeer" },
+        { "type": "tijd", "correct": "elke dag" },
+        { "type": "object", "correct": "Nederlands" }
+      ]
+    },
+    {
+      "tr": "O (erkek) dün bana telefon etti.",
+      "nl": "Hij belde gisteren mij op.",
+      "components": [
+        { "type": "onderwerp", "correct": "Hij" },
+        { "type": "werkwoord", "correct": "belde" },
+        { "type": "tijd", "correct": "gisteren" },
+        { "type": "object", "correct": "mij" },
+        { "type": "scheidbaar", "correct": "op" }
+      ]
+    },
+    {
+      "tr": "Biz treni bekliyoruz.",
+      "nl": "Wij wachten op de trein.",
+      "components": [
+        { "type": "onderwerp", "correct": "Wij" },
+        { "type": "werkwoord", "correct": "wachten" },
+        { "type": "object", "correct": "op de trein" }
+      ]
+    },
+    {
+      "tr": "Sen saat sekizde kalkıyorsun.",
+      "nl": "Jij staat om acht uur op.",
+      "components": [
+        { "type": "onderwerp", "correct": "Jij" },
+        { "type": "werkwoord", "correct": "staat" },
+        { "type": "tijd", "correct": "om acht uur" },
+        { "type": "scheidbaar", "correct": "op" }
+      ]
+    },
+    {
+      "tr": "Çocuklar parkta birlikte oynuyorlar.",
+      "nl": "De kinderen spelen samen in het park.",
+      "components": [
+        { "type": "onderwerp", "correct": "De kinderen" },
+        { "type": "werkwoord", "correct": "spelen" },
+        { "type": "bijwoord", "correct": "samen" },
+        { "type": "object", "correct": "in het park" }
+      ]
+    },
+    {
+      "tr": "Ben her sabah kahve içerim.",
+      "nl": "Ik drink elke ochtend koffie.",
+      "components": [
+        { "type": "onderwerp", "correct": "Ik" },
+        { "type": "werkwoord", "correct": "drink" },
+        { "type": "tijd", "correct": "elke ochtend" },
+        { "type": "object", "correct": "koffie" }
+      ]
+    },
+    {
+      "tr": "Biz yarın sinemaya gidiyoruz.",
+      "nl": "Wij gaan morgen naar de bioscoop.",
+      "components": [
+        { "type": "onderwerp", "correct": "Wij" },
+        { "type": "werkwoord", "correct": "gaan" },
+        { "type": "tijd", "correct": "morgen" },
+        { "type": "object", "correct": "naar de bioscoop" }
+      ]
+    },
+    {
+      "tr": "Kadın süpermarkette alışveriş yapıyor.",
+      "nl": "De vrouw doet boodschappen in de supermarkt.",
+      "components": [
+        { "type": "onderwerp", "correct": "De vrouw" },
+        { "type": "werkwoord", "correct": "doet" },
+        { "type": "object", "correct": "boodschappen" },
+        { "type": "object", "correct": "in de supermarkt" }
+      ]
+    },
+    {
+      "tr": "Ben trenle işe gidiyorum.",
+      "nl": "Ik ga met de trein naar het werk.",
+      "components": [
+        { "type": "onderwerp", "correct": "Ik" },
+        { "type": "werkwoord", "correct": "ga" },
+        { "type": "object", "correct": "met de trein" },
+        { "type": "object", "correct": "naar het werk" }
+      ]
+    },
+    {
+      "tr": "Onlar evde Türkçe konuşuyorlar.",
+      "nl": "Zij spreken thuis Turks.",
+      "components": [
+        { "type": "onderwerp", "correct": "Zij" },
+        { "type": "werkwoord", "correct": "spreken" },
+        { "type": "bijwoord", "correct": "thuis" },
+        { "type": "object", "correct": "Turks" }
+      ]
+    },
+    {
+      "tr": "Sen kitabı çantana koyuyorsun.",
+      "nl": "Jij stopt het boek in je tas.",
+      "components": [
+        { "type": "onderwerp", "correct": "Jij" },
+        { "type": "werkwoord", "correct": "stopt" },
+        { "type": "object", "correct": "het boek" },
+        { "type": "object", "correct": "in je tas" }
+      ]
+    },
+    {
+      "tr": "Biz bu akşam lezzetli yemek yiyoruz.",
+      "nl": "Wij eten vanavond lekker eten.",
+      "components": [
+        { "type": "onderwerp", "correct": "Wij" },
+        { "type": "werkwoord", "correct": "eten" },
+        { "type": "tijd", "correct": "vanavond" },
+        { "type": "object", "correct": "lekker eten" }
+      ]
+    },
+    {
+      "tr": "O (kadın) televizyonu kapatıyor.",
+      "nl": "Zij zet de televisie uit.",
+      "components": [
+        { "type": "onderwerp", "correct": "Zij" },
+        { "type": "werkwoord", "correct": "zet" },
+        { "type": "object", "correct": "de televisie" },
+        { "type": "scheidbaar", "correct": "uit" }
+      ]
+    },
+    {
+      "tr": "Ben mektubu arkadaşıma gönderiyorum.",
+      "nl": "Ik stuur de brief naar mijn vriend.",
+      "components": [
+        { "type": "onderwerp", "correct": "Ik" },
+        { "type": "werkwoord", "correct": "stuur" },
+        { "type": "object", "correct": "de brief" },
+        { "type": "object", "correct": "naar mijn vriend" }
+      ]
+    },
+    {
+      "tr": "Öğretmen sınıfa giriyor.",
+      "nl": "De docent komt de klas binnen.",
+      "components": [
+        { "type": "onderwerp", "correct": "De docent" },
+        { "type": "werkwoord", "correct": "komt" },
+        { "type": "object", "correct": "de klas" },
+        { "type": "scheidbaar", "correct": "binnen" }
+      ]
+    },
+    {
+      "tr": "Biz hafta sonu temizlik yapıyoruz.",
+      "nl": "Wij maken in het weekend schoon.",
+      "components": [
+        { "type": "onderwerp", "correct": "Wij" },
+        { "type": "werkwoord", "correct": "maken" },
+        { "type": "tijd", "correct": "in het weekend" },
+        { "type": "scheidbaar", "correct": "schoon" }
+      ]
+    },
+    {
+      "tr": "Köpek bahçede hızlı koşuyor.",
+      "nl": "De hond rent snel in de tuin.",
+      "components": [
+        { "type": "onderwerp", "correct": "De hond" },
+        { "type": "werkwoord", "correct": "rent" },
+        { "type": "bijwoord", "correct": "snel" },
+        { "type": "object", "correct": "in de tuin" }
+      ]
+    },
+    {
+      "tr": "Sen sorulara cevap veriyorsun.",
+      "nl": "Jij geeft antwoord op de vragen.",
+      "components": [
+        { "type": "onderwerp", "correct": "Jij" },
+        { "type": "werkwoord", "correct": "geeft" },
+        { "type": "object", "correct": "antwoord" },
+        { "type": "object", "correct": "op de vragen" }
+      ]
+    },
+    {
+      "tr": "O (erkek) arkadaşını partiye davet ediyor.",
+      "nl": "Hij nodigt zijn vriend voor het feest uit.",
+      "components": [
+        { "type": "onderwerp", "correct": "Hij" },
+        { "type": "werkwoord", "correct": "nodigt" },
+        { "type": "object", "correct": "sein vriend" },
+        { "type": "object", "correct": "voor het feest" },
+        { "type": "scheidbaar", "correct": "uit" }
+      ]
+    },
+    {
+      "tr": "Ben tatilde dinleniyorum.",
+      "nl": "Ik rust uit tijdens de vakantie.",
+      "components": [
+        { "type": "onderwerp", "correct": "Ik" },
+        { "type": "werkwoord", "correct": "rust" },
+        { "type": "scheidbaar", "correct": "uit" },
+        { "type": "tijd", "correct": "tijdens de vakantie" }
+      ]
+    }
+  ],
+  "pools": {
+    "onderwerp": ["Ik", "Jij", "Hij", "Zij", "Het kind", "Wij", "Jullie", "De jongen", "De vrouw", "De hond", "De docent", "De kinderen"],
+    "werkwoord": ["studeer", "belde", "wachten", "staat", "spelen", "drink", "gaan", "doet", "ga", "spreken", "stopt", "eten", "zet", "stuur", "komt", "maken", "rent", "geeft", "nodigt", "rust", "werkt", "wonen", "hebt", "is"],
+    "tijd": ["elke dag", "gisteren", "om acht uur", "elke ochtend", "morgen", "vanavond", "in het weekend", "tijdens de vakantie", "nu", "vandaag", "altijd", "soms", "nooit"],
+    "bijwoord": ["samen", "thuis", "snel", "hier", "daar", "buiten", "binnen", "alleen", "graag", "ook"],
+    "object": ["Nederlands", "mij", "op de trein", "in het park", "koffie", "naar de bioscoop", "boodschappen", "in de supermarkt", "met de trein", "naar het werk", "Turks", "het boek", "in je tas", "lekker eten", "de televisie", "de brief", "naar mijn vriend", "de klas", "in de tuin", "antwoord", "op de vragen", "sein vriend", "voor het feest", "water", "brood", "een boek", "naar school", "naar huis", "een hond", "veel geld"],
+    "scheidbaar": ["op", "uit", "binnen", "schoon", "af", "mee", "tegen", "toe"]
+  },
+  "feedback_phrases": [
+    "Goed bezig!",
+    "Uitstekend!",
+    "Geweldig gedaan!",
+    "Super!",
+    "Perfect!",
+    "Ga zo door!",
+    "Heel goed!"
+  ]
+}

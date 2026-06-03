@@ -1,0 +1,3766 @@
+[
+  {
+    "nl": "onderneming",
+    "tr": "enterprise, venture, project"
+  },
+  {
+    "nl": "voordeel",
+    "tr": "advantage, benefit, profit"
+  },
+  {
+    "nl": "toe te spitsen",
+    "tr": "focus, to concentrate"
+  },
+  {
+    "nl": "toestel",
+    "tr": "appliance, apparatus"
+  },
+  {
+    "nl": "tevredenheidsscore",
+    "tr": "satisfaction score"
+  },
+  {
+    "nl": "prestaties",
+    "tr": "performance"
+  },
+  {
+    "nl": "kwartaal",
+    "tr": "quarter"
+  },
+  {
+    "nl": "lanceren",
+    "tr": "launch"
+  },
+  {
+    "nl": "besturingssysteem",
+    "tr": "operating system"
+  },
+  {
+    "nl": "verkiezingsmeeting",
+    "tr": "election meeting"
+  },
+  {
+    "nl": "verwachtingen",
+    "tr": "expectations"
+  },
+  {
+    "nl": "grondwetgevende",
+    "tr": "constituent"
+  },
+  {
+    "nl": "bevolking",
+    "tr": "population"
+  },
+  {
+    "nl": "burgerlijke",
+    "tr": "civil"
+  },
+  {
+    "nl": "peilingen",
+    "tr": "polls"
+  },
+  {
+    "nl": "duw in de rug gegeven",
+    "tr": "boost given, give a boost"
+  },
+  {
+    "nl": "scoort",
+    "tr": "scores"
+  },
+  {
+    "nl": "ambtenaren",
+    "tr": "officials"
+  },
+  {
+    "nl": "loontrekkenden",
+    "tr": "employees"
+  },
+  {
+    "nl": "doortastendheid",
+    "tr": "thoroughness"
+  },
+  {
+    "nl": "beursbubbel",
+    "tr": "stock market bubble"
+  },
+  {
+    "nl": "aandelenkoersen",
+    "tr": "share prices"
+  },
+  {
+    "nl": "beschouwt",
+    "tr": "considers"
+  },
+  {
+    "nl": "investeringen",
+    "tr": "investments"
+  },
+  {
+    "nl": "spanningen",
+    "tr": "tensions"
+  },
+  {
+    "nl": "droomrecept",
+    "tr": "dream recipe"
+  },
+  {
+    "nl": "verzwakking",
+    "tr": "weakening"
+  },
+  {
+    "nl": "draaien",
+    "tr": "rotate, twist"
+  },
+  {
+    "nl": "investeringen",
+    "tr": "investments"
+  },
+  {
+    "nl": "Koersrendement",
+    "tr": "price efficiency"
+  },
+  {
+    "nl": "vermogensbeheerder",
+    "tr": "asset"
+  },
+  {
+    "nl": "transportsector",
+    "tr": "transportation sector"
+  },
+  {
+    "nl": "retour",
+    "tr": "return"
+  },
+  {
+    "nl": "ontginning",
+    "tr": "reclamation"
+  },
+  {
+    "nl": "rendabel",
+    "tr": "profitable"
+  },
+  {
+    "nl": "inspanningen",
+    "tr": "efforts"
+  },
+  {
+    "nl": "kwetsbaar",
+    "tr": "vulnerable"
+  },
+  {
+    "nl": "bondskanselier",
+    "tr": "chancellor"
+  },
+  {
+    "nl": "invloedrijke",
+    "tr": "influential"
+  },
+  {
+    "nl": "stribbelt",
+    "tr": "struggles"
+  },
+  {
+    "nl": "groeispoor",
+    "tr": "growth track"
+  },
+  {
+    "nl": "ondernemers",
+    "tr": "entrepreneurs"
+  },
+  {
+    "nl": "woningmarkt",
+    "tr": "housing market"
+  },
+  {
+    "nl": "dieptepunt",
+    "tr": "low point"
+  },
+  {
+    "nl": "sukkelt",
+    "tr": "struggling"
+  },
+  {
+    "nl": "recessie",
+    "tr": "recession"
+  },
+  {
+    "nl": "rommelstatus",
+    "tr": "junk status"
+  },
+  {
+    "nl": "verwanten",
+    "tr": "kindred, kinsfolk"
+  },
+  {
+    "nl": "groothertogdom",
+    "tr": "grand duchy"
+  },
+  {
+    "nl": "genegenheid",
+    "tr": "affection"
+  },
+  {
+    "nl": "verrast",
+    "tr": "surprised"
+  },
+  {
+    "nl": "staatsbezoek",
+    "tr": "state visit"
+  },
+  {
+    "nl": "euromunt",
+    "tr": "euro coin"
+  },
+  {
+    "nl": "kranslegging",
+    "tr": "wreath"
+  },
+  {
+    "nl": "bedrijfsleven",
+    "tr": "business"
+  },
+  {
+    "nl": "voormalige",
+    "tr": "former"
+  },
+  {
+    "nl": "hoogoventerrein",
+    "tr": "blast site"
+  },
+  {
+    "nl": "tegenprestatie",
+    "tr": "consideration"
+  },
+  {
+    "nl": "woningverkopen",
+    "tr": "home sales"
+  },
+  {
+    "nl": "hypotheken",
+    "tr": "mortgages"
+  },
+  {
+    "nl": "executieveilingen",
+    "tr": "forclosure auctions"
+  },
+  {
+    "nl": "macrocijfers",
+    "tr": "macro data"
+  },
+  {
+    "nl": "risico",
+    "tr": "risk"
+  },
+  {
+    "nl": "beleggers",
+    "tr": "investors"
+  },
+  {
+    "nl": "reeks",
+    "tr": "series, range"
+  },
+  {
+    "nl": "schuldencrisis",
+    "tr": "debt crisis"
+  },
+  {
+    "nl": "ongelimiteerde",
+    "tr": "unlimited"
+  },
+  {
+    "nl": "geldinjectie",
+    "tr": "cash injection"
+  },
+  {
+    "nl": "bezuinigen",
+    "tr": "save, economize"
+  },
+  {
+    "nl": "begrotingsafspraken",
+    "tr": "budget agreements"
+  },
+  {
+    "nl": "hypotheekaanvragen",
+    "tr": "mortgage applications"
+  },
+  {
+    "nl": "nadruk",
+    "tr": "emphasis"
+  },
+  {
+    "nl": "bouwvergunningen",
+    "tr": "building permits"
+  },
+  {
+    "nl": "verslechtering",
+    "tr": "deterioration"
+  },
+  {
+    "nl": "bocht",
+    "tr": "curve"
+  },
+  {
+    "nl": "metingen",
+    "tr": "measurements"
+  },
+  {
+    "nl": "gelijkmatiger",
+    "tr": "more evenly"
+  },
+  {
+    "nl": "behoedzame",
+    "tr": "cautious"
+  },
+  {
+    "nl": "premie",
+    "tr": "premium"
+  },
+  {
+    "nl": "verzekeraars",
+    "tr": "insurers"
+  },
+  {
+    "nl": "Studentenvakbond",
+    "tr": "student union"
+  },
+  {
+    "nl": "studieschuld",
+    "tr": "student loan"
+  },
+  {
+    "nl": "belastingdiensten",
+    "tr": "tax services"
+  },
+  {
+    "nl": "internationalisering",
+    "tr": "internationalization"
+  },
+  {
+    "nl": "ingewikkeld",
+    "tr": "complicated"
+  },
+  {
+    "nl": "fiscalist",
+    "tr": "tax services"
+  },
+  {
+    "nl": "belastingregimes",
+    "tr": "tax regimes"
+  },
+  {
+    "nl": "belastingverdrag",
+    "tr": "tax treaty"
+  },
+  {
+    "nl": "aangifte",
+    "tr": "declaration"
+  },
+  {
+    "nl": "heikel",
+    "tr": "thorny"
+  },
+  {
+    "nl": "inkomstenbelasting",
+    "tr": "income tax"
+  },
+  {
+    "nl": "grensoverschrijdende",
+    "tr": "transboundary"
+  },
+  {
+    "nl": "belastingbetaler",
+    "tr": "taxpayer"
+  },
+  {
+    "nl": "werkloosheid",
+    "tr": "unemployment"
+  },
+  {
+    "nl": "echtscheidingen",
+    "tr": "divorces"
+  },
+  {
+    "nl": "bezuiniging",
+    "tr": "economy"
+  },
+  {
+    "nl": "onderwijsstelsel",
+    "tr": "education system"
+  },
+  {
+    "nl": "bezuinigingsmaatregelen",
+    "tr": "austerity measures"
+  },
+  {
+    "nl": "forse",
+    "tr": "significant"
+  },
+  {
+    "nl": "inschrijving",
+    "tr": "enrollment"
+  },
+  {
+    "nl": "basisbeurs",
+    "tr": "basic grant"
+  },
+  {
+    "nl": "masterfase",
+    "tr": "master's degree"
+  },
+  {
+    "nl": "exportroutes",
+    "tr": "export routes"
+  },
+  {
+    "nl": "inkomstenbron",
+    "tr": "income source"
+  },
+  {
+    "nl": "dreigement",
+    "tr": "threat"
+  },
+  {
+    "nl": "sancties",
+    "tr": "sanctions"
+  },
+  {
+    "nl": "pijpleiding",
+    "tr": "pipeline"
+  },
+  {
+    "nl": "vrachtwagens",
+    "tr": "trucks"
+  },
+  {
+    "nl": "aartsrivaal",
+    "tr": "arch rival"
+  },
+  {
+    "nl": "berekenen",
+    "tr": "calculate"
+  },
+  {
+    "nl": "bewaarloon",
+    "tr": "custody"
+  },
+  {
+    "nl": "kostenonderzoek",
+    "tr": "research costs"
+  },
+  {
+    "nl": "verhullende",
+    "tr": "concealing"
+  },
+  {
+    "nl": "handelsplatformen",
+    "tr": "trading platforms"
+  },
+  {
+    "nl": "schuldenberg",
+    "tr": "mountain of debt"
+  },
+  {
+    "nl": "optietransacties",
+    "tr": "option transactions"
+  },
+  {
+    "nl": "tarieven",
+    "tr": "rates"
+  },
+  {
+    "nl": "Kostenpost",
+    "tr": "cost item"
+  },
+  {
+    "nl": "winsten",
+    "tr": "profits"
+  },
+  {
+    "nl": "beschrijving",
+    "tr": "description"
+  },
+  {
+    "nl": "grootschalige",
+    "tr": "large scale"
+  },
+  {
+    "nl": "marktsectoren",
+    "tr": "market sectors"
+  },
+  {
+    "nl": "veronderstelde",
+    "tr": "assumed"
+  },
+  {
+    "nl": "uitstellen",
+    "tr": "delay, postpone"
+  },
+  {
+    "nl": "doelgerichter",
+    "tr": "targeted"
+  },
+  {
+    "nl": "flexibeler",
+    "tr": "flexible"
+  },
+  {
+    "nl": "vooruitstrevender",
+    "tr": "progressive"
+  },
+  {
+    "nl": "evenwichtiger",
+    "tr": "balanced"
+  },
+  {
+    "nl": "winstgevend",
+    "tr": "profitable"
+  },
+  {
+    "nl": "grafieken",
+    "tr": "graphs"
+  },
+  {
+    "nl": "samenstelling",
+    "tr": "composition"
+  },
+  {
+    "nl": "fondsinformatie",
+    "tr": "fund information"
+  },
+  {
+    "nl": "rendementen",
+    "tr": "returns"
+  },
+  {
+    "nl": "beursnotering",
+    "tr": "listing"
+  },
+  {
+    "nl": "beleggingsfondsen",
+    "tr": "investment funds"
+  },
+  {
+    "nl": "opdraaien",
+    "tr": "turn up"
+  },
+  {
+    "nl": "onderhandelingen",
+    "tr": "negotiations"
+  },
+  {
+    "nl": "bezittingen",
+    "tr": "possessions"
+  },
+  {
+    "nl": "stijgende",
+    "tr": "rising"
+  },
+  {
+    "nl": "indicatoren",
+    "tr": "indicators"
+  },
+  {
+    "nl": "bruto",
+    "tr": "gross"
+  },
+  {
+    "nl": "nipte",
+    "tr": "narrow"
+  },
+  {
+    "nl": "meerderheid",
+    "tr": "majority"
+  },
+  {
+    "nl": "schatten",
+    "tr": "estimate"
+  },
+  {
+    "nl": "voorkeur",
+    "tr": "preference"
+  },
+  {
+    "nl": "behoorlijke",
+    "tr": "proper"
+  },
+  {
+    "nl": "kapitaalmarkten",
+    "tr": "capital markets"
+  },
+  {
+    "nl": "geweldsincident",
+    "tr": "foul play"
+  },
+  {
+    "nl": "bestemmingsplan",
+    "tr": "zoning"
+  },
+  {
+    "nl": "peilingen",
+    "tr": "polls"
+  },
+  {
+    "nl": "bezuinigen",
+    "tr": "economize"
+  },
+  {
+    "nl": "noodlijdende",
+    "tr": "ailing"
+  },
+  {
+    "nl": "kandidatuur",
+    "tr": "candidacy"
+  },
+  {
+    "nl": "aandeelhouders",
+    "tr": "shareholders"
+  },
+  {
+    "nl": "fusie",
+    "tr": "merger"
+  },
+  {
+    "nl": "tijdwaarneming",
+    "tr": "timing"
+  },
+  {
+    "nl": "geruchtmakende",
+    "tr": "controversial"
+  },
+  {
+    "nl": "werkomstandigheden",
+    "tr": "working conditions"
+  },
+  {
+    "nl": "werkweken",
+    "tr": "workweeks"
+  },
+  {
+    "nl": "werknemers",
+    "tr": "employees"
+  },
+  {
+    "nl": "paginagroot",
+    "tr": "full page"
+  },
+  {
+    "nl": "mensenrechtenorganisatie",
+    "tr": "human rights org."
+  },
+  {
+    "nl": "misstanden",
+    "tr": "abuses"
+  },
+  {
+    "nl": "staatsschuld",
+    "tr": "public debt"
+  },
+  {
+    "nl": "arbeidsmarkt",
+    "tr": "labor market"
+  },
+  {
+    "nl": "schadepost",
+    "tr": "loss post"
+  },
+  {
+    "nl": "rentes",
+    "tr": "rates"
+  },
+  {
+    "nl": "ongewisser",
+    "tr": "precarious"
+  },
+  {
+    "nl": "blijmoedig",
+    "tr": "cheerfully"
+  },
+  {
+    "nl": "werkloosheidsverzekering",
+    "tr": "unemployment insurance"
+  },
+  {
+    "nl": "ontslagstelsel",
+    "tr": "dismissal system"
+  },
+  {
+    "nl": "meebetalen",
+    "tr": "help pay"
+  },
+  {
+    "nl": "ontslagen",
+    "tr": "layoffs"
+  },
+  {
+    "nl": "openbaarvervoersbedrijven",
+    "tr": "public transport"
+  },
+  {
+    "nl": "EU-lidstaten",
+    "tr": "EU member states"
+  },
+  {
+    "nl": "bilaterale",
+    "tr": "bilateral"
+  },
+  {
+    "nl": "gedoogcoalitie",
+    "tr": "tolerated coalition"
+  },
+  {
+    "nl": "bezwaarprocedures",
+    "tr": "objection procedures"
+  },
+  {
+    "nl": "wegcapaciteit",
+    "tr": "road capacity"
+  },
+  {
+    "nl": "vrachtverkeer",
+    "tr": "freight"
+  },
+  {
+    "nl": "kortetermijnopbrengst",
+    "tr": "short-term yield"
+  },
+  {
+    "nl": "onverstandig",
+    "tr": "unwise"
+  },
+  {
+    "nl": "begrotingspact",
+    "tr": "budget pact"
+  },
+  {
+    "nl": "welvarendste",
+    "tr": "prosperous"
+  },
+  {
+    "nl": "talmen",
+    "tr": "delay, postpone"
+  },
+  {
+    "nl": "begrotingsdiscipline",
+    "tr": "bugetary discipline"
+  },
+  {
+    "nl": "inkomens",
+    "tr": "incomes"
+  },
+  {
+    "nl": "gedoogakkoord",
+    "tr": "phasing agreement"
+  },
+  {
+    "nl": "bezuinigen",
+    "tr": "economize"
+  },
+  {
+    "nl": "zwijgt",
+    "tr": "silent"
+  },
+  {
+    "nl": "beloningen",
+    "tr": "rewards"
+  },
+  {
+    "nl": "tegenstander",
+    "tr": "opponent"
+  },
+  {
+    "nl": "grootaandeelhouder",
+    "tr": "large shareholder"
+  },
+  {
+    "nl": "zakenman",
+    "tr": "businessman"
+  },
+  {
+    "nl": "investeerder",
+    "tr": "investors"
+  },
+  {
+    "nl": "textielbedrijf",
+    "tr": "textile company"
+  },
+  {
+    "nl": "bedrijf",
+    "tr": "business"
+  },
+  {
+    "nl": "groeipotentieel",
+    "tr": "growth potential"
+  },
+  {
+    "nl": "gevolgen",
+    "tr": "consequences"
+  },
+  {
+    "nl": "internetzeepbel",
+    "tr": "internet bubble"
+  },
+  {
+    "nl": "beleggingsmaatschappij",
+    "tr": "investment company"
+  },
+  {
+    "nl": "portefeuille",
+    "tr": "portfolio"
+  },
+  {
+    "nl": "superbelegger",
+    "tr": "super investor"
+  },
+  {
+    "nl": "zakenpartner",
+    "tr": "business partner"
+  },
+  {
+    "nl": "dienstverlener",
+    "tr": "service provider"
+  },
+  {
+    "nl": "hooftkantoor",
+    "tr": "head office, headquarters"
+  },
+  {
+    "nl": "gevestigd",
+    "tr": "established"
+  },
+  {
+    "nl": "merken",
+    "tr": "brands"
+  },
+  {
+    "nl": "echtheidskenmerken",
+    "tr": "security features"
+  },
+  {
+    "nl": "kredietkaartformaat",
+    "tr": "credit card format"
+  },
+  {
+    "nl": "bankrekening",
+    "tr": "bank account"
+  },
+  {
+    "nl": "gekoppeld",
+    "tr": "coupled"
+  },
+  {
+    "nl": "geldautomaat",
+    "tr": "ATM"
+  },
+  {
+    "nl": "autenticatie",
+    "tr": "authentication"
+  },
+  {
+    "nl": "expiratiedatum",
+    "tr": "expiration date"
+  },
+  {
+    "nl": "fraudegevoelig",
+    "tr": "susceptible to fraud"
+  },
+  {
+    "nl": "cijfercode",
+    "tr": "numeric code"
+  },
+  {
+    "nl": "beeldmerken",
+    "tr": "logos"
+  },
+  {
+    "nl": "bijbehorende",
+    "tr": "associated"
+  },
+  {
+    "nl": "geavanceerdere",
+    "tr": "advanced"
+  },
+  {
+    "nl": "tussenpersoon",
+    "tr": "intermediary"
+  },
+  {
+    "nl": "toetsen",
+    "tr": "test"
+  },
+  {
+    "nl": "controlegetal",
+    "tr": "checksum"
+  },
+  {
+    "nl": "instellingen",
+    "tr": "institutions"
+  },
+  {
+    "nl": "kantines",
+    "tr": "canteens"
+  },
+  {
+    "nl": "vereenvoudigen",
+    "tr": "simplify"
+  },
+  {
+    "nl": "beschikken",
+    "tr": "hold in esteem"
+  },
+  {
+    "nl": "betaalpunten",
+    "tr": "payment points"
+  },
+  {
+    "nl": "waardepapier",
+    "tr": "value of paper"
+  },
+  {
+    "nl": "bewijs",
+    "tr": "proof, argument"
+  },
+  {
+    "nl": "vervalsing",
+    "tr": "forgery"
+  },
+  {
+    "nl": "stagnerende",
+    "tr": "stagnant"
+  },
+  {
+    "nl": "obligaties",
+    "tr": "debentures"
+  },
+  {
+    "nl": "verpakte",
+    "tr": "packaged"
+  },
+  {
+    "nl": "gebundelde",
+    "tr": "bundled"
+  },
+  {
+    "nl": "afgeschreven",
+    "tr": "depreciated"
+  },
+  {
+    "nl": "opmerkelijke",
+    "tr": "notable"
+  },
+  {
+    "nl": "interferentie",
+    "tr": "interference"
+  },
+  {
+    "nl": "deelmarkten",
+    "tr": "submarkets"
+  },
+  {
+    "nl": "aanleiding",
+    "tr": "occasion, motive"
+  },
+  {
+    "nl": "uitsluitend",
+    "tr": "exclusively"
+  },
+  {
+    "nl": "dreigden",
+    "tr": "threatened"
+  },
+  {
+    "nl": "opleving",
+    "tr": "revival"
+  },
+  {
+    "nl": "niveau",
+    "tr": "level, plane"
+  },
+  {
+    "nl": "leningen",
+    "tr": "loans"
+  },
+  {
+    "nl": "liquiditeit",
+    "tr": "liquidity"
+  },
+  {
+    "nl": "inkomensgegevens",
+    "tr": "income data"
+  },
+  {
+    "nl": "kredietwaardigheid",
+    "tr": "solvency"
+  },
+  {
+    "nl": "belangstelling",
+    "tr": "interest"
+  },
+  {
+    "nl": "deregulatie",
+    "tr": "deregulation"
+  },
+  {
+    "nl": "falend",
+    "tr": "failure"
+  },
+  {
+    "nl": "speculatieobject",
+    "tr": "speculation object"
+  },
+  {
+    "nl": "onbeperkte",
+    "tr": "unlimited"
+  },
+  {
+    "nl": "beschikbaarheid",
+    "tr": "availability"
+  },
+  {
+    "nl": "renteverhogingen",
+    "tr": "interest rate increases"
+  },
+  {
+    "nl": "bestedingen",
+    "tr": "spending"
+  },
+  {
+    "nl": "betalingsachterstanden",
+    "tr": "payment arrears"
+  },
+  {
+    "nl": "beurskoers",
+    "tr": "share prices"
+  },
+  {
+    "nl": "staatsleningen",
+    "tr": "government loans"
+  },
+  {
+    "nl": "wanbetaling",
+    "tr": "default"
+  },
+  {
+    "nl": "gewaardeerd",
+    "tr": "rated"
+  },
+  {
+    "nl": "waardebepaling",
+    "tr": "valuation"
+  },
+  {
+    "nl": "bezighouden",
+    "tr": "occupy"
+  },
+  {
+    "nl": "enerzijds",
+    "tr": "on the one hand"
+  },
+  {
+    "nl": "vermogensverschaffers",
+    "tr": "capital providers"
+  },
+  {
+    "nl": "waarderingen",
+    "tr": "ratings"
+  },
+  {
+    "nl": "gebrekkige",
+    "tr": "defective"
+  },
+  {
+    "nl": "beheerde",
+    "tr": "managed"
+  },
+  {
+    "nl": "waardeerden",
+    "tr": "appreciated"
+  },
+  {
+    "nl": "koersbewegingen",
+    "tr": "price movements"
+  },
+  {
+    "nl": "sturingsinstrument",
+    "tr": "management tool"
+  },
+  {
+    "nl": "hypotheekbanken",
+    "tr": "mortgage banks"
+  },
+  {
+    "nl": "surseance",
+    "tr": "suspension"
+  },
+  {
+    "nl": "leningsarrangementen",
+    "tr": "arrangements to borrow"
+  },
+  {
+    "nl": "huisbankiers",
+    "tr": "bankers"
+  },
+  {
+    "nl": "hooftlijnen",
+    "tr": "headlines"
+  },
+  {
+    "nl": "beleggingen",
+    "tr": "investments"
+  },
+  {
+    "nl": "steunmaatregelen",
+    "tr": "support measures"
+  },
+  {
+    "nl": "leningsfaciliteiten",
+    "tr": "loan facilities"
+  },
+  {
+    "nl": "voorschotten",
+    "tr": "advances"
+  },
+  {
+    "nl": "bancaire",
+    "tr": "banking"
+  },
+  {
+    "nl": "overeenstemming",
+    "tr": "agreement, consensus"
+  },
+  {
+    "nl": "rentetarieven",
+    "tr": "interest rates"
+  },
+  {
+    "nl": "gehanteerde",
+    "tr": "used"
+  },
+  {
+    "nl": "regeerperiode",
+    "tr": "region"
+  },
+  {
+    "nl": "belastingopbrengsten",
+    "tr": "tax revenues"
+  },
+  {
+    "nl": "begrotingsjaar",
+    "tr": "fiscal year"
+  },
+  {
+    "nl": "werkgelegenheid",
+    "tr": "work opportunity"
+  },
+  {
+    "nl": "ontoereikende",
+    "tr": "inadequate"
+  },
+  {
+    "nl": "dekkingsgraad",
+    "tr": "coverage"
+  },
+  {
+    "nl": "kantoorpanden",
+    "tr": "office buildings"
+  },
+  {
+    "nl": "geldverstrekker",
+    "tr": "lender"
+  },
+  {
+    "nl": "overheidsbetrokkenheid",
+    "tr": "government involvement"
+  },
+  {
+    "nl": "betrokkenheid",
+    "tr": "involvement"
+  },
+  {
+    "nl": "bedrijfsvoering",
+    "tr": "business operations"
+  },
+  {
+    "nl": "voorzitter",
+    "tr": "chairman"
+  },
+  {
+    "nl": "aankondiging",
+    "tr": "announcement"
+  },
+  {
+    "nl": "slotakkoord",
+    "tr": "final agreement"
+  },
+  {
+    "nl": "liefdadigheid",
+    "tr": "charity"
+  },
+  {
+    "nl": "sterker nog",
+    "tr": "actually"
+  },
+  {
+    "nl": "ook",
+    "tr": "also"
+  },
+  {
+    "nl": "en",
+    "tr": "and"
+  },
+  {
+    "nl": "evenals",
+    "tr": "as well as"
+  },
+  {
+    "nl": "bovendien (met komma!)",
+    "tr": "besides,"
+  },
+  {
+    "nl": "zowel ... als ...",
+    "tr": "both ... and ..."
+  },
+  {
+    "nl": "zelfs (a, b, zelfs c)",
+    "tr": "even"
+  },
+  {
+    "nl": "eerste, tweede, derde",
+    "tr": "first, second, third"
+  },
+  {
+    "nl": "bovendien",
+    "tr": "furthermore"
+  },
+  {
+    "nl": "bovendien",
+    "tr": "in addition"
+  },
+  {
+    "nl": "sterker nog (2e argument = meer van 't zelfde)",
+    "tr": "indeed"
+  },
+  {
+    "nl": "sterker nog",
+    "tr": "in fact"
+  },
+  {
+    "nl": "bovendien",
+    "tr": "moreover"
+  },
+  {
+    "nl": "noch ... noch ...",
+    "tr": "neither ... nor ..."
+  },
+  {
+    "nl": "niet alleen ... maar ook",
+    "tr": "not only ... but also"
+  },
+  {
+    "nl": "één ... een andere / tweede (bijv. One reason is ... another reason is ...)",
+    "tr": "one ... another"
+  },
+  {
+    "nl": "of",
+    "tr": "or"
+  },
+  {
+    "nl": "met een komma ervóór: ook",
+    "tr": "too"
+  },
+  {
+    "nl": "bovendien",
+    "tr": "what is more"
+  },
+  {
+    "nl": "tenslotte, immers",
+    "tr": "after all"
+  },
+  {
+    "nl": "daar, omdat",
+    "tr": "as"
+  },
+  {
+    "nl": "als gevolg van",
+    "tr": "as a result of"
+  },
+  {
+    "nl": "omdat",
+    "tr": "because"
+  },
+  {
+    "nl": "want",
+    "tr": "for"
+  },
+  {
+    "nl": "aangezien",
+    "tr": "since"
+  },
+  {
+    "nl": "aangezien het suggereert ...",
+    "tr": "since it suggests ..."
+  },
+  {
+    "nl": "feitelijk, eigenlijk (tegenargument)",
+    "tr": "actually"
+  },
+  {
+    "nl": "toegegeven, (tegenargument)",
+    "tr": "admittedly"
+  },
+  {
+    "nl": "ofschoon, hoewel",
+    "tr": "although, though"
+  },
+  {
+    "nl": "behalve (zonder komma!)",
+    "tr": "besides"
+  },
+  {
+    "nl": "maar",
+    "tr": "but"
+  },
+  {
+    "nl": "daarentegen, als contrast",
+    "tr": "by contrast"
+  },
+  {
+    "nl": "weliswaar (met komma, tegenargument!)",
+    "tr": "certainly,"
+  },
+  {
+    "nl": "daarentegen",
+    "tr": "conversely"
+  },
+  {
+    "nl": "ondanks",
+    "tr": "despite"
+  },
+  {
+    "nl": "ofwel ... of ...",
+    "tr": "either ... or ..."
+  },
+  {
+    "nl": "toch, desondanks",
+    "tr": "even so"
+  },
+  {
+    "nl": "echter (met komma)",
+    "tr": "however"
+  },
+  {
+    "nl": "feitelijk, eigenlijk (tegenargument)",
+    "tr": "in fact"
+  },
+  {
+    "nl": "ondanks",
+    "tr": "in spite of"
+  },
+  {
+    "nl": "in plaats daarvan",
+    "tr": "instead"
+  },
+  {
+    "nl": "toch, desalniettemin",
+    "tr": "nevertheless"
+  },
+  {
+    "nl": "nu, als tegenstelling meer maar tegenwoordig",
+    "tr": "now"
+  },
+  {
+    "nl": "natuurlijk (met komma, tegenargument!)",
+    "tr": "of course,"
+  },
+  {
+    "nl": "enerzijds, anderzijds",
+    "tr": "on the one hand ... on the other ..."
+  },
+  {
+    "nl": "in tegenstrijd daarmee",
+    "tr": "paradoxically"
+  },
+  {
+    "nl": "eerder dan, in plaats van, liever",
+    "tr": "rather"
+  },
+  {
+    "nl": "toch",
+    "tr": "still"
+  },
+  {
+    "nl": "weliswaar (met komma, tegenargument!)",
+    "tr": "sure,"
+  },
+  {
+    "nl": "Vandaag is het weer weliswaar goed, maar ...",
+    "tr": "Sure, today the weather is good, but ..."
+  },
+  {
+    "nl": "aan de andere kant",
+    "tr": "then again"
+  },
+  {
+    "nl": "om eerlijk te zijn (tegenargument, verzachtend)",
+    "tr": "to be fair"
+  },
+  {
+    "nl": "weliswaar (met komma, tegenargument!)",
+    "tr": "true,"
+  },
+  {
+    "nl": "Hij heeft weliswaar ook goede punten.",
+    "tr": "True, he has some good points too."
+  },
+  {
+    "nl": "terwijl",
+    "tr": "whereas"
+  },
+  {
+    "nl": "ondertussen (als in: ondertussen gebeurt het tegenovergestelde)",
+    "tr": "(mean)while*"
+  },
+  {
+    "nl": "toch",
+    "tr": "yet"
+  },
+  {
+    "nl": "als, indien",
+    "tr": "if"
+  },
+  {
+    "nl": "mits, op voorwaarde dat",
+    "tr": "provided, providing"
+  },
+  {
+    "nl": "tenzij",
+    "tr": "unless"
+  },
+  {
+    "nl": "voor",
+    "tr": "before"
+  },
+  {
+    "nl": "vroeger",
+    "tr": "earlier"
+  },
+  {
+    "nl": "uiteindelijk",
+    "tr": "eventually"
+  },
+  {
+    "nl": "aanvankelijk",
+    "tr": "initially"
+  },
+  {
+    "nl": "in het verleden",
+    "tr": "in the past"
+  },
+  {
+    "nl": "later",
+    "tr": "later"
+  },
+  {
+    "nl": "nu",
+    "tr": "now"
+  },
+  {
+    "nl": "zodra, toen eenmaal",
+    "tr": "once"
+  },
+  {
+    "nl": "op een keer ... er was eens ...",
+    "tr": "once upon a time"
+  },
+  {
+    "nl": "nu, tegenwoordig, vandaag de dag",
+    "tr": "present, present-day"
+  },
+  {
+    "nl": "tegenwoordig, vandaag de dag",
+    "tr": "today"
+  },
+  {
+    "nl": "totdat",
+    "tr": "until"
+  },
+  {
+    "nl": "ondertussen (als in: ondertussen gebeurt het tegenovergestelde)",
+    "tr": "(mean)while"
+  },
+  {
+    "nl": "tenslotte",
+    "tr": "after all"
+  },
+  {
+    "nl": "daarom",
+    "tr": "as a result"
+  },
+  {
+    "nl": "met als gevolg",
+    "tr": "consequently"
+  },
+  {
+    "nl": "daarom, zodoende",
+    "tr": "hence"
+  },
+  {
+    "nl": "kortom",
+    "tr": "in short"
+  },
+  {
+    "nl": "dus, daarom",
+    "tr": "so"
+  },
+  {
+    "nl": "daarom",
+    "tr": "that's why"
+  },
+  {
+    "nl": "daarom",
+    "tr": "therefore"
+  },
+  {
+    "nl": "zo, op die manier, samenvattend",
+    "tr": "thus"
+  },
+  {
+    "nl": "alsof",
+    "tr": "as if"
+  },
+  {
+    "nl": "evenzeer, evenzo",
+    "tr": "equally"
+  },
+  {
+    "nl": "op dezelfde manier",
+    "tr": "likewise"
+  },
+  {
+    "nl": "op dezelfde manier",
+    "tr": "similarly"
+  },
+  {
+    "nl": "bijvoorbeeld",
+    "tr": "for example"
+  },
+  {
+    "nl": "bijvoorbeeld",
+    "tr": "for instance"
+  },
+  {
+    "nl": "zoals",
+    "tr": "such as"
+  },
+  {
+    "nl": "duidelijk maken",
+    "tr": "to make clear"
+  },
+  {
+    "nl": "bewijzen",
+    "tr": "to prove"
+  },
+  {
+    "nl": "wijzen op",
+    "tr": "to point out"
+  },
+  {
+    "nl": "aantonen",
+    "tr": "to demonstrate"
+  },
+  {
+    "nl": "duidelijk maken",
+    "tr": "to clarify"
+  },
+  {
+    "nl": "aantonen",
+    "tr": "to show"
+  },
+  {
+    "nl": "illustreren",
+    "tr": "to illustrate"
+  },
+  {
+    "nl": "voorbeelden geven",
+    "tr": "to give examples"
+  },
+  {
+    "nl": "benadrukken",
+    "tr": "to stress"
+  },
+  {
+    "nl": "benadrukken",
+    "tr": "to emphasize"
+  },
+  {
+    "nl": "uitlichten",
+    "tr": "to highlight"
+  },
+  {
+    "nl": "in twijfel trekken",
+    "tr": "to question"
+  },
+  {
+    "nl": "tegenspreken",
+    "tr": "to contradict"
+  },
+  {
+    "nl": "bekritiseren",
+    "tr": "to criticize"
+  },
+  {
+    "nl": "ondermijnen",
+    "tr": "to undermine"
+  },
+  {
+    "nl": "weerleggen",
+    "tr": "to refute"
+  },
+  {
+    "nl": "uitdrukkelijk twijfelen aan",
+    "tr": "to challenge"
+  },
+  {
+    "nl": "van een andere kant bekijken",
+    "tr": "to present a different perspective/put into perspective"
+  },
+  {
+    "nl": "afzwakken",
+    "tr": "to tone down"
+  },
+  {
+    "nl": "verwerpen",
+    "tr": "to reject"
+  },
+  {
+    "nl": "analyseren",
+    "tr": "to analyze"
+  },
+  {
+    "nl": "beschrijven",
+    "tr": "to describe"
+  },
+  {
+    "nl": "beschrijven",
+    "tr": "to outline"
+  },
+  {
+    "nl": "bespreken",
+    "tr": "to discuss"
+  },
+  {
+    "nl": "toevoegen",
+    "tr": "to add"
+  },
+  {
+    "nl": "uitbreiden",
+    "tr": "to elaborate"
+  },
+  {
+    "nl": "(redenen/ verklaringen opsommen)",
+    "tr": "to list (reasons/ explanations)"
+  },
+  {
+    "nl": "instemmen met",
+    "tr": "to corroborate"
+  },
+  {
+    "nl": "prijzen",
+    "tr": "to praise"
+  },
+  {
+    "nl": "(onder)steunen",
+    "tr": "to support"
+  },
+  {
+    "nl": "pleiten (voor iets)",
+    "tr": "to advocate"
+  },
+  {
+    "nl": "bevestigen",
+    "tr": "to confirm"
+  },
+  {
+    "nl": "uitleggen (redenen, opsomming)",
+    "tr": "to explain"
+  },
+  {
+    "nl": "legt uit waarom; let goed op dat die reden er dan ook letterlijk moet staan!",
+    "tr": "to explain why"
+  },
+  {
+    "nl": "aanpassen (tegenargumenten, afzwakking)",
+    "tr": "to modify"
+  },
+  {
+    "nl": "inleiden (voorbeeld, feiten, onderwerp tekst)",
+    "tr": "to introduce"
+  },
+  {
+    "nl": "(oplossingen) aandragen",
+    "tr": "to present (solutions)"
+  },
+  {
+    "nl": "samenvatten (conclusie)",
+    "tr": "to summarize"
+  },
+  {
+    "nl": "in overeenstemming met, volgens",
+    "tr": "in accordance with"
+  },
+  {
+    "nl": "te oordelen naar, volgens",
+    "tr": "to judge from"
+  },
+  {
+    "nl": "in lijn met, volgens",
+    "tr": "in line with"
+  },
+  {
+    "nl": "Wat is [...] volgens alinea 3?",
+    "tr": "What is [...] in line with/to judge from/in accordance to paragraph 3?"
+  },
+  {
+    "nl": "Hoe verhoudt zich ... tot ...?",
+    "tr": "How does ... relate to ... ?"
+  },
+  {
+    "nl": "Wat is de voornaamste boodschap van ... ?",
+    "tr": "What is the main message of ... ?"
+  },
+  {
+    "nl": "schrijver, auteur",
+    "tr": "author"
+  },
+  {
+    "nl": "schrijver",
+    "tr": "writer"
+  },
+  {
+    "nl": "dankzij, ten gevolge van",
+    "tr": "due to"
+  },
+  {
+    "nl": "richten op",
+    "tr": "to aim"
+  },
+  {
+    "nl": "benaderen",
+    "tr": "to approach"
+  },
+  {
+    "nl": "Je moet het onderwerp van beide kanten benaderen.",
+    "tr": "You must approach the subject from both sides."
+  },
+  {
+    "nl": "veroorzaken, oorzaak",
+    "tr": "to cause, a cause"
+  },
+  {
+    "nl": "karakteriseren, typeren",
+    "tr": "to characterize"
+  },
+  {
+    "nl": "stellen dat, beweren",
+    "tr": "to claim"
+  },
+  {
+    "nl": "concluderen",
+    "tr": "to conclude"
+  },
+  {
+    "nl": "bevatten",
+    "tr": "to contain"
+  },
+  {
+    "nl": "debat (bediscussiëren)",
+    "tr": "(to) debate"
+  },
+  {
+    "nl": "negeren, onwetendheid",
+    "tr": "to ignore, ignorance"
+  },
+  {
+    "nl": "impliceren (je zegt het niet letterlijk, maar je bedoelt het wel)",
+    "tr": "to imply"
+  },
+  {
+    "nl": "inhouden (en dan een beschrijving van wat het inhoudt)",
+    "tr": "to include"
+  },
+  {
+    "nl": "bewijzen",
+    "tr": "to prove"
+  },
+  {
+    "nl": "voorzien van",
+    "tr": "to provide"
+  },
+  {
+    "nl": "(op een bepaalde manier) aanpakken",
+    "tr": "to tackle"
+  },
+  {
+    "nl": "het komt neer op",
+    "tr": "it amounts to"
+  },
+  {
+    "nl": "het gaat over",
+    "tr": "it concerns"
+  },
+  {
+    "nl": "het beweert",
+    "tr": "it claims"
+  },
+  {
+    "nl": "het beschrijft",
+    "tr": "it describes"
+  },
+  {
+    "nl": "het benadrukt",
+    "tr": "it emphasizes"
+  },
+  {
+    "nl": "het richt zich op",
+    "tr": "it focusses on"
+  },
+  {
+    "nl": "het noemt",
+    "tr": "it mentions"
+  },
+  {
+    "nl": "het beschouwt",
+    "tr": "it regards"
+  },
+  {
+    "nl": "het stelt voor; het wekt de suggestie",
+    "tr": "it suggests"
+  },
+  {
+    "nl": "het herhaalt",
+    "tr": "it repeats"
+  },
+  {
+    "nl": "doel",
+    "tr": "purpose"
+  },
+  {
+    "nl": "zin",
+    "tr": "sentence"
+  },
+  {
+    "nl": "onderwerp",
+    "tr": "subject"
+  },
+  {
+    "nl": "bewonderend",
+    "tr": "admiring"
+  },
+  {
+    "nl": "instemmend",
+    "tr": "approving"
+  },
+  {
+    "nl": "geeft de feiten",
+    "tr": "matter-of-face"
+  },
+  {
+    "nl": "objectief; laat beide kanten van de zaak zien",
+    "tr": "objective"
+  },
+  {
+    "nl": "boos",
+    "tr": "angry"
+  },
+  {
+    "nl": "bezorgd",
+    "tr": "concerned"
+  },
+  {
+    "nl": "teleurgesteld",
+    "tr": "disappointed"
+  },
+  {
+    "nl": "gelooft het niet",
+    "tr": "disbelieving"
+  },
+  {
+    "nl": "woedend",
+    "tr": "furious"
+  },
+  {
+    "nl": "onverschillig",
+    "tr": "indifferent"
+  },
+  {
+    "nl": "verontwaardigd",
+    "tr": "indignant"
+  },
+  {
+    "nl": "pessimistisch, somber gestemd",
+    "tr": "pessimistic"
+  },
+  {
+    "nl": "geamuseerd (een klein beetje spottend)",
+    "tr": "amused"
+  },
+  {
+    "nl": "cynisch; een vorm van spot",
+    "tr": "cynical"
+  },
+  {
+    "nl": "ironisch; een vorm van spot",
+    "tr": "ironic"
+  },
+  {
+    "nl": "grapjes makend",
+    "tr": "joking"
+  },
+  {
+    "nl": "spottend",
+    "tr": "mocking"
+  },
+  {
+    "nl": "sarcastisch, hatelijk",
+    "tr": "sarcastic"
+  },
+  {
+    "nl": "zeer oud, antiek",
+    "tr": "ancient"
+  },
+  {
+    "nl": "eeuw",
+    "tr": "century"
+  },
+  {
+    "nl": "decennium, 10 jaar",
+    "tr": "decade"
+  },
+  {
+    "nl": "modern, van deze tijd",
+    "tr": "modern"
+  },
+  {
+    "nl": "pas gebeurd, recent",
+    "tr": "recent"
+  },
+  {
+    "nl": "vaak",
+    "tr": "often"
+  },
+  {
+    "nl": "(iets) bereiken, prestatie",
+    "tr": "to achieve, achievement"
+  },
+  {
+    "nl": "voordeel",
+    "tr": "advantage"
+  },
+  {
+    "nl": "aantrekken, de aantrekkingskracht",
+    "tr": "to appeal, the appeal"
+  },
+  {
+    "nl": "instemmen met",
+    "tr": "to approve"
+  },
+  {
+    "nl": "geschikt",
+    "tr": "appropriate"
+  },
+  {
+    "nl": "voordeel hebben van",
+    "tr": "to benefit"
+  },
+  {
+    "nl": "liefdadig",
+    "tr": "charitable"
+  },
+  {
+    "nl": "goed doel",
+    "tr": "charity"
+  },
+  {
+    "nl": "overtuigen",
+    "tr": "to convince"
+  },
+  {
+    "nl": "geloofwaardigheid",
+    "tr": "credibility"
+  },
+  {
+    "nl": "ontwikkelen, ontwikkeling",
+    "tr": "to develop, development"
+  },
+  {
+    "nl": "doeltreffend, effectief",
+    "tr": "effective"
+  },
+  {
+    "nl": "aanmoedigen",
+    "tr": "to encourage"
+  },
+  {
+    "nl": "vermeerdering, versterking",
+    "tr": "enhancement"
+  },
+  {
+    "nl": "gelukkig, het is maar goed dat",
+    "tr": "fortunately"
+  },
+  {
+    "nl": "begaafd, intelligent",
+    "tr": "gifted"
+  },
+  {
+    "nl": "groei",
+    "tr": "growth"
+  },
+  {
+    "nl": "belangrijkheid",
+    "tr": "importance"
+  },
+  {
+    "nl": "verbeteren, verbetering",
+    "tr": "to improve, improvement"
+  },
+  {
+    "nl": "vergroten, toename",
+    "tr": "to increase, an increase"
+  },
+  {
+    "nl": "geluk",
+    "tr": "luck"
+  },
+  {
+    "nl": "mogelijkheden",
+    "tr": "opportunities"
+  },
+  {
+    "nl": "volmaakt, heel erg goed",
+    "tr": "perfectly"
+  },
+  {
+    "nl": "plezier",
+    "tr": "pleasure"
+  },
+  {
+    "nl": "populair, geliefd",
+    "tr": "popular"
+  },
+  {
+    "nl": "voordeel hebben van",
+    "tr": "to profit"
+  },
+  {
+    "nl": "vooruitgang",
+    "tr": "progress"
+  },
+  {
+    "nl": "welvaart",
+    "tr": "prosperity"
+  },
+  {
+    "nl": "doen toenemen, stijgend",
+    "tr": "to raise, rising"
+  },
+  {
+    "nl": "toenemen, groeiend",
+    "tr": "to rise, rising"
+  },
+  {
+    "nl": "veilig",
+    "tr": "safe"
+  },
+  {
+    "nl": "belangrijk",
+    "tr": "significant"
+  },
+  {
+    "nl": "oplossen, oplossing",
+    "tr": "to solve, solution"
+  },
+  {
+    "nl": "steun (ondersteunen, steunen)",
+    "tr": "(to) support"
+  },
+  {
+    "nl": "nuttig",
+    "tr": "useful"
+  },
+  {
+    "nl": "rijkdom, welzijn",
+    "tr": "wealth"
+  },
+  {
+    "nl": "misbruiken, mishandelen",
+    "tr": "to abuse"
+  },
+  {
+    "nl": "gevaar, gevaarlijk",
+    "tr": "danger, dangerous"
+  },
+  {
+    "nl": "de schuld geven",
+    "tr": "to blame"
+  },
+  {
+    "nl": "klagen",
+    "tr": "to complain, complaint"
+  },
+  {
+    "nl": "tegengaan, alles met counter is tegen iets",
+    "tr": "to counter, alles beginnend met 'counter'"
+  },
+  {
+    "nl": "daling, dalend",
+    "tr": "a decline, declining"
+  },
+  {
+    "nl": "ontkennen",
+    "tr": "to deny"
+  },
+  {
+    "nl": "teleurstellen, teleurstelling",
+    "tr": "to disappoint, disappointment"
+  },
+  {
+    "nl": "fout, verkeerd",
+    "tr": "false, wrong"
+  },
+  {
+    "nl": "falen, mislukking",
+    "tr": "to fail, failure"
+  },
+  {
+    "nl": "moeilijk, hard",
+    "tr": "hard"
+  },
+  {
+    "nl": "(nauwelijks)",
+    "tr": "(maar, let op: hardly)"
+  },
+  {
+    "nl": "schadelijk",
+    "tr": "harmful"
+  },
+  {
+    "nl": "negeren",
+    "tr": "to ignore"
+  },
+  {
+    "nl": "ontbreken, missen",
+    "tr": "to lack"
+  },
+  {
+    "nl": "bespotten",
+    "tr": "to mock"
+  },
+  {
+    "nl": "verminderen",
+    "tr": "to reduce"
+  },
+  {
+    "nl": "spijt hebben van, betreuren",
+    "tr": "to regret"
+  },
+  {
+    "nl": "risico",
+    "tr": "risk"
+  },
+  {
+    "nl": "inspanning, worsteling",
+    "tr": "struggle"
+  },
+  {
+    "nl": "lijden, lijden",
+    "tr": "to suffer, suffering"
+  },
+  {
+    "nl": "verschrikkelijk",
+    "tr": "terrible"
+  },
+  {
+    "nl": "dreiging",
+    "tr": "threat"
+  },
+  {
+    "nl": "helaas, jammer genoeg",
+    "tr": "unfortunately"
+  },
+  {
+    "nl": "geweld, gewelddadig",
+    "tr": "violence, violent"
+  },
+  {
+    "nl": "geleerde, academicus (doet onderzoek aan de universiteit), universitair",
+    "tr": "academic"
+  },
+  {
+    "nl": "universiteit, hogere school",
+    "tr": "college"
+  },
+  {
+    "nl": "vak",
+    "tr": "course"
+  },
+  {
+    "nl": "universitaire graad, mate waarin",
+    "tr": "degree"
+  },
+  {
+    "nl": "ontdekken",
+    "tr": "to discover"
+  },
+  {
+    "nl": "opvoeding, onderwijs",
+    "tr": "education"
+  },
+  {
+    "nl": "bewijs",
+    "tr": "evidence"
+  },
+  {
+    "nl": "geëvolueerd",
+    "tr": "evolved"
+  },
+  {
+    "nl": "expert, deskundige",
+    "tr": "expert"
+  },
+  {
+    "nl": "feiten",
+    "tr": "facts"
+  },
+  {
+    "nl": "bevindingen",
+    "tr": "findings"
+  },
+  {
+    "nl": "cijfer, klas",
+    "tr": "grade, grades"
+  },
+  {
+    "nl": "historisch, geschiedkundig",
+    "tr": "historical"
+  },
+  {
+    "nl": "geschiedenis",
+    "tr": "history"
+  },
+  {
+    "nl": "onderzoek",
+    "tr": "inquiry"
+  },
+  {
+    "nl": "kennis",
+    "tr": "knowledge"
+  },
+  {
+    "nl": "bewijzen, aantonen",
+    "tr": "to prove"
+  },
+  {
+    "nl": "leerlingen",
+    "tr": "pupils"
+  },
+  {
+    "nl": "opmerking",
+    "tr": "remark"
+  },
+  {
+    "nl": "verslag",
+    "tr": "report"
+  },
+  {
+    "nl": "(wetenschappelijk) onderzoek, onderzoekers",
+    "tr": "research, researchers"
+  },
+  {
+    "nl": "resultaat",
+    "tr": "result"
+  },
+  {
+    "nl": "wetenschap, vooral de exacte vakken",
+    "tr": "science"
+  },
+  {
+    "nl": "wetenschappelijk",
+    "tr": "scientific"
+  },
+  {
+    "nl": "wetenschappers",
+    "tr": "scientists"
+  },
+  {
+    "nl": "maatschappij",
+    "tr": "society"
+  },
+  {
+    "nl": "bron",
+    "tr": "source"
+  },
+  {
+    "nl": "soorten",
+    "tr": "species"
+  },
+  {
+    "nl": "staat, toestand",
+    "tr": "state"
+  },
+  {
+    "nl": "onderzoeken, studies",
+    "tr": "studies"
+  },
+  {
+    "nl": "(be)studeren",
+    "tr": "to study"
+  },
+  {
+    "nl": "onderzoek",
+    "tr": "survey"
+  },
+  {
+    "nl": "theorie",
+    "tr": "theory"
+  },
+  {
+    "nl": "Universiteit",
+    "tr": "university"
+  },
+  {
+    "nl": "ongeluk",
+    "tr": "accident"
+  },
+  {
+    "nl": "volwassene",
+    "tr": "adult"
+  },
+  {
+    "nl": "adverteren",
+    "tr": "advertising"
+  },
+  {
+    "nl": "mededeling",
+    "tr": "announcement"
+  },
+  {
+    "nl": "kunst",
+    "tr": "art"
+  },
+  {
+    "nl": "aanvallen, aanval",
+    "tr": "to attack, attack"
+  },
+  {
+    "nl": "houding",
+    "tr": "attitude"
+  },
+  {
+    "nl": "publiek",
+    "tr": "audience"
+  },
+  {
+    "nl": "overheid, machthebbende",
+    "tr": "authorities"
+  },
+  {
+    "nl": "achtergronden",
+    "tr": "backgrounds"
+  },
+  {
+    "nl": "gedragen, gedrag",
+    "tr": "to behave, behavior"
+  },
+  {
+    "nl": "geloven, geloof",
+    "tr": "to believe, belief"
+  },
+  {
+    "nl": "pesten",
+    "tr": "to bully"
+  },
+  {
+    "nl": "(staats)burgerschap",
+    "tr": "citizenship"
+  },
+  {
+    "nl": "gemeenschap",
+    "tr": "community"
+  },
+  {
+    "nl": "samenzwering",
+    "tr": "conspiracy"
+  },
+  {
+    "nl": "misdaad",
+    "tr": "crime"
+  },
+  {
+    "nl": "techniek",
+    "tr": "engineering"
+  },
+  {
+    "nl": "milieu, omgeving",
+    "tr": "environment"
+  },
+  {
+    "nl": "moreel, ethisch, (gaat over normen en waarden)",
+    "tr": "ethical"
+  },
+  {
+    "nl": "buitenlands, vreemd",
+    "tr": "foreign"
+  },
+  {
+    "nl": "wereld-",
+    "tr": "global"
+  },
+  {
+    "nl": "regering",
+    "tr": "government"
+  },
+  {
+    "nl": "dakloos",
+    "tr": "homeless"
+  },
+  {
+    "nl": "verboden",
+    "tr": "illegal"
+  },
+  {
+    "nl": "invloed",
+    "tr": "impact"
+  },
+  {
+    "nl": "onafhankelijk",
+    "tr": "independent"
+  },
+  {
+    "nl": "individueel, individu",
+    "tr": "individual"
+  },
+  {
+    "nl": "invloed (beïnvloeden) (invloed uitoefenen)",
+    "tr": "(to) influence (to exert influence)"
+  },
+  {
+    "nl": "onderwerpen, zaken",
+    "tr": "issues"
+  },
+  {
+    "nl": "taal",
+    "tr": "language"
+  },
+  {
+    "nl": "wet",
+    "tr": "law"
+  },
+  {
+    "nl": "legaal, wettig",
+    "tr": "legal"
+  },
+  {
+    "nl": "bibliotheek",
+    "tr": "library"
+  },
+  {
+    "nl": "plaatselijk, lokaal",
+    "tr": "local"
+  },
+  {
+    "nl": "getrouwd",
+    "tr": "married"
+  },
+  {
+    "nl": "maatregelen",
+    "tr": "measures"
+  },
+  {
+    "nl": "methode, manieren om iets te doen",
+    "tr": "methods"
+  },
+  {
+    "nl": "moraal, moreel, (gaat over normen en waarden)",
+    "tr": "moral"
+  },
+  {
+    "nl": "inwoner, autochtoon, inheems",
+    "tr": "native"
+  },
+  {
+    "nl": "mening",
+    "tr": "opinion"
+  },
+  {
+    "nl": "bevel, (bevelen)",
+    "tr": "(to) order"
+  },
+  {
+    "nl": "interpretatie",
+    "tr": "perspective"
+  },
+  {
+    "nl": "beleid",
+    "tr": "policy"
+  },
+  {
+    "nl": "politiek",
+    "tr": "political"
+  },
+  {
+    "nl": "arm",
+    "tr": "poor"
+  },
+  {
+    "nl": "armoede",
+    "tr": "poverty"
+  },
+  {
+    "nl": "macht, kracht",
+    "tr": "power"
+  },
+  {
+    "nl": "particulier, persoonlijk, privé",
+    "tr": "private"
+  },
+  {
+    "nl": "openbaar, algemeen",
+    "tr": "public"
+  },
+  {
+    "nl": "(particuliere (en dure) kostschool)",
+    "tr": "(let op: public school)"
+  },
+  {
+    "nl": "koningin",
+    "tr": "queen"
+  },
+  {
+    "nl": "scène, wereldje",
+    "tr": "scene"
+  },
+  {
+    "nl": "veiligheid",
+    "tr": "security"
+  },
+  {
+    "nl": "maatschappelijk, maatschappij",
+    "tr": "social, society"
+  },
+  {
+    "nl": "beweringen",
+    "tr": "statements"
+  },
+  {
+    "nl": "systeem, stelsel",
+    "tr": "system"
+  },
+  {
+    "nl": "tiener",
+    "tr": "teenager"
+  },
+  {
+    "nl": "rechtszaak",
+    "tr": "trial"
+  },
+  {
+    "nl": "waarheid",
+    "tr": "truth"
+  },
+  {
+    "nl": "oorlog",
+    "tr": "war"
+  },
+  {
+    "nl": "reclame",
+    "tr": "advertisement"
+  },
+  {
+    "nl": "adverteren",
+    "tr": "advertising"
+  },
+  {
+    "nl": "bureau, bedrijf, organisatie",
+    "tr": "agency"
+  },
+  {
+    "nl": "landbouw",
+    "tr": "agriculture"
+  },
+  {
+    "nl": "merk",
+    "tr": "brand"
+  },
+  {
+    "nl": "bedrijf, handel, zaken",
+    "tr": "business"
+  },
+  {
+    "nl": "campagne, actie",
+    "tr": "campaign"
+  },
+  {
+    "nl": "handels-, bedrijfs-, commercieel",
+    "tr": "commercial"
+  },
+  {
+    "nl": "bedrijf",
+    "tr": "company"
+  },
+  {
+    "nl": "klant",
+    "tr": "client"
+  },
+  {
+    "nl": "bedrijfs-",
+    "tr": "corporate"
+  },
+  {
+    "nl": "bedrijven, onderneming",
+    "tr": "corporations"
+  },
+  {
+    "nl": "klanten",
+    "tr": "customers"
+  },
+  {
+    "nl": "eisen",
+    "tr": "to demand"
+  },
+  {
+    "nl": "afdeling",
+    "tr": "department"
+  },
+  {
+    "nl": "manager",
+    "tr": "executive"
+  },
+  {
+    "nl": "duur",
+    "tr": "expensive"
+  },
+  {
+    "nl": "iemand met een schuld",
+    "tr": "debtor"
+  },
+  {
+    "nl": "geld-, financieel",
+    "tr": "financial"
+  },
+  {
+    "nl": "beleggers",
+    "tr": "investors"
+  },
+  {
+    "nl": "industrie, bedrijfstak",
+    "tr": "industry"
+  },
+  {
+    "nl": "in ruil voor",
+    "tr": "in exchange"
+  },
+  {
+    "nl": "verzekering",
+    "tr": "insurance"
+  },
+  {
+    "nl": "aanbod, aanbieden",
+    "tr": "an offer, to offer"
+  },
+  {
+    "nl": "kantoor, organisatie, baan",
+    "tr": "office"
+  },
+  {
+    "nl": "bestelling (bestellen)",
+    "tr": "(to) order"
+  },
+  {
+    "nl": "betalen",
+    "tr": "to pay"
+  },
+  {
+    "nl": "procent",
+    "tr": "percent"
+  },
+  {
+    "nl": "prestatie, optreden",
+    "tr": "performance"
+  },
+  {
+    "nl": "praktijk, bedrijf, beroep",
+    "tr": "practice"
+  },
+  {
+    "nl": "maken, produceren",
+    "tr": "to produce"
+  },
+  {
+    "nl": "kwaliteit",
+    "tr": "quality"
+  },
+  {
+    "nl": "middelen",
+    "tr": "resources"
+  },
+  {
+    "nl": "dienst",
+    "tr": "service"
+  },
+  {
+    "nl": "besteden, uitgeven",
+    "tr": "to spend"
+  },
+  {
+    "nl": "rijkdom, welzijn",
+    "tr": "wealth"
+  },
+  {
+    "nl": "fictie, verzonnen",
+    "tr": "fiction"
+  },
+  {
+    "nl": "roman",
+    "tr": "novel"
+  },
+  {
+    "nl": "uitgegeven",
+    "tr": "published"
+  },
+  {
+    "nl": "citaten",
+    "tr": "quotations"
+  },
+  {
+    "nl": "recensent",
+    "tr": "reviewer"
+  },
+  {
+    "nl": "verhalen",
+    "tr": "stories"
+  },
+  {
+    "nl": "lichamen",
+    "tr": "bodies"
+  },
+  {
+    "nl": "hersenen, verstand",
+    "tr": "brain"
+  },
+  {
+    "nl": "cellen",
+    "tr": "cells"
+  },
+  {
+    "nl": "klinisch (betreft het ziekenhuis/ziekte)",
+    "tr": "clinical"
+  },
+  {
+    "nl": "overlijden, dood, de dood",
+    "tr": "to die, dead, death"
+  },
+  {
+    "nl": "depressie, somberheid",
+    "tr": "depression"
+  },
+  {
+    "nl": "voeding, dieet",
+    "tr": "diet"
+  },
+  {
+    "nl": "ziekte",
+    "tr": "disease"
+  },
+  {
+    "nl": "dik, vet",
+    "tr": "fat"
+  },
+  {
+    "nl": "vrouwelijk",
+    "tr": "female"
+  },
+  {
+    "nl": "vruchtbaarheid",
+    "tr": "fertility"
+  },
+  {
+    "nl": "genen",
+    "tr": "genes"
+  },
+  {
+    "nl": "genetisch",
+    "tr": "genetic"
+  },
+  {
+    "nl": "gezondheid",
+    "tr": "health"
+  },
+  {
+    "nl": "hart",
+    "tr": "heart"
+  },
+  {
+    "nl": "menselijk, mens",
+    "tr": "human"
+  },
+  {
+    "nl": "aangeboren",
+    "tr": "innate"
+  },
+  {
+    "nl": "medisch",
+    "tr": "medical"
+  },
+  {
+    "nl": "geheugen",
+    "tr": "memory"
+  },
+  {
+    "nl": "geestelijk, mentaal",
+    "tr": "mental"
+  },
+  {
+    "nl": "brein, geest, verstand, gemoed",
+    "tr": "mind"
+  },
+  {
+    "nl": "overgewicht, obesitas, zwaarlijvigheid",
+    "tr": "obesity"
+  },
+  {
+    "nl": "nakomeling(en)",
+    "tr": "offspring"
+  },
+  {
+    "nl": "farmaceutisch (geneesmiddelen producerend)",
+    "tr": "pharmaceutical"
+  },
+  {
+    "nl": "lichamelijk, fysiek",
+    "tr": "physical"
+  },
+  {
+    "nl": "geestelijk, psychisch",
+    "tr": "psychological"
+  },
+  {
+    "nl": "gevoel",
+    "tr": "sense"
+  },
+  {
+    "nl": "waarnemen",
+    "tr": "to sense"
+  },
+  {
+    "nl": "behandeling (van ziekte), hoe je met mensen/dieren omgaat",
+    "tr": "treatment"
+  },
+  {
+    "nl": "gewicht",
+    "tr": "weight"
+  },
+  {
+    "nl": "bekwaamheid",
+    "tr": "ability"
+  },
+  {
+    "nl": "in staat zijn om",
+    "tr": "to be able to"
+  },
+  {
+    "nl": "aannemen, aanvaarden",
+    "tr": "to accept"
+  },
+  {
+    "nl": "toegang",
+    "tr": "access"
+  },
+  {
+    "nl": "verslag (rekening houden met / daarom)",
+    "tr": "account (to take into ... / on that ...)"
+  },
+  {
+    "nl": "dwars (ergens) doorheen",
+    "tr": "across"
+  },
+  {
+    "nl": "eigenlijk, zowaar, in feite",
+    "tr": "actually"
+  },
+  {
+    "nl": "bijkomend",
+    "tr": "additional"
+  },
+  {
+    "nl": "advies",
+    "tr": "advice"
+  },
+  {
+    "nl": "tegen",
+    "tr": "against"
+  },
+  {
+    "nl": "richten op, doel",
+    "tr": "to aim, aim"
+  },
+  {
+    "nl": "lucht",
+    "tr": "air"
+  },
+  {
+    "nl": "toestaan",
+    "tr": "to allow"
+  },
+  {
+    "nl": "al, reeds",
+    "tr": "already"
+  },
+  {
+    "nl": "hoeveelheid",
+    "tr": "amount"
+  },
+  {
+    "nl": "blijkbaar",
+    "tr": "apparent"
+  },
+  {
+    "nl": "kennelijk",
+    "tr": "apparently"
+  },
+  {
+    "nl": "(ver)schijnen",
+    "tr": "to appear"
+  },
+  {
+    "nl": "gebied",
+    "tr": "area"
+  },
+  {
+    "nl": "beweren/stellen, ruzie maken",
+    "tr": "to argue"
+  },
+  {
+    "nl": "opzicht, aspect",
+    "tr": "aspect"
+  },
+  {
+    "nl": "samenhangend",
+    "tr": "associated"
+  },
+  {
+    "nl": "aandacht",
+    "tr": "attention"
+  },
+  {
+    "nl": "beschikbaar",
+    "tr": "available"
+  },
+  {
+    "nl": "gemiddeld",
+    "tr": "average"
+  },
+  {
+    "nl": "vermijden",
+    "tr": "to avoid"
+  },
+  {
+    "nl": "gebaseerd op",
+    "tr": "based on"
+  },
+  {
+    "nl": "in staat zijn om",
+    "tr": "to be able to"
+  },
+  {
+    "nl": "geloven, geloof",
+    "tr": "to believe, belief"
+  },
+  {
+    "nl": "verder/meer dan, buiten ... om",
+    "tr": "beyond"
+  },
+  {
+    "nl": "vooroordeel, neiging, tendens",
+    "tr": "bias"
+  },
+  {
+    "nl": "per toeval",
+    "tr": "by accident"
+  },
+  {
+    "nl": "zeker, bepaald",
+    "tr": "certain"
+  },
+  {
+    "nl": "veranderen",
+    "tr": "to change"
+  },
+  {
+    "nl": "karakter",
+    "tr": "character"
+  },
+  {
+    "nl": "beschuldigingen, facturen",
+    "tr": "charges"
+  },
+  {
+    "nl": "baas, hoofd-",
+    "tr": "chief"
+  },
+  {
+    "nl": "omstandigheden",
+    "tr": "circumstances"
+  },
+  {
+    "nl": "gewoon, veel voorkomend",
+    "tr": "common"
+  },
+  {
+    "nl": "wedstrijd",
+    "tr": "competition"
+  },
+  {
+    "nl": "ingewikkeld",
+    "tr": "complex"
+  },
+  {
+    "nl": "bezorgdheid, bezorgd",
+    "tr": "concern, concerned"
+  },
+  {
+    "nl": "omstandigheden",
+    "tr": "conditions"
+  },
+  {
+    "nl": "gevolgen",
+    "tr": "consequences"
+  },
+  {
+    "nl": "beschouwen, overwegen",
+    "tr": "to consider"
+  },
+  {
+    "nl": "consequent",
+    "tr": "consistent"
+  },
+  {
+    "nl": "inhoud",
+    "tr": "contents"
+  },
+  {
+    "nl": "bijdragen",
+    "tr": "to contribute"
+  },
+  {
+    "nl": "beheren",
+    "tr": "to control"
+  },
+  {
+    "nl": "omstreden, controversieel",
+    "tr": "controversial"
+  },
+  {
+    "nl": "overtuigd",
+    "tr": "convinced"
+  },
+  {
+    "nl": "maken",
+    "tr": "to create"
+  },
+  {
+    "nl": "eer, erkenning",
+    "tr": "credit"
+  },
+  {
+    "nl": "tegenwoordig, huidig",
+    "tr": "current"
+  },
+  {
+    "nl": "gewoonte",
+    "tr": "custom"
+  },
+  {
+    "nl": "fietsen",
+    "tr": "to cycle"
+  },
+  {
+    "nl": "beschadigen",
+    "tr": "to damage"
+  },
+  {
+    "nl": "besluiten",
+    "tr": "to decide"
+  },
+  {
+    "nl": "bezorging",
+    "tr": "delivery"
+  },
+  {
+    "nl": "verschil",
+    "tr": "difference"
+  },
+  {
+    "nl": "moeiteloos",
+    "tr": "easily"
+  },
+  {
+    "nl": "effecten, gevolgen",
+    "tr": "effects"
+  },
+  {
+    "nl": "genoeg",
+    "tr": "enough"
+  },
+  {
+    "nl": "geheel",
+    "tr": "entirely"
+  },
+  {
+    "nl": "nadruk",
+    "tr": "emphasis"
+  },
+  {
+    "nl": "gelijkheid",
+    "tr": "equality"
+  },
+  {
+    "nl": "vooral",
+    "tr": "especially"
+  },
+  {
+    "nl": "oefening",
+    "tr": "exercise"
+  },
+  {
+    "nl": "bestaan",
+    "tr": "to exist"
+  },
+  {
+    "nl": "verwachten",
+    "tr": "to expect"
+  },
+  {
+    "nl": "meemaken, ervaren",
+    "tr": "to experience"
+  },
+  {
+    "nl": "uiten",
+    "tr": "to express"
+  },
+  {
+    "nl": "blootgesteld",
+    "tr": "exposed"
+  },
+  {
+    "nl": "mate (in hoeverre)",
+    "tr": "extent (to what extent)"
+  },
+  {
+    "nl": "bekend",
+    "tr": "familiar"
+  },
+  {
+    "nl": "beroemd",
+    "tr": "famous"
+  },
+  {
+    "nl": "boerderijen",
+    "tr": "farms"
+  },
+  {
+    "nl": "weinige",
+    "tr": "few"
+  },
+  {
+    "nl": "nadruk",
+    "tr": "focus"
+  },
+  {
+    "nl": "gedwongen",
+    "tr": "forced"
+  },
+  {
+    "nl": "voormalig",
+    "tr": "former"
+  },
+  {
+    "nl": "kwetsbaar",
+    "tr": "fragile"
+  },
+  {
+    "nl": "winnen, meer van iets krijgen",
+    "tr": "to gain"
+  },
+  {
+    "nl": "in/over het algemeen",
+    "tr": "generally, in general"
+  },
+  {
+    "nl": "doel",
+    "tr": "goal"
+  },
+  {
+    "nl": "gebeuren",
+    "tr": "to happen"
+  },
+  {
+    "nl": "reusachtig",
+    "tr": "huge"
+  },
+  {
+    "nl": "vaststellen, identificeren",
+    "tr": "to identify"
+  },
+  {
+    "nl": "vereenzelvigen met",
+    "tr": "to identify with"
+  },
+  {
+    "nl": "beeld",
+    "tr": "image"
+  },
+  {
+    "nl": "voorstellen",
+    "tr": "to imagine"
+  },
+  {
+    "nl": "invloed",
+    "tr": "impact"
+  },
+  {
+    "nl": "voornamelijk",
+    "tr": "in particular"
+  },
+  {
+    "nl": "in de praktijk",
+    "tr": "in practice"
+  },
+  {
+    "nl": "inclusief",
+    "tr": "including"
+  },
+  {
+    "nl": "verontwaardigd",
+    "tr": "indignant"
+  },
+  {
+    "nl": "invloed (beïnvloeden)",
+    "tr": "(to) influence"
+  },
+  {
+    "nl": "belang",
+    "tr": "interest"
+  },
+  {
+    "nl": "invasie, in grote aantallen binnenvallen",
+    "tr": "invasion"
+  },
+  {
+    "nl": "betrokken",
+    "tr": "involved"
+  },
+  {
+    "nl": "het is gelijk aan, het komt neer op",
+    "tr": "it amounts to"
+  },
+  {
+    "nl": "oordelen",
+    "tr": "to judge"
+  },
+  {
+    "nl": "rommel",
+    "tr": "junk"
+  },
+  {
+    "nl": "soort",
+    "tr": "kind"
+  },
+  {
+    "nl": "waarschijnlijk",
+    "tr": "likely"
+  },
+  {
+    "nl": "ernstig, groot",
+    "tr": "major"
+  },
+  {
+    "nl": "ergens op slaan",
+    "tr": "to make sense"
+  },
+  {
+    "nl": "proberen te begrijpen",
+    "tr": "to make sense of"
+  },
+  {
+    "nl": "kwestie",
+    "tr": "matter"
+  },
+  {
+    "nl": "van belang zijn",
+    "tr": "to matter"
+  },
+  {
+    "nl": "noodzakelijk",
+    "tr": "necessary"
+  },
+  {
+    "nl": "(over)duidelijk",
+    "tr": "obvious"
+  },
+  {
+    "nl": "gewoon (hoeft niet negatief te zijn!)",
+    "tr": "ordinary"
+  },
+  {
+    "nl": "voornamelijk",
+    "tr": "particular"
+  },
+  {
+    "nl": "in het bijzonder",
+    "tr": "particularly"
+  },
+  {
+    "nl": "misschien",
+    "tr": "perhaps"
+  },
+  {
+    "nl": "fenomeen",
+    "tr": "phenomenon"
+  },
+  {
+    "nl": "vermogen",
+    "tr": "potential"
+  },
+  {
+    "nl": "precies",
+    "tr": "precisely"
+  },
+  {
+    "nl": "roofdieren",
+    "tr": "predators"
+  },
+  {
+    "nl": "aanwezigheid",
+    "tr": "presence"
+  },
+  {
+    "nl": "voorkomen",
+    "tr": "to prevent"
+  },
+  {
+    "nl": "druk",
+    "tr": "pressure"
+  },
+  {
+    "nl": "ongetwijfeld, waarschijnlijk",
+    "tr": "probably"
+  },
+  {
+    "nl": "gedeelte",
+    "tr": "proportion"
+  },
+  {
+    "nl": "beschermen",
+    "tr": "to protect"
+  },
+  {
+    "nl": "geven, voorzien, verstrekken",
+    "tr": "to provide"
+  },
+  {
+    "nl": "uitgegeven",
+    "tr": "published"
+  },
+  {
+    "nl": "doel",
+    "tr": "purpose"
+  },
+  {
+    "nl": "nogal, geheel",
+    "tr": "quite"
+  },
+  {
+    "nl": "straling",
+    "tr": "radiation"
+  },
+  {
+    "nl": "bereik, reeks",
+    "tr": "range"
+  },
+  {
+    "nl": "realiteit, werkelijkheid",
+    "tr": "reality"
+  },
+  {
+    "nl": "reden",
+    "tr": "reason"
+  },
+  {
+    "nl": "aandacht, achting",
+    "tr": "regard"
+  },
+  {
+    "nl": "vrijgeven",
+    "tr": "to release"
+  },
+  {
+    "nl": "blijven, niet veranderen",
+    "tr": "to remain"
+  },
+  {
+    "nl": "opmerkelijk",
+    "tr": "remarkable"
+  },
+  {
+    "nl": "antwoord, reactie",
+    "tr": "response"
+  },
+  {
+    "nl": "verantwoordelijk",
+    "tr": "responsible"
+  },
+  {
+    "nl": "gevoel",
+    "tr": "sense"
+  },
+  {
+    "nl": "een aantal, meerdere",
+    "tr": "several"
+  },
+  {
+    "nl": "moeten, zullen",
+    "tr": "shall"
+  },
+  {
+    "nl": "gelijk",
+    "tr": "similar"
+  },
+  {
+    "nl": "bron",
+    "tr": "sources"
+  },
+  {
+    "nl": "zich uitstrekken, zich verspreiden",
+    "tr": "spread"
+  },
+  {
+    "nl": "vaststellen",
+    "tr": "to state"
+  },
+  {
+    "nl": "uitspraak",
+    "tr": "statement"
+  },
+  {
+    "nl": "aanmoedigen, stimuleren",
+    "tr": "to stimulate"
+  },
+  {
+    "nl": "iets (op een bepaalde manier) aanpakken",
+    "tr": "to tackle"
+  },
+  {
+    "nl": "ertoe geneigd om",
+    "tr": "to tend to"
+  },
+  {
+    "nl": "termijn",
+    "tr": "terms"
+  },
+  {
+    "nl": "naar",
+    "tr": "towards"
+  },
+  {
+    "nl": "onwaarschijnlijk",
+    "tr": "unlikely"
+  },
+  {
+    "nl": "gebruiken",
+    "tr": "to use"
+  },
+  {
+    "nl": "gewoonlijk",
+    "tr": "usually"
+  },
+  {
+    "nl": "waarde",
+    "tr": "value"
+  },
+  {
+    "nl": "verscheidenheid",
+    "tr": "variety"
+  },
+  {
+    "nl": "groot, enorm",
+    "tr": "vast"
+  },
+  {
+    "nl": "of",
+    "tr": "whether"
+  },
+  {
+    "nl": "waard",
+    "tr": "worth"
+  },
+  {
+    "nl": "aankomen",
+    "tr": "to arrive"
+  },
+  {
+    "nl": "uitgaan",
+    "tr": "to go out"
+  },
+  {
+    "nl": "oversteken",
+    "tr": "to cross"
+  },
+  {
+    "nl": "intoetsen",
+    "tr": "to enter (pincode etc.)"
+  },
+  {
+    "nl": "afwassen",
+    "tr": "to wash the dishes"
+  },
+  {
+    "nl": "afhalen",
+    "tr": "to pick up"
+  },
+  {
+    "nl": "opnemen",
+    "tr": "to withdraw (money), telephone"
+  },
+  {
+    "nl": "aandoen",
+    "tr": "to put on (clothes), to switch on (electricity)"
+  },
+  {
+    "nl": "uitdoen",
+    "tr": "to take off (clothes), to switch off (electricity)"
+  },
+  {
+    "nl": "aantrekken",
+    "tr": "to put on (clothes)"
+  },
+  {
+    "nl": "uittrekken",
+    "tr": "to take off (clothes)"
+  },
+  {
+    "nl": "opstaan",
+    "tr": "to get up, to stand up"
+  },
+  {
+    "nl": "uitslapen",
+    "tr": "to sleep in, to have a good sleep"
+  },
+  {
+    "nl": "instappen",
+    "tr": "to get in (car, bus, etc.)"
+  },
+  {
+    "nl": "uitstappen",
+    "tr": "to get off (car, bus, etc.)"
+  },
+  {
+    "nl": "overstappen",
+    "tr": "to change trains, bus, tram, etc."
+  },
+  {
+    "nl": "aanmelden",
+    "tr": "to sign in"
+  },
+  {
+    "nl": "uitleggen",
+    "tr": "to explain"
+  },
+  {
+    "nl": "afkrijgen",
+    "tr": "to get finished"
+  },
+  {
+    "nl": "aanbranden",
+    "tr": "to burn (food)"
+  },
+  {
+    "nl": "aankondigen",
+    "tr": "to announce"
+  },
+  {
+    "nl": "aannemen",
+    "tr": "to hire, to employ"
+  },
+  {
+    "nl": "aantonen",
+    "tr": "to prove, to demonstrate"
+  },
+  {
+    "nl": "aanvragen",
+    "tr": "to request (information - by mail, telephone, etc.)"
+  },
+  {
+    "nl": "afbeelden",
+    "tr": "to depict, to represent"
+  },
+  {
+    "nl": "afmaken",
+    "tr": "to finish"
+  },
+  {
+    "nl": "afsluiten",
+    "tr": "to terminate, to bring to an end, to take out an insurance (verzekering)"
+  },
+  {
+    "nl": "afspreken",
+    "tr": "to meet, to make an appointment"
+  },
+  {
+    "nl": "doorgaan",
+    "tr": "to continue"
+  },
+  {
+    "nl": "doorgeven",
+    "tr": "to pass on (a message)"
+  },
+  {
+    "nl": "doornemen",
+    "tr": "to go through"
+  },
+  {
+    "nl": "doorsturen",
+    "tr": "to redirect, to send on (a letter, e-mail, etc.)"
+  },
+  {
+    "nl": "ingrijpen",
+    "tr": "to intervene"
+  },
+  {
+    "nl": "inlichten",
+    "tr": "to inform (somebody)"
+  },
+  {
+    "nl": "inpakken",
+    "tr": "to wrap"
+  },
+  {
+    "nl": "ophouden",
+    "tr": "to stop"
+  },
+  {
+    "nl": "oppassen",
+    "tr": "to beware of"
+  },
+  {
+    "nl": "opschieten",
+    "tr": "to hurry"
+  },
+  {
+    "nl": "opzoeken",
+    "tr": "to look up"
+  },
+  {
+    "nl": "overgaan",
+    "tr": "to pass (a headache, etc.)"
+  },
+  {
+    "nl": "stilstaan",
+    "tr": "to think about, not moving"
+  },
+  {
+    "nl": "toepassen",
+    "tr": "to apply, to make use of"
+  },
+  {
+    "nl": "uitbetalen",
+    "tr": "to pay (out)"
+  },
+  {
+    "nl": "uitspreken",
+    "tr": "to pronounce"
+  },
+  {
+    "nl": "uitdelen",
+    "tr": "to distribute"
+  },
+  {
+    "nl": "uitnodigen",
+    "tr": "to invite"
+  },
+  {
+    "nl": "uitvoeren",
+    "tr": "to accomplish, to act, to export"
+  },
+  {
+    "nl": "vaststellen",
+    "tr": "to ascertain, to determine"
+  },
+  {
+    "nl": "bijstellen",
+    "tr": "to adjust"
+  },
+  {
+    "nl": "bijhouden",
+    "tr": "to keep up"
+  },
+  {
+    "nl": "meegaan",
+    "tr": "to go with"
+  },
+  {
+    "nl": "nadenken",
+    "tr": "to think about"
+  },
+  {
+    "nl": "nakijken",
+    "tr": "to check/examine"
+  },
+  {
+    "nl": "neerleggen",
+    "tr": "to lay down"
+  },
+  {
+    "nl": "neerslaan",
+    "tr": "to knock down"
+  },
+  {
+    "nl": "rondkijken",
+    "tr": "to look around"
+  },
+  {
+    "nl": "rondrennen",
+    "tr": "to run around"
+  },
+  {
+    "nl": "tegenkomen",
+    "tr": "to run into/meet"
+  },
+  {
+    "nl": "tegenspreken",
+    "tr": "to contradict"
+  },
+  {
+    "nl": "teruggaan",
+    "tr": "to return"
+  },
+  {
+    "nl": "misgaan",
+    "tr": "to fail"
+  },
+  {
+    "nl": "omleiden",
+    "tr": "to divert"
+  },
+  {
+    "nl": "onderbrengen",
+    "tr": "to house/lodge"
+  },
+  {
+    "nl": "voorkomen",
+    "tr": "to happen/occur"
+  },
+  {
+    "nl": "weergeven",
+    "tr": "to summarise"
+  }
+]

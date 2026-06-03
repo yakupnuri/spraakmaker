@@ -1,0 +1,4974 @@
+[
+  {
+    "nl": "het bedrijf- de zaak",
+    "tr": "Şırket"
+  },
+  {
+    "nl": "het strand",
+    "tr": "plaj"
+  },
+  {
+    "nl": "de boulevard",
+    "tr": "bulwar"
+  },
+  {
+    "nl": "de boerenkool",
+    "tr": "lahana"
+  },
+  {
+    "nl": "de worst",
+    "tr": "sosis"
+  },
+  {
+    "nl": "verliezen verloor verloren verloren",
+    "tr": "kaybetmek"
+  },
+  {
+    "nl": "balen",
+    "tr": "nefret etmek"
+  },
+  {
+    "nl": "de maag",
+    "tr": "mide"
+  },
+  {
+    "nl": "bijzonder",
+    "tr": "özel"
+  },
+  {
+    "nl": "klinken klonk klonken geklonken",
+    "tr": "seslenmek"
+  },
+  {
+    "nl": "saai",
+    "tr": "sıkıcı"
+  },
+  {
+    "nl": "de kring",
+    "tr": "daire"
+  },
+  {
+    "nl": "invalide",
+    "tr": "engelli"
+  },
+  {
+    "nl": "irritant, vervelend",
+    "tr": "sinir bozucu"
+  },
+  {
+    "nl": "overburen",
+    "tr": "karşı/komşu"
+  },
+  {
+    "nl": "de kroeg, het café",
+    "tr": "bar-kafe"
+  },
+  {
+    "nl": "uitslapen (uitgeslapen)",
+    "tr": "geç yatmak"
+  },
+  {
+    "nl": "pakken - gepakt",
+    "tr": "Almak, Kapmak"
+  },
+  {
+    "nl": "gearresteerd - arresteren",
+    "tr": "tutuklamak"
+  },
+  {
+    "nl": "oppakken -ongepakt",
+    "tr": "almak"
+  },
+  {
+    "nl": "uitwijzen-uitgevezen",
+    "tr": "göstermek"
+  },
+  {
+    "nl": "zoeken zocht zochten gezocht",
+    "tr": "aramak"
+  },
+  {
+    "nl": "brengen bracht brachten gebracht",
+    "tr": "getirmek"
+  },
+  {
+    "nl": "inrijden-ingereden",
+    "tr": "surdu"
+  },
+  {
+    "nl": "slagen-gesaagd",
+    "tr": "başarılı olmak"
+  },
+  {
+    "nl": "veroorzaken-vroorzakt",
+    "tr": "sebep olmak"
+  },
+  {
+    "nl": "vieren (gevierd)",
+    "tr": "kutlamak"
+  },
+  {
+    "nl": "organiseren, georganiseerd",
+    "tr": "organize etmek"
+  },
+  {
+    "nl": "lopen, liep, gelopen",
+    "tr": "yurumek"
+  },
+  {
+    "nl": "uiten, geuit",
+    "tr": "fikrini beyan etmek, dile getirmek, izhar etmek,"
+  },
+  {
+    "nl": "groeien - gegroeid",
+    "tr": "büyümek, gelişmek"
+  },
+  {
+    "nl": "afsluiten, sloot af, afgesloten",
+    "tr": "kapatmak"
+  },
+  {
+    "nl": "de wekker",
+    "tr": "çalar saat"
+  },
+  {
+    "nl": "misging",
+    "tr": "yanlis gitmek"
+  },
+  {
+    "nl": "werd wakker",
+    "tr": "uyandi"
+  },
+  {
+    "nl": "daardoor",
+    "tr": "bundan dolayı"
+  },
+  {
+    "nl": "het perron",
+    "tr": "peron"
+  },
+  {
+    "nl": "de vertraging",
+    "tr": "gecikme"
+  },
+  {
+    "nl": "de kiosk",
+    "tr": "büfe"
+  },
+  {
+    "nl": "stoten, stootte, gestoten",
+    "tr": "carpmak"
+  },
+  {
+    "nl": "boos",
+    "tr": "kızgın"
+  },
+  {
+    "nl": "uitendelijk",
+    "tr": "sonunda"
+  },
+  {
+    "nl": "uitpraten",
+    "tr": "konusmak"
+  },
+  {
+    "nl": "uitleggen (legde uit, uitgelegd)",
+    "tr": "aciklamak"
+  },
+  {
+    "nl": "opschieten",
+    "tr": "acele etmek"
+  },
+  {
+    "nl": "flauw",
+    "tr": "tatsiz, sevimsiz"
+  },
+  {
+    "nl": "de grap",
+    "tr": "şaka"
+  },
+  {
+    "nl": "lukken, lukte, gelukt",
+    "tr": "başarmak"
+  },
+  {
+    "nl": "de haast, zich haasten",
+    "tr": "acele etmek"
+  },
+  {
+    "nl": "de conducteur",
+    "tr": "kondüktör"
+  },
+  {
+    "nl": "(de) boete betalen",
+    "tr": "ceza odemek"
+  },
+  {
+    "nl": "de opmerking",
+    "tr": "yorum"
+  },
+  {
+    "nl": "opletten",
+    "tr": "dikkat etmek"
+  },
+  {
+    "nl": "verbranden, verbrandde, verbrand",
+    "tr": "yakmak"
+  },
+  {
+    "nl": "gebeuren, gebeurde, gebeurd",
+    "tr": "olmak, meydana gelmek"
+  },
+  {
+    "nl": "veranderen (veranderde, veranderd)",
+    "tr": "değiştirmek"
+  },
+  {
+    "nl": "slagen, geslaagd",
+    "tr": "başarılı olmak"
+  },
+  {
+    "nl": "zakken; gezakt",
+    "tr": "başarısız olmak"
+  },
+  {
+    "nl": "stijgen, gestegen",
+    "tr": "yükselmek"
+  },
+  {
+    "nl": "dalen, gedaald",
+    "tr": "azalmak"
+  },
+  {
+    "nl": "ervaren, ervoer, ervaren",
+    "tr": "tecrube etmek"
+  },
+  {
+    "nl": "onthouden, onthield, onthouden",
+    "tr": "hatırlamak"
+  },
+  {
+    "nl": "ontvangen",
+    "tr": "teslim almak"
+  },
+  {
+    "nl": "ontdekken",
+    "tr": "keşfetmek"
+  },
+  {
+    "nl": "beloven (beloofde, beloofd)",
+    "tr": "söz vermek"
+  },
+  {
+    "nl": "herinneren",
+    "tr": "hatırlamak"
+  },
+  {
+    "nl": "verlaten verliet verlieten verlaten",
+    "tr": "ayrilmak"
+  },
+  {
+    "nl": "herkennen",
+    "tr": "tanımak"
+  },
+  {
+    "nl": "vergissen",
+    "tr": "hata yapmak"
+  },
+  {
+    "nl": "erkennen (erkende, erkend)",
+    "tr": "kabullenmek"
+  },
+  {
+    "nl": "daarbij",
+    "tr": "böylece"
+  },
+  {
+    "nl": "missen (gemist)",
+    "tr": "kaçırmak-ozlemek"
+  },
+  {
+    "nl": "meegaan; meegegaan",
+    "tr": "birlikte gitmek"
+  },
+  {
+    "nl": "exursie",
+    "tr": "gezi"
+  },
+  {
+    "nl": "hieronder",
+    "tr": "aşağıda"
+  },
+  {
+    "nl": "Verslagjes maken",
+    "tr": "rapor yapmak"
+  },
+  {
+    "nl": "inchecken-ingecheckt",
+    "tr": "giriş kontrol"
+  },
+  {
+    "nl": "renen,rende",
+    "tr": "kosmak"
+  },
+  {
+    "nl": "opstappen",
+    "tr": "Binmek 2"
+  },
+  {
+    "nl": "verbassen",
+    "tr": "sasirmak"
+  },
+  {
+    "nl": "waarschuwing",
+    "tr": "uyarı"
+  },
+  {
+    "nl": "indruk",
+    "tr": "izlenim"
+  },
+  {
+    "nl": "strijken",
+    "tr": "ütülemek"
+  },
+  {
+    "nl": "opvouwen",
+    "tr": "katlamak"
+  },
+  {
+    "nl": "kammen,kamde,h.gekamd",
+    "tr": "taramak"
+  },
+  {
+    "nl": "uitlaten",
+    "tr": "gezdirmek"
+  },
+  {
+    "nl": "lawaaig",
+    "tr": "gurultu yapmak"
+  },
+  {
+    "nl": "lawaai",
+    "tr": "gürültü"
+  },
+  {
+    "nl": "stil",
+    "tr": "sessiz"
+  },
+  {
+    "nl": "plegen",
+    "tr": "yapmak, işlemek"
+  },
+  {
+    "nl": "volgen",
+    "tr": "takip etmek"
+  },
+  {
+    "nl": "voeren",
+    "tr": "beslemek"
+  },
+  {
+    "nl": "herinneringen",
+    "tr": "ani"
+  },
+  {
+    "nl": "een diploma halen",
+    "tr": "mezun olmak"
+  },
+  {
+    "nl": "pijn lijden",
+    "tr": "acı çekmek"
+  },
+  {
+    "nl": "oorlog voeren",
+    "tr": "savas cikarmak"
+  },
+  {
+    "nl": "het nieuws volgen",
+    "tr": "haber takip etmek"
+  },
+  {
+    "nl": "examen doen",
+    "tr": "sinav yapmak"
+  },
+  {
+    "nl": "de wekker zetten",
+    "tr": "alarm kurmak"
+  },
+  {
+    "nl": "een moord plegen",
+    "tr": "cinayet işlemek"
+  },
+  {
+    "nl": "een vergissing maken",
+    "tr": "hata yapmak"
+  },
+  {
+    "nl": "vrede sluiten",
+    "tr": "barış yapmak"
+  },
+  {
+    "nl": "een geheim bewaren",
+    "tr": "sır tutmak"
+  },
+  {
+    "nl": "hekel",
+    "tr": "nefret"
+  },
+  {
+    "nl": "invloed hebben op",
+    "tr": "etkilemek"
+  },
+  {
+    "nl": "humeur, het",
+    "tr": "ruh hali"
+  },
+  {
+    "nl": "studiekeuze, de",
+    "tr": "calisma secimi"
+  },
+  {
+    "nl": "beslissen",
+    "tr": "karar vermek"
+  },
+  {
+    "nl": "beslissing",
+    "tr": "karar"
+  },
+  {
+    "nl": "discussiëren",
+    "tr": "tartışmak"
+  },
+  {
+    "nl": "zachter",
+    "tr": "yumuşak-sakin"
+  },
+  {
+    "nl": "nadenken over",
+    "tr": "hakkında düşünmek"
+  },
+  {
+    "nl": "schrikken van",
+    "tr": "...'dan sasirmak"
+  },
+  {
+    "nl": "vluchten voor",
+    "tr": "kacmak"
+  },
+  {
+    "nl": "zorgen voor",
+    "tr": "bakımını üstlenmek"
+  },
+  {
+    "nl": "zich consenteren",
+    "tr": "konsentre olmak"
+  },
+  {
+    "nl": "slagen voor",
+    "tr": "gecmek(sinav)"
+  },
+  {
+    "nl": "een hekel hebben aan",
+    "tr": "nefret etmek"
+  },
+  {
+    "nl": "spijt hebben van",
+    "tr": "pişman olmak"
+  },
+  {
+    "nl": "verklaren",
+    "tr": "açıklamak"
+  },
+  {
+    "nl": "Komen elkaar tegen (Elkaar tegenkomen)",
+    "tr": "bir araya gelmek- karsilasmak"
+  },
+  {
+    "nl": "toevallig",
+    "tr": "tesadüfen"
+  },
+  {
+    "nl": "bijpraten",
+    "tr": "haberdar olmak, etmek"
+  },
+  {
+    "nl": "bevallen",
+    "tr": "doğurmak"
+  },
+  {
+    "nl": "de stage, de stages-praktijkperiode",
+    "tr": "staj"
+  },
+  {
+    "nl": "de ervaring",
+    "tr": "deneyim"
+  },
+  {
+    "nl": "het geluk hebben",
+    "tr": "sans"
+  },
+  {
+    "nl": "het verslag-rapor",
+    "tr": "rapor"
+  },
+  {
+    "nl": "heb iets met",
+    "tr": "bir seye sahip olmak"
+  },
+  {
+    "nl": "inderdaad-ja precies-dat klopt",
+    "tr": "gerçekten"
+  },
+  {
+    "nl": "het maatje : de vriend",
+    "tr": "arkadaş"
+  },
+  {
+    "nl": "hartstikke",
+    "tr": "tamamen"
+  },
+  {
+    "nl": "binnenkort",
+    "tr": "yakında"
+  },
+  {
+    "nl": "gauw",
+    "tr": "hızlı bir şekilde"
+  },
+  {
+    "nl": "precies",
+    "tr": "tam olarak"
+  },
+  {
+    "nl": "prettig vinden",
+    "tr": "begenmek"
+  },
+  {
+    "nl": "wrijf het er maar in!",
+    "tr": "alay etmek"
+  },
+  {
+    "nl": "afdeling (de)",
+    "tr": "bölüm"
+  },
+  {
+    "nl": "afmaken",
+    "tr": "bitirmek"
+  },
+  {
+    "nl": "alweer",
+    "tr": "tekrar"
+  },
+  {
+    "nl": "verpleegkundige",
+    "tr": "hemşire"
+  },
+  {
+    "nl": "afdeling (de)",
+    "tr": "bölüm"
+  },
+  {
+    "nl": "alweer (= opnieuw)",
+    "tr": "yeniden"
+  },
+  {
+    "nl": "serieuze relatie",
+    "tr": "ciddi iliski"
+  },
+  {
+    "nl": "werkster",
+    "tr": "hizmetci"
+  },
+  {
+    "nl": "minnaar",
+    "tr": "dost-arakadas"
+  },
+  {
+    "nl": "cynish",
+    "tr": "alayci bir sekilde"
+  },
+  {
+    "nl": "opendoen (deed open, opengedaan)",
+    "tr": "açmak"
+  },
+  {
+    "nl": "afgerond hebben",
+    "tr": "tamamlandi"
+  },
+  {
+    "nl": "pensioen",
+    "tr": "emekli"
+  },
+  {
+    "nl": "weekje (het)",
+    "tr": "hafta"
+  },
+  {
+    "nl": "plannen / gepland",
+    "tr": "planlamak"
+  },
+  {
+    "nl": "personeelsuitje",
+    "tr": "personel gezisi"
+  },
+  {
+    "nl": "huisgenoten",
+    "tr": "Ev arkadaşları"
+  },
+  {
+    "nl": "werknemer",
+    "tr": "işçi"
+  },
+  {
+    "nl": "leidinggevende",
+    "tr": "liderlik"
+  },
+  {
+    "nl": "scholieren",
+    "tr": "öğrenciler"
+  },
+  {
+    "nl": "bereiken",
+    "tr": "ulaşmak, başarmak"
+  },
+  {
+    "nl": "beroep",
+    "tr": "meslek"
+  },
+  {
+    "nl": "uitoefenen (oefende uit, uitgeoefend)",
+    "tr": "egzersiz yapmak"
+  },
+  {
+    "nl": "bejaardentehuis, het",
+    "tr": "huzur evi"
+  },
+  {
+    "nl": "speedboot",
+    "tr": "surat teknesi"
+  },
+  {
+    "nl": "burgerlijk-eenvoudig-netjes",
+    "tr": "sivil medeni,yurttaşlıkla ilgili"
+  },
+  {
+    "nl": "de zaak-het bedrijf",
+    "tr": "şirket"
+  },
+  {
+    "nl": "afronden-afmaken",
+    "tr": "tamamlamak"
+  },
+  {
+    "nl": "op mezelf-alleen",
+    "tr": "kendi basima"
+  },
+  {
+    "nl": "redden-helpen",
+    "tr": "kurtarmak"
+  },
+  {
+    "nl": "scheiden-uit elkaar gaan",
+    "tr": "boşanmak"
+  },
+  {
+    "nl": "sparen-geld op bank rekening zetten",
+    "tr": "biriktirmek, arttırmak"
+  },
+  {
+    "nl": "sterven, overlijden",
+    "tr": "olmek"
+  },
+  {
+    "nl": "de vent-de kerel",
+    "tr": "adam"
+  },
+  {
+    "nl": "het vrijwilligerswerk",
+    "tr": "gonlullu calismak"
+  },
+  {
+    "nl": "zorgen voor-verzorgen",
+    "tr": "bakımını üstlenmek"
+  },
+  {
+    "nl": "roeren",
+    "tr": "karıştırmak"
+  },
+  {
+    "nl": "dekken",
+    "tr": "örtmek"
+  },
+  {
+    "nl": "pureren",
+    "tr": "pure yapmak"
+  },
+  {
+    "nl": "vaatdoekje",
+    "tr": "bulasık bezı"
+  },
+  {
+    "nl": "voorspellen",
+    "tr": "tahmin etmek"
+  },
+  {
+    "nl": "binnenkort",
+    "tr": "yakinda"
+  },
+  {
+    "nl": "verlangen naar",
+    "tr": "arzulamak-istemek"
+  },
+  {
+    "nl": "beklimmen",
+    "tr": "tırmanmak"
+  },
+  {
+    "nl": "schillen, pellen",
+    "tr": "kabuk soymak"
+  },
+  {
+    "nl": "lunchen",
+    "tr": "öğle yemeği yemek"
+  },
+  {
+    "nl": "regenen (regende, geregend)",
+    "tr": "yağmur yağmak"
+  },
+  {
+    "nl": "ja, doe maar",
+    "tr": "evet lutfen"
+  },
+  {
+    "nl": "het bejaardentehuis -huis voor oude mensen",
+    "tr": "emekliler evi-huzur evi"
+  },
+  {
+    "nl": "een beroep uitoefenen-werk doen",
+    "tr": "bir meslegi icra etmek"
+  },
+  {
+    "nl": "bereiken-resultat hebben",
+    "tr": "ulaşmak"
+  },
+  {
+    "nl": "burgerlijk-eenvoudig-netjes",
+    "tr": "sivil medeni,yurttaşlıkla ilgili"
+  },
+  {
+    "nl": "Sterven, overlijden, doodgaan",
+    "tr": "ölmek"
+  },
+  {
+    "nl": "vrijwilligerswerk-werken zonder salaris",
+    "tr": "gonullu calismak"
+  },
+  {
+    "nl": "zorgen voor-bezorgen",
+    "tr": "bakimini ustlenmek"
+  },
+  {
+    "nl": "voortaan",
+    "tr": "bundan sonra"
+  },
+  {
+    "nl": "grachten",
+    "tr": "kanallar"
+  },
+  {
+    "nl": "Rondvaarten maken",
+    "tr": "dolasmak"
+  },
+  {
+    "nl": "verhoging",
+    "tr": "zam"
+  },
+  {
+    "nl": "gewoon",
+    "tr": "sadece"
+  },
+  {
+    "nl": "vervolgens",
+    "tr": "akabinde"
+  },
+  {
+    "nl": "eventueel",
+    "tr": "muhtemelen"
+  },
+  {
+    "nl": "wegen woog wogen gewogen",
+    "tr": "supurmek"
+  },
+  {
+    "nl": "simpel",
+    "tr": "basit"
+  },
+  {
+    "nl": "het hagelt",
+    "tr": "dolu"
+  },
+  {
+    "nl": "onweer",
+    "tr": "firtina"
+  },
+  {
+    "nl": "waait",
+    "tr": "rüzgarlı"
+  },
+  {
+    "nl": "weervoorspelling",
+    "tr": "hava tahmini"
+  },
+  {
+    "nl": "direct, meteen",
+    "tr": "hemen"
+  },
+  {
+    "nl": "klikken",
+    "tr": "kontak kurmak"
+  },
+  {
+    "nl": "de afstand",
+    "tr": "mesafe"
+  },
+  {
+    "nl": "besluiten",
+    "tr": "karar vermek"
+  },
+  {
+    "nl": "beslissing",
+    "tr": "karar"
+  },
+  {
+    "nl": "solliciteren",
+    "tr": "başvurmak"
+  },
+  {
+    "nl": "sparen - gespaard",
+    "tr": "biriktirmek"
+  },
+  {
+    "nl": "in het huwelijk treden-trouwen",
+    "tr": "evlenmek"
+  },
+  {
+    "nl": "in ieder geval",
+    "tr": "neyseki"
+  },
+  {
+    "nl": "tenminste",
+    "tr": "en azından"
+  },
+  {
+    "nl": "bewolkt",
+    "tr": "bulutlu"
+  },
+  {
+    "nl": "toekomstdromen",
+    "tr": "gelecek hayalleri"
+  },
+  {
+    "nl": "open haard (de)",
+    "tr": "somıne"
+  },
+  {
+    "nl": "kleed",
+    "tr": "halı"
+  },
+  {
+    "nl": "kaars",
+    "tr": "mum"
+  },
+  {
+    "nl": "gieten",
+    "tr": "dökmek-suzmek"
+  },
+  {
+    "nl": "smelen",
+    "tr": "erimek"
+  },
+  {
+    "nl": "breken brak braken gebroken",
+    "tr": "kırmak"
+  },
+  {
+    "nl": "plukken, plukte, geplukt",
+    "tr": "toplamak"
+  },
+  {
+    "nl": "wieden",
+    "tr": "ayiklamak"
+  },
+  {
+    "nl": "onkruid uittrekken",
+    "tr": "yabani otlari ayiklamak"
+  },
+  {
+    "nl": "pan de",
+    "tr": "tava"
+  },
+  {
+    "nl": "bakken",
+    "tr": "pişirmek"
+  },
+  {
+    "nl": "braden",
+    "tr": "kızartma"
+  },
+  {
+    "nl": "ovenschaal de",
+    "tr": "pisirma kabi"
+  },
+  {
+    "nl": "snijplank (de)",
+    "tr": "kesme tahtasi"
+  },
+  {
+    "nl": "vork, de",
+    "tr": "catal"
+  },
+  {
+    "nl": "de lepel",
+    "tr": "kaşık"
+  },
+  {
+    "nl": "roeren",
+    "tr": "karıştırmak"
+  },
+  {
+    "nl": "stamper, de",
+    "tr": "ezici"
+  },
+  {
+    "nl": "stampen, stampte, gestampt",
+    "tr": "ezmek"
+  },
+  {
+    "nl": "dunschiller de",
+    "tr": "soyucu"
+  },
+  {
+    "nl": "schillen",
+    "tr": "soymak"
+  },
+  {
+    "nl": "blikopener de",
+    "tr": "teneke kutu acici"
+  },
+  {
+    "nl": "spatel de",
+    "tr": "spatula"
+  },
+  {
+    "nl": "mixen",
+    "tr": "karistirmak"
+  },
+  {
+    "nl": "kneden",
+    "tr": "yoğurmak"
+  },
+  {
+    "nl": "hakken",
+    "tr": "kesmek"
+  },
+  {
+    "nl": "stafmixer de",
+    "tr": "karistirici"
+  },
+  {
+    "nl": "Waterkoker (de)",
+    "tr": "katel"
+  },
+  {
+    "nl": "sapcentrifuge de",
+    "tr": "meyve sikacagi"
+  },
+  {
+    "nl": "het koffiezetapparaat",
+    "tr": "kahve makinesi"
+  },
+  {
+    "nl": "vaatwasmachine de",
+    "tr": "bulasik makinesi"
+  },
+  {
+    "nl": "inruimen",
+    "tr": "toparlamak"
+  },
+  {
+    "nl": "uitruimen",
+    "tr": "duzenlemek-temizlemek"
+  },
+  {
+    "nl": "het broodrooster",
+    "tr": "tostmakinesi"
+  },
+  {
+    "nl": "tosti's maken",
+    "tr": "sandvic yapmak"
+  },
+  {
+    "nl": "tosti-ijzer",
+    "tr": "sandvic makinesi"
+  },
+  {
+    "nl": "vijzel de",
+    "tr": "harc"
+  },
+  {
+    "nl": "(fijn) malen",
+    "tr": "ogutmek"
+  },
+  {
+    "nl": "Schort (het-de)",
+    "tr": "önlük"
+  },
+  {
+    "nl": "omdoen",
+    "tr": "takmak"
+  },
+  {
+    "nl": "vergiet het",
+    "tr": "kevgir"
+  },
+  {
+    "nl": "afgieten, decanteren",
+    "tr": "bosaltmak"
+  },
+  {
+    "nl": "vuilnisbak de",
+    "tr": "çöp kutusu"
+  },
+  {
+    "nl": "afval weggooien",
+    "tr": "cop atmak"
+  },
+  {
+    "nl": "afwasborstel de",
+    "tr": "bulasik fircasi"
+  },
+  {
+    "nl": "afwassen",
+    "tr": "bulaşık yıkamak"
+  },
+  {
+    "nl": "vaatdoekje het",
+    "tr": "bulasik bezi"
+  },
+  {
+    "nl": "schoonmaken",
+    "tr": "temizlemek"
+  },
+  {
+    "nl": "oven, de",
+    "tr": "fırın"
+  },
+  {
+    "nl": "verwarmen",
+    "tr": "ısıtmak"
+  },
+  {
+    "nl": "afstandsbediening de",
+    "tr": "uzaktan kumanda"
+  },
+  {
+    "nl": "anzetten",
+    "tr": "acmak"
+  },
+  {
+    "nl": "uitzetten",
+    "tr": "Kapatmak (tv vs)"
+  },
+  {
+    "nl": "aan doen",
+    "tr": "acmak-isik vs"
+  },
+  {
+    "nl": "uitdoen",
+    "tr": "Kapatmak (ışık vs.)"
+  },
+  {
+    "nl": "gordijn het",
+    "tr": "perde"
+  },
+  {
+    "nl": "open doen",
+    "tr": "açmak-perde vs"
+  },
+  {
+    "nl": "gordijnrail",
+    "tr": "perde rayi"
+  },
+  {
+    "nl": "tafelkleed het",
+    "tr": "masa ortusu"
+  },
+  {
+    "nl": "kleed het",
+    "tr": "halı"
+  },
+  {
+    "nl": "tapijt",
+    "tr": "halı"
+  },
+  {
+    "nl": "schilderij, het",
+    "tr": "resim"
+  },
+  {
+    "nl": "bloemenvaas de",
+    "tr": "cicek vazosu"
+  },
+  {
+    "nl": "kaars, de",
+    "tr": "mum"
+  },
+  {
+    "nl": "uitblazen ( blies uit, uitgeblazen )",
+    "tr": "uflemek"
+  },
+  {
+    "nl": "gereedschapskist de",
+    "tr": "arac kutusu"
+  },
+  {
+    "nl": "klussen",
+    "tr": "ev işleri yapmak"
+  },
+  {
+    "nl": "repareren",
+    "tr": "tamir etmek"
+  },
+  {
+    "nl": "fietspomp de",
+    "tr": "bisiklet pompasi"
+  },
+  {
+    "nl": "een band oppompen",
+    "tr": "lastik sisirmek"
+  },
+  {
+    "nl": "bandenplakset de",
+    "tr": "lastik tamir takimi"
+  },
+  {
+    "nl": "bezem de",
+    "tr": "süpürge"
+  },
+  {
+    "nl": "vegen (veegde, geveegd)",
+    "tr": "süpürmek"
+  },
+  {
+    "nl": "hark, de",
+    "tr": "Tirmik"
+  },
+  {
+    "nl": "harken (harkte, heeft geharkt)",
+    "tr": "Tirmiklamak"
+  },
+  {
+    "nl": "schoffel de",
+    "tr": "capa"
+  },
+  {
+    "nl": "scoffelen de",
+    "tr": "capalamak"
+  },
+  {
+    "nl": "schep de",
+    "tr": "kurek"
+  },
+  {
+    "nl": "scheppen schiep geschapen",
+    "tr": "kurekle kazmak"
+  },
+  {
+    "nl": "het stoffer en blik",
+    "tr": "faras"
+  },
+  {
+    "nl": "iets opvegen",
+    "tr": "Bir seyi supurmek"
+  },
+  {
+    "nl": "tuinslang de",
+    "tr": "bahce hortumu"
+  },
+  {
+    "nl": "tuin besproeien de",
+    "tr": "Bahceyi sulamak"
+  },
+  {
+    "nl": "de parasol",
+    "tr": "güneş şemsiyesi"
+  },
+  {
+    "nl": "opzetten (van een tent)",
+    "tr": "kurulum yapmak"
+  },
+  {
+    "nl": "leggen",
+    "tr": "sermek, koymak"
+  },
+  {
+    "nl": "liggen",
+    "tr": "uzanmak-yatay koymak"
+  },
+  {
+    "nl": "zetten",
+    "tr": "koymak"
+  },
+  {
+    "nl": "staan",
+    "tr": "ayakta durmak"
+  },
+  {
+    "nl": "hangen, hing, gehangen",
+    "tr": "asmak"
+  },
+  {
+    "nl": "stoppen",
+    "tr": "durmak"
+  },
+  {
+    "nl": "nerveus, zenuwachtig",
+    "tr": "gergin"
+  },
+  {
+    "nl": "afwas doen",
+    "tr": "bulasiklari yikamak"
+  },
+  {
+    "nl": "de bus nemen",
+    "tr": "otobüse binmek"
+  },
+  {
+    "nl": "een beslissing nemen",
+    "tr": "karar vermek"
+  },
+  {
+    "nl": "actie voeren",
+    "tr": "Harekete gecmek"
+  },
+  {
+    "nl": "toekomst voorspellen",
+    "tr": "gelecegi tahmin etmek"
+  },
+  {
+    "nl": "je dromen waarmaken",
+    "tr": "hayallerini gerceklestirmek"
+  },
+  {
+    "nl": "zich verheugen op",
+    "tr": "dört gözle beklemek"
+  },
+  {
+    "nl": "denken aan",
+    "tr": "hakkında düşünmek"
+  },
+  {
+    "nl": "wachten op",
+    "tr": "beklemek"
+  },
+  {
+    "nl": "op de hoogte zijn van",
+    "tr": "haberdar olmak"
+  },
+  {
+    "nl": "stemmen op",
+    "tr": "oy vermek"
+  },
+  {
+    "nl": "waarschuwen voor",
+    "tr": "uyarmak"
+  },
+  {
+    "nl": "zich zorgen maken over",
+    "tr": "endişelenmek"
+  },
+  {
+    "nl": "verlangen naar",
+    "tr": "ozlemek"
+  },
+  {
+    "nl": "bijten beet beten gebeten",
+    "tr": "ısırmak"
+  },
+  {
+    "nl": "klompen de",
+    "tr": "Tahta ayakkabi"
+  },
+  {
+    "nl": "houten schoenen",
+    "tr": "tahta ayakkabi"
+  },
+  {
+    "nl": "kroket de",
+    "tr": "atistirmalik"
+  },
+  {
+    "nl": "hagelslag, de",
+    "tr": "çikolata parçacıkları"
+  },
+  {
+    "nl": "draaiorgel het",
+    "tr": "kollu org"
+  },
+  {
+    "nl": "verlangen naar",
+    "tr": "ozlemek"
+  },
+  {
+    "nl": "iets of iemand erg missen",
+    "tr": "birini veya bir seyi ozlemek"
+  },
+  {
+    "nl": "oorspronkelijk",
+    "tr": "originally asıl,orjinal"
+  },
+  {
+    "nl": "blijken",
+    "tr": "ortaya çıkmak"
+  },
+  {
+    "nl": "bewezen",
+    "tr": "kanitlamal"
+  },
+  {
+    "nl": "gerecht het",
+    "tr": "porsiyon-yemek-tabak"
+  },
+  {
+    "nl": "maaltijd de",
+    "tr": "öğün"
+  },
+  {
+    "nl": "voedsel",
+    "tr": "gıda"
+  },
+  {
+    "nl": "de gevangene",
+    "tr": "mahkum"
+  },
+  {
+    "nl": "opgesloten",
+    "tr": "hapise atilmak -kilitlenmek"
+  },
+  {
+    "nl": "bevolking",
+    "tr": "population"
+  },
+  {
+    "nl": "gebied",
+    "tr": "alan"
+  },
+  {
+    "nl": "zeespiegel de",
+    "tr": "deniz seviyesi"
+  },
+  {
+    "nl": "zeeniveau (het)",
+    "tr": "deniz seviyesi"
+  },
+  {
+    "nl": "malen, slijpen",
+    "tr": "ogutmek"
+  },
+  {
+    "nl": "het klein maken",
+    "tr": "kucuk parcalar haline getirmek"
+  },
+  {
+    "nl": "meel het",
+    "tr": "un"
+  },
+  {
+    "nl": "gemalen graan",
+    "tr": "ogutulmus tahil"
+  },
+  {
+    "nl": "zagen",
+    "tr": "testere ile kesmek"
+  },
+  {
+    "nl": "zeuren",
+    "tr": "sızlanmak"
+  },
+  {
+    "nl": "hoogtepunt, het",
+    "tr": "vurgu-onemli nokta"
+  },
+  {
+    "nl": "vlak",
+    "tr": "düz alan"
+  },
+  {
+    "nl": "heuvel",
+    "tr": "tepe"
+  },
+  {
+    "nl": "weiland het",
+    "tr": "çayır"
+  },
+  {
+    "nl": "polder, de",
+    "tr": "eskiden sulu olan ama simdi kuru olan alan"
+  },
+  {
+    "nl": "duinen de",
+    "tr": "kum tepeleri"
+  },
+  {
+    "nl": "boerderij, de",
+    "tr": "çiftlik"
+  },
+  {
+    "nl": "grachtenpand de",
+    "tr": "kanal evi"
+  },
+  {
+    "nl": "voorzieningen de",
+    "tr": "yardım ve ikmal yerleri"
+  },
+  {
+    "nl": "faciliteiten de",
+    "tr": "tesisler"
+  },
+  {
+    "nl": "overal",
+    "tr": "her yerde"
+  },
+  {
+    "nl": "verplicht",
+    "tr": "zorunlu"
+  },
+  {
+    "nl": "tocht(je) het",
+    "tr": "yolculuk"
+  },
+  {
+    "nl": "de trip",
+    "tr": "yolculuk"
+  },
+  {
+    "nl": "het ritje",
+    "tr": "seyahat-gezinti"
+  },
+  {
+    "nl": "stappen",
+    "tr": "adım atmak-disari cikmak"
+  },
+  {
+    "nl": "uit/gaan",
+    "tr": "dışarı çıkmak"
+  },
+  {
+    "nl": "tulp",
+    "tr": "lale"
+  },
+  {
+    "nl": "windmolen",
+    "tr": "yel degirmeni"
+  },
+  {
+    "nl": "koopman",
+    "tr": "tuccar"
+  },
+  {
+    "nl": "uitvinding, de",
+    "tr": "buluş"
+  },
+  {
+    "nl": "uniek",
+    "tr": "benzersiz"
+  },
+  {
+    "nl": "hieronder",
+    "tr": "aşağıda"
+  },
+  {
+    "nl": "stampot",
+    "tr": "sebzeli patates puresi"
+  },
+  {
+    "nl": "molens",
+    "tr": "değirmenler"
+  },
+  {
+    "nl": "aanmelden",
+    "tr": "kaydolmak"
+  },
+  {
+    "nl": "traditie",
+    "tr": "gelenek"
+  },
+  {
+    "nl": "vreemd",
+    "tr": "tuhaf"
+  },
+  {
+    "nl": "gek",
+    "tr": "çılgın"
+  },
+  {
+    "nl": "omgang",
+    "tr": "ilişki"
+  },
+  {
+    "nl": "eigenschap",
+    "tr": "özellik"
+  },
+  {
+    "nl": "stappen",
+    "tr": "adım atmak"
+  },
+  {
+    "nl": "weiland",
+    "tr": "çayır"
+  },
+  {
+    "nl": "Lang niet gezien",
+    "tr": "uzun zamandir gormedim"
+  },
+  {
+    "nl": "gaat wel",
+    "tr": "fena degil-Idare eder"
+  },
+  {
+    "nl": "ik ben toe aan",
+    "tr": "ihtiyacım var-hazirim"
+  },
+  {
+    "nl": "dat kan ik me voorstellen",
+    "tr": "Tahmin edebiliyorum"
+  },
+  {
+    "nl": "binnenkort",
+    "tr": "yakında"
+  },
+  {
+    "nl": "voer de boeg",
+    "tr": "ilerleyen zamanda-ilerde"
+  },
+  {
+    "nl": "voorbij",
+    "tr": "geçmiş"
+  },
+  {
+    "nl": "heerlijk",
+    "tr": "lezzetli"
+  },
+  {
+    "nl": "eigenlijk",
+    "tr": "aslında"
+  },
+  {
+    "nl": "aanstaande",
+    "tr": "önümüzdeki"
+  },
+  {
+    "nl": "gaaf",
+    "tr": "harika"
+  },
+  {
+    "nl": "uitverkocht",
+    "tr": "tukendi"
+  },
+  {
+    "nl": "dat klopt",
+    "tr": "bu doğru"
+  },
+  {
+    "nl": "een kaartje over",
+    "tr": "Baska bilet-extra bilet"
+  },
+  {
+    "nl": "ik verheug me op",
+    "tr": "Dort gozle beklemek"
+  },
+  {
+    "nl": "Oostkust",
+    "tr": "dogu kıyısı"
+  },
+  {
+    "nl": "uitgerust",
+    "tr": "dinlenmiş"
+  },
+  {
+    "nl": "ervan genieten",
+    "tr": "eglnmek-zevk almak"
+  },
+  {
+    "nl": "mee te gaan (meegegaan)",
+    "tr": "katilmak"
+  },
+  {
+    "nl": "uiterlijk",
+    "tr": "en gec"
+  },
+  {
+    "nl": "aanvangen (beginnen)",
+    "tr": "baslamak"
+  },
+  {
+    "nl": "zaal, de",
+    "tr": "oda-salon"
+  },
+  {
+    "nl": "noteren",
+    "tr": "not almak"
+  },
+  {
+    "nl": "vervalen",
+    "tr": "suresı dolmak"
+  },
+  {
+    "nl": "rolstoel",
+    "tr": "tekerlekli sandalye"
+  },
+  {
+    "nl": "uitslag",
+    "tr": "sonuç"
+  },
+  {
+    "nl": "hoewel",
+    "tr": "rağmen"
+  },
+  {
+    "nl": "zodat",
+    "tr": "icin"
+  },
+  {
+    "nl": "gaat voelen",
+    "tr": "hissetmek"
+  },
+  {
+    "nl": "vrolijk",
+    "tr": "neşeli, keyifli"
+  },
+  {
+    "nl": "overleden",
+    "tr": "vefat etmek"
+  },
+  {
+    "nl": "plakband (het)",
+    "tr": "yapışkan bant"
+  },
+  {
+    "nl": "werkkamer, de",
+    "tr": "çalışma odası"
+  },
+  {
+    "nl": "aanzetten",
+    "tr": "açmak"
+  },
+  {
+    "nl": "uitzetten",
+    "tr": "kapatmak"
+  },
+  {
+    "nl": "lader de",
+    "tr": "sarz cihazi"
+  },
+  {
+    "nl": "de computer opladen",
+    "tr": "bilgisayari sarz et"
+  },
+  {
+    "nl": "oordopjes, de",
+    "tr": "kulak tikaci"
+  },
+  {
+    "nl": "telefoneren",
+    "tr": "telefon etmek"
+  },
+  {
+    "nl": "printen",
+    "tr": "yazdırmak"
+  },
+  {
+    "nl": "kopieerapparaten het",
+    "tr": "fotokopi cihazi"
+  },
+  {
+    "nl": "scannen (scande, h. gescand)",
+    "tr": "taramak"
+  },
+  {
+    "nl": "perforator, de",
+    "tr": "delik delme cihazi"
+  },
+  {
+    "nl": "perforeren",
+    "tr": "delik acmak"
+  },
+  {
+    "nl": "gaatjes maken",
+    "tr": "delik acmak"
+  },
+  {
+    "nl": "niettang",
+    "tr": "zimba"
+  },
+  {
+    "nl": "nieten",
+    "tr": "zimbalamak"
+  },
+  {
+    "nl": "plakken",
+    "tr": "yapıştırmak"
+  },
+  {
+    "nl": "lijm, de",
+    "tr": "yapıştırıcı"
+  },
+  {
+    "nl": "paperclip (-s), de",
+    "tr": "atac"
+  },
+  {
+    "nl": "vastmaken",
+    "tr": "bağlamak-tutturmak"
+  },
+  {
+    "nl": "schaar (de)",
+    "tr": "makas"
+  },
+  {
+    "nl": "uitgummen, wegvegen",
+    "tr": "silmek"
+  },
+  {
+    "nl": "liniaal (linialen), de",
+    "tr": "cetvel"
+  },
+  {
+    "nl": "een lijn trekken",
+    "tr": "cizgi cizmek"
+  },
+  {
+    "nl": "envelop, de",
+    "tr": "zarf"
+  },
+  {
+    "nl": "kaart, de",
+    "tr": "kart"
+  },
+  {
+    "nl": "post versturen",
+    "tr": "posta gondermek"
+  },
+  {
+    "nl": "ordner (de)",
+    "tr": "dosya"
+  },
+  {
+    "nl": "map, de",
+    "tr": "harita"
+  },
+  {
+    "nl": "tabbladen de",
+    "tr": "klasor"
+  },
+  {
+    "nl": "etui, het; de etuis",
+    "tr": "kalemlik"
+  },
+  {
+    "nl": "wekker de",
+    "tr": "calar saat"
+  },
+  {
+    "nl": "kleiding opbergen",
+    "tr": "kiyafet degistirmek"
+  },
+  {
+    "nl": "zich opmkaen",
+    "tr": "makyaj yapmak"
+  },
+  {
+    "nl": "laken, het",
+    "tr": "çarşaf"
+  },
+  {
+    "nl": "dekbed (het)",
+    "tr": "yorgan"
+  },
+  {
+    "nl": "nachtkasje het",
+    "tr": "komidin"
+  },
+  {
+    "nl": "zeep, de",
+    "tr": "sabun"
+  },
+  {
+    "nl": "zich scheren (schoor - geschoren)",
+    "tr": "tras etmek"
+  },
+  {
+    "nl": "scheerapparaat, het",
+    "tr": "ustura"
+  },
+  {
+    "nl": "scheermesje",
+    "tr": "jilet"
+  },
+  {
+    "nl": "scheerschuim het",
+    "tr": "tras kremi"
+  },
+  {
+    "nl": "kam, de",
+    "tr": "tarak"
+  },
+  {
+    "nl": "borstel de",
+    "tr": "fırça"
+  },
+  {
+    "nl": "haren kammen",
+    "tr": "sac taramak"
+  },
+  {
+    "nl": "oogpotlood het",
+    "tr": "goz kalemi"
+  },
+  {
+    "nl": "oogschaduw (de)",
+    "tr": "goz fari"
+  },
+  {
+    "nl": "lippenstift (de)",
+    "tr": "ruj"
+  },
+  {
+    "nl": "toilettas de",
+    "tr": "Tuvalet cantasi"
+  },
+  {
+    "nl": "handzeep de",
+    "tr": "el sabunu"
+  },
+  {
+    "nl": "handdoek, de",
+    "tr": "havlu"
+  },
+  {
+    "nl": "afdrogen, droogde,af, afgedroogd",
+    "tr": "kurutmak"
+  },
+  {
+    "nl": "toiletborstel de",
+    "tr": "Tuvalet fircasi"
+  },
+  {
+    "nl": "borstelen",
+    "tr": "fircalamak"
+  },
+  {
+    "nl": "pedaalemmer, de",
+    "tr": "pedalli cop kutusu"
+  },
+  {
+    "nl": "toiletrolhouder de",
+    "tr": "tuvalet kagidi tutacagi"
+  },
+  {
+    "nl": "verjaardagkalender de",
+    "tr": "dogum gunu takvimi"
+  },
+  {
+    "nl": "een rol spelen",
+    "tr": "bir rol oynamak"
+  },
+  {
+    "nl": "rommel maken",
+    "tr": "ortalıgı karıstırmak"
+  },
+  {
+    "nl": "koffie zetten",
+    "tr": "Kahve yapmak"
+  },
+  {
+    "nl": "respect hebben voor",
+    "tr": "saygı duymak"
+  },
+  {
+    "nl": "interesse tonen",
+    "tr": "ilgi göstermek"
+  },
+  {
+    "nl": "de kinderen naar school brengen",
+    "tr": "okula coucgu goturmek"
+  },
+  {
+    "nl": "de kindereren van school ophalen",
+    "tr": "Okuldan cocugu almak"
+  },
+  {
+    "nl": "een feest geven",
+    "tr": "parti vermek"
+  },
+  {
+    "nl": "sinterklaas vieren",
+    "tr": "Sint kutlamak"
+  },
+  {
+    "nl": "aan het klimat wennen",
+    "tr": "iklima alismak"
+  },
+  {
+    "nl": "lijken op",
+    "tr": "benzemek"
+  },
+  {
+    "nl": "zich verbazen over",
+    "tr": "şaşırmak"
+  },
+  {
+    "nl": "geinteresseerd zijn in",
+    "tr": "ilgilenmek"
+  },
+  {
+    "nl": "respect hebben voor",
+    "tr": "saygı duymak"
+  },
+  {
+    "nl": "trek hebben in",
+    "tr": "birşeyi canının istemesi"
+  },
+  {
+    "nl": "wennen aan",
+    "tr": "alışmak"
+  },
+  {
+    "nl": "rekening houden met",
+    "tr": "hesaba katmak"
+  },
+  {
+    "nl": "kritiek hebben op",
+    "tr": "eleştirmek"
+  },
+  {
+    "nl": "trots zijn op",
+    "tr": "gurur duymak"
+  },
+  {
+    "nl": "vergelijken met (vergeleek - vergeleken)",
+    "tr": "karsilastirmak"
+  },
+  {
+    "nl": "ontvangen",
+    "tr": "teslim almak"
+  },
+  {
+    "nl": "benieuwd",
+    "tr": "meraklı"
+  },
+  {
+    "nl": "niewsgierig",
+    "tr": "merakli"
+  },
+  {
+    "nl": "belachelijk",
+    "tr": "gülünç-sacma"
+  },
+  {
+    "nl": "idioot",
+    "tr": "aptalca"
+  },
+  {
+    "nl": "ridicuul",
+    "tr": "gulunc"
+  },
+  {
+    "nl": "genieten van",
+    "tr": "zevk almak, tadını çıkartmak"
+  },
+  {
+    "nl": "kiest",
+    "tr": "seçer"
+  },
+  {
+    "nl": "een keus maken",
+    "tr": "Bir Secim yapmak"
+  },
+  {
+    "nl": "oplossing (de)",
+    "tr": "çözüm"
+  },
+  {
+    "nl": "zich bezighouden met",
+    "tr": "meşgul olmak"
+  },
+  {
+    "nl": "aannemen",
+    "tr": "işe almak"
+  },
+  {
+    "nl": "het onderscheid",
+    "tr": "ayrım"
+  },
+  {
+    "nl": "het beroep",
+    "tr": "meslek"
+  },
+  {
+    "nl": "eerlijk",
+    "tr": "dürüst"
+  },
+  {
+    "nl": "rechtvaardig",
+    "tr": "true"
+  },
+  {
+    "nl": "snappen",
+    "tr": "anlamak"
+  },
+  {
+    "nl": "het vrijwilligerswerk",
+    "tr": "gonullu is"
+  },
+  {
+    "nl": "passen op",
+    "tr": "göz kulak olmak"
+  },
+  {
+    "nl": "belangrijk",
+    "tr": "önemli"
+  },
+  {
+    "nl": "relevant",
+    "tr": "ILGILI"
+  },
+  {
+    "nl": "kans",
+    "tr": "şans"
+  },
+  {
+    "nl": "gewoon",
+    "tr": "sadece"
+  },
+  {
+    "nl": "ervoor",
+    "tr": "bunun için"
+  },
+  {
+    "nl": "vergrijzing",
+    "tr": "yaslilik"
+  },
+  {
+    "nl": "bovendien",
+    "tr": "ek olarak"
+  },
+  {
+    "nl": "Flexibele baan",
+    "tr": "esnek is"
+  },
+  {
+    "nl": "vernieuwing",
+    "tr": "yenilik"
+  },
+  {
+    "nl": "dagritme",
+    "tr": "gunluk ritim"
+  },
+  {
+    "nl": "gezondheidzorg",
+    "tr": "saglik hizmeti"
+  },
+  {
+    "nl": "kwestie",
+    "tr": "sorun-mesele"
+  },
+  {
+    "nl": "winkelen",
+    "tr": "alışveriş yapmak"
+  },
+  {
+    "nl": "invloed",
+    "tr": "etki"
+  },
+  {
+    "nl": "softdrug",
+    "tr": "yumusak uyusturucu"
+  },
+  {
+    "nl": "ongelooflijk",
+    "tr": "inanılmaz"
+  },
+  {
+    "nl": "omgeving",
+    "tr": "çevre"
+  },
+  {
+    "nl": "stilgestaan",
+    "tr": "hareketsiz durdu"
+  },
+  {
+    "nl": "privacy (de)",
+    "tr": "gizlilik"
+  },
+  {
+    "nl": "de karaktereigenschap",
+    "tr": "karakter ozelligi"
+  },
+  {
+    "nl": "karaktertrekken",
+    "tr": "ozellikler"
+  },
+  {
+    "nl": "kennen van",
+    "tr": "taninmak"
+  },
+  {
+    "nl": "bekend staan om",
+    "tr": "bilinen"
+  },
+  {
+    "nl": "bijstellen",
+    "tr": "ayarlamak"
+  },
+  {
+    "nl": "veranderen",
+    "tr": "değiştirmek"
+  },
+  {
+    "nl": "aanpassen",
+    "tr": "ayarlamak, uyarlamak"
+  },
+  {
+    "nl": "omgekeerd",
+    "tr": "tam tersi"
+  },
+  {
+    "nl": "averechts",
+    "tr": "geriye"
+  },
+  {
+    "nl": "vooral",
+    "tr": "özellikle, çoğunlukla"
+  },
+  {
+    "nl": "met name",
+    "tr": "özellikle"
+  },
+  {
+    "nl": "vlug",
+    "tr": "cabuk"
+  },
+  {
+    "nl": "het resultat",
+    "tr": "sonuc"
+  },
+  {
+    "nl": "het effect",
+    "tr": "etki"
+  },
+  {
+    "nl": "lelijke taal gebruiken",
+    "tr": "cirkin dil kullan"
+  },
+  {
+    "nl": "vloeken",
+    "tr": "küfretmek"
+  },
+  {
+    "nl": "rekenen op",
+    "tr": "güvenmek"
+  },
+  {
+    "nl": "denken, dacht, gedacht",
+    "tr": "dusunmek"
+  },
+  {
+    "nl": "verwachten",
+    "tr": "beklemek"
+  },
+  {
+    "nl": "openlijk zeggen",
+    "tr": "acikca soylemek"
+  },
+  {
+    "nl": "precies",
+    "tr": "tam olarak"
+  },
+  {
+    "nl": "stipt",
+    "tr": "dakik"
+  },
+  {
+    "nl": "respecteren",
+    "tr": "saygı duymak"
+  },
+  {
+    "nl": "opvolgen",
+    "tr": "takip etmek"
+  },
+  {
+    "nl": "nakomen",
+    "tr": "yerine getirmek"
+  },
+  {
+    "nl": "het gegeven",
+    "tr": "Veri, data"
+  },
+  {
+    "nl": "het feit (-en)",
+    "tr": "gerçek"
+  },
+  {
+    "nl": "verwijnen",
+    "tr": "ortadan kalkmak"
+  },
+  {
+    "nl": "stilstaan",
+    "tr": "hareketsiz durmak"
+  },
+  {
+    "nl": "het geschenk",
+    "tr": "hediye"
+  },
+  {
+    "nl": "eigenlijk, in feite",
+    "tr": "aslında"
+  },
+  {
+    "nl": "de ervaring",
+    "tr": "deneyim"
+  },
+  {
+    "nl": "de praktijk",
+    "tr": "uygulama"
+  },
+  {
+    "nl": "de belevenis",
+    "tr": "deneyim"
+  },
+  {
+    "nl": "ben trots op (trots zijn op)",
+    "tr": "gurur duymak"
+  },
+  {
+    "nl": "tevreden zijn over",
+    "tr": "memnun olmak"
+  },
+  {
+    "nl": "de religie, de godsdienst",
+    "tr": "din inanis"
+  },
+  {
+    "nl": "de geschiedenis",
+    "tr": "tarih"
+  },
+  {
+    "nl": "de historie",
+    "tr": "tarih"
+  },
+  {
+    "nl": "het verraad",
+    "tr": "ihanet"
+  },
+  {
+    "nl": "het bedrog",
+    "tr": "ihanet"
+  },
+  {
+    "nl": "de ontrouw",
+    "tr": "sadakatsiz"
+  },
+  {
+    "nl": "opgroeien",
+    "tr": "büyümek"
+  },
+  {
+    "nl": "groot worden",
+    "tr": "buyumek"
+  },
+  {
+    "nl": "de eigenschap",
+    "tr": "özellikler"
+  },
+  {
+    "nl": "het kenmerk",
+    "tr": "karakteristik"
+  },
+  {
+    "nl": "bereiken",
+    "tr": "ulaşmak"
+  },
+  {
+    "nl": "behalen",
+    "tr": "başarmak, elde etmek, kazanmak"
+  },
+  {
+    "nl": "resultaat hebben",
+    "tr": "sonuc"
+  },
+  {
+    "nl": "de herinnering",
+    "tr": "hatıra"
+  },
+  {
+    "nl": "aandenken",
+    "tr": "hatira"
+  },
+  {
+    "nl": "bewonderen",
+    "tr": "hayran olmak"
+  },
+  {
+    "nl": "waarderen",
+    "tr": "takdir etmek"
+  },
+  {
+    "nl": "adoreren",
+    "tr": "Hayranlik duymak"
+  },
+  {
+    "nl": "verheug je op (zich verheugen op )",
+    "tr": "dort gozle beklemek"
+  },
+  {
+    "nl": "tegenhouden",
+    "tr": "durmak"
+  },
+  {
+    "nl": "stoppen",
+    "tr": "durmak"
+  },
+  {
+    "nl": "in elk geval",
+    "tr": "her bir durumda"
+  },
+  {
+    "nl": "minstens",
+    "tr": "en azından"
+  },
+  {
+    "nl": "minimaal",
+    "tr": "en az"
+  },
+  {
+    "nl": "huwelijk",
+    "tr": "evlilik"
+  },
+  {
+    "nl": "hierbij",
+    "tr": "bu vesile ile"
+  },
+  {
+    "nl": "voorbij",
+    "tr": "önceden"
+  },
+  {
+    "nl": "stoplicht het",
+    "tr": "trafik ışığı"
+  },
+  {
+    "nl": "het kruispunt",
+    "tr": "kavşak"
+  },
+  {
+    "nl": "het verkeersbord",
+    "tr": "trafik işareti"
+  },
+  {
+    "nl": "het zebrapad",
+    "tr": "yaya geçidi"
+  },
+  {
+    "nl": "de weg",
+    "tr": "yol"
+  },
+  {
+    "nl": "de stoep, het voetpad",
+    "tr": "kaldırım"
+  },
+  {
+    "nl": "het fietspad",
+    "tr": "bisiklet yolu"
+  },
+  {
+    "nl": "de T-splitsing",
+    "tr": "T kavsagi"
+  },
+  {
+    "nl": "de doodlopende weg",
+    "tr": "çıkmaz sokak"
+  },
+  {
+    "nl": "de haaientanden",
+    "tr": "asfalt üstündeki üçgen dur işaretleri"
+  },
+  {
+    "nl": "de bushalte",
+    "tr": "otobüs durağı"
+  },
+  {
+    "nl": "de rotonde",
+    "tr": "döner kavşak"
+  },
+  {
+    "nl": "de spoorwegovergang",
+    "tr": "demiryolu geçidi"
+  },
+  {
+    "nl": "de rijstrook",
+    "tr": "şerit"
+  },
+  {
+    "nl": "de bromer",
+    "tr": "Kucuk motorbisiklet"
+  },
+  {
+    "nl": "de vrachtwagen",
+    "tr": "kamyon"
+  },
+  {
+    "nl": "invoegen",
+    "tr": "Yola giris yapmak"
+  },
+  {
+    "nl": "uitvoegen",
+    "tr": "ana yoldan ayrılmak"
+  },
+  {
+    "nl": "van rijstrook wisselen",
+    "tr": "şerit değiştirmek"
+  },
+  {
+    "nl": "inhalen",
+    "tr": "sollamak"
+  },
+  {
+    "nl": "naar rechts gaan",
+    "tr": "saga git"
+  },
+  {
+    "nl": "rechtsaf slaan",
+    "tr": "saga don"
+  },
+  {
+    "nl": "Naar links gaan",
+    "tr": "sola git"
+  },
+  {
+    "nl": "linksaf slaan",
+    "tr": "sola don"
+  },
+  {
+    "nl": "voorsorteren",
+    "tr": "dönmek için olan şeritler"
+  },
+  {
+    "nl": "oversteken",
+    "tr": "karşıya geçmek"
+  },
+  {
+    "nl": "richting aangeven",
+    "tr": "sinyal vermek"
+  },
+  {
+    "nl": "voorrang hebben",
+    "tr": "yol hakkı bende"
+  },
+  {
+    "nl": "voorrang geven",
+    "tr": "yol hakkı vermek"
+  },
+  {
+    "nl": "een vraag stellen",
+    "tr": "soru sormak"
+  },
+  {
+    "nl": "informatie vragen over",
+    "tr": "bilgi istemek"
+  },
+  {
+    "nl": "een gesprek voeren",
+    "tr": "konusmak"
+  },
+  {
+    "nl": "je mening geven",
+    "tr": "dusuncesini soylemek"
+  },
+  {
+    "nl": "antwoord geven op",
+    "tr": "cevap vermek"
+  },
+  {
+    "nl": "een klacht indienen",
+    "tr": "sikayetci olmak"
+  },
+  {
+    "nl": "kritiek hebben op",
+    "tr": "eleştirmek"
+  },
+  {
+    "nl": "een praatje maken",
+    "tr": "sohbet etmek"
+  },
+  {
+    "nl": "een boodschap doorgeven",
+    "tr": "mesaj iletmek"
+  },
+  {
+    "nl": "advies geven",
+    "tr": "tavsiye vermek"
+  },
+  {
+    "nl": "informeren naar",
+    "tr": "hakkinda bilgi..."
+  },
+  {
+    "nl": "feliciteren met",
+    "tr": "ile tebrik etmek"
+  },
+  {
+    "nl": "lachen om",
+    "tr": "gülmek"
+  },
+  {
+    "nl": "reageren op",
+    "tr": "cevap vermek"
+  },
+  {
+    "nl": "condoleren met",
+    "tr": "bassagligi dilemek"
+  },
+  {
+    "nl": "botsing",
+    "tr": "çarpışma"
+  },
+  {
+    "nl": "aanrijding",
+    "tr": "çarpışma"
+  },
+  {
+    "nl": "geraakt",
+    "tr": "vurmak"
+  },
+  {
+    "nl": "de betrokkene",
+    "tr": "ilgili kişi"
+  },
+  {
+    "nl": "geldzaken",
+    "tr": "Para ıslerı"
+  },
+  {
+    "nl": "contant",
+    "tr": "nakit"
+  },
+  {
+    "nl": "girokaart (de)",
+    "tr": "para aktarmak -para transferi"
+  },
+  {
+    "nl": "overmaken",
+    "tr": "havale etmek"
+  },
+  {
+    "nl": "elektronisch",
+    "tr": "bilgisayara uzerinden-internet uzerinden"
+  },
+  {
+    "nl": "pinpas",
+    "tr": "banka kartı"
+  },
+  {
+    "nl": "opnemen",
+    "tr": "kaydetmek"
+  },
+  {
+    "nl": "de geld automaat",
+    "tr": "ATM"
+  },
+  {
+    "nl": "het gedoe",
+    "tr": "güçlük"
+  },
+  {
+    "nl": "snappen",
+    "tr": "anlamak"
+  },
+  {
+    "nl": "de zorgverzekering",
+    "tr": "sağlık sigortası"
+  },
+  {
+    "nl": "de huur",
+    "tr": "kira"
+  },
+  {
+    "nl": "de automatische overschrijving",
+    "tr": "otomatik odemeler"
+  },
+  {
+    "nl": "lastig",
+    "tr": "zor"
+  },
+  {
+    "nl": "handig",
+    "tr": "kullanışlı"
+  },
+  {
+    "nl": "ouderwets",
+    "tr": "modası geçmiş"
+  },
+  {
+    "nl": "uitgebreid",
+    "tr": "kapsamlı"
+  },
+  {
+    "nl": "Gewaarlijk",
+    "tr": "tehlikeli"
+  },
+  {
+    "nl": "beveiligen",
+    "tr": "guvenlik"
+  },
+  {
+    "nl": "slim, intelligent",
+    "tr": "akıllı"
+  },
+  {
+    "nl": "allebei",
+    "tr": "her ikisi de"
+  },
+  {
+    "nl": "eigenwijs",
+    "tr": "inatçı"
+  },
+  {
+    "nl": "hartstikke",
+    "tr": "tamamen"
+  },
+  {
+    "nl": "nuttig",
+    "tr": "kullanışlı"
+  },
+  {
+    "nl": "vol risico",
+    "tr": "riskli"
+  },
+  {
+    "nl": "beschermen",
+    "tr": "korumak"
+  },
+  {
+    "nl": "intelligent",
+    "tr": "zeki"
+  },
+  {
+    "nl": "overnemen",
+    "tr": "devralmak"
+  },
+  {
+    "nl": "zoals",
+    "tr": "gibi"
+  },
+  {
+    "nl": "wennen",
+    "tr": "alışmak"
+  },
+  {
+    "nl": "hiermee",
+    "tr": "bununla"
+  },
+  {
+    "nl": "Inboedelverzekering/huisraadverzekering",
+    "tr": "ev sigortasi"
+  },
+  {
+    "nl": "afrekenen",
+    "tr": "hesabı ödemek"
+  },
+  {
+    "nl": "Op de linkerkant",
+    "tr": "sol taraftaki"
+  },
+  {
+    "nl": "uitstappen",
+    "tr": "inmek"
+  },
+  {
+    "nl": "uitslapen",
+    "tr": "uzun sure yatmak"
+  },
+  {
+    "nl": "opendoen",
+    "tr": "Açmak (pencere kapı vs.)"
+  },
+  {
+    "nl": "voorstellen",
+    "tr": "tanıtmak"
+  },
+  {
+    "nl": "terugbellen",
+    "tr": "geri aramak"
+  },
+  {
+    "nl": "aankomen",
+    "tr": "varmak, ulaşmak"
+  },
+  {
+    "nl": "ophalen",
+    "tr": "almak"
+  },
+  {
+    "nl": "langskomen",
+    "tr": "ugramak"
+  },
+  {
+    "nl": "doorgaan",
+    "tr": "devam etmek"
+  },
+  {
+    "nl": "afzeggen",
+    "tr": "iptal etmek"
+  },
+  {
+    "nl": "opschrijven",
+    "tr": "not etmek"
+  },
+  {
+    "nl": "slim, intelligent",
+    "tr": "akıllı"
+  },
+  {
+    "nl": "verstandig",
+    "tr": "akıllıca"
+  },
+  {
+    "nl": "geld dat op de rekening staat",
+    "tr": "hesaptaki para"
+  },
+  {
+    "nl": "tegoeden",
+    "tr": "kredi"
+  },
+  {
+    "nl": "beschikbaar hebben",
+    "tr": "musait olmak"
+  },
+  {
+    "nl": "als compensatie",
+    "tr": "tazminat olarak"
+  },
+  {
+    "nl": "in ruil daar voor",
+    "tr": "Bunun karsiliginda"
+  },
+  {
+    "nl": "zijn dol op, houden van",
+    "tr": "sevmek"
+  },
+  {
+    "nl": "zijn gek op",
+    "tr": "cildirmak"
+  },
+  {
+    "nl": "vaststellen",
+    "tr": "tesbit etmek"
+  },
+  {
+    "nl": "bepalen",
+    "tr": "belirlemek"
+  },
+  {
+    "nl": "naast",
+    "tr": "yanında"
+  },
+  {
+    "nl": "behalve",
+    "tr": "dışında"
+  },
+  {
+    "nl": "stimuleert",
+    "tr": "uyarir"
+  },
+  {
+    "nl": "spaarrente",
+    "tr": "tasarruf faizi"
+  },
+  {
+    "nl": "onvoorziene uitgaven",
+    "tr": "Beklenmedik duurmlar"
+  },
+  {
+    "nl": "rezerve,extra geld",
+    "tr": "rezerv , extra para"
+  },
+  {
+    "nl": "immers",
+    "tr": "sonuçta"
+  },
+  {
+    "nl": "overhouden",
+    "tr": "arta kalan"
+  },
+  {
+    "nl": "wettige",
+    "tr": "yasal"
+  },
+  {
+    "nl": "piek",
+    "tr": "zirve"
+  },
+  {
+    "nl": "in omloop",
+    "tr": "dolasimda"
+  },
+  {
+    "nl": "wisselkoers",
+    "tr": "doviz kurlari"
+  },
+  {
+    "nl": "uitzoeken",
+    "tr": "incelemek"
+  },
+  {
+    "nl": "aanzetten",
+    "tr": "açmak"
+  },
+  {
+    "nl": "uitzetten",
+    "tr": "kapatmak"
+  },
+  {
+    "nl": "indrukken",
+    "tr": "tesir, intiba, etkilenme"
+  },
+  {
+    "nl": "opslaan",
+    "tr": "kaydetmek"
+  },
+  {
+    "nl": "internetten",
+    "tr": "internette gezinmek"
+  },
+  {
+    "nl": "mailen (mailde(n), gemaild)",
+    "tr": "postalamak"
+  },
+  {
+    "nl": "gamen",
+    "tr": "oyun oynamak"
+  },
+  {
+    "nl": "opladen",
+    "tr": "şarj etmek"
+  },
+  {
+    "nl": "ontgrendelen",
+    "tr": "kilidini acmak"
+  },
+  {
+    "nl": "toegangscode invoeren",
+    "tr": "giris kodunu giriniz"
+  },
+  {
+    "nl": "de geldautomaat",
+    "tr": "atm"
+  },
+  {
+    "nl": "de pincode intoetsen",
+    "tr": "pin kodunu girin"
+  },
+  {
+    "nl": "het bedrag kiezen",
+    "tr": "miktar secin"
+  },
+  {
+    "nl": "op de ok knop drukken",
+    "tr": "tamam dugmesine basin"
+  },
+  {
+    "nl": "de bankpas uitnemen",
+    "tr": "banka kartini cikarin"
+  },
+  {
+    "nl": "de bankpas invoeren",
+    "tr": "banka kartini girin"
+  },
+  {
+    "nl": "het geld uitnemen",
+    "tr": "parayi cikarin"
+  },
+  {
+    "nl": "het kopieerapparaat",
+    "tr": "fotokopi makinesi"
+  },
+  {
+    "nl": "papier bijvullen",
+    "tr": "kagit doldurun"
+  },
+  {
+    "nl": "papier in de lade doen",
+    "tr": "tepsiye kağıt koy"
+  },
+  {
+    "nl": "de klep opendoen",
+    "tr": "Kapağı aç"
+  },
+  {
+    "nl": "het aantal exemplaren kiezen",
+    "tr": "kopya sayısını seçin"
+  },
+  {
+    "nl": "enkelzijdig",
+    "tr": "tek tarafli"
+  },
+  {
+    "nl": "dubbel",
+    "tr": "çift"
+  },
+  {
+    "nl": "op dekoppierknop drukken",
+    "tr": "kopya dugmesine basin"
+  },
+  {
+    "nl": "de printopdracht geven",
+    "tr": "baskı emrini ver"
+  },
+  {
+    "nl": "afstandsbediening",
+    "tr": "uzaktan kumanda"
+  },
+  {
+    "nl": "een knop drukken",
+    "tr": "dugmeye basmak"
+  },
+  {
+    "nl": "zender kiezen",
+    "tr": "kanal secmek"
+  },
+  {
+    "nl": "het geluid, lawaai",
+    "tr": "ses gurultu"
+  },
+  {
+    "nl": "zachter zetten",
+    "tr": "kismak"
+  },
+  {
+    "nl": "harder zetten",
+    "tr": "artirmak"
+  },
+  {
+    "nl": "vervangen",
+    "tr": "değiştirmek"
+  },
+  {
+    "nl": "de muziekinstallatie",
+    "tr": "muzik sistemi"
+  },
+  {
+    "nl": "een cd invoeren",
+    "tr": "cd yerlestirmek"
+  },
+  {
+    "nl": "stoppen met",
+    "tr": "bırakmak"
+  },
+  {
+    "nl": "reclame maken voor",
+    "tr": "reklam yapmak"
+  },
+  {
+    "nl": "geld overmaken naar",
+    "tr": "para transfer etmek"
+  },
+  {
+    "nl": "bezuinigen op",
+    "tr": "tasarruf etmek"
+  },
+  {
+    "nl": "zich vergissen in",
+    "tr": "hata yapmak"
+  },
+  {
+    "nl": "geld uitgeven aan",
+    "tr": "para harcamak"
+  },
+  {
+    "nl": "zich inschrijven voor",
+    "tr": "kayıt olmak"
+  },
+  {
+    "nl": "beginnen met",
+    "tr": "ile başlamak"
+  },
+  {
+    "nl": "zich houden aan",
+    "tr": "uymak"
+  },
+  {
+    "nl": "sparen voor",
+    "tr": "biriktirmek"
+  },
+  {
+    "nl": "reclame maken",
+    "tr": "reklam yapmak"
+  },
+  {
+    "nl": "een factuur betalen",
+    "tr": "fatura odemek"
+  },
+  {
+    "nl": "een handtekening zetten",
+    "tr": "imza atmak"
+  },
+  {
+    "nl": "risico lopen",
+    "tr": "riske girmek"
+  },
+  {
+    "nl": "een bankrekening openen",
+    "tr": "banka hesabi acmak"
+  },
+  {
+    "nl": "geld opnemen",
+    "tr": "para cekmek"
+  },
+  {
+    "nl": "geld overmaken",
+    "tr": "para transferi yapmak"
+  },
+  {
+    "nl": "geld sparen - spaarde - h. gespaard",
+    "tr": "para biriktirmek"
+  },
+  {
+    "nl": "geld verdienen met",
+    "tr": "para kazanmak"
+  },
+  {
+    "nl": "geld uitgeven",
+    "tr": "para harcamak"
+  },
+  {
+    "nl": "inbreken",
+    "tr": "ev soymak"
+  },
+  {
+    "nl": "doen aan",
+    "tr": "yapmak"
+  },
+  {
+    "nl": "bezig zijn met",
+    "tr": "ile meşgul olmak"
+  },
+  {
+    "nl": "mijn lust en mijn leven",
+    "tr": "isteklerim ve hayatim"
+  },
+  {
+    "nl": "mijn passie",
+    "tr": "tutkum"
+  },
+  {
+    "nl": "ontspannen",
+    "tr": "dinlenmek"
+  },
+  {
+    "nl": "rustgevend",
+    "tr": "yatismak"
+  },
+  {
+    "nl": "het doorzettingsvermogen",
+    "tr": "azim"
+  },
+  {
+    "nl": "de wilskracht",
+    "tr": "irade"
+  },
+  {
+    "nl": "vermogen",
+    "tr": "yetenek"
+  },
+  {
+    "nl": "de top bereiken",
+    "tr": "zirveye yukselmek"
+  },
+  {
+    "nl": "het beste resultaat behalen",
+    "tr": "en iyi sonucu almak"
+  },
+  {
+    "nl": "het idool",
+    "tr": "ornek"
+  },
+  {
+    "nl": "de held",
+    "tr": "kahraman"
+  },
+  {
+    "nl": "de ster",
+    "tr": "yıldız"
+  },
+  {
+    "nl": "een favoriete persoon",
+    "tr": "favori eleman"
+  },
+  {
+    "nl": "oprichten",
+    "tr": "kurmak, kurulum"
+  },
+  {
+    "nl": "de uitdaging",
+    "tr": "meydan okuma"
+  },
+  {
+    "nl": "de ontwikkeling",
+    "tr": "gelişme"
+  },
+  {
+    "nl": "de ontplooiing",
+    "tr": "acilma -gelisim"
+  },
+  {
+    "nl": "kalm",
+    "tr": "sakin"
+  },
+  {
+    "nl": "stil",
+    "tr": "sessiz"
+  },
+  {
+    "nl": "verbouwen",
+    "tr": "yetistirmek"
+  },
+  {
+    "nl": "planten",
+    "tr": "dikmek"
+  },
+  {
+    "nl": "kweker",
+    "tr": "yetistirmek"
+  },
+  {
+    "nl": "het gerecht, de schotel",
+    "tr": "yemek"
+  },
+  {
+    "nl": "de maaltijd",
+    "tr": "Yemek, öğün"
+  },
+  {
+    "nl": "het avontuur",
+    "tr": "macera"
+  },
+  {
+    "nl": "de belevenis",
+    "tr": "deneyim"
+  },
+  {
+    "nl": "de ervaring",
+    "tr": "deneyim"
+  },
+  {
+    "nl": "romantische (romantisch)",
+    "tr": "romantik"
+  },
+  {
+    "nl": "gevoelig",
+    "tr": "hassas"
+  },
+  {
+    "nl": "dromerig",
+    "tr": "ruya gibi"
+  },
+  {
+    "nl": "exotisch; uitheems",
+    "tr": "exotik-acayip"
+  },
+  {
+    "nl": "van warme",
+    "tr": "sicaktan"
+  },
+  {
+    "nl": "verre landen",
+    "tr": "uzak diyarlar"
+  },
+  {
+    "nl": "saai",
+    "tr": "sıkıcı"
+  },
+  {
+    "nl": "oninteressant",
+    "tr": "ilginc olmayan"
+  },
+  {
+    "nl": "sportfanaat",
+    "tr": "spor fanatigi"
+  },
+  {
+    "nl": "de vioolleraar",
+    "tr": "keman ogretmeni"
+  },
+  {
+    "nl": "dirigent, de",
+    "tr": "orkestra şefi"
+  },
+  {
+    "nl": "tuineren",
+    "tr": "bahce yapmak"
+  },
+  {
+    "nl": "nogal, tamelijk",
+    "tr": "sessiz"
+  },
+  {
+    "nl": "atletiek",
+    "tr": "atletizm"
+  },
+  {
+    "nl": "zeilen",
+    "tr": "yelken açmak"
+  },
+  {
+    "nl": "schaatsen",
+    "tr": "buz pateni"
+  },
+  {
+    "nl": "de viool",
+    "tr": "keman"
+  },
+  {
+    "nl": "de harp",
+    "tr": "harp"
+  },
+  {
+    "nl": "het orgel",
+    "tr": "orgel"
+  },
+  {
+    "nl": "de dwarsfluit",
+    "tr": "flut"
+  },
+  {
+    "nl": "toneel spelen",
+    "tr": "oyunculuk"
+  },
+  {
+    "nl": "fotograferen",
+    "tr": "fotoğraf çekmek"
+  },
+  {
+    "nl": "uitgaan",
+    "tr": "dışarı çıkmak"
+  },
+  {
+    "nl": "koor",
+    "tr": "koro"
+  },
+  {
+    "nl": "vermoeiend",
+    "tr": "yorucu"
+  },
+  {
+    "nl": "uitgevoeren",
+    "tr": "uygulamak-gerceklestirmek"
+  },
+  {
+    "nl": "tientje (het)",
+    "tr": "önlük"
+  },
+  {
+    "nl": "geluksgevoel",
+    "tr": "mutluluk"
+  },
+  {
+    "nl": "woordvoerder",
+    "tr": "sözcü"
+  },
+  {
+    "nl": "vastzitten, geklemd zitten",
+    "tr": "takilmak-mahsur kalmak"
+  },
+  {
+    "nl": "knuffelen",
+    "tr": "sarılmak"
+  },
+  {
+    "nl": "realiseren",
+    "tr": "farkina varmak"
+  },
+  {
+    "nl": "geur",
+    "tr": "koku"
+  },
+  {
+    "nl": "bubbelbad",
+    "tr": "kopuk banyosu"
+  },
+  {
+    "nl": "weerzien",
+    "tr": "tekrardan gorme- bir araya gelme"
+  },
+  {
+    "nl": "promotie maken",
+    "tr": "desteklemek"
+  },
+  {
+    "nl": "afgevallen",
+    "tr": "kilo vermek"
+  },
+  {
+    "nl": "ontdekken",
+    "tr": "keşfetmek"
+  },
+  {
+    "nl": "overnachten",
+    "tr": "gecelemek"
+  },
+  {
+    "nl": "zoenen",
+    "tr": "öpmek"
+  },
+  {
+    "nl": "zich aanpassen aan",
+    "tr": "uyum saglamak"
+  },
+  {
+    "nl": "zich abonneren op",
+    "tr": "abone olmak"
+  },
+  {
+    "nl": "zich afvragen",
+    "tr": "merak etmek"
+  },
+  {
+    "nl": "zich aanmelden voor",
+    "tr": "kaydolmak"
+  },
+  {
+    "nl": "zich amuseren",
+    "tr": "eğlenmek"
+  },
+  {
+    "nl": "zich afmelden voor",
+    "tr": "abonelikten çıkmak"
+  },
+  {
+    "nl": "zich douchen",
+    "tr": "duş almak"
+  },
+  {
+    "nl": "zich ergeren aan",
+    "tr": "sinirlenmek"
+  },
+  {
+    "nl": "zich haasten",
+    "tr": "acele etmek"
+  },
+  {
+    "nl": "zich herinneren",
+    "tr": "hatırlamak"
+  },
+  {
+    "nl": "zich houden aan",
+    "tr": "bağlı olmak"
+  },
+  {
+    "nl": "zich inschrijven voor",
+    "tr": "kayıt olmak"
+  },
+  {
+    "nl": "zich interesseren voor",
+    "tr": "ilgilenmek"
+  },
+  {
+    "nl": "zich melden bij",
+    "tr": "bildirmek"
+  },
+  {
+    "nl": "zich opmaken",
+    "tr": "makyaj yapmak"
+  },
+  {
+    "nl": "zich schamen voor",
+    "tr": "utanmak"
+  },
+  {
+    "nl": "zich scheren",
+    "tr": "tıraş olmak"
+  },
+  {
+    "nl": "zich verbazen over",
+    "tr": "şaşırmak"
+  },
+  {
+    "nl": "zich wassen",
+    "tr": "yıkanmak"
+  },
+  {
+    "nl": "zich vergissen in",
+    "tr": "hata yapmak"
+  },
+  {
+    "nl": "zich vermaken",
+    "tr": "eğlendirmek"
+  },
+  {
+    "nl": "zich verslapen",
+    "tr": "uyuyarak geçirmek"
+  },
+  {
+    "nl": "zich verschonen",
+    "tr": "kendini degistirmek"
+  },
+  {
+    "nl": "zich vervelen",
+    "tr": "sıkılmak"
+  },
+  {
+    "nl": "zich voelen",
+    "tr": "hissetmek"
+  },
+  {
+    "nl": "zich vorbereiden op",
+    "tr": "hazirlamak"
+  },
+  {
+    "nl": "zich vorstellen",
+    "tr": "kendini tanitmak"
+  },
+  {
+    "nl": "zich zorgen maken",
+    "tr": "endişelenmek"
+  },
+  {
+    "nl": "de expat",
+    "tr": "gocmen"
+  },
+  {
+    "nl": "regelen",
+    "tr": "ayarlamak"
+  },
+  {
+    "nl": "organizeren",
+    "tr": "organize etmek"
+  },
+  {
+    "nl": "wennen aan",
+    "tr": "alışmak"
+  },
+  {
+    "nl": "gewoon worden",
+    "tr": "normal olmak"
+  },
+  {
+    "nl": "gelukt",
+    "tr": "basari-mutluluk"
+  },
+  {
+    "nl": "succes hebben",
+    "tr": "basai elde etmek"
+  },
+  {
+    "nl": "aan de slaag gaan",
+    "tr": "ise baslamak"
+  },
+  {
+    "nl": "de teleurstelling",
+    "tr": "hayal kırıklığı"
+  },
+  {
+    "nl": "de tegenvaller",
+    "tr": "gerileme"
+  },
+  {
+    "nl": "de desillusie",
+    "tr": "hayal kirikligi"
+  },
+  {
+    "nl": "tevreden",
+    "tr": "memnun"
+  },
+  {
+    "nl": "zich voorstellen",
+    "tr": "kendini tanıtmak"
+  },
+  {
+    "nl": "genieten",
+    "tr": "eğlenmek"
+  },
+  {
+    "nl": "zich amuseren",
+    "tr": "eğlenmek"
+  },
+  {
+    "nl": "plezier hebben",
+    "tr": "eglenmek"
+  },
+  {
+    "nl": "bieden",
+    "tr": "teklif etmek"
+  },
+  {
+    "nl": "inmiddels",
+    "tr": "bu arada"
+  },
+  {
+    "nl": "intussen",
+    "tr": "bu arada"
+  },
+  {
+    "nl": "zelfstandig",
+    "tr": "bağımsız"
+  },
+  {
+    "nl": "onafhankelijk",
+    "tr": "bağımsız"
+  },
+  {
+    "nl": "klagen over",
+    "tr": "şikayet etmek"
+  },
+  {
+    "nl": "zeuren",
+    "tr": "sızlanmak"
+  },
+  {
+    "nl": "mopperen",
+    "tr": "homurdanmak"
+  },
+  {
+    "nl": "de aanrader",
+    "tr": "oneri-tavsiye"
+  },
+  {
+    "nl": "het advies, de raad",
+    "tr": "Teklif"
+  },
+  {
+    "nl": "de tip",
+    "tr": "tavsiye"
+  },
+  {
+    "nl": "bewust",
+    "tr": "bilinçli"
+  },
+  {
+    "nl": "expres",
+    "tr": "ifade"
+  },
+  {
+    "nl": "bedoeld",
+    "tr": "İfade etmek"
+  },
+  {
+    "nl": "Ontspannen/relaxed zijn",
+    "tr": "dinlenmek-rahatlamak"
+  },
+  {
+    "nl": "journalist, de",
+    "tr": "gazeteci"
+  },
+  {
+    "nl": "functie",
+    "tr": "meslek"
+  },
+  {
+    "nl": "eigen",
+    "tr": "sahip olmak"
+  },
+  {
+    "nl": "Vriendenkring (de)",
+    "tr": "arkadas cevresi"
+  },
+  {
+    "nl": "vormen",
+    "tr": "oluşturmakta"
+  },
+  {
+    "nl": "heleboel",
+    "tr": "birçok"
+  },
+  {
+    "nl": "voordelen",
+    "tr": "avantajlar"
+  },
+  {
+    "nl": "opbouwen",
+    "tr": "kurmak"
+  },
+  {
+    "nl": "fitnessen",
+    "tr": "fitnes yapmak"
+  },
+  {
+    "nl": "zeilen",
+    "tr": "yelken açmak"
+  },
+  {
+    "nl": "winkelen",
+    "tr": "alışveriş yapmak"
+  },
+  {
+    "nl": "korfbal spelen",
+    "tr": "korf topu oyunu"
+  },
+  {
+    "nl": "onderstande",
+    "tr": "asagıda"
+  },
+  {
+    "nl": "bezig",
+    "tr": "meşgul"
+  },
+  {
+    "nl": "publiek",
+    "tr": "halk, kamu"
+  },
+  {
+    "nl": "klappen, slaan",
+    "tr": "alkislamak"
+  },
+  {
+    "nl": "durven",
+    "tr": "cesaret etmek"
+  },
+  {
+    "nl": "opzeggen",
+    "tr": "iptal etmek"
+  },
+  {
+    "nl": "emigreren",
+    "tr": "göç etmek"
+  },
+  {
+    "nl": "haasten",
+    "tr": "acele etmek"
+  },
+  {
+    "nl": "verdwenen",
+    "tr": "ortadan kaybolmak"
+  },
+  {
+    "nl": "beklimmen",
+    "tr": "tırmanmak"
+  },
+  {
+    "nl": "overnachten",
+    "tr": "gecelemek"
+  },
+  {
+    "nl": "logeren",
+    "tr": "kalmak"
+  },
+  {
+    "nl": "verblijven",
+    "tr": "kalmak"
+  },
+  {
+    "nl": "duiken",
+    "tr": "dalmak"
+  },
+  {
+    "nl": "varen voer voeren gevaren",
+    "tr": "acilmak"
+  },
+  {
+    "nl": "klimmen",
+    "tr": "tırmanmak"
+  },
+  {
+    "nl": "opgravingen",
+    "tr": "kazilar"
+  },
+  {
+    "nl": "bezichtigen",
+    "tr": "ziyaret"
+  },
+  {
+    "nl": "glijden",
+    "tr": "kaymak"
+  },
+  {
+    "nl": "de glijbaan",
+    "tr": "kaydırak"
+  },
+  {
+    "nl": "schommelen",
+    "tr": "salinmak"
+  },
+  {
+    "nl": "de schommel",
+    "tr": "salıncak"
+  },
+  {
+    "nl": "wippen (op twee poten)",
+    "tr": "sallanmak"
+  },
+  {
+    "nl": "de wipwap",
+    "tr": "tahteravalli"
+  },
+  {
+    "nl": "het klimrek (-rekken)",
+    "tr": "tirmanma cercevesi"
+  },
+  {
+    "nl": "duikbril",
+    "tr": "dalis gozlugu"
+  },
+  {
+    "nl": "de zonnebrandcrème",
+    "tr": "gunes kremi"
+  },
+  {
+    "nl": "de pet",
+    "tr": "şapka"
+  },
+  {
+    "nl": "de hoed",
+    "tr": "şapka"
+  },
+  {
+    "nl": "de ski's",
+    "tr": "kayak"
+  },
+  {
+    "nl": "het badbak",
+    "tr": "kuvet"
+  },
+  {
+    "nl": "aantrekken",
+    "tr": "giymek"
+  },
+  {
+    "nl": "afzetten",
+    "tr": "cikarmak"
+  },
+  {
+    "nl": "aandoen",
+    "tr": "giymek"
+  },
+  {
+    "nl": "annuleren",
+    "tr": "iptal etmek"
+  },
+  {
+    "nl": "blokkeren",
+    "tr": "engellemek"
+  },
+  {
+    "nl": "controleren",
+    "tr": "kontrol etmek"
+  },
+  {
+    "nl": "opzetten",
+    "tr": "takmak"
+  },
+  {
+    "nl": "smeren",
+    "tr": "sürmek"
+  },
+  {
+    "nl": "uitdoen",
+    "tr": "çıkarmak"
+  },
+  {
+    "nl": "verlengen",
+    "tr": "uzatmak"
+  },
+  {
+    "nl": "het uitzendbureau",
+    "tr": "iş bulma kurumu"
+  },
+  {
+    "nl": "tijdelijk",
+    "tr": "geçici"
+  },
+  {
+    "nl": "de opleiding",
+    "tr": "eğitim"
+  },
+  {
+    "nl": "de horeca",
+    "tr": "hotel restaurant kafe"
+  },
+  {
+    "nl": "sluit aan bij (aansluiten bij)",
+    "tr": "ile tutarli-uyumlu"
+  },
+  {
+    "nl": "beschikbaar",
+    "tr": "müsait"
+  },
+  {
+    "nl": "de ervaring",
+    "tr": "deneyim"
+  },
+  {
+    "nl": "bevallen, leuk vinden",
+    "tr": "iyi bulmak"
+  },
+  {
+    "nl": "serveren",
+    "tr": "hizmet etmek"
+  },
+  {
+    "nl": "in ieder geval",
+    "tr": "neyseki"
+  },
+  {
+    "nl": "zo ... mogelijk",
+    "tr": "eger mumkunse"
+  },
+  {
+    "nl": "de kwaliteit",
+    "tr": "nitelik"
+  },
+  {
+    "nl": "klantvriendelijk",
+    "tr": "musteri dostu"
+  },
+  {
+    "nl": "benieuwd",
+    "tr": "meraklı"
+  },
+  {
+    "nl": "de bediening = de service",
+    "tr": "hizmet"
+  },
+  {
+    "nl": "juist",
+    "tr": "true"
+  },
+  {
+    "nl": "gebied",
+    "tr": "alan"
+  },
+  {
+    "nl": "ongeduldig",
+    "tr": "sabırsız"
+  },
+  {
+    "nl": "vacature, de",
+    "tr": "iş ilanı"
+  },
+  {
+    "nl": "gebruikvriendelijk",
+    "tr": "kullanici dostu"
+  },
+  {
+    "nl": "werkgever",
+    "tr": "işveren"
+  },
+  {
+    "nl": "stressbestendig",
+    "tr": "strese dayanıklı"
+  },
+  {
+    "nl": "Flexibele baan",
+    "tr": "esnek is"
+  },
+  {
+    "nl": "betrouwbaar",
+    "tr": "güvenilir"
+  },
+  {
+    "nl": "secuur",
+    "tr": "kesin"
+  },
+  {
+    "nl": "doelgericht",
+    "tr": "hedef odakli"
+  },
+  {
+    "nl": "ondernemend",
+    "tr": "girisimci"
+  },
+  {
+    "nl": "klantgericht",
+    "tr": "müşteri odaklı"
+  },
+  {
+    "nl": "geduldig zijn",
+    "tr": "sabırlı olmak"
+  },
+  {
+    "nl": "overleggen",
+    "tr": "danışmak"
+  },
+  {
+    "nl": "onder stress werken",
+    "tr": "stres altinda calismak"
+  },
+  {
+    "nl": "waarmee",
+    "tr": "Ne ile"
+  },
+  {
+    "nl": "solliciteren op",
+    "tr": "basvurmak"
+  },
+  {
+    "nl": "het sollicitatiegesprek",
+    "tr": "iş görüşmesi"
+  },
+  {
+    "nl": "goed voor de dag komen",
+    "tr": "iyi gorunmek"
+  },
+  {
+    "nl": "zich verdiepen",
+    "tr": "kendini kaptirmak"
+  },
+  {
+    "nl": "van tevoren",
+    "tr": "önceden"
+  },
+  {
+    "nl": "indruk maken op",
+    "tr": "etkilemek"
+  },
+  {
+    "nl": "de toekomstvisie",
+    "tr": "gelecek vizyonu"
+  },
+  {
+    "nl": "interesse tonen",
+    "tr": "ilgi göstermek"
+  },
+  {
+    "nl": "de werkzaamheden",
+    "tr": "faaliyetler"
+  },
+  {
+    "nl": "raar",
+    "tr": "tuhaf"
+  },
+  {
+    "nl": "verwijderen",
+    "tr": "kaldırmak"
+  },
+  {
+    "nl": "het beeld (-en)",
+    "tr": "goruntu"
+  },
+  {
+    "nl": "de bedrijfscultuur",
+    "tr": "sirket kulturu"
+  },
+  {
+    "nl": "adviezen",
+    "tr": "tavsiye vermek"
+  },
+  {
+    "nl": "leidinggeven",
+    "tr": "liderlik etmek"
+  },
+  {
+    "nl": "taken uitvoeren",
+    "tr": "gorevleri yerine getirrmek"
+  },
+  {
+    "nl": "zich ziek melden",
+    "tr": "hastalık izni almak"
+  },
+  {
+    "nl": "verstand hebben van",
+    "tr": "anlamak"
+  },
+  {
+    "nl": "verantwoordelijk zijn voor",
+    "tr": "sorumlu olmak"
+  },
+  {
+    "nl": "werk overdragen aan",
+    "tr": "is transfer etmek"
+  },
+  {
+    "nl": "afhankelijk zijn van",
+    "tr": "bağlı olmak"
+  },
+  {
+    "nl": "slecht zijn in",
+    "tr": "kotu olmak"
+  },
+  {
+    "nl": "gebruik maken van",
+    "tr": "kullanmak"
+  },
+  {
+    "nl": "kapper, de",
+    "tr": "berber"
+  },
+  {
+    "nl": "wassen",
+    "tr": "yıkamak"
+  },
+  {
+    "nl": "de wasbak",
+    "tr": "lavabo"
+  },
+  {
+    "nl": "de kraan (kranen)",
+    "tr": "musluk"
+  },
+  {
+    "nl": "knippen",
+    "tr": "kesmek"
+  },
+  {
+    "nl": "de schaar (scharen)",
+    "tr": "makas"
+  },
+  {
+    "nl": "kammen",
+    "tr": "taramak"
+  },
+  {
+    "nl": "de kam",
+    "tr": "tarak"
+  },
+  {
+    "nl": "de spiegel",
+    "tr": "ayna"
+  },
+  {
+    "nl": "de timmerman",
+    "tr": "marangoz"
+  },
+  {
+    "nl": "zagen",
+    "tr": "testere ile kesmek"
+  },
+  {
+    "nl": "de zaag",
+    "tr": "testere"
+  },
+  {
+    "nl": "timmeren",
+    "tr": "çekiçlemek"
+  },
+  {
+    "nl": "de hamer, de hamers",
+    "tr": "çekiç"
+  },
+  {
+    "nl": "de spijker",
+    "tr": "çivi"
+  },
+  {
+    "nl": "boren",
+    "tr": "delmek"
+  },
+  {
+    "nl": "de boor",
+    "tr": "matkap"
+  },
+  {
+    "nl": "de schroeven",
+    "tr": "vida"
+  },
+  {
+    "nl": "draaier",
+    "tr": "tornavida"
+  },
+  {
+    "nl": "de kunstenaar",
+    "tr": "sanatçı"
+  },
+  {
+    "nl": "beeldhouwen",
+    "tr": "sekil vermek"
+  },
+  {
+    "nl": "de klei",
+    "tr": "kil"
+  },
+  {
+    "nl": "de steen",
+    "tr": "taş"
+  },
+  {
+    "nl": "de beitel",
+    "tr": "keski"
+  },
+  {
+    "nl": "schilderen",
+    "tr": "resim yapmak"
+  },
+  {
+    "nl": "de ezel",
+    "tr": "eşek"
+  },
+  {
+    "nl": "het doek",
+    "tr": "tuval"
+  },
+  {
+    "nl": "de verf",
+    "tr": "boya"
+  },
+  {
+    "nl": "tekenen",
+    "tr": "çizmek"
+  },
+  {
+    "nl": "de viltstift",
+    "tr": "keceli kalem"
+  },
+  {
+    "nl": "het krijt",
+    "tr": "tebeşir"
+  },
+  {
+    "nl": "harken (harkte, heeft geharkt)",
+    "tr": "tirmiklamak"
+  },
+  {
+    "nl": "hark",
+    "tr": "tirmik"
+  },
+  {
+    "nl": "schoffelen",
+    "tr": "capalamak"
+  },
+  {
+    "nl": "schoffel",
+    "tr": "capa"
+  },
+  {
+    "nl": "de gieter",
+    "tr": "sulama kabı"
+  },
+  {
+    "nl": "de sproeier",
+    "tr": "sulama aparati"
+  },
+  {
+    "nl": "beplanten",
+    "tr": "dikmek"
+  },
+  {
+    "nl": "de schep",
+    "tr": "kürek"
+  },
+  {
+    "nl": "de secretaresse",
+    "tr": "sekreter"
+  },
+  {
+    "nl": "nieten",
+    "tr": "zimba"
+  },
+  {
+    "nl": "perforeren",
+    "tr": "delmek"
+  },
+  {
+    "nl": "de perforator",
+    "tr": "delici"
+  },
+  {
+    "nl": "notuleren",
+    "tr": "not almak"
+  },
+  {
+    "nl": "de politieagent",
+    "tr": "polis memuru"
+  },
+  {
+    "nl": "bekeuring",
+    "tr": "ceza"
+  },
+  {
+    "nl": "bekeuren",
+    "tr": "ceza yazmak"
+  },
+  {
+    "nl": "(de) boete betalen",
+    "tr": "ceza odemek"
+  },
+  {
+    "nl": "in de handboeien slaan",
+    "tr": "kelepcelemek"
+  },
+  {
+    "nl": "de handboeien",
+    "tr": "kelepce"
+  },
+  {
+    "nl": "schieten",
+    "tr": "ateş etmek"
+  },
+  {
+    "nl": "het pistool",
+    "tr": "Silah 2"
+  },
+  {
+    "nl": "beschermen",
+    "tr": "korumak"
+  },
+  {
+    "nl": "de schoonmaker",
+    "tr": "Temizlikçi"
+  },
+  {
+    "nl": "stofzuigen",
+    "tr": "süpürmek"
+  },
+  {
+    "nl": "de stofzuiger",
+    "tr": "elektrikli süpürge"
+  },
+  {
+    "nl": "afstoffen",
+    "tr": "tozunu almak"
+  },
+  {
+    "nl": "de stofdoek",
+    "tr": "toz bezi"
+  },
+  {
+    "nl": "ramen lappen",
+    "tr": "pencereleri temizlemek"
+  },
+  {
+    "nl": "de emmer",
+    "tr": "kova"
+  },
+  {
+    "nl": "het doekje, de doekjes",
+    "tr": "ıslak bez"
+  },
+  {
+    "nl": "de verpleegkundige",
+    "tr": "hemşire"
+  },
+  {
+    "nl": "vaccineren",
+    "tr": "asi yapmak"
+  },
+  {
+    "nl": "een vaccinatie geven",
+    "tr": "asi yapmak"
+  },
+  {
+    "nl": "de vaccinatiespuit",
+    "tr": "enjektor"
+  },
+  {
+    "nl": "de temperatuur opnemen",
+    "tr": "sicakligi olcmek"
+  },
+  {
+    "nl": "de thermometer",
+    "tr": "termometre"
+  },
+  {
+    "nl": "een wond verbinden",
+    "tr": "yarayi sarmak"
+  },
+  {
+    "nl": "het verband",
+    "tr": "bandaj"
+  },
+  {
+    "nl": "een medicijn geven",
+    "tr": "ilac vermek"
+  },
+  {
+    "nl": "het medicijn",
+    "tr": "ilaç"
+  },
+  {
+    "nl": "de naaister",
+    "tr": "terzi"
+  },
+  {
+    "nl": "naaien",
+    "tr": "dikmek"
+  },
+  {
+    "nl": "kleiding repareren",
+    "tr": "elbise tamir etmek"
+  },
+  {
+    "nl": "naald en draad",
+    "tr": "igne iplik"
+  },
+  {
+    "nl": "de stof",
+    "tr": "kumaş"
+  },
+  {
+    "nl": "de naaimachine",
+    "tr": "dikiş makinesi"
+  },
+  {
+    "nl": "bouwzeker",
+    "tr": "insaatci"
+  },
+  {
+    "nl": "stage lopen",
+    "tr": "staj yapmak"
+  },
+  {
+    "nl": "aanbieden",
+    "tr": "teklif etmek"
+  },
+  {
+    "nl": "gaan over",
+    "tr": "hakkında olmak"
+  },
+  {
+    "nl": "beschikbaar",
+    "tr": "mevcut, uygun, müsait"
+  },
+  {
+    "nl": "richting",
+    "tr": "yön"
+  },
+  {
+    "nl": "aangezien",
+    "tr": "çünkü"
+  },
+  {
+    "nl": "het filiaal",
+    "tr": "şube"
+  },
+  {
+    "nl": "rekening houden met",
+    "tr": "hesaba katmak"
+  },
+  {
+    "nl": "eventueel",
+    "tr": "muhtemelen"
+  },
+  {
+    "nl": "vergoeden",
+    "tr": "geri ödemek"
+  },
+  {
+    "nl": "passend, geschikt",
+    "tr": "uygun"
+  },
+  {
+    "nl": "de aanmelding",
+    "tr": "kayit"
+  },
+  {
+    "nl": "contact opnemen met",
+    "tr": "İletişim"
+  },
+  {
+    "nl": "opvang",
+    "tr": "bakim"
+  },
+  {
+    "nl": "verantwoordelijk",
+    "tr": "sorumlu"
+  },
+  {
+    "nl": "afhankelijk",
+    "tr": "bağımlı"
+  },
+  {
+    "nl": "onderhoudsservice",
+    "tr": "bakim servisi"
+  },
+  {
+    "nl": "Leerachterstand",
+    "tr": "Öğrenme güçlüğü"
+  },
+  {
+    "nl": "parkeervergunning",
+    "tr": "Park izni"
+  },
+  {
+    "nl": "tanken (tankte, h. getankt)",
+    "tr": "yakit almak"
+  },
+  {
+    "nl": "belangstelling",
+    "tr": "ilgi"
+  },
+  {
+    "nl": "verkoopcijfers",
+    "tr": "satis rakamlari"
+  },
+  {
+    "nl": "doorverbinden",
+    "tr": "baglamak tel"
+  },
+  {
+    "nl": "rest van de week",
+    "tr": "haftanin geri kalani"
+  },
+  {
+    "nl": "stagevergoeding",
+    "tr": "staj ödeneği"
+  },
+  {
+    "nl": "bereikbaar",
+    "tr": "ulaşılabilir"
+  },
+  {
+    "nl": "in vergadering zijn",
+    "tr": "toplantida"
+  },
+  {
+    "nl": "afweizig",
+    "tr": "mevcut degil"
+  },
+  {
+    "nl": "afgemaakt",
+    "tr": "bitmis"
+  },
+  {
+    "nl": "waarderen",
+    "tr": "takdir etmek"
+  },
+  {
+    "nl": "moeite",
+    "tr": "çaba"
+  },
+  {
+    "nl": "afronden",
+    "tr": "tamamlamak"
+  },
+  {
+    "nl": "werkzaamheden",
+    "tr": "faaliyetler"
+  },
+  {
+    "nl": "verpleeghuizen",
+    "tr": "bakim evleri"
+  },
+  {
+    "nl": "meedelen",
+    "tr": "bildirmek"
+  },
+  {
+    "nl": "vertellen",
+    "tr": "anlatmak"
+  },
+  {
+    "nl": "verzoeken",
+    "tr": "rica etmek"
+  },
+  {
+    "nl": "wellicht",
+    "tr": "belki"
+  },
+  {
+    "nl": "lief en leed",
+    "tr": "daha iyi"
+  },
+  {
+    "nl": "liefde op het eerste gezicht",
+    "tr": "ilk goruste ask"
+  },
+  {
+    "nl": "vreemdgaan",
+    "tr": "aldatmak"
+  },
+  {
+    "nl": "zoenen",
+    "tr": "öpmek"
+  },
+  {
+    "nl": "tijd doorbrengen",
+    "tr": "zaman harcamak"
+  },
+  {
+    "nl": "vertrouwen",
+    "tr": "güvenmek"
+  },
+  {
+    "nl": "ergens mee zitten",
+    "tr": "aklinda bir sey var"
+  },
+  {
+    "nl": "op iemand rekenen",
+    "tr": "birine guvenmek"
+  },
+  {
+    "nl": "het maatje",
+    "tr": "arkadaş"
+  },
+  {
+    "nl": "de kerel, de gast",
+    "tr": "adfam-misafir"
+  },
+  {
+    "nl": "een hekel hebben aan",
+    "tr": "nefret etmek"
+  },
+  {
+    "nl": "zeuren",
+    "tr": "sızlanmak"
+  },
+  {
+    "nl": "rekening houden met",
+    "tr": "hesaba katmak"
+  },
+  {
+    "nl": "de ruzie",
+    "tr": "kavga"
+  },
+  {
+    "nl": "uitstaan",
+    "tr": "dikkat cekmek"
+  },
+  {
+    "nl": "asociaal",
+    "tr": "asosyal"
+  },
+  {
+    "nl": "missen",
+    "tr": "özlemek"
+  },
+  {
+    "nl": "Ik zal hem missen als kiespijn.",
+    "tr": "onu dis agrisi gibi ozleyecehim"
+  },
+  {
+    "nl": "uitmaken",
+    "tr": "ayrılmak"
+  },
+  {
+    "nl": "verliefd zijn op",
+    "tr": "aşık olmak"
+  },
+  {
+    "nl": "vergeven",
+    "tr": "affetmek"
+  },
+  {
+    "nl": "dikke vrienden",
+    "tr": "yakin arkadas"
+  },
+  {
+    "nl": "tennis vereniging",
+    "tr": "tenis kulubu"
+  },
+  {
+    "nl": "volledig",
+    "tr": "tamamen"
+  },
+  {
+    "nl": "bouwen",
+    "tr": "inşa etmek"
+  },
+  {
+    "nl": "sociaal",
+    "tr": "sosyal"
+  },
+  {
+    "nl": "gesloten",
+    "tr": "kapalı"
+  },
+  {
+    "nl": "dapper",
+    "tr": "cesur"
+  },
+  {
+    "nl": "laf",
+    "tr": "korkak"
+  },
+  {
+    "nl": "geduldig, ongeduldig",
+    "tr": "sabırlı/sabırsız"
+  },
+  {
+    "nl": "lui",
+    "tr": "tembel"
+  },
+  {
+    "nl": "ijverig",
+    "tr": "çalışkan"
+  },
+  {
+    "nl": "optimistische",
+    "tr": "iyimser"
+  },
+  {
+    "nl": "pessimistisch (m/f)",
+    "tr": "kotumser"
+  },
+  {
+    "nl": "nuchter",
+    "tr": "ağırbaşlı"
+  },
+  {
+    "nl": "gevoelig",
+    "tr": "hassas"
+  },
+  {
+    "nl": "bescheiden zijn",
+    "tr": "mutevazi"
+  },
+  {
+    "nl": "dominante",
+    "tr": "baskin"
+  },
+  {
+    "nl": "eerlijk",
+    "tr": "dürüst"
+  },
+  {
+    "nl": "betrouwbaar",
+    "tr": "güvenilir"
+  },
+  {
+    "nl": "oneerlijk",
+    "tr": "durust olmayan"
+  },
+  {
+    "nl": "onbetrouwbaar",
+    "tr": "güvenilmez"
+  },
+  {
+    "nl": "eigenwijs",
+    "tr": "inatçı"
+  },
+  {
+    "nl": "meegaand",
+    "tr": "uzlaşmacı"
+  },
+  {
+    "nl": "flexibel zijn",
+    "tr": "esnek"
+  },
+  {
+    "nl": "star",
+    "tr": "sabit"
+  },
+  {
+    "nl": "grappig",
+    "tr": "eğlenceli"
+  },
+  {
+    "nl": "saai",
+    "tr": "sıkıcı"
+  },
+  {
+    "nl": "nieuwsgierig",
+    "tr": "meraklı"
+  },
+  {
+    "nl": "ongeinteresseerd",
+    "tr": "ilgisiz"
+  },
+  {
+    "nl": "slordig",
+    "tr": "dağınık"
+  },
+  {
+    "nl": "netjes",
+    "tr": "duzenli"
+  },
+  {
+    "nl": "onzeker",
+    "tr": "belirsiz"
+  },
+  {
+    "nl": "zelverzekerd",
+    "tr": "kendinden emin"
+  },
+  {
+    "nl": "onzichtbaar",
+    "tr": "görünmez"
+  },
+  {
+    "nl": "evenwichtig",
+    "tr": "dengeli"
+  },
+  {
+    "nl": "consequent",
+    "tr": "surekli"
+  },
+  {
+    "nl": "creatief",
+    "tr": "üretken"
+  },
+  {
+    "nl": "chaotisch",
+    "tr": "kaotik"
+  },
+  {
+    "nl": "overmoedig",
+    "tr": "kendine asiri guvenen"
+  },
+  {
+    "nl": "brutaal",
+    "tr": "kaba"
+  },
+  {
+    "nl": "enthousiast",
+    "tr": "hevesli"
+  },
+  {
+    "nl": "impulsief",
+    "tr": "fevri"
+  },
+  {
+    "nl": "passief",
+    "tr": "pasif"
+  },
+  {
+    "nl": "fanatiek",
+    "tr": "fanatik"
+  },
+  {
+    "nl": "onafhankelijk",
+    "tr": "bağımsız"
+  },
+  {
+    "nl": "afstandelijk",
+    "tr": "mesafeli"
+  },
+  {
+    "nl": "naïef",
+    "tr": "toy"
+  },
+  {
+    "nl": "serieus",
+    "tr": "ciddi"
+  },
+  {
+    "nl": "gewoon",
+    "tr": "sadece"
+  },
+  {
+    "nl": "arrogant",
+    "tr": "kibirli"
+  },
+  {
+    "nl": "het hoofd",
+    "tr": "kafa"
+  },
+  {
+    "nl": "naar voren",
+    "tr": "ılerı"
+  },
+  {
+    "nl": "achteren buigen",
+    "tr": "geriye egilmek"
+  },
+  {
+    "nl": "het gezicht",
+    "tr": "yüz"
+  },
+  {
+    "nl": "naar links, naar rechts",
+    "tr": "sola ,saga"
+  },
+  {
+    "nl": "het haar",
+    "tr": "saç"
+  },
+  {
+    "nl": "kammen",
+    "tr": "taramak"
+  },
+  {
+    "nl": "de neus",
+    "tr": "burun"
+  },
+  {
+    "nl": "snuiten",
+    "tr": "sümkürmek"
+  },
+  {
+    "nl": "geur",
+    "tr": "koku"
+  },
+  {
+    "nl": "de wenkbrauw",
+    "tr": "kaş"
+  },
+  {
+    "nl": "optrekken",
+    "tr": "hareket etmek"
+  },
+  {
+    "nl": "de tanden, de kiezen",
+    "tr": "disler"
+  },
+  {
+    "nl": "poetsen",
+    "tr": "fırçalamak"
+  },
+  {
+    "nl": "de nek",
+    "tr": "boyun"
+  },
+  {
+    "nl": "draaien",
+    "tr": "dönmek"
+  },
+  {
+    "nl": "de mond",
+    "tr": "ağız"
+  },
+  {
+    "nl": "open",
+    "tr": "acmak"
+  },
+  {
+    "nl": "dicht doen",
+    "tr": "kapatmak"
+  },
+  {
+    "nl": "de lip",
+    "tr": "dudak"
+  },
+  {
+    "nl": "bewegen, bewoog, bewogen",
+    "tr": "hareket etmek"
+  },
+  {
+    "nl": "de tong",
+    "tr": "dil"
+  },
+  {
+    "nl": "uitsteken",
+    "tr": "disari cikarmak"
+  },
+  {
+    "nl": "de wang",
+    "tr": "yanak"
+  },
+  {
+    "nl": "het oog",
+    "tr": "göz"
+  },
+  {
+    "nl": "het oor",
+    "tr": "kulak"
+  },
+  {
+    "nl": "de schouder",
+    "tr": "omuz"
+  },
+  {
+    "nl": "omhoog trekken",
+    "tr": "yukari cekmek"
+  },
+  {
+    "nl": "omlaag doen",
+    "tr": "dusurmek"
+  },
+  {
+    "nl": "de arm",
+    "tr": "kol"
+  },
+  {
+    "nl": "strekken",
+    "tr": "uzatmak"
+  },
+  {
+    "nl": "buigen",
+    "tr": "eğilmek"
+  },
+  {
+    "nl": "de elleboog",
+    "tr": "dirsek"
+  },
+  {
+    "nl": "de pols",
+    "tr": "bilek"
+  },
+  {
+    "nl": "de vinger",
+    "tr": "parmak"
+  },
+  {
+    "nl": "de buik",
+    "tr": "karın"
+  },
+  {
+    "nl": "inhouden",
+    "tr": "kapsamak"
+  },
+  {
+    "nl": "de heup",
+    "tr": "kalça"
+  },
+  {
+    "nl": "de rug",
+    "tr": "sırt"
+  },
+  {
+    "nl": "recht houden (hield recht, heb recht gehouden)",
+    "tr": "duz tutmak"
+  },
+  {
+    "nl": "het been, de benen",
+    "tr": "bacak"
+  },
+  {
+    "nl": "de knie",
+    "tr": "diz"
+  },
+  {
+    "nl": "de voet",
+    "tr": "ayak"
+  },
+  {
+    "nl": "de teen",
+    "tr": "ayak parmağı"
+  },
+  {
+    "nl": "naar je toe trekken",
+    "tr": "sana dogru cekmek"
+  },
+  {
+    "nl": "de enkel",
+    "tr": "ayak bileği"
+  },
+  {
+    "nl": "halflang",
+    "tr": "orta uzunlukta"
+  },
+  {
+    "nl": "dun, mager",
+    "tr": "buyuleyici"
+  },
+  {
+    "nl": "oorbellen",
+    "tr": "mucevher"
+  },
+  {
+    "nl": "de ring",
+    "tr": "yüzük"
+  },
+  {
+    "nl": "de ketting",
+    "tr": "zincir"
+  },
+  {
+    "nl": "de armband",
+    "tr": "bilezik"
+  },
+  {
+    "nl": "de sjaal",
+    "tr": "şal"
+  },
+  {
+    "nl": "de tas",
+    "tr": "çanta"
+  },
+  {
+    "nl": "de bril",
+    "tr": "gözlük"
+  },
+  {
+    "nl": "het horloge",
+    "tr": "kol saati"
+  }
+]
