@@ -459,6 +459,19 @@ export default function Dashboard() {
           </div>
         </Link>
 
+        {/* Feedback */}
+        <Link
+          href="/meer/feedback"
+          className="bg-[var(--ds-blue)] p-4 flex flex-col justify-between hover:opacity-90 transition-opacity"
+          style={{ gridColumn: "span 2", minHeight: "75px" }}
+        >
+          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-65">FEEDBACK & SUPPORT</span>
+          <div className="flex items-end justify-between">
+            <span className="text-xs text-[var(--ds-white)] opacity-55">Meld een fout of stel een functie voor</span>
+            <span className="text-[var(--ds-white)] opacity-60"><ArrowRight /></span>
+          </div>
+        </Link>
+
       </div>
     </div>
   );

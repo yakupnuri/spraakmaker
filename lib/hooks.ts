@@ -66,7 +66,7 @@ export function useMoedertaal() {
 
   // Returns translation from an object that has "tr" field as fallback
   const translate = useCallback(
-    (item: Record<string, string>) => {
+    (item: any) => {
       return item[moedertaal] ?? item["tr"] ?? "";
     },
     [moedertaal]
