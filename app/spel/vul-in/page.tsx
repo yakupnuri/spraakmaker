@@ -90,6 +90,21 @@ const VUL_IN_EXPLANATIONS: Record<string, {
   }
 };
 
+function RevealableText({ text, isAdvanced }: { text: string; isAdvanced: boolean }) {
+  const [revealed, setRevealed] = useState(false);
+  if (!isAdvanced) return <>{text}</>;
+  if (revealed) return <>{text}</>;
+  return (
+    <button
+      onClick={() => setRevealed(true)}
+      className="text-[10px] font-bold text-[var(--ds-blue)] hover:underline border-none bg-none p-0 cursor-pointer inline-block"
+      style={{ background: 'none', border: 'none', padding: 0 }}
+    >
+      [toon vertaling]
+    </button>
+  );
+}
+
 export default function VulInPage() {
   const { moedertaal } = useMoedertaal();
   const { updateProgress } = useProgress();
@@ -107,6 +122,16 @@ export default function VulInPage() {
   const [correctHistory, setCorrectHistory] = useState<Array<{ tr: string; nl: string; word: string }>>([]);
   const [wrongHistory, setWrongHistory] = useState<Array<{ tr: string; nl: string; userAnswer: string; targetWord: string; explanation: string; unknownWord?: string }>>([]);
   const inputRef = useRef<HTMLInputElement>(null);
+
+  const [isAdvanced, setIsAdvanced] = useState(false);
+  const [hintRevealed, setHintRevealed] = useState(false);
+
+  useEffect(() => {
+    const level = localStorage.getItem("spraakmaker-niveau");
+    if (level === "B1" || level === "B2") {
+      setIsAdvanced(true);
+    }
+  }, []);
 
   const toggleSource = (id: string) => {
     setSelectedSources((prev) =>
@@ -143,6 +168,7 @@ export default function VulInPage() {
     setGap(buildGap(zin.nl));
     setInput("");
     setFeedback(null);
+    setHintRevealed(false);
     setQuestionNum((n) => n + 1);
     setTimeout(() => inputRef.current?.focus(), 100);
   }
@@ -424,7 +450,17 @@ export default function VulInPage() {
         {/* Translation hint */}
         <div className="bg-[var(--ds-gray)] border-[3px] border-[var(--ds-black)] p-4">
           <p className="text-[10px] font-bold uppercase tracking-widest opacity-50 mb-1">VERTALING</p>
-          <p className="font-medium text-[var(--ds-black)]">{current?.tr}</p>
+          {isAdvanced && !hintRevealed ? (
+            <button
+              onClick={() => setHintRevealed(true)}
+              className="text-xs font-bold text-[var(--ds-blue)] hover:underline border-none bg-none p-0 cursor-pointer block text-left"
+              style={{ background: 'none', border: 'none', padding: 0 }}
+            >
+              [toon vertaling]
+            </button>
+          ) : (
+            <p className="font-medium text-[var(--ds-black)]">{current?.tr}</p>
+          )}
         </div>
 
         {/* Sentence with gap */}
@@ -499,7 +535,7 @@ export default function VulInPage() {
                         {item.nl} <span className="text-[var(--ds-green)]">({item.word})</span>
                       </p>
                       <p className="text-[10px] md:text-xs text-[var(--ds-black)] opacity-60">
-                        {item.tr}
+                        <RevealableText text={item.tr} isAdvanced={isAdvanced} />
                       </p>
                     </div>
                   </div>
@@ -533,7 +569,7 @@ export default function VulInPage() {
                           Ingevuld: "{item.userAnswer || "?"}" (Moest zijn: "{item.targetWord}")
                         </p>
                         <p className="text-[10px] md:text-xs text-[var(--ds-black)] opacity-50 italic">
-                          Zin: {item.nl} ({item.tr})
+                          Zin: {item.nl} (<RevealableText text={item.tr} isAdvanced={isAdvanced} />)
                         </p>
                       </div>
                     </div>

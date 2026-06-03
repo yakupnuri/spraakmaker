@@ -23,6 +23,7 @@ const DEFAULT_PROGRESS: Progress = {
   settings: {
     dailyGoal: 15,
     theme: "system",
+    uiStyle: "modern",
   },
 };
 

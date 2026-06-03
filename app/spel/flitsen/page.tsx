@@ -72,6 +72,16 @@ function FlitsenGame() {
   const [isPaused, setIsPaused] = useState(false);
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
+  const [isAdvanced, setIsAdvanced] = useState(false);
+  const [hintRevealed, setHintRevealed] = useState(false);
+
+  useEffect(() => {
+    const level = localStorage.getItem("spraakmaker-niveau");
+    if (level === "B1" || level === "B2") {
+      setIsAdvanced(true);
+    }
+  }, []);
+
   // Load sentences from lessen.json
   useEffect(() => {
     fetch("/data/lessen.json")
@@ -171,6 +181,7 @@ function FlitsenGame() {
       const nextIndex = currentSentenceIndex + 1;
       const nextSentence = packSentences[nextIndex];
       setCurrentSentenceIndex(nextIndex);
+      setHintRevealed(false);
       if (nextSentence) {
         setTimeLeft(getSentenceTimeLimit(nextSentence));
       }
@@ -187,6 +198,7 @@ function FlitsenGame() {
       const prevIndex = currentSentenceIndex - 1;
       const prevSentence = packSentences[prevIndex];
       setCurrentSentenceIndex(prevIndex);
+      setHintRevealed(false);
       if (prevSentence) {
         setTimeLeft(getSentenceTimeLimit(prevSentence));
       }
@@ -590,9 +602,19 @@ function FlitsenGame() {
 
             {/* Local translation (NATIVE LANGUAGE - SMALL, MUTED) */}
             <div className="mt-8 border-t border-[rgba(0,0,0,0.1)] pt-4 text-center">
-              <p className="text-xs md:text-sm font-bold text-[var(--ds-black)] opacity-50 italic">
-                {translate(sentence)}
-              </p>
+              {isAdvanced && !hintRevealed ? (
+                <button
+                  onClick={() => setHintRevealed(true)}
+                  className="text-xs font-bold text-[var(--ds-blue)] hover:underline border-none bg-none p-0 cursor-pointer inline-block"
+                  style={{ background: 'none', border: 'none', padding: 0 }}
+                >
+                  [toon vertaling]
+                </button>
+              ) : (
+                <p className="text-xs md:text-sm font-bold text-[var(--ds-black)] opacity-50 italic">
+                  {translate(sentence)}
+                </p>
+              )}
             </div>
           </div>
 

@@ -83,3 +83,13 @@ export function IconArrowRight({ size = 20, className }: { size?: number; classN
     </svg>
   );
 }
+
+export function IconArrowLeft({ size = 20, className }: { size?: number; className?: string }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="2.5" className={className}>
+      <line x1="18" y1="10" x2="2" y2="10" />
+      <polyline points="9,3 2,10 9,17" />
+    </svg>
+  );
+}
+

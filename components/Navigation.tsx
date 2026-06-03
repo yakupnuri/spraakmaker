@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { IconHome, IconKaarten, IconSpel, IconLessen, IconMeer } from "./Icons";
+import { useProgress } from "@/lib/hooks";
 
 const NAV_ITEMS = [
   { href: "/", label: "HOME", Icon: IconHome },
@@ -19,26 +20,35 @@ function isActive(pathname: string, href: string) {
 
 export function BottomNav() {
   const pathname = usePathname();
+  const { progress } = useProgress();
+  const isModern = (progress.settings.uiStyle ?? "modern") === "modern";
+
+  const navClass = isModern
+    ? "fixed bottom-0 left-0 right-0 z-50 border-t border-[var(--border-color-modern)] bg-[var(--ds-white)] shadow-[0_-4px_12px_rgba(0,0,0,0.03)] py-1"
+    : "fixed bottom-0 left-0 right-0 z-50 border-t-[3px] border-[var(--ds-black)] bg-[var(--ds-white)]";
 
   return (
-    <nav
-      className="fixed bottom-0 left-0 right-0 z-50 border-t-[3px] border-[var(--ds-black)] bg-[var(--ds-white)]"
-      style={{ display: "flex" }}
-    >
-      {NAV_ITEMS.map(({ href, label, Icon }, i) => {
+    <nav className={navClass} style={{ display: "flex" }}>
+      {NAV_ITEMS.map(({ href, label, Icon }) => {
         const active = isActive(pathname, href);
-        return (
-          <Link
-            key={href}
-            href={href}
-            className={[
+        
+        const linkClass = isModern
+          ? [
+              "flex flex-col items-center justify-center py-2 flex-1 gap-1 transition-all duration-200",
+              active
+                ? "text-[var(--ds-yellow)]"
+                : "text-[var(--ds-black)] opacity-60 hover:opacity-100",
+            ].join(" ")
+          : [
               "flex flex-col items-center justify-center py-2 flex-1 gap-1",
               "border-r-[3px] border-[var(--ds-black)] last:border-r-0",
               active
                 ? "bg-[var(--ds-black)] text-[var(--ds-white)]"
                 : "bg-[var(--ds-white)] text-[var(--ds-black)]",
-            ].join(" ")}
-          >
+            ].join(" ");
+
+        return (
+          <Link key={href} href={href} className={linkClass}>
             <Icon size={18} />
             <span className="text-[9px] font-bold tracking-widest uppercase leading-none">
               {label}
@@ -53,19 +63,7 @@ export function BottomNav() {
 export function Logo() {
   return (
     <div className="flex items-center gap-3">
-      {/* SVG Logo İkonu */}
-      <svg width="46" height="46" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" className="flex-shrink-0">
-        <rect width="100" height="100" rx="24" fill="#1A1A1A" />
-        
-        {/* Üst dalga (Kırmızı) */}
-        <path d="M 24 38 C 24 28, 38 28, 55 28 H 76 C 76 28, 78 32, 70 36 C 60 40, 44 42, 36 46 C 30 50, 24 45, 24 38 Z" fill="#C23B22" />
-        
-        {/* Orta dalga (Beyaz) */}
-        <path d="M 24 50 C 24 42, 34 38, 56 38 C 66 38, 76 44, 76 50 C 76 56, 66 62, 44 62 C 34 62, 24 58, 24 50 Z" fill="#F5F2EB" />
-        
-        {/* Alt dalga (Sarı) */}
-        <path d="M 76 62 C 76 72, 62 72, 45 72 H 24 C 24 72, 22 68, 30 64 C 40 60, 56 58, 64 54 C 70 50, 76 55, 76 62 Z" fill="#F2C12E" />
-      </svg>
+      <img src="/favicon.png" alt="Spraakmaker Logo" className="w-[46px] h-[46px] rounded-xl flex-shrink-0 object-contain" />
       {/* Yazılar */}
       <div className="flex flex-col select-none text-left justify-center">
         <span className="text-3xl font-bold tracking-tight text-[var(--ds-black)] font-sans leading-none lowercase">
@@ -84,14 +82,21 @@ export function Logo() {
 
 export function TopNav() {
   const pathname = usePathname();
+  const { progress } = useProgress();
+  const isModern = (progress.settings.uiStyle ?? "modern") === "modern";
+
+  const navClass = isModern
+    ? "sticky top-0 z-50 border-b border-[var(--border-color-modern)] bg-[var(--ds-white)]/80 backdrop-blur-md flex items-stretch px-4 py-1"
+    : "sticky top-0 z-50 border-b-[3px] border-[var(--ds-black)] bg-[var(--ds-white)] flex items-stretch";
+
+  const logoWrapperClass = isModern
+    ? "px-4 py-2 flex items-center hover:opacity-80 transition-opacity"
+    : "px-6 py-3 border-r-[3px] border-[var(--ds-black)] hover:bg-[var(--ds-gray)] transition-colors flex items-center";
 
   return (
-    <nav className="sticky top-0 z-50 border-b-[3px] border-[var(--ds-black)] bg-[var(--ds-white)] flex items-stretch">
+    <nav className={navClass}>
       {/* Logo */}
-      <Link
-        href="/"
-        className="px-6 py-3 border-r-[3px] border-[var(--ds-black)] hover:bg-[var(--ds-gray)] transition-colors flex items-center"
-      >
+      <Link href="/" className={logoWrapperClass}>
         <Logo />
       </Link>
 
@@ -99,21 +104,27 @@ export function TopNav() {
       <div className="flex-1" />
 
       {/* Nav links */}
-      <div className="flex items-stretch">
+      <div className="flex items-center gap-1">
         {NAV_ITEMS.map(({ href, label }) => {
           const active = isActive(pathname, href);
-          return (
-            <Link
-              key={href}
-              href={href}
-              className={[
+          
+          const linkClass = isModern
+            ? [
+                "flex items-center px-4 py-2 text-xs font-bold tracking-widest uppercase transition-all duration-200 rounded-full",
+                active
+                  ? "bg-[rgba(0,173,181,0.08)] text-[var(--ds-yellow)]"
+                  : "text-[var(--ds-black)] opacity-70 hover:opacity-100 hover:bg-slate-100/50",
+              ].join(" ")
+            : [
                 "flex items-center px-5 py-4 text-sm font-bold tracking-widest uppercase",
                 "border-l-[3px] border-[var(--ds-black)]",
                 active
                   ? "bg-[var(--ds-black)] text-[var(--ds-white)]"
                   : "hover:bg-[var(--ds-gray)] transition-colors",
-              ].join(" ")}
-            >
+              ].join(" ");
+
+          return (
+            <Link key={href} href={href} className={linkClass}>
               {label}
             </Link>
           );

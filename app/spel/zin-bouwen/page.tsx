@@ -155,6 +155,21 @@ function explainDifference(userAnswer: string, correctAnswer: string, lang: stri
   return explanation || expl.defaultError;
 }
 
+function RevealableText({ text, isAdvanced }: { text: string; isAdvanced: boolean }) {
+  const [revealed, setRevealed] = useState(false);
+  if (!isAdvanced) return <>{text}</>;
+  if (revealed) return <>{text}</>;
+  return (
+    <button
+      onClick={() => setRevealed(true)}
+      className="text-[10px] font-bold text-[var(--ds-blue)] hover:underline border-none bg-none p-0 cursor-pointer inline-block"
+      style={{ background: 'none', border: 'none', padding: 0 }}
+    >
+      [toon vertaling]
+    </button>
+  );
+}
+
 function ZinBouwenGame() {
   const searchParams = useSearchParams();
   const lesId = searchParams.get("les");
@@ -174,6 +189,16 @@ function ZinBouwenGame() {
   // History tracking states
   const [correctHistory, setCorrectHistory] = useState<Array<{ tr: string; nl: string }>>([]);
   const [wrongHistory, setWrongHistory] = useState<Array<{ tr: string; nl: string; userAnswer: string; explanation: string }>>([]);
+
+  const [isAdvanced, setIsAdvanced] = useState(false);
+  const [hintRevealed, setHintRevealed] = useState(false);
+
+  useEffect(() => {
+    const level = localStorage.getItem("spraakmaker-niveau");
+    if (level === "B1" || level === "B2") {
+      setIsAdvanced(true);
+    }
+  }, []);
 
   const sensors = useSensors(
     useSensor(PointerSensor, { activationConstraint: { distance: 5 } }),
@@ -199,6 +224,7 @@ function ZinBouwenGame() {
     setWordIds(shuffle(words));
     setFeedback(null);
     setAttempts(0); // Hakları sıfırla
+    setHintRevealed(false);
   }
 
   useEffect(() => {
@@ -364,7 +390,17 @@ function ZinBouwenGame() {
       {/* Hint: moedertaal sentence */}
       <div className="px-4 pt-4 pb-2">
         <p className="text-[10px] font-bold uppercase tracking-widest opacity-40 mb-1">MAAK DE ZIN</p>
-        <p className="text-sm text-[var(--ds-black)] opacity-60">{current?.tr}</p>
+        {isAdvanced && !hintRevealed ? (
+          <button
+            onClick={() => setHintRevealed(true)}
+            className="text-xs font-bold text-[var(--ds-blue)] hover:underline border-none bg-none p-0 cursor-pointer block text-left"
+            style={{ background: 'none', border: 'none', padding: 0 }}
+          >
+            [toon vertaling]
+          </button>
+        ) : (
+          <p className="text-sm text-[var(--ds-black)] opacity-60">{current?.tr}</p>
+        )}
       </div>
 
       {/* Target area: current word order */}
@@ -429,7 +465,7 @@ function ZinBouwenGame() {
                       {item.nl}
                     </p>
                     <p className="text-[10px] md:text-xs text-[var(--ds-black)] opacity-60">
-                      {item.tr}
+                      <RevealableText text={item.tr} isAdvanced={isAdvanced} />
                     </p>
                   </div>
                 </div>
@@ -463,7 +499,7 @@ function ZinBouwenGame() {
                         {item.userAnswer}
                       </p>
                       <p className="text-[10px] md:text-xs text-[var(--ds-black)] opacity-50 italic">
-                        Hedef: {item.nl} ({item.tr})
+                        Hedef: {item.nl} (<RevealableText text={item.tr} isAdvanced={isAdvanced} />)
                       </p>
                     </div>
                   </div>

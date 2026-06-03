@@ -20,6 +20,7 @@
   --ds-white: #F5F2EB;
   --ds-gray: #D4D0C8;
   --ds-green: #2E8B57;
+  --border-color-modern: #1A1A1A;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -30,10 +31,157 @@
   }
 }
 
-/* De Stijl: Zero border-radius everywhere */
+/* Mondriaan / De Stijl Theme (Force primary colors if set) */
+html.ui-destijl {
+  --ds-red: #C23B22;
+  --ds-blue: #1B3F8B;
+  --ds-yellow: #F2C12E;
+  --ds-black: #1A1A1A;
+  --ds-white: #F5F2EB;
+  --ds-gray: #D4D0C8;
+  --ds-green: #2E8B57;
+}
+
+@media (prefers-color-scheme: dark) {
+  html.ui-destijl {
+    --ds-white: #1A1A1A;
+    --ds-black: #F5F2EB;
+    --ds-gray: #2C2C28;
+  }
+}
+
+/* Modern Default Theme (Navy & Turquoise) */
+html.ui-modern {
+  --ds-blue: #0f2d4a;       /* Deep Navy Blue */
+  --ds-yellow: #00adb5;     /* Vibrant Turquoise */
+  --ds-red: #1b4965;        /* Secondary Slate Navy */
+  --ds-black: #0f172a;      /* Text / Headers: Slate 900 */
+  --ds-white: #f8fafc;      /* Main Background: Slate 50 */
+  --ds-gray: #ffffff;       /* Card Background: Pure White */
+  --ds-green: #0d9488;      /* Success / Correct Answer: Teal */
+  --border-color-modern: rgba(15, 23, 42, 0.08); /* Soft slate border */
+}
+
+@media (prefers-color-scheme: dark) {
+  html.ui-modern {
+    --ds-blue: #1e3a8a;       /* Bright Navy Highlight */
+    --ds-yellow: #22d3ee;     /* Bright Turquoise */
+    --ds-red: #0284c7;        /* Secondary Sky Blue */
+    --ds-black: #f8fafc;      /* Text: Slate 50 */
+    --ds-white: #0f172a;      /* Main BG: Slate 900 */
+    --ds-gray: #1e293b;       /* Card BG: Slate 800 */
+    --ds-green: #34d399;      /* Success: Emerald 400 */
+    --border-color-modern: rgba(255, 255, 255, 0.1);
+  }
+}
+
 *, *::before, *::after {
-  border-radius: 0 !important;
   box-sizing: border-box;
+}
+
+/* De Stijl: Zero border-radius and no shadows everywhere */
+html.ui-destijl *, html.ui-destijl *::before, html.ui-destijl *::after {
+  border-radius: 0 !important;
+}
+html.ui-destijl * {
+  box-shadow: none !important;
+}
+
+/* ─── Modern UI Specific CSS Overrides ─────────────────────── */
+
+/* Thin out the heavy Mondrian borders */
+html.ui-modern .border-\[3px\] {
+  border-width: 1px !important;
+}
+html.ui-modern .border-b-\[3px\] {
+  border-width: 0 0 1px 0 !important;
+}
+html.ui-modern .border-t-\[3px\] {
+  border-width: 1px 0 0 0 !important;
+}
+html.ui-modern .border-r-\[3px\] {
+  border-width: 0 1px 0 0 !important;
+}
+html.ui-modern .border-l-\[3px\] {
+  border-width: 0 0 0 1px !important;
+}
+html.ui-modern .border-\[2px\] {
+  border-width: 1px !important;
+}
+
+/* Update border color to be soft and modern instead of heavy black */
+html.ui-modern .border-\[var\(--ds-black\)\] {
+  border-color: var(--border-color-modern) !important;
+}
+html.ui-modern .border-b-\[var\(--ds-black\)\] {
+  border-color: var(--border-color-modern) !important;
+}
+html.ui-modern .border-t-\[var\(--ds-black\)\] {
+  border-color: var(--border-color-modern) !important;
+}
+html.ui-modern .border-r-\[var\(--ds-black\)\] {
+  border-color: var(--border-color-modern) !important;
+}
+html.ui-modern .border-l-\[var\(--ds-black\)\] {
+  border-color: var(--border-color-modern) !important;
+}
+html.ui-modern .border-\[var\(--ds-gray\)\] {
+  border-color: var(--border-color-modern) !important;
+}
+
+/* Rounded corners for modern look */
+html.ui-modern a,
+html.ui-modern button,
+html.ui-modern input,
+html.ui-modern select,
+html.ui-modern textarea {
+  border-radius: 12px !important; /* rounded-xl */
+}
+
+/* Rounded corners for cards, grid tiles, lists, items */
+html.ui-modern .grid > a,
+html.ui-modern .grid > div,
+html.ui-modern [id^="les-"],
+html.ui-modern .rounded-tile {
+  border-radius: 16px !important; /* rounded-2xl */
+  overflow: hidden;
+}
+
+/* Add premium soft shadows to cards/tiles in modern UI */
+html.ui-modern .grid > a,
+html.ui-modern .grid > div,
+html.ui-modern [id^="les-"] {
+  box-shadow: 0 4px 6px -1px rgba(15, 23, 42, 0.05), 0 2px 4px -2px rgba(15, 23, 42, 0.05) !important;
+  border: 1px solid var(--border-color-modern) !important;
+}
+
+/* Smooth transitions for interactive elements */
+html.ui-modern a,
+html.ui-modern button,
+html.ui-modern input,
+html.ui-modern .grid > a {
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Hover effects for grid items/cards */
+html.ui-modern .grid > a:hover,
+html.ui-modern .grid > div:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 15px -3px rgba(15, 23, 42, 0.08), 0 4px 6px -4px rgba(15, 23, 42, 0.08) !important;
+  opacity: 1 !important;
+}
+
+/* Remove Mondrian grid background line gaps */
+html.ui-modern .bg-\[var\(--ds-black\)\]:not(button):not(a):not(nav):not(.sticky):not(.bg-header):not(.bottom-nav) {
+  background-color: transparent !important;
+}
+
+/* Fix main page outer grid padding & gaps */
+html.ui-modern .p-\[3px\] {
+  padding: 16px !important;
+}
+html.ui-modern .grid.gap-\[3px\] {
+  gap: 16px !important;
 }
 
 html {
@@ -53,11 +201,6 @@ body {
   font-family: 'DM Sans', sans-serif;
   margin: 0;
   padding: 0;
-}
-
-/* No shadows in De Stijl */
-* {
-  box-shadow: none !important;
 }
 
 /* ─── Feedback Animations ─────────────────────── */

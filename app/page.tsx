@@ -129,6 +129,290 @@ export default function Dashboard() {
 
   const lessenPct = totalLessons > 0 ? Math.round((completedLessons / totalLessons) * 100) : 0;
 
+  const uiStyle = progress.settings.uiStyle ?? "modern";
+  const isModern = uiStyle === "modern";
+
+  if (isModern) {
+    return (
+      <div className="min-h-screen bg-[var(--ds-white)] pb-24 pt-6 px-4 md:px-8 max-w-4xl mx-auto flex flex-col gap-6">
+        {/* Karşılama ve Başlık */}
+        <div className="flex flex-col gap-1 select-none">
+          <h1 className="text-2xl font-bold tracking-tight text-[var(--ds-black)]">
+            Hoi! Laten we vandaag Nederlands leren.
+          </h1>
+          <p className="text-sm opacity-60">
+            Kies een module of ga door met je volgende les.
+          </p>
+        </div>
+
+        {/* İstatistik Kartları */}
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+          {/* Streak */}
+          <div className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center gap-3 shadow-[0_2px_8px_rgba(0,0,0,0.02)]">
+            <div className="w-10 h-10 rounded-xl bg-orange-100 flex items-center justify-center text-orange-500 text-lg">🔥</div>
+            <div className="flex flex-col">
+              <span className="text-xl font-bold text-[var(--ds-black)] leading-none">{streak}</span>
+              <span className="text-[10px] text-slate-400 font-bold uppercase tracking-wider mt-1">Dagen</span>
+            </div>
+          </div>
+          {/* Punten */}
+          <div className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center gap-3 shadow-[0_2px_8px_rgba(0,0,0,0.02)]">
+            <div className="w-10 h-10 rounded-xl bg-teal-100 flex items-center justify-center text-teal-500 text-lg">🏆</div>
+            <div className="flex flex-col">
+              <span className="text-xl font-bold text-[var(--ds-black)] leading-none">{totalPoints.toLocaleString("nl")}</span>
+              <span className="text-[10px] text-slate-400 font-bold uppercase tracking-wider mt-1">Punten</span>
+            </div>
+          </div>
+          {/* Kelimeler */}
+          <div className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center gap-3 shadow-[0_2px_8px_rgba(0,0,0,0.02)]">
+            <div className="w-10 h-10 rounded-xl bg-blue-100 flex items-center justify-center text-blue-500 text-lg">📖</div>
+            <div className="flex flex-col">
+              <span className="text-xl font-bold text-[var(--ds-black)] leading-none">{wordenCount.toLocaleString("nl")}</span>
+              <span className="text-[10px] text-slate-400 font-bold uppercase tracking-wider mt-1">Woorden</span>
+            </div>
+          </div>
+          {/* Cümleler */}
+          <div className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center gap-3 shadow-[0_2px_8px_rgba(0,0,0,0.02)]">
+            <div className="w-10 h-10 rounded-xl bg-purple-100 flex items-center justify-center text-purple-500 text-lg">✓</div>
+            <div className="flex flex-col">
+              <span className="text-xl font-bold text-[var(--ds-black)] leading-none">{zinnenCount.toLocaleString("nl")}</span>
+              <span className="text-[10px] text-slate-400 font-bold uppercase tracking-wider mt-1">Zinnen</span>
+            </div>
+          </div>
+        </div>
+
+        {/* Sıradaki Ders Kartı */}
+        {nextLesson ? (
+          <div className="bg-gradient-to-r from-[var(--ds-blue)] to-[#1d4ed8] text-white rounded-3xl p-6 shadow-md border border-[var(--border-color-modern)] relative overflow-hidden flex flex-col gap-4">
+            <div className="absolute right-[-20px] bottom-[-20px] w-48 h-48 rounded-full bg-white/5 pointer-events-none" />
+            <div className="absolute right-[40px] top-[-30px] w-24 h-24 rounded-full bg-white/5 pointer-events-none" />
+            
+            <div className="flex flex-col gap-1.5 z-10">
+              <span className="text-[9px] font-black uppercase tracking-widest text-[var(--ds-yellow)] bg-white/10 px-2.5 py-1 rounded-full self-start">
+                VOLGENDE LES
+              </span>
+              <h2 className="text-xl md:text-2xl font-black mt-1 leading-snug">
+                {nextLesson.title}
+              </h2>
+              <div className="w-full bg-white/20 h-2 rounded-full mt-3 overflow-hidden">
+                <div className="bg-[var(--ds-yellow)] h-full rounded-full" style={{ width: `${lessenPct}%` }} />
+              </div>
+              <div className="flex justify-between items-center text-xs opacity-75 mt-1">
+                <span>Lesvoortgang: {lessenPct}%</span>
+                <span>Verhaal en woorden gereed</span>
+              </div>
+            </div>
+            
+            <Link
+              href={`/lessen/${nextLesson.id}`}
+              className="bg-[var(--ds-yellow)] text-[var(--ds-blue)] font-bold py-3.5 px-6 rounded-2xl text-center hover:opacity-95 transition-opacity z-10 flex items-center justify-center gap-2 mt-2 shadow-[0_4px_12px_rgba(0,173,181,0.2)]"
+            >
+              <span>Start les</span>
+              <ArrowRight />
+            </Link>
+          </div>
+        ) : (
+          <div className="bg-gradient-to-r from-[var(--ds-blue)] to-[#115e59] text-white rounded-3xl p-6 shadow-md border border-[var(--border-color-modern)] text-center flex flex-col items-center gap-2">
+            <span className="text-3xl">🎉</span>
+            <h2 className="text-xl font-bold">Gefeliciteerd!</h2>
+            <p className="text-sm opacity-80 max-w-xs">
+              Alle lessen voltooid. Blijf oefenen met de spellen en woordkaarten!
+            </p>
+          </div>
+        )}
+
+        {/* Öğrenme ve Pratik Modülleri (Kategorize) */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+          {/* Leren / Öğrenme */}
+          <div className="flex flex-col gap-3">
+            <h3 className="text-xs font-black uppercase tracking-widest text-slate-400 pl-1">
+              Leren
+            </h3>
+            
+            <div className="flex flex-col gap-2.5">
+              {/* Lessen */}
+              <Link
+                href="/lessen"
+                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
+              >
+                <div className="flex items-center gap-4">
+                  <div className="w-10 h-10 rounded-xl bg-blue-100 text-blue-600 flex items-center justify-center font-bold text-lg">📚</div>
+                  <div className="flex flex-col">
+                    <span className="font-bold text-sm text-[var(--ds-black)]">Lessen</span>
+                    <span className="text-xs text-slate-400 mt-0.5">{completedLessons} / {totalLessons} voltooid</span>
+                  </div>
+                </div>
+                <ArrowRight />
+              </Link>
+
+              {/* Wordcards */}
+              <Link
+                href="/kaarten"
+                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
+              >
+                <div className="flex items-center gap-4">
+                  <div className="w-10 h-10 rounded-xl bg-orange-100 text-orange-600 flex items-center justify-center font-bold text-lg">🎴</div>
+                  <div className="flex flex-col">
+                    <span className="font-bold text-sm text-[var(--ds-black)]">Woordkaarten</span>
+                    <span className="text-xs text-slate-400 mt-0.5">{wordenCount} woorden geleerd</span>
+                  </div>
+                </div>
+                <ArrowRight />
+              </Link>
+ 
+              {/* Verbs */}
+              <Link
+                href="/werkwoorden"
+                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
+              >
+                <div className="flex items-center gap-4">
+                  <div className="w-10 h-10 rounded-xl bg-teal-100 text-teal-600 flex items-center justify-center font-bold text-lg">⚙️</div>
+                  <div className="flex flex-col">
+                    <span className="font-bold text-sm text-[var(--ds-black)]">Werkwoorden</span>
+                    <span className="text-xs text-slate-400 mt-0.5">{verbCount} werkwoorden geoefend</span>
+                  </div>
+                </div>
+                <ArrowRight />
+              </Link>
+ 
+              {/* Signaalwoorden */}
+              <Link
+                href="/signaalwoorden"
+                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
+              >
+                <div className="flex items-center gap-4">
+                  <div className="w-10 h-10 rounded-xl bg-purple-100 text-purple-600 flex items-center justify-center font-bold text-lg">🔗</div>
+                  <div className="flex flex-col">
+                    <span className="font-bold text-sm text-[var(--ds-black)]">Signaalwoorden</span>
+                    <span className="text-xs text-slate-400 mt-0.5">Verbindingswoorden</span>
+                  </div>
+                </div>
+                <ArrowRight />
+              </Link>
+ 
+              {/* Voegwoorden */}
+              <Link
+                href="/voegwoorden"
+                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
+              >
+                <div className="flex items-center gap-4">
+                  <div className="w-10 h-10 rounded-xl bg-emerald-100 text-emerald-600 flex items-center justify-center font-bold text-lg">➕</div>
+                  <div className="flex flex-col">
+                    <span className="font-bold text-sm text-[var(--ds-black)]">Voegwoorden</span>
+                    <span className="text-xs text-slate-400 mt-0.5">Omdat, want, als...</span>
+                  </div>
+                </div>
+                <ArrowRight />
+              </Link>
+            </div>
+          </div>
+ 
+          {/* Spellen / Oyunlar */}
+          <div className="flex flex-col gap-3">
+            <h3 className="text-xs font-black uppercase tracking-widest text-slate-400 pl-1">
+              Spellen
+            </h3>
+            
+            <div className="flex flex-col gap-2.5">
+              {/* Zin Motor */}
+              <Link
+                href="/spel/zin-motor"
+                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm border-l-4 border-l-[var(--ds-yellow)]"
+              >
+                <div className="flex items-center gap-4">
+                  <div className="w-10 h-10 rounded-xl bg-yellow-100 text-yellow-600 flex items-center justify-center font-bold text-lg">🎡</div>
+                  <div className="flex flex-col">
+                    <div className="flex items-center gap-1.5">
+                      <span className="font-bold text-sm text-[var(--ds-black)]">Zin Motor</span>
+                      <span className="text-[8px] font-black uppercase bg-teal-100 text-teal-700 px-1.5 py-0.5 rounded">Nieuw</span>
+                    </div>
+                    <span className="text-xs text-slate-400 mt-0.5">Bouw zinnen door te draaien</span>
+                  </div>
+                </div>
+                <ArrowRight />
+              </Link>
+ 
+              {/* Flitsen */}
+              <Link
+                href="/spel/flitsen"
+                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
+              >
+                <div className="flex items-center gap-4">
+                  <div className="w-10 h-10 rounded-xl bg-rose-100 text-rose-600 flex items-center justify-center font-bold text-lg">⚡</div>
+                  <div className="flex flex-col">
+                    <span className="font-bold text-sm text-[var(--ds-black)]">Flitsen</span>
+                    <span className="text-xs text-slate-400 mt-0.5">Spaced repetition & uitspraak</span>
+                  </div>
+                </div>
+                <ArrowRight />
+              </Link>
+ 
+              {/* Zin Bouwen */}
+              <Link
+                href="/spel/zin-bouwen"
+                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
+              >
+                <div className="flex items-center gap-4">
+                  <div className="w-10 h-10 rounded-xl bg-indigo-100 text-indigo-600 flex items-center justify-center font-bold text-lg">🧩</div>
+                  <div className="flex flex-col">
+                    <span className="font-bold text-sm text-[var(--ds-black)]">Zin Bouwen</span>
+                    <span className="text-xs text-slate-400 mt-0.5">Drag & drop zinnen bouwen</span>
+                  </div>
+                </div>
+                <ArrowRight />
+              </Link>
+ 
+              {/* Vul In */}
+              <Link
+                href="/spel/vul-in"
+                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
+              >
+                <div className="flex items-center gap-4">
+                  <div className="w-10 h-10 rounded-xl bg-cyan-100 text-cyan-600 flex items-center justify-center font-bold text-lg">✍️</div>
+                  <div className="flex flex-col">
+                    <span className="font-bold text-sm text-[var(--ds-black)]">Vul In</span>
+                    <span className="text-xs text-slate-400 mt-0.5">Vul het juiste woord in</span>
+                  </div>
+                </div>
+                <ArrowRight />
+              </Link>
+ 
+              {/* Vertaal */}
+              <Link
+                href="/spel/vertaal"
+                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
+              >
+                <div className="flex items-center gap-4">
+                  <div className="w-10 h-10 rounded-xl bg-red-100 text-red-600 flex items-center justify-center font-bold text-lg">🇹🇷</div>
+                  <div className="flex flex-col">
+                    <span className="font-bold text-sm text-[var(--ds-black)]">Vertaal</span>
+                    <span className="text-xs text-slate-400 mt-0.5">Vertaal zinnen</span>
+                  </div>
+                </div>
+                <ArrowRight />
+              </Link>
+ 
+              {/* Snelronde */}
+              <Link
+                href="/spel/snelronde"
+                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
+              >
+                <div className="flex items-center gap-4">
+                  <div className="w-10 h-10 rounded-xl bg-amber-100 text-amber-600 flex items-center justify-center font-bold text-lg">⏱️</div>
+                  <div className="flex flex-col">
+                    <span className="font-bold text-sm text-[var(--ds-black)]">Snelronde</span>
+                    <span className="text-xs text-slate-400 mt-0.5">Race tegen de klok (60s)</span>
+                  </div>
+                </div>
+                <ArrowRight />
+              </Link>
+            </div>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="p-[3px] bg-[var(--ds-black)] min-h-screen pb-20 md:pb-3">
       <div
@@ -322,7 +606,7 @@ export default function Dashboard() {
             <span className="text-[10px] font-black uppercase tracking-widest text-[var(--ds-black)]">
               ZIN MOTOR (NIEUW)
             </span>
-            <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-50">
+            <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-55">
               DE ZINNENMACHINE
             </span>
           </div>
@@ -341,7 +625,7 @@ export default function Dashboard() {
           </div>
         </Link>
 
-        {/* Zin bouwen */}
+        {/* ... Rest of Mondriaan buttons unchanged ... */}
         <Link
           href="/spel/zin-bouwen"
           className="bg-[var(--ds-blue)] p-4 flex flex-col justify-between hover:opacity-90 transition-opacity"
@@ -354,7 +638,6 @@ export default function Dashboard() {
           </div>
         </Link>
 
-        {/* Vul in */}
         <Link
           href="/spel/vul-in"
           className="bg-[var(--ds-white)] p-4 flex flex-col justify-between hover:bg-[var(--ds-gray)] transition-colors"
@@ -367,7 +650,6 @@ export default function Dashboard() {
           </div>
         </Link>
 
-        {/* Vertaal */}
         <Link
           href="/spel/vertaal"
           className="bg-[var(--ds-red)] p-4 flex flex-col justify-between hover:opacity-90 transition-opacity"
@@ -375,12 +657,11 @@ export default function Dashboard() {
         >
           <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-65">VERTAAL</span>
           <div className="flex items-end justify-between">
-            <span className="text-xs text-[var(--ds-white)] opacity-50">TR → NL</span>
+            <span className="text-xs text-[var(--ds-white)] opacity-50">Vertaal</span>
             <span className="text-[var(--ds-white)] opacity-60"><ArrowRight /></span>
           </div>
         </Link>
 
-        {/* Snelronde */}
         <Link
           href="/spel/snelronde"
           className="bg-[var(--ds-yellow)] p-4 flex flex-col justify-between hover:opacity-90 transition-opacity"
@@ -393,7 +674,6 @@ export default function Dashboard() {
           </div>
         </Link>
 
-        {/* Flitsen */}
         <Link
           href="/spel/flitsen"
           className="bg-[var(--ds-blue)] border-[3px] border-[var(--ds-black)] p-5 flex flex-col justify-between hover:bg-[var(--ds-white)] transition-colors group"
@@ -422,8 +702,6 @@ export default function Dashboard() {
           </div>
         </Link>
 
-
-        {/* ── SECTIE HEADER: Meer ───────────────────────────────────── */}
         <div
           className="bg-[var(--ds-black)] px-4 py-2 flex items-center"
           style={{ gridColumn: "span 2" }}
@@ -433,7 +711,6 @@ export default function Dashboard() {
           </span>
         </div>
 
-        {/* Voortgang */}
         <Link
           href="/meer/voortgang"
           className="bg-[var(--ds-white)] p-4 flex flex-col justify-between hover:bg-[var(--ds-gray)] transition-colors"
@@ -446,7 +723,6 @@ export default function Dashboard() {
           </div>
         </Link>
 
-        {/* Instellingen */}
         <Link
           href="/meer"
           className="bg-[var(--ds-gray)] p-4 flex flex-col justify-between hover:opacity-80 transition-opacity"
@@ -459,7 +735,6 @@ export default function Dashboard() {
           </div>
         </Link>
 
-        {/* Feedback */}
         <Link
           href="/meer/feedback"
           className="bg-[var(--ds-blue)] p-4 flex flex-col justify-between hover:opacity-90 transition-opacity"

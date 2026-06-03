@@ -43,6 +43,16 @@ export default function SnelrondePage() {
   const inputRef = useRef<HTMLInputElement>(null);
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
+  const [isAdvanced, setIsAdvanced] = useState(false);
+  const [hintRevealed, setHintRevealed] = useState(false);
+
+  useEffect(() => {
+    const level = localStorage.getItem("spraakmaker-niveau");
+    if (level === "B1" || level === "B2") {
+      setIsAdvanced(true);
+    }
+  }, []);
+
   const toggleSource = (id: string) => {
     setSelectedSources((prev) =>
       prev.includes(id) ? prev.filter((x) => x !== id) : [...prev, id]
@@ -80,6 +90,7 @@ export default function SnelrondePage() {
     if (m === "vul-in") setGap(buildGap(zin.nl));
     setInput("");
     setFeedback(null);
+    setHintRevealed(false);
     setTimeout(() => inputRef.current?.focus(), 50);
   }
 
@@ -359,7 +370,17 @@ export default function SnelrondePage() {
           ) : (
             <>
               <p className="text-[10px] font-bold uppercase tracking-widest opacity-40 mb-2">VUL IN</p>
-              <p className="text-sm opacity-50 mb-2">{current?.tr}</p>
+              {isAdvanced && !hintRevealed ? (
+                <button
+                  onClick={() => setHintRevealed(true)}
+                  className="text-xs font-bold text-[var(--ds-blue)] hover:underline border-none bg-none p-0 cursor-pointer block text-left mb-2"
+                  style={{ background: 'none', border: 'none', padding: 0 }}
+                >
+                  [toon vertaling]
+                </button>
+              ) : (
+                <p className="text-sm opacity-50 mb-2">{current?.tr}</p>
+              )}
               <div className="flex flex-wrap items-center gap-x-2 gap-y-1 text-base font-medium">
                 {gap.before && <span>{gap.before}</span>}
                 <span className="border-b-[3px] border-[var(--ds-black)] px-1 min-w-[64px] text-center opacity-40">___</span>

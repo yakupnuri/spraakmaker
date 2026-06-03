@@ -19,6 +19,13 @@ export default function MeerPage() {
     }));
   }
 
+  function handleUiStyle(uiStyle: "modern" | "destijl") {
+    updateProgress((prev) => ({
+      ...prev,
+      settings: { ...prev.settings, uiStyle },
+    }));
+  }
+
   function handleLangSelect(code: MoedertaalCode) {
     setMoedertaal(code);
     setShowLangModal(false);
@@ -154,6 +161,33 @@ export default function MeerPage() {
                   }`}
                 >
                   {labels[t]}
+                </button>
+              );
+            })}
+          </div>
+        </div>
+
+        {/* Arayüz Stili */}
+        <div className="bg-[var(--ds-white)] border-b-[3px] border-[var(--ds-black)] p-5">
+          <div className="flex items-center gap-4 mb-3">
+            <div className="w-2 h-2 bg-[var(--ds-yellow)] flex-shrink-0" />
+            <p className="font-bold text-[var(--ds-black)] text-sm">Vormgeving (Arayüz Stili)</p>
+          </div>
+          <div className="flex gap-[3px]">
+            {(["modern", "destijl"] as const).map((style) => {
+              const active = (progress.settings.uiStyle ?? "modern") === style;
+              const labels = { modern: "Modern & Clean", destijl: "Mondriaan" };
+              return (
+                <button
+                  key={style}
+                  onClick={() => handleUiStyle(style)}
+                  className={`flex-1 py-3 text-sm font-bold border-[3px] border-[var(--ds-black)] cursor-pointer transition-colors ${
+                    active
+                      ? "bg-[var(--ds-black)] text-[var(--ds-white)]"
+                      : "bg-[var(--ds-white)] text-[var(--ds-black)] hover:bg-[var(--ds-gray)]"
+                  }`}
+                >
+                  {labels[style]}
                 </button>
               );
             })}

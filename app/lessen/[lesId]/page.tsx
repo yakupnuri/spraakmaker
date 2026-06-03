@@ -231,6 +231,14 @@ function Fase1({
   onNext: () => void;
 }) {
   const previewWords = Object.entries(verhaal.woordenschat).slice(0, 6);
+  const [isAdvanced, setIsAdvanced] = useState(false);
+
+  useEffect(() => {
+    const level = localStorage.getItem("spraakmaker-niveau");
+    if (level === "B1" || level === "B2") {
+      setIsAdvanced(true);
+    }
+  }, []);
 
   return (
     <div className="min-h-screen bg-[var(--ds-white)] flex flex-col">
@@ -273,7 +281,7 @@ function Fase1({
       {/* Vocabulary preview */}
       <div className="px-5 py-6 flex-1">
         <p className="text-[10px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-40 mb-4">
-          Nieuwe woorden — yeni kelimeler
+          Nieuwe woorden
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-[3px]">
           {previewWords.map(([nl, tr]) => (
@@ -283,7 +291,18 @@ function Fase1({
             >
               <p className="font-bold text-sm text-[var(--ds-black)]">{nl}</p>
               <p className="text-xs text-[var(--ds-black)] opacity-50 mt-0.5">
-                {tr}
+                {isAdvanced ? (
+                  <span
+                    className="cursor-pointer hover:underline text-slate-400 select-none"
+                    onClick={(e) => {
+                      e.currentTarget.textContent = tr;
+                    }}
+                  >
+                    [toon vertaling]
+                  </span>
+                ) : (
+                  tr
+                )}
               </p>
             </div>
           ))}
@@ -328,9 +347,19 @@ function Fase2({
   const [toast, setToast] = useState<string | null>(null);
   const [popup, setPopup] = useState<{ word: string; meaning: string; x: number; y: number } | null>(null);
   const [panelExpanded, setPanelExpanded] = useState(false);
+  const [isAdvanced, setIsAdvanced] = useState(false);
+  const [popupRevealed, setPopupRevealed] = useState(false);
+
   const toastTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const popupTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const longPressTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  useEffect(() => {
+    const level = localStorage.getItem("spraakmaker-niveau");
+    if (level === "B1" || level === "B2") {
+      setIsAdvanced(true);
+    }
+  }, []);
 
   const tokens = tokenizeStory(verhaal.verhaal);
   const verbSet = new Set(verhaal.highlights.verbs.map((v) => v.toLowerCase()));
@@ -369,6 +398,7 @@ function Fase2({
           x: rect ? rect.left + rect.width / 2 : window.innerWidth / 2,
           y: rect ? rect.top : 200,
         });
+        setPopupRevealed(false); // Reset reveal state for new popup
         popupTimerRef.current = setTimeout(() => setPopup(null), 2000);
       }
     },
@@ -432,13 +462,24 @@ function Fase2({
       {/* Popup */}
       {popup && (
         <div
-          className="fixed z-50 bg-[var(--ds-black)] text-[var(--ds-white)] px-3 py-2 text-sm font-bold pointer-events-none"
+          className="fixed z-50 bg-[var(--ds-black)] text-[var(--ds-white)] px-3 py-2 text-sm font-bold pointer-events-auto cursor-pointer"
           style={{
             left: Math.max(8, Math.min(popup.x - 80, window.innerWidth - 176)),
             top: Math.max(64, popup.y - 48),
           }}
+          onClick={() => {
+            setPopupRevealed(true);
+            if (popupTimerRef.current) {
+              clearTimeout(popupTimerRef.current);
+              popupTimerRef.current = setTimeout(() => setPopup(null), 3000);
+            }
+          }}
         >
-          {popup.word} = {popup.meaning}
+          {popup.word} = {isAdvanced && !popupRevealed ? (
+            <span className="underline text-slate-300">[toon vertaling]</span>
+          ) : (
+            popup.meaning
+          )}
         </div>
       )}
 
@@ -519,7 +560,7 @@ function Fase2({
               className="w-full px-4 py-2.5 flex items-center justify-between cursor-pointer bg-[var(--ds-yellow)] border-none"
             >
               <span className="text-xs font-bold text-[var(--ds-black)] uppercase tracking-widest">
-                {unknownWords.length} kelime işaretlendi
+                {unknownWords.length} {unknownWords.length === 1 ? "woord" : "woorden"} gemarkeerd
               </span>
               <span className="text-xs font-bold text-[var(--ds-black)]">
                 {panelExpanded ? "▲" : "▼"}
@@ -580,6 +621,14 @@ function Fase3({
   const [availableWords, setAvailableWords] = useState<string[]>([]);
   const [selectedOption, setSelectedOption] = useState<number | null>(null);
   const [showAnswer, setShowAnswer] = useState(false);
+  const [isAdvanced, setIsAdvanced] = useState(false);
+
+  useEffect(() => {
+    const level = localStorage.getItem("spraakmaker-niveau");
+    if (level === "B1" || level === "B2") {
+      setIsAdvanced(true);
+    }
+  }, []);
 
   const ORDER: ExType[] = [
     "vulIn",
@@ -707,6 +756,7 @@ function Fase3({
               setChecked(true);
             }}
             onNext={() => nextExercise(isCorrect)}
+            isAdvanced={isAdvanced}
           />
         )}
 
@@ -731,6 +781,7 @@ function Fase3({
                 setChecked(true);
               }}
               onNext={() => nextExercise(isCorrect)}
+              isAdvanced={isAdvanced}
             />
           )}
 
@@ -744,6 +795,7 @@ function Fase3({
               setShowAnswer={setShowAnswer}
               onGoed={() => nextExercise(true)}
               onFout={() => nextExercise(false)}
+              isAdvanced={isAdvanced}
             />
           )}
 
@@ -757,6 +809,7 @@ function Fase3({
               setShowAnswer={setShowAnswer}
               onGoed={() => nextExercise(true)}
               onFout={() => nextExercise(false)}
+              isAdvanced={isAdvanced}
             />
           )}
 
@@ -783,6 +836,7 @@ function VulInExercise({
   isCorrect,
   onCheck,
   onNext,
+  isAdvanced,
 }: {
   ex: { zin: string; antwoord: string; hint: string };
   userAnswer: string;
@@ -791,7 +845,14 @@ function VulInExercise({
   isCorrect: boolean;
   onCheck: () => void;
   onNext: () => void;
+  isAdvanced: boolean;
 }) {
+  const [revealHint, setRevealHint] = useState(false);
+
+  useEffect(() => {
+    setRevealHint(false);
+  }, [ex]);
+
   return (
     <div className="flex flex-col gap-6">
       <div>
@@ -804,9 +865,20 @@ function VulInExercise({
           </p>
         </div>
         {ex.hint && (
-          <p className="text-xs text-[var(--ds-black)] opacity-40 mt-2">
-            İpucu / Hint: {ex.hint}
-          </p>
+          <div className="text-xs mt-2">
+            {isAdvanced && !revealHint ? (
+              <button
+                onClick={() => setRevealHint(true)}
+                className="text-[10px] bg-black/5 hover:bg-black/10 text-black font-bold px-2.5 py-1 border border-black/10 cursor-pointer transition-colors"
+              >
+                Toon ipucu/hint (İpucunu göster)
+              </button>
+            ) : (
+              <span className="text-[var(--ds-black)] opacity-40">
+                İpucu / Hint: {ex.hint}
+              </span>
+            )}
+          </div>
         )}
       </div>
 
@@ -879,6 +951,7 @@ function ZinBouwenExercise({
   isCorrect,
   onCheck,
   onNext,
+  isAdvanced,
 }: {
   ex: { woorden: string[]; antwoord: string; tr: string };
   builtWords: string[];
@@ -889,7 +962,14 @@ function ZinBouwenExercise({
   isCorrect: boolean;
   onCheck: () => void;
   onNext: () => void;
+  isAdvanced: boolean;
 }) {
+  const [revealTr, setRevealTr] = useState(false);
+
+  useEffect(() => {
+    setRevealTr(false);
+  }, [ex]);
+
   function addWord(word: string, idx: number) {
     if (checked) return;
     setBuiltWords((prev) => [...prev, word]);
@@ -906,7 +986,7 @@ function ZinBouwenExercise({
     <div className="flex flex-col gap-6">
       <div>
         <p className="text-[10px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-40 mb-3">
-          Maak een zin — Bir cümle kur
+          Maak een zin
         </p>
       </div>
 
@@ -953,9 +1033,18 @@ function ZinBouwenExercise({
           <p className="font-bold text-[var(--ds-white)] text-sm">
             {isCorrect ? "✓ Goed!" : `✗ Fout. Juiste volgorde: ${ex.antwoord}`}
           </p>
-          <p className="text-xs text-[var(--ds-white)] opacity-80 mt-1">
-            Betekenis: {ex.tr}
-          </p>
+          {isAdvanced && !revealTr ? (
+            <button
+              onClick={() => setRevealTr(true)}
+              className="mt-2 text-[10px] bg-white/10 hover:bg-white/20 text-white font-bold px-2.5 py-1 border border-white/20 cursor-pointer transition-colors"
+            >
+              Toon vertaling (Çeviriyi göster)
+            </button>
+          ) : (
+            <p className="text-xs text-[var(--ds-white)] opacity-80 mt-1">
+              Betekenis: {ex.tr}
+            </p>
+          )}
         </div>
       )}
 
@@ -991,6 +1080,7 @@ function VertaalExercise({
   setShowAnswer,
   onGoed,
   onFout,
+  isAdvanced,
 }: {
   question: string;
   answer: string;
@@ -999,12 +1089,17 @@ function VertaalExercise({
   setShowAnswer: (v: boolean) => void;
   onGoed: () => void;
   onFout: () => void;
+  isAdvanced: boolean;
 }) {
   return (
     <div className="flex flex-col gap-6">
       <div>
         <p className="text-[10px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-40 mb-3">
-          {direction === "nl→tr"
+          {isAdvanced
+            ? direction === "nl→tr"
+              ? "Vertaal naar het Turks"
+              : "Vertaal naar het Nederlands"
+            : direction === "nl→tr"
             ? "Türkçeye çevir — Vertaal naar Turks"
             : "Nederlandsce çevir — Vertaal naar Nederlands"}
         </p>
@@ -1021,7 +1116,7 @@ function VertaalExercise({
           onClick={() => setShowAnswer(true)}
           className="w-full bg-[var(--ds-black)] text-[var(--ds-white)] py-4 font-bold uppercase tracking-widest text-sm hover:opacity-90 transition-opacity cursor-pointer border-none"
         >
-          Toon antwoord — Cevabı göster
+          Toon antwoord
         </button>
       ) : (
         <>
@@ -1034,7 +1129,7 @@ function VertaalExercise({
             </p>
           </div>
           <p className="text-xs font-bold text-[var(--ds-black)] opacity-50 uppercase tracking-widest text-center">
-            Doğru muydu? — Was je antwoord goed?
+            Was je antwoord goed?
           </p>
           <div className="flex gap-[3px]">
             <button
@@ -1152,6 +1247,14 @@ function Fase4({
   const [herhIndex, setHerhIndex] = useState(0);
   const [revealed, setRevealed] = useState(false);
   const [stillUnknown, setStillUnknown] = useState<string[]>([]);
+  const [isAdvanced, setIsAdvanced] = useState(false);
+
+  useEffect(() => {
+    const level = localStorage.getItem("spraakmaker-niveau");
+    if (level === "B1" || level === "B2") {
+      setIsAdvanced(true);
+    }
+  }, []);
 
   const word = unknownWords[herhIndex] ?? "";
   const translation = lookupTranslation(word, verhaal.woordenschat) || "—";
@@ -1195,7 +1298,7 @@ function Fase4({
       <div className="flex-1 flex flex-col items-center justify-center px-5 py-8 gap-8">
         <div className="w-full max-w-sm">
           <p className="text-[10px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-40 mb-4 text-center">
-            Herhaling — {unknownWords.length} kelime &nbsp;·&nbsp; {herhIndex + 1}/{unknownWords.length}
+            Herhaling — {unknownWords.length} {unknownWords.length === 1 ? "woord" : "woorden"} &nbsp;·&nbsp; {herhIndex + 1}/{unknownWords.length}
           </p>
 
           {/* Word card front */}
@@ -1219,7 +1322,7 @@ function Fase4({
             onClick={() => setRevealed(true)}
             className="w-full max-w-sm bg-[var(--ds-black)] text-[var(--ds-white)] py-4 font-bold uppercase tracking-widest text-sm hover:opacity-90 transition-opacity cursor-pointer border-none"
           >
-            Toon vertaling — Çeviriyi göster
+            {isAdvanced ? "Toon vertaling" : "Toon vertaling — Çeviriyi göster"}
           </button>
         ) : (
           <div className="w-full max-w-sm flex gap-[3px]">
@@ -1264,17 +1367,30 @@ function Fase5({
   const [cardIndex, setCardIndex] = useState(0);
   const [flipped, setFlipped] = useState(false);
   const [learnedAll, setLearnedAll] = useState(false);
+  const [isAdvanced, setIsAdvanced] = useState(false);
 
   const pct = totalAnswers > 0 ? correctAnswers / totalAnswers : 0;
   const pctInt = Math.round(pct * 100);
   const stars = pct > 0.8 ? 3 : pct >= 0.5 ? 2 : 1;
 
-  const trMessage =
-    stars === 3
-      ? "Mükemmel! Harika iş çıkardın! 🎉"
+  useEffect(() => {
+    const level = localStorage.getItem("spraakmaker-niveau");
+    if (level === "B1" || level === "B2") {
+      setIsAdvanced(true);
+    }
+  }, []);
+
+  const message = isAdvanced
+    ? stars === 3
+      ? "Uitstekend! Geweldig gedaan! 🎉"
       : stars === 2
-      ? "İyi iş! Biraz daha pratik yapabilirsin. 💪"
-      : "Tekrar dene! Her seferinde daha iyi olacaksın. 📚";
+      ? "Goed gedaan! Je kunt nog wat meer oefenen. 💪"
+      : "Probeer het nog eens! Je wordt elke keer beter. 📚"
+    : stars === 3
+    ? "Mükemmel! Harika iş çıkardın! 🎉"
+    : stars === 2
+    ? "İyi iş! Biraz daha pratik yapabilirsin. 💪"
+    : "Tekrar dene! Her seferinde daha iyi olacaksın. 📚";
 
   const currentWord = unknownWords[cardIndex] ?? "";
   const currentTranslation = currentWord
@@ -1342,7 +1458,7 @@ function Fase5({
 
         {/* Turkish motivational message */}
         <p className="text-sm font-bold text-[var(--ds-black)] text-center max-w-xs">
-          {trMessage}
+          {message}
         </p>
       </div>
 
@@ -1351,17 +1467,17 @@ function Fase5({
         {unknownWords.length === 0 ? (
           <div className="border-[3px] border-[var(--ds-black)] bg-[var(--ds-yellow)] p-6 text-center">
             <p className="font-bold text-[var(--ds-black)] text-lg">
-              Tebrikler! Tüm kelimeleri biliyorsun 🎉
+              {isAdvanced ? "Gefeliciteerd! Je kent alle woorden 🎉" : "Tebrikler! Tüm kelimeleri biliyorsun 🎉"}
             </p>
           </div>
         ) : !learnedAll ? (
           <>
             <div>
               <p className="font-bold text-[var(--ds-black)] mb-1 text-sm uppercase tracking-wide">
-                Bu kelimeleri bilmiyorsun — bu hafta ezberle! 📚
+                {isAdvanced ? "Je kent deze woorden nog niet — oefen ze deze week! 📚" : "Bu kelimeleri bilmiyorsun — bu hafta ezberle! 📚"}
               </p>
               <p className="text-xs text-[var(--ds-black)] opacity-50">
-                {unknownWords.length} kelime ödev
+                {unknownWords.length} {unknownWords.length === 1 ? (isAdvanced ? "woord huiswerk" : "kelime ödev") : (isAdvanced ? "woorden huiswerk" : "kelime ödev")}
               </p>
             </div>
 
@@ -1415,7 +1531,7 @@ function Fase5({
                   className="border-[3px] border-[var(--ds-black)] bg-[var(--ds-yellow)] flex flex-col items-center justify-center gap-2"
                 >
                   <p className="text-[10px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-50">
-                    Türkçe
+                    {isAdvanced ? "Turks" : "Türkçe"}
                   </p>
                   <p className="text-2xl font-bold text-[var(--ds-black)] px-4 text-center">
                     {currentTranslation}
@@ -1440,7 +1556,7 @@ function Fase5({
                 disabled={cardIndex === 0}
                 className="flex-1 border-[3px] border-[var(--ds-black)] bg-[var(--ds-white)] py-3 font-bold text-sm text-[var(--ds-black)] cursor-pointer hover:bg-[var(--ds-yellow)] disabled:opacity-30 transition-colors"
               >
-                ← Önceki
+                ← {isAdvanced ? "Vorige" : "Önceki"}
               </button>
               {cardIndex < unknownWords.length - 1 ? (
                 <button
@@ -1451,7 +1567,7 @@ function Fase5({
                   }}
                   className="flex-1 border-[3px] border-[var(--ds-black)] bg-[var(--ds-black)] text-[var(--ds-white)] py-3 font-bold text-sm cursor-pointer hover:opacity-80 transition-opacity"
                 >
-                  Sonraki →
+                  {isAdvanced ? "Volgende" : "Sonraki"} →
                 </button>
               ) : (
                 <button
@@ -1459,7 +1575,7 @@ function Fase5({
                   onClick={() => setLearnedAll(true)}
                   className="flex-1 border-[3px] border-[var(--ds-black)] bg-[var(--ds-blue)] text-[var(--ds-white)] py-3 font-bold text-sm cursor-pointer hover:opacity-80 transition-opacity"
                 >
-                  Tümünü öğrendim! ✓
+                  {isAdvanced ? "Alles geleerd! ✓" : "Tümünü öğrendim! ✓"}
                 </button>
               )}
             </div>
@@ -1467,7 +1583,7 @@ function Fase5({
         ) : (
           <div className="border-[3px] border-[var(--ds-black)] bg-[var(--ds-blue)] p-6 text-center">
             <p className="font-bold text-[var(--ds-white)] text-lg">
-              Harika! Tüm kelimeler gözden geçirildi. 🎉
+              {isAdvanced ? "Geweldig! Alle woorden zijn beoordeeld. 🎉" : "Harika! Tüm kelimeler gözden geçirildi. 🎉"}
             </p>
           </div>
         )}

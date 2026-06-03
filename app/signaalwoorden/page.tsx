@@ -78,6 +78,16 @@ export default function SignaalwoordenPage() {
   const [scores, setScores] = useState({ goed: 0, fout: 0 });
   const [loading, setLoading] = useState(true);
 
+  const [isAdvanced, setIsAdvanced] = useState(false);
+  const [hintRevealed, setHintRevealed] = useState(false);
+
+  useEffect(() => {
+    const level = localStorage.getItem("spraakmaker-niveau");
+    if (level === "B1" || level === "B2") {
+      setIsAdvanced(true);
+    }
+  }, []);
+
   const hasFallback = moedertaal !== "tr";
 
   useEffect(() => {
@@ -100,6 +110,7 @@ export default function SignaalwoordenPage() {
     setIndex(0);
     setSelected(null);
     setFeedback(null);
+    setHintRevealed(false);
   }, [categories, activeCategory]);
 
   const current = quizItems[index] ?? null;
@@ -127,6 +138,7 @@ export default function SignaalwoordenPage() {
       setIndex((i) => (i + 1) % quizItems.length);
       setSelected(null);
       setFeedback(null);
+      setHintRevealed(false);
     }, 1000);
   }
 
@@ -218,7 +230,17 @@ export default function SignaalwoordenPage() {
           {/* Hint */}
           <div className="bg-[var(--ds-gray)] border-[3px] border-[var(--ds-black)] p-4">
             <p className="text-[10px] font-bold uppercase tracking-widest opacity-50 mb-1">VERTALING</p>
-            <p className="text-sm font-medium">{current.hint}</p>
+            {isAdvanced && !hintRevealed ? (
+              <button
+                onClick={() => setHintRevealed(true)}
+                className="text-xs font-bold text-[var(--ds-blue)] hover:underline border-none bg-none p-0 cursor-pointer block text-left"
+                style={{ background: 'none', border: 'none', padding: 0 }}
+              >
+                [toon vertaling]
+              </button>
+            ) : (
+              <p className="text-sm font-medium">{current.hint}</p>
+            )}
           </div>
 
           {/* Feedback */}

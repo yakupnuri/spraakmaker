@@ -211,6 +211,15 @@ function ZinMotorGame() {
 
   const [loading, setLoading] = useState(true);
   const [data, setData] = useState<GameData | null>(null);
+  const [isAdvanced, setIsAdvanced] = useState(false);
+  const [revealTr, setRevealTr] = useState(false);
+
+  useEffect(() => {
+    const level = localStorage.getItem("spraakmaker-niveau");
+    if (level === "B1" || level === "B2") {
+      setIsAdvanced(true);
+    }
+  }, []);
   
   // Game session states
   const [currentSentenceIndex, setCurrentSentenceIndex] = useState(0);
@@ -230,6 +239,7 @@ function ZinMotorGame() {
   // Setup a sentence with dynamic slots
   const setupSentence = (sentence: Sentence, pools: Record<string, string[]>) => {
     if (!sentence) return;
+    setRevealTr(false);
 
     const newSlots: SlotState[] = sentence.components.map((comp) => {
       const correctWord = comp.correct;
@@ -521,13 +531,22 @@ function ZinMotorGame() {
       </div>
 
       {/* Türkçe Cümle Sorusu */}
-      <div className="bg-[var(--ds-red)] border-b-[3px] border-[var(--ds-black)] px-5 py-6 text-center">
+      <div className="bg-[var(--ds-red)] border-b-[3px] border-[var(--ds-black)] px-5 py-6 text-center flex flex-col items-center justify-center min-h-[110px]">
         <span className="text-[10px] font-black uppercase tracking-widest text-[var(--ds-white)] opacity-70 block mb-2">
           BOUW DE NEDERLANDSE ZIN:
         </span>
-        <h1 className="text-lg md:text-2xl font-black text-[var(--ds-white)]">
-          "{currentSentence.tr}"
-        </h1>
+        {isAdvanced && !revealTr ? (
+          <button
+            onClick={() => setRevealTr(true)}
+            className="text-xs bg-white/10 hover:bg-white/20 text-white font-bold px-4 py-2 border border-white/20 cursor-pointer transition-colors"
+          >
+            Toon vertaling (Çeviriyi göster)
+          </button>
+        ) : (
+          <h1 className="text-lg md:text-2xl font-black text-[var(--ds-white)]">
+            "{currentSentence.tr}"
+          </h1>
+        )}
       </div>
 
       <div className="flex-1 flex flex-col items-center justify-center p-4 max-w-5xl w-full mx-auto relative">

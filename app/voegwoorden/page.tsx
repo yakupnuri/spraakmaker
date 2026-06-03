@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useProgress } from "@/lib/hooks";
 import { VOEGWOORDEN_SECTIONS, type VoegwoordSection, type VoegwoordItem } from "@/lib/voegwoordenData";
@@ -29,15 +29,30 @@ const COLOR_MAP = {
   },
   black: {
     bg: "bg-[var(--ds-black)]",
-    text: "text-[var(--ds-white)]",
+    text: "text(--ds-white)",
     border: "border-[var(--ds-black)]",
     badge: "bg-[var(--ds-black)] text-[var(--ds-white)]",
   },
 };
 
+function RevealableText({ text, isAdvanced }: { text: string; isAdvanced: boolean }) {
+  const [revealed, setRevealed] = useState(false);
+  if (!isAdvanced) return <>{text}</>;
+  if (revealed) return <>{text}</>;
+  return (
+    <button
+      onClick={() => setRevealed(true)}
+      className="text-xs font-bold text-[var(--ds-blue)] hover:underline border-none bg-none p-0 cursor-pointer text-left inline-block"
+      style={{ background: 'none', border: 'none', padding: 0 }}
+    >
+      [toon vertaling]
+    </button>
+  );
+}
+
 // ─── Learn card for one item ──────────────────────────────────────────────────
 
-function LearnCard({ item, color }: { item: VoegwoordItem; color: keyof typeof COLOR_MAP }) {
+function LearnCard({ item, color, isAdvanced }: { item: VoegwoordItem; color: keyof typeof COLOR_MAP; isAdvanced: boolean }) {
   const [showExample, setShowExample] = useState(false);
   const c = COLOR_MAP[color];
 
@@ -53,8 +68,8 @@ function LearnCard({ item, color }: { item: VoegwoordItem; color: keyof typeof C
             </span>
           )}
         </div>
-        <div className="flex-1 bg-[var(--ds-white)] px-4 py-4 flex flex-col justify-center">
-          <span className="font-medium text-[var(--ds-black)]">{item.tr}</span>
+        <div className="flex-1 bg-[var(--ds-white)] px-4 py-4 flex flex-col justify-center text-left">
+          <RevealableText text={item.tr} isAdvanced={isAdvanced} />
         </div>
       </div>
 
@@ -68,9 +83,11 @@ function LearnCard({ item, color }: { item: VoegwoordItem; color: keyof typeof C
           <span>{showExample ? "−" : "+"}</span>
         </button>
         {showExample && (
-          <div className="px-4 py-3 bg-[var(--ds-white)] border-t-[2px] border-[var(--ds-black)]">
+          <div className="px-4 py-3 bg-[var(--ds-white)] border-t-[2px] border-[var(--ds-black)] text-left">
             <p className="font-medium text-[var(--ds-black)] text-sm">{item.example_nl}</p>
-            <p className="text-xs text-[var(--ds-black)] opacity-50 mt-1">{item.example_tr}</p>
+            <p className="text-xs text-[var(--ds-black)] opacity-50 mt-1">
+              <RevealableText text={item.example_tr} isAdvanced={isAdvanced} />
+            </p>
           </div>
         )}
       </div>
@@ -83,9 +100,11 @@ function LearnCard({ item, color }: { item: VoegwoordItem; color: keyof typeof C
 function SectionLearn({
   section,
   onStartOefenen,
+  isAdvanced,
 }: {
   section: VoegwoordSection;
   onStartOefenen: () => void;
+  isAdvanced: boolean;
 }) {
   const c = COLOR_MAP[section.color];
 
@@ -104,7 +123,7 @@ function SectionLearn({
 
       {/* Items */}
       {section.items.map((item, i) => (
-        <LearnCard key={i} item={item} color={section.color} />
+        <LearnCard key={i} item={item} color={section.color} isAdvanced={isAdvanced} />
       ))}
 
       {/* Oefenen button */}
@@ -168,9 +187,11 @@ function shuffle<T>(arr: T[]): T[] {
 function SectionOefenen({
   section,
   onBack,
+  isAdvanced,
 }: {
   section: VoegwoordSection;
   onBack: () => void;
+  isAdvanced: boolean;
 }) {
   const { updateProgress } = useProgress();
   const [items] = useState(() => shuffle(buildQuizItems(section)));
@@ -178,6 +199,7 @@ function SectionOefenen({
   const [selected, setSelected] = useState<string | null>(null);
   const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const [scores, setScores] = useState({ goed: 0, fout: 0 });
+  const [hintRevealed, setHintRevealed] = useState(false);
   const c = COLOR_MAP[section.color];
 
   if (!items.length) {
@@ -213,6 +235,7 @@ function SectionOefenen({
       setIndex((i) => i + 1);
       setSelected(null);
       setFeedback(null);
+      setHintRevealed(false);
     }, 1000);
   }
 
@@ -238,7 +261,17 @@ function SectionOefenen({
         {/* Translation hint */}
         <div className="bg-[var(--ds-gray)] border-[3px] border-[var(--ds-black)] p-3">
           <p className="text-xs font-bold uppercase tracking-widest opacity-50 mb-1">VERTALING</p>
-          <p className="text-sm font-medium">{current.hint}</p>
+          {isAdvanced && !hintRevealed ? (
+            <button
+              onClick={() => setHintRevealed(true)}
+              className="text-xs font-bold text-[var(--ds-blue)] hover:underline border-none bg-none p-0 cursor-pointer block text-left"
+              style={{ background: 'none', border: 'none', padding: 0 }}
+            >
+              [toon vertaling]
+            </button>
+          ) : (
+            <p className="text-sm font-medium">{current.hint}</p>
+          )}
         </div>
 
         {/* Sentence with gap */}
@@ -337,6 +370,14 @@ function SectionOefenen({
 export default function VoegwoordenPage() {
   const [activeSection, setActiveSection] = useState<string>(VOEGWOORDEN_SECTIONS[0].id);
   const [mode, setMode] = useState<PageMode>("LEER");
+  const [isAdvanced, setIsAdvanced] = useState(false);
+
+  useEffect(() => {
+    const level = localStorage.getItem("spraakmaker-niveau");
+    if (level === "B1" || level === "B2") {
+      setIsAdvanced(true);
+    }
+  }, []);
 
   const section = VOEGWOORDEN_SECTIONS.find((s) => s.id === activeSection)!;
   const c = COLOR_MAP[section.color];
@@ -376,11 +417,13 @@ export default function VoegwoordenPage() {
           <SectionLearn
             section={section}
             onStartOefenen={() => setMode("OEFEN")}
+            isAdvanced={isAdvanced}
           />
         ) : (
           <SectionOefenen
             section={section}
             onBack={() => setMode("LEER")}
+            isAdvanced={isAdvanced}
           />
         )}
       </div>

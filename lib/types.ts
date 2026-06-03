@@ -70,6 +70,7 @@ export interface Progress {
   settings: {
     dailyGoal: number;
     theme: "light" | "dark" | "system";
+    uiStyle?: "modern" | "destijl";
   };
 }
 

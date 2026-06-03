@@ -512,6 +512,16 @@ function PracticeQuiz({
   const [scores, setScores] = useState({ goed: 0, fout: 0 });
   const inputRef = useRef<HTMLInputElement>(null);
 
+  const [isAdvanced, setIsAdvanced] = useState(false);
+  const [hintRevealed, setHintRevealed] = useState(false);
+
+  useEffect(() => {
+    const level = localStorage.getItem("spraakmaker-niveau");
+    if (level === "B1" || level === "B2") {
+      setIsAdvanced(true);
+    }
+  }, []);
+
   useEffect(() => {
     const q = shuffle([...verbs]);
     setQueue(q);
@@ -534,6 +544,7 @@ function PracticeQuiz({
     setFormTarget(resolvedWeak ?? forms[Math.floor(Math.random() * forms.length)]);
     setInput("");
     setFeedback(null);
+    setHintRevealed(false);
     setTimeout(() => inputRef.current?.focus(), 80);
   }
 
@@ -614,7 +625,17 @@ function PracticeQuiz({
         {/* Verb card */}
         <div className="bg-[var(--ds-blue)] border-[3px] border-[var(--ds-black)] p-6 text-center">
           <p className="text-4xl font-bold text-[var(--ds-white)]">{current.infinitief}</p>
-          <p className="text-sm text-[var(--ds-white)] opacity-50 mt-2">{current.tr}</p>
+          {isAdvanced && !hintRevealed ? (
+            <button
+              onClick={() => setHintRevealed(true)}
+              className="text-xs font-bold text-[var(--ds-white)] hover:underline border-none bg-none p-0 cursor-pointer block mx-auto mt-2"
+              style={{ background: 'none', border: 'none', padding: 0 }}
+            >
+              [toon vertaling]
+            </button>
+          ) : (
+            <p className="text-sm text-[var(--ds-white)] opacity-50 mt-2">{current.tr}</p>
+          )}
         </div>
 
         {/* Form to fill */}
