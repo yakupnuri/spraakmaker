@@ -1,7 +1,7 @@
 # Spraakmaker 🇳🇱
 
 <p align="center">
-  <img src="public/spfavicon.png" alt="Spraakmaker Logo" width="120" />
+  <img src="public/spraakmaker-logo.png" alt="Spraakmaker Logo" width="240" />
 </p>
 
 **Spraakmaker** is an interactive, gamified, and modern web application designed for learning the Dutch language. Built with Next.js, Framer Motion, and Tailwind CSS, it offers a rich and responsive learning experience tailored to help users learn grammar, expand vocabulary, and practice building sentences.
@@ -81,7 +81,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to start stu
 
 | Modern Dashboard | Spaced Repetition Cards | Drag & Drop Game |
 |:---:|:---:|:---:|
-| ![Dashboard](public/manifest.json) | ![Cards](public/spfavicon.png) | ![Game](public/spfavicon.png) |
+| ![Dashboard](public/manifest.json) | ![Cards](public/favicon.png) | ![Game](public/spraakmaker-logo.png) |
 
 ---
 
