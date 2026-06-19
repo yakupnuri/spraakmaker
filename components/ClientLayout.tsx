@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import { useRouter, usePathname } from "next/navigation";
 import { BottomNav, TopNav, Logo } from "./Navigation";
 import { useProgress } from "@/lib/hooks";
+import { AIChatWidget } from "./AIChatWidget";
 
 export default function ClientLayout({ children }: { children: React.ReactNode }) {
   const router = useRouter();
@@ -84,6 +85,9 @@ export default function ClientLayout({ children }: { children: React.ReactNode }
       <main className="md:min-h-screen pb-16 md:pb-0 md:pt-0">
         {children}
       </main>
+
+      {/* Floating AI Chat Widget */}
+      <AIChatWidget />
 
       {/* Mobile: bottom nav */}
       <div className="md:hidden">

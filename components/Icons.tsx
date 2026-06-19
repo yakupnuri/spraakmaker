@@ -103,3 +103,41 @@ export function IconVideo({ size = 20 }: { size?: number }) {
   );
 }
 
+export function IconChat({ size = 20 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" />
+    </svg>
+  );
+}
+
+export function IconMicrophone({ size = 20 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z" />
+      <path d="M19 10v2a7 7 0 0 1-14 0v-2" />
+      <line x1="12" y1="19" x2="12" y2="23" />
+      <line x1="8" y1="23" x2="16" y2="23" />
+    </svg>
+  );
+}
+
+export function IconVolume({ size = 20 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5" />
+      <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07" />
+    </svg>
+  );
+}
+
+export function IconSparkles({ size = 20, className }: { size?: number; className?: string }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
+      <path d="M9.81 12.06a1 1 0 0 0 .38.38l3.1 1.55a1 1 0 0 1 0 1.78l-3.1 1.55a1 1 0 0 0-.38.38l-1.55 3.1a1 1 0 0 1-1.78 0l-1.55-3.1a1 1 0 0 0-.38-.38L1.4 15.77a1 1 0 0 1 0-1.78l3.1-1.55a1 1 0 0 0 .38-.38l1.55-3.1a1 1 0 0 1 1.78 0z" />
+      <path d="M19 1l.88 1.77L21.65 3.65 19.88 4.53 19 6.3l-.88-1.77L16.35 3.65l1.77-.88z" />
+      <path d="M20 12l.66 1.33 1.34.67-1.34.66L20 16l-.66-1.34-1.34-.66 1.34-.67z" />
+    </svg>
+  );
+}
+

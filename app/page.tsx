@@ -310,6 +310,26 @@ export default function Dashboard() {
               </div>
               <ArrowRight />
             </Link>
+
+            {/* AI Chatbot */}
+            <Link
+              href="/chat"
+              className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors shadow-sm border-l-4 border-l-blue-500"
+            >
+              <div className="flex items-center gap-4">
+                <div className="w-10 h-10 rounded-xl bg-blue-100 dark:bg-blue-950/30 flex items-center justify-center p-1 shrink-0">
+                  <img src="/ai-maskot.png" alt="AI Mascot" className="w-full h-full object-contain" />
+                </div>
+                <div className="flex flex-col">
+                  <div className="flex items-center gap-1.5">
+                    <span className="font-bold text-sm text-[var(--text)]">AI Chatbot</span>
+                    <span className="text-[9px] bg-blue-500 text-white font-black px-1.5 py-0.2 rounded-full uppercase tracking-wider scale-90">AI</span>
+                  </div>
+                  <span className="text-xs text-slate-400 mt-0.5">Praat en schrijf met AI (Yapay Zeka Sohbeti)</span>
+                </div>
+              </div>
+              <ArrowRight />
+            </Link>
           </div>
         </div>
 
