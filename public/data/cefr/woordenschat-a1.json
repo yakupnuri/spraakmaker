@@ -1,0 +1,5126 @@
+[
+  {
+    "nl": "(Ik) snap het.",
+    "tr": "Anliyorum",
+    "level": "A1",
+    "id": "a1-w-0001"
+  },
+  {
+    "nl": "(Zo ja)",
+    "tr": "Evet ise;",
+    "level": "A1",
+    "id": "a1-w-0002"
+  },
+  {
+    "nl": "aan",
+    "tr": "de, da (durumunu belirtiyor), açık (ör. ışık), -da; -de (duvarda)",
+    "level": "A1",
+    "id": "a1-w-0003"
+  },
+  {
+    "nl": "Aan de slag",
+    "tr": "is basina!",
+    "level": "A1",
+    "id": "a1-w-0004"
+  },
+  {
+    "nl": "aanbod",
+    "tr": "teklif, Teklif et, an offer",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0005"
+  },
+  {
+    "nl": "aanval",
+    "tr": "saldırı, atak, attack",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0006"
+  },
+  {
+    "nl": "aardappel",
+    "tr": "patates",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0007"
+  },
+  {
+    "nl": "aardig",
+    "tr": "sıcak kanlı; hoş, Güzel",
+    "level": "A1",
+    "id": "a1-w-0008"
+  },
+  {
+    "nl": "Abonneer je nu!",
+    "tr": "Şimdi abone olun!",
+    "level": "A1",
+    "id": "a1-w-0009"
+  },
+  {
+    "nl": "acht",
+    "tr": "8",
+    "level": "A1",
+    "id": "a1-w-0010"
+  },
+  {
+    "nl": "achter",
+    "tr": "arkasında",
+    "level": "A1",
+    "id": "a1-w-0011"
+  },
+  {
+    "nl": "actie",
+    "tr": "hareket, eylem, aksiyon, campaign",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0012"
+  },
+  {
+    "nl": "advies",
+    "tr": "tavsiye, advice",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0013"
+  },
+  {
+    "nl": "Af en toe",
+    "tr": "Ara sıra",
+    "level": "A1",
+    "id": "a1-w-0014"
+  },
+  {
+    "nl": "Afgelopen week",
+    "tr": "Geçen hafta",
+    "level": "A1",
+    "id": "a1-w-0015"
+  },
+  {
+    "nl": "al",
+    "tr": "zaten, already",
+    "level": "A1",
+    "id": "a1-w-0016"
+  },
+  {
+    "nl": "alle",
+    "tr": "hepsi",
+    "level": "A1",
+    "id": "a1-w-0017"
+  },
+  {
+    "nl": "Alle",
+    "tr": "Tüm",
+    "level": "A1",
+    "id": "a1-w-0018"
+  },
+  {
+    "nl": "Alle landen",
+    "tr": "Tüm ülkeler",
+    "level": "A1",
+    "id": "a1-w-0019"
+  },
+  {
+    "nl": "alleen",
+    "tr": "sadece, yalnız",
+    "level": "A1",
+    "id": "a1-w-0020"
+  },
+  {
+    "nl": "alleen op donderdag",
+    "tr": "sadece perşembe",
+    "level": "A1",
+    "id": "a1-w-0021"
+  },
+  {
+    "nl": "alles",
+    "tr": "herşey, tümü",
+    "level": "A1",
+    "id": "a1-w-0022"
+  },
+  {
+    "nl": "Alles",
+    "tr": "Her şey / Her sey, hepsi",
+    "level": "A1",
+    "id": "a1-w-0023"
+  },
+  {
+    "nl": "als",
+    "tr": "gibi, if, eğer",
+    "level": "A1",
+    "id": "a1-w-0024"
+  },
+  {
+    "nl": "Alsjeblieft",
+    "tr": "Lutfen. / lütfen, buyrun (gayriresmi)",
+    "level": "A1",
+    "id": "a1-w-0025"
+  },
+  {
+    "nl": "Alsjeblieft/Alstublieft",
+    "tr": "Lütfen, rica ederim / Rica ederim,lütfen",
+    "level": "A1",
+    "id": "a1-w-0026"
+  },
+  {
+    "nl": "alsof",
+    "tr": "güya, as if",
+    "level": "A1",
+    "id": "a1-w-0027"
+  },
+  {
+    "nl": "alstublieft",
+    "tr": "Lütfen, lütfen",
+    "level": "A1",
+    "id": "a1-w-0028"
+  },
+  {
+    "nl": "altijd",
+    "tr": "her zaman, daima",
+    "level": "A1",
+    "id": "a1-w-0029"
+  },
+  {
+    "nl": "Altijd",
+    "tr": "Her zaman / Her zaman, daima",
+    "level": "A1",
+    "id": "a1-w-0030"
+  },
+  {
+    "nl": "alvast",
+    "tr": "önceden, peşin olarak, zaten, zaten; şimdiden",
+    "level": "A1",
+    "id": "a1-w-0031"
+  },
+  {
+    "nl": "alvast bedankt",
+    "tr": "şimdiden teşekkürler",
+    "level": "A1",
+    "id": "a1-w-0032"
+  },
+  {
+    "nl": "Alvast bedankt.",
+    "tr": "Şimdiden teşekkürler.",
+    "level": "A1",
+    "id": "a1-w-0033"
+  },
+  {
+    "nl": "Alvast fijn weekend",
+    "tr": "Simdiden iyi hafta sonları!",
+    "level": "A1",
+    "id": "a1-w-0034"
+  },
+  {
+    "nl": "ander",
+    "tr": "diğer, başka",
+    "level": "A1",
+    "id": "a1-w-0035"
+  },
+  {
+    "nl": "andere",
+    "tr": "başka",
+    "level": "A1",
+    "id": "a1-w-0036"
+  },
+  {
+    "nl": "Anders nog iets?",
+    "tr": "Başka bir şey var mı? (almak istediginiz) (satici musteriye sorar) / Başka bir şey?",
+    "level": "A1",
+    "id": "a1-w-0037"
+  },
+  {
+    "nl": "apart",
+    "tr": "ayrı, ayrı ayrı",
+    "level": "A1",
+    "id": "a1-w-0038"
+  },
+  {
+    "nl": "appel",
+    "tr": "elma",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0039"
+  },
+  {
+    "nl": "april",
+    "tr": "nisan",
+    "level": "A1",
+    "id": "a1-w-0040"
+  },
+  {
+    "nl": "arm",
+    "tr": "kol, fakir, de, poor",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0041"
+  },
+  {
+    "nl": "aspect",
+    "tr": "yönü, o, aspect",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0042"
+  },
+  {
+    "nl": "auteur",
+    "tr": "yazar,, author",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0043"
+  },
+  {
+    "nl": "auto",
+    "tr": "araba",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0044"
+  },
+  {
+    "nl": "avond",
+    "tr": "akşam",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0045"
+  },
+  {
+    "nl": "baas",
+    "tr": "patron, chief",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0046"
+  },
+  {
+    "nl": "banaan",
+    "tr": "muz",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0047"
+  },
+  {
+    "nl": "Basisschool/Middelbareschool",
+    "tr": "İlköğretim/ortaöğretim",
+    "level": "A1",
+    "id": "a1-w-0048"
+  },
+  {
+    "nl": "bed",
+    "tr": "yatak",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0049"
+  },
+  {
+    "nl": "bedankt",
+    "tr": "teşekkürler",
+    "level": "A1",
+    "id": "a1-w-0050"
+  },
+  {
+    "nl": "Bedankt voor alles.",
+    "tr": "Her şey için teşekkürler",
+    "level": "A1",
+    "id": "a1-w-0051"
+  },
+  {
+    "nl": "beeld",
+    "tr": "heykel, görüntü, o, image",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0052"
+  },
+  {
+    "nl": "Begin op tijd",
+    "tr": "Zamanında başla",
+    "level": "A1",
+    "id": "a1-w-0053"
+  },
+  {
+    "nl": "Begrijp je het?",
+    "tr": "Anlıyor musun?",
+    "level": "A1",
+    "id": "a1-w-0054"
+  },
+  {
+    "nl": "Begrijp je mij?",
+    "tr": "Beni anlıyor musun?",
+    "level": "A1",
+    "id": "a1-w-0055"
+  },
+  {
+    "nl": "bekend",
+    "tr": "bilinen, familiar",
+    "level": "A1",
+    "id": "a1-w-0056"
+  },
+  {
+    "nl": "belang",
+    "tr": "faiz, BT, interest",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0057"
+  },
+  {
+    "nl": "Beleefd vragen",
+    "tr": "Kibarca sormak",
+    "level": "A1",
+    "id": "a1-w-0058"
+  },
+  {
+    "nl": "beleid",
+    "tr": "politika, o, policy",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0059"
+  },
+  {
+    "nl": "Ben je blij?",
+    "tr": "Mutlu musun?",
+    "level": "A1",
+    "id": "a1-w-0060"
+  },
+  {
+    "nl": "Ben je getrouwd?",
+    "tr": "Evli misiniz?",
+    "level": "A1",
+    "id": "a1-w-0061"
+  },
+  {
+    "nl": "Ben jij bang?",
+    "tr": "Sen korkuyor musun?",
+    "level": "A1",
+    "id": "a1-w-0062"
+  },
+  {
+    "nl": "Ben jij sociaal?",
+    "tr": "Sen sosyal misin?",
+    "level": "A1",
+    "id": "a1-w-0063"
+  },
+  {
+    "nl": "Bepaalde mensen",
+    "tr": "Belirli insanlar",
+    "level": "A1",
+    "id": "a1-w-0064"
+  },
+  {
+    "nl": "Bereid je voor!",
+    "tr": "Hazır olun!",
+    "level": "A1",
+    "id": "a1-w-0065"
+  },
+  {
+    "nl": "bereik",
+    "tr": "range",
+    "level": "A1",
+    "id": "a1-w-0066"
+  },
+  {
+    "nl": "betalen",
+    "tr": "Ödemek, to pay",
+    "level": "A1",
+    "id": "a1-w-0067"
+  },
+  {
+    "nl": "Beter en lekkerder",
+    "tr": "Daha lezzetli",
+    "level": "A1",
+    "id": "a1-w-0068"
+  },
+  {
+    "nl": "Beterschap!",
+    "tr": "Geçmiş olsun! / Geçmiş olsun, Acil şifalar",
+    "level": "A1",
+    "id": "a1-w-0069"
+  },
+  {
+    "nl": "bevel",
+    "tr": "(to) order",
+    "level": "A1",
+    "id": "a1-w-0070"
+  },
+  {
+    "nl": "bewijs",
+    "tr": "kanıt, proof, argument, evidence",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0071"
+  },
+  {
+    "nl": "bijna",
+    "tr": "neredeyse",
+    "level": "A1",
+    "id": "a1-w-0072"
+  },
+  {
+    "nl": "binnen",
+    "tr": "içinde, içeri, iç; içeri",
+    "level": "A1",
+    "id": "a1-w-0073"
+  },
+  {
+    "nl": "blauw",
+    "tr": "mavi",
+    "level": "A1",
+    "id": "a1-w-0074"
+  },
+  {
+    "nl": "blauwe",
+    "tr": "mavi",
+    "level": "A1",
+    "id": "a1-w-0075"
+  },
+  {
+    "nl": "Blijkbaar wel.",
+    "tr": "Gorunuse gore oyle.",
+    "level": "A1",
+    "id": "a1-w-0076"
+  },
+  {
+    "nl": "bocht",
+    "tr": "curve, viraj",
+    "level": "A1",
+    "id": "a1-w-0077"
+  },
+  {
+    "nl": "boek",
+    "tr": "kitap",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0078"
+  },
+  {
+    "nl": "Bonnetje erbij?",
+    "tr": "Fiş istermisiniz?",
+    "level": "A1",
+    "id": "a1-w-0079"
+  },
+  {
+    "nl": "Boodschappen doen",
+    "tr": "Alışveriş yapmak",
+    "level": "A1",
+    "id": "a1-w-0080"
+  },
+  {
+    "nl": "boos",
+    "tr": "sinirli, kızgın, angry",
+    "level": "A1",
+    "id": "a1-w-0081"
+  },
+  {
+    "nl": "boven",
+    "tr": "yukarı, üst kat, yukarıda, Yukarıda",
+    "level": "A1",
+    "id": "a1-w-0082"
+  },
+  {
+    "nl": "broer",
+    "tr": "erkek kardeş",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0083"
+  },
+  {
+    "nl": "bron",
+    "tr": "source, sources",
+    "level": "A1",
+    "id": "a1-w-0084"
+  },
+  {
+    "nl": "brood",
+    "tr": "ekmek",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0085"
+  },
+  {
+    "nl": "bruin",
+    "tr": "Kahverengi, kahverengi",
+    "level": "A1",
+    "id": "a1-w-0086"
+  },
+  {
+    "nl": "bruine",
+    "tr": "kahverengi",
+    "level": "A1",
+    "id": "a1-w-0087"
+  },
+  {
+    "nl": "bruto",
+    "tr": "brüt, gross",
+    "level": "A1",
+    "id": "a1-w-0088"
+  },
+  {
+    "nl": "buiten",
+    "tr": "dışarı, dışında, Dışarıda, dış; dışarı",
+    "level": "A1",
+    "id": "a1-w-0089"
+  },
+  {
+    "nl": "bus",
+    "tr": "otobüs",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0090"
+  },
+  {
+    "nl": "cellen",
+    "tr": "cells",
+    "level": "A1",
+    "id": "a1-w-0091"
+  },
+  {
+    "nl": "cijfer",
+    "tr": "şekil, grade, Şekil",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0092"
+  },
+  {
+    "nl": "computer",
+    "tr": "bilgisayar",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0093"
+  },
+  {
+    "nl": "contant geld",
+    "tr": "nakit para",
+    "level": "A1",
+    "id": "a1-w-0094"
+  },
+  {
+    "nl": "Daag jezelf uit",
+    "tr": "Kendine meydan oku",
+    "level": "A1",
+    "id": "a1-w-0095"
+  },
+  {
+    "nl": "daar",
+    "tr": "orada, as, zamir (yer, şahıs)",
+    "level": "A1",
+    "id": "a1-w-0096"
+  },
+  {
+    "nl": "Daar",
+    "tr": "Orada/Orasi",
+    "level": "A1",
+    "id": "a1-w-0097"
+  },
+  {
+    "nl": "daarna",
+    "tr": "daha sonra, sonradan",
+    "level": "A1",
+    "id": "a1-w-0098"
+  },
+  {
+    "nl": "daarom",
+    "tr": "bu nedenle, as a result, hence, so, that's why, therefore, Dolayısıyla",
+    "level": "A1",
+    "id": "a1-w-0099"
+  },
+  {
+    "nl": "dag",
+    "tr": "gün, merhaba, hoşçakal",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0100"
+  },
+  {
+    "nl": "Dagje uit",
+    "tr": "Dışarıda bir gün (gecirmek)",
+    "level": "A1",
+    "id": "a1-w-0101"
+  },
+  {
+    "nl": "dalend",
+    "tr": "declining",
+    "level": "A1",
+    "id": "a1-w-0102"
+  },
+  {
+    "nl": "daling",
+    "tr": "a decline, aşağı doğru rampa",
+    "level": "A1",
+    "id": "a1-w-0103"
+  },
+  {
+    "nl": "dan",
+    "tr": "sonra, o zaman",
+    "level": "A1",
+    "id": "a1-w-0104"
+  },
+  {
+    "nl": "Dat begrijp ik.",
+    "tr": "Anlıyorum.",
+    "level": "A1",
+    "id": "a1-w-0105"
+  },
+  {
+    "nl": "Dat kan!",
+    "tr": "Evet, mumkun. Olabilir. Yapilabilir vs..",
+    "level": "A1",
+    "id": "a1-w-0106"
+  },
+  {
+    "nl": "Dat klinkt leuk",
+    "tr": "Bu eğlenceli geliyor",
+    "level": "A1",
+    "id": "a1-w-0107"
+  },
+  {
+    "nl": "Dat klopt",
+    "tr": "Bu doğru.",
+    "level": "A1",
+    "id": "a1-w-0108"
+  },
+  {
+    "nl": "Dat klopt niet",
+    "tr": "Bu doğru değil.",
+    "level": "A1",
+    "id": "a1-w-0109"
+  },
+  {
+    "nl": "Dat regel ik!",
+    "tr": "(Onu) ayarlıyorum/ Hallediyorum.",
+    "level": "A1",
+    "id": "a1-w-0110"
+  },
+  {
+    "nl": "Dat snap ik.",
+    "tr": "(Onu) anlıyorum.",
+    "level": "A1",
+    "id": "a1-w-0111"
+  },
+  {
+    "nl": "Dat waardeer ik!",
+    "tr": "Buna minnettarım!",
+    "level": "A1",
+    "id": "a1-w-0112"
+  },
+  {
+    "nl": "Dat weet ik.",
+    "tr": "(Onu) biliyorum.",
+    "level": "A1",
+    "id": "a1-w-0113"
+  },
+  {
+    "nl": "de arm",
+    "tr": "kol",
+    "level": "A1",
+    "id": "a1-w-0114"
+  },
+  {
+    "nl": "de bal",
+    "tr": "top",
+    "level": "A1",
+    "id": "a1-w-0115"
+  },
+  {
+    "nl": "de bil",
+    "tr": "kalça; popo",
+    "level": "A1",
+    "id": "a1-w-0116"
+  },
+  {
+    "nl": "de bon",
+    "tr": "fiş",
+    "level": "A1",
+    "id": "a1-w-0117"
+  },
+  {
+    "nl": "de bus",
+    "tr": "otobüs",
+    "level": "A1",
+    "id": "a1-w-0118"
+  },
+  {
+    "nl": "de dag",
+    "tr": "gün",
+    "level": "A1",
+    "id": "a1-w-0119"
+  },
+  {
+    "nl": "de gum",
+    "tr": "silgi",
+    "level": "A1",
+    "id": "a1-w-0120"
+  },
+  {
+    "nl": "de jas",
+    "tr": "ceket",
+    "level": "A1",
+    "id": "a1-w-0121"
+  },
+  {
+    "nl": "de kat",
+    "tr": "kedi",
+    "level": "A1",
+    "id": "a1-w-0122"
+  },
+  {
+    "nl": "de kin",
+    "tr": "çene",
+    "level": "A1",
+    "id": "a1-w-0123"
+  },
+  {
+    "nl": "de kip",
+    "tr": "tavuk",
+    "level": "A1",
+    "id": "a1-w-0124"
+  },
+  {
+    "nl": "de koe",
+    "tr": "inek",
+    "level": "A1",
+    "id": "a1-w-0125"
+  },
+  {
+    "nl": "de les",
+    "tr": "ders",
+    "level": "A1",
+    "id": "a1-w-0126"
+  },
+  {
+    "nl": "de lip",
+    "tr": "dudak",
+    "level": "A1",
+    "id": "a1-w-0127"
+  },
+  {
+    "nl": "de man",
+    "tr": "erkek, adam",
+    "level": "A1",
+    "id": "a1-w-0128"
+  },
+  {
+    "nl": "de nek",
+    "tr": "boyun",
+    "level": "A1",
+    "id": "a1-w-0129"
+  },
+  {
+    "nl": "de oma",
+    "tr": "Büyükanne1, büyük anne",
+    "level": "A1",
+    "id": "a1-w-0130"
+  },
+  {
+    "nl": "de oom",
+    "tr": "Amca (N), amca; dayı",
+    "level": "A1",
+    "id": "a1-w-0131"
+  },
+  {
+    "nl": "de opa",
+    "tr": "Büyükbaba1, dede",
+    "level": "A1",
+    "id": "a1-w-0132"
+  },
+  {
+    "nl": "de pan",
+    "tr": "tencere; tava",
+    "level": "A1",
+    "id": "a1-w-0133"
+  },
+  {
+    "nl": "de pen",
+    "tr": "kalem",
+    "level": "A1",
+    "id": "a1-w-0134"
+  },
+  {
+    "nl": "de pil",
+    "tr": "hap",
+    "level": "A1",
+    "id": "a1-w-0135"
+  },
+  {
+    "nl": "de rok",
+    "tr": "etek",
+    "level": "A1",
+    "id": "a1-w-0136"
+  },
+  {
+    "nl": "de rug",
+    "tr": "sırt",
+    "level": "A1",
+    "id": "a1-w-0137"
+  },
+  {
+    "nl": "de sla",
+    "tr": "marul",
+    "level": "A1",
+    "id": "a1-w-0138"
+  },
+  {
+    "nl": "de sok",
+    "tr": "çorap",
+    "level": "A1",
+    "id": "a1-w-0139"
+  },
+  {
+    "nl": "de tas",
+    "tr": "çanta",
+    "level": "A1",
+    "id": "a1-w-0140"
+  },
+  {
+    "nl": "De telefoon valt.",
+    "tr": "Telefon düşuyor/duser.",
+    "level": "A1",
+    "id": "a1-w-0141"
+  },
+  {
+    "nl": "de ui",
+    "tr": "soğan",
+    "level": "A1",
+    "id": "a1-w-0142"
+  },
+  {
+    "nl": "de vis",
+    "tr": "balık",
+    "level": "A1",
+    "id": "a1-w-0143"
+  },
+  {
+    "nl": "De vrouw winkelt",
+    "tr": "Kadın alışveriş yapıyor",
+    "level": "A1",
+    "id": "a1-w-0144"
+  },
+  {
+    "nl": "de wc",
+    "tr": "tuvalet",
+    "level": "A1",
+    "id": "a1-w-0145"
+  },
+  {
+    "nl": "de weg",
+    "tr": "yol",
+    "level": "A1",
+    "id": "a1-w-0146"
+  },
+  {
+    "nl": "de zak",
+    "tr": "torba",
+    "level": "A1",
+    "id": "a1-w-0147"
+  },
+  {
+    "nl": "de zee",
+    "tr": "deniz",
+    "level": "A1",
+    "id": "a1-w-0148"
+  },
+  {
+    "nl": "de zin",
+    "tr": "cümle",
+    "level": "A1",
+    "id": "a1-w-0149"
+  },
+  {
+    "nl": "de zus",
+    "tr": "kız kardeş, kız kardeş; abla",
+    "level": "A1",
+    "id": "a1-w-0150"
+  },
+  {
+    "nl": "Denk ik ook.",
+    "tr": "Ben de öyle düşünüyorum.",
+    "level": "A1",
+    "id": "a1-w-0151"
+  },
+  {
+    "nl": "Denver,Ali, klaarstaan.",
+    "tr": "Denver,Ali hazır olun",
+    "level": "A1",
+    "id": "a1-w-0152"
+  },
+  {
+    "nl": "derde",
+    "tr": "üçüncü",
+    "level": "A1",
+    "id": "a1-w-0153"
+  },
+  {
+    "nl": "dertig",
+    "tr": "30",
+    "level": "A1",
+    "id": "a1-w-0154"
+  },
+  {
+    "nl": "deur",
+    "tr": "kapı",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0155"
+  },
+  {
+    "nl": "dicht",
+    "tr": "kapat, kapalı",
+    "level": "A1",
+    "id": "a1-w-0156"
+  },
+  {
+    "nl": "Die je kent?",
+    "tr": "Kimi tanıyorsun?",
+    "level": "A1",
+    "id": "a1-w-0157"
+  },
+  {
+    "nl": "dienst",
+    "tr": "hizmet,, service",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0158"
+  },
+  {
+    "nl": "dik",
+    "tr": "şişman, fat, kalın; şişman",
+    "level": "A1",
+    "id": "a1-w-0159"
+  },
+  {
+    "nl": "dikke",
+    "tr": "kalın; şişman",
+    "level": "A1",
+    "id": "a1-w-0160"
+  },
+  {
+    "nl": "diploma's",
+    "tr": "Mara birçok eğitim aldı.Onun üç diploması var",
+    "level": "A1",
+    "id": "a1-w-0161"
+  },
+  {
+    "nl": "dochter",
+    "tr": "kızı",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0162"
+  },
+  {
+    "nl": "Doe (even) rustig.",
+    "tr": "Sakin ol.",
+    "level": "A1",
+    "id": "a1-w-0163"
+  },
+  {
+    "nl": "Doe je ding.",
+    "tr": "İşini yap. (Rahat ol, yapman gerekeni yap.)",
+    "level": "A1",
+    "id": "a1-w-0164"
+  },
+  {
+    "nl": "Doe je het?",
+    "tr": "Onu yapıyor musun? / Yapıyor musun?",
+    "level": "A1",
+    "id": "a1-w-0165"
+  },
+  {
+    "nl": "Doe je mee?",
+    "tr": "Var mısın? Katiliyor musun?",
+    "level": "A1",
+    "id": "a1-w-0166"
+  },
+  {
+    "nl": "doei",
+    "tr": "güle güle",
+    "level": "A1",
+    "id": "a1-w-0167"
+  },
+  {
+    "nl": "doel",
+    "tr": "hedef, o, purpose, goal",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0168"
+  },
+  {
+    "nl": "Doi Tessa.Fijn weekend",
+    "tr": "Merhaba Tessa.Iyi haftasonları",
+    "level": "A1",
+    "id": "a1-w-0169"
+  },
+  {
+    "nl": "dokter",
+    "tr": "doktor",
+    "level": "A1",
+    "id": "a1-w-0170"
+  },
+  {
+    "nl": "dom",
+    "tr": "Aptal, aptal",
+    "level": "A1",
+    "id": "a1-w-0171"
+  },
+  {
+    "nl": "donker",
+    "tr": "karanlık, Karanlık, koyu (renk)",
+    "level": "A1",
+    "id": "a1-w-0172"
+  },
+  {
+    "nl": "Draai je om",
+    "tr": "Dönün",
+    "level": "A1",
+    "id": "a1-w-0173"
+  },
+  {
+    "nl": "drie",
+    "tr": "3",
+    "level": "A1",
+    "id": "a1-w-0174"
+  },
+  {
+    "nl": "Drink je alcohol?",
+    "tr": "Alkol kullanıyor musunuz?",
+    "level": "A1",
+    "id": "a1-w-0175"
+  },
+  {
+    "nl": "Drink je water?",
+    "tr": "Su içer misin?",
+    "level": "A1",
+    "id": "a1-w-0176"
+  },
+  {
+    "nl": "droge",
+    "tr": "kuru",
+    "level": "A1",
+    "id": "a1-w-0177"
+  },
+  {
+    "nl": "droog",
+    "tr": "kuru",
+    "level": "A1",
+    "id": "a1-w-0178"
+  },
+  {
+    "nl": "druk",
+    "tr": "dolu, meşgul, Meşgul, the, pressure, yoğun",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0179"
+  },
+  {
+    "nl": "drukke",
+    "tr": "yoğun",
+    "level": "A1",
+    "id": "a1-w-0180"
+  },
+  {
+    "nl": "duizend",
+    "tr": "bin",
+    "level": "A1",
+    "id": "a1-w-0181"
+  },
+  {
+    "nl": "dus",
+    "tr": "Yani, so, Böylece, bu yüzden",
+    "level": "A1",
+    "id": "a1-w-0182"
+  },
+  {
+    "nl": "duur",
+    "tr": "pahalı, expensive",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0183"
+  },
+  {
+    "nl": "Duwen/Trekken",
+    "tr": "İtiniz/cekiniz.",
+    "level": "A1",
+    "id": "a1-w-0184"
+  },
+  {
+    "nl": "Echt waar?",
+    "tr": "Gerçekten mi?",
+    "level": "A1",
+    "id": "a1-w-0185"
+  },
+  {
+    "nl": "Een beetje",
+    "tr": "Birazcık",
+    "level": "A1",
+    "id": "a1-w-0186"
+  },
+  {
+    "nl": "Een beetje hoger/minder/meer",
+    "tr": "Biraz daha yüksek/daha az/daha fazla",
+    "level": "A1",
+    "id": "a1-w-0187"
+  },
+  {
+    "nl": "Een fijne dag!",
+    "tr": "Güzel günler, iyi günler!",
+    "level": "A1",
+    "id": "a1-w-0188"
+  },
+  {
+    "nl": "Een heleboel",
+    "tr": "Bir sürü",
+    "level": "A1",
+    "id": "a1-w-0189"
+  },
+  {
+    "nl": "Een hoop",
+    "tr": "Çok (birsuru)",
+    "level": "A1",
+    "id": "a1-w-0190"
+  },
+  {
+    "nl": "een moment alstublieft",
+    "tr": "bir dakika lütfen",
+    "level": "A1",
+    "id": "a1-w-0191"
+  },
+  {
+    "nl": "Een ogenblikje alstublieft.",
+    "tr": "bir dakika lütfen / Bir saniye lütfen.",
+    "level": "A1",
+    "id": "a1-w-0192"
+  },
+  {
+    "nl": "eer",
+    "tr": "onur, şeref, onur, the, credit",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0193"
+  },
+  {
+    "nl": "eerder",
+    "tr": "daha erken, önceden",
+    "level": "A1",
+    "id": "a1-w-0194"
+  },
+  {
+    "nl": "Eergisteren",
+    "tr": "Evvelsi gün",
+    "level": "A1",
+    "id": "a1-w-0195"
+  },
+  {
+    "nl": "eerst",
+    "tr": "ilk, önce",
+    "level": "A1",
+    "id": "a1-w-0196"
+  },
+  {
+    "nl": "eerste",
+    "tr": "ilk, ilk; birinci",
+    "level": "A1",
+    "id": "a1-w-0197"
+  },
+  {
+    "nl": "Eet je brood?",
+    "tr": "Ekmek yer misin?",
+    "level": "A1",
+    "id": "a1-w-0198"
+  },
+  {
+    "nl": "Eet je varkensvlees?",
+    "tr": "Domuz eti yiyor musun?",
+    "level": "A1",
+    "id": "a1-w-0199"
+  },
+  {
+    "nl": "Eet smakelijk",
+    "tr": "Afiyet olsun / Afiyet olsun.",
+    "level": "A1",
+    "id": "a1-w-0200"
+  },
+  {
+    "nl": "eeuw",
+    "tr": "yüzyıl, century",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0201"
+  },
+  {
+    "nl": "Eigen",
+    "tr": "Kendi",
+    "level": "A1",
+    "id": "a1-w-0202"
+  },
+  {
+    "nl": "Eigen risico.",
+    "tr": "Sahsi risk",
+    "level": "A1",
+    "id": "a1-w-0203"
+  },
+  {
+    "nl": "Eigenlijk wel.",
+    "tr": "Aslinda oyle.",
+    "level": "A1",
+    "id": "a1-w-0204"
+  },
+  {
+    "nl": "eisen",
+    "tr": "talep etmek, to demand, gerekmek, gerektirmek, gerekli olmak",
+    "level": "A1",
+    "id": "a1-w-0205"
+  },
+  {
+    "nl": "elf",
+    "tr": "11",
+    "level": "A1",
+    "id": "a1-w-0206"
+  },
+  {
+    "nl": "elk",
+    "tr": "her biri",
+    "level": "A1",
+    "id": "a1-w-0207"
+  },
+  {
+    "nl": "Elk jaar",
+    "tr": "Her yıl",
+    "level": "A1",
+    "id": "a1-w-0208"
+  },
+  {
+    "nl": "Elk/ieder weekend",
+    "tr": "Her/her hafta sonu",
+    "level": "A1",
+    "id": "a1-w-0209"
+  },
+  {
+    "nl": "elkaar",
+    "tr": "birbiri, birbirleri, herbiri, Birbirlerini, birlikte; birbirini",
+    "level": "A1",
+    "id": "a1-w-0210"
+  },
+  {
+    "nl": "elke",
+    "tr": "her",
+    "level": "A1",
+    "id": "a1-w-0211"
+  },
+  {
+    "nl": "en",
+    "tr": "ve, and",
+    "level": "A1",
+    "id": "a1-w-0212"
+  },
+  {
+    "nl": "enorm",
+    "tr": "çok büyük, kocaman, vast",
+    "level": "A1",
+    "id": "a1-w-0213"
+  },
+  {
+    "nl": "erg",
+    "tr": "çok",
+    "level": "A1",
+    "id": "a1-w-0214"
+  },
+  {
+    "nl": "eten",
+    "tr": "yemek(isim)",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0215"
+  },
+  {
+    "nl": "euro teken",
+    "tr": "Avro sembolü",
+    "level": "A1",
+    "id": "a1-w-0216"
+  },
+  {
+    "nl": "even",
+    "tr": "biraz, az (süre anlamında, ör. az çay",
+    "level": "A1",
+    "id": "a1-w-0217"
+  },
+  {
+    "nl": "evenzo",
+    "tr": "equally",
+    "level": "A1",
+    "id": "a1-w-0218"
+  },
+  {
+    "nl": "Exact, exact.",
+    "tr": "Aynen, aynen",
+    "level": "A1",
+    "id": "a1-w-0219"
+  },
+  {
+    "nl": "expert",
+    "tr": "uzman, expert",
+    "level": "A1",
+    "id": "a1-w-0220"
+  },
+  {
+    "nl": "falen",
+    "tr": "to fail, failure",
+    "level": "A1",
+    "id": "a1-w-0221"
+  },
+  {
+    "nl": "falend",
+    "tr": "failure",
+    "level": "A1",
+    "id": "a1-w-0222"
+  },
+  {
+    "nl": "Familie",
+    "tr": "Aile",
+    "level": "A1",
+    "id": "a1-w-0223"
+  },
+  {
+    "nl": "feiten",
+    "tr": "facts",
+    "level": "A1",
+    "id": "a1-w-0224"
+  },
+  {
+    "nl": "fictie",
+    "tr": "fiction",
+    "level": "A1",
+    "id": "a1-w-0225"
+  },
+  {
+    "nl": "fiets",
+    "tr": "bisiklet",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0226"
+  },
+  {
+    "nl": "fijn",
+    "tr": "Güzel, güzel",
+    "level": "A1",
+    "id": "a1-w-0227"
+  },
+  {
+    "nl": "Fijn weekend",
+    "tr": "Güzel bir haftasonu. Iyi haftasonlari!",
+    "level": "A1",
+    "id": "a1-w-0228"
+  },
+  {
+    "nl": "fijne",
+    "tr": "güzel",
+    "level": "A1",
+    "id": "a1-w-0229"
+  },
+  {
+    "nl": "Fijne dag verder",
+    "tr": "İyi günler dilerim. (Gunun sonunda kullanilabilir.)",
+    "level": "A1",
+    "id": "a1-w-0230"
+  },
+  {
+    "nl": "forse",
+    "tr": "significant",
+    "level": "A1",
+    "id": "a1-w-0231"
+  },
+  {
+    "nl": "fout",
+    "tr": "hata,, false",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0232"
+  },
+  {
+    "nl": "foute",
+    "tr": "false",
+    "level": "A1",
+    "id": "a1-w-0233"
+  },
+  {
+    "nl": "fruit",
+    "tr": "meyve",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0234"
+  },
+  {
+    "nl": "fusie",
+    "tr": "merger",
+    "level": "A1",
+    "id": "a1-w-0235"
+  },
+  {
+    "nl": "fysiek",
+    "tr": "fiziksel olarak, physical",
+    "level": "A1",
+    "id": "a1-w-0236"
+  },
+  {
+    "nl": "Ga door!",
+    "tr": "Devam edin!",
+    "level": "A1",
+    "id": "a1-w-0237"
+  },
+  {
+    "nl": "Ga weg!",
+    "tr": "Git başımdan! / Defol!",
+    "level": "A1",
+    "id": "a1-w-0238"
+  },
+  {
+    "nl": "Gaat het?",
+    "tr": "Hey, iyi misin? Bir şeyin yok ya? / Bir şeyin yok ya? Iyi misin? / Herşey yolunda mı? Birseyin yok ya?",
+    "level": "A1",
+    "id": "a1-w-0239"
+  },
+  {
+    "nl": "gebied",
+    "tr": "alan, o, area",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0240"
+  },
+  {
+    "nl": "gedrag",
+    "tr": "davranış, davranma, davranış, o, behavior",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0241"
+  },
+  {
+    "nl": "geel",
+    "tr": "Sarı, sarı",
+    "level": "A1",
+    "id": "a1-w-0242"
+  },
+  {
+    "nl": "geen",
+    "tr": "Hayır, yok (olmama hâli belirtir)",
+    "level": "A1",
+    "id": "a1-w-0243"
+  },
+  {
+    "nl": "geen paniek",
+    "tr": "panik yok",
+    "level": "A1",
+    "id": "a1-w-0244"
+  },
+  {
+    "nl": "geen probleem",
+    "tr": "Sorun değil",
+    "level": "A1",
+    "id": "a1-w-0245"
+  },
+  {
+    "nl": "geheel",
+    "tr": "entirely, quite",
+    "level": "A1",
+    "id": "a1-w-0246"
+  },
+  {
+    "nl": "geld",
+    "tr": "para",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0247"
+  },
+  {
+    "nl": "geld-",
+    "tr": "financial",
+    "level": "A1",
+    "id": "a1-w-0248"
+  },
+  {
+    "nl": "gele",
+    "tr": "sarı",
+    "level": "A1",
+    "id": "a1-w-0249"
+  },
+  {
+    "nl": "gelijk",
+    "tr": "similar",
+    "level": "A1",
+    "id": "a1-w-0250"
+  },
+  {
+    "nl": "geloof",
+    "tr": "inanç, buna inan, belief",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0251"
+  },
+  {
+    "nl": "geluk",
+    "tr": "mutluluk, saadet, luck",
+    "level": "A1",
+    "id": "a1-w-0252"
+  },
+  {
+    "nl": "Gelukkig nieuwjaar",
+    "tr": "Yeni Yılın Kutlu Olsun",
+    "level": "A1",
+    "id": "a1-w-0253"
+  },
+  {
+    "nl": "genen",
+    "tr": "genes",
+    "level": "A1",
+    "id": "a1-w-0254"
+  },
+  {
+    "nl": "genoeg",
+    "tr": "yeterli, enough, Yeterince",
+    "level": "A1",
+    "id": "a1-w-0255"
+  },
+  {
+    "nl": "gevaar",
+    "tr": "tehlike, Tehlike, danger",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0256"
+  },
+  {
+    "nl": "gevoel",
+    "tr": "duygu, sense",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0257"
+  },
+  {
+    "nl": "geweld",
+    "tr": "şiddet, o, violence",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0258"
+  },
+  {
+    "nl": "gewoon",
+    "tr": "sadece, common, Sadece",
+    "level": "A1",
+    "id": "a1-w-0259"
+  },
+  {
+    "nl": "Gewoon doen!",
+    "tr": "Sadece yap!",
+    "level": "A1",
+    "id": "a1-w-0260"
+  },
+  {
+    "nl": "gezond",
+    "tr": "sağlıklı",
+    "level": "A1",
+    "id": "a1-w-0261"
+  },
+  {
+    "nl": "goed",
+    "tr": "iyi",
+    "level": "A1",
+    "id": "a1-w-0262"
+  },
+  {
+    "nl": "goed idee",
+    "tr": "Iyi fikir",
+    "level": "A1",
+    "id": "a1-w-0263"
+  },
+  {
+    "nl": "Goed idee!",
+    "tr": "İyi fikir! / Iyi fikir",
+    "level": "A1",
+    "id": "a1-w-0264"
+  },
+  {
+    "nl": "Goed plan!",
+    "tr": "İyi plan! / Iyi plan",
+    "level": "A1",
+    "id": "a1-w-0265"
+  },
+  {
+    "nl": "goede",
+    "tr": "iyi",
+    "level": "A1",
+    "id": "a1-w-0266"
+  },
+  {
+    "nl": "Goedemiddag allemaal!",
+    "tr": "Herkese iyi günler!",
+    "level": "A1",
+    "id": "a1-w-0267"
+  },
+  {
+    "nl": "goedkoop",
+    "tr": "ucuz",
+    "level": "A1",
+    "id": "a1-w-0268"
+  },
+  {
+    "nl": "graag",
+    "tr": "memnuniyetle, lütfen, lütfen, memnuniyetle",
+    "level": "A1",
+    "id": "a1-w-0269"
+  },
+  {
+    "nl": "graag gedaan",
+    "tr": "Rica ederim.",
+    "level": "A1",
+    "id": "a1-w-0270"
+  },
+  {
+    "nl": "Graag zelfs.",
+    "tr": "Hatta memnuniyetle.",
+    "level": "A1",
+    "id": "a1-w-0271"
+  },
+  {
+    "nl": "gratis",
+    "tr": "Bedava, ücretsiz; bedava",
+    "level": "A1",
+    "id": "a1-w-0272"
+  },
+  {
+    "nl": "grijs",
+    "tr": "gri",
+    "level": "A1",
+    "id": "a1-w-0273"
+  },
+  {
+    "nl": "grijze",
+    "tr": "gri",
+    "level": "A1",
+    "id": "a1-w-0274"
+  },
+  {
+    "nl": "groei",
+    "tr": "growth",
+    "level": "A1",
+    "id": "a1-w-0275"
+  },
+  {
+    "nl": "groen",
+    "tr": "yeşil",
+    "level": "A1",
+    "id": "a1-w-0276"
+  },
+  {
+    "nl": "groene",
+    "tr": "yeşil",
+    "level": "A1",
+    "id": "a1-w-0277"
+  },
+  {
+    "nl": "groente",
+    "tr": "sebze",
+    "level": "A1",
+    "id": "a1-w-0278"
+  },
+  {
+    "nl": "groetjes",
+    "tr": "selamlar",
+    "level": "A1",
+    "id": "a1-w-0279"
+  },
+  {
+    "nl": "Groetjes van Marloes",
+    "tr": "Marloes'dan selamlar",
+    "level": "A1",
+    "id": "a1-w-0280"
+  },
+  {
+    "nl": "groot",
+    "tr": "büyük, major, vast",
+    "level": "A1",
+    "id": "a1-w-0281"
+  },
+  {
+    "nl": "grote",
+    "tr": "büyük",
+    "level": "A1",
+    "id": "a1-w-0282"
+  },
+  {
+    "nl": "haar",
+    "tr": "saç, onun (kadın)",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0283"
+  },
+  {
+    "nl": "hallo",
+    "tr": "merhaba",
+    "level": "A1",
+    "id": "a1-w-0284"
+  },
+  {
+    "nl": "halte",
+    "tr": "durak (otobüs durağı)",
+    "level": "A1",
+    "id": "a1-w-0285"
+  },
+  {
+    "nl": "hard",
+    "tr": "zor, hard",
+    "level": "A1",
+    "id": "a1-w-0286"
+  },
+  {
+    "nl": "hart",
+    "tr": "kalp, o, heart",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0287"
+  },
+  {
+    "nl": "hebben",
+    "tr": "sahip olmak",
+    "level": "A1",
+    "id": "a1-w-0288"
+  },
+  {
+    "nl": "heel",
+    "tr": "çok, çok (güzel)",
+    "level": "A1",
+    "id": "a1-w-0289"
+  },
+  {
+    "nl": "Heel soms",
+    "tr": "Çok nadiren",
+    "level": "A1",
+    "id": "a1-w-0290"
+  },
+  {
+    "nl": "Heel veel",
+    "tr": "Çok fazla",
+    "level": "A1",
+    "id": "a1-w-0291"
+  },
+  {
+    "nl": "heikel",
+    "tr": "thorny",
+    "level": "A1",
+    "id": "a1-w-0292"
+  },
+  {
+    "nl": "helaas",
+    "tr": "ne yazık ki, unfortunately",
+    "level": "A1",
+    "id": "a1-w-0293"
+  },
+  {
+    "nl": "Helemaal eens!",
+    "tr": "Tamamen katılıyorum!",
+    "level": "A1",
+    "id": "a1-w-0294"
+  },
+  {
+    "nl": "Helemaal geen probleem.",
+    "tr": "Hiç sorun değil.",
+    "level": "A1",
+    "id": "a1-w-0295"
+  },
+  {
+    "nl": "Helemaal top!",
+    "tr": "Kesinlikle harika!",
+    "level": "A1",
+    "id": "a1-w-0296"
+  },
+  {
+    "nl": "Help me eens.",
+    "tr": "Bir yardım ediver.",
+    "level": "A1",
+    "id": "a1-w-0297"
+  },
+  {
+    "nl": "Het begin",
+    "tr": "Başlangıç",
+    "level": "A1",
+    "id": "a1-w-0298"
+  },
+  {
+    "nl": "het ei",
+    "tr": "yumurta",
+    "level": "A1",
+    "id": "a1-w-0299"
+  },
+  {
+    "nl": "het is",
+    "tr": "o (cisim) (ör. o iyi)",
+    "level": "A1",
+    "id": "a1-w-0300"
+  },
+  {
+    "nl": "het sneeuwt",
+    "tr": "kar yağıyor",
+    "level": "A1",
+    "id": "a1-w-0301"
+  },
+  {
+    "nl": "het spijt me",
+    "tr": "Üzgünüm.",
+    "level": "A1",
+    "id": "a1-w-0302"
+  },
+  {
+    "nl": "Het valt mee.",
+    "tr": "Kotu degil/Fena degil. / Fena degil.(Bekledigimden daha iyi)",
+    "level": "A1",
+    "id": "a1-w-0303"
+  },
+  {
+    "nl": "hier",
+    "tr": "burada, buraya",
+    "level": "A1",
+    "id": "a1-w-0304"
+  },
+  {
+    "nl": "Hierheen",
+    "tr": "Buraya",
+    "level": "A1",
+    "id": "a1-w-0305"
+  },
+  {
+    "nl": "hij",
+    "tr": "o (erkek)",
+    "level": "A1",
+    "id": "a1-w-0306"
+  },
+  {
+    "nl": "hij is",
+    "tr": "o (erkek) (ör. o iyi)",
+    "level": "A1",
+    "id": "a1-w-0307"
+  },
+  {
+    "nl": "hoe",
+    "tr": "nasıl",
+    "level": "A1",
+    "id": "a1-w-0308"
+  },
+  {
+    "nl": "Hoe dan?",
+    "tr": "Nasıl yani?",
+    "level": "A1",
+    "id": "a1-w-0309"
+  },
+  {
+    "nl": "Hoe heet jij?",
+    "tr": "İsmin ne?",
+    "level": "A1",
+    "id": "a1-w-0310"
+  },
+  {
+    "nl": "Hoeft niet.",
+    "tr": "Gerek yok",
+    "level": "A1",
+    "id": "a1-w-0311"
+  },
+  {
+    "nl": "Hoeveel kost dit?",
+    "tr": "Bu ne kadar? / Bu ne kadara mal oluyor?",
+    "level": "A1",
+    "id": "a1-w-0312"
+  },
+  {
+    "nl": "Hoeveel kost het?",
+    "tr": "Ne kadar?",
+    "level": "A1",
+    "id": "a1-w-0313"
+  },
+  {
+    "nl": "hoewel",
+    "tr": "olmasına rağmen, though",
+    "level": "A1",
+    "id": "a1-w-0314"
+  },
+  {
+    "nl": "hoge",
+    "tr": "yüksek",
+    "level": "A1",
+    "id": "a1-w-0315"
+  },
+  {
+    "nl": "hoi",
+    "tr": "merhaba",
+    "level": "A1",
+    "id": "a1-w-0316"
+  },
+  {
+    "nl": "Hoi allemaal",
+    "tr": "Herkese merhabalar",
+    "level": "A1",
+    "id": "a1-w-0317"
+  },
+  {
+    "nl": "honderd",
+    "tr": "100",
+    "level": "A1",
+    "id": "a1-w-0318"
+  },
+  {
+    "nl": "hoofd-",
+    "tr": "chief",
+    "level": "A1",
+    "id": "a1-w-0319"
+  },
+  {
+    "nl": "hoog",
+    "tr": "yüksek, Yüksek",
+    "level": "A1",
+    "id": "a1-w-0320"
+  },
+  {
+    "nl": "huidig",
+    "tr": "akım, current",
+    "level": "A1",
+    "id": "a1-w-0321"
+  },
+  {
+    "nl": "huis",
+    "tr": "ev",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0322"
+  },
+  {
+    "nl": "hun",
+    "tr": "onların",
+    "level": "A1",
+    "id": "a1-w-0323"
+  },
+  {
+    "nl": "ieder",
+    "tr": "her biri",
+    "level": "A1",
+    "id": "a1-w-0324"
+  },
+  {
+    "nl": "Ieder huis/park",
+    "tr": "Her ev/park",
+    "level": "A1",
+    "id": "a1-w-0325"
+  },
+  {
+    "nl": "Ieder land",
+    "tr": "Her ülke",
+    "level": "A1",
+    "id": "a1-w-0326"
+  },
+  {
+    "nl": "Ieder/Elk (het)",
+    "tr": "Her",
+    "level": "A1",
+    "id": "a1-w-0327"
+  },
+  {
+    "nl": "iedere",
+    "tr": "her",
+    "level": "A1",
+    "id": "a1-w-0328"
+  },
+  {
+    "nl": "Iedere avond",
+    "tr": "Her akşam",
+    "level": "A1",
+    "id": "a1-w-0329"
+  },
+  {
+    "nl": "Iedere manier",
+    "tr": "Her yol (yontem)",
+    "level": "A1",
+    "id": "a1-w-0330"
+  },
+  {
+    "nl": "Iedere/elke (de)",
+    "tr": "Her",
+    "level": "A1",
+    "id": "a1-w-0331"
+  },
+  {
+    "nl": "Iedereen",
+    "tr": "Herkes",
+    "level": "A1",
+    "id": "a1-w-0332"
+  },
+  {
+    "nl": "iemand",
+    "tr": "birisi",
+    "level": "A1",
+    "id": "a1-w-0333"
+  },
+  {
+    "nl": "Iemand",
+    "tr": "Birisi",
+    "level": "A1",
+    "id": "a1-w-0334"
+  },
+  {
+    "nl": "iets",
+    "tr": "bir şey",
+    "level": "A1",
+    "id": "a1-w-0335"
+  },
+  {
+    "nl": "ik",
+    "tr": "ben",
+    "level": "A1",
+    "id": "a1-w-0336"
+  },
+  {
+    "nl": "Ik begrijp je.",
+    "tr": "Seni anlıyorum.",
+    "level": "A1",
+    "id": "a1-w-0337"
+  },
+  {
+    "nl": "ik ben",
+    "tr": "ben ... -im/-ım (ör. ben iyiyim; ben kadınım)",
+    "level": "A1",
+    "id": "a1-w-0338"
+  },
+  {
+    "nl": "Ik ben bang.",
+    "tr": "Korkuyorum.",
+    "level": "A1",
+    "id": "a1-w-0339"
+  },
+  {
+    "nl": "Ik ben beschikbaar.",
+    "tr": "Müsaitim.",
+    "level": "A1",
+    "id": "a1-w-0340"
+  },
+  {
+    "nl": "Ik ben dankbaar.",
+    "tr": "Ben müteşekkirim.",
+    "level": "A1",
+    "id": "a1-w-0341"
+  },
+  {
+    "nl": "Ik ben eerst.",
+    "tr": "Birinciyim.",
+    "level": "A1",
+    "id": "a1-w-0342"
+  },
+  {
+    "nl": "Ik ben flexibel",
+    "tr": "Ben esneğim.",
+    "level": "A1",
+    "id": "a1-w-0343"
+  },
+  {
+    "nl": "Ik ben getrouwd.",
+    "tr": "Ben evliyim.",
+    "level": "A1",
+    "id": "a1-w-0344"
+  },
+  {
+    "nl": "Ik ben kapot",
+    "tr": "Ben çok yorgunum,bitiğim",
+    "level": "A1",
+    "id": "a1-w-0345"
+  },
+  {
+    "nl": "Ik ben klaar.",
+    "tr": "Ben hazırım.",
+    "level": "A1",
+    "id": "a1-w-0346"
+  },
+  {
+    "nl": "Ik ben lang?",
+    "tr": "Ben uzunum",
+    "level": "A1",
+    "id": "a1-w-0347"
+  },
+  {
+    "nl": "Ik ben moe.",
+    "tr": "Ben yorgunum.",
+    "level": "A1",
+    "id": "a1-w-0348"
+  },
+  {
+    "nl": "Ik ben schilder.",
+    "tr": "Ben bir boyacıyım.",
+    "level": "A1",
+    "id": "a1-w-0349"
+  },
+  {
+    "nl": "Ik ben single.",
+    "tr": "Ben bekarım.",
+    "level": "A1",
+    "id": "a1-w-0350"
+  },
+  {
+    "nl": "Ik ben thuis.",
+    "tr": "Ben evdeyim.",
+    "level": "A1",
+    "id": "a1-w-0351"
+  },
+  {
+    "nl": "Ik ben Tuğba.",
+    "tr": "Ben Tuğba’yım.",
+    "level": "A1",
+    "id": "a1-w-0352"
+  },
+  {
+    "nl": "Ik ben verpleegkundige.",
+    "tr": "Ben bir hemşireyim.",
+    "level": "A1",
+    "id": "a1-w-0353"
+  },
+  {
+    "nl": "Ik ben ziek",
+    "tr": "Ben hastayım.",
+    "level": "A1",
+    "id": "a1-w-0354"
+  },
+  {
+    "nl": "Ik deed niks.",
+    "tr": "Ben hiçbir şey yapmadım. (imperfectum)",
+    "level": "A1",
+    "id": "a1-w-0355"
+  },
+  {
+    "nl": "Ik doe het.",
+    "tr": "Onu yapıyorum.",
+    "level": "A1",
+    "id": "a1-w-0356"
+  },
+  {
+    "nl": "Ik doe mee.",
+    "tr": "Ben varim/katılıyorum.",
+    "level": "A1",
+    "id": "a1-w-0357"
+  },
+  {
+    "nl": "Ik eet later",
+    "tr": "Ben sonra yiyeceğim.",
+    "level": "A1",
+    "id": "a1-w-0358"
+  },
+  {
+    "nl": "Ik ga.",
+    "tr": "Ben gidiyorum.",
+    "level": "A1",
+    "id": "a1-w-0359"
+  },
+  {
+    "nl": "ik heb",
+    "tr": "benim ...-am/-em/-im/-ım/-um/-üm var (Ör. benim arabam var)",
+    "level": "A1",
+    "id": "a1-w-0360"
+  },
+  {
+    "nl": "Ik heet Bayram",
+    "tr": "Bana Bayram derler",
+    "level": "A1",
+    "id": "a1-w-0361"
+  },
+  {
+    "nl": "Ik heet Tuğba.",
+    "tr": "Benim ismim Tuğba.",
+    "level": "A1",
+    "id": "a1-w-0362"
+  },
+  {
+    "nl": "Ik hoef niks.",
+    "tr": "Gerek yok. (Bir şey almayayım)",
+    "level": "A1",
+    "id": "a1-w-0363"
+  },
+  {
+    "nl": "Ik kijk wel.",
+    "tr": "Bakarim.",
+    "level": "A1",
+    "id": "a1-w-0364"
+  },
+  {
+    "nl": "Ik mag je.",
+    "tr": "Senden hoşlanıyorum.",
+    "level": "A1",
+    "id": "a1-w-0365"
+  },
+  {
+    "nl": "Ik neem deze.",
+    "tr": "Bunu alıyorum.",
+    "level": "A1",
+    "id": "a1-w-0366"
+  },
+  {
+    "nl": "Ik regel het.",
+    "tr": "Ben onu ayarlarim.",
+    "level": "A1",
+    "id": "a1-w-0367"
+  },
+  {
+    "nl": "Ik schreeuw nooit.",
+    "tr": "Ben asla bağırmam.",
+    "level": "A1",
+    "id": "a1-w-0368"
+  },
+  {
+    "nl": "Ik slaap later",
+    "tr": "Ben sonra uyuyacağım.",
+    "level": "A1",
+    "id": "a1-w-0369"
+  },
+  {
+    "nl": "Ik snap het",
+    "tr": "Anlıyorum onu,seni",
+    "level": "A1",
+    "id": "a1-w-0370"
+  },
+  {
+    "nl": "Ik waardeer het.",
+    "tr": "(Yaptığınız şeyi) çok takdir ediyorum. (benim icin kiymetli anlaminda)",
+    "level": "A1",
+    "id": "a1-w-0371"
+  },
+  {
+    "nl": "Ik werk",
+    "tr": "Ben çalısiyorum.",
+    "level": "A1",
+    "id": "a1-w-0372"
+  },
+  {
+    "nl": "Ik werk niet",
+    "tr": "Ben çalışmıyorum.",
+    "level": "A1",
+    "id": "a1-w-0373"
+  },
+  {
+    "nl": "Ik zei niks.",
+    "tr": "Ben bir şey söylemedim.",
+    "level": "A1",
+    "id": "a1-w-0374"
+  },
+  {
+    "nl": "ik zie het",
+    "tr": "ben onu görüyorum",
+    "level": "A1",
+    "id": "a1-w-0375"
+  },
+  {
+    "nl": "Ik zie het.",
+    "tr": "Onu görüyorum.",
+    "level": "A1",
+    "id": "a1-w-0376"
+  },
+  {
+    "nl": "Ik zie jullie",
+    "tr": "Sizi görüyorum.",
+    "level": "A1",
+    "id": "a1-w-0377"
+  },
+  {
+    "nl": "Ik zie niet.",
+    "tr": "Görmüyorum.",
+    "level": "A1",
+    "id": "a1-w-0378"
+  },
+  {
+    "nl": "Ik zie.",
+    "tr": "Görüyorum.",
+    "level": "A1",
+    "id": "a1-w-0379"
+  },
+  {
+    "nl": "Ik zit vol.",
+    "tr": "Karnım tok.",
+    "level": "A1",
+    "id": "a1-w-0380"
+  },
+  {
+    "nl": "immers",
+    "tr": "Nihayet, sonuçta, after all",
+    "level": "A1",
+    "id": "a1-w-0381"
+  },
+  {
+    "nl": "IMPERATIEF/GEBIEDENDE WIJS",
+    "tr": "EMIR KIPI/DOMINANT",
+    "level": "A1",
+    "id": "a1-w-0382"
+  },
+  {
+    "nl": "in",
+    "tr": "içinde, -de, -da (tarihinde; aylar için kullanılır))",
+    "level": "A1",
+    "id": "a1-w-0383"
+  },
+  {
+    "nl": "In het verleden",
+    "tr": "Geçmişte",
+    "level": "A1",
+    "id": "a1-w-0384"
+  },
+  {
+    "nl": "In ieder geval.",
+    "tr": "Her durumda.",
+    "level": "A1",
+    "id": "a1-w-0385"
+  },
+  {
+    "nl": "inhoud",
+    "tr": "içerik, the, contents",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0386"
+  },
+  {
+    "nl": "Is goed",
+    "tr": "Problem/ sorun yok.",
+    "level": "A1",
+    "id": "a1-w-0387"
+  },
+  {
+    "nl": "ja",
+    "tr": "Evet, evet lutfen",
+    "level": "A1",
+    "id": "a1-w-0388"
+  },
+  {
+    "nl": "Ja hoor",
+    "tr": "Evet, lütfen! / Evet. / Tabiki,evet",
+    "level": "A1",
+    "id": "a1-w-0389"
+  },
+  {
+    "nl": "Ja precies",
+    "tr": "Evet, aynen öyle.",
+    "level": "A1",
+    "id": "a1-w-0390"
+  },
+  {
+    "nl": "Ja, dat klopt.",
+    "tr": "Evet bu doğru.",
+    "level": "A1",
+    "id": "a1-w-0391"
+  },
+  {
+    "nl": "Ja, dat wel!",
+    "tr": "Orasi oyle.",
+    "level": "A1",
+    "id": "a1-w-0392"
+  },
+  {
+    "nl": "Ja, graag!",
+    "tr": "Evet, lütfen!",
+    "level": "A1",
+    "id": "a1-w-0393"
+  },
+  {
+    "nl": "Ja, ik!",
+    "tr": "Evet, ben (siradayim)",
+    "level": "A1",
+    "id": "a1-w-0394"
+  },
+  {
+    "nl": "Ja, natuurlijk.",
+    "tr": "Evet tabi ki / Evet tabi ki.",
+    "level": "A1",
+    "id": "a1-w-0395"
+  },
+  {
+    "nl": "jaar",
+    "tr": "yıl",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0396"
+  },
+  {
+    "nl": "jammer",
+    "tr": "merhamet, yazık",
+    "level": "A1",
+    "id": "a1-w-0397"
+  },
+  {
+    "nl": "jawel",
+    "tr": "evet",
+    "level": "A1",
+    "id": "a1-w-0398"
+  },
+  {
+    "nl": "jong",
+    "tr": "genç",
+    "level": "A1",
+    "id": "a1-w-0399"
+  },
+  {
+    "nl": "jonge",
+    "tr": "genç",
+    "level": "A1",
+    "id": "a1-w-0400"
+  },
+  {
+    "nl": "juli",
+    "tr": "temmuz",
+    "level": "A1",
+    "id": "a1-w-0401"
+  },
+  {
+    "nl": "jullie",
+    "tr": "siz (çoğul ikinci şahıs), sizin (çoğul ikinci şahıs)",
+    "level": "A1",
+    "id": "a1-w-0402"
+  },
+  {
+    "nl": "juni",
+    "tr": "haziran",
+    "level": "A1",
+    "id": "a1-w-0403"
+  },
+  {
+    "nl": "kaas",
+    "tr": "peynir",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0404"
+  },
+  {
+    "nl": "kamer",
+    "tr": "oda",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0405"
+  },
+  {
+    "nl": "kapot",
+    "tr": "Kırık, bozuk; kırık",
+    "level": "A1",
+    "id": "a1-w-0406"
+  },
+  {
+    "nl": "kennis",
+    "tr": "bilgi, bilgi, the, knowledge, Bilgi",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0407"
+  },
+  {
+    "nl": "keuken",
+    "tr": "mutfak",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0408"
+  },
+  {
+    "nl": "Kies een bedrag",
+    "tr": "Bir miktar seçin",
+    "level": "A1",
+    "id": "a1-w-0409"
+  },
+  {
+    "nl": "Kies je stijl",
+    "tr": "Tarzınızı seç",
+    "level": "A1",
+    "id": "a1-w-0410"
+  },
+  {
+    "nl": "Kijk eens!",
+    "tr": "Bir baksana!",
+    "level": "A1",
+    "id": "a1-w-0411"
+  },
+  {
+    "nl": "Kijk eens.",
+    "tr": "Bir bak. Bak suna. Baksana.",
+    "level": "A1",
+    "id": "a1-w-0412"
+  },
+  {
+    "nl": "Kijk uit!",
+    "tr": "Dikkat et!",
+    "level": "A1",
+    "id": "a1-w-0413"
+  },
+  {
+    "nl": "klaar",
+    "tr": "hazır",
+    "level": "A1",
+    "id": "a1-w-0414"
+  },
+  {
+    "nl": "klagen",
+    "tr": "şikayet, to complain, complaint, şikayet etmek, yakınmak, şikayetçi olmak",
+    "level": "A1",
+    "id": "a1-w-0415"
+  },
+  {
+    "nl": "klant",
+    "tr": "müşteri, client",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0416"
+  },
+  {
+    "nl": "klas",
+    "tr": "sınıf (toplu taşıma), sınıf (okul), grades",
+    "level": "A1",
+    "id": "a1-w-0417"
+  },
+  {
+    "nl": "klein",
+    "tr": "küçük",
+    "level": "A1",
+    "id": "a1-w-0418"
+  },
+  {
+    "nl": "kleine",
+    "tr": "küçük",
+    "level": "A1",
+    "id": "a1-w-0419"
+  },
+  {
+    "nl": "Klinkt goed/leuk!",
+    "tr": "Kulağa guzel geliyor!",
+    "level": "A1",
+    "id": "a1-w-0420"
+  },
+  {
+    "nl": "Klopt",
+    "tr": "Doğru",
+    "level": "A1",
+    "id": "a1-w-0421"
+  },
+  {
+    "nl": "koffie",
+    "tr": "kahve",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0422"
+  },
+  {
+    "nl": "kort",
+    "tr": "kısa",
+    "level": "A1",
+    "id": "a1-w-0423"
+  },
+  {
+    "nl": "korte",
+    "tr": "kısa",
+    "level": "A1",
+    "id": "a1-w-0424"
+  },
+  {
+    "nl": "kortom",
+    "tr": "Kısacası, in short",
+    "level": "A1",
+    "id": "a1-w-0425"
+  },
+  {
+    "nl": "kosten",
+    "tr": "maliyet",
+    "level": "A1",
+    "id": "a1-w-0426"
+  },
+  {
+    "nl": "koud",
+    "tr": "soğuk",
+    "level": "A1",
+    "id": "a1-w-0427"
+  },
+  {
+    "nl": "kracht",
+    "tr": "güç,, power",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0428"
+  },
+  {
+    "nl": "kun jij autorijden",
+    "tr": "Araba sürebilirmisin?",
+    "level": "A1",
+    "id": "a1-w-0429"
+  },
+  {
+    "nl": "kunst",
+    "tr": "sanat, Sanat, art",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0430"
+  },
+  {
+    "nl": "kwijt",
+    "tr": "kayıp",
+    "level": "A1",
+    "id": "a1-w-0431"
+  },
+  {
+    "nl": "laat",
+    "tr": "geç, Bırak",
+    "level": "A1",
+    "id": "a1-w-0432"
+  },
+  {
+    "nl": "Laat zien!",
+    "tr": "Göster!",
+    "level": "A1",
+    "id": "a1-w-0433"
+  },
+  {
+    "nl": "lang",
+    "tr": "uzun",
+    "level": "A1",
+    "id": "a1-w-0434"
+  },
+  {
+    "nl": "lange",
+    "tr": "uzun",
+    "level": "A1",
+    "id": "a1-w-0435"
+  },
+  {
+    "nl": "langzaam",
+    "tr": "ağır, Yavaşça, yavaş",
+    "level": "A1",
+    "id": "a1-w-0436"
+  },
+  {
+    "nl": "Laten we beginnen.",
+    "tr": "Hadi başlayalım.",
+    "level": "A1",
+    "id": "a1-w-0437"
+  },
+  {
+    "nl": "later",
+    "tr": "sonra, later, daha sonra",
+    "level": "A1",
+    "id": "a1-w-0438"
+  },
+  {
+    "nl": "Leeftijd",
+    "tr": "Yaş",
+    "level": "A1",
+    "id": "a1-w-0439"
+  },
+  {
+    "nl": "legaal",
+    "tr": "legal",
+    "level": "A1",
+    "id": "a1-w-0440"
+  },
+  {
+    "nl": "lekker",
+    "tr": "nefis, lezzetli",
+    "level": "A1",
+    "id": "a1-w-0441"
+  },
+  {
+    "nl": "Lekker weer, he?",
+    "tr": "Hava güzel, he?",
+    "level": "A1",
+    "id": "a1-w-0442"
+  },
+  {
+    "nl": "Lekker weer/weertje, hè?",
+    "tr": "Güzel hava değil mi?",
+    "level": "A1",
+    "id": "a1-w-0443"
+  },
+  {
+    "nl": "lelijk",
+    "tr": "çirkin",
+    "level": "A1",
+    "id": "a1-w-0444"
+  },
+  {
+    "nl": "leren",
+    "tr": "öğrenmek",
+    "level": "A1",
+    "id": "a1-w-0445"
+  },
+  {
+    "nl": "leuk",
+    "tr": "şen, eğlence, hoş; güzel",
+    "level": "A1",
+    "id": "a1-w-0446"
+  },
+  {
+    "nl": "leuke",
+    "tr": "hoş; güzel",
+    "level": "A1",
+    "id": "a1-w-0447"
+  },
+  {
+    "nl": "liggen",
+    "tr": "uzanmak-yatay koymak",
+    "level": "A1",
+    "id": "a1-w-0448"
+  },
+  {
+    "nl": "lijden",
+    "tr": "to suffer, suffering",
+    "level": "A1",
+    "id": "a1-w-0449"
+  },
+  {
+    "nl": "Lijkt me prima!",
+    "tr": "Bana uyar. (Ustteki cumleden daha az hevesli)",
+    "level": "A1",
+    "id": "a1-w-0450"
+  },
+  {
+    "nl": "links",
+    "tr": "ayrıldı, sol",
+    "level": "A1",
+    "id": "a1-w-0451"
+  },
+  {
+    "nl": "lokaal",
+    "tr": "yerel, local",
+    "level": "A1",
+    "id": "a1-w-0452"
+  },
+  {
+    "nl": "Los het op!",
+    "tr": "Çöz(ün) şunu!",
+    "level": "A1",
+    "id": "a1-w-0453"
+  },
+  {
+    "nl": "Loslaten!",
+    "tr": "Unut gitsin/birak gitsin!",
+    "level": "A1",
+    "id": "a1-w-0454"
+  },
+  {
+    "nl": "lucht",
+    "tr": "gökyüzü, air",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0455"
+  },
+  {
+    "nl": "Luister eens",
+    "tr": "Dinlesene!",
+    "level": "A1",
+    "id": "a1-w-0456"
+  },
+  {
+    "nl": "lukt het?",
+    "tr": "Başarıyor musun?",
+    "level": "A1",
+    "id": "a1-w-0457"
+  },
+  {
+    "nl": "maand",
+    "tr": "ay",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0458"
+  },
+  {
+    "nl": "maar",
+    "tr": "fakat, but, ama",
+    "level": "A1",
+    "id": "a1-w-0459"
+  },
+  {
+    "nl": "maart",
+    "tr": "Mart, mart",
+    "level": "A1",
+    "id": "a1-w-0460"
+  },
+  {
+    "nl": "macht",
+    "tr": "güç, the, power",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0461"
+  },
+  {
+    "nl": "Mag ik binnenkomen?",
+    "tr": "İçeri gelebilir miyim?",
+    "level": "A1",
+    "id": "a1-w-0462"
+  },
+  {
+    "nl": "Mag ik even?",
+    "tr": "Bir dakikaniz var mi? Birsey sorabilir miyim?",
+    "level": "A1",
+    "id": "a1-w-0463"
+  },
+  {
+    "nl": "Mag ik probeer?",
+    "tr": "Deneyebilir miyim?",
+    "level": "A1",
+    "id": "a1-w-0464"
+  },
+  {
+    "nl": "Mag jij stemmen?",
+    "tr": "Oy verme hakkiniz var mı?",
+    "level": "A1",
+    "id": "a1-w-0465"
+  },
+  {
+    "nl": "maken",
+    "tr": "yapmak, to produce, to create",
+    "level": "A1",
+    "id": "a1-w-0466"
+  },
+  {
+    "nl": "makkelijk",
+    "tr": "kolay",
+    "level": "A1",
+    "id": "a1-w-0467"
+  },
+  {
+    "nl": "man",
+    "tr": "adam",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0468"
+  },
+  {
+    "nl": "medicijn",
+    "tr": "ilaç",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0469"
+  },
+  {
+    "nl": "Mee",
+    "tr": "Birlikte, birlikte",
+    "level": "A1",
+    "id": "a1-w-0470"
+  },
+  {
+    "nl": "meer",
+    "tr": "dahası, o, daha fazla",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0471"
+  },
+  {
+    "nl": "Meestal: coklukla",
+    "tr": "Genellikle: coklukla",
+    "level": "A1",
+    "id": "a1-w-0472"
+  },
+  {
+    "nl": "mei",
+    "tr": "mayıs",
+    "level": "A1",
+    "id": "a1-w-0473"
+  },
+  {
+    "nl": "melk",
+    "tr": "süt",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0474"
+  },
+  {
+    "nl": "mening",
+    "tr": "görüş, fikir, opinion",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0475"
+  },
+  {
+    "nl": "mens",
+    "tr": "adam,, Adam, BT, human",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0476"
+  },
+  {
+    "nl": "merk",
+    "tr": "Marka, brand",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0477"
+  },
+  {
+    "nl": "merken",
+    "tr": "markalar, brands",
+    "level": "A1",
+    "id": "a1-w-0478"
+  },
+  {
+    "nl": "Met vriendelijke groet",
+    "tr": "İçtenlikle",
+    "level": "A1",
+    "id": "a1-w-0479"
+  },
+  {
+    "nl": "meteen",
+    "tr": "derhal, Hemen, hemen",
+    "level": "A1",
+    "id": "a1-w-0480"
+  },
+  {
+    "nl": "middag",
+    "tr": "öğleden sonra",
+    "level": "A1",
+    "id": "a1-w-0481"
+  },
+  {
+    "nl": "mijn",
+    "tr": "benim",
+    "level": "A1",
+    "id": "a1-w-0482"
+  },
+  {
+    "nl": "milieu",
+    "tr": "çevre, o, environment",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0483"
+  },
+  {
+    "nl": "Minder",
+    "tr": "Düşük, daha az",
+    "level": "A1",
+    "id": "a1-w-0484"
+  },
+  {
+    "nl": "Minder",
+    "tr": "Daha az",
+    "level": "A1",
+    "id": "a1-w-0485"
+  },
+  {
+    "nl": "minuut",
+    "tr": "dakika",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0486"
+  },
+  {
+    "nl": "misschien tot vrijdag!",
+    "tr": "Belki Cuma günü görüşürüz.",
+    "level": "A1",
+    "id": "a1-w-0487"
+  },
+  {
+    "nl": "mits",
+    "tr": "provided, providing, koşuluyla",
+    "level": "A1",
+    "id": "a1-w-0488"
+  },
+  {
+    "nl": "modern",
+    "tr": "modern",
+    "level": "A1",
+    "id": "a1-w-0489"
+  },
+  {
+    "nl": "moeder",
+    "tr": "anne",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0490"
+  },
+  {
+    "nl": "moeilijk",
+    "tr": "zor, hard",
+    "level": "A1",
+    "id": "a1-w-0491"
+  },
+  {
+    "nl": "moeten",
+    "tr": "shall",
+    "level": "A1",
+    "id": "a1-w-0492"
+  },
+  {
+    "nl": "mooi",
+    "tr": "güzel",
+    "level": "A1",
+    "id": "a1-w-0493"
+  },
+  {
+    "nl": "Mooi weer, he?",
+    "tr": "Hava güzel, degil mi?",
+    "level": "A1",
+    "id": "a1-w-0494"
+  },
+  {
+    "nl": "mooie",
+    "tr": "güzel",
+    "level": "A1",
+    "id": "a1-w-0495"
+  },
+  {
+    "nl": "morgen",
+    "tr": "yarın, yarın,sabah",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0496"
+  },
+  {
+    "nl": "na",
+    "tr": "sonra",
+    "level": "A1",
+    "id": "a1-w-0497"
+  },
+  {
+    "nl": "Naam",
+    "tr": "İsim",
+    "level": "A1",
+    "id": "a1-w-0498"
+  },
+  {
+    "nl": "naar",
+    "tr": "!-e, towards, -e/-a takısı, yönelme belirtir; ör. okula gitmek",
+    "level": "A1",
+    "id": "a1-w-0499"
+  },
+  {
+    "nl": "naast",
+    "tr": "yanında, Sonraki",
+    "level": "A1",
+    "id": "a1-w-0500"
+  },
+  {
+    "nl": "nacht",
+    "tr": "gece",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0501"
+  },
+  {
+    "nl": "nadruk",
+    "tr": "emphasis, focus",
+    "level": "A1",
+    "id": "a1-w-0502"
+  },
+  {
+    "nl": "Nederlanders fietsen vaak",
+    "tr": "Hollandalılar genellikle bisiklete biner",
+    "level": "A1",
+    "id": "a1-w-0503"
+  },
+  {
+    "nl": "nee",
+    "tr": "Hayır, hayır, Hayır, teşekkür ederim.",
+    "level": "A1",
+    "id": "a1-w-0504"
+  },
+  {
+    "nl": "Nee hoor!",
+    "tr": "Yok canim.",
+    "level": "A1",
+    "id": "a1-w-0505"
+  },
+  {
+    "nl": "Nee, nog nooit.",
+    "tr": "Hayır asla.",
+    "level": "A1",
+    "id": "a1-w-0506"
+  },
+  {
+    "nl": "Neem het mee!",
+    "tr": "Onu yanına al!",
+    "level": "A1",
+    "id": "a1-w-0507"
+  },
+  {
+    "nl": "negen",
+    "tr": "9",
+    "level": "A1",
+    "id": "a1-w-0508"
+  },
+  {
+    "nl": "Nergens/Ergens",
+    "tr": "Hiçbir Yer/Bir Yer",
+    "level": "A1",
+    "id": "a1-w-0509"
+  },
+  {
+    "nl": "net",
+    "tr": "sadece, resmi kıyafet, az önce",
+    "level": "A1",
+    "id": "a1-w-0510"
+  },
+  {
+    "nl": "nette",
+    "tr": "resmi kıyafet",
+    "level": "A1",
+    "id": "a1-w-0511"
+  },
+  {
+    "nl": "niet",
+    "tr": "değil, değil (olumsuzluk belirtir)",
+    "level": "A1",
+    "id": "a1-w-0512"
+  },
+  {
+    "nl": "Niet aanraken.",
+    "tr": "Dokunmayın.",
+    "level": "A1",
+    "id": "a1-w-0513"
+  },
+  {
+    "nl": "Niet doen!",
+    "tr": "Yapma!",
+    "level": "A1",
+    "id": "a1-w-0514"
+  },
+  {
+    "nl": "Niet kijken!",
+    "tr": "Sakın bakma!",
+    "level": "A1",
+    "id": "a1-w-0515"
+  },
+  {
+    "nl": "Niet meenemen!",
+    "tr": "Sakın yanina alma!",
+    "level": "A1",
+    "id": "a1-w-0516"
+  },
+  {
+    "nl": "Niet opgeven!",
+    "tr": "Pes etme!",
+    "level": "A1",
+    "id": "a1-w-0517"
+  },
+  {
+    "nl": "Niet praten.",
+    "tr": "Konuşmayiniz.",
+    "level": "A1",
+    "id": "a1-w-0518"
+  },
+  {
+    "nl": "Niet roken.",
+    "tr": "Sigara içilmez. Sigara icme.",
+    "level": "A1",
+    "id": "a1-w-0519"
+  },
+  {
+    "nl": "Niet storen.",
+    "tr": "Rahatsız etmeyin.",
+    "level": "A1",
+    "id": "a1-w-0520"
+  },
+  {
+    "nl": "Niet vergeten",
+    "tr": "Unutmayın",
+    "level": "A1",
+    "id": "a1-w-0521"
+  },
+  {
+    "nl": "Niets/niks zeggen!",
+    "tr": "Sakın bir şey söyleme!",
+    "level": "A1",
+    "id": "a1-w-0522"
+  },
+  {
+    "nl": "nieuw",
+    "tr": "yeni",
+    "level": "A1",
+    "id": "a1-w-0523"
+  },
+  {
+    "nl": "nieuwe",
+    "tr": "yeni",
+    "level": "A1",
+    "id": "a1-w-0524"
+  },
+  {
+    "nl": "nipte",
+    "tr": "narrow",
+    "level": "A1",
+    "id": "a1-w-0525"
+  },
+  {
+    "nl": "niveau",
+    "tr": "seviye, level, plane",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0526"
+  },
+  {
+    "nl": "nog",
+    "tr": "hala, başka",
+    "level": "A1",
+    "id": "a1-w-0527"
+  },
+  {
+    "nl": "Nog anders?",
+    "tr": "Başka bir şey var mı?",
+    "level": "A1",
+    "id": "a1-w-0528"
+  },
+  {
+    "nl": "Nog fijne dag",
+    "tr": "İyi günler dilerim.",
+    "level": "A1",
+    "id": "a1-w-0529"
+  },
+  {
+    "nl": "Nog iets?",
+    "tr": "Başka bir şey var mı?",
+    "level": "A1",
+    "id": "a1-w-0530"
+  },
+  {
+    "nl": "Nog vragen?",
+    "tr": "Başka sorusu olan?",
+    "level": "A1",
+    "id": "a1-w-0531"
+  },
+  {
+    "nl": "nogal",
+    "tr": "epeyce, sessiz, quite",
+    "level": "A1",
+    "id": "a1-w-0532"
+  },
+  {
+    "nl": "Nogmaals bedankt",
+    "tr": "Tekrar teşekkürler",
+    "level": "A1",
+    "id": "a1-w-0533"
+  },
+  {
+    "nl": "nooit",
+    "tr": "hiçbir zaman, asla, Asla",
+    "level": "A1",
+    "id": "a1-w-0534"
+  },
+  {
+    "nl": "nu",
+    "tr": "şimdi, now",
+    "level": "A1",
+    "id": "a1-w-0535"
+  },
+  {
+    "nl": "nul",
+    "tr": "0",
+    "level": "A1",
+    "id": "a1-w-0536"
+  },
+  {
+    "nl": "nuttig",
+    "tr": "kullanışlı, useful",
+    "level": "A1",
+    "id": "a1-w-0537"
+  },
+  {
+    "nl": "ochtend",
+    "tr": "sabah",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0538"
+  },
+  {
+    "nl": "Oeps helemaal vergeten!",
+    "tr": "Tamamen unutmuşum!",
+    "level": "A1",
+    "id": "a1-w-0539"
+  },
+  {
+    "nl": "of",
+    "tr": "veya, or, whether, veya; ya da",
+    "level": "A1",
+    "id": "a1-w-0540"
+  },
+  {
+    "nl": "Oh juist.",
+    "tr": "Doğru ya. Tabii ya.",
+    "level": "A1",
+    "id": "a1-w-0541"
+  },
+  {
+    "nl": "oké",
+    "tr": "tamam",
+    "level": "A1",
+    "id": "a1-w-0542"
+  },
+  {
+    "nl": "om",
+    "tr": "etrafında, -de, -da (saat)",
+    "level": "A1",
+    "id": "a1-w-0543"
+  },
+  {
+    "nl": "Om de week/maand",
+    "tr": "İki haftada bir/ayda bir",
+    "level": "A1",
+    "id": "a1-w-0544"
+  },
+  {
+    "nl": "omdat",
+    "tr": "Çünkü, because",
+    "level": "A1",
+    "id": "a1-w-0545"
+  },
+  {
+    "nl": "onder",
+    "tr": "altında",
+    "level": "A1",
+    "id": "a1-w-0546"
+  },
+  {
+    "nl": "online",
+    "tr": "çevrimiçi",
+    "level": "A1",
+    "id": "a1-w-0547"
+  },
+  {
+    "nl": "ons",
+    "tr": "biz, bizim",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0548"
+  },
+  {
+    "nl": "onze",
+    "tr": "bizim",
+    "level": "A1",
+    "id": "a1-w-0549"
+  },
+  {
+    "nl": "ook",
+    "tr": "ayrıca, dahi, hem de, Ayrıca, also, da; de (dahi anlamında)",
+    "level": "A1",
+    "id": "a1-w-0550"
+  },
+  {
+    "nl": "oorlog",
+    "tr": "savaş,, war",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0551"
+  },
+  {
+    "nl": "op",
+    "tr": "üzerinde, açık, bitmiş, -de, -da (tarihinde; günler için kullanılır))",
+    "level": "A1",
+    "id": "a1-w-0552"
+  },
+  {
+    "nl": "op de markt",
+    "tr": "pazarda",
+    "level": "A1",
+    "id": "a1-w-0553"
+  },
+  {
+    "nl": "open",
+    "tr": "Açık, acmak, açık",
+    "level": "A1",
+    "id": "a1-w-0554"
+  },
+  {
+    "nl": "opgehaald!",
+    "tr": "Aldım! Alindi!",
+    "level": "A1",
+    "id": "a1-w-0555"
+  },
+  {
+    "nl": "Opgelost!",
+    "tr": "Çözdüm! Çözüldü!",
+    "level": "A1",
+    "id": "a1-w-0556"
+  },
+  {
+    "nl": "oranje",
+    "tr": "turuncu",
+    "level": "A1",
+    "id": "a1-w-0557"
+  },
+  {
+    "nl": "oud",
+    "tr": "eski, yaşlı",
+    "level": "A1",
+    "id": "a1-w-0558"
+  },
+  {
+    "nl": "oude",
+    "tr": "yaşlı",
+    "level": "A1",
+    "id": "a1-w-0559"
+  },
+  {
+    "nl": "over",
+    "tr": "üzerinden, sonra",
+    "level": "A1",
+    "id": "a1-w-0560"
+  },
+  {
+    "nl": "overal",
+    "tr": "her yerde",
+    "level": "A1",
+    "id": "a1-w-0561"
+  },
+  {
+    "nl": "Overal",
+    "tr": "Her yer",
+    "level": "A1",
+    "id": "a1-w-0562"
+  },
+  {
+    "nl": "Overmorgen",
+    "tr": "Yarından sonra",
+    "level": "A1",
+    "id": "a1-w-0563"
+  },
+  {
+    "nl": "paars",
+    "tr": "Menekşe, mor",
+    "level": "A1",
+    "id": "a1-w-0564"
+  },
+  {
+    "nl": "paarse",
+    "tr": "mor",
+    "level": "A1",
+    "id": "a1-w-0565"
+  },
+  {
+    "nl": "Pak je rust",
+    "tr": "Dinlenin",
+    "level": "A1",
+    "id": "a1-w-0566"
+  },
+  {
+    "nl": "papier",
+    "tr": "kağıt, o",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0567"
+  },
+  {
+    "nl": "paspoort",
+    "tr": "pasaport",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0568"
+  },
+  {
+    "nl": "Past de bloes?",
+    "tr": "Bluz oldu mu?",
+    "level": "A1",
+    "id": "a1-w-0569"
+  },
+  {
+    "nl": "pen",
+    "tr": "kalem",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0570"
+  },
+  {
+    "nl": "per",
+    "tr": "başına, dönem ifade eder; ör.günlük, haftalık",
+    "level": "A1",
+    "id": "a1-w-0571"
+  },
+  {
+    "nl": "Persoonlijk",
+    "tr": "Şahsi",
+    "level": "A1",
+    "id": "a1-w-0572"
+  },
+  {
+    "nl": "pesten",
+    "tr": "zorbalık, to bully, zorbalık etmek, zulmetmek",
+    "level": "A1",
+    "id": "a1-w-0573"
+  },
+  {
+    "nl": "pijn",
+    "tr": "Ağrı",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0574"
+  },
+  {
+    "nl": "premie",
+    "tr": "prim,, premium",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0575"
+  },
+  {
+    "nl": "prima",
+    "tr": "ince, harika",
+    "level": "A1",
+    "id": "a1-w-0576"
+  },
+  {
+    "nl": "Proef eens!",
+    "tr": "Tadına baksana!",
+    "level": "A1",
+    "id": "a1-w-0577"
+  },
+  {
+    "nl": "raam",
+    "tr": "pencere",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0578"
+  },
+  {
+    "nl": "rechts",
+    "tr": "sağ",
+    "level": "A1",
+    "id": "a1-w-0579"
+  },
+  {
+    "nl": "Redden",
+    "tr": "Kurtamak",
+    "level": "A1",
+    "id": "a1-w-0580"
+  },
+  {
+    "nl": "reden",
+    "tr": "sebep,, reason",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0581"
+  },
+  {
+    "nl": "reeds",
+    "tr": "already",
+    "level": "A1",
+    "id": "a1-w-0582"
+  },
+  {
+    "nl": "reeks",
+    "tr": "series, range",
+    "level": "A1",
+    "id": "a1-w-0583"
+  },
+  {
+    "nl": "Regelmatig",
+    "tr": "Düzenli olarak",
+    "level": "A1",
+    "id": "a1-w-0584"
+  },
+  {
+    "nl": "regen",
+    "tr": "yağmur",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0585"
+  },
+  {
+    "nl": "reizen",
+    "tr": "seyahat etmek",
+    "level": "A1",
+    "id": "a1-w-0586"
+  },
+  {
+    "nl": "rentes",
+    "tr": "rates",
+    "level": "A1",
+    "id": "a1-w-0587"
+  },
+  {
+    "nl": "retour",
+    "tr": "Geri vermek, return",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0588"
+  },
+  {
+    "nl": "rijst",
+    "tr": "pirinç",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0589"
+  },
+  {
+    "nl": "risico",
+    "tr": "risk, risk, BT",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0590"
+  },
+  {
+    "nl": "rode",
+    "tr": "kırmızı",
+    "level": "A1",
+    "id": "a1-w-0591"
+  },
+  {
+    "nl": "roman",
+    "tr": "novel",
+    "level": "A1",
+    "id": "a1-w-0592"
+  },
+  {
+    "nl": "rommel",
+    "tr": "junk",
+    "level": "A1",
+    "id": "a1-w-0593"
+  },
+  {
+    "nl": "rood",
+    "tr": "kırmızı",
+    "level": "A1",
+    "id": "a1-w-0594"
+  },
+  {
+    "nl": "roze",
+    "tr": "pembe",
+    "level": "A1",
+    "id": "a1-w-0595"
+  },
+  {
+    "nl": "rustig",
+    "tr": "sessiz, sakin, Sessizce",
+    "level": "A1",
+    "id": "a1-w-0596"
+  },
+  {
+    "nl": "samen",
+    "tr": "birlikte",
+    "level": "A1",
+    "id": "a1-w-0597"
+  },
+  {
+    "nl": "schone",
+    "tr": "temiz",
+    "level": "A1",
+    "id": "a1-w-0598"
+  },
+  {
+    "nl": "schoon",
+    "tr": "temiz",
+    "level": "A1",
+    "id": "a1-w-0599"
+  },
+  {
+    "nl": "Schrijf je in!",
+    "tr": "Kayit yaptır",
+    "level": "A1",
+    "id": "a1-w-0600"
+  },
+  {
+    "nl": "scoort",
+    "tr": "scores",
+    "level": "A1",
+    "id": "a1-w-0601"
+  },
+  {
+    "nl": "scène",
+    "tr": "sahne, the, scene",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0602"
+  },
+  {
+    "nl": "Simon huilt.",
+    "tr": "Simon ağlıyor",
+    "level": "A1",
+    "id": "a1-w-0603"
+  },
+  {
+    "nl": "Slaap je goed?",
+    "tr": "İyi uyur musun? / İyi uyuyor musun?",
+    "level": "A1",
+    "id": "a1-w-0604"
+  },
+  {
+    "nl": "Slaap lekker",
+    "tr": "İyi uykular",
+    "level": "A1",
+    "id": "a1-w-0605"
+  },
+  {
+    "nl": "Slaap lekker!",
+    "tr": "İyi uykular!",
+    "level": "A1",
+    "id": "a1-w-0606"
+  },
+  {
+    "nl": "slecht",
+    "tr": "kötü",
+    "level": "A1",
+    "id": "a1-w-0607"
+  },
+  {
+    "nl": "sneeuw",
+    "tr": "kar, Kar",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0608"
+  },
+  {
+    "nl": "snel",
+    "tr": "hızlı",
+    "level": "A1",
+    "id": "a1-w-0609"
+  },
+  {
+    "nl": "snelle",
+    "tr": "hızlı",
+    "level": "A1",
+    "id": "a1-w-0610"
+  },
+  {
+    "nl": "Sommige mensen",
+    "tr": "Bazı insanlar",
+    "level": "A1",
+    "id": "a1-w-0611"
+  },
+  {
+    "nl": "Sommigen",
+    "tr": "Bazıları",
+    "level": "A1",
+    "id": "a1-w-0612"
+  },
+  {
+    "nl": "soms",
+    "tr": "bazen, ara sıra, bazen X sık sık",
+    "level": "A1",
+    "id": "a1-w-0613"
+  },
+  {
+    "nl": "Soms",
+    "tr": "Bazen",
+    "level": "A1",
+    "id": "a1-w-0614"
+  },
+  {
+    "nl": "soort",
+    "tr": "tür, kind",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0615"
+  },
+  {
+    "nl": "sorry",
+    "tr": "Afedersiniz, üzgünüm",
+    "level": "A1",
+    "id": "a1-w-0616"
+  },
+  {
+    "nl": "Sport jij vaak?",
+    "tr": "Sık sık spor yapar mısın?",
+    "level": "A1",
+    "id": "a1-w-0617"
+  },
+  {
+    "nl": "staan",
+    "tr": "ayakta durmak",
+    "level": "A1",
+    "id": "a1-w-0618"
+  },
+  {
+    "nl": "staat",
+    "tr": "durum, duruyor, the, state, Ayarlamak",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0619"
+  },
+  {
+    "nl": "station",
+    "tr": "istasyon",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0620"
+  },
+  {
+    "nl": "Stel je voor!",
+    "tr": "Kendini tanıt! / Hayal et!",
+    "level": "A1",
+    "id": "a1-w-0621"
+  },
+  {
+    "nl": "sterkte",
+    "tr": "Güç kuvvet diliyorum",
+    "level": "A1",
+    "id": "a1-w-0622"
+  },
+  {
+    "nl": "Stil toch!",
+    "tr": "Sessiz olun!",
+    "level": "A1",
+    "id": "a1-w-0623"
+  },
+  {
+    "nl": "stoel",
+    "tr": "sandalye",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0624"
+  },
+  {
+    "nl": "Studeren je kinderen?",
+    "tr": "Okuyorlar mı? (Üniversite çağındalar ise)",
+    "level": "A1",
+    "id": "a1-w-0625"
+  },
+  {
+    "nl": "Studie",
+    "tr": "Eğitim",
+    "level": "A1",
+    "id": "a1-w-0626"
+  },
+  {
+    "nl": "supermarkt",
+    "tr": "süpermarket",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0627"
+  },
+  {
+    "nl": "taal",
+    "tr": "dil, language",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0628"
+  },
+  {
+    "nl": "tafel",
+    "tr": "tablo",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0629"
+  },
+  {
+    "nl": "talmen",
+    "tr": "delay, postpone",
+    "level": "A1",
+    "id": "a1-w-0630"
+  },
+  {
+    "nl": "te",
+    "tr": "gerektiğinde çok, çok (büyük)",
+    "level": "A1",
+    "id": "a1-w-0631"
+  },
+  {
+    "nl": "Te vroeg",
+    "tr": "Çok erken",
+    "level": "A1",
+    "id": "a1-w-0632"
+  },
+  {
+    "nl": "tegen",
+    "tr": "karşısında, against",
+    "level": "A1",
+    "id": "a1-w-0633"
+  },
+  {
+    "nl": "Tegen niemand vertellen!",
+    "tr": "Kimseye söyleme!",
+    "level": "A1",
+    "id": "a1-w-0634"
+  },
+  {
+    "nl": "Teken hier even",
+    "tr": "Burayı imzalayın",
+    "level": "A1",
+    "id": "a1-w-0635"
+  },
+  {
+    "nl": "tenzij",
+    "tr": "unless, İstisna, sadece",
+    "level": "A1",
+    "id": "a1-w-0636"
+  },
+  {
+    "nl": "terug",
+    "tr": "geri, iade; geri",
+    "level": "A1",
+    "id": "a1-w-0637"
+  },
+  {
+    "nl": "Teveel",
+    "tr": "Çok fazla",
+    "level": "A1",
+    "id": "a1-w-0638"
+  },
+  {
+    "nl": "Theatershow allemaal!",
+    "tr": "Bunlarin hepsi tiyatro!",
+    "level": "A1",
+    "id": "a1-w-0639"
+  },
+  {
+    "nl": "thee",
+    "tr": "çay",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0640"
+  },
+  {
+    "nl": "thuis",
+    "tr": "ev, evde",
+    "level": "A1",
+    "id": "a1-w-0641"
+  },
+  {
+    "nl": "tien",
+    "tr": "10",
+    "level": "A1",
+    "id": "a1-w-0642"
+  },
+  {
+    "nl": "Tien jaar geleden",
+    "tr": "On yıl önce",
+    "level": "A1",
+    "id": "a1-w-0643"
+  },
+  {
+    "nl": "tiende",
+    "tr": "onuncu",
+    "level": "A1",
+    "id": "a1-w-0644"
+  },
+  {
+    "nl": "tiener",
+    "tr": "teenager",
+    "level": "A1",
+    "id": "a1-w-0645"
+  },
+  {
+    "nl": "tijd",
+    "tr": "zaman",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0646"
+  },
+  {
+    "nl": "Tijd verspilling",
+    "tr": "Zaman kaybı",
+    "level": "A1",
+    "id": "a1-w-0647"
+  },
+  {
+    "nl": "toch",
+    "tr": "bununla birlikte, yine de, değil mi, even so, nevertheless, still, yet, Yine de",
+    "level": "A1",
+    "id": "a1-w-0648"
+  },
+  {
+    "nl": "Toegevoegd!",
+    "tr": "Eklendi!",
+    "level": "A1",
+    "id": "a1-w-0649"
+  },
+  {
+    "nl": "toilet",
+    "tr": "tuvalet",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0650"
+  },
+  {
+    "nl": "tot",
+    "tr": "-e, -a kadar",
+    "level": "A1",
+    "id": "a1-w-0651"
+  },
+  {
+    "nl": "Tot dan!",
+    "tr": "Görüşürüz o zaman!",
+    "level": "A1",
+    "id": "a1-w-0652"
+  },
+  {
+    "nl": "Tot mails !",
+    "tr": "Mailleşmek üzere",
+    "level": "A1",
+    "id": "a1-w-0653"
+  },
+  {
+    "nl": "tot morgen",
+    "tr": "Yarın görüşürüz",
+    "level": "A1",
+    "id": "a1-w-0654"
+  },
+  {
+    "nl": "tot volgende keer",
+    "tr": "bir dahaki sefere görüşürüz",
+    "level": "A1",
+    "id": "a1-w-0655"
+  },
+  {
+    "nl": "tot volgende week",
+    "tr": "Haftaya görüşürüz.",
+    "level": "A1",
+    "id": "a1-w-0656"
+  },
+  {
+    "nl": "tot ziens",
+    "tr": "görüşürüz",
+    "level": "A1",
+    "id": "a1-w-0657"
+  },
+  {
+    "nl": "tot ziens",
+    "tr": "Hoşça kal",
+    "level": "A1",
+    "id": "a1-w-0658"
+  },
+  {
+    "nl": "Tot ziens.",
+    "tr": "Görüşmek üzere.",
+    "level": "A1",
+    "id": "a1-w-0659"
+  },
+  {
+    "nl": "totdat",
+    "tr": "a kadar, until",
+    "level": "A1",
+    "id": "a1-w-0660"
+  },
+  {
+    "nl": "trein",
+    "tr": "tren",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0661"
+  },
+  {
+    "nl": "Turkije",
+    "tr": "Türkiye",
+    "level": "A1",
+    "id": "a1-w-0662"
+  },
+  {
+    "nl": "tussen",
+    "tr": "arasında",
+    "level": "A1",
+    "id": "a1-w-0663"
+  },
+  {
+    "nl": "twaalf",
+    "tr": "12",
+    "level": "A1",
+    "id": "a1-w-0664"
+  },
+  {
+    "nl": "twee",
+    "tr": "2",
+    "level": "A1",
+    "id": "a1-w-0665"
+  },
+  {
+    "nl": "tweede",
+    "tr": "ikinci",
+    "level": "A1",
+    "id": "a1-w-0666"
+  },
+  {
+    "nl": "U",
+    "tr": "siz (saygı ifade eder)",
+    "level": "A1",
+    "id": "a1-w-0667"
+  },
+  {
+    "nl": "u bent",
+    "tr": "siz (saygı ifade eder) ... -siniz/-sınız (ör. siz",
+    "level": "A1",
+    "id": "a1-w-0668"
+  },
+  {
+    "nl": "U ook!",
+    "tr": "Size de!",
+    "level": "A1",
+    "id": "a1-w-0669"
+  },
+  {
+    "nl": "uit",
+    "tr": "dışında, dışarıya, kapalı, dışında; -den/-dan",
+    "level": "A1",
+    "id": "a1-w-0670"
+  },
+  {
+    "nl": "Uitdaging",
+    "tr": "Meydan Okuma",
+    "level": "A1",
+    "id": "a1-w-0671"
+  },
+  {
+    "nl": "uiten",
+    "tr": "fikrini beyan etmek, to express",
+    "level": "A1",
+    "id": "a1-w-0672"
+  },
+  {
+    "nl": "uitkomen",
+    "tr": "uyman/munasip olmak",
+    "level": "A1",
+    "id": "a1-w-0673"
+  },
+  {
+    "nl": "Uitleggen",
+    "tr": "Açıklamak",
+    "level": "A1",
+    "id": "a1-w-0674"
+  },
+  {
+    "nl": "uur",
+    "tr": "saat(saat 3 de)",
+    "level": "A1",
+    "id": "a1-w-0675"
+  },
+  {
+    "nl": "uw",
+    "tr": "sizin (saygı belirtir)",
+    "level": "A1",
+    "id": "a1-w-0676"
+  },
+  {
+    "nl": "vaak",
+    "tr": "sıklıkla, often, Sıklıkla, sık sık",
+    "level": "A1",
+    "id": "a1-w-0677"
+  },
+  {
+    "nl": "Vaak",
+    "tr": "Sık sık",
+    "level": "A1",
+    "id": "a1-w-0678"
+  },
+  {
+    "nl": "vader",
+    "tr": "baba",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0679"
+  },
+  {
+    "nl": "vak",
+    "tr": "alan, course",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0680"
+  },
+  {
+    "nl": "Vaker",
+    "tr": "Daha sık",
+    "level": "A1",
+    "id": "a1-w-0681"
+  },
+  {
+    "nl": "van",
+    "tr": "-den/-dan, -in/-ın/-un/-ün (Ör.okuldan, evinin anahtarı), -den, -dan",
+    "level": "A1",
+    "id": "a1-w-0682"
+  },
+  {
+    "nl": "Vanmorgen/Vanochtend/Deze ochtend",
+    "tr": "Bu sabah",
+    "level": "A1",
+    "id": "a1-w-0683"
+  },
+  {
+    "nl": "vaste prijs",
+    "tr": "sabit fiyat",
+    "level": "A1",
+    "id": "a1-w-0684"
+  },
+  {
+    "nl": "veel",
+    "tr": "bir çok",
+    "level": "A1",
+    "id": "a1-w-0685"
+  },
+  {
+    "nl": "veel plezier",
+    "tr": "Iyi eğlenceler!",
+    "level": "A1",
+    "id": "a1-w-0686"
+  },
+  {
+    "nl": "veel plezier alvast",
+    "tr": "şimdiden iyi eğlenceler",
+    "level": "A1",
+    "id": "a1-w-0687"
+  },
+  {
+    "nl": "veilig",
+    "tr": "güvenli, safe, Güvenli bir şekilde",
+    "level": "A1",
+    "id": "a1-w-0688"
+  },
+  {
+    "nl": "ver",
+    "tr": "uzak",
+    "level": "A1",
+    "id": "a1-w-0689"
+  },
+  {
+    "nl": "Vergeet het niet",
+    "tr": "Unutma (onu)",
+    "level": "A1",
+    "id": "a1-w-0690"
+  },
+  {
+    "nl": "Verspil me niet",
+    "tr": "Beni ziyan etme. (gida paketlerinde yazar)",
+    "level": "A1",
+    "id": "a1-w-0691"
+  },
+  {
+    "nl": "Verspillen.",
+    "tr": "israf etmek.",
+    "level": "A1",
+    "id": "a1-w-0692"
+  },
+  {
+    "nl": "vet",
+    "tr": "yağ (şişman), fat",
+    "level": "A1",
+    "id": "a1-w-0693"
+  },
+  {
+    "nl": "via",
+    "tr": "vasıtasıyla, üzerinden",
+    "level": "A1",
+    "id": "a1-w-0694"
+  },
+  {
+    "nl": "vier",
+    "tr": "4",
+    "level": "A1",
+    "id": "a1-w-0695"
+  },
+  {
+    "nl": "vierde",
+    "tr": "dördüncü",
+    "level": "A1",
+    "id": "a1-w-0696"
+  },
+  {
+    "nl": "vies",
+    "tr": "kirli",
+    "level": "A1",
+    "id": "a1-w-0697"
+  },
+  {
+    "nl": "vieze",
+    "tr": "kirli",
+    "level": "A1",
+    "id": "a1-w-0698"
+  },
+  {
+    "nl": "vijf",
+    "tr": "5",
+    "level": "A1",
+    "id": "a1-w-0699"
+  },
+  {
+    "nl": "vijfde",
+    "tr": "beşinci",
+    "level": "A1",
+    "id": "a1-w-0700"
+  },
+  {
+    "nl": "Vind ik ook.",
+    "tr": "Ben de aynı kanaatteyim.",
+    "level": "A1",
+    "id": "a1-w-0701"
+  },
+  {
+    "nl": "vis",
+    "tr": "balık",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0702"
+  },
+  {
+    "nl": "visum",
+    "tr": "vize",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0703"
+  },
+  {
+    "nl": "vlees",
+    "tr": "et",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0704"
+  },
+  {
+    "nl": "vliegtuig",
+    "tr": "uçak",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0705"
+  },
+  {
+    "nl": "Voel je thuis",
+    "tr": "Kendinizi evinizde hissedin!",
+    "level": "A1",
+    "id": "a1-w-0706"
+  },
+  {
+    "nl": "Voel je thuis.",
+    "tr": "Kendinizi evinizde hissedin.",
+    "level": "A1",
+    "id": "a1-w-0707"
+  },
+  {
+    "nl": "Volgend weekend",
+    "tr": "Gelecek haftasonu",
+    "level": "A1",
+    "id": "a1-w-0708"
+  },
+  {
+    "nl": "Volgende keer",
+    "tr": "Bir dahaki sefere",
+    "level": "A1",
+    "id": "a1-w-0709"
+  },
+  {
+    "nl": "Volgende week",
+    "tr": "Gelecek hafta",
+    "level": "A1",
+    "id": "a1-w-0710"
+  },
+  {
+    "nl": "Volgens mij",
+    "tr": "Bence, bana gore. / Bana gore, bildigim kadariyla",
+    "level": "A1",
+    "id": "a1-w-0711"
+  },
+  {
+    "nl": "Volhouden!",
+    "tr": "Dayan!",
+    "level": "A1",
+    "id": "a1-w-0712"
+  },
+  {
+    "nl": "voor",
+    "tr": "önünde, before, önce",
+    "level": "A1",
+    "id": "a1-w-0713"
+  },
+  {
+    "nl": "Voor een controle.",
+    "tr": "Kontrol için",
+    "level": "A1",
+    "id": "a1-w-0714"
+  },
+  {
+    "nl": "vooral",
+    "tr": "çoğunlukla, özellikle, çoğunlukla, especially",
+    "level": "A1",
+    "id": "a1-w-0715"
+  },
+  {
+    "nl": "Vorige week",
+    "tr": "Geçen hafta",
+    "level": "A1",
+    "id": "a1-w-0716"
+  },
+  {
+    "nl": "Vraag en antwoord",
+    "tr": "Soru ve cevap",
+    "level": "A1",
+    "id": "a1-w-0717"
+  },
+  {
+    "nl": "vreemd",
+    "tr": "yabancı, tuhaf, foreign",
+    "level": "A1",
+    "id": "a1-w-0718"
+  },
+  {
+    "nl": "vriend",
+    "tr": "arkadaş",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0719"
+  },
+  {
+    "nl": "vriendin",
+    "tr": "kız arkadaş",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0720"
+  },
+  {
+    "nl": "vrij",
+    "tr": "Bedava, izinli",
+    "level": "A1",
+    "id": "a1-w-0721"
+  },
+  {
+    "nl": "vrije",
+    "tr": "izinli",
+    "level": "A1",
+    "id": "a1-w-0722"
+  },
+  {
+    "nl": "Vroeg",
+    "tr": "Erken",
+    "level": "A1",
+    "id": "a1-w-0723"
+  },
+  {
+    "nl": "vrouw",
+    "tr": "kadın",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0724"
+  },
+  {
+    "nl": "waar",
+    "tr": "nerede,neresi, Nerede",
+    "level": "A1",
+    "id": "a1-w-0725"
+  },
+  {
+    "nl": "Waar naartoe/Waarheen?",
+    "tr": "Nereye gidiyorsun?",
+    "level": "A1",
+    "id": "a1-w-0726"
+  },
+  {
+    "nl": "Waar verblijven jullie?",
+    "tr": "Nerede kalacaksın?",
+    "level": "A1",
+    "id": "a1-w-0727"
+  },
+  {
+    "nl": "waard",
+    "tr": "worth",
+    "level": "A1",
+    "id": "a1-w-0728"
+  },
+  {
+    "nl": "waarde",
+    "tr": "değer,, value",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0729"
+  },
+  {
+    "nl": "waarom",
+    "tr": "neden",
+    "level": "A1",
+    "id": "a1-w-0730"
+  },
+  {
+    "nl": "Waarschinlijk wel",
+    "tr": "Muhtemelen oyle.",
+    "level": "A1",
+    "id": "a1-w-0731"
+  },
+  {
+    "nl": "Wacht even.",
+    "tr": "Bekle bir dakika.",
+    "level": "A1",
+    "id": "a1-w-0732"
+  },
+  {
+    "nl": "want",
+    "tr": "tek parmaklı eldiven, Çünkü, for, çünkü",
+    "level": "A1",
+    "id": "a1-w-0733"
+  },
+  {
+    "nl": "warm",
+    "tr": "Ilık, hafif sıcak",
+    "level": "A1",
+    "id": "a1-w-0734"
+  },
+  {
+    "nl": "warme",
+    "tr": "sıcak",
+    "level": "A1",
+    "id": "a1-w-0735"
+  },
+  {
+    "nl": "wat",
+    "tr": "ne",
+    "level": "A1",
+    "id": "a1-w-0736"
+  },
+  {
+    "nl": "Wat betekent dat?",
+    "tr": "Bu ne anlama geliyor?",
+    "level": "A1",
+    "id": "a1-w-0737"
+  },
+  {
+    "nl": "Wat betekent zelfstandig?",
+    "tr": "'Bağımsız' ne demek?",
+    "level": "A1",
+    "id": "a1-w-0738"
+  },
+  {
+    "nl": "Wat bijzonder",
+    "tr": "ne kadar olağanüstü",
+    "level": "A1",
+    "id": "a1-w-0739"
+  },
+  {
+    "nl": "Wat doe je?",
+    "tr": "Ne yapıyorsun? / Sen ne yapıyorsun?",
+    "level": "A1",
+    "id": "a1-w-0740"
+  },
+  {
+    "nl": "Wat dom!",
+    "tr": "Ne aptalım",
+    "level": "A1",
+    "id": "a1-w-0741"
+  },
+  {
+    "nl": "Wat drink je?",
+    "tr": "Ne içiyorsun? / Ne içersin?",
+    "level": "A1",
+    "id": "a1-w-0742"
+  },
+  {
+    "nl": "Wat eten jullie?",
+    "tr": "Ne yiyorsunuz?",
+    "level": "A1",
+    "id": "a1-w-0743"
+  },
+  {
+    "nl": "Wat eten we?",
+    "tr": "Ne yiyoruz?",
+    "level": "A1",
+    "id": "a1-w-0744"
+  },
+  {
+    "nl": "Wat kost dit?",
+    "tr": "Bu ne kadar?",
+    "level": "A1",
+    "id": "a1-w-0745"
+  },
+  {
+    "nl": "wat leuk",
+    "tr": "ne kadar güzel",
+    "level": "A1",
+    "id": "a1-w-0746"
+  },
+  {
+    "nl": "Wat leuk!",
+    "tr": "Ne güzel!",
+    "level": "A1",
+    "id": "a1-w-0747"
+  },
+  {
+    "nl": "Wat studeer je?",
+    "tr": "Ne okuyorsun?",
+    "level": "A1",
+    "id": "a1-w-0748"
+  },
+  {
+    "nl": "Wat studeren ze?",
+    "tr": "Ne okuyorlar?",
+    "level": "A1",
+    "id": "a1-w-0749"
+  },
+  {
+    "nl": "wat vervelend",
+    "tr": "Ne üzücü",
+    "level": "A1",
+    "id": "a1-w-0750"
+  },
+  {
+    "nl": "Wat vond je?",
+    "tr": "Nasil buldun?",
+    "level": "A1",
+    "id": "a1-w-0751"
+  },
+  {
+    "nl": "Wat vonden jullie?",
+    "tr": "Nasıl buldunuz?",
+    "level": "A1",
+    "id": "a1-w-0752"
+  },
+  {
+    "nl": "Wat zie je?",
+    "tr": "Ne görüyorsun?",
+    "level": "A1",
+    "id": "a1-w-0753"
+  },
+  {
+    "nl": "Wat zoek u?",
+    "tr": "Ne arıyorsunuz?",
+    "level": "A1",
+    "id": "a1-w-0754"
+  },
+  {
+    "nl": "Wat/oh jammer!",
+    "tr": "Ne yazık!",
+    "level": "A1",
+    "id": "a1-w-0755"
+  },
+  {
+    "nl": "water",
+    "tr": "su",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0756"
+  },
+  {
+    "nl": "wc",
+    "tr": "wc",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0757"
+  },
+  {
+    "nl": "We/wij gaan.",
+    "tr": "Biz gidiyoruz.",
+    "level": "A1",
+    "id": "a1-w-0758"
+  },
+  {
+    "nl": "week",
+    "tr": "hafta",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0759"
+  },
+  {
+    "nl": "weer",
+    "tr": "tekrar, hava, Hava - yeniden, tekrar",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0760"
+  },
+  {
+    "nl": "Wees geduldig",
+    "tr": "Sabırlı ol.",
+    "level": "A1",
+    "id": "a1-w-0761"
+  },
+  {
+    "nl": "Wees slim!",
+    "tr": "Akıllı ol!",
+    "level": "A1",
+    "id": "a1-w-0762"
+  },
+  {
+    "nl": "Wees stil!",
+    "tr": "Sessiz ol!",
+    "level": "A1",
+    "id": "a1-w-0763"
+  },
+  {
+    "nl": "Weet ik ook.",
+    "tr": "Ben de biliyorum.",
+    "level": "A1",
+    "id": "a1-w-0764"
+  },
+  {
+    "nl": "Weet je wel?",
+    "tr": "Biliyormusun? (Cumle arasinda kullanilir kendi basina kullanilmaz)",
+    "level": "A1",
+    "id": "a1-w-0765"
+  },
+  {
+    "nl": "weg",
+    "tr": "yok olmuş, gitmiş, uzakta, (Yolun kenarıyla birlikte komple), yok; eksik",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0766"
+  },
+  {
+    "nl": "weinig",
+    "tr": "Çok az, kucuk",
+    "level": "A1",
+    "id": "a1-w-0767"
+  },
+  {
+    "nl": "Weinig",
+    "tr": "Az",
+    "level": "A1",
+    "id": "a1-w-0768"
+  },
+  {
+    "nl": "Wel",
+    "tr": "İyi, var (yokun zıttı)",
+    "level": "A1",
+    "id": "a1-w-0769"
+  },
+  {
+    "nl": "welk",
+    "tr": "hangi",
+    "level": "A1",
+    "id": "a1-w-0770"
+  },
+  {
+    "nl": "welke",
+    "tr": "hangi",
+    "level": "A1",
+    "id": "a1-w-0771"
+  },
+  {
+    "nl": "welkom",
+    "tr": "karşılama; hoşgeldin",
+    "level": "A1",
+    "id": "a1-w-0772"
+  },
+  {
+    "nl": "Welkom Sait.",
+    "tr": "Hoşgeldin Sait.",
+    "level": "A1",
+    "id": "a1-w-0773"
+  },
+  {
+    "nl": "Werk",
+    "tr": "İş",
+    "level": "A1",
+    "id": "a1-w-0774"
+  },
+  {
+    "nl": "Werk je daar?",
+    "tr": "Sen orada mı çalışıyorsun?",
+    "level": "A1",
+    "id": "a1-w-0775"
+  },
+  {
+    "nl": "Werk je ook?",
+    "tr": "Sen de çalışıyor musun?",
+    "level": "A1",
+    "id": "a1-w-0776"
+  },
+  {
+    "nl": "Werk je?",
+    "tr": "Çalışıyor musun?",
+    "level": "A1",
+    "id": "a1-w-0777"
+  },
+  {
+    "nl": "werken",
+    "tr": "çalışmak",
+    "level": "A1",
+    "id": "a1-w-0778"
+  },
+  {
+    "nl": "Werkenbijdeoverheid",
+    "tr": "Devlet için çalışmak",
+    "level": "A1",
+    "id": "a1-w-0779"
+  },
+  {
+    "nl": "wet",
+    "tr": "hukuk, de, law",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0780"
+  },
+  {
+    "nl": "wettig",
+    "tr": "legal",
+    "level": "A1",
+    "id": "a1-w-0781"
+  },
+  {
+    "nl": "wie",
+    "tr": "kim",
+    "level": "A1",
+    "id": "a1-w-0782"
+  },
+  {
+    "nl": "Wie ben jij?",
+    "tr": "Sen kimsin? / Kimsin (anlatsana)?",
+    "level": "A1",
+    "id": "a1-w-0783"
+  },
+  {
+    "nl": "Wij bakken pannenkoeken.",
+    "tr": "Krep pişiriyoruz.",
+    "level": "A1",
+    "id": "a1-w-0784"
+  },
+  {
+    "nl": "Wij schrijven boeken.",
+    "tr": "Kitap yazıyoruz.",
+    "level": "A1",
+    "id": "a1-w-0785"
+  },
+  {
+    "nl": "wijn",
+    "tr": "şarap",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0786"
+  },
+  {
+    "nl": "wind",
+    "tr": "rüzgar, Rüzgar",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0787"
+  },
+  {
+    "nl": "winkel",
+    "tr": "dükkan",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0788"
+  },
+  {
+    "nl": "winnen",
+    "tr": "to gain",
+    "level": "A1",
+    "id": "a1-w-0789"
+  },
+  {
+    "nl": "wit",
+    "tr": "beyaz",
+    "level": "A1",
+    "id": "a1-w-0790"
+  },
+  {
+    "nl": "witte",
+    "tr": "beyaz",
+    "level": "A1",
+    "id": "a1-w-0791"
+  },
+  {
+    "nl": "Word (eens) wakker.",
+    "tr": "Uyan.",
+    "level": "A1",
+    "id": "a1-w-0792"
+  },
+  {
+    "nl": "zaken",
+    "tr": "issues",
+    "level": "A1",
+    "id": "a1-w-0793"
+  },
+  {
+    "nl": "Ze praat teveel.",
+    "tr": "Çok fazla konuşuyor.",
+    "level": "A1",
+    "id": "a1-w-0794"
+  },
+  {
+    "nl": "Ze weet alles!",
+    "tr": "Her şeyi biliyor!",
+    "level": "A1",
+    "id": "a1-w-0795"
+  },
+  {
+    "nl": "Zei je iets?",
+    "tr": "Bir şey mi dedin? (imperfectum)",
+    "level": "A1",
+    "id": "a1-w-0796"
+  },
+  {
+    "nl": "zeker",
+    "tr": "Kesinlikle, certain",
+    "level": "A1",
+    "id": "a1-w-0797"
+  },
+  {
+    "nl": "Zelden",
+    "tr": "Nadiren",
+    "level": "A1",
+    "id": "a1-w-0798"
+  },
+  {
+    "nl": "zelf",
+    "tr": "kendini, kendisi",
+    "level": "A1",
+    "id": "a1-w-0799"
+  },
+  {
+    "nl": "Zelf",
+    "tr": "Kendi kendine (Kendim)",
+    "level": "A1",
+    "id": "a1-w-0800"
+  },
+  {
+    "nl": "Zelfs",
+    "tr": "Hatta/Bile",
+    "level": "A1",
+    "id": "a1-w-0801"
+  },
+  {
+    "nl": "zes",
+    "tr": "6",
+    "level": "A1",
+    "id": "a1-w-0802"
+  },
+  {
+    "nl": "zesde",
+    "tr": "altıncı",
+    "level": "A1",
+    "id": "a1-w-0803"
+  },
+  {
+    "nl": "zestig",
+    "tr": "60",
+    "level": "A1",
+    "id": "a1-w-0804"
+  },
+  {
+    "nl": "zeven",
+    "tr": "7",
+    "level": "A1",
+    "id": "a1-w-0805"
+  },
+  {
+    "nl": "Zie je het?",
+    "tr": "Onu görüyor musun?",
+    "level": "A1",
+    "id": "a1-w-0806"
+  },
+  {
+    "nl": "Zie je wel?",
+    "tr": "Gordun mu? (Zor degilmis)",
+    "level": "A1",
+    "id": "a1-w-0807"
+  },
+  {
+    "nl": "Zie je?",
+    "tr": "Görüyor musun?",
+    "level": "A1",
+    "id": "a1-w-0808"
+  },
+  {
+    "nl": "ziek",
+    "tr": "hasta",
+    "level": "A1",
+    "id": "a1-w-0809"
+  },
+  {
+    "nl": "zieke",
+    "tr": "hasta",
+    "level": "A1",
+    "id": "a1-w-0810"
+  },
+  {
+    "nl": "ziekenhuis",
+    "tr": "hastane",
+    "level": "A1",
+    "artikel": "het",
+    "id": "a1-w-0811"
+  },
+  {
+    "nl": "ziekte",
+    "tr": "hastalık,, disease",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0812"
+  },
+  {
+    "nl": "zij",
+    "tr": "o, the",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0813"
+  },
+  {
+    "nl": "Zij brengt eten.",
+    "tr": "O yemek getirdi",
+    "level": "A1",
+    "id": "a1-w-0814"
+  },
+  {
+    "nl": "zij is",
+    "tr": "o (kadın) (ör. o iyi)",
+    "level": "A1",
+    "id": "a1-w-0815"
+  },
+  {
+    "nl": "zijn",
+    "tr": "olmak (isim ve sıfat fiilidir, Ör. İyiyim;güzelsin), onun (erkek)",
+    "level": "A1",
+    "id": "a1-w-0816"
+  },
+  {
+    "nl": "zin",
+    "tr": "duyu, sentence",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0817"
+  },
+  {
+    "nl": "Zin in pasta",
+    "tr": "Makarna istermısın.",
+    "level": "A1",
+    "id": "a1-w-0818"
+  },
+  {
+    "nl": "Zit stil! Stilzitten",
+    "tr": "Kıpırdamadan otur! Kıpırdamadan otur",
+    "level": "A1",
+    "id": "a1-w-0819"
+  },
+  {
+    "nl": "Zo ja;",
+    "tr": "(Yanıt evet ise) nasıl buldun?",
+    "level": "A1",
+    "id": "a1-w-0820"
+  },
+  {
+    "nl": "zoals",
+    "tr": "gibi, such as, Gibi",
+    "level": "A1",
+    "id": "a1-w-0821"
+  },
+  {
+    "nl": "zodra",
+    "tr": "yakında, once",
+    "level": "A1",
+    "id": "a1-w-0822"
+  },
+  {
+    "nl": "Zoek en bestel",
+    "tr": "Ara ve sipariş et",
+    "level": "A1",
+    "id": "a1-w-0823"
+  },
+  {
+    "nl": "zon",
+    "tr": "Güneş",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0824"
+  },
+  {
+    "nl": "zondag",
+    "tr": "pazar",
+    "level": "A1",
+    "id": "a1-w-0825"
+  },
+  {
+    "nl": "zoon",
+    "tr": "oğlum",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0826"
+  },
+  {
+    "nl": "zullen",
+    "tr": "shall",
+    "level": "A1",
+    "id": "a1-w-0827"
+  },
+  {
+    "nl": "zus",
+    "tr": "kardeş",
+    "level": "A1",
+    "artikel": "de",
+    "id": "a1-w-0828"
+  },
+  {
+    "nl": "zwart",
+    "tr": "siyah",
+    "level": "A1",
+    "id": "a1-w-0829"
+  },
+  {
+    "nl": "zwarte",
+    "tr": "siyah",
+    "level": "A1",
+    "id": "a1-w-0830"
+  },
+  {
+    "nl": "zwijgt",
+    "tr": "silent",
+    "level": "A1",
+    "id": "a1-w-0831"
+  },
+  {
+    "nl": "één",
+    "tr": "1",
+    "level": "A1",
+    "id": "a1-w-0832"
+  },
+  {
+    "nl": "……………………., zei ze.",
+    "tr": ", dedi.",
+    "level": "A1",
+    "id": "a1-w-0833"
+  }
+]

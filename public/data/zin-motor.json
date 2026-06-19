@@ -3,212 +3,894 @@
     {
       "tr": "Ben her gün Hollandaca çalışıyorum.",
       "nl": "Ik studeer elke dag Nederlands.",
+      "tr_parts": [
+        {
+          "text": "Ben",
+          "type": "onderwerp"
+        },
+        {
+          "text": "her gün",
+          "type": "tijd"
+        },
+        {
+          "text": "Hollandaca",
+          "type": "object"
+        },
+        {
+          "text": "çalışıyorum",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "Ik" },
-        { "type": "werkwoord", "correct": "studeer" },
-        { "type": "tijd", "correct": "elke dag" },
-        { "type": "object", "correct": "Nederlands" }
+        {
+          "type": "onderwerp",
+          "correct": "Ik"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "studeer"
+        },
+        {
+          "type": "tijd",
+          "correct": "elke dag"
+        },
+        {
+          "type": "object",
+          "correct": "Nederlands"
+        }
       ]
     },
     {
       "tr": "O (erkek) dün bana telefon etti.",
       "nl": "Hij belde gisteren mij op.",
+      "tr_parts": [
+        {
+          "text": "O (erkek)",
+          "type": "onderwerp"
+        },
+        {
+          "text": "dün",
+          "type": "tijd"
+        },
+        {
+          "text": "bana",
+          "type": "object"
+        },
+        {
+          "text": "telefon etti",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "Hij" },
-        { "type": "werkwoord", "correct": "belde" },
-        { "type": "tijd", "correct": "gisteren" },
-        { "type": "object", "correct": "mij" },
-        { "type": "scheidbaar", "correct": "op" }
+        {
+          "type": "onderwerp",
+          "correct": "Hij"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "belde"
+        },
+        {
+          "type": "tijd",
+          "correct": "gisteren"
+        },
+        {
+          "type": "object",
+          "correct": "mij"
+        },
+        {
+          "type": "scheidbaar",
+          "correct": "op"
+        }
       ]
     },
     {
       "tr": "Biz treni bekliyoruz.",
       "nl": "Wij wachten op de trein.",
+      "tr_parts": [
+        {
+          "text": "Biz",
+          "type": "onderwerp"
+        },
+        {
+          "text": "treni",
+          "type": "object"
+        },
+        {
+          "text": "bekliyoruz",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "Wij" },
-        { "type": "werkwoord", "correct": "wachten" },
-        { "type": "object", "correct": "op de trein" }
+        {
+          "type": "onderwerp",
+          "correct": "Wij"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "wachten"
+        },
+        {
+          "type": "object",
+          "correct": "op de trein"
+        }
       ]
     },
     {
       "tr": "Sen saat sekizde kalkıyorsun.",
       "nl": "Jij staat om acht uur op.",
+      "tr_parts": [
+        {
+          "text": "Sen",
+          "type": "onderwerp"
+        },
+        {
+          "text": "saat sekizde",
+          "type": "tijd"
+        },
+        {
+          "text": "kalkıyorsun",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "Jij" },
-        { "type": "werkwoord", "correct": "staat" },
-        { "type": "tijd", "correct": "om acht uur" },
-        { "type": "scheidbaar", "correct": "op" }
+        {
+          "type": "onderwerp",
+          "correct": "Jij"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "staat"
+        },
+        {
+          "type": "tijd",
+          "correct": "om acht uur"
+        },
+        {
+          "type": "scheidbaar",
+          "correct": "op"
+        }
       ]
     },
     {
       "tr": "Çocuklar parkta birlikte oynuyorlar.",
       "nl": "De kinderen spelen samen in het park.",
+      "tr_parts": [
+        {
+          "text": "Çocuklar",
+          "type": "onderwerp"
+        },
+        {
+          "text": "parkta",
+          "type": "object"
+        },
+        {
+          "text": "birlikte",
+          "type": "bijwoord"
+        },
+        {
+          "text": "oynuyorlar",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "De kinderen" },
-        { "type": "werkwoord", "correct": "spelen" },
-        { "type": "bijwoord", "correct": "samen" },
-        { "type": "object", "correct": "in het park" }
+        {
+          "type": "onderwerp",
+          "correct": "De kinderen"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "spelen"
+        },
+        {
+          "type": "bijwoord",
+          "correct": "samen"
+        },
+        {
+          "type": "object",
+          "correct": "in het park"
+        }
       ]
     },
     {
       "tr": "Ben her sabah kahve içerim.",
       "nl": "Ik drink elke ochtend koffie.",
+      "tr_parts": [
+        {
+          "text": "Ben",
+          "type": "onderwerp"
+        },
+        {
+          "text": "her sabah",
+          "type": "tijd"
+        },
+        {
+          "text": "kahve",
+          "type": "object"
+        },
+        {
+          "text": "içerim",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "Ik" },
-        { "type": "werkwoord", "correct": "drink" },
-        { "type": "tijd", "correct": "elke ochtend" },
-        { "type": "object", "correct": "koffie" }
+        {
+          "type": "onderwerp",
+          "correct": "Ik"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "drink"
+        },
+        {
+          "type": "tijd",
+          "correct": "elke ochtend"
+        },
+        {
+          "type": "object",
+          "correct": "koffie"
+        }
       ]
     },
     {
       "tr": "Biz yarın sinemaya gidiyoruz.",
       "nl": "Wij gaan morgen naar de bioscoop.",
+      "tr_parts": [
+        {
+          "text": "Biz",
+          "type": "onderwerp"
+        },
+        {
+          "text": "yarın",
+          "type": "tijd"
+        },
+        {
+          "text": "sinemaya",
+          "type": "object"
+        },
+        {
+          "text": "gidiyoruz",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "Wij" },
-        { "type": "werkwoord", "correct": "gaan" },
-        { "type": "tijd", "correct": "morgen" },
-        { "type": "object", "correct": "naar de bioscoop" }
+        {
+          "type": "onderwerp",
+          "correct": "Wij"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "gaan"
+        },
+        {
+          "type": "tijd",
+          "correct": "morgen"
+        },
+        {
+          "type": "object",
+          "correct": "naar de bioscoop"
+        }
       ]
     },
     {
       "tr": "Kadın süpermarkette alışveriş yapıyor.",
       "nl": "De vrouw doet boodschappen in de supermarkt.",
+      "tr_parts": [
+        {
+          "text": "Kadın",
+          "type": "onderwerp"
+        },
+        {
+          "text": "süpermarkette",
+          "type": "object"
+        },
+        {
+          "text": "alışveriş",
+          "type": "object"
+        },
+        {
+          "text": "yapıyor",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "De vrouw" },
-        { "type": "werkwoord", "correct": "doet" },
-        { "type": "object", "correct": "boodschappen" },
-        { "type": "object", "correct": "in de supermarkt" }
+        {
+          "type": "onderwerp",
+          "correct": "De vrouw"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "doet"
+        },
+        {
+          "type": "object",
+          "correct": "boodschappen"
+        },
+        {
+          "type": "object",
+          "correct": "in de supermarkt"
+        }
       ]
     },
     {
       "tr": "Ben trenle işe gidiyorum.",
       "nl": "Ik ga met de trein naar het werk.",
+      "tr_parts": [
+        {
+          "text": "Ben",
+          "type": "onderwerp"
+        },
+        {
+          "text": "trenle",
+          "type": "object"
+        },
+        {
+          "text": "işe",
+          "type": "object"
+        },
+        {
+          "text": "gidiyorum",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "Ik" },
-        { "type": "werkwoord", "correct": "ga" },
-        { "type": "object", "correct": "met de trein" },
-        { "type": "object", "correct": "naar het werk" }
+        {
+          "type": "onderwerp",
+          "correct": "Ik"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "ga"
+        },
+        {
+          "type": "object",
+          "correct": "met de trein"
+        },
+        {
+          "type": "object",
+          "correct": "naar het werk"
+        }
       ]
     },
     {
       "tr": "Onlar evde Türkçe konuşuyorlar.",
       "nl": "Zij spreken thuis Turks.",
+      "tr_parts": [
+        {
+          "text": "Onlar",
+          "type": "onderwerp"
+        },
+        {
+          "text": "evde",
+          "type": "bijwoord"
+        },
+        {
+          "text": "Türkçe",
+          "type": "object"
+        },
+        {
+          "text": "konuşuyorlar",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "Zij" },
-        { "type": "werkwoord", "correct": "spreken" },
-        { "type": "bijwoord", "correct": "thuis" },
-        { "type": "object", "correct": "Turks" }
+        {
+          "type": "onderwerp",
+          "correct": "Zij"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "spreken"
+        },
+        {
+          "type": "bijwoord",
+          "correct": "thuis"
+        },
+        {
+          "type": "object",
+          "correct": "Turks"
+        }
       ]
     },
     {
       "tr": "Sen kitabı çantana koyuyorsun.",
       "nl": "Jij stopt het boek in je tas.",
+      "tr_parts": [
+        {
+          "text": "Sen",
+          "type": "onderwerp"
+        },
+        {
+          "text": "kitabı",
+          "type": "object"
+        },
+        {
+          "text": "çantana",
+          "type": "object"
+        },
+        {
+          "text": "koyuyorsun",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "Jij" },
-        { "type": "werkwoord", "correct": "stopt" },
-        { "type": "object", "correct": "het boek" },
-        { "type": "object", "correct": "in je tas" }
+        {
+          "type": "onderwerp",
+          "correct": "Jij"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "stopt"
+        },
+        {
+          "type": "object",
+          "correct": "het boek"
+        },
+        {
+          "type": "object",
+          "correct": "in je tas"
+        }
       ]
     },
     {
       "tr": "Biz bu akşam lezzetli yemek yiyoruz.",
       "nl": "Wij eten vanavond lekker eten.",
+      "tr_parts": [
+        {
+          "text": "Biz",
+          "type": "onderwerp"
+        },
+        {
+          "text": "bu akşam",
+          "type": "tijd"
+        },
+        {
+          "text": "lezzetli yemek",
+          "type": "object"
+        },
+        {
+          "text": "yiyoruz",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "Wij" },
-        { "type": "werkwoord", "correct": "eten" },
-        { "type": "tijd", "correct": "vanavond" },
-        { "type": "object", "correct": "lekker eten" }
+        {
+          "type": "onderwerp",
+          "correct": "Wij"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "eten"
+        },
+        {
+          "type": "tijd",
+          "correct": "vanavond"
+        },
+        {
+          "type": "object",
+          "correct": "lekker eten"
+        }
       ]
     },
     {
       "tr": "O (kadın) televizyonu kapatıyor.",
       "nl": "Zij zet de televisie uit.",
+      "tr_parts": [
+        {
+          "text": "O (kadın)",
+          "type": "onderwerp"
+        },
+        {
+          "text": "televizyonu",
+          "type": "object"
+        },
+        {
+          "text": "kapatıyor",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "Zij" },
-        { "type": "werkwoord", "correct": "zet" },
-        { "type": "object", "correct": "de televisie" },
-        { "type": "scheidbaar", "correct": "uit" }
+        {
+          "type": "onderwerp",
+          "correct": "Zij"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "zet"
+        },
+        {
+          "type": "object",
+          "correct": "de televisie"
+        },
+        {
+          "type": "scheidbaar",
+          "correct": "uit"
+        }
       ]
     },
     {
       "tr": "Ben mektubu arkadaşıma gönderiyorum.",
       "nl": "Ik stuur de brief naar mijn vriend.",
+      "tr_parts": [
+        {
+          "text": "Ben",
+          "type": "onderwerp"
+        },
+        {
+          "text": "mektubu",
+          "type": "object"
+        },
+        {
+          "text": "arkadaşıma",
+          "type": "object"
+        },
+        {
+          "text": "gönderiyorum",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "Ik" },
-        { "type": "werkwoord", "correct": "stuur" },
-        { "type": "object", "correct": "de brief" },
-        { "type": "object", "correct": "naar mijn vriend" }
+        {
+          "type": "onderwerp",
+          "correct": "Ik"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "stuur"
+        },
+        {
+          "type": "object",
+          "correct": "de brief"
+        },
+        {
+          "type": "object",
+          "correct": "naar mijn vriend"
+        }
       ]
     },
     {
       "tr": "Öğretmen sınıfa giriyor.",
       "nl": "De docent komt de klas binnen.",
+      "tr_parts": [
+        {
+          "text": "Öğretmen",
+          "type": "onderwerp"
+        },
+        {
+          "text": "sınıfa",
+          "type": "object"
+        },
+        {
+          "text": "giriyor",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "De docent" },
-        { "type": "werkwoord", "correct": "komt" },
-        { "type": "object", "correct": "de klas" },
-        { "type": "scheidbaar", "correct": "binnen" }
+        {
+          "type": "onderwerp",
+          "correct": "De docent"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "komt"
+        },
+        {
+          "type": "object",
+          "correct": "de klas"
+        },
+        {
+          "type": "scheidbaar",
+          "correct": "binnen"
+        }
       ]
     },
     {
       "tr": "Biz hafta sonu temizlik yapıyoruz.",
       "nl": "Wij maken in het weekend schoon.",
+      "tr_parts": [
+        {
+          "text": "Biz",
+          "type": "onderwerp"
+        },
+        {
+          "text": "hafta sonu",
+          "type": "tijd"
+        },
+        {
+          "text": "temizlik yapıyoruz",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "Wij" },
-        { "type": "werkwoord", "correct": "maken" },
-        { "type": "tijd", "correct": "in het weekend" },
-        { "type": "scheidbaar", "correct": "schoon" }
+        {
+          "type": "onderwerp",
+          "correct": "Wij"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "maken"
+        },
+        {
+          "type": "tijd",
+          "correct": "in het weekend"
+        },
+        {
+          "type": "scheidbaar",
+          "correct": "schoon"
+        }
       ]
     },
     {
       "tr": "Köpek bahçede hızlı koşuyor.",
       "nl": "De hond rent snel in de tuin.",
+      "tr_parts": [
+        {
+          "text": "Köpek",
+          "type": "onderwerp"
+        },
+        {
+          "text": "bahçede",
+          "type": "object"
+        },
+        {
+          "text": "hızlı",
+          "type": "bijwoord"
+        },
+        {
+          "text": "koşuyor",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "De hond" },
-        { "type": "werkwoord", "correct": "rent" },
-        { "type": "bijwoord", "correct": "snel" },
-        { "type": "object", "correct": "in de tuin" }
+        {
+          "type": "onderwerp",
+          "correct": "De hond"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "rent"
+        },
+        {
+          "type": "bijwoord",
+          "correct": "snel"
+        },
+        {
+          "type": "object",
+          "correct": "in de tuin"
+        }
       ]
     },
     {
       "tr": "Sen sorulara cevap veriyorsun.",
       "nl": "Jij geeft antwoord op de vragen.",
+      "tr_parts": [
+        {
+          "text": "Sen",
+          "type": "onderwerp"
+        },
+        {
+          "text": "sorulara",
+          "type": "object"
+        },
+        {
+          "text": "cevap",
+          "type": "object"
+        },
+        {
+          "text": "veriyorsun",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "Jij" },
-        { "type": "werkwoord", "correct": "geeft" },
-        { "type": "object", "correct": "antwoord" },
-        { "type": "object", "correct": "op de vragen" }
+        {
+          "type": "onderwerp",
+          "correct": "Jij"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "geeft"
+        },
+        {
+          "type": "object",
+          "correct": "antwoord"
+        },
+        {
+          "type": "object",
+          "correct": "op de vragen"
+        }
       ]
     },
     {
       "tr": "O (erkek) arkadaşını partiye davet ediyor.",
       "nl": "Hij nodigt zijn vriend voor het feest uit.",
+      "tr_parts": [
+        {
+          "text": "O (erkek)",
+          "type": "onderwerp"
+        },
+        {
+          "text": "arkadaşını",
+          "type": "object"
+        },
+        {
+          "text": "partiye",
+          "type": "object"
+        },
+        {
+          "text": "davet ediyor",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "Hij" },
-        { "type": "werkwoord", "correct": "nodigt" },
-        { "type": "object", "correct": "sein vriend" },
-        { "type": "object", "correct": "voor het feest" },
-        { "type": "scheidbaar", "correct": "uit" }
+        {
+          "type": "onderwerp",
+          "correct": "Hij"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "nodigt"
+        },
+        {
+          "type": "object",
+          "correct": "zijn vriend"
+        },
+        {
+          "type": "object",
+          "correct": "voor het feest"
+        },
+        {
+          "type": "scheidbaar",
+          "correct": "uit"
+        }
       ]
     },
     {
       "tr": "Ben tatilde dinleniyorum.",
       "nl": "Ik rust uit tijdens de vakantie.",
+      "tr_parts": [
+        {
+          "text": "Ben",
+          "type": "onderwerp"
+        },
+        {
+          "text": "tatilde",
+          "type": "tijd"
+        },
+        {
+          "text": "dinleniyorum",
+          "type": "werkwoord"
+        }
+      ],
       "components": [
-        { "type": "onderwerp", "correct": "Ik" },
-        { "type": "werkwoord", "correct": "rust" },
-        { "type": "scheidbaar", "correct": "uit" },
-        { "type": "tijd", "correct": "tijdens de vakantie" }
+        {
+          "type": "onderwerp",
+          "correct": "Ik"
+        },
+        {
+          "type": "werkwoord",
+          "correct": "rust"
+        },
+        {
+          "type": "scheidbaar",
+          "correct": "uit"
+        },
+        {
+          "type": "tijd",
+          "correct": "tijdens de vakantie"
+        }
       ]
     }
   ],
   "pools": {
-    "onderwerp": ["Ik", "Jij", "Hij", "Zij", "Het kind", "Wij", "Jullie", "De jongen", "De vrouw", "De hond", "De docent", "De kinderen"],
-    "werkwoord": ["studeer", "belde", "wachten", "staat", "spelen", "drink", "gaan", "doet", "ga", "spreken", "stopt", "eten", "zet", "stuur", "komt", "maken", "rent", "geeft", "nodigt", "rust", "werkt", "wonen", "hebt", "is"],
-    "tijd": ["elke dag", "gisteren", "om acht uur", "elke ochtend", "morgen", "vanavond", "in het weekend", "tijdens de vakantie", "nu", "vandaag", "altijd", "soms", "nooit"],
-    "bijwoord": ["samen", "thuis", "snel", "hier", "daar", "buiten", "binnen", "alleen", "graag", "ook"],
-    "object": ["Nederlands", "mij", "op de trein", "in het park", "koffie", "naar de bioscoop", "boodschappen", "in de supermarkt", "met de trein", "naar het werk", "Turks", "het boek", "in je tas", "lekker eten", "de televisie", "de brief", "naar mijn vriend", "de klas", "in de tuin", "antwoord", "op de vragen", "sein vriend", "voor het feest", "water", "brood", "een boek", "naar school", "naar huis", "een hond", "veel geld"],
-    "scheidbaar": ["op", "uit", "binnen", "schoon", "af", "mee", "tegen", "toe"]
+    "onderwerp": [
+      "Ik",
+      "Jij",
+      "Hij",
+      "Zij",
+      "Het kind",
+      "Wij",
+      "Jullie",
+      "De jongen",
+      "De vrouw",
+      "De hond",
+      "De docent",
+      "De kinderen"
+    ],
+    "werkwoord": [
+      "studeer",
+      "belde",
+      "wachten",
+      "staat",
+      "spelen",
+      "drink",
+      "gaan",
+      "doet",
+      "ga",
+      "spreken",
+      "stopt",
+      "eten",
+      "zet",
+      "stuur",
+      "komt",
+      "maken",
+      "rent",
+      "geeft",
+      "nodigt",
+      "rust",
+      "werkt",
+      "wonen",
+      "hebt",
+      "is"
+    ],
+    "tijd": [
+      "elke dag",
+      "gisteren",
+      "om acht uur",
+      "elke ochtend",
+      "morgen",
+      "vanavond",
+      "in het weekend",
+      "tijdens de vakantie",
+      "nu",
+      "vandaag",
+      "altijd",
+      "soms",
+      "nooit"
+    ],
+    "bijwoord": [
+      "samen",
+      "thuis",
+      "snel",
+      "hier",
+      "daar",
+      "buiten",
+      "binnen",
+      "alleen",
+      "graag",
+      "ook"
+    ],
+    "object": [
+      "Nederlands",
+      "mij",
+      "op de trein",
+      "in het park",
+      "koffie",
+      "naar de bioscoop",
+      "boodschappen",
+      "in de supermarkt",
+      "met de trein",
+      "naar het werk",
+      "Turks",
+      "het boek",
+      "in je tas",
+      "lekker eten",
+      "de televisie",
+      "de brief",
+      "naar mijn vriend",
+      "de klas",
+      "in de tuin",
+      "antwoord",
+      "op de vragen",
+      "zijn vriend",
+      "voor het feest",
+      "water",
+      "brood",
+      "een boek",
+      "naar school",
+      "naar huis",
+      "een hond",
+      "veel geld"
+    ],
+    "scheidbaar": [
+      "op",
+      "uit",
+      "binnen",
+      "schoon",
+      "af",
+      "mee",
+      "tegen",
+      "toe"
+    ]
   },
   "feedback_phrases": [
     "Goed bezig!",

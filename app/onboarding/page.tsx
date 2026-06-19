@@ -12,53 +12,30 @@ const NIVEAUS: Array<{
   code: Niveau;
   title: string;
   desc: string;
-  color: string;
-  textColor: string;
 }> = [
   {
     code: "A1",
     title: "A1 — Beginner",
     desc: "Ik ken geen Nederlands. Ik begin bij het begin.",
-    color: "bg-[var(--ds-white)]",
-    textColor: "text-[var(--ds-black)]",
   },
   {
     code: "A2",
     title: "A2 — Basis",
     desc: "Ik ken eenvoudige woorden en kan korte zinnen maken.",
-    color: "bg-[var(--ds-yellow)]",
-    textColor: "text-[var(--ds-black)]",
   },
   {
     code: "B1",
     title: "B1 — Gemiddeld",
     desc: "Ik begrijp de hoofdpunten en kan me redden in alledaagse situaties.",
-    color: "bg-[var(--ds-blue)]",
-    textColor: "text-[var(--ds-white)]",
   },
   {
     code: "B2",
     title: "B2 — Gevorderd",
     desc: "Ik begrijp complexe teksten en spreek vrij vloeiend.",
-    color: "bg-[var(--ds-black)]",
-    textColor: "text-[var(--ds-white)]",
   },
 ];
 
 const rtlCodes = ["ar", "fa"];
-
-// Language block colors per spec — Mondrian pattern
-const LANG_COLORS: Record<string, { bg: string; text: string; border?: boolean }> = {
-  tr: { bg: "bg-[var(--ds-red)]", text: "text-[var(--ds-white)]" },
-  ar: { bg: "bg-[var(--ds-blue)]", text: "text-[var(--ds-white)]" },
-  uk: { bg: "bg-[var(--ds-yellow)]", text: "text-[var(--ds-black)]" },
-  en: { bg: "bg-[var(--ds-white)]", text: "text-[var(--ds-black)]", border: true },
-  fa: { bg: "bg-[var(--ds-blue)]", text: "text-[var(--ds-white)]" },
-  pl: { bg: "bg-[var(--ds-red)]", text: "text-[var(--ds-white)]" },
-  es: { bg: "bg-[var(--ds-yellow)]", text: "text-[var(--ds-black)]" },
-  fr: { bg: "bg-[var(--ds-white)]", text: "text-[var(--ds-black)]", border: true },
-  so: { bg: "bg-[var(--ds-blue)]", text: "text-[var(--ds-white)]" },
-};
 
 export default function OnboardingPage() {
   const router = useRouter();
@@ -78,47 +55,53 @@ export default function OnboardingPage() {
   }
 
   return (
-    <div className="min-h-screen bg-[var(--ds-white)] flex flex-col">
-      {/* Top half — branding */}
-      <div className="px-6 py-12 md:py-16 flex flex-col justify-center">
-        <h1 className="text-4xl md:text-5xl font-bold tracking-wide text-[var(--ds-black)] lowercase">
+    <div className="min-h-screen bg-[var(--bg)] text-[var(--text)] flex flex-col justify-between">
+      {/* Top logo & branding */}
+      <header className="px-6 pt-12 pb-6 text-center select-none">
+        <h1 className="text-4xl md:text-5xl font-black tracking-tight text-[var(--primary)] lowercase">
           spraakmaker
         </h1>
-        <p className="mt-3 text-[var(--ds-black)] text-base md:text-lg font-medium opacity-60">
-          Leer Nederlands op jouw manier
+        <p className="mt-2 text-sm font-semibold text-[var(--text-muted)] max-w-xs mx-auto">
+          Leer Nederlands op jouw manier (Hollandaca'yı kendi tarzınla öğren)
         </p>
-      </div>
+      </header>
 
-      {/* Content */}
-      <div className="flex-1 flex flex-col justify-center px-6 pb-6 overflow-hidden">
+      {/* Content wrapper */}
+      <main className="flex-1 flex flex-col justify-center px-6 pb-12 w-full max-w-md mx-auto overflow-hidden">
         <AnimatePresence mode="wait">
           {step === "moedertaal" ? (
             <motion.div
               key="moedertaal"
-              initial={{ opacity: 0, x: -30 }}
-              animate={{ opacity: 1, x: 0 }}
-              exit={{ opacity: 0, x: -30 }}
-              transition={{ duration: 0.2 }}
+              initial={{ opacity: 0, y: 15 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0, y: -15 }}
+              transition={{ duration: 0.25 }}
             >
-              <h2 className="text-xl font-bold text-[var(--ds-black)] mb-6">
+              <h2 className="text-xl font-extrabold text-[var(--text)] mb-5 text-center">
                 Wat is je moedertaal?
               </h2>
 
-              {/* 3x3 grid, 3px gap, Mondrian tarzı */}
-              <div className="grid grid-cols-3 gap-[3px] bg-[var(--ds-black)] border-[3px] border-[var(--ds-black)] max-w-lg">
-                {MOEDERTALEN.map(({ code, label }) => {
+              <div className="grid grid-cols-3 gap-3">
+                {MOEDERTALEN.map(({ code, label, available }) => {
                   const isRtl = rtlCodes.includes(code);
-                  const colors = LANG_COLORS[code] ?? { bg: "bg-[var(--ds-white)]", text: "text-[var(--ds-black)]", border: true };
                   return (
                     <button
                       key={code}
-                      onClick={() => handleLangSelect(code)}
+                      disabled={!available}
+                      onClick={() => available && handleLangSelect(code)}
                       dir={isRtl ? "rtl" : "ltr"}
-                      className={`${colors.bg} ${colors.text} px-4 py-6 md:py-8 font-bold text-sm md:text-base border-none hover:opacity-80 active:opacity-70 transition-opacity cursor-pointer flex items-center justify-center text-center ${
-                        colors.border ? "border-[3px] border-[var(--ds-black)]" : ""
+                      className={`bg-[var(--surface)] border border-[var(--border)] rounded-2xl py-4 font-bold text-xs transition-all shadow-[0_4px_10px_rgba(0,0,0,0.02)] flex flex-col items-center justify-center text-center ${
+                        available 
+                          ? "text-[var(--text)] hover:border-[var(--accent)] hover:shadow-sm active:scale-95 cursor-pointer" 
+                          : "text-[var(--text-muted)] opacity-50 cursor-not-allowed"
                       }`}
                     >
-                      {label}
+                      <span>{label}</span>
+                      {!available && (
+                        <span className="text-[8px] font-black uppercase tracking-wider text-[var(--accent)] mt-1">
+                          Yakında
+                        </span>
+                      )}
                     </button>
                   );
                 })}
@@ -127,54 +110,53 @@ export default function OnboardingPage() {
           ) : (
             <motion.div
               key="niveau"
-              initial={{ opacity: 0, x: 30 }}
-              animate={{ opacity: 1, x: 0 }}
-              exit={{ opacity: 0, x: 30 }}
-              transition={{ duration: 0.2 }}
+              initial={{ opacity: 0, y: 15 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0, y: -15 }}
+              transition={{ duration: 0.25 }}
+              className="flex flex-col gap-4"
             >
               <button
                 onClick={() => setStep("moedertaal")}
-                className="text-xs font-bold uppercase tracking-widest opacity-40 hover:opacity-70 mb-4 flex items-center gap-1 bg-transparent border-none cursor-pointer p-0"
+                className="self-start text-[10px] font-black uppercase tracking-widest text-[var(--text-muted)] hover:text-[var(--text)] flex items-center gap-1.5 bg-transparent border-none cursor-pointer p-0 transition-colors"
               >
                 ← Terug
               </button>
 
-              <h2 className="text-xl font-bold text-[var(--ds-black)] mb-6">
+              <h2 className="text-xl font-extrabold text-[var(--text)] mb-3 text-center">
                 Wat is je niveau?
               </h2>
 
-              <div className="flex flex-col gap-[3px] bg-[var(--ds-black)] border-[3px] border-[var(--ds-black)] max-w-lg">
-                {NIVEAUS.map(({ code, title, desc, color, textColor }) => (
+              <div className="flex flex-col gap-3">
+                {NIVEAUS.map(({ code, title, desc }) => (
                   <button
                     key={code}
                     onClick={() => handleNiveauSelect(code)}
-                    className={`${color} ${textColor} p-5 text-left border-none cursor-pointer hover:opacity-90 transition-opacity flex items-center justify-between gap-4`}
+                    className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-4 text-left cursor-pointer hover:border-[var(--accent)] hover:shadow-md transition-all flex items-center justify-between gap-4 select-none group shadow-[0_4px_10px_rgba(0,0,0,0.02)]"
                   >
-                    <div>
-                      <p className="font-bold text-base">{title}</p>
-                      <p className={`text-sm mt-0.5 ${textColor === "text-[var(--ds-white)]" ? "opacity-70" : "opacity-60"}`}>
+                    <div className="flex-1">
+                      <p className="font-extrabold text-sm text-[var(--text)]">{title}</p>
+                      <p className="text-[11px] text-[var(--text-muted)] mt-1 font-semibold leading-normal">
                         {desc}
                       </p>
                     </div>
-                    <IconArrowRight size={20} />
+                    <span className="text-[var(--text-muted)] group-hover:text-[var(--accent)] transition-colors">
+                      <IconArrowRight size={18} />
+                    </span>
                   </button>
                 ))}
               </div>
 
-              <p className="text-xs opacity-40 mt-4 max-w-sm">
+              <p className="text-[10px] text-[var(--text-muted)] text-center font-bold tracking-wide mt-2 select-none">
                 Geen zorgen — je kunt dit later wijzigen via Instellingen.
               </p>
             </motion.div>
           )}
         </AnimatePresence>
-      </div>
+      </main>
 
-      {/* Bottom Mondrian accent strip */}
-      <div className="flex border-t-[3px] border-[var(--ds-black)] h-6">
-        <div className="flex-1 bg-[var(--ds-red)] border-r-[3px] border-[var(--ds-black)]" />
-        <div className="flex-1 bg-[var(--ds-yellow)] border-r-[3px] border-[var(--ds-black)]" />
-        <div className="flex-1 bg-[var(--ds-blue)]" />
-      </div>
+      {/* Footer padding */}
+      <footer className="h-6" />
     </div>
   );
 }

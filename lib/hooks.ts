@@ -8,7 +8,7 @@ const DEFAULT_PROGRESS: Progress = {
   verbs: {},
   lessons: {},
   games: {
-    highScores: { zinBouwen: 0, vulIn: 0, vertaal: 0, snelronde: 0, zinMotor: 0 },
+    highScores: { zinBouwen: 0, vulIn: 0, vertaal: 0, snelronde: 0, zinMotor: 0, flitsen: 0 },
     totalPoints: 0,
     streak: 0,
     lastPlayDate: "",
@@ -17,13 +17,14 @@ const DEFAULT_PROGRESS: Progress = {
       zinMotor: { playCount: 0, correctCount: 0, wrongCount: 0, history: [] },
       vertaal: { playCount: 0, correctCount: 0, wrongCount: 0, history: [] },
       snelronde: { playCount: 0, correctCount: 0, wrongCount: 0, history: [] },
-      vulIn: { playCount: 0, correctCount: 0, wrongCount: 0, history: [] }
+      vulIn: { playCount: 0, correctCount: 0, wrongCount: 0, history: [] },
+      flitsen: { playCount: 0, correctCount: 0, wrongCount: 0, history: [] },
+      grammatica: { playCount: 0, correctCount: 0, wrongCount: 0, history: [] },
     }
   },
   settings: {
     dailyGoal: 15,
     theme: "system",
-    uiStyle: "modern",
   },
 };
 
@@ -49,7 +50,50 @@ export function useProgress() {
     });
   }, []);
 
-  return { progress, updateProgress };
+  const recordActivity = useCallback(() => {
+    setProgress((prev) => {
+      const todayStr = new Date().toISOString().slice(0, 10);
+      let newStreak = prev.games.streak ?? 0;
+      const lastPlay = prev.games.lastPlayDate ? prev.games.lastPlayDate.slice(0, 10) : "";
+
+      if (!lastPlay) {
+        newStreak = 1;
+      } else if (lastPlay === todayStr) {
+        // Bugün zaten oynandı, streak korunur
+      } else {
+        const yesterday = new Date();
+        yesterday.setDate(yesterday.getDate() - 1);
+        const yesterdayStr = yesterday.toISOString().slice(0, 10);
+
+        if (lastPlay === yesterdayStr) {
+          newStreak = newStreak + 1;
+        } else {
+          newStreak = 1; // Seri koptu
+        }
+      }
+
+      const newDaily = prev.games.daily?.date === todayStr
+        ? { date: todayStr, count: prev.games.daily.count + 1 }
+        : { date: todayStr, count: 1 };
+
+      const next = {
+        ...prev,
+        games: {
+          ...prev.games,
+          streak: newStreak,
+          lastPlayDate: new Date().toISOString(),
+          daily: newDaily,
+        }
+      };
+
+      try {
+        localStorage.setItem("spraakmaker-progress", JSON.stringify(next));
+      } catch {}
+      return next;
+    });
+  }, []);
+
+  return { progress, updateProgress, recordActivity };
 }
 
 export function useMoedertaal() {

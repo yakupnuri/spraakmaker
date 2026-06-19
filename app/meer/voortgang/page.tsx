@@ -1,6 +1,7 @@
 "use client";
 
 import { useProgress } from "@/lib/hooks";
+import Link from "next/link";
 
 interface GameHistoryItem {
   sentence: string;
@@ -20,7 +21,11 @@ export default function VoortgangPage() {
   const streak = progress.games.streak ?? 0;
   const highScores = progress.games.highScores;
 
-  // Son 7 gün mini dot göstergesi
+  const dailyGoal = progress.settings.dailyGoal ?? 15;
+  const todayStr = new Date().toISOString().slice(0, 10);
+  const dailyCount = progress.games.daily?.date === todayStr ? progress.games.daily.count : 0;
+
+  // Last 7 days dot indicator
   const today = new Date();
   const last7Days = Array.from({ length: 7 }, (_, i) => {
     const d = new Date(today);
@@ -31,16 +36,16 @@ export default function VoortgangPage() {
     return { label: dayLabel, active };
   });
 
-  // LocalStorage üzerinden oyun istatistiklerini alalım
   const stats = progress.games.stats || {
     zinBouwen: { playCount: 0, correctCount: 0, wrongCount: 0, history: [] },
     zinMotor: { playCount: 0, correctCount: 0, wrongCount: 0, history: [] },
     vertaal: { playCount: 0, correctCount: 0, wrongCount: 0, history: [] },
     snelronde: { playCount: 0, correctCount: 0, wrongCount: 0, history: [] },
     vulIn: { playCount: 0, correctCount: 0, wrongCount: 0, history: [] },
+    flitsen: { playCount: 0, correctCount: 0, wrongCount: 0, history: [] },
+    grammatica: { playCount: 0, correctCount: 0, wrongCount: 0, history: [] },
   };
 
-  // Oyun bazlı başarı hesaplamaları
   const getSuccessRate = (correct: number, total: number) => {
     if (total === 0) return 0;
     return Math.round((correct / total) * 100);
@@ -48,13 +53,32 @@ export default function VoortgangPage() {
 
   const zinBouwenRate = getSuccessRate(stats.zinBouwen?.correctCount || 0, stats.zinBouwen?.playCount || 0);
   const zinMotorRate = getSuccessRate(stats.zinMotor?.correctCount || 0, stats.zinMotor?.playCount || 0);
+  const vertaalRate = getSuccessRate(stats.vertaal?.correctCount || 0, stats.vertaal?.playCount || 0);
+  const snelrondeRate = getSuccessRate(stats.snelronde?.correctCount || 0, stats.snelronde?.playCount || 0);
+  const vulInRate = getSuccessRate(stats.vulIn?.correctCount || 0, stats.vulIn?.playCount || 0);
+  const flitsenRate = getSuccessRate(stats.flitsen?.correctCount || 0, stats.flitsen?.playCount || 0);
+  const grammaticaRate = getSuccessRate(stats.grammatica?.correctCount || 0, stats.grammatica?.playCount || 0);
 
-  // Tüm oyunlar genel toplamı
-  const totalCorrect = (stats.zinBouwen?.correctCount || 0) + (stats.zinMotor?.correctCount || 0);
-  const totalPlay = (stats.zinBouwen?.playCount || 0) + (stats.zinMotor?.playCount || 0);
+  const totalCorrect =
+    (stats.zinBouwen?.correctCount || 0) +
+    (stats.zinMotor?.correctCount || 0) +
+    (stats.vertaal?.correctCount || 0) +
+    (stats.snelronde?.correctCount || 0) +
+    (stats.vulIn?.correctCount || 0) +
+    (stats.flitsen?.correctCount || 0) +
+    (stats.grammatica?.correctCount || 0);
+
+  const totalPlay =
+    (stats.zinBouwen?.playCount || 0) +
+    (stats.zinMotor?.playCount || 0) +
+    (stats.vertaal?.playCount || 0) +
+    (stats.snelronde?.playCount || 0) +
+    (stats.vulIn?.playCount || 0) +
+    (stats.flitsen?.playCount || 0) +
+    (stats.grammatica?.playCount || 0);
+
   const generalSuccessRate = getSuccessRate(totalCorrect, totalPlay);
 
-  // En son hatalı yapılan cümleleri tüm oyun geçmişlerinden toplayalım
   const allHistory: Array<GameHistoryItem & { gameLabel: string }> = [];
   if (stats.zinBouwen?.history) {
     allHistory.push(...stats.zinBouwen.history.map(h => ({ ...h, gameLabel: "Zin Bouwen" })));
@@ -62,148 +86,205 @@ export default function VoortgangPage() {
   if (stats.zinMotor?.history) {
     allHistory.push(...stats.zinMotor.history.map(h => ({ ...h, gameLabel: "Zin Motor" })));
   }
+  if (stats.vertaal?.history) {
+    allHistory.push(...stats.vertaal.history.map(h => ({ ...h, gameLabel: "Vertaal" })));
+  }
+  if (stats.snelronde?.history) {
+    allHistory.push(...stats.snelronde.history.map(h => ({ ...h, gameLabel: "Snelronde" })));
+  }
+  if (stats.vulIn?.history) {
+    allHistory.push(...stats.vulIn.history.map(h => ({ ...h, gameLabel: "Vul In" })));
+  }
+  if (stats.flitsen?.history) {
+    allHistory.push(...stats.flitsen.history.map(h => ({ ...h, gameLabel: "Flitsen" })));
+  }
+  if (stats.grammatica?.history) {
+    allHistory.push(...stats.grammatica.history.map(h => ({ ...h, gameLabel: "Grammatica" })));
+  }
 
-  // Tarihe göre en yeni hataları sıralayıp ilk 5 tanesini alalım
   const recentErrors = allHistory
     .filter(h => !h.correct)
     .sort((a, b) => new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime())
     .slice(0, 5);
 
-  // Başarı oranına göre pedagojik tavsiye üretelim
   const getPedagogicalAdvice = () => {
     if (totalPlay === 0) {
-      return "Er zijn nog geen spellen gespeeld. Speel 'Zin Motor' of 'Zin Bouwen' om je voortgangsrapport en persoonlijk advies te bekijken!";
+      return "Er zijn nog geen spellen gespeeld. Speel een van de spellen of lees een les om je voortgangsrapport en persoonlijk advies te bekijken!";
     }
     if (generalSuccessRate >= 85) {
-      return "Je bent geweldig bezig! Je zinsbouw is erg sterk. Om jezelf meer uit te dagen, kun je naar de Quiz-module op de 'Werkwoorden'-pagina gaan of moeilijke zinnen met voorzetsels en scheidbare werkwoorden blijven oefenen.";
+      return "Je bent geweldig bezig! Je zinsbouw en vertalingen zijn erg sterk. Om jezelf meer uit te dagen, kun je naar de Quiz-module op de 'Grammatica'-pagina gaan of moeilijke zinnen met bijzinnen blijven oefenen.";
     }
     if (generalSuccessRate >= 50) {
-      return "Je bent op de goede weg. Soms loop je echter vast op de woordvolgorde of de vervoeging van het werkwoord. Bekijk de feedback in de foutenanalyse en let extra op het gebruik van voorzetsels.";
+      return "Je bent op de goede weg. Soms loop je echter vast op de woordvolgorde, bijzinnen of de vervoeging van het werkwoord. Bekijk de feedback in de foutenanalyse.";
     }
-    return "Het is nuttig om de basis te versterken. Neem de grammaticaregels door onder 'Werkwoorden > Grammatica' voordat je begint te spelen, en draai de wielen aandachtig zonder te haasten.";
+    return "Het is nuttig om de basis te versterken. Neem de grammaticaregels door onder 'Grammatica' voordat je begint te spelen, en oefen de zinnen aandachtig.";
   };
 
   const adviceText = getPedagogicalAdvice();
 
-  // Modül ilerleme barları
+  // Ders istatistikleri detayları
+  const lessonList = Object.values(progress.lessons);
+  const totalStars = lessonList.reduce((acc, curr) => acc + (curr.stars || 0), 0);
+  const avgStars = lessonDone > 0 ? (totalStars / lessonDone).toFixed(1) : "0.0";
+
   const modules = [
-    { label: "Kaarten", color: "var(--ds-blue)", current: flashcardTotal, max: 1000 },
-    { label: "Spel", color: "var(--ds-red)", current: highScores.zinBouwen + highScores.vulIn + highScores.vertaal + (highScores.zinMotor || 0), max: 500 },
-    { label: "Lessen", color: "var(--ds-yellow)", current: lessonDone, max: 111 },
-    { label: "Werkwoorden", color: "var(--ds-blue)", current: verbTotal, max: 676 },
+    { label: "Kaarten", color: "var(--primary)", current: flashcardTotal, max: 1000 },
+    { label: "Spel", color: "var(--accent)", current: highScores.zinBouwen + highScores.vulIn + highScores.vertaal + (highScores.zinMotor || 0) + (highScores.flitsen || 0), max: 500 },
+    { label: "Lessen", color: "var(--success)", current: lessonDone, max: 108 },
+    { label: "Grammatica", color: "var(--warning)", current: verbTotal, max: 6 },
   ];
 
   return (
-    <div className="flex flex-col min-h-screen bg-[var(--ds-white)]">
-      {/* Header — bg-ds-black */}
-      <div className="bg-[var(--ds-black)] px-5 py-4 flex justify-between items-center">
-        <span className="text-sm font-bold text-[var(--ds-white)] lowercase tracking-wide">analiz & voortgang</span>
-        <span className="text-xs font-black uppercase tracking-widest text-[var(--ds-yellow)]">DASHBOARD</span>
-      </div>
+    <div className="flex flex-col min-h-screen bg-[var(--bg)] text-[var(--text)] pb-24 select-none">
+      {/* Header */}
+      <header className="bg-[var(--surface)] border-b border-[var(--border)] px-5 py-4 shadow-sm flex items-center justify-between">
+        <div className="flex items-center gap-3">
+          <Link
+            href="/meer"
+            className="text-[var(--text)] text-sm font-bold opacity-75 hover:opacity-100 transition-opacity"
+          >
+            ←
+          </Link>
+          <h1 className="text-sm font-black uppercase tracking-wider text-[var(--text)]">Voortgang & Analiz</h1>
+        </div>
+        <span className="text-[10px] font-black uppercase tracking-widest text-[var(--accent)] bg-[var(--accent-soft)] px-2.5 py-0.5 rounded-full border border-[var(--accent)]/15">
+          DASHBOARD
+        </span>
+      </header>
 
-      <div className="p-[3px] bg-[var(--ds-black)] flex-1 flex flex-col gap-[3px]">
+      {/* Main Container */}
+      <main className="flex-grow p-4 w-full max-w-lg mx-auto flex flex-col gap-4">
         
-        {/* Streak & Genel Başarı Oranı (Asimetrik Mondrian) */}
-        <div className="grid grid-cols-3 gap-[3px]">
-          {/* Streak - Sarı */}
-          <div className="bg-[var(--ds-yellow)] p-5 col-span-1 flex flex-col justify-between">
-            <span className="text-[10px] font-black uppercase tracking-widest text-[var(--ds-black)] opacity-60">STREAK</span>
-            <div className="flex items-baseline gap-1 mt-2">
-              <span className="text-4xl font-black leading-none">{streak}</span>
-              <span className="text-xs font-bold opacity-75">dagen</span>
+        {/* Streak, Genel Başarı & Günlük Hedef */}
+        <div className="grid grid-cols-3 gap-3">
+          {/* Streak */}
+          <div className="bg-[var(--surface)] border border-[var(--border)] p-4 rounded-2xl flex flex-col justify-between shadow-sm">
+            <span className="text-[9px] font-black uppercase tracking-widest text-[var(--text-muted)]">STREAK</span>
+            <div className="flex items-baseline gap-0.5 mt-2">
+              <span className="text-3xl font-black font-mono leading-none text-[var(--warning)]">{streak}</span>
+              <span className="text-[10px] font-bold text-[var(--text-muted)]">dgn</span>
             </div>
           </div>
 
-          {/* Genel Başarı Oranı - Mavi */}
-          <div className="bg-[var(--ds-blue)] p-5 col-span-2 flex flex-col justify-between text-[var(--ds-white)]">
-            <span className="text-[10px] font-black uppercase tracking-widest text-[var(--ds-white)] opacity-70">GENEL BAŞARI</span>
-            <div className="flex items-baseline justify-between mt-2">
-              <span className="text-4xl font-black leading-none">{generalSuccessRate}%</span>
-              <span className="text-[10px] font-bold opacity-70 uppercase tracking-widest">
-                {totalCorrect} Goed / {totalPlay} Totaal
+          {/* Günlük Hedef */}
+          <div className="bg-[var(--surface)] border border-[var(--border)] p-4 rounded-2xl flex flex-col justify-between shadow-sm">
+            <span className="text-[9px] font-black uppercase tracking-widest text-[var(--text-muted)]">AKTİVİTE</span>
+            <div className="flex items-baseline justify-between mt-2 flex-wrap gap-x-1">
+              <span className="text-3xl font-black font-mono leading-none text-[var(--accent)]">{dailyCount}</span>
+              <span className="text-[10px] font-bold text-[var(--text-muted)]">/ {dailyGoal}</span>
+            </div>
+            {/* Progress bar */}
+            <div className="w-full h-1 bg-[var(--surface-2)] rounded-full mt-2 overflow-hidden">
+              <div className="h-full bg-[var(--accent)] rounded-full transition-all duration-500" style={{ width: `${Math.min((dailyCount / dailyGoal) * 100, 100)}%` }} />
+            </div>
+          </div>
+
+          {/* Genel Başarı Oranı */}
+          <div className="bg-[var(--surface)] border border-[var(--border)] p-4 rounded-2xl flex flex-col justify-between shadow-sm">
+            <span className="text-[9px] font-black uppercase tracking-widest text-[var(--text-muted)]">BAŞARI</span>
+            <div className="flex items-baseline justify-between mt-2 flex-wrap gap-x-1">
+              <span className="text-3xl font-black font-mono leading-none text-[var(--success)]">{generalSuccessRate}%</span>
+              <span className="text-[9px] font-bold text-[var(--text-muted)]">
+                {totalCorrect}/{totalPlay}
               </span>
             </div>
-            {/* Küçük De Stijl bar */}
-            <div className="w-full h-2 bg-blue-900 mt-2">
-              <div className="h-full bg-[var(--ds-yellow)]" style={{ width: `${generalSuccessRate}%` }} />
+            {/* Progress bar */}
+            <div className="w-full h-1 bg-[var(--surface-2)] rounded-full mt-2 overflow-hidden">
+              <div className="h-full bg-[var(--success)] rounded-full transition-all duration-500" style={{ width: `${generalSuccessRate}%` }} />
             </div>
           </div>
         </div>
 
-        {/* Oyun Detay İstatistikleri (Zin Bouwen & Zin Motor) */}
-        <div className="grid grid-cols-2 gap-[3px]">
-          {/* Zin Bouwen Stats - Kırmızı */}
-          <div className="bg-[var(--ds-red)] p-5 text-[var(--ds-white)] flex flex-col justify-between">
-            <div>
-              <span className="text-[9px] font-black uppercase tracking-widest text-[var(--ds-white)] opacity-70">ZIN BOUWEN</span>
-              <p className="text-3xl font-black mt-2">{zinBouwenRate}%</p>
-              <p className="text-[10px] opacity-75 mt-0.5">Zinsbouw succes</p>
+        {/* Oyun Detay İstatistikleri */}
+        <div className="grid grid-cols-2 gap-3">
+          {[
+            { label: "ZIN BOUWEN", rate: zinBouwenRate, play: stats.zinBouwen?.playCount || 0, correct: stats.zinBouwen?.correctCount || 0, desc: "Cümle yapısı başarısı" },
+            { label: "ZIN MOTOR", rate: zinMotorRate, play: stats.zinMotor?.playCount || 0, correct: stats.zinMotor?.correctCount || 0, desc: "Öge-yuva başarısı" },
+            { label: "VERTAAL", rate: vertaalRate, play: stats.vertaal?.playCount || 0, correct: stats.vertaal?.correctCount || 0, desc: "Serbest çeviri başarısı" },
+            { label: "SNELRONDE", rate: snelrondeRate, play: stats.snelronde?.playCount || 0, correct: stats.snelronde?.correctCount || 0, desc: "Zamana karşı başarı" },
+            { label: "VUL IN", rate: vulInRate, play: stats.vulIn?.playCount || 0, correct: stats.vulIn?.correctCount || 0, desc: "Boşluk doldurma başarısı" },
+            { label: "FLITSEN", rate: flitsenRate, play: stats.flitsen?.playCount || 0, correct: stats.flitsen?.correctCount || 0, desc: "Hızlı tekrar başarısı" },
+          ].map((game) => (
+            <div key={game.label} className="bg-[var(--surface)] border border-[var(--border)] p-4 rounded-2xl flex flex-col justify-between shadow-sm hover:shadow-md transition-shadow">
+              <div>
+                <span className="text-[9px] font-black uppercase tracking-widest text-[var(--text-muted)]">{game.label}</span>
+                <p className="text-2xl font-black mt-2 text-[var(--text)] font-mono">{game.rate}%</p>
+                <p className="text-[10px] text-[var(--text-muted)] mt-0.5 font-semibold">{game.desc}</p>
+              </div>
+              <div className="mt-3 text-[9px] border-t border-[var(--border)] pt-2 flex justify-between font-bold text-[var(--text-muted)] uppercase tracking-wide">
+                <span>Oynama: {game.play}</span>
+                <span>Doğru: {game.correct}</span>
+              </div>
             </div>
-            <div className="mt-3 text-[10px] border-t border-red-500 pt-2 flex justify-between opacity-80 font-bold">
-              <span>Gespeeld: {stats.zinBouwen?.playCount || 0}</span>
-              <span>Goed: {stats.zinBouwen?.correctCount || 0}</span>
-            </div>
-          </div>
-
-          {/* Zin Motor Stats - Beyaz & Kalın Çerçeve */}
-          <div className="bg-[var(--ds-white)] border-[3px] border-[var(--ds-black)] p-5 text-[var(--ds-black)] flex flex-col justify-between">
-            <div>
-              <span className="text-[9px] font-black uppercase tracking-widest text-[var(--ds-black)] opacity-60">ZIN MOTOR</span>
-              <p className="text-3xl font-black mt-2 text-[var(--ds-black)]">{zinMotorRate}%</p>
-              <p className="text-[10px] opacity-70 mt-0.5">Zinmotor succes</p>
-            </div>
-            <div className="mt-3 text-[10px] border-t border-[var(--ds-gray)] pt-2 flex justify-between opacity-80 font-bold">
-              <span>Gespeeld: {stats.zinMotor?.playCount || 0}</span>
-              <span>Goed: {stats.zinMotor?.correctCount || 0}</span>
-            </div>
-          </div>
+          ))}
         </div>
 
-        {/* Pedagojik Gelişim Tavsiyesi - Sarı */}
-        <div className="bg-[var(--ds-yellow)] p-5 text-[var(--ds-black)] flex flex-col gap-2">
-          <span className="text-[10px] font-black uppercase tracking-widest text-[var(--ds-black)] opacity-60">
-            PERSOONLIJK ONTWIKKELINGSADVIES
+        {/* Lessen (Dersler) İstatistik Kartı */}
+        <div className="bg-[var(--surface)] border border-[var(--border)] p-5 rounded-2xl flex flex-col shadow-sm">
+          <span className="text-[9px] font-black uppercase tracking-widest text-[var(--text-muted)] mb-3 block">
+            LESSTATISTIEKEN (DERS İSTATİSTİKLERİ)
           </span>
-          <p className="text-xs md:text-sm font-bold leading-relaxed">
+          <div className="grid grid-cols-3 gap-2.5">
+            <div className="bg-[var(--surface-2)] p-4 rounded-xl shadow-sm text-center">
+              <p className="text-[9px] font-black uppercase tracking-widest text-[var(--text-muted)]">Tamamlanan</p>
+              <p className="text-2xl font-black mt-1 text-[var(--success)] font-mono">{lessonDone} <span className="text-xs font-bold text-[var(--text-muted)]">/ 108</span></p>
+            </div>
+            <div className="bg-[var(--surface-2)] p-4 rounded-xl shadow-sm text-center">
+              <p className="text-[9px] font-black uppercase tracking-widest text-[var(--text-muted)]">Toplam Yıldız</p>
+              <p className="text-2xl font-black mt-1 text-[var(--warning)] font-mono">⭐{totalStars}</p>
+            </div>
+            <div className="bg-[var(--surface-2)] p-4 rounded-xl shadow-sm text-center">
+              <p className="text-[9px] font-black uppercase tracking-widest text-[var(--text-muted)]">Ort. Yıldız</p>
+              <p className="text-2xl font-black mt-1 text-[var(--accent)] font-mono">{avgStars}</p>
+            </div>
+          </div>
+        </div>
+
+        {/* Pedagojik Gelişim Tavsiyesi */}
+        <div className="bg-[var(--accent-soft)] border border-[var(--accent)]/15 p-4 rounded-2xl text-[var(--text)] flex flex-col gap-1.5 shadow-sm">
+          <span className="text-[9px] font-black uppercase tracking-widest text-[var(--accent)]">
+            PERSOONLIJK ONTWIKKELINGSADVIES (Kişisel Gelişim Tavsiyesi)
+          </span>
+          <p className="text-xs font-semibold leading-relaxed">
             "{adviceText}"
           </p>
         </div>
 
-        {/* Akıllı Hata Analizi Paneli (Wrong Sentence Explanations) - Beyaz */}
-        <div className="bg-[var(--ds-white)] p-5 flex flex-col">
-          <span className="text-[10px] font-black uppercase tracking-widest text-[var(--ds-black)] opacity-60 mb-4">
-            SLIMME FOUTENANALYSE (OORZAAK VAN DE LAATSTE 5 FOUTEN)
+        {/* Akıllı Hata Analizi Paneli */}
+        <div className="bg-[var(--surface)] border border-[var(--border)] p-5 rounded-2xl flex flex-col shadow-sm">
+          <span className="text-[9px] font-black uppercase tracking-widest text-[var(--text-muted)] mb-4">
+            SLIMME FOUTENANALYSE (Son 5 Hatanın Analizi)
           </span>
           {recentErrors.length === 0 ? (
-            <p className="text-xs text-[var(--ds-black)] opacity-40 italic py-4 text-center border-t border-[var(--ds-gray)]">
-              Uitstekend! Er zijn recent geen fouten geregistreerd.
+            <p className="text-xs text-[var(--text-muted)] italic py-4 text-center">
+              Harika! Son dönemde hiçbir hata kaydı bulunmuyor.
             </p>
           ) : (
             <div className="flex flex-col gap-4">
               {recentErrors.map((error, idx) => (
-                <div key={idx} className="flex flex-col border-b border-[var(--ds-gray)] pb-3 last:border-b-0 last:pb-0 gap-1.5">
+                <div key={idx} className="flex flex-col border-b border-[var(--border)] pb-3.5 last:border-b-0 last:pb-0 gap-2">
                   <div className="flex justify-between items-center">
-                    <span className="px-2 py-0.5 text-[8px] font-black uppercase tracking-widest bg-[var(--ds-red)] text-[var(--ds-white)]">
+                    <span className="px-2 py-0.5 text-[8px] font-black uppercase tracking-widest bg-[var(--danger-soft)] text-[var(--danger)] rounded border border-[var(--danger)]/10">
                       {error.gameLabel}
                     </span>
-                    <span className="text-[9px] text-[var(--ds-black)] opacity-40">
+                    <span className="text-[9px] text-[var(--text-muted)] font-mono">
                       {new Date(error.timestamp).toLocaleDateString("nl-NL")}
                     </span>
                   </div>
                   <div>
-                    <p className="text-xs font-black text-[var(--ds-red)]">
-                      Foutieve zinsopbouw: "{error.userAnswer || error.sentence}"
+                    <p className="text-xs font-bold text-[var(--danger)]">
+                      Hatalı Cümle: "{error.userAnswer || error.sentence}"
                     </p>
-                    <p className="text-[10px] text-[var(--ds-black)] opacity-60 italic mt-0.5">
-                      Correcte versie: "{error.sentence}" ({error.translation})
+                    <p className="text-[10px] text-[var(--text-muted)] font-semibold mt-0.5">
+                      Doğru Cümle: "{error.sentence}" ({error.translation})
                     </p>
                   </div>
                   {/* Hata İzahı */}
-                  <div className="bg-red-50/50 border-l-[3px] border-[var(--ds-red)] p-2">
-                    <span className="text-[9px] font-black text-[var(--ds-red)] uppercase tracking-widest block">
-                      Analyse / Uitleg:
+                  <div className="bg-[var(--danger-soft)]/20 border-l-2 border-[var(--danger)] p-2 rounded-r-xl">
+                    <span className="text-[8px] font-black text-[var(--danger)] uppercase tracking-wider block">
+                      Analiz / Uitleg:
                     </span>
-                    <p className="text-xs font-medium text-[var(--ds-black)] mt-0.5">
+                    <p className="text-xs font-medium text-[var(--text)] mt-0.5">
                       {error.explanation || "Onjuiste persoonsvorm of woordvolgorde."}
                     </p>
                   </div>
@@ -214,22 +295,22 @@ export default function VoortgangPage() {
         </div>
 
         {/* Modül İlerleme Grafik Barları */}
-        <div className="bg-[var(--ds-white)] p-5">
-          <span className="text-[10px] font-black uppercase tracking-widest text-[var(--ds-black)] opacity-60 mb-4 block">
+        <div className="bg-[var(--surface)] border border-[var(--border)] p-5 rounded-2xl flex flex-col shadow-sm">
+          <span className="text-[9px] font-black uppercase tracking-widest text-[var(--text-muted)] mb-4 block">
             GENEL MODÜL İLERLEMESİ
           </span>
-          <div className="flex flex-col gap-3">
+          <div className="flex flex-col gap-4">
             {modules.map(({ label, color, current, max }) => {
               const pct = Math.min((current / max) * 100, 100);
               return (
                 <div key={label}>
-                  <div className="flex items-center justify-between mb-1">
-                    <span className="text-xs font-bold text-[var(--ds-black)]">{label}</span>
-                    <span className="text-xs font-bold opacity-45">{current}/{max}</span>
+                  <div className="flex items-center justify-between mb-1.5">
+                    <span className="text-xs font-bold text-[var(--text)]">{label}</span>
+                    <span className="text-xs font-bold text-[var(--text-muted)] font-mono">{current}/{max}</span>
                   </div>
-                  <div className="w-full h-3 bg-[var(--ds-gray)]">
+                  <div className="w-full h-1.5 bg-[var(--surface-2)] rounded-full overflow-hidden">
                     <div
-                      className="h-full transition-all duration-500"
+                      className="h-full rounded-full transition-all duration-500"
                       style={{ width: `${pct}%`, backgroundColor: color }}
                     />
                   </div>
@@ -239,28 +320,29 @@ export default function VoortgangPage() {
           </div>
         </div>
 
-        {/* Topsör En Yüksek Skorlar Paneli */}
-        <div className="bg-[var(--ds-black)] p-5">
-          <span className="text-[10px] font-black uppercase tracking-widest text-[var(--ds-white)] opacity-70 mb-3 block">
+        {/* En Yüksek Skorlar Paneli */}
+        <div className="bg-[var(--surface)] border border-[var(--border)] p-5 rounded-2xl flex flex-col shadow-sm">
+          <span className="text-[9px] font-black uppercase tracking-widest text-[var(--text-muted)] mb-3 block">
             TOPSCORE SPELEN (EN YÜKSEK SKORLAR)
           </span>
-          <div className="grid grid-cols-2 gap-[3px]">
+          <div className="grid grid-cols-2 gap-2.5">
             {[
-              { label: "Zin bouwen", val: highScores.zinBouwen, span: false },
-              { label: "Vul in", val: highScores.vulIn, span: false },
-              { label: "Vertaal", val: highScores.vertaal, span: false },
-              { label: "Snelronde", val: highScores.snelronde, span: false },
-              { label: "Zin motor", val: highScores.zinMotor || 0, span: true },
-            ].map(({ label, val, span }) => (
-              <div key={label} className={`bg-[var(--ds-white)] p-4 ${span ? "col-span-2" : ""}`}>
-                <p className="text-[10px] font-bold uppercase tracking-widest opacity-60">{label}</p>
-                <p className="text-2xl font-black mt-1 text-[var(--ds-black)]">{val}</p>
+              { label: "Zin bouwen", val: highScores.zinBouwen },
+              { label: "Vul in", val: highScores.vulIn },
+              { label: "Vertaal", val: highScores.vertaal },
+              { label: "Snelronde", val: highScores.snelronde },
+              { label: "Zin motor", val: highScores.zinMotor || 0 },
+              { label: "Flitsen", val: highScores.flitsen || 0 },
+            ].map(({ label, val }) => (
+              <div key={label} className="bg-[var(--surface-2)] p-4 rounded-xl shadow-sm">
+                <p className="text-[9px] font-black uppercase tracking-widest text-[var(--text-muted)]">{label}</p>
+                <p className="text-2xl font-black mt-1 text-[var(--text)] font-mono">{val}</p>
               </div>
             ))}
           </div>
         </div>
 
-      </div>
+      </main>
     </div>
   );
 }

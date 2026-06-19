@@ -1,8 +1,7 @@
 "use client";
 
-import { useEffect, useState, useCallback } from "react";
+import { useEffect, useState, useCallback, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
-import { Suspense } from "react";
 import {
   DndContext,
   closestCenter,
@@ -19,27 +18,37 @@ import {
   arrayMove,
 } from "@dnd-kit/sortable";
 import { CSS } from "@dnd-kit/utilities";
-import { motion, AnimatePresence } from "framer-motion";
-import { loadSentences, shuffle, pickRandom } from "@/lib/gameData";
+import { loadSentences, shuffle, pickRandom, loadVerhaalZinnen } from "@/lib/gameData";
 import { useMoedertaal, useProgress } from "@/lib/hooks";
 import type { Sentence } from "@/lib/types";
+import GameShell from "@/components/game/GameShell";
+import ScoreBar from "@/components/game/ScoreBar";
+import FeedbackToast from "@/components/game/FeedbackToast";
+import HistoryPanel from "@/components/game/HistoryPanel";
+import LesContextChip from "@/components/game/LesContextChip";
 
 interface SortableWordProps {
   id: string;
   word: string;
+  onClick: () => void;
 }
 
-function SortableWord({ id, word }: SortableWordProps) {
+function SortableWord({ id, word, onClick }: SortableWordProps) {
   const { attributes, listeners, setNodeRef, transform, transition, isDragging } = useSortable({ id });
   return (
     <div
       ref={setNodeRef}
-      {...attributes}
-      {...listeners}
       style={{ transform: CSS.Transform.toString(transform), transition, opacity: isDragging ? 0.5 : 1 }}
-      className="px-3 py-2 bg-[var(--ds-white)] border-[3px] border-[var(--ds-black)] font-bold text-sm cursor-grab active:cursor-grabbing select-none touch-none"
+      className="px-3 py-1.5 bg-[var(--primary)] text-white font-bold text-xs rounded-full select-none flex items-center gap-1.5 shadow-sm border border-transparent"
     >
-      {word}
+      <span
+        {...attributes}
+        {...listeners}
+        className="cursor-grab active:cursor-grabbing text-xs opacity-50 px-1 hover:opacity-100 touch-none select-none"
+      >
+        ⋮⋮
+      </span>
+      <span className="cursor-pointer active:scale-95" onClick={onClick}>{word}</span>
     </div>
   );
 }
@@ -64,55 +73,6 @@ const ZIN_BOUWEN_EXPLANATIONS: Record<string, {
     extra: "Extra or incorrect words: ",
     errorStart: "Error started at word {index}: expected \"{correct}\" instead of \"{user}\".",
     defaultError: "Word choice or word order is incorrect.",
-  },
-  ar: {
-    wordOrder: "جميع الكلمات صحيحة، لكن الترتيب خاطئ. في اللغة الهولندية، انتبه لمكان الفعل (الموقع الثاني أو في النهاية).",
-    missing: "الكلمات المفقودة: ",
-    extra: "كلمات زائدة أو خاطئة: ",
-    errorStart: "بدأ الخطأ عند الكلمة {index}: يجب أن تكون \"{correct}\" بدلاً من \"{user}\".",
-    defaultError: "اختيار الكلمات أو ترتيبها غير صحيح.",
-  },
-  uk: {
-    wordOrder: "Всі слова правильні, але порядок невірний. У нідерландській мові зверніть увагу на позицію дієслова (друге місце або в кінці).",
-    missing: "Пропущені слова: ",
-    extra: "Зайві або неправильні слова: ",
-    errorStart: "Помилка почалася на слові {index}: очікувалося \"{correct}\" замість \"{user}\".",
-    defaultError: "Неправильний вибір слів або їх порядок.",
-  },
-  fa: {
-    wordOrder: "همه کلمات درست هستند، اما ترتیب آنها اشتباه است. در زبان هلندی، به جایگاه فعل (موقعیت دوم یا در انتها) توجه کنید.",
-    missing: "کلمات جاافتاده: ",
-    extra: "کلمات اضافی یا نادرست: ",
-    errorStart: "خطا از کلمه {index} شروع شد: باید \"{correct}\" قرار می‌گرفت به جای \"{user}\".",
-    defaultError: "انتخاب کلمات یا ترتیب آن‌ها نادرست است.",
-  },
-  pl: {
-    wordOrder: "Wszystkie słowa są poprawne, ale kolejność jest błędna. W języku niderlandzkim zwróć uwagę na pozycję czasownika (druga pozycja lub na końcu).",
-    missing: "Brakujące słowa: ",
-    extra: "Nadmiarowe lub błędne słowa: ",
-    errorStart: "Błąd zaczął się przy słowie {index}: powinno być \"{correct}\" zamiast \"{user}\".",
-    defaultError: "Wybór słów lub kolejność jest niepoprawna.",
-  },
-  es: {
-    wordOrder: "Todas las palabras son correctas, pero el orden es incorrecto. En neerlandés, presta atención a la posición del verbo (segunda posición o al final).",
-    missing: "Palabras que faltan: ",
-    extra: "Palabras sobrantes o incorrectas: ",
-    errorStart: "El error comenzó en la palabra {index}: se esperaba \"{correct}\" en lugar de \"{user}\".",
-    defaultError: "La elección o el orden de las palabras es incorrecto.",
-  },
-  fr: {
-    wordOrder: "Tous les mots sont corrects, mais l'ordre est incorrect. En néerlandais, faites attention à la position du verbe (deuxième position ou à la fin).",
-    missing: "Mots manquants : ",
-    extra: "Mots superflus ou incorrects : ",
-    errorStart: "L'erreur a commencé au mot {index} : \"{correct}\" était attendu au lieu de \"{user}\".",
-    defaultError: "Le choix ou l'ordre des mots est incorrect.",
-  },
-  so: {
-    wordOrder: "Dhammaan ereyadu waa sax, laakiin kala horreyntooda ayaa qaldan. Af-Hollandeeska, u fiirso meesha uu falka kaga jiro (booska labaad ama dhammaadka).",
-    missing: "Erayada ka maqan: ",
-    extra: "Erayo dheeraad ah ama qaldan: ",
-    errorStart: "Khaladku wuxuu ka bilaabmay erayga {index}: waxaa la rabay \"{correct}\" bedelkii \"{user}\".",
-    defaultError: "Doorashada ama kala horreynta ereyada ayaa qaldan.",
   }
 };
 
@@ -121,7 +81,6 @@ function explainDifference(userAnswer: string, correctAnswer: string, lang: stri
   const correctWords = correctAnswer.split(" ");
   const expl = ZIN_BOUWEN_EXPLANATIONS[lang] || ZIN_BOUWEN_EXPLANATIONS["en"];
 
-  // Tüm kelimeler aynı ama sadece sıra farklıysa
   const userSorted = [...userWords].sort().join(" ").toLowerCase();
   const correctSorted = [...correctWords].sort().join(" ").toLowerCase();
 
@@ -129,7 +88,6 @@ function explainDifference(userAnswer: string, correctAnswer: string, lang: stri
     return expl.wordOrder;
   }
 
-  // Eksik ve fazla kelimeleri kontrol edelim
   const missing = correctWords.filter((w) => !userWords.includes(w));
   const extra = userWords.filter((w) => !correctWords.includes(w));
 
@@ -141,7 +99,6 @@ function explainDifference(userAnswer: string, correctAnswer: string, lang: stri
     explanation += `${expl.extra}"${extra.join(", ")}". `;
   }
 
-  // Kelimeleri tek tek karşılaştırıp ilk uyuşmazlığın konumunu belirtelim
   for (let i = 0; i < Math.min(userWords.length, correctWords.length); i++) {
     if (userWords[i].toLowerCase() !== correctWords[i].toLowerCase()) {
       explanation += expl.errorStart
@@ -155,38 +112,23 @@ function explainDifference(userAnswer: string, correctAnswer: string, lang: stri
   return explanation || expl.defaultError;
 }
 
-function RevealableText({ text, isAdvanced }: { text: string; isAdvanced: boolean }) {
-  const [revealed, setRevealed] = useState(false);
-  if (!isAdvanced) return <>{text}</>;
-  if (revealed) return <>{text}</>;
-  return (
-    <button
-      onClick={() => setRevealed(true)}
-      className="text-[10px] font-bold text-[var(--ds-blue)] hover:underline border-none bg-none p-0 cursor-pointer inline-block"
-      style={{ background: 'none', border: 'none', padding: 0 }}
-    >
-      [toon vertaling]
-    </button>
-  );
-}
-
 function ZinBouwenGame() {
   const searchParams = useSearchParams();
   const lesId = searchParams.get("les");
+  const bron = searchParams.get("bron");
   const { moedertaal } = useMoedertaal();
   const { progress, updateProgress } = useProgress();
 
   const [sentences, setSentences] = useState<Sentence[]>([]);
   const [current, setCurrent] = useState<Sentence | null>(null);
   const [wordIds, setWordIds] = useState<string[]>([]);
+  const [placedIds, setPlacedIds] = useState<string[]>([]);
+  
   const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const [scores, setScores] = useState({ goed: 0, fout: 0, combo: 1, score: 0 });
   const [loading, setLoading] = useState(true);
-
-  // Kalan Hak/Deneme takibi
   const [attempts, setAttempts] = useState(0);
 
-  // History tracking states
   const [correctHistory, setCorrectHistory] = useState<Array<{ tr: string; nl: string }>>([]);
   const [wrongHistory, setWrongHistory] = useState<Array<{ tr: string; nl: string; userAnswer: string; explanation: string }>>([]);
 
@@ -209,12 +151,14 @@ function ZinBouwenGame() {
     setLoading(true);
     setCorrectHistory([]);
     setWrongHistory([]);
-    const data = await loadSentences(lesId);
+    const data = (bron === "verhaal" && lesId)
+      ? await loadVerhaalZinnen([lesId])
+      : await loadSentences(lesId);
     setSentences(shuffle(data));
     setLoading(false);
   }
 
-  useEffect(() => { init(); }, [lesId]);
+  useEffect(() => { init(); }, [lesId, bron]);
 
   function loadNext(pool: Sentence[]) {
     if (!pool.length) return;
@@ -222,8 +166,9 @@ function ZinBouwenGame() {
     setCurrent(zin);
     const words = zin.nl.split(" ").map((w, i) => `${w}__${i}`);
     setWordIds(shuffle(words));
+    setPlacedIds([]);
     setFeedback(null);
-    setAttempts(0); // Hakları sıfırla
+    setAttempts(0);
     setHintRevealed(false);
   }
 
@@ -234,7 +179,7 @@ function ZinBouwenGame() {
   function handleDragEnd(event: DragEndEvent) {
     const { active, over } = event;
     if (over && active.id !== over.id) {
-      setWordIds((ids) => {
+      setPlacedIds((ids) => {
         const oldIndex = ids.indexOf(active.id as string);
         const newIndex = ids.indexOf(over.id as string);
         return arrayMove(ids, oldIndex, newIndex);
@@ -242,9 +187,21 @@ function ZinBouwenGame() {
     }
   }
 
+  function handleAddWord(id: string) {
+    if (feedback !== null) return;
+    if (!placedIds.includes(id)) {
+      setPlacedIds((prev) => [...prev, id]);
+    }
+  }
+
+  function handleRemoveWord(id: string) {
+    if (feedback !== null) return;
+    setPlacedIds((prev) => prev.filter((item) => item !== id));
+  }
+
   function checkAnswer() {
     if (!current) return;
-    const answer = wordIds.map((id) => id.split("__")[0]).join(" ");
+    const answer = placedIds.map((id) => id.split("__")[0]).join(" ");
     const correct = answer === current.nl;
 
     if (correct) {
@@ -281,7 +238,7 @@ function ZinBouwenGame() {
             totalPoints: p.games.totalPoints + points,
             highScores: {
               ...p.games.highScores,
-              zinBouwen: Math.max(p.games.highScores.zinBouwen, p.games.totalPoints + points),
+              zinBouwen: Math.max(p.games.highScores.zinBouwen || 0, scores.score + points),
             },
             lastPlayDate: new Date().toISOString(),
             stats: {
@@ -297,7 +254,7 @@ function ZinBouwenGame() {
         };
       });
 
-      setTimeout(() => loadNext(sentences), 800);
+      setTimeout(() => loadNext(sentences), 1200);
     } else {
       const nextAttempts = attempts + 1;
       setAttempts(nextAttempts);
@@ -348,218 +305,158 @@ function ZinBouwenGame() {
           };
         });
 
-        setTimeout(() => loadNext(sentences), 1600);
+        setTimeout(() => loadNext(sentences), 3000);
       } else {
         setFeedback("wrong");
         setTimeout(() => {
           setFeedback(null);
-        }, 1200);
+        }, 1500);
       }
     }
   }
 
   if (loading) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-[var(--ds-white)]">
-        <p className="text-sm font-bold uppercase tracking-widest opacity-40">Laden…</p>
+      <div className="min-h-screen flex items-center justify-center bg-[var(--bg)]">
+        <p className="text-sm font-bold uppercase tracking-widest opacity-40 animate-pulse">Laden…</p>
       </div>
     );
   }
 
   const comboMultiplier = scores.combo >= 6 ? "x3" : scores.combo >= 3 ? "x2" : "x1";
 
+  const controleerButton = (
+    <button
+      onClick={checkAnswer}
+      disabled={placedIds.length === 0 || feedback !== null}
+      className="w-full bg-[var(--primary)] text-white py-4 rounded-xl font-bold uppercase tracking-widest text-sm hover:opacity-95 active:scale-95 transition-all cursor-pointer border-none disabled:opacity-40"
+    >
+      {feedback === "correct" ? "Goed!" : feedback === "wrong" && attempts >= 3 ? "Volgende..." : "Controleer"}
+    </button>
+  );
+
+  const feedbackMessage = feedback === "correct"
+    ? "Goed!"
+    : attempts >= 3
+    ? `Fout!`
+    : `Fout! Probeer het opnieuw`;
+
+  const feedbackDetail = feedback === "wrong" && attempts >= 3
+    ? `Juist antwoord: ${current?.nl}`
+    : feedback === "wrong"
+    ? `Resterende pogingen: ${3 - attempts}`
+    : undefined;
+
   return (
-    <div className="flex flex-col min-h-screen bg-[var(--ds-white)]">
-      {/* Header — bg-ds-black */}
-      <div className="bg-[var(--ds-black)] px-5 py-4 flex items-center justify-between">
-        <span className="text-sm font-bold text-[var(--ds-white)] lowercase tracking-wide">zin bouwen</span>
-        <span className="text-sm font-bold text-[var(--ds-yellow)]">{scores.score} pts</span>
-      </div>
+    <GameShell title="Zin Bouwen" icon="🧩">
+      <LesContextChip />
+      <ScoreBar
+        items={[
+          { label: "PUNTEN", value: scores.score, tone: "success" },
+          { label: "COMBO", value: comboMultiplier, tone: "warning" },
+          {
+            label: "HAKLAR",
+            value: (
+              <div className="flex items-center gap-1.5 inline-flex ml-1 text-sm leading-none">
+                {Array.from({ length: 3 }).map((_, i) => (
+                  <span key={i} className={i < 3 - attempts ? "text-[var(--danger)]" : "text-[var(--text-muted)] opacity-30"}>
+                    ●
+                  </span>
+                ))}
+              </div>
+            ) as any,
+            tone: "muted",
+          },
+        ]}
+      />
 
-      {/* Üst bar: KIRMIZI blok + zamanlayıcı + combo badge */}
-      <div className="flex border-b-[3px] border-[var(--ds-black)]">
-        <div className="flex-1 bg-[var(--ds-red)] px-5 py-3 flex items-center">
-          <span className="text-sm font-medium text-[var(--ds-white)]">Zin bouwen</span>
-        </div>
-        {/* Combo badge — BEYAZ bg, KIRMIZI text */}
-        <div className="bg-[var(--ds-white)] border-l-[3px] border-[var(--ds-black)] px-4 py-3 flex items-center">
-          <span className="text-lg font-bold text-[var(--ds-red)]">{comboMultiplier}</span>
-        </div>
-      </div>
-
-      {/* Hint: moedertaal sentence */}
-      <div className="px-4 pt-4 pb-2">
-        <p className="text-[10px] font-bold uppercase tracking-widest opacity-40 mb-1">MAAK DE ZIN</p>
+      {/* Target translation question */}
+      <div className="w-full bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-6 shadow-sm text-center flex flex-col items-center justify-center min-h-[110px] mb-4 select-none">
+        <span className="text-[10px] font-black uppercase tracking-widest text-[var(--accent)] block mb-1">
+          MAAK DE ZIN (Cümleyi Kurun)
+        </span>
         {isAdvanced && !hintRevealed ? (
           <button
             onClick={() => setHintRevealed(true)}
-            className="text-xs font-bold text-[var(--ds-blue)] hover:underline border-none bg-none p-0 cursor-pointer block text-left"
-            style={{ background: 'none', border: 'none', padding: 0 }}
+            className="text-xs bg-[var(--surface-2)] hover:bg-black/5 dark:hover:bg-white/5 text-[var(--text)] font-bold px-4 py-2 border border-[var(--border)] rounded-xl cursor-pointer transition-colors"
           >
             [toon vertaling]
           </button>
         ) : (
-          <p className="text-sm text-[var(--ds-black)] opacity-60">{current?.tr}</p>
+          <h2 className="text-base font-bold tracking-wide leading-normal text-[var(--text)] px-4">
+            "{current?.tr}"
+          </h2>
         )}
       </div>
 
-      {/* Target area: current word order */}
-      <div className="px-4 py-4">
-        <AnimatePresence>
-          {feedback && (
-            <motion.div
-              initial={{ opacity: 0, y: -8 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0 }}
-              className={`mb-3 px-4 py-3 border-[3px] border-[var(--ds-black)] font-bold text-sm uppercase tracking-widest ${
-                feedback === "correct"
-                  ? "bg-[var(--ds-green)] text-[var(--ds-white)]"
-                  : "bg-[var(--ds-red)] text-[var(--ds-white)]"
-              }`}
-            >
-              {feedback === "correct" ? (
-                "Goed!"
-              ) : attempts >= 3 ? (
-                `Fout! Het juiste antwoord is: ${current?.nl}`
-              ) : (
-                `Fout! Probeer het opnieuw (Resterende pogingen: ${3 - attempts})`
-              )}
-            </motion.div>
-          )}
-        </AnimatePresence>
-
+      {/* Target Area (Built words) */}
+      <div className="w-full">
         <DndContext sensors={sensors} collisionDetection={closestCenter} onDragEnd={handleDragEnd}>
-          <SortableContext items={wordIds} strategy={horizontalListSortingStrategy}>
-            <div className="flex flex-wrap gap-2 min-h-[80px] p-3 border-[3px] border-[var(--ds-black)] bg-[var(--ds-gray)]">
-              {wordIds.map((id) => (
-                <SortableWord key={id} id={id} word={id.split("__")[0]} />
+          <SortableContext items={placedIds} strategy={horizontalListSortingStrategy}>
+            <div className="flex flex-wrap gap-2.5 min-h-[84px] p-4 border-2 border-dashed border-[var(--text-muted)] bg-[var(--surface-2)] rounded-3xl items-center">
+              {placedIds.map((id) => (
+                <SortableWord
+                  key={id}
+                  id={id}
+                  word={id.split("__")[0]}
+                  onClick={() => handleRemoveWord(id)}
+                />
               ))}
+              {placedIds.length === 0 && (
+                <span className="text-xs text-[var(--text-muted)] m-auto select-none opacity-60">
+                  Sleep of tik op de woorden hieronder
+                </span>
+              )}
             </div>
           </SortableContext>
         </DndContext>
       </div>
 
-      {/* Doğru ve Yanlış Cümlelerin Listelendiği Kartlar */}
-      <div className="px-4 pb-4 flex flex-col gap-4">
-        {/* DOĞRU CÜMLELER KARTI (Yeşil Çerçeveli) */}
-        <div className="border-[3px] border-[var(--ds-green)] bg-[var(--ds-white)] p-4 flex flex-col">
-          <span className="text-[10px] font-black uppercase tracking-widest text-[var(--ds-green)] mb-3 block">
-            Correct gebouwde zinnen ({correctHistory.length})
-          </span>
-          {correctHistory.length === 0 ? (
-            <p className="text-xs text-[var(--ds-black)] opacity-40 italic py-2 text-center">
-              Er is nog geen correcte zin gebouwd.
-            </p>
-          ) : (
-            <div className="flex flex-col gap-2 max-h-[140px] overflow-y-auto pr-1">
-              {correctHistory.map((item, idx) => (
-                <div
-                  key={idx}
-                  className="flex items-start gap-2 border-b-[2px] border-[var(--ds-gray)] pb-2 last:border-b-0 last:pb-0"
+      {/* Word Pool Area */}
+      <div className="mt-6">
+        <span className="text-[10px] font-black uppercase tracking-widest text-[var(--text-muted)] mb-3 block select-none">
+          WOORDEN (Kelimeler)
+        </span>
+        <div className="flex flex-wrap gap-2.5 p-4 bg-[var(--surface)] border border-[var(--border)] rounded-3xl min-h-[84px] items-center">
+          {wordIds
+            .filter((id) => !placedIds.includes(id))
+            .map((id) => {
+              const word = id.split("__")[0];
+              return (
+                <button
+                  key={id}
+                  onClick={() => handleAddWord(id)}
+                  disabled={feedback !== null}
+                  className="px-4 py-2 bg-[var(--surface-2)] text-[var(--text)] border border-[var(--border)] rounded-full font-bold text-sm cursor-pointer hover:bg-black/5 dark:hover:bg-white/5 active:scale-95 transition-all disabled:opacity-40 disabled:pointer-events-none"
                 >
-                  <div className="w-4 h-4 bg-[var(--ds-green)] flex items-center justify-center text-[var(--ds-white)] text-[9px] font-bold mt-0.5 select-none">
-                    ✓
-                  </div>
-                  <div className="flex-1 min-w-0">
-                    <p className="text-xs md:text-sm font-black text-[var(--ds-black)]">
-                      {item.nl}
-                    </p>
-                    <p className="text-[10px] md:text-xs text-[var(--ds-black)] opacity-60">
-                      <RevealableText text={item.tr} isAdvanced={isAdvanced} />
-                    </p>
-                  </div>
-                </div>
-              ))}
-            </div>
-          )}
-        </div>
-
-        {/* YANLIŞ CÜMLELER KARTI (Kırmızı Çerçeveli) */}
-        <div className="border-[3px] border-[var(--ds-red)] bg-[var(--ds-white)] p-4 flex flex-col">
-          <span className="text-[10px] font-black uppercase tracking-widest text-[var(--ds-red)] mb-3 block">
-            Onjuiste pogingen ({wrongHistory.length})
-          </span>
-          {wrongHistory.length === 0 ? (
-            <p className="text-xs text-[var(--ds-black)] opacity-40 italic py-2 text-center">
-              Geweldig! Nog geen fouten gemaakt.
-            </p>
-          ) : (
-            <div className="flex flex-col gap-3 max-h-[180px] overflow-y-auto pr-1">
-              {wrongHistory.map((item, idx) => (
-                <div
-                  key={idx}
-                  className="flex flex-col border-b-[2px] border-[var(--ds-gray)] pb-2 last:border-b-0 last:pb-0 gap-1"
-                >
-                  <div className="flex items-start gap-2">
-                    <div className="w-4 h-4 bg-[var(--ds-red)] flex items-center justify-center text-[var(--ds-white)] text-[9px] font-bold mt-0.5 select-none">
-                      ✗
-                    </div>
-                    <div className="flex-1 min-w-0">
-                      <p className="text-xs md:text-sm font-black text-[var(--ds-red)]">
-                        {item.userAnswer}
-                      </p>
-                      <p className="text-[10px] md:text-xs text-[var(--ds-black)] opacity-50 italic">
-                        Hedef: {item.nl} (<RevealableText text={item.tr} isAdvanced={isAdvanced} />)
-                      </p>
-                    </div>
-                  </div>
-                  {/* Neden yanlış olduğunun izahı */}
-                  <div className="ml-6 bg-[rgba(194,59,34,0.06)] border-l-[3px] border-[var(--ds-red)] p-2">
-                    <p className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-red)] opacity-80">
-                      OORZAAK FOUT:
-                    </p>
-                    <p className="text-[10px] md:text-xs font-medium text-[var(--ds-black)] mt-0.5">
-                      {item.explanation}
-                    </p>
-                  </div>
-                </div>
-              ))}
-            </div>
-          )}
+                  {word}
+                </button>
+              );
+            })}
         </div>
       </div>
 
-      {/* Check button */}
-      <div className="border-t-[3px] border-[var(--ds-black)]">
-        <button
-          onClick={checkAnswer}
-          disabled={!wordIds.length || !!feedback}
-          className="w-full bg-[var(--ds-black)] text-[var(--ds-white)] py-5 font-bold uppercase tracking-widest text-sm hover:opacity-90 transition-opacity cursor-pointer border-none disabled:opacity-40"
-        >
-          Controleer
-        </button>
-      </div>
+      {/* Controleer button */}
+      <div className="mt-6">{controleerButton}</div>
 
-      {/* Skor barı: 5 eşit blok (sarı, kırmızı, mavi, beyaz, yeşil) */}
-      <div className="flex border-t-[3px] border-[var(--ds-black)]">
-        <div className="flex-1 py-3 flex flex-col items-center bg-[var(--ds-yellow)] border-r-[3px] border-[var(--ds-black)]">
-          <span className="text-lg font-bold text-[var(--ds-black)]">{scores.score}</span>
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-70">SCORE</span>
-        </div>
-        <div className="flex-1 py-3 flex flex-col items-center bg-[var(--ds-red)] border-r-[3px] border-[var(--ds-black)]">
-          <span className="text-lg font-bold text-[var(--ds-white)]">{comboMultiplier}</span>
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-70">COMBO</span>
-        </div>
-        <div className="flex-1 py-3 flex flex-col items-center bg-[var(--ds-blue)] border-r-[3px] border-[var(--ds-black)]">
-          <span className="text-lg font-bold text-[var(--ds-white)]">{scores.goed}</span>
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-70">GOED</span>
-        </div>
-        <div className="flex-1 py-3 flex flex-col items-center bg-[var(--ds-white)] border-r-[3px] border-[var(--ds-black)]">
-          <span className="text-lg font-bold text-[var(--ds-red)]">{scores.fout}</span>
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-70">FOUT</span>
-        </div>
-        <div className="flex-1 py-3 flex flex-col items-center bg-[var(--ds-green)]">
-          <span className="text-lg font-bold text-[var(--ds-white)]">{Math.round((scores.goed / (scores.goed + scores.fout || 1)) * 100)}%</span>
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-70">JUIST</span>
-        </div>
-      </div>
-    </div>
+      {/* Shared History Accordion */}
+      <HistoryPanel correct={correctHistory} wrong={wrongHistory} />
+
+      {/* Feedback Toast */}
+      <FeedbackToast state={feedback} message={feedbackMessage} detail={feedbackDetail} />
+    </GameShell>
   );
 }
 
 export default function ZinBouwenPage() {
   return (
-    <Suspense fallback={<div className="min-h-screen flex items-center justify-center"><p className="text-sm font-bold uppercase tracking-widest opacity-40">Laden…</p></div>}>
+    <Suspense
+      fallback={
+        <div className="min-h-screen flex items-center justify-center bg-[var(--bg)]">
+          <p className="text-sm font-bold uppercase tracking-widest opacity-40 animate-pulse">Laden…</p>
+        </div>
+      }
+    >
       <ZinBouwenGame />
     </Suspense>
   );

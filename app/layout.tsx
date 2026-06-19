@@ -32,7 +32,20 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="nl">
+    <html lang="nl" suppressHydrationWarning>
+      <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              try {
+                var p = JSON.parse(localStorage.getItem('spraakmaker-progress') || '{}');
+                var t = (p.settings && p.settings.theme) || 'system';
+                if (t !== 'system') document.documentElement.setAttribute('data-theme', t);
+              } catch(e){}
+            `,
+          }}
+        />
+      </head>
       <body>
         <ClientLayout>{children}</ClientLayout>
         <Analytics />

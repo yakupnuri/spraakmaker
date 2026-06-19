@@ -1,10 +1,12 @@
 "use client";
 
-import { useEffect, useState, useCallback } from "react";
+import { useEffect, useState, useCallback, Suspense } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useProgress, useMoedertaal, useSpacedRepetition } from "@/lib/hooks";
 import { IconCheck, IconX, IconMinus, IconArrowLeft, IconArrowRight } from "@/components/Icons";
 import type { Word } from "@/lib/types";
+import { useSearchParams } from "next/navigation";
+import LesContextChip from "@/components/game/LesContextChip";
 
 type Filter = "ALLE" | "TC1-2" | "CODE+" | "INZICHT" | "WW";
 
@@ -38,10 +40,12 @@ function shuffle<T>(arr: T[]): T[] {
   return a;
 }
 
-export default function KaartenPage() {
-  const { progress, updateProgress } = useProgress();
+function KaartenGame() {
+  const { progress, updateProgress, recordActivity } = useProgress();
   const { moedertaal } = useMoedertaal();
   const { sm2 } = useSpacedRepetition();
+  const searchParams = useSearchParams();
+  const les = searchParams.get("les");
 
   const [filter, setFilter] = useState<Filter>("ALLE");
   const [deck, setDeck] = useState<Word[]>([]);
@@ -65,6 +69,40 @@ export default function KaartenPage() {
   async function loadDeck(f: Filter) {
     setLoading(true);
     try {
+      if (les) {
+        const res = await fetch("/data/lessen-verhalen.json");
+        const data = await res.json();
+        const story = data.find((l: any) => l.lesId === les);
+        if (story) {
+          const deckFromWoordenschat = Object.entries(story.woordenschat || {}).map(([nl, tr]) => ({
+            nl,
+            tr: String(tr),
+            chapter: story.verhaalTitel
+          }));
+
+          const stored = localStorage.getItem("spraakmaker-les-woorden");
+          const dict = stored ? JSON.parse(stored) : {};
+          const markedWords: string[] = dict[les] || [];
+
+          const markedWordObjects = markedWords
+            .filter((word) => !story.woordenschat || !story.woordenschat[word])
+            .map((word) => ({
+              nl: word,
+              tr: "—",
+              chapter: story.verhaalTitel
+            }));
+
+          setDeck(shuffle([...deckFromWoordenschat, ...markedWordObjects]));
+        } else {
+          setDeck([]);
+        }
+        setIndex(0);
+        setFlipped(false);
+        setTranslationRevealed(false);
+        setLoading(false);
+        return;
+      }
+
       const files = FILTER_FILES[f];
       const results = await Promise.all(files.map((url) => fetch(url).then((r) => r.json())));
       const all: Word[] = results.flat().filter((w: Word) => w.nl && w.tr);
@@ -81,14 +119,15 @@ export default function KaartenPage() {
       setIndex(0);
       setFlipped(false);
       setTranslationRevealed(false);
-    } catch {}
+    } catch (e) {
+      console.error(e);
+    }
     setLoading(false);
   }
 
   useEffect(() => {
     loadDeck(filter);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [filter]);
+  }, [filter, les]);
 
   const card = deck[index] ?? null;
 
@@ -128,6 +167,8 @@ export default function KaartenPage() {
       },
     }));
 
+    recordActivity();
+
     setScores((s) => ({ ...s, [type]: s[type] + 1 }));
     setDirection(quality >= 3 ? 1 : -1);
     setTimeout(() => {
@@ -149,190 +190,182 @@ export default function KaartenPage() {
   };
 
   return (
-    <div className="flex flex-col h-screen max-h-screen bg-[var(--ds-white)] overflow-hidden pb-24 md:pb-6">
-      <div className="bg-[var(--ds-black)] px-5 py-4 flex items-center justify-between shrink-0">
-        <span className="text-sm font-bold text-[var(--ds-white)] lowercase tracking-wide">woordkaarten</span>
-        <span className="text-sm font-bold text-[var(--ds-white)] opacity-60">
-          {deck.length > 0 ? index + 1 : 0}/{deck.length}
+    <div className="flex flex-col h-screen max-h-screen bg-[var(--bg)] text-[var(--text)] overflow-hidden pb-24 md:pb-6">
+      {/* Top Header */}
+      <header className="bg-[var(--surface)] border-b border-[var(--border)] px-4 py-3.5 shadow-sm flex items-center justify-between shrink-0 select-none">
+        <h1 className="text-base font-black tracking-wider uppercase text-[var(--text)]">Woordkaarten</h1>
+        <span className="text-xs font-bold text-[var(--text-muted)] bg-[var(--surface-2)] px-2.5 py-0.5 rounded-full">
+          {deck.length > 0 ? index + 1 : 0} / {deck.length}
         </span>
-      </div>
+      </header>
 
-      <div className="bg-[var(--ds-white)] px-4 py-3 flex gap-2 border-b-[3px] border-[var(--ds-black)] overflow-x-auto shrink-0 scrollbar-none">
-        {FILTERS.map((f) => (
-          <button
-            key={f}
-            onClick={() => setFilter(f)}
-            className={[
-              "flex-shrink-0 px-4 py-2 text-xs font-bold uppercase tracking-widest cursor-pointer transition-colors",
-              filter === f
-                ? "bg-[var(--ds-black)] text-[var(--ds-white)] border-[2px] border-[var(--ds-black)]"
-                : "bg-transparent text-[var(--ds-black)] border-[2px] border-[var(--ds-black)]",
-            ].join(" ")}
-          >
-            {f}
-          </button>
-        ))}
-      </div>
-
-      {hasFallback && (
-        <div className="mx-[3px] mt-[3px] bg-[var(--ds-yellow)] border-[3px] border-[var(--ds-black)] px-4 py-2 shrink-0">
-          <p className="text-xs font-bold text-[var(--ds-black)]">Vertaling in jouw taal komt binnenkort</p>
+      {/* Filter Tabs / LesContextChip */}
+      {!les ? (
+        <div className="bg-[var(--surface)] px-4 py-3 flex gap-2 border-b border-[var(--border)] overflow-x-auto shrink-0 scrollbar-none select-none">
+          {FILTERS.map((f) => (
+            <button
+              key={f}
+              onClick={() => setFilter(f)}
+              className={`flex-shrink-0 px-4 py-1.5 text-[10px] font-black uppercase tracking-wider rounded-full border transition-all cursor-pointer ${
+                filter === f
+                  ? "bg-[var(--accent-soft)] text-[var(--accent)] border-[var(--accent)]/20"
+                  : "bg-[var(--surface-2)] text-[var(--text-muted)] border-transparent hover:bg-slate-200/50"
+              }`}
+            >
+              {f}
+            </button>
+          ))}
+        </div>
+      ) : (
+        <div className="px-4 py-2 bg-[var(--surface)] border-b border-[var(--border)] shrink-0 select-none">
+          <LesContextChip />
         </div>
       )}
 
-      <div className="flex-1 flex flex-col items-center justify-center p-4 gap-4 overflow-hidden">
-        <div className="flex justify-between items-center w-full max-w-sm px-2 shrink-0">
-          <div className="flex flex-col items-center">
-            <div className="bg-[var(--ds-red)] text-white text-[10px] font-bold px-3 py-1 rounded-t-md uppercase tracking-wider">
-              FAUT
-            </div>
-            <div className="bg-[var(--ds-gray)] text-[var(--ds-black)] font-bold text-sm px-4 py-1.5 border border-[var(--ds-black)] rounded-b-md shadow-sm min-w-[50px] text-center">
-              {scores.fout}
-            </div>
+      {hasFallback && (
+        <div className="mx-4 mt-3 bg-[var(--warning)]/10 border border-[var(--warning)]/20 px-4 py-2 rounded-xl shrink-0 select-none">
+          <p className="text-xs font-semibold text-[var(--warning)]">Vertaling in jouw taal komt binnenkort</p>
+        </div>
+      )}
+
+      {/* Main Flashcard Workspace */}
+      <div className="flex-grow flex flex-col items-center justify-center p-4 gap-6 overflow-hidden">
+        {/* Scores Panel */}
+        <div className="flex justify-between items-center w-full max-w-sm px-2 shrink-0 select-none">
+          <div className="flex items-center gap-2 bg-[var(--danger-soft)] text-[var(--danger)] border border-[var(--danger)]/15 px-3 py-1.5 rounded-xl text-xs font-extrabold shadow-sm">
+            <span>✗ FOOUT:</span>
+            <span>{scores.fout}</span>
           </div>
 
-          <div className="flex flex-col items-center">
-            <div className="bg-[var(--ds-green)] text-white text-[10px] font-bold px-3 py-1 rounded-t-md uppercase tracking-wider">
-              GOED
-            </div>
-            <div className="bg-[var(--ds-gray)] text-[var(--ds-black)] font-bold text-sm px-4 py-1.5 border border-[var(--ds-black)] rounded-b-md shadow-sm min-w-[50px] text-center">
-              {scores.goed}
-            </div>
+          <div className="flex items-center gap-2 bg-[var(--success-soft)] text-[var(--success)] border border-[var(--success)]/15 px-3 py-1.5 rounded-xl text-xs font-extrabold shadow-sm">
+            <span>✓ GOED:</span>
+            <span>{scores.goed}</span>
           </div>
         </div>
 
-        <div className="flex items-center justify-center w-full max-w-md gap-3 shrink-0">
+        {/* Card Navigator */}
+        <div className="flex items-center justify-center w-full max-w-md gap-4 shrink-0">
           <button
             onClick={prevCard}
             disabled={loading || deck.length === 0}
-            className="p-3 bg-[var(--ds-gray)] border border-[var(--ds-black)] hover:bg-[var(--ds-yellow)] text-[var(--ds-black)] cursor-pointer disabled:opacity-40 disabled:hover:bg-[var(--ds-gray)] transition-all flex items-center justify-center shadow-sm shrink-0"
+            className="p-3 bg-[var(--surface)] border border-[var(--border)] hover:bg-[var(--surface-2)] text-[var(--text)] rounded-xl cursor-pointer disabled:opacity-40 disabled:pointer-events-none transition-all flex items-center justify-center shadow-sm shrink-0"
             aria-label="Vorige kaart"
           >
-            <IconArrowLeft size={18} />
+            <IconArrowLeft size={16} />
           </button>
 
-          <div className="flex-1 max-w-[280px] xs:max-w-[310px] sm:max-w-xs" style={{ perspective: "1000px" }}>
+          <div className="flex-1 max-w-[280px] xs:max-w-[310px] sm:max-w-xs card-3d h-[220px]">
             {loading ? (
-              <div className="w-full min-h-[220px] bg-[var(--ds-gray)] border-[3px] border-[var(--ds-black)] flex items-center justify-center">
-                <div className="text-sm opacity-40 font-bold uppercase tracking-widest">Laden…</div>
+              <div className="w-full h-full bg-[var(--surface)] border border-[var(--border)] rounded-2xl flex items-center justify-center shadow-sm">
+                <div className="text-xs text-[var(--text-muted)] font-black uppercase tracking-widest animate-pulse">Laden…</div>
               </div>
             ) : !card ? (
-              <div className="w-full min-h-[220px] bg-[var(--ds-gray)] border-[3px] border-[var(--ds-black)] flex items-center justify-center">
-                <div className="text-sm opacity-40 font-bold uppercase tracking-widest">Geen kaarten</div>
+              <div className="w-full h-full bg-[var(--surface)] border border-[var(--border)] rounded-2xl flex items-center justify-center shadow-sm">
+                <div className="text-xs text-[var(--text-muted)] font-black uppercase tracking-widest">Geen kaarten</div>
               </div>
             ) : (
-              <motion.div
-                key={`${index}-${filter}`}
-                initial={{ x: direction * 50, opacity: 0 }}
-                animate={{ x: 0, opacity: 1 }}
-                exit={{ x: -direction * 50, opacity: 0 }}
-                transition={{ duration: 0.15 }}
-                onClick={handleCardClick}
-                className="cursor-pointer relative w-full h-[220px]"
-                style={{ transformStyle: "preserve-3d" }}
-              >
-                <motion.div
-                  animate={{ rotateY: flipped ? 180 : 0 }}
-                  transition={{ duration: 0.35, ease: "easeInOut" }}
-                  className="w-full h-full bg-[var(--ds-blue)] border-[3px] border-[var(--ds-black)] flex flex-col items-center justify-center p-6 select-none"
-                  style={{
-                    backfaceVisibility: "hidden",
-                    WebkitBackfaceVisibility: "hidden",
-                    position: "absolute",
-                    top: 0, left: 0, right: 0, bottom: 0,
-                  }}
-                >
-                  <p className="text-[9px] font-bold uppercase tracking-[2px] text-[var(--ds-white)] opacity-50 mb-3">
-                    NEDERLANDS
-                  </p>
-                  <p className="text-xl md:text-2xl font-bold text-[var(--ds-white)] text-center leading-tight break-words max-w-full">
-                    {card.nl}
-                  </p>
-                  <p className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-35 mt-5">
-                    tik om te draaien
-                  </p>
-                </motion.div>
-
-                <motion.div
-                  animate={{ rotateY: flipped ? 0 : -180 }}
-                  transition={{ duration: 0.35, ease: "easeInOut" }}
-                  className="w-full h-full bg-[var(--ds-gray)] border-[3px] border-[var(--ds-black)] flex flex-col items-center justify-center p-6 select-none"
-                  style={{
-                    backfaceVisibility: "hidden",
-                    WebkitBackfaceVisibility: "hidden",
-                    position: "absolute",
-                    top: 0, left: 0, right: 0, bottom: 0,
-                  }}
-                >
-                  <p className="text-[9px] font-bold uppercase tracking-[2px] text-[var(--ds-black)] opacity-50 mb-3">
-                    MOEDERTAAL
-                  </p>
-                  
-                  {isAdvanced && !translationRevealed ? (
-                    <button
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        setTranslationRevealed(true);
-                      }}
-                      className="px-4 py-2 bg-[var(--ds-blue)] text-white text-xs font-bold uppercase tracking-wider rounded-lg border border-[var(--ds-black)] cursor-pointer hover:opacity-90 transition-opacity"
-                    >
-                      [toon vertaling]
-                    </button>
-                  ) : (
-                    <p className="text-lg md:text-xl font-bold text-[var(--ds-black)] text-center leading-tight break-words max-w-full">
-                      {card.tr}
+              <div className="relative w-full h-full select-none" onClick={handleCardClick}>
+                <div className={`card-inner ${flipped ? "flipped" : ""}`}>
+                  {/* Front Side — Dutch */}
+                  <div className="card-front rounded-2xl bg-[var(--primary)] text-white border border-[var(--border)] flex flex-col items-center justify-center p-6 shadow-md">
+                    <p className="text-[10px] font-black uppercase tracking-widest opacity-60 mb-2">
+                      NEDERLANDS
                     </p>
-                  )}
-
-                  {card.en && (
-                    <p className="text-xs text-[var(--ds-black)] opacity-40 mt-3 text-center">
-                      {card.en}
+                    <p className="text-2xl font-bold text-center leading-normal max-w-full break-words">
+                      {card.nl}
                     </p>
-                  )}
-                </motion.div>
-              </motion.div>
+                    <p className="text-[10px] opacity-40 italic mt-4">
+                      tik om te draaien (çevir)
+                    </p>
+                  </div>
+
+                  {/* Back Side — Turkish */}
+                  <div className="card-back rounded-2xl bg-[var(--accent-soft)] text-[var(--accent)] border border-[var(--accent)]/10 flex flex-col items-center justify-center p-6 shadow-md">
+                    <p className="text-[10px] font-black uppercase tracking-widest opacity-60 mb-2">
+                      MOEDERTAAL
+                    </p>
+                    
+                    {isAdvanced && !translationRevealed ? (
+                      <button
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          setTranslationRevealed(true);
+                        }}
+                        className="px-4 py-2 bg-[var(--primary)] text-white text-xs font-bold uppercase tracking-wider rounded-xl cursor-pointer hover:opacity-90 transition-opacity border-none"
+                      >
+                        [toon vertaling]
+                      </button>
+                    ) : (
+                      <p className="text-2xl font-bold text-center leading-normal max-w-full break-words text-[var(--text)]">
+                        {card.tr}
+                      </p>
+                    )}
+
+                    {card.en && (
+                      <p className="text-[11px] text-[var(--text-muted)] mt-2 text-center opacity-70">
+                        {card.en}
+                      </p>
+                    )}
+                  </div>
+                </div>
+              </div>
             )}
           </div>
 
           <button
             onClick={nextCard}
             disabled={loading || deck.length === 0}
-            className="p-3 bg-[var(--ds-gray)] border border-[var(--ds-black)] hover:bg-[var(--ds-yellow)] text-[var(--ds-black)] cursor-pointer disabled:opacity-40 disabled:hover:bg-[var(--ds-gray)] transition-all flex items-center justify-center shadow-sm shrink-0"
+            className="p-3 bg-[var(--surface)] border border-[var(--border)] hover:bg-[var(--surface-2)] text-[var(--text)] rounded-xl cursor-pointer disabled:opacity-40 disabled:pointer-events-none transition-all flex items-center justify-center shadow-sm shrink-0"
             aria-label="Volgende kaart"
           >
-            <IconArrowRight size={18} />
+            <IconArrowRight size={16} />
           </button>
         </div>
 
+        {/* Answer Ratings Buttons */}
         <div className="flex gap-2 w-full max-w-xs mt-2 px-1 shrink-0">
           <button
             onClick={() => answer(1, "fout")}
             disabled={!card}
-            className="flex-1 py-3 px-2 bg-[var(--ds-red)] text-white font-bold rounded-lg border border-[var(--ds-black)] cursor-pointer disabled:opacity-40 hover:opacity-90 transition-opacity flex items-center justify-center gap-1.5 shadow-sm"
+            className="flex-1 py-3.5 px-2 bg-[var(--danger)] text-white font-bold rounded-xl border-none cursor-pointer disabled:opacity-40 hover:opacity-90 active:scale-95 transition-all flex items-center justify-center gap-1.5 shadow-sm"
           >
-            <IconX size={15} />
-            <span className="text-[10px] md:text-xs uppercase tracking-wider">Faut</span>
+            <IconX size={14} />
+            <span className="text-[10px] uppercase tracking-wider">Faut</span>
           </button>
 
           <button
             onClick={() => answer(3, "bijna")}
             disabled={!card}
-            className="flex-1 py-3 px-2 bg-[var(--ds-yellow)] text-[var(--ds-black)] font-bold rounded-lg border border-[var(--ds-black)] cursor-pointer disabled:opacity-40 hover:opacity-90 transition-opacity flex items-center justify-center gap-1.5 shadow-sm"
+            className="flex-1 py-3.5 px-2 bg-[var(--warning)] text-white font-bold rounded-xl border-none cursor-pointer disabled:opacity-40 hover:opacity-90 active:scale-95 transition-all flex items-center justify-center gap-1.5 shadow-sm"
           >
-            <IconMinus size={15} />
-            <span className="text-[10px] md:text-xs uppercase tracking-wider">Bijna</span>
+            <IconMinus size={14} />
+            <span className="text-[10px] uppercase tracking-wider">Bijna</span>
           </button>
 
           <button
             onClick={() => answer(5, "goed")}
             disabled={!card}
-            className="flex-1 py-3 px-2 bg-[var(--ds-green)] text-white font-bold rounded-lg border border-[var(--ds-black)] cursor-pointer disabled:opacity-40 hover:opacity-90 transition-opacity flex items-center justify-center gap-1.5 shadow-sm"
+            className="flex-1 py-3.5 px-2 bg-[var(--success)] text-white font-bold rounded-xl border-none cursor-pointer disabled:opacity-40 hover:opacity-90 active:scale-95 transition-all flex items-center justify-center gap-1.5 shadow-sm"
           >
-            <IconCheck size={15} />
-            <span className="text-[10px] md:text-xs uppercase tracking-wider">Goed</span>
+            <IconCheck size={14} />
+            <span className="text-[10px] uppercase tracking-wider">Goed</span>
           </button>
         </div>
       </div>
     </div>
+  );
+}
+
+export default function KaartenPage() {
+  return (
+    <Suspense
+      fallback={
+        <div className="min-h-screen flex items-center justify-center bg-[var(--bg)]">
+          <p className="text-sm font-bold uppercase tracking-widest opacity-40 animate-pulse">Laden…</p>
+        </div>
+      }
+    >
+      <KaartenGame />
+    </Suspense>
   );
 }

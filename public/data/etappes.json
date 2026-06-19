@@ -1,0 +1,1346 @@
+[
+  {
+    "id": "etappe-a1-01",
+    "niveau": "A1",
+    "titel": "Eerste Stappen",
+    "volgorde": 1,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Een nieuwe buur",
+        "verhaalId": "les_1"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Tegenwoordige Tijd (Şimdiki Zaman - Giriş)",
+        "grammarTopic": "tegenwoordige-tijd",
+        "zinnenbankLesId": "a1_les_1",
+        "niveau": "A1"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Heb je een minuutje?",
+        "verhaalId": "les_2"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Modale Werkwoorden (Tarz Fiiller - Giriş)",
+        "grammarTopic": "modaal",
+        "zinnenbankLesId": "a1_les_2",
+        "niveau": "A1"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Kun jij mij helpen?",
+        "verhaalId": "les_3"
+      }
+    ]
+  },
+  {
+    "id": "etappe-a1-02",
+    "niveau": "A1",
+    "titel": "Het Dagelijks Leven",
+    "volgorde": 2,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Wat kan ik voor je doen?",
+        "verhaalId": "les_4"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Tegenwoordige Tijd (Şimdiki Zaman - Pratik)",
+        "grammarTopic": "tegenwoordige-tijd",
+        "zinnenbankLesId": "a1_les_3",
+        "niveau": "A1"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "De toekomst begint vandaag",
+        "verhaalId": "les_5"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Modale Werkwoorden (Tarz Fiiller - Pratik)",
+        "grammarTopic": "modaal",
+        "zinnenbankLesId": "a1_les_4",
+        "niveau": "A1"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "We gaan naar Rotterdam",
+        "verhaalId": "les_6"
+      }
+    ]
+  },
+  {
+    "id": "etappe-a1-03",
+    "niveau": "A1",
+    "titel": "Nieuwe Ontmoetingen",
+    "volgorde": 3,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Een drukke week",
+        "verhaalId": "les_7"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Şimdiki Zaman Yapısı",
+        "grammarTopic": "tegenwoordige-tijd",
+        "zinnenbankLesId": "a1_les_5",
+        "niveau": "A1"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Wie ben jij?",
+        "verhaalId": "les_8"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Modaal Fiil Pratikleri",
+        "grammarTopic": "modaal",
+        "zinnenbankLesId": "a1_les_6",
+        "niveau": "A1"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Ze zijn zo anders",
+        "verhaalId": "les_9"
+      }
+    ]
+  },
+  {
+    "id": "etappe-a1-04",
+    "niveau": "A1",
+    "titel": "Vrije Tijd & Activiteiten",
+    "volgorde": 4,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Het einde van de week",
+        "verhaalId": "les_10"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Zinsbouw (Cümle Kurma)",
+        "grammarTopic": "zinsbouw",
+        "zinnenbankLesId": "a1_les_7",
+        "niveau": "A1"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Wat heb je gisteren gedaan?",
+        "verhaalId": "les_11"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Tarz Fiiller ve Konuşma",
+        "grammarTopic": "modaal",
+        "zinnenbankLesId": "a1_les_8",
+        "niveau": "A1"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Waar ben je geweest?",
+        "verhaalId": "les_12"
+      }
+    ]
+  },
+  {
+    "id": "etappe-a1-05",
+    "niveau": "A1",
+    "titel": "Verhuizen en Leren",
+    "volgorde": 5,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Een druk weekend",
+        "verhaalId": "les_13"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Şimdiki Zaman ve Günlük Konuşma",
+        "grammarTopic": "tegenwoordige-tijd",
+        "zinnenbankLesId": "a1_les_9",
+        "niveau": "A1"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "We gaan verhuizen",
+        "verhaalId": "les_14"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Modaal Yapılar ile Cümle Kurma",
+        "grammarTopic": "modaal",
+        "zinnenbankLesId": "a1_les_10",
+        "niveau": "A1"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Ik wil graag leren",
+        "verhaalId": "les_15"
+      }
+    ]
+  },
+  {
+    "id": "etappe-a1-06",
+    "niveau": "A1",
+    "titel": "De Toekomst in Zicht",
+    "volgorde": 6,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Plannen voor de toekomst",
+        "verhaalId": "les_16"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "A1 Seviyesi Gramer Tekrarı",
+        "grammarTopic": "tegenwoordige-tijd",
+        "zinnenbankLesId": "a1_les_11",
+        "niveau": "A1"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Samen sterk",
+        "verhaalId": "les_17"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "A1 Seviyesi Konuşma Pratiği",
+        "grammarTopic": "modaal",
+        "zinnenbankLesId": "a1_les_12",
+        "niveau": "A1"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Wil je of kun je?",
+        "verhaalId": "les_18"
+      }
+    ]
+  },
+  {
+    "id": "etappe-a1-07",
+    "niveau": "A1",
+    "titel": "Samenleving & Integratie",
+    "volgorde": 7,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Terug naar het begin",
+        "verhaalId": "les_19"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Tegenwoordige Tijd ile İleri Pratik",
+        "grammarTopic": "tegenwoordige-tijd",
+        "zinnenbankLesId": "a1_les_13",
+        "niveau": "A1"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Alles wat er is gebeurd",
+        "verhaalId": "les_20"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Zinsbouw ve Sözcük Sırası",
+        "grammarTopic": "zinsbouw",
+        "zinnenbankLesId": "a1_les_14",
+        "niveau": "A1"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Nieuwe start in Amsterdam",
+        "verhaalId": "les_a1_21"
+      }
+    ]
+  },
+  {
+    "id": "etappe-a1-08",
+    "niveau": "A1",
+    "titel": "A1 Afronding",
+    "volgorde": 8,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Terugblik op A1",
+        "verhaalId": "les_a1_22"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "A1 Genel Değerlendirme",
+        "grammarTopic": "tegenwoordige-tijd",
+        "zinnenbankLesId": "a1_les_15",
+        "niveau": "A1"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Dagelijkse gesprekken",
+        "verhaalId": "les_a1_23"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "A1 Seviyesi Kapanış Konuşması",
+        "grammarTopic": "modaal",
+        "zinnenbankLesId": "a1_les_16",
+        "niveau": "A1"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Voorbereiding op A2",
+        "verhaalId": "les_a1_24"
+      }
+    ]
+  },
+  {
+    "id": "etappe-a2-01",
+    "niveau": "A2",
+    "titel": "Nieuwe Omgeving",
+    "volgorde": 9,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Het nieuwe huis in Utrecht",
+        "verhaalId": "les_21"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Voltooid Deelwoord (Perfectum - Geçmiş Zaman)",
+        "grammarTopic": "perfectum",
+        "zinnenbankLesId": "a2_les_1",
+        "niveau": "A2"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Bram's nieuwe kantoor",
+        "verhaalId": "les_22"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Scheidbare Werkwoorden (Ayrılabilir Fiiller)",
+        "grammarTopic": "scheidbaar",
+        "zinnenbankLesId": "a2_les_2",
+        "niveau": "A2"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Eerste dienst in het UMC",
+        "verhaalId": "les_23"
+      }
+    ]
+  },
+  {
+    "id": "etappe-a2-02",
+    "niveau": "A2",
+    "titel": "Samenleving & Contact",
+    "volgorde": 10,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "De eerste schoolweek van Yasmin",
+        "verhaalId": "les_24"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Imperfectum (Geçmiş Zaman Hikayesi)",
+        "grammarTopic": "imperfectum",
+        "zinnenbankLesId": "a2_les_3",
+        "niveau": "A2"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Een afspraak bij de gemeente",
+        "verhaalId": "les_25"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Scheidbare Werkwoorden (Ayrılabilir Fiiller - Pratik)",
+        "grammarTopic": "scheidbaar",
+        "zinnenbankLesId": "a2_les_4",
+        "niveau": "A2"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Boodschappen op de markt",
+        "verhaalId": "les_26"
+      }
+    ]
+  },
+  {
+    "id": "etappe-a2-03",
+    "niveau": "A2",
+    "titel": "Vriendschap & Toekomst",
+    "volgorde": 11,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Vrije tijd in het park",
+        "verhaalId": "les_27"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Perfectum (Geçmiş Zaman Pratiği)",
+        "grammarTopic": "perfectum",
+        "zinnenbankLesId": "a2_les_5",
+        "niveau": "A2"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Bezoek van Fatima",
+        "verhaalId": "les_28"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Imperfectum vs Perfectum Karşılaştırması",
+        "grammarTopic": "imperfectum",
+        "zinnenbankLesId": "a2_les_6",
+        "niveau": "A2"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "De Nederlandse buren",
+        "verhaalId": "les_29"
+      }
+    ]
+  },
+  {
+    "id": "etappe-a2-04",
+    "niveau": "A2",
+    "titel": "Dagelijkse Routine",
+    "volgorde": 12,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "De inburgering plannen",
+        "verhaalId": "les_30"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Perfectum ile Cümle Kurma",
+        "grammarTopic": "perfectum",
+        "zinnenbankLesId": "a2_les_7",
+        "niveau": "A2"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Een nieuwe uitdaging",
+        "verhaalId": "les_a2_11"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Ayrılabilir Fiiller ve Zamanlar",
+        "grammarTopic": "scheidbaar",
+        "zinnenbankLesId": "a2_les_8",
+        "niveau": "A2"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Werken in Utrecht",
+        "verhaalId": "les_a2_12"
+      }
+    ]
+  },
+  {
+    "id": "etappe-a2-05",
+    "niveau": "A2",
+    "titel": "Werk & Studie",
+    "volgorde": 13,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Gesprekken op het werk",
+        "verhaalId": "les_a2_13"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Geçmiş Zaman Anlatısı",
+        "grammarTopic": "imperfectum",
+        "zinnenbankLesId": "a2_les_9",
+        "niveau": "A2"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Familiebezoek plannen",
+        "verhaalId": "les_a2_14"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Günlük Konuşmada Ayrılabilir Fiiller",
+        "grammarTopic": "scheidbaar",
+        "zinnenbankLesId": "a2_les_10",
+        "niveau": "A2"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Utrecht verkennen",
+        "verhaalId": "les_a2_15"
+      }
+    ]
+  },
+  {
+    "id": "etappe-a2-06",
+    "niveau": "A2",
+    "titel": "Vrije tijd & Cultuur",
+    "volgorde": 14,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Buurtbijeenkomst",
+        "verhaalId": "les_a2_16"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "A2 Seviyesi Geçmiş Zaman Tekrarı",
+        "grammarTopic": "perfectum",
+        "zinnenbankLesId": "a2_les_11",
+        "niveau": "A2"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Een sportieve middag",
+        "verhaalId": "les_a2_17"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "A2 Seviyesi Hikaye Anlatımı",
+        "grammarTopic": "imperfectum",
+        "zinnenbankLesId": "a2_les_12",
+        "niveau": "A2"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Cultuurverschillen ontdekken",
+        "verhaalId": "les_a2_18"
+      }
+    ]
+  },
+  {
+    "id": "etappe-a2-07",
+    "niveau": "A2",
+    "titel": "Gezondheid & Welzijn",
+    "volgorde": 15,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Vrienden uitnodigen",
+        "verhaalId": "les_a2_19"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Ayrılabilir Fiiller ile İleri Pratik",
+        "grammarTopic": "scheidbaar",
+        "zinnenbankLesId": "a2_les_13",
+        "niveau": "A2"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Een verjaardagsfeest",
+        "verhaalId": "les_a2_20"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "A2 İş Hayatında Geçmiş Zaman",
+        "grammarTopic": "perfectum",
+        "zinnenbankLesId": "a2_les_14",
+        "niveau": "A2"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Reizen in Nederland",
+        "verhaalId": "les_a2_21"
+      }
+    ]
+  },
+  {
+    "id": "etappe-a2-08",
+    "niveau": "A2",
+    "titel": "A2 Afronding",
+    "volgorde": 16,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Terugblik op A2",
+        "verhaalId": "les_a2_22"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "A2 Genel Değerlendirme",
+        "grammarTopic": "perfectum",
+        "zinnenbankLesId": "a2_les_15",
+        "niveau": "A2"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Klaar voor de inburgering",
+        "verhaalId": "les_a2_23"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "A2 Seviyesi Kapanış Konuşması",
+        "grammarTopic": "imperfectum",
+        "zinnenbankLesId": "a2_les_16",
+        "niveau": "A2"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Stap naar B1",
+        "verhaalId": "les_a2_24"
+      }
+    ]
+  },
+  {
+    "id": "etappe-b1-01",
+    "niveau": "B1",
+    "titel": "De Start van B1",
+    "volgorde": 17,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "De eerste B1-les",
+        "verhaalId": "les_31"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Bijzinnen (Yan Cümleler - Omdat, Hoewel, Zodat)",
+        "grammarTopic": "bijzinnen",
+        "zinnenbankLesId": "b1_les_1",
+        "niveau": "B1"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Brams grote project",
+        "verhaalId": "les_32"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Ayrılabilir Fiiller (Orta Seviye)",
+        "grammarTopic": "scheidbaar",
+        "zinnenbankLesId": "b1_les_2",
+        "niveau": "B1"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Gezond eten en budgetteren",
+        "verhaalId": "les_33"
+      }
+    ]
+  },
+  {
+    "id": "etappe-b1-02",
+    "niveau": "B1",
+    "titel": "Cultuur & Maatschappij",
+    "volgorde": 18,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Een multicultureel diner",
+        "verhaalId": "les_34"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Bijzinnen ve Woordvolgorde (Yan Cümle Yapısı)",
+        "grammarTopic": "bijzinnen",
+        "zinnenbankLesId": "b1_les_3",
+        "niveau": "B1"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Vrijwilligerswerk in het buurthuis",
+        "verhaalId": "les_35"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Perfectum Konuşma Odaklı Pratik",
+        "grammarTopic": "perfectum",
+        "zinnenbankLesId": "b1_les_4",
+        "niveau": "B1"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Kunst en geschiedenis in Utrecht",
+        "verhaalId": "les_36"
+      }
+    ]
+  },
+  {
+    "id": "etappe-b1-03",
+    "niveau": "B1",
+    "titel": "Zorg & Onderwijs",
+    "volgorde": 19,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Spanning op de spoedeisende hulp",
+        "verhaalId": "les_37"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Bijzinnen in de Praktijk",
+        "grammarTopic": "bijzinnen",
+        "zinnenbankLesId": "b1_les_5",
+        "niveau": "B1"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "De ouderavond van Yasmin",
+        "verhaalId": "les_38"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Imperfectum Anlatı Çalışmaları",
+        "grammarTopic": "imperfectum",
+        "zinnenbankLesId": "b1_les_6",
+        "niveau": "B1"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Leyla's sollicitatiegesprek",
+        "verhaalId": "les_39"
+      }
+    ]
+  },
+  {
+    "id": "etappe-b1-04",
+    "niveau": "B1",
+    "titel": "Ondernemerschap & Financiën",
+    "volgorde": 20,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Leyla's ondernemingsplannen",
+        "verhaalId": "les_40"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Complexe Bijzinnen (Karmaşık Yan Cümleler)",
+        "grammarTopic": "bijzinnen",
+        "zinnenbankLesId": "b1_les_7",
+        "niveau": "B1"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Verzekeringen en belastingen",
+        "verhaalId": "les_41"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Modale Hulpwerkwoorden (B1 Düzeyi)",
+        "grammarTopic": "modaal",
+        "zinnenbankLesId": "b1_les_8",
+        "niveau": "B1"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Het afscheid van Fatima",
+        "verhaalId": "les_42"
+      }
+    ]
+  },
+  {
+    "id": "etappe-b1-05",
+    "niveau": "B1",
+    "titel": "Feest & Cultuur",
+    "volgorde": 21,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Nederlands Film Festival in Utrecht",
+        "verhaalId": "les_43"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Bijzinnen ve Discussie",
+        "grammarTopic": "bijzinnen",
+        "zinnenbankLesId": "b1_les_9",
+        "niveau": "B1"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Koningsdag in Utrecht",
+        "verhaalId": "les_44"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Scheidbare Werkwoorden in Dialogen",
+        "grammarTopic": "scheidbaar",
+        "zinnenbankLesId": "b1_les_10",
+        "niveau": "B1"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Gezond leven en de sportclub",
+        "verhaalId": "les_45"
+      }
+    ]
+  },
+  {
+    "id": "etappe-b1-06",
+    "niveau": "B1",
+    "titel": "Succes & Toekomst",
+    "volgorde": 22,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Een feestje voor het inburgeringsdiploma",
+        "verhaalId": "les_46"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "B1 Gramer Konuları Genel Tekrarı",
+        "grammarTopic": "bijzinnen",
+        "zinnenbankLesId": "b1_les_11",
+        "niveau": "B1"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Leyla krijgt de baan!",
+        "verhaalId": "les_47"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "B1 Konuşma ve Çeviri Akıcılığı",
+        "grammarTopic": "tegenwoordige-tijd",
+        "zinnenbankLesId": "b1_les_12",
+        "niveau": "B1"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Duurzaam wonen en zonnepanelen",
+        "verhaalId": "les_48"
+      }
+    ]
+  },
+  {
+    "id": "etappe-b1-07",
+    "niveau": "B1",
+    "titel": "Maatschappelijke Thema's",
+    "volgorde": 23,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Nieuwe projecten op kantoor",
+        "verhaalId": "les_b1_19"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "İleri Düzey Yan Cümle Egzersizleri",
+        "grammarTopic": "bijzinnen",
+        "zinnenbankLesId": "b1_les_13",
+        "niveau": "B1"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Functioneringsgesprek",
+        "verhaalId": "les_b1_20"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "B1 Seviyesinde Zamanların Uyumu",
+        "grammarTopic": "perfectum",
+        "zinnenbankLesId": "b1_les_14",
+        "niveau": "B1"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Professionele communicatie",
+        "verhaalId": "les_b1_21"
+      }
+    ]
+  },
+  {
+    "id": "etappe-b1-08",
+    "niveau": "B1",
+    "titel": "B1 Afronding",
+    "volgorde": 24,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Terugblik op B1",
+        "verhaalId": "les_b1_22"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "B1 Genel Değerlendirme",
+        "grammarTopic": "bijzinnen",
+        "zinnenbankLesId": "b1_les_15",
+        "niveau": "B1"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Maatschappelijke discussies",
+        "verhaalId": "les_b1_23"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "B1 Seviyesi Kapanış ve Sunum Pratiği",
+        "grammarTopic": "modaal",
+        "zinnenbankLesId": "b1_les_16",
+        "niveau": "B1"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Stap naar B2",
+        "verhaalId": "les_b1_24"
+      }
+    ]
+  },
+  {
+    "id": "etappe-b2-01",
+    "niveau": "B2",
+    "titel": "Professionele Presentatie",
+    "volgorde": 25,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Brams presentatie voor de welstandscommissie",
+        "verhaalId": "les_49"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Geavanceerde Bijzinnen (İleri Düzey Yan Cümleler)",
+        "grammarTopic": "bijzinnen",
+        "zinnenbankLesId": "b2_les_1",
+        "niveau": "B2"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Bahar start als gespecialiseerd verpleegkundige",
+        "verhaalId": "les_50"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Imperfectum in Formele Context (Resmi Dil Anlatısı)",
+        "grammarTopic": "imperfectum",
+        "zinnenbankLesId": "b2_les_2",
+        "niveau": "B2"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Leyla's eerste grote klant",
+        "verhaalId": "les_51"
+      }
+    ]
+  },
+  {
+    "id": "etappe-b2-02",
+    "niveau": "B2",
+    "titel": "Maatschappelijke Keuzes",
+    "volgorde": 26,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "De discussie over duurzame energie",
+        "verhaalId": "les_52"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Bijzinnen ve Debatteren (Fikir Savunma)",
+        "grammarTopic": "bijzinnen",
+        "zinnenbankLesId": "b2_les_3",
+        "niveau": "B2"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Het afsluiten van een hypotheek",
+        "verhaalId": "les_53"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Perfectum in Medische & Zakelijke Termen",
+        "grammarTopic": "perfectum",
+        "zinnenbankLesId": "b2_les_4",
+        "niveau": "B2"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Yasmin naar de middelbare school",
+        "verhaalId": "les_54"
+      }
+    ]
+  },
+  {
+    "id": "etappe-b2-03",
+    "niveau": "B2",
+    "titel": "Cultuur & Leiderschap",
+    "volgorde": 27,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Een avond in de Stadsschouwburg",
+        "verhaalId": "les_55"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Bijzinnen ve Redeneren (Mantık Yürütme)",
+        "grammarTopic": "bijzinnen",
+        "zinnenbankLesId": "b2_les_5",
+        "niveau": "B2"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Bahar's lezing over de gezondheidszorg",
+        "verhaalId": "les_56"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Scheidbare Werkwoorden in Professionele Presentaties",
+        "grammarTopic": "scheidbaar",
+        "zinnenbankLesId": "b2_les_6",
+        "niveau": "B2"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Bram krijgt een partnerschap aangeboden",
+        "verhaalId": "les_57"
+      }
+    ]
+  },
+  {
+    "id": "etappe-b2-04",
+    "niveau": "B2",
+    "titel": "Mijlpalen & Succes",
+    "volgorde": 28,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Ali's promotie tot IT-manager",
+        "verhaalId": "les_58"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "B2 Niveau Uitdrukkingen en Bijzinnen",
+        "grammarTopic": "bijzinnen",
+        "zinnenbankLesId": "b2_les_7",
+        "niveau": "B2"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Het buurtfeest in Utrecht",
+        "verhaalId": "les_59"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Modale Fiil Yapıları ile B2 Düzeyinde İletişim",
+        "grammarTopic": "modaal",
+        "zinnenbankLesId": "b2_les_8",
+        "niveau": "B2"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Bahar en Bram kopen hun droomhuis",
+        "verhaalId": "les_60"
+      }
+    ]
+  },
+  {
+    "id": "etappe-b2-05",
+    "niveau": "B2",
+    "titel": "Wetenschap & Innovatie",
+    "volgorde": 29,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "De start van een nieuw project",
+        "verhaalId": "les_b2_13"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Akademik Yan Cümle Kullanımları",
+        "grammarTopic": "bijzinnen",
+        "zinnenbankLesId": "b2_les_9",
+        "niveau": "B2"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Financiële planning",
+        "verhaalId": "les_b2_14"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Resmi Yazışmalarda Geçmiş Zaman",
+        "grammarTopic": "imperfectum",
+        "zinnenbankLesId": "b2_les_10",
+        "niveau": "B2"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Netwerken in Utrecht",
+        "verhaalId": "les_b2_15"
+      }
+    ]
+  },
+  {
+    "id": "etappe-b2-06",
+    "niveau": "B2",
+    "titel": "Politiek & Beleid",
+    "volgorde": 30,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Congres presentatie",
+        "verhaalId": "les_b2_16"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "B2 Seviyesi Tartışma ve Argümantasyon",
+        "grammarTopic": "bijzinnen",
+        "zinnenbankLesId": "b2_les_11",
+        "niveau": "B2"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Veranderingen in de zorg",
+        "verhaalId": "les_b2_17"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "Mesleki Raporlama Zamanları",
+        "grammarTopic": "perfectum",
+        "zinnenbankLesId": "b2_les_12",
+        "niveau": "B2"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Preventie en leefstijl",
+        "verhaalId": "les_b2_18"
+      }
+    ]
+  },
+  {
+    "id": "etappe-b2-07",
+    "niveau": "B2",
+    "titel": "Professioneel Netwerken",
+    "volgorde": 31,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Strategische plannen",
+        "verhaalId": "les_b2_19"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "Mesleki Sunumlarda Ayrılabilir Fiiller",
+        "grammarTopic": "scheidbaar",
+        "zinnenbankLesId": "b2_les_13",
+        "niveau": "B2"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Teammanagement",
+        "verhaalId": "les_b2_20"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "İleri Düzey Tarz Fiil Nüansları",
+        "grammarTopic": "modaal",
+        "zinnenbankLesId": "b2_les_14",
+        "niveau": "B2"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Duurzame toekomstvisie",
+        "verhaalId": "les_b2_21"
+      }
+    ]
+  },
+  {
+    "id": "etappe-b2-08",
+    "niveau": "B2",
+    "titel": "B2 Afronding",
+    "volgorde": 32,
+    "lessen": [
+      {
+        "nr": 1,
+        "type": "verhaal",
+        "titel": "Terugblik op B2",
+        "verhaalId": "les_b2_22"
+      },
+      {
+        "nr": 2,
+        "type": "grammatica_spreken",
+        "titel": "B2 Genel Değerlendirme ve Sunum",
+        "grammarTopic": "bijzinnen",
+        "zinnenbankLesId": "b2_les_15",
+        "niveau": "B2"
+      },
+      {
+        "nr": 3,
+        "type": "verhaal",
+        "titel": "Professionele Beheersing",
+        "verhaalId": "les_b2_23"
+      },
+      {
+        "nr": 4,
+        "type": "grammatica_spreken",
+        "titel": "B2 Kapanış ve Akıcı Konuşma Sınavı Hazırlık",
+        "grammarTopic": "modaal",
+        "zinnenbankLesId": "b2_les_16",
+        "niveau": "B2"
+      },
+      {
+        "nr": 5,
+        "type": "verhaal",
+        "titel": "Klaar voor de toekomst",
+        "verhaalId": "les_b2_24"
+      }
+    ]
+  }
+]
