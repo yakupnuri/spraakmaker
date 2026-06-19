@@ -10,7 +10,6 @@ export default function FeedbackPage() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitResult, setSubmitResult] = useState<{ success: boolean; msg: string } | null>(null);
 
-  // Web3Forms API Key from environment variables (client-accessible in Next.js when prefixed with NEXT_PUBLIC_)
   const web3formsKey = process.env.NEXT_PUBLIC_WEB3FORMS_KEY;
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -20,7 +19,6 @@ export default function FeedbackPage() {
     setIsSubmitting(true);
     setSubmitResult(null);
 
-    // If there is no API key configured, we will simulate a successful send for development/testing
     if (!web3formsKey) {
       console.warn("Spraakmaker Feedback: NEXT_PUBLIC_WEB3FORMS_KEY is not defined. Simulating API call.");
       console.log("Feedback Submitted:", { feedbackType, email, message });
@@ -31,7 +29,6 @@ export default function FeedbackPage() {
           success: true,
           msg: "Demo Modu: Geri bildiriminiz konsola yazdırıldı! Gerçek gönderimler için lütfen .env.local dosyasına NEXT_PUBLIC_WEB3FORMS_KEY değerini ekleyin.",
         });
-        // Clear message
         setMessage("");
       }, 1000);
       return;
@@ -80,51 +77,51 @@ export default function FeedbackPage() {
   };
 
   return (
-    <div className="flex flex-col min-h-screen bg-[var(--ds-white)]">
+    <div className="flex flex-col min-h-screen bg-[var(--bg)] text-[var(--text)] pb-24 select-none">
       {/* Header */}
-      <div className="bg-[var(--ds-black)] px-5 py-4 flex justify-between items-center">
-        <span className="text-sm font-bold text-[var(--ds-white)] lowercase tracking-wide">feedback</span>
-        <Link href="/meer" className="text-xs font-bold uppercase tracking-widest text-[var(--ds-yellow)]">
+      <header className="bg-[var(--surface)] border-b border-[var(--border)] px-5 py-4 shadow-sm flex justify-between items-center shrink-0">
+        <span className="text-sm font-black uppercase tracking-wider text-[var(--text)]">Feedback & Destek</span>
+        <Link href="/meer" className="text-[10px] font-black uppercase tracking-widest text-[var(--accent)] bg-[var(--accent-soft)] px-2.5 py-0.5 rounded-full border border-[var(--accent)]/15">
           SLUITEN
         </Link>
-      </div>
+      </header>
 
       {/* Banner */}
-      <div className="bg-[var(--ds-blue)] border-b-[3px] border-[var(--ds-black)] p-5 text-[var(--ds-white)]">
+      <div className="bg-[var(--primary)] p-5 text-white">
         <span className="text-[10px] font-black uppercase tracking-widest opacity-60 block mb-1">
-          HELP MEEDENCKEN
+          HELP MEEDENCKEN (Bize Yardım Et)
         </span>
-        <h1 className="text-xl font-black">Feedback & Foutrapportage</h1>
-        <p className="text-xs opacity-75 mt-1">
+        <h1 className="text-xl font-extrabold">Feedback & Foutrapportage</h1>
+        <p className="text-xs opacity-75 mt-1 leading-normal">
           Heb je een fout (bug) gevonden, of heb je een geweldig idee voor een nieuwe functie? Laat het ons weten!
         </p>
       </div>
 
       {/* Form Content */}
-      <form onSubmit={handleSubmit} className="flex-1 p-4 flex flex-col gap-4 overflow-y-auto">
+      <form onSubmit={handleSubmit} className="flex-1 p-4 flex flex-col gap-4 overflow-y-auto w-full max-w-lg mx-auto">
         
         {/* Type Selection */}
-        <div className="bg-[var(--ds-white)] border-[3px] border-[var(--ds-black)] p-4">
-          <span className="text-[9px] font-bold opacity-50 uppercase tracking-widest block mb-3">
-            WAAR GAAT HET OVER?
+        <div className="bg-[var(--surface)] border border-[var(--border)] p-4 rounded-2xl shadow-sm">
+          <span className="text-[9px] font-black text-[var(--text-muted)] uppercase tracking-widest block mb-3">
+            WAAR GAAT HET OVER? (Konu Nedir?)
           </span>
-          <div className="flex gap-[3px] bg-[var(--ds-black)] p-[3px]">
+          <div className="flex gap-1 bg-[var(--surface-2)] p-1 rounded-xl border border-[var(--border)]">
             {(["bug", "feature", "general"] as const).map((t) => {
               const active = feedbackType === t;
               const labels = {
-                bug: "Fout/Bug 🐛",
-                feature: "Idee 💡",
-                general: "Algemeen 💬",
+                bug: "Bug 🐛",
+                feature: "Fikir 💡",
+                general: "Diğer 💬",
               };
               return (
                 <button
                   key={t}
                   type="button"
                   onClick={() => setFeedbackType(t)}
-                  className={`flex-1 py-3 text-xs font-bold border-none cursor-pointer transition-colors ${
+                  className={`flex-grow py-2.5 text-xs font-bold border-none rounded-lg cursor-pointer transition-all active:scale-98 ${
                     active
-                      ? "bg-[var(--ds-yellow)] text-[var(--ds-black)]"
-                      : "bg-[var(--ds-white)] text-[var(--ds-black)] hover:bg-[var(--ds-gray)]"
+                      ? "bg-[var(--primary)] text-white shadow-sm"
+                      : "bg-transparent text-[var(--text-muted)] hover:text-[var(--text)]"
                   }`}
                 >
                   {labels[t]}
@@ -135,9 +132,9 @@ export default function FeedbackPage() {
         </div>
 
         {/* Email Address */}
-        <div className="bg-[var(--ds-white)] border-[3px] border-[var(--ds-black)] p-4">
-          <label htmlFor="email" className="text-[9px] font-bold opacity-50 uppercase tracking-widest block mb-2">
-            JE E-MAILADRES (OPTIONEEL)
+        <div className="bg-[var(--surface)] border border-[var(--border)] p-4 rounded-2xl shadow-sm">
+          <label htmlFor="email" className="text-[9px] font-black text-[var(--text-muted)] uppercase tracking-widest block mb-2">
+            JE E-MAILADRES (E-posta Adresin - İsteğe Bağlı)
           </label>
           <input
             id="email"
@@ -145,17 +142,17 @@ export default function FeedbackPage() {
             value={email}
             onChange={(e) => setEmail(e.target.value)}
             placeholder="naam@voorbeeld.nl"
-            className="w-full bg-[var(--ds-white)] border-[3px] border-[var(--ds-black)] px-3 py-2 outline-none font-bold text-sm placeholder:opacity-30 text-[var(--ds-black)]"
+            className="w-full bg-[var(--surface-2)] border border-[var(--border)] rounded-xl px-4 py-3 outline-none font-semibold text-sm placeholder:opacity-30 text-[var(--text)] transition-all focus:border-[var(--accent)]"
           />
-          <p className="text-[9px] opacity-40 mt-1">
+          <p className="text-[9px] text-[var(--text-muted)] opacity-60 mt-1.5 leading-normal">
             Vul dit in als je wilt dat we contact met je opnemen over je melding.
           </p>
         </div>
 
         {/* Feedback Message */}
-        <div className="bg-[var(--ds-white)] border-[3px] border-[var(--ds-black)] p-4 flex-1 flex flex-col min-h-[200px]">
-          <label htmlFor="message" className="text-[9px] font-bold opacity-50 uppercase tracking-widest block mb-2">
-            JE BERICHT (VERPLICHT)
+        <div className="bg-[var(--surface)] border border-[var(--border)] p-4 rounded-2xl shadow-sm flex-grow flex flex-col min-h-[220px]">
+          <label htmlFor="message" className="text-[9px] font-black text-[var(--text-muted)] uppercase tracking-widest block mb-2">
+            JE BERICHT (Mesajın - Zorunlu)
           </label>
           <textarea
             id="message"
@@ -169,39 +166,36 @@ export default function FeedbackPage() {
                 ? "Welke nieuwe functie zou je willen zien? Hoe zou het moeten werken? Waarom is dit nuttig?"
                 : "Schrijf hier je opmerking of suggestie..."
             }
-            className="w-full flex-1 bg-[var(--ds-white)] border-[3px] border-[var(--ds-black)] px-3 py-2 outline-none font-bold text-sm placeholder:opacity-30 text-[var(--ds-black)] resize-none"
+            className="w-full flex-grow bg-[var(--surface-2)] border border-[var(--border)] rounded-xl px-4 py-3 outline-none font-semibold text-sm placeholder:opacity-30 text-[var(--text)] resize-none transition-all focus:border-[var(--accent)] min-h-[120px]"
           />
         </div>
 
         {/* Submit Results */}
         {submitResult && (
           <div
-            className={`border-[3px] border-[var(--ds-black)] p-4 font-bold text-xs ${
+            className={`border p-4 rounded-xl font-bold text-xs shadow-sm ${
               submitResult.success
-                ? "bg-[var(--ds-green)] text-[var(--ds-white)]"
-                : "bg-[var(--ds-red)] text-[var(--ds-white)]"
+                ? "bg-[var(--success-soft)] border-[var(--success)]/10 text-[var(--success)]"
+                : "bg-[var(--danger-soft)] border-[var(--danger)]/10 text-[var(--danger)]"
             }`}
           >
             {submitResult.msg}
           </div>
         )}
 
-        {/* Development Instruction warning if API key is not yet set */}
+        {/* Dev warning */}
         {!web3formsKey && (
-          <div className="bg-[var(--ds-gray)] border-[3px] border-[var(--ds-black)] p-3 text-[10px] text-[var(--ds-black)] opacity-70">
-            <span className="font-bold">Ontwikkelaarsnotitie:</span> Om echte e-mails te ontvangen, maak je een gratis key aan op{" "}
+          <div className="bg-[var(--surface-2)] border border-[var(--border)] p-3 rounded-xl text-[10px] text-[var(--text-muted)] leading-relaxed">
+            <span className="font-bold text-[var(--text)]">Ontwikkelaarsnotitie:</span> Om echte e-mails te ontvangen, maak je een key aan op{" "}
             <a
               href="https://web3forms.com"
               target="_blank"
               rel="noopener noreferrer"
-              className="underline font-bold text-[var(--ds-blue)]"
+              className="underline font-bold text-[var(--accent)]"
             >
               web3forms.com
             </a>{" "}
-            en voeg deze toe aan <code className="bg-white px-1">.env.local</code> als:
-            <pre className="mt-1 font-mono text-[9px] bg-white p-1 select-all overflow-x-auto">
-              NEXT_PUBLIC_WEB3FORMS_KEY=your_key_here
-            </pre>
+            ve voeg deze toe aan <code className="bg-white/10 dark:bg-black/10 px-1 rounded">.env.local</code>.
           </div>
         )}
 
@@ -209,7 +203,7 @@ export default function FeedbackPage() {
         <button
           type="submit"
           disabled={isSubmitting || !message.trim()}
-          className="w-full bg-[var(--ds-black)] text-[var(--ds-white)] py-4 font-bold uppercase tracking-widest text-sm hover:opacity-90 disabled:opacity-40 transition-opacity cursor-pointer border-none mb-4"
+          className="w-full bg-[var(--primary)] text-white py-4 rounded-xl font-bold uppercase tracking-widest text-sm hover:opacity-95 disabled:opacity-40 transition-all cursor-pointer border-none mb-4 active:scale-98 shadow-sm"
         >
           {isSubmitting ? "VERZENDEN..." : "FEEDBACK VERZENDEN"}
         </button>

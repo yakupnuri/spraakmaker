@@ -1,0 +1,41 @@
+{
+  "categorieën": [
+    {
+      "id": "videolessen",
+      "titel": "Videolessen",
+      "playlists": [
+        {
+          "playlistId": "PLuo07btZxHLtS3uZY3-DSntmTUKXLU0gX",
+          "kanaal": "Oranje: Taal & Tech",
+          "titel": "Inburgering A2 (Ders Anlatımları)"
+        },
+        {
+          "playlistId": "PLuo07btZxHLuSguon0q2COFGHrOMV8bO1",
+          "kanaal": "Oranje: Taal & Tech",
+          "titel": "Adapel B1 (Orta Seviye)"
+        },
+        {
+          "playlistId": "PLuo07btZxHLs1DYOiS6zDZRRXDqn-0OIs",
+          "kanaal": "Oranje: Taal & Tech",
+          "titel": "Grammatica (Dil Bilgisi)"
+        },
+        {
+          "playlistId": "PLXt14hMCM9FQlkRFO_jC5aNNbjjS9oowv",
+          "kanaal": "Learn Dutch with Frederika",
+          "titel": "Learn Dutch for Free — NT2"
+        }
+      ]
+    },
+    {
+      "id": "shadowing",
+      "titel": "Shadowing",
+      "playlists": [
+        {
+          "playlistId": "PLC_TXjwWZOqrI5ffyBHAj-ZfQUw0GIjNL",
+          "kanaal": "Dutch Shadowing",
+          "titel": "Dutch Shadowing Practice"
+        }
+      ]
+    }
+  ]
+}

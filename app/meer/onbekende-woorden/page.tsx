@@ -72,181 +72,193 @@ export default function OnbekendeWoordenPage() {
     const gapSentence = currentItem.sentence.replace(new RegExp(`\\b${targetClean}\\b`, "i"), "_____");
 
     return (
-      <div className="flex flex-col min-h-screen bg-[var(--ds-white)]">
+      <div className="flex flex-col min-h-screen bg-[var(--bg)] text-[var(--text)] pb-24 select-none">
         {/* Header */}
-        <div className="bg-[var(--ds-black)] px-5 py-4 flex items-center justify-between">
-          <span className="text-sm font-bold text-[var(--ds-white)] lowercase tracking-wide">herhaling</span>
-          <span className="text-xs font-black text-[var(--ds-yellow)] uppercase tracking-widest">
+        <header className="bg-[var(--surface)] border-b border-[var(--border)] px-5 py-4 shadow-sm flex items-center justify-between shrink-0">
+          <span className="text-sm font-black uppercase tracking-wider text-[var(--text)]">herhaling</span>
+          <span className="text-xs font-bold text-[var(--text-muted)] bg-[var(--surface-2)] px-2.5 py-0.5 rounded-full">
             {currentIndex + 1} / {wordList.length}
           </span>
-        </div>
+        </header>
 
         {/* Banner */}
-        <div className="bg-[var(--ds-blue)] border-b-[3px] border-[var(--ds-black)] p-5 text-[var(--ds-white)]">
-          <p className="text-[10px] font-bold uppercase tracking-widest opacity-70 mb-1">WOORDTRAINING</p>
-          <h1 className="text-lg font-black">Vul het juiste woord in</h1>
+        <div className="bg-[var(--primary)] p-5 text-white">
+          <p className="text-[10px] font-black uppercase tracking-widest opacity-60 mb-1">WOORDTRAINING</p>
+          <h1 className="text-xl font-extrabold">Vul het juiste woord in</h1>
         </div>
 
-        <div className="flex-1 p-4 flex flex-col gap-4">
+        <div className="flex-grow p-4 flex flex-col gap-4 w-full max-w-lg mx-auto justify-center">
           {/* Context sentence */}
-          <div className="bg-[var(--ds-gray)] border-[3px] border-[var(--ds-black)] p-4 flex flex-col">
-            <span className="text-[9px] font-bold opacity-50 uppercase tracking-widest mb-1">VERTALING</span>
-            <p className="font-bold text-sm text-[var(--ds-black)]">"{currentItem.translation}"</p>
-            <span className="text-[9px] font-bold opacity-50 uppercase tracking-widest mt-3 mb-1">CONTEXT ZIN</span>
-            <p className="font-medium text-base text-[var(--ds-black)] mt-0.5">{gapSentence}</p>
+          <div className="bg-[var(--surface)] border border-[var(--border)] p-5 rounded-2xl shadow-sm flex flex-col gap-2.5">
+            <div>
+              <span className="text-[9px] font-black text-[var(--accent)] uppercase tracking-widest block">VERTALING (Çeviri)</span>
+              <p className="font-bold text-sm text-[var(--text)] mt-1">"{currentItem.translation}"</p>
+            </div>
+            <div className="border-t border-[var(--border)] pt-3.5">
+              <span className="text-[9px] font-black text-[var(--text-muted)] uppercase tracking-widest block">CONTEXT ZIN (Bağlam)</span>
+              <p className="font-semibold text-base text-[var(--text)] mt-1">{gapSentence}</p>
+            </div>
           </div>
 
           {/* User entry */}
-          <div className="bg-[var(--ds-white)] border-[3px] border-[var(--ds-black)] p-4">
-            <span className="text-[9px] font-bold opacity-50 uppercase tracking-widest block mb-2">JOUW POGING</span>
+          <div className="bg-[var(--surface)] border border-[var(--border)] p-5 rounded-2xl shadow-sm flex flex-col gap-3">
+            <label htmlFor="attempt" className="text-[9px] font-black text-[var(--text-muted)] uppercase tracking-widest block">JOUW POGING (Senin Cevabın)</label>
             <input
+              id="attempt"
               type="text"
               value={inputValue}
               onChange={(e) => setInputValue(e.target.value)}
               disabled={showAnswer}
               placeholder="Typ het correcte woord..."
-              className="w-full bg-transparent border-[3px] border-[var(--ds-black)] px-3 py-2 outline-none font-bold text-lg placeholder:opacity-30"
+              className="w-full bg-[var(--surface-2)] border border-[var(--border)] rounded-xl px-4 py-3 outline-none font-semibold text-sm placeholder:opacity-30 text-[var(--text)] transition-all focus:border-[var(--accent)]"
             />
             {showAnswer && (
-              <div className="mt-3 pt-2 border-t border-[var(--ds-gray)]">
-                <p className="text-xs">
-                  <span className="font-bold opacity-50 uppercase tracking-widest block text-[9px]">CORRECTE ANTWOORD</span>
-                  <span className="text-lg font-black text-[var(--ds-black)]">{currentItem.target}</span>
-                </p>
-                <p className="text-xs mt-1">
-                  <span className="font-bold opacity-50 uppercase tracking-widest block text-[9px] text-[var(--ds-red)]">JE VORIGE FOUT</span>
-                  <span className="text-xs line-through text-[var(--ds-red)]">{currentItem.word}</span>
-                </p>
+              <div className="mt-2 pt-3 border-t border-[var(--border)] flex flex-col gap-2">
+                <div>
+                  <span className="font-black opacity-60 uppercase tracking-widest block text-[8px] text-[var(--text-muted)]">CORRECTE ANTWOORD</span>
+                  <span className="text-base font-extrabold text-[var(--success)]">"{currentItem.target}"</span>
+                </div>
+                <div>
+                  <span className="font-black opacity-60 uppercase tracking-widest block text-[8px] text-[var(--danger)]">JE VORIGE FOUT (Önceki Hatan)</span>
+                  <span className="text-sm line-through text-[var(--danger)] font-bold">"{currentItem.word}"</span>
+                </div>
               </div>
             )}
           </div>
 
           {/* Feedback */}
           {feedback && (
-            <div className={`border-[3px] border-[var(--ds-black)] p-4 font-bold text-sm ${
-              feedback === "correct" ? "bg-[var(--ds-green)] text-[var(--ds-white)]" : "bg-[var(--ds-red)] text-[var(--ds-white)]"
+            <div className={`border p-4 rounded-xl font-bold text-sm shadow-sm ${
+              feedback === "correct" 
+                ? "bg-[var(--success-soft)] border-[var(--success)]/10 text-[var(--success)]" 
+                : "bg-[var(--danger-soft)] border-[var(--danger)]/10 text-[var(--danger)]"
             }`}>
               {feedback === "correct" ? (
-                <div>
-                  <p>Goed zo!</p>
+                <div className="flex flex-col gap-2.5">
+                  <p>Goed zo! (Tebrikler!)</p>
                   <button
                     onClick={() => {
                       deleteWord(currentItem.word);
                       nextPracticeWord();
                     }}
-                    className="mt-2 bg-[var(--ds-black)] text-[var(--ds-white)] px-3 py-1.5 text-xs font-bold uppercase tracking-widest hover:opacity-80 transition-opacity cursor-pointer border-none"
+                    className="self-start bg-[var(--success)] text-white px-3.5 py-1.5 rounded-lg text-xs font-bold uppercase tracking-wider hover:opacity-90 active:scale-95 transition-all border-none cursor-pointer"
                   >
-                    Verwijder uit foutenlijst
+                    Verwijder uit foutenlijst (Listeden Çıkar)
                   </button>
                 </div>
               ) : (
-                "Niet helemaal juist. Blijf oefenen!"
+                "Niet helemaal juist. Blijf oefenen! (Tekrar dene!)"
               )}
             </div>
           )}
         </div>
 
-        {/* Footer buttons */}
-        <div className="border-t-[3px] border-[var(--ds-black)] p-4 flex flex-col gap-2 bg-[var(--ds-white)]">
-          {!showAnswer ? (
+        {/* Fixed footer actions aligned securely */}
+        <div className="fixed bottom-[64px] md:bottom-0 left-0 right-0 bg-[var(--surface)] border-t border-[var(--border)] z-40 p-3 shadow-md pb-[env(safe-area-inset-bottom)]">
+          <div className="w-full max-w-lg mx-auto flex flex-col gap-2">
+            {!showAnswer ? (
+              <button
+                onClick={checkPracticeAnswer}
+                disabled={!inputValue.trim()}
+                className="w-full bg-[var(--primary)] text-white py-4 rounded-xl font-bold uppercase tracking-widest text-sm hover:opacity-95 disabled:opacity-40 transition-all cursor-pointer border-none shadow-sm active:scale-98"
+              >
+                CONTROLEER
+              </button>
+            ) : (
+              <button
+                onClick={nextPracticeWord}
+                className="w-full bg-[var(--primary)] text-white py-4 rounded-xl font-bold uppercase tracking-widest text-sm hover:opacity-95 transition-all cursor-pointer border-none shadow-sm active:scale-98"
+              >
+                VOLGENDE
+              </button>
+            )}
             <button
-              onClick={checkPracticeAnswer}
-              disabled={!inputValue.trim()}
-              className="w-full bg-[var(--ds-black)] text-[var(--ds-white)] py-4 font-bold uppercase tracking-widest text-sm hover:opacity-90 disabled:opacity-40 transition-opacity cursor-pointer border-none"
+              onClick={() => setPracticeMode(false)}
+              className="w-full bg-[var(--surface-2)] text-[var(--text-muted)] py-3 rounded-xl font-bold uppercase tracking-widest text-xs hover:opacity-95 transition-all cursor-pointer border border-[var(--border)] active:scale-98"
             >
-              CONTROLEER
+              STOP TRAINING
             </button>
-          ) : (
-            <button
-              onClick={nextPracticeWord}
-              className="w-full bg-[var(--ds-black)] text-[var(--ds-white)] py-4 font-bold uppercase tracking-widest text-sm hover:opacity-90 transition-opacity cursor-pointer border-none"
-            >
-              VOLGENDE
-            </button>
-          )}
-          <button
-            onClick={() => setPracticeMode(false)}
-            className="w-full bg-[var(--ds-white)] text-[var(--ds-black)] border-[3px] border-[var(--ds-black)] py-3 font-bold uppercase tracking-widest text-xs hover:bg-[var(--ds-gray)] cursor-pointer"
-          >
-            STOP TRAINING
-          </button>
+          </div>
         </div>
       </div>
     );
   }
 
   return (
-    <div className="flex flex-col min-h-screen bg-[var(--ds-white)]">
+    <div className="flex flex-col min-h-screen bg-[var(--bg)] text-[var(--text)] pb-24 select-none">
       {/* Header */}
-      <div className="bg-[var(--ds-black)] px-5 py-4 flex justify-between items-center">
-        <span className="text-sm font-bold text-[var(--ds-white)] lowercase tracking-wide">onbekende woorden</span>
-        <Link href="/meer" className="text-xs font-bold uppercase tracking-widest text-[var(--ds-yellow)]">
+      <header className="bg-[var(--surface)] border-b border-[var(--border)] px-5 py-4 shadow-sm flex justify-between items-center shrink-0">
+        <span className="text-sm font-black uppercase tracking-wider text-[var(--text)]">onbekende woorden</span>
+        <Link href="/meer" className="text-[10px] font-black uppercase tracking-widest text-[var(--accent)] bg-[var(--accent-soft)] px-2.5 py-0.5 rounded-full border border-[var(--accent)]/15">
           SLUITEN
         </Link>
-      </div>
+      </header>
 
       {/* Banner */}
-      <div className="bg-[var(--ds-yellow)] border-b-[3px] border-[var(--ds-black)] p-5 text-[var(--ds-black)]">
-        <span className="text-[10px] font-black uppercase tracking-widest opacity-60 block mb-1">
-          PERSOONLIJKE LIJST
+      <div className="bg-[var(--warning)]/10 border-b border-[var(--border)] p-5 text-[var(--text)] flex flex-col gap-0.5">
+        <span className="text-[10px] font-black uppercase tracking-widest text-[var(--warning)] block">
+          PERSOONLIJKE LIJST (Hata Defteri)
         </span>
-        <h1 className="text-xl font-black">Fouten & Woordenlijst</h1>
-        <p className="text-xs opacity-70 mt-1">
+        <h1 className="text-xl font-extrabold">Fouten & Woordenlijst</h1>
+        <p className="text-xs text-[var(--text-muted)] mt-1 font-semibold leading-normal">
           Woorden die je verkeerd hebt ingevuld in 'Vul in' worden hier bewaard om te herhalen.
         </p>
       </div>
 
       {/* Control bar */}
       {wordList.length > 0 && (
-        <div className="p-4 bg-[var(--ds-white)] border-b-[3px] border-[var(--ds-black)]">
+        <div className="p-4 bg-[var(--surface)] border-b border-[var(--border)] sticky top-[53px] z-30 shadow-sm shrink-0">
           <button
             onClick={startPractice}
-            className="w-full bg-[var(--ds-black)] text-[var(--ds-white)] py-4 font-bold uppercase tracking-widest text-sm hover:opacity-90 transition-opacity cursor-pointer border-none"
+            className="w-full max-w-lg mx-auto bg-[var(--primary)] text-white py-4 rounded-xl font-bold uppercase tracking-widest text-sm hover:opacity-95 transition-all cursor-pointer border-none shadow-sm active:scale-98 flex items-center justify-center gap-2"
           >
-            START HERHALING ({wordList.length})
+            START HERHALING (Tekrar Başlat)
+            <span className="bg-white/20 px-2 py-0.5 rounded text-xs font-mono">{wordList.length}</span>
           </button>
         </div>
       )}
 
       {/* List content */}
-      <div className="flex-1 p-4 flex flex-col gap-3 overflow-y-auto">
+      <div className="flex-1 p-4 flex flex-col gap-3 overflow-y-auto w-full max-w-lg mx-auto">
         {wordList.length === 0 ? (
-          <div className="flex-1 flex flex-col items-center justify-center text-center py-12">
-            <span className="text-4xl animate-bounce">🎉</span>
-            <p className="font-bold text-sm mt-3 text-[var(--ds-black)]">Geen onbekende woorden!</p>
-            <p className="text-xs opacity-50 mt-1">Je hebt in 'Vul in' nog geen onjuiste woorden ingetypt.</p>
+          <div className="flex-grow flex flex-col items-center justify-center text-center py-16 gap-3">
+            <span className="text-5xl animate-bounce">🎉</span>
+            <div>
+              <p className="font-extrabold text-sm text-[var(--text)]">Geen onbekende woorden!</p>
+              <p className="text-xs text-[var(--text-muted)] mt-1 font-semibold">Je hebt in 'Vul in' nog geen onjuiste woorden ingetypt.</p>
+            </div>
           </div>
         ) : (
           wordList.map((item, index) => (
             <div
               key={index}
-              className="border-[3px] border-[var(--ds-black)] bg-[var(--ds-white)] p-4 flex flex-col gap-2 relative"
+              className="border border-[var(--border)] bg-[var(--surface)] rounded-2xl p-4 flex flex-col gap-2 relative shadow-sm hover:shadow-md transition-all duration-200"
             >
               <div className="flex justify-between items-start gap-4 pr-8">
                 <div>
-                  <h3 className="font-black text-sm text-[var(--ds-black)]">
-                    Ingevuld: <span className="text-[var(--ds-red)] font-bold">"{item.word}"</span>
+                  <h3 className="font-bold text-xs text-[var(--text-muted)] uppercase tracking-wide">
+                    Ingevuld: <span className="text-[var(--danger)] font-black">"{item.word}"</span>
                   </h3>
-                  <h4 className="font-black text-sm text-[var(--ds-green)] mt-0.5">
-                    Correct: <span className="font-bold">"{item.target}"</span>
+                  <h4 className="font-bold text-xs text-[var(--success)] uppercase tracking-wide mt-1">
+                    Correct: <span className="font-black">"{item.target}"</span>
                   </h4>
                 </div>
                 <button
                   onClick={() => deleteWord(item.word)}
-                  className="absolute right-3 top-3 text-[var(--ds-red)] font-bold text-lg hover:scale-110 transition-transform cursor-pointer bg-transparent border-none"
+                  className="absolute right-3 top-3 w-7 h-7 rounded-full bg-[var(--surface-2)] flex items-center justify-center text-xs font-bold text-[var(--text-muted)] hover:text-[var(--danger)] hover:bg-[var(--danger-soft)] transition-colors cursor-pointer border-none"
                   title="Verwijder dit woord"
                 >
-                  ×
+                  ✕
                 </button>
               </div>
 
-              <div className="bg-[var(--ds-gray)] p-2.5 border-l-[3px] border-[var(--ds-black)] mt-1">
-                <span className="text-[8px] font-bold opacity-50 uppercase tracking-widest block">CONTEXT ZIN</span>
-                <p className="text-xs font-semibold text-[var(--ds-black)] mt-0.5">"{item.sentence}"</p>
-                <p className="text-[10px] text-[var(--ds-black)] opacity-60 italic mt-0.5">"{item.translation}"</p>
+              <div className="bg-[var(--surface-2)] p-3 rounded-xl border-l-2 border-[var(--primary)] mt-1 flex flex-col gap-1">
+                <span className="text-[8px] font-black text-[var(--text-muted)] uppercase tracking-widest block">CONTEXT ZIN (Bağlam)</span>
+                <p className="text-xs font-bold text-[var(--text)]">"{item.sentence}"</p>
+                <p className="text-[10px] text-[var(--text-muted)] font-semibold italic">"{item.translation}"</p>
               </div>
 
-              <div className="flex justify-between items-center text-[9px] text-[var(--ds-black)] opacity-40 mt-1">
+              <div className="flex justify-between items-center text-[9px] text-[var(--text-muted)] font-mono mt-1 pt-1 border-t border-[var(--border)]/40">
                 <span>VERKEERD INGEVULD</span>
                 <span>{new Date(item.timestamp).toLocaleDateString("nl-NL")}</span>
               </div>

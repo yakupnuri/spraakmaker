@@ -1,24 +1,53 @@
 "use client";
 
-import { useEffect, useState, useRef } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { loadSentences, loadSentencesFromSources, shuffle, pickRandom } from "@/lib/gameData";
-import { useProgress } from "@/lib/hooks";
-import { levenshtein } from "@/lib/hooks";
+import { useEffect, useState, useRef, Suspense } from "react";
+import { loadSentencesFromSources, shuffle, pickRandom, loadVerhaalLessen, loadVerhaalZinnen } from "@/lib/gameData";
+import { useMoedertaal, useProgress, levenshtein } from "@/lib/hooks";
 import type { Sentence } from "@/lib/types";
+import GameShell from "@/components/game/GameShell";
+import ScoreBar from "@/components/game/ScoreBar";
+import FeedbackToast from "@/components/game/FeedbackToast";
+import HistoryPanel from "@/components/game/HistoryPanel";
+import SourcePicker from "@/components/game/SourcePicker";
+import LesContextChip from "@/components/game/LesContextChip";
+import { useSearchParams } from "next/navigation";
+import { getUnlockedLesIds } from "@/lib/verhaalUnlock";
 
 const AVAILABLE_SOURCES = [
-  { id: "tc1", label: "Taalcompleet A1", level: "A1", desc: "Basiszinnen voor beginners", color: "var(--ds-blue)", textColor: "var(--ds-white)" },
-  { id: "tc2", label: "Taalcompleet A2", level: "A2", desc: "Alledaagse communicatie & grammatica", color: "var(--ds-red)", textColor: "var(--ds-white)" },
-  { id: "az", label: "Taalcompleet B1/B2 (AZ)", level: "B1-B2", desc: "Geavanceerde uitdrukkingen & idiomen", color: "var(--ds-yellow)", textColor: "var(--ds-black)" },
-  { id: "delftse", label: "Delftse Methode", level: "B1", desc: "Conversatie & teksten voor gevorderden", color: "var(--ds-white)", textColor: "var(--ds-black)" },
-  { id: "lessen", label: "Spraakmaker Lessen", level: "A1-B1", desc: "Zinnen uit de cursushofdstukken", color: "var(--ds-gray)", textColor: "var(--ds-black)" },
+  { id: "tc1", label: "Temel Cümleler 1", level: "A1", desc: "Temel konuşma kalıpları ve günlük ifadeler" },
+  { id: "tc2", label: "Temel Cümleler 2", level: "A2", desc: "Orta düzey dil bilgisi içeren zengin cümleler" },
+  { id: "az", label: "A-Z Cümleleri", level: "A1-B1", desc: "A'dan Z'ye kelime haznesi örnekleri" },
+  { id: "delftse", label: "Delftse Methode", level: "A2-B1", desc: "Akademik ve pratik Hollandaca kalıpları" },
+  { id: "lessen", label: "Ders Cümleleri", level: "A1-A2", desc: "Ders kitaplarındaki tüm hikaye cümleleri" },
 ];
 
-export default function VertaalPage() {
-  const { updateProgress } = useProgress();
+type Difficulty = "oplopend" | "kort" | "middel" | "lang";
 
-  const [selectedSources, setSelectedSources] = useState<string[]>(["tc1", "tc2"]);
+const DIFFICULTY_OPTIONS: { id: Difficulty; label: string; desc: string }[] = [
+  { id: "oplopend", label: "Oplopend", desc: "Aşamalı: kısa başlar, her 3 doğruda uzar" },
+  { id: "kort", label: "Kort", desc: "Kısa cümleler (≤5 kelime)" },
+  { id: "middel", label: "Middel", desc: "Orta uzunluk (6–8 kelime)" },
+  { id: "lang", label: "Lang", desc: "Uzun cümleler (9+ kelime)" },
+];
+
+const wordCount = (nl: string) => nl.trim().split(/\s+/).length;
+
+// Oplopend modunda izin verilen en fazla kelime sayısı: 4'ten başlar, her 3 doğruda +1
+const progressiveCap = (goed: number) => 4 + Math.floor(goed / 3);
+
+function VertaalGame() {
+  const { progress, updateProgress, recordActivity } = useProgress();
+  const { moedertaal } = useMoedertaal();
+  const searchParams = useSearchParams();
+
+  const bron = searchParams.get("bron");
+  const les = searchParams.get("les");
+
+  const [selectedSources, setSelectedSources] = useState<string[]>(["lessen"]);
+  const [verhalenLessen, setVerhalenLessen] = useState<{ lesId: string; titel: string; unlocked: boolean }[]>([]);
+  const [selectedLesIds, setSelectedLesIds] = useState<string[]>([]);
+  const [difficulty, setDifficulty] = useState<Difficulty>("oplopend");
+  const goedRef = useRef(0);
   const [gameStarted, setGameStarted] = useState(false);
   const [sentences, setSentences] = useState<Sentence[]>([]);
   const [current, setCurrent] = useState<Sentence | null>(null);
@@ -26,12 +55,53 @@ export default function VertaalPage() {
   const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
   const [scores, setScores] = useState({ goed: 0, fout: 0, score: 0 });
   const [loading, setLoading] = useState(false);
+
+  const [correctHistory, setCorrectHistory] = useState<{ nl: string; tr: string }[]>([]);
+  const [wrongHistory, setWrongHistory] = useState<{ nl: string; tr: string; userAnswer?: string }[]>([]);
+
   const inputRef = useRef<HTMLTextAreaElement>(null);
 
+  // Load verhalen lessons list
+  useEffect(() => {
+    loadVerhaalLessen().then((lessen) => {
+      const unlockedIds = getUnlockedLesIds(progress?.lessons);
+      const mapped = lessen.map((l) => ({
+        lesId: l.lesId,
+        titel: l.titel,
+        unlocked: unlockedIds.includes(l.lesId),
+      }));
+      setVerhalenLessen(mapped);
+    });
+  }, [progress]);
+
+  // Load URL direct verhaal parameter
+  useEffect(() => {
+    if (bron === "verhaal" && les) {
+      setLoading(true);
+      loadVerhaalZinnen([les]).then((data) => {
+        if (data.length === 0) {
+          setLoading(false);
+          alert("Geen zinnen gevonden voor dit verhaal.");
+          return;
+        }
+        goedRef.current = 0;
+        setSentences(shuffle(data));
+        setGameStarted(true);
+        setLoading(false);
+      });
+    } else if (gameStarted && !les) {
+      setGameStarted(false);
+      setSentences([]);
+      setCurrent(null);
+    }
+  }, [bron, les]);
+
   const toggleSource = (id: string) => {
-    setSelectedSources((prev) =>
-      prev.includes(id) ? prev.filter((x) => x !== id) : [...prev, id]
-    );
+    if (selectedSources.includes(id)) {
+      setSelectedSources(selectedSources.filter((s) => s !== id));
+    } else {
+      setSelectedSources([...selectedSources, id]);
+    }
   };
 
   const toggleAll = () => {
@@ -43,22 +113,48 @@ export default function VertaalPage() {
   };
 
   function startGame() {
-    if (selectedSources.length === 0) return;
+    if (selectedSources.length === 0 && selectedLesIds.length === 0) return;
     setLoading(true);
-    loadSentencesFromSources(selectedSources).then((data) => {
-      if (data.length === 0) {
+
+    const loadStandard = loadSentencesFromSources(selectedSources);
+    const loadStories = selectedLesIds.length > 0 ? loadVerhaalZinnen(selectedLesIds) : Promise.resolve([]);
+
+    Promise.all([loadStandard, loadStories]).then(([standardData, storyData]) => {
+      const data = [...standardData, ...storyData];
+      let pool = data;
+
+      if (bron !== "verhaal") {
+        if (difficulty === "kort") {
+          pool = data.filter((s) => wordCount(s.nl) <= 5);
+        } else if (difficulty === "middel") {
+          pool = data.filter((s) => wordCount(s.nl) >= 6 && wordCount(s.nl) <= 8);
+        } else if (difficulty === "lang") {
+          pool = data.filter((s) => wordCount(s.nl) >= 9);
+        }
+      }
+      if (pool.length === 0) pool = data;
+
+      if (pool.length === 0) {
         setLoading(false);
         alert("Geen zinnen gevonden voor de geselecteerde bronnen.");
         return;
       }
-      setSentences(shuffle(data));
+      goedRef.current = 0;
+      setSentences(shuffle(pool));
       setGameStarted(true);
       setLoading(false);
     });
   }
 
   function loadNext(pool: Sentence[]) {
-    setCurrent(pickRandom(pool));
+    let eligible = pool;
+    if (difficulty === "oplopend") {
+      const cap = progressiveCap(goedRef.current);
+      eligible = pool.filter((s) => wordCount(s.nl) <= cap);
+      if (eligible.length === 0) eligible = pool;
+    }
+    const zin = pickRandom(eligible);
+    setCurrent(zin);
     setInput("");
     setFeedback(null);
     setTimeout(() => inputRef.current?.focus(), 100);
@@ -73,14 +169,35 @@ export default function VertaalPage() {
     const normalize = (s: string) =>
       s.toLowerCase().replace(/[.,!?;:]/g, "").replace(/\s+/g, " ").trim();
 
-    const answerWords = normalize(input).split(" ");
-    const targetWords = normalize(current.nl).split(" ");
+    const u = normalize(input).split(" ");
+    const t = normalize(current.nl).split(" ");
 
-    let matches = 0;
-    for (const aw of answerWords) {
-      if (targetWords.some((tw) => levenshtein(aw, tw) <= 1)) matches++;
-    }
-    const correct = matches / targetWords.length >= 0.7;
+    const checkCorrect = () => {
+      if (Math.abs(u.length - t.length) > 2) return false;
+      let i = 0, j = 0, errors = 0;
+      while (i < u.length && j < t.length) {
+        if (levenshtein(u[i], t[j]) <= 1) {
+          i++;
+          j++;
+        } else {
+          errors++;
+          if (u.length > t.length) {
+            i++;
+          } else if (t.length > u.length) {
+            j++;
+          } else {
+            i++;
+            j++;
+          }
+        }
+        if (errors > Math.max(1, Math.floor(t.length * 0.2))) return false;
+      }
+      const leftover = Math.abs((u.length - i) - (t.length - j));
+      if (errors + leftover > Math.max(1, Math.floor(t.length * 0.2))) return false;
+      return true;
+    };
+
+    const correct = checkCorrect();
     const points = correct ? 20 : 0;
 
     setFeedback(correct ? "correct" : "wrong");
@@ -90,194 +207,200 @@ export default function VertaalPage() {
       score: s.score + points,
     }));
 
-    if (correct) {
-      updateProgress((p) => ({
+    updateProgress((p) => {
+      const currentStats = p.games.stats?.vertaal || { playCount: 0, correctCount: 0, wrongCount: 0, history: [] };
+      const newHistory = [
+        ...currentStats.history,
+        {
+          sentence: current.nl,
+          translation: current.tr,
+          correct: correct,
+          timestamp: new Date().toISOString(),
+          userAnswer: input,
+          explanation: `Doğru cevap: ${current.nl}`,
+        }
+      ].slice(-50);
+
+      const currentScore = p.games.highScores.vertaal || 0;
+      const pointsEarned = correct ? 20 : 0;
+
+      return {
         ...p,
         games: {
           ...p.games,
-          totalPoints: p.games.totalPoints + 20,
+          totalPoints: p.games.totalPoints + pointsEarned,
           highScores: {
             ...p.games.highScores,
-            vertaal: Math.max(p.games.highScores.vertaal, p.games.totalPoints + 20),
+            vertaal: Math.max(currentScore, scores.score + pointsEarned),
           },
           lastPlayDate: new Date().toISOString(),
-        },
-      }));
+          stats: {
+            ...p.games.stats,
+            vertaal: {
+              playCount: currentStats.playCount + 1,
+              correctCount: currentStats.correctCount + (correct ? 1 : 0),
+              wrongCount: currentStats.wrongCount + (correct ? 0 : 1),
+              history: newHistory,
+            }
+          }
+        }
+      };
+    });
+
+    recordActivity();
+
+    if (correct) {
+      goedRef.current += 1;
+      setCorrectHistory((prev) => [{ nl: current.nl, tr: current.tr }, ...prev]);
+    } else {
+      setWrongHistory((prev) => [
+        { nl: current.nl, tr: current.tr, userAnswer: input },
+        ...prev,
+      ]);
     }
 
-    setTimeout(() => loadNext(sentences), correct ? 1000 : 1600);
+    setTimeout(() => loadNext(sentences), correct ? 1200 : 3500);
   }
 
   if (loading) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-[var(--ds-white)]">
-        <p className="text-sm font-bold uppercase tracking-widest opacity-40">Laden…</p>
+      <div className="min-h-screen flex items-center justify-center bg-[var(--bg)]">
+        <p className="text-sm font-bold uppercase tracking-widest opacity-40 animate-pulse">Laden…</p>
       </div>
     );
   }
 
   if (!gameStarted) {
     return (
-      <div className="flex flex-col min-h-screen bg-[var(--ds-white)] select-none">
-        {/* Header — bg-ds-black */}
-        <div className="bg-[var(--ds-black)] px-5 py-4">
-          <span className="text-sm font-bold text-[var(--ds-white)] lowercase tracking-wide">vertaal</span>
-        </div>
-
-        {/* Banner / Title */}
-        <div className="bg-[var(--ds-yellow)] border-b-[3px] border-[var(--ds-black)] p-6 text-[var(--ds-black)]">
-          <span className="text-[10px] font-black uppercase tracking-widest opacity-60 block mb-1">
-            BRONSELECTIE
-          </span>
-          <h1 className="text-xl font-black">Kies je bronnen</h1>
-          <p className="text-xs opacity-70 mt-1">
-            Selecteer de zinsbronnen waarmee je wilt oefenen.
-          </p>
-        </div>
-
-        {/* Source List */}
-        <div className="flex-1 p-4 flex flex-col gap-3 overflow-y-auto">
-          {AVAILABLE_SOURCES.map((src) => {
-            const isSelected = selectedSources.includes(src.id);
-            return (
-              <div
-                key={src.id}
-                onClick={() => toggleSource(src.id)}
-                className={`border-[3px] border-[var(--ds-black)] p-4 flex items-center justify-between cursor-pointer transition-colors ${
-                  isSelected ? "bg-[var(--ds-gray)]" : "bg-[var(--ds-white)]"
-                }`}
-              >
-                <div className="flex items-center gap-3">
-                  {/* Custom Checkbox */}
-                  <div
-                    className={`w-6 h-6 border-[3px] border-[var(--ds-black)] flex items-center justify-center text-sm font-black transition-colors ${
-                      isSelected ? "bg-[var(--ds-black)] text-[var(--ds-white)]" : "bg-[var(--ds-white)]"
+      <SourcePicker
+        title="vertaal"
+        selectedSources={selectedSources}
+        onToggle={toggleSource}
+        onToggleAll={toggleAll}
+        onStart={startGame}
+        verhalenLessen={verhalenLessen}
+        selectedLesIds={selectedLesIds}
+        onToggleLes={(lesId) => {
+          if (selectedLesIds.includes(lesId)) {
+            setSelectedLesIds(selectedLesIds.filter((id) => id !== lesId));
+          } else {
+            setSelectedLesIds([...selectedLesIds, lesId]);
+          }
+        }}
+        extraContent={
+          <div className="mb-5 select-none">
+            <span className="text-[10px] font-black uppercase tracking-widest text-[var(--accent)] block mb-2">
+              MOEILIJKHEID (Zorluk)
+            </span>
+            <div className="flex bg-[var(--surface-2)] border border-[var(--border)] rounded-full p-1 gap-1">
+              {DIFFICULTY_OPTIONS.map((opt) => {
+                const isSelected = difficulty === opt.id;
+                return (
+                  <button
+                    key={opt.id}
+                    onClick={() => setDifficulty(opt.id)}
+                    className={`flex-1 py-2 px-1 rounded-full text-xs font-bold cursor-pointer transition-all border-none ${
+                      isSelected
+                        ? "bg-[var(--accent)] text-white shadow-sm"
+                        : "bg-transparent text-[var(--text-muted)] hover:text-[var(--text)]"
                     }`}
                   >
-                    {isSelected && "✓"}
-                  </div>
-                  <div>
-                    <h3 className="font-black text-sm text-[var(--ds-black)]">{src.label}</h3>
-                    <p className="text-[10px] text-[var(--ds-black)] opacity-60 mt-0.5">{src.desc}</p>
-                  </div>
-                </div>
-                {/* Level badge */}
-                <span
-                  className="px-2 py-0.5 text-[9px] font-black border-[2px] border-[var(--ds-black)]"
-                  style={{ backgroundColor: src.color, color: src.textColor }}
-                >
-                  {src.level}
-                </span>
-              </div>
-            );
-          })}
-        </div>
-
-        {/* Footer actions */}
-        <div className="border-t-[3px] border-[var(--ds-black)] p-4 bg-[var(--ds-white)] flex flex-col gap-2">
-          <button
-            onClick={toggleAll}
-            className="w-full bg-[var(--ds-white)] text-[var(--ds-black)] border-[3px] border-[var(--ds-black)] py-3 font-bold uppercase tracking-widest text-xs hover:bg-[var(--ds-gray)] cursor-pointer"
-          >
-            {selectedSources.length === AVAILABLE_SOURCES.length ? "Deselecteer alles" : "Selecteer alles"}
-          </button>
-          <button
-            onClick={startGame}
-            disabled={selectedSources.length === 0}
-            className="w-full bg-[var(--ds-black)] text-[var(--ds-white)] py-4 font-bold uppercase tracking-widest text-sm hover:opacity-90 disabled:opacity-40 transition-opacity border-none cursor-pointer"
-          >
-            START SPEL
-          </button>
-        </div>
-      </div>
+                    {opt.label}
+                  </button>
+                );
+              })}
+            </div>
+            <p className="text-[11px] text-[var(--text-muted)] mt-1.5 px-1 leading-snug">
+              {DIFFICULTY_OPTIONS.find((o) => o.id === difficulty)?.desc}
+            </p>
+          </div>
+        }
+      />
     );
   }
 
+  const feedbackMessage = feedback === "correct" ? "Goed!" : "Fout!";
+  const feedbackDetail = feedback === "wrong"
+    ? `Correct antwoord: ${current?.nl}`
+    : undefined;
+
   return (
-    <div className="flex flex-col min-h-screen bg-[var(--ds-white)]">
-      {/* Header — bg-ds-black */}
-      <div className="bg-[var(--ds-black)] px-5 py-4 flex items-center justify-between">
-        <span className="text-sm font-bold text-[var(--ds-white)] lowercase tracking-wide">vertaal</span>
-        <span className="text-sm font-bold text-[var(--ds-yellow)]">{scores.score} pts</span>
+    <GameShell title="Vertaal" icon="🗣️">
+      <LesContextChip />
+      <ScoreBar
+        items={[
+          { label: "PUNTEN", value: scores.score, tone: "success" },
+          { label: "GOED", value: scores.goed, tone: "accent" },
+          { label: "FOUT", value: scores.fout, tone: "danger" },
+          ...(difficulty === "oplopend"
+            ? [{ label: "NIVEAU", value: `≤${progressiveCap(scores.goed)} wrd`, tone: "muted" as const }]
+            : []),
+        ]}
+      />
+
+      {/* Target Question */}
+      <div className="w-full bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-6 shadow-sm text-center flex flex-col justify-center items-center gap-1 select-none mb-4 min-h-[100px]">
+        <span className="text-[10px] font-black uppercase tracking-widest text-[var(--accent)] block mb-1">
+          VERTAAL DEZE ZIN
+        </span>
+        <h2 className="text-base font-bold text-[var(--text)] leading-normal">
+          "{current?.tr}"
+        </h2>
       </div>
 
-      <div className="flex-1 flex flex-col p-4 gap-4">
-        {/* Kaynak cümle — SARI blok (tam genişlik) */}
-        <div className="bg-[var(--ds-yellow)] border-[3px] border-[var(--ds-black)] p-5">
-          <p className="text-[10px] font-bold uppercase tracking-widest opacity-60 mb-2">VERTAAL DEZE ZIN</p>
-          <p className="text-xl font-bold text-[var(--ds-black)]">{current?.tr}</p>
-        </div>
-
-        {/* Yazma alanı — BEYAZ blok */}
-        <div className="bg-[var(--ds-white)] border-[3px] border-[var(--ds-black)] p-4">
-          <p className="text-[10px] font-bold uppercase tracking-widest opacity-40 mb-2">SCHRIJF IN HET NEDERLANDS:</p>
-          <textarea
-            ref={inputRef}
-            value={input}
-            onChange={(e) => setInput(e.target.value)}
-            disabled={!!feedback}
-            rows={3}
-            placeholder="Schrijf hier je antwoord…"
-            className="w-full bg-transparent outline-none resize-none font-medium text-[var(--ds-black)] placeholder:opacity-30 border-[3px] border-[var(--ds-black)] px-3 py-2"
-          />
-        </div>
-
-        {/* Feedback */}
-        <AnimatePresence>
-          {feedback && (
-            <motion.div
-              initial={{ opacity: 0, y: -6 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0 }}
-              className={`border-[3px] border-[var(--ds-black)] px-4 py-3 text-sm ${
-                feedback === "correct"
-                  ? "bg-[var(--ds-green)] text-[var(--ds-white)]"
-                  : "bg-[var(--ds-red)] text-[var(--ds-white)]"
-              }`}
-            >
-              <p className="font-bold">{feedback === "correct" ? "Goed!" : "Niet helemaal…"}</p>
-              {feedback === "wrong" && (
-                <p className="opacity-80 mt-1">{current?.nl}</p>
-              )}
-            </motion.div>
-          )}
-        </AnimatePresence>
+      {/* Textarea Input Card */}
+      <div className="w-full bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-4 shadow-sm flex flex-col gap-2">
+        <span className="text-[10px] font-black uppercase tracking-widest text-[var(--text-muted)] select-none">
+          SCHRIJF IN HET NEDERLANDS:
+        </span>
+        <textarea
+          ref={inputRef}
+          value={input}
+          onChange={(e) => setInput(e.target.value)}
+          disabled={!!feedback}
+          rows={3}
+          placeholder="Schrijf hier je antwoord…"
+          className="w-full bg-transparent outline-none resize-none font-bold text-base text-[var(--text)] placeholder:opacity-40 border border-[var(--border)] rounded-xl px-4 py-3 focus:border-[var(--accent)] focus:ring-0 focus:outline-none"
+          onKeyDown={(e) => {
+            if (e.key === "Enter" && !e.shiftKey) {
+              e.preventDefault();
+              if (input.trim() && !feedback) {
+                checkAnswer();
+              }
+            }
+          }}
+          autoFocus
+        />
       </div>
 
-      {/* Controleer */}
-      <div className="border-t-[3px] border-[var(--ds-black)]">
-        <button
-          onClick={checkAnswer}
-          disabled={!input.trim() || !!feedback}
-          className="w-full bg-[var(--ds-black)] text-[var(--ds-white)] py-5 font-bold uppercase tracking-widest text-sm hover:opacity-90 transition-opacity cursor-pointer border-none disabled:opacity-40"
-        >
-          Controleer
-        </button>
-      </div>
+      {/* Control Button (moved inline) */}
+      <button
+        onClick={checkAnswer}
+        disabled={!input.trim() || !!feedback}
+        className="w-full bg-[var(--primary)] text-white py-4 rounded-xl font-bold uppercase tracking-widest text-sm hover:opacity-95 active:scale-95 transition-all cursor-pointer border-none mt-4"
+      >
+        {feedback === "correct" ? "Goed!" : feedback === "wrong" ? "Volgende..." : "Controleer"}
+      </button>
 
-      {/* 5-blok skor barı */}
-      <div className="flex border-t-[3px] border-[var(--ds-black)]">
-        <div className="flex-1 py-3 flex flex-col items-center bg-[var(--ds-yellow)] border-r-[3px] border-[var(--ds-black)]">
-          <span className="text-lg font-bold text-[var(--ds-black)]">{scores.score}</span>
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-70">SCORE</span>
+      {/* Accordion History */}
+      <HistoryPanel correct={correctHistory} wrong={wrongHistory} />
+
+      {/* Toast */}
+      <FeedbackToast state={feedback} message={feedbackMessage} detail={feedbackDetail} />
+    </GameShell>
+  );
+}
+
+export default function VertaalPage() {
+  return (
+    <Suspense
+      fallback={
+        <div className="min-h-screen flex items-center justify-center bg-[var(--bg)]">
+          <p className="text-sm font-bold uppercase tracking-widest opacity-40 animate-pulse">Laden…</p>
         </div>
-        <div className="flex-1 py-3 flex flex-col items-center bg-[var(--ds-red)] border-r-[3px] border-[var(--ds-black)]">
-          <span className="text-lg font-bold text-[var(--ds-white)]">{scores.goed + scores.fout}</span>
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-70">TOTAAL</span>
-        </div>
-        <div className="flex-1 py-3 flex flex-col items-center bg-[var(--ds-blue)] border-r-[3px] border-[var(--ds-black)]">
-          <span className="text-lg font-bold text-[var(--ds-white)]">{scores.goed}</span>
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-70">GOED</span>
-        </div>
-        <div className="flex-1 py-3 flex flex-col items-center bg-[var(--ds-white)] border-r-[3px] border-[var(--ds-black)]">
-          <span className="text-lg font-bold text-[var(--ds-red)]">{scores.fout}</span>
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-70">FOUT</span>
-        </div>
-        <div className="flex-1 py-3 flex flex-col items-center bg-[var(--ds-green)]">
-          <span className="text-lg font-bold text-[var(--ds-white)]">{Math.round((scores.goed / (scores.goed + scores.fout || 1)) * 100)}%</span>
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-70">JUIST</span>
-        </div>
-      </div>
-    </div>
+      }
+    >
+      <VertaalGame />
+    </Suspense>
   );
 }

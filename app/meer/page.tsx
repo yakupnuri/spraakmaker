@@ -12,18 +12,22 @@ export default function MeerPage() {
 
   const rtlCodes = ["ar", "fa"];
 
+  function applyTheme(theme: "light" | "dark" | "system") {
+    const root = document.documentElement;
+    if (theme === "system") {
+      root.removeAttribute("data-theme");
+    } else {
+      root.setAttribute("data-theme", theme);
+    }
+    window.dispatchEvent(new CustomEvent("spraakmaker-theme-change", { detail: theme }));
+  }
+
   function handleTheme(theme: "light" | "dark" | "system") {
     updateProgress((prev) => ({
       ...prev,
       settings: { ...prev.settings, theme },
     }));
-  }
-
-  function handleUiStyle(uiStyle: "modern" | "destijl") {
-    updateProgress((prev) => ({
-      ...prev,
-      settings: { ...prev.settings, uiStyle },
-    }));
+    applyTheme(theme);
   }
 
   function handleLangSelect(code: MoedertaalCode) {
@@ -33,107 +37,109 @@ export default function MeerPage() {
 
   const currentLang = MOEDERTALEN.find((l) => l.code === moedertaal);
 
-  const MENU_ITEMS = [
-    { color: "bg-[var(--ds-blue)]", label: "Moedertaal wijzigen", sub: currentLang?.label, action: () => setShowLangModal(true) },
-    { color: "bg-[var(--ds-yellow)]", label: "Voortgang bekijken", sub: undefined, href: "/meer/voortgang" },
-    { color: "bg-[var(--ds-red)]", label: "Dagelijks doel instellen", sub: `${progress.settings.dailyGoal ?? 15} minuten`, action: undefined },
-    { color: "bg-[var(--ds-gray)]", label: "Thema", sub: { light: "Licht", dark: "Donker", system: "Systeem" }[progress.settings.theme ?? "system"], action: undefined },
-    { color: "bg-[var(--ds-black)]", label: "Over Spraakmaker", sub: undefined, action: undefined },
-  ];
-
   return (
-    <div className="flex flex-col min-h-screen bg-[var(--ds-white)]">
-      {/* Header — bg-ds-black */}
-      <div className="bg-[var(--ds-black)] px-5 py-4">
-        <span className="text-sm font-bold text-[var(--ds-white)] lowercase tracking-wide">instellingen</span>
-      </div>
+    <div className="flex flex-col min-h-screen bg-[var(--bg)] text-[var(--text)] pb-24">
+      {/* Header */}
+      <header className="bg-[var(--surface)] border-b border-[var(--border)] px-5 py-4 shadow-sm select-none">
+        <h1 className="text-sm font-black uppercase tracking-wider text-[var(--text)]">instellingen</h1>
+      </header>
 
       {/* Menu items */}
-      <div className="flex flex-col">
+      <div className="flex flex-col w-full max-w-lg mx-auto p-4 gap-3">
         {/* Moedertaal */}
         <button
           onClick={() => setShowLangModal(true)}
-          className="w-full bg-[var(--ds-white)] border-b-[3px] border-[var(--ds-black)] p-5 flex items-center gap-4 hover:bg-[var(--ds-gray)] transition-colors cursor-pointer text-left border-l-0 border-r-0 border-t-0"
+          className="w-full bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-5 flex items-center gap-4 hover:bg-[var(--surface-2)] transition-all cursor-pointer text-left shadow-sm group select-none"
         >
-          <div className="w-2 h-2 bg-[var(--ds-blue)] flex-shrink-0" />
-          <div className="flex-1">
-            <p className="font-bold text-[var(--ds-black)] text-sm">Moedertaal wijzigen</p>
-            <p className="text-xs opacity-50 mt-0.5">{currentLang?.label}</p>
+          <div className="w-2.5 h-2.5 rounded-full bg-[var(--accent)] shrink-0" />
+          <div className="flex-grow">
+            <h3 className="font-extrabold text-sm text-[var(--text)]">Moedertaal wijzigen (Ana Dil Değiştir)</h3>
+            <p className="text-xs text-[var(--text-muted)] mt-1 font-semibold">{currentLang?.label}</p>
           </div>
-          <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="2.5" className="opacity-40">
-            <polyline points="7,3 14,10 7,17" />
-          </svg>
+          <span className="text-[var(--text-muted)] group-hover:text-[var(--text)] transition-colors">
+            <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="2.5" className="opacity-50">
+              <polyline points="7,3 14,10 7,17" />
+            </svg>
+          </span>
         </button>
 
         {/* Voortgang */}
         <Link
           href="/meer/voortgang"
-          className="bg-[var(--ds-white)] border-b-[3px] border-[var(--ds-black)] p-5 flex items-center gap-4 hover:bg-[var(--ds-gray)] transition-colors"
+          className="w-full bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-5 flex items-center gap-4 hover:bg-[var(--surface-2)] transition-all shadow-sm group select-none"
         >
-          <div className="w-2 h-2 bg-[var(--ds-yellow)] flex-shrink-0" />
-          <div className="flex-1">
-            <p className="font-bold text-[var(--ds-black)] text-sm">Voortgang bekijken</p>
+          <div className="w-2.5 h-2.5 rounded-full bg-[var(--warning)] shrink-0" />
+          <div className="flex-grow">
+            <h3 className="font-extrabold text-sm text-[var(--text)]">Voortgang bekijken (Gelişimi Gör)</h3>
+            <p className="text-xs text-[var(--text-muted)] mt-1 font-semibold">Bekijk je statistieken en scores</p>
           </div>
-          <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="2.5" className="opacity-40">
-            <polyline points="7,3 14,10 7,17" />
-          </svg>
+          <span className="text-[var(--text-muted)] group-hover:text-[var(--text)] transition-colors">
+            <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="2.5" className="opacity-50">
+              <polyline points="7,3 14,10 7,17" />
+            </svg>
+          </span>
         </Link>
 
         {/* Onbekende woorden */}
         <Link
           href="/meer/onbekende-woorden"
-          className="bg-[var(--ds-white)] border-b-[3px] border-[var(--ds-black)] p-5 flex items-center gap-4 hover:bg-[var(--ds-gray)] transition-colors"
+          className="w-full bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-5 flex items-center gap-4 hover:bg-[var(--surface-2)] transition-all shadow-sm group select-none"
         >
-          <div className="w-2 h-2 bg-[var(--ds-red)] flex-shrink-0" />
-          <div className="flex-1">
-            <p className="font-bold text-[var(--ds-black)] text-sm">Mijn onbekende woorden</p>
-            <p className="text-xs opacity-50 mt-0.5">Oefen en herhaal gemaakte fouten</p>
+          <div className="w-2.5 h-2.5 rounded-full bg-[var(--danger)] shrink-0" />
+          <div className="flex-grow">
+            <h3 className="font-extrabold text-sm text-[var(--text)]">Mijn onbekende woorden (Kelimelerim)</h3>
+            <p className="text-xs text-[var(--text-muted)] mt-1 font-semibold">Oefen ve herhaal gemaakte fouten</p>
           </div>
-          <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="2.5" className="opacity-40">
-            <polyline points="7,3 14,10 7,17" />
-          </svg>
+          <span className="text-[var(--text-muted)] group-hover:text-[var(--text)] transition-colors">
+            <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="2.5" className="opacity-50">
+              <polyline points="7,3 14,10 7,17" />
+            </svg>
+          </span>
         </Link>
 
         {/* Geri Bildirim Gönder */}
         <Link
           href="/meer/feedback"
-          className="bg-[var(--ds-white)] border-b-[3px] border-[var(--ds-black)] p-5 flex items-center gap-4 hover:bg-[var(--ds-gray)] transition-colors"
+          className="w-full bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-5 flex items-center gap-4 hover:bg-[var(--surface-2)] transition-all shadow-sm group select-none"
         >
-          <div className="w-2 h-2 bg-[var(--ds-blue)] flex-shrink-0" />
-          <div className="flex-1">
-            <p className="font-bold text-[var(--ds-black)] text-sm">Feedback & Hata Bildirimi</p>
-            <p className="text-xs opacity-50 mt-0.5">Hata bildirin veya yeni özellik önerin</p>
+          <div className="w-2.5 h-2.5 rounded-full bg-[var(--primary)] shrink-0" />
+          <div className="flex-grow">
+            <h3 className="font-extrabold text-sm text-[var(--text)]">Feedback & Hata Bildirimi</h3>
+            <p className="text-xs text-[var(--text-muted)] mt-1 font-semibold">Hata bildirin veya yeni özellik önerin</p>
           </div>
-          <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="2.5" className="opacity-40">
-            <polyline points="7,3 14,10 7,17" />
-          </svg>
+          <span className="text-[var(--text-muted)] group-hover:text-[var(--text)] transition-colors">
+            <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="2.5" className="opacity-50">
+              <polyline points="7,3 14,10 7,17" />
+            </svg>
+          </span>
         </Link>
 
         {/* Dagelijks doel */}
-        <div className="bg-[var(--ds-white)] border-b-[3px] border-[var(--ds-black)] p-5">
-          <div className="flex items-center gap-4 mb-3">
-            <div className="w-2 h-2 bg-[var(--ds-red)] flex-shrink-0" />
-            <p className="font-bold text-[var(--ds-black)] text-sm">Dagelijks doel instellen</p>
+        <div className="w-full bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-5 shadow-sm select-none">
+          <div className="flex items-center gap-4 mb-1">
+            <div className="w-2.5 h-2.5 rounded-full bg-[var(--accent)] shrink-0" />
+            <h3 className="font-extrabold text-sm text-[var(--text)]">Dagelijks doel instellen</h3>
           </div>
-          <div className="flex gap-[3px]">
-            {[5, 10, 15, 20, 30].map((min) => {
-              const active = (progress.settings.dailyGoal ?? 15) === min;
+          <p className="text-[10px] text-[var(--text-muted)] mb-3 font-semibold">Aantal oefeningen per dag (Günlük alıştırma hedefi)</p>
+          <div className="flex gap-2">
+            {[5, 10, 15, 20, 30].map((count) => {
+              const active = (progress.settings.dailyGoal ?? 15) === count;
               return (
                 <button
-                  key={min}
+                  key={count}
                   onClick={() =>
                     updateProgress((p) => ({
                       ...p,
-                      settings: { ...p.settings, dailyGoal: min },
+                      settings: { ...p.settings, dailyGoal: count },
                     }))
                   }
-                  className={`flex-1 py-3 text-sm font-bold border-[3px] border-[var(--ds-black)] cursor-pointer transition-colors ${
+                  className={`flex-1 py-3 text-xs font-bold border rounded-xl cursor-pointer transition-all active:scale-95 ${
                     active
-                      ? "bg-[var(--ds-black)] text-[var(--ds-white)]"
-                      : "bg-[var(--ds-white)] text-[var(--ds-black)] hover:bg-[var(--ds-gray)]"
+                      ? "bg-[var(--primary)] text-white border-transparent shadow-sm"
+                      : "bg-[var(--surface-2)] text-[var(--text-muted)] border-transparent hover:bg-slate-200/50"
                   }`}
                 >
-                  {min}m
+                  {count} oef.
                 </button>
               );
             })}
@@ -141,12 +147,12 @@ export default function MeerPage() {
         </div>
 
         {/* Thema */}
-        <div className="bg-[var(--ds-white)] border-b-[3px] border-[var(--ds-black)] p-5">
-          <div className="flex items-center gap-4 mb-3">
-            <div className="w-2 h-2 bg-[var(--ds-gray)] flex-shrink-0" />
-            <p className="font-bold text-[var(--ds-black)] text-sm">Thema</p>
+        <div className="w-full bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-5 shadow-sm select-none">
+          <div className="flex items-center gap-4 mb-4">
+            <div className="w-2.5 h-2.5 rounded-full bg-[var(--text-muted)] shrink-0" />
+            <h3 className="font-extrabold text-sm text-[var(--text)]">Thema (Tema)</h3>
           </div>
-          <div className="flex gap-[3px]">
+          <div className="flex gap-2">
             {(["light", "dark", "system"] as const).map((t) => {
               const active = (progress.settings.theme ?? "system") === t;
               const labels = { light: "Licht", dark: "Donker", system: "Systeem" };
@@ -154,10 +160,10 @@ export default function MeerPage() {
                 <button
                   key={t}
                   onClick={() => handleTheme(t)}
-                  className={`flex-1 py-3 text-sm font-bold border-[3px] border-[var(--ds-black)] cursor-pointer transition-colors ${
+                  className={`flex-1 py-3 text-xs font-bold border rounded-xl cursor-pointer transition-all active:scale-95 ${
                     active
-                      ? "bg-[var(--ds-black)] text-[var(--ds-white)]"
-                      : "bg-[var(--ds-white)] text-[var(--ds-black)] hover:bg-[var(--ds-gray)]"
+                      ? "bg-[var(--primary)] text-white border-transparent shadow-sm"
+                      : "bg-[var(--surface-2)] text-[var(--text-muted)] border-transparent hover:bg-slate-200/50"
                   }`}
                 >
                   {labels[t]}
@@ -167,40 +173,13 @@ export default function MeerPage() {
           </div>
         </div>
 
-        {/* Arayüz Stili */}
-        <div className="bg-[var(--ds-white)] border-b-[3px] border-[var(--ds-black)] p-5">
-          <div className="flex items-center gap-4 mb-3">
-            <div className="w-2 h-2 bg-[var(--ds-yellow)] flex-shrink-0" />
-            <p className="font-bold text-[var(--ds-black)] text-sm">Vormgeving (Arayüz Stili)</p>
-          </div>
-          <div className="flex gap-[3px]">
-            {(["modern", "destijl"] as const).map((style) => {
-              const active = (progress.settings.uiStyle ?? "modern") === style;
-              const labels = { modern: "Modern & Clean", destijl: "Mondriaan" };
-              return (
-                <button
-                  key={style}
-                  onClick={() => handleUiStyle(style)}
-                  className={`flex-1 py-3 text-sm font-bold border-[3px] border-[var(--ds-black)] cursor-pointer transition-colors ${
-                    active
-                      ? "bg-[var(--ds-black)] text-[var(--ds-white)]"
-                      : "bg-[var(--ds-white)] text-[var(--ds-black)] hover:bg-[var(--ds-gray)]"
-                  }`}
-                >
-                  {labels[style]}
-                </button>
-              );
-            })}
-          </div>
-        </div>
-
         {/* About */}
-        <div className="bg-[var(--ds-white)] border-b-[3px] border-[var(--ds-black)] p-5">
+        <div className="w-full bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-5 shadow-sm select-none">
           <div className="flex items-center gap-4">
-            <div className="w-2 h-2 bg-[var(--ds-black)] flex-shrink-0" />
+            <div className="w-2.5 h-2.5 rounded-full bg-[var(--primary)] shrink-0 opacity-40" />
             <div>
-              <p className="font-bold text-[var(--ds-black)] text-sm">Over Spraakmaker</p>
-              <p className="text-xs opacity-50 mt-0.5">Leer Nederlands op jouw manier.</p>
+              <h3 className="font-extrabold text-sm text-[var(--text)]">Over Spraakmaker</h3>
+              <p className="text-xs text-[var(--text-muted)] mt-1 font-semibold">Leer Nederlands op jouw manier.</p>
             </div>
           </div>
         </div>
@@ -208,33 +187,41 @@ export default function MeerPage() {
 
       {/* Language modal */}
       {showLangModal && (
-        <div className="fixed inset-0 z-50 bg-[var(--ds-black)] bg-opacity-80 flex items-center justify-center p-6">
-          <div className="w-full max-w-sm bg-[var(--ds-white)] border-[3px] border-[var(--ds-black)]">
-            <div className="p-5 border-b-[3px] border-[var(--ds-black)] flex items-center justify-between">
-              <h2 className="font-bold uppercase tracking-widest text-sm">Moedertaal wijzigen</h2>
+        <div className="fixed inset-0 z-50 bg-black/60 flex items-center justify-center p-6 select-none">
+          <div className="w-full max-w-sm bg-[var(--surface)] border border-[var(--border)] rounded-2xl shadow-xl overflow-hidden">
+            <div className="p-4 border-b border-[var(--border)] flex items-center justify-between">
+              <h2 className="font-black uppercase tracking-wider text-xs text-[var(--text)]">Moedertaal wijzigen</h2>
               <button
                 onClick={() => setShowLangModal(false)}
-                className="font-bold text-lg leading-none cursor-pointer bg-transparent border-none"
+                className="w-7 h-7 rounded-full bg-[var(--surface-2)] flex items-center justify-center text-xs font-bold text-[var(--text-muted)] cursor-pointer"
               >
-                ×
+                ✕
               </button>
             </div>
-            <div className="grid grid-cols-3 gap-[3px] bg-[var(--ds-black)] p-[3px]">
-              {MOEDERTALEN.map(({ code, label }) => {
+            <div className="p-3 grid grid-cols-3 gap-2">
+              {MOEDERTALEN.map(({ code, label, available }) => {
                 const isRtl = rtlCodes.includes(code);
                 const active = moedertaal === code;
                 return (
                   <button
                     key={code}
-                    onClick={() => handleLangSelect(code)}
+                    disabled={!available}
+                    onClick={() => available && handleLangSelect(code)}
                     dir={isRtl ? "rtl" : "ltr"}
-                    className={`py-5 text-sm font-bold cursor-pointer border-none transition-colors ${
+                    className={`py-4 rounded-xl text-xs font-bold border transition-all flex flex-col items-center justify-center text-center ${
                       active
-                        ? "bg-[var(--ds-black)] text-[var(--ds-white)]"
-                        : "bg-[var(--ds-white)] text-[var(--ds-black)] hover:bg-[var(--ds-yellow)]"
+                        ? "bg-[var(--accent-soft)] text-[var(--accent)] border-[var(--accent)]/20 shadow-sm cursor-pointer"
+                        : available
+                        ? "bg-[var(--surface-2)] text-[var(--text)] border-transparent hover:bg-slate-200/50 cursor-pointer active:scale-95"
+                        : "bg-[var(--surface-2)] text-[var(--text-muted)] border-transparent opacity-50 cursor-not-allowed"
                     }`}
                   >
-                    {label}
+                    <span>{label}</span>
+                    {!available && (
+                      <span className="text-[8px] font-black uppercase tracking-wider text-[var(--accent)] mt-1">
+                        Yakında
+                      </span>
+                    )}
                   </button>
                 );
               })}

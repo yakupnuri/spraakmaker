@@ -4,14 +4,10 @@ import { useEffect, useState, useRef, Suspense } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useProgress, useMoedertaal } from "@/lib/hooks";
 import type { Sentence } from "@/lib/types";
-
-// Standard De Stijl palette
-const SLOT_COLORS = [
-  "bg-[var(--ds-red)] text-[var(--ds-white)]",
-  "bg-[var(--ds-blue)] text-[var(--ds-white)]",
-  "bg-[var(--ds-yellow)] text-[var(--ds-black)]",
-  "bg-[var(--ds-white)] text-[var(--ds-black)] border-[3px] border-[var(--ds-black)]",
-];
+import GameShell from "@/components/game/GameShell";
+import { useSearchParams } from "next/navigation";
+import LesContextChip from "@/components/game/LesContextChip";
+import Link from "next/link";
 
 interface FlitsenProgress {
   completedRounds: Record<number, number>; // packIndex -> Mastered level (0-7)
@@ -46,25 +42,38 @@ function getSentenceTimeLimit(sentence?: Sentence): number {
   const wordCount = sentence.nl.trim().split(/\s+/).length;
   if (wordCount <= 4) return 5;
   if (wordCount <= 8) return 7;
-  return 8; // Büyük cümlelerde 7-8 saniye olsun
+  return 8;
+}
+
+function speakDutch(text: string) {
+  if (typeof window === "undefined" || !("speechSynthesis" in window)) return;
+  try {
+    window.speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = "nl-NL";
+    u.rate = 0.85;
+    window.speechSynthesis.speak(u);
+  } catch (e) {
+    console.error("TTS Speech error:", e);
+  }
 }
 
 function FlitsenGame() {
-  const { progress, updateProgress } = useProgress();
+  const { progress, updateProgress, recordActivity } = useProgress();
   const { translate } = useMoedertaal();
+  const searchParams = useSearchParams();
+  const bron = searchParams.get("bron");
+  const les = searchParams.get("les");
 
-  // Sentences data
   const [flatSentences, setFlatSentences] = useState<Sentence[]>([]);
   const [loading, setLoading] = useState(true);
 
-  // Local game session storage/progress
   const [flitsenProgress, setFlitsenProgress] = useState<FlitsenProgress>({
     completedRounds: {},
     lastPlayed: {},
     activePacks: [],
   });
 
-  // Active game play state
   const [activePackIndex, setActivePackIndex] = useState<number | null>(null);
   const [gameMode, setGameMode] = useState<"dashboard" | "playing" | "completed">("dashboard");
   const [currentSentenceIndex, setCurrentSentenceIndex] = useState(0);
@@ -82,24 +91,40 @@ function FlitsenGame() {
     }
   }, []);
 
-  // Load sentences from lessen.json
   useEffect(() => {
-    fetch("/data/lessen.json")
-      .then((r) => r.json())
-      .then((data: Array<{ sentences: Sentence[] }>) => {
-        const flattened = data
-          .flatMap((l) => l.sentences || [])
-          .filter((s) => s && s.nl && s.tr);
-        setFlatSentences(flattened);
-        setLoading(false);
-      })
-      .catch((err) => {
-        console.error("Error loading lessons in flitsen:", err);
-        setLoading(false);
+    setLoading(true);
+    if (bron === "verhaal" && les) {
+      import("@/lib/gameData").then(({ loadVerhaalZinnen }) => {
+        loadVerhaalZinnen([les]).then((data) => {
+          setFlatSentences(data);
+          setLoading(false);
+          // start the game immediately as a single pack
+          setActivePackIndex(0);
+          setCurrentSentenceIndex(0);
+          const firstSentence = data[0];
+          const initialTime = getSentenceTimeLimit(firstSentence);
+          setTimeLeft(initialTime);
+          setIsPaused(false);
+          setGameMode("playing");
+        });
       });
-  }, []);
+    } else {
+      fetch("/data/zinnenbank.json")
+        .then((r) => r.json())
+        .then((data: Array<{ sentences: Sentence[] }>) => {
+          const flattened = data
+            .flatMap((l) => l.sentences || [])
+            .filter((s) => s && s.nl && s.tr);
+          setFlatSentences(flattened);
+          setLoading(false);
+        })
+        .catch((err) => {
+          console.error("Error loading lessons in flitsen:", err);
+          setLoading(false);
+        });
+    }
+  }, [bron, les]);
 
-  // Load flitsen-specific progress from localStorage
   useEffect(() => {
     try {
       const stored = localStorage.getItem("spraakmaker-flitsen-progress");
@@ -111,7 +136,6 @@ function FlitsenGame() {
     }
   }, []);
 
-  // Save flitsen progress
   const saveFlitsenProgress = (newProg: FlitsenProgress) => {
     setFlitsenProgress(newProg);
     try {
@@ -124,21 +148,37 @@ function FlitsenGame() {
   const PACK_SIZE = 20;
   const totalPacks = Math.ceil(flatSentences.length / PACK_SIZE);
 
-  // Sync time limit when current sentence changes
+  const getPackSentences = () => {
+    if (bron === "verhaal") {
+      return flatSentences;
+    }
+    if (activePackIndex === null) return [];
+    return flatSentences.slice(
+      activePackIndex * PACK_SIZE,
+      (activePackIndex + 1) * PACK_SIZE
+    );
+  };
+
   useEffect(() => {
     if (activePackIndex !== null && gameMode === "playing") {
-      const packSentences = flatSentences.slice(
-        activePackIndex * PACK_SIZE,
-        (activePackIndex + 1) * PACK_SIZE
-      );
+      const packSentences = getPackSentences();
       const sentence = packSentences[currentSentenceIndex];
       if (sentence) {
         setTimeLeft(getSentenceTimeLimit(sentence));
       }
     }
-  }, [currentSentenceIndex, activePackIndex, gameMode, flatSentences]);
+  }, [currentSentenceIndex, activePackIndex, gameMode, flatSentences, bron]);
 
-  // Timer logic for countdown
+  useEffect(() => {
+    if (activePackIndex !== null && gameMode === "playing" && !isPaused) {
+      const packSentences = getPackSentences();
+      const sentence = packSentences[currentSentenceIndex];
+      if (sentence && sentence.nl) {
+        speakDutch(sentence.nl);
+      }
+    }
+  }, [currentSentenceIndex, activePackIndex, gameMode, flatSentences, isPaused, bron]);
+
   useEffect(() => {
     if (gameMode !== "playing" || isPaused || activePackIndex === null) {
       if (timerRef.current) clearInterval(timerRef.current);
@@ -148,7 +188,7 @@ function FlitsenGame() {
     timerRef.current = setInterval(() => {
       setTimeLeft((t) => {
         if (t <= 1) {
-          return 0; // Trigger auto-advance in a separate effect
+          return 0;
         }
         return t - 1;
       });
@@ -159,7 +199,6 @@ function FlitsenGame() {
     };
   }, [gameMode, isPaused, currentSentenceIndex, activePackIndex]);
 
-  // Auto-advance when time hits 0
   useEffect(() => {
     if (timeLeft === 0 && gameMode === "playing" && !isPaused && activePackIndex !== null) {
       playBeepTone();
@@ -169,13 +208,42 @@ function FlitsenGame() {
 
   const handleNextSentence = () => {
     if (activePackIndex === null) return;
-    const packSentences = flatSentences.slice(
-      activePackIndex * PACK_SIZE,
-      (activePackIndex + 1) * PACK_SIZE
-    );
+    const packSentences = getPackSentences();
+    const sentence = packSentences[currentSentenceIndex];
+
+    if (sentence) {
+      updateProgress((prev) => {
+        const currentStats = prev.games.stats?.flitsen || { playCount: 0, correctCount: 0, wrongCount: 0, history: [] };
+        const newHistory = [
+          ...currentStats.history,
+          {
+            sentence: sentence.nl,
+            translation: sentence.tr,
+            correct: true,
+            timestamp: new Date().toISOString(),
+          }
+        ].slice(-50);
+
+        return {
+          ...prev,
+          games: {
+            ...prev.games,
+            stats: {
+              ...prev.games.stats,
+              flitsen: {
+                playCount: currentStats.playCount + 1,
+                correctCount: currentStats.correctCount + 1,
+                wrongCount: currentStats.wrongCount,
+                history: newHistory,
+              }
+            }
+          }
+        };
+      });
+      recordActivity();
+    }
 
     if (currentSentenceIndex >= packSentences.length - 1) {
-      // Completed the pack!
       handlePackCompletion();
     } else {
       const nextIndex = currentSentenceIndex + 1;
@@ -191,10 +259,7 @@ function FlitsenGame() {
   const handlePrevSentence = () => {
     if (currentSentenceIndex > 0) {
       if (activePackIndex === null) return;
-      const packSentences = flatSentences.slice(
-        activePackIndex * PACK_SIZE,
-        (activePackIndex + 1) * PACK_SIZE
-      );
+      const packSentences = getPackSentences();
       const prevIndex = currentSentenceIndex - 1;
       const prevSentence = packSentences[prevIndex];
       setCurrentSentenceIndex(prevIndex);
@@ -207,10 +272,7 @@ function FlitsenGame() {
 
   const handleResetSentenceTimer = () => {
     if (activePackIndex === null) return;
-    const packSentences = flatSentences.slice(
-      activePackIndex * PACK_SIZE,
-      (activePackIndex + 1) * PACK_SIZE
-    );
+    const packSentences = getPackSentences();
     const currentSentence = packSentences[currentSentenceIndex];
     if (currentSentence) {
       setTimeLeft(getSentenceTimeLimit(currentSentence));
@@ -222,10 +284,14 @@ function FlitsenGame() {
 
     if (timerRef.current) clearInterval(timerRef.current);
 
+    if (bron === "verhaal") {
+      setGameMode("completed");
+      return;
+    }
+
     const prevRounds = flitsenProgress.completedRounds[activePackIndex] || 0;
     const newRounds = Math.min(prevRounds + 1, 7);
 
-    // Update completed rounds & lastPlayed timestamps
     const updatedRounds = {
       ...flitsenProgress.completedRounds,
       [activePackIndex]: newRounds,
@@ -236,17 +302,13 @@ function FlitsenGame() {
       [activePackIndex]: new Date().toISOString(),
     };
 
-    // Update active packs queue:
-    // If pack is newly completed (reached 7 rounds), remove it from active queue
     let updatedActive = [...flitsenProgress.activePacks];
     if (newRounds >= 7) {
       updatedActive = updatedActive.filter((id) => id !== activePackIndex);
     } else if (!updatedActive.includes(activePackIndex)) {
-      // Ensure it is in active queue if it's in progress
       updatedActive.push(activePackIndex);
     }
 
-    // Move completed pack to end of active queue to rotate it
     if (newRounds < 7) {
       updatedActive = updatedActive.filter((id) => id !== activePackIndex);
       updatedActive.push(activePackIndex);
@@ -258,25 +320,29 @@ function FlitsenGame() {
       activePacks: updatedActive,
     });
 
-    // Update global app stats (points)
-    updateProgress((p) => ({
-      ...p,
-      games: {
-        ...p.games,
-        totalPoints: p.games.totalPoints + 50, // 50 points per completed pack/round
-        lastPlayDate: new Date().toISOString(),
-      },
-    }));
+    updateProgress((p) => {
+      const currentFlitsenHighScore = p.games.highScores.flitsen ?? 0;
+      return {
+        ...p,
+        games: {
+          ...p.games,
+          totalPoints: p.games.totalPoints + 50,
+          highScores: {
+            ...p.games.highScores,
+            flitsen: Math.max(currentFlitsenHighScore, 50),
+          },
+          lastPlayDate: new Date().toISOString(),
+        },
+      };
+    });
 
     setGameMode("completed");
   };
 
   const startPack = (packId: number) => {
-    // Add to active queue if it's not already there and space permits
     let updatedActive = [...flitsenProgress.activePacks];
     if (!updatedActive.includes(packId) && (flitsenProgress.completedRounds[packId] || 0) < 7) {
       if (updatedActive.length >= 4) {
-        // If active queue is full, remove the oldest one (first item) to fit the new one
         updatedActive.shift();
       }
       updatedActive.push(packId);
@@ -300,16 +366,13 @@ function FlitsenGame() {
     setGameMode("playing");
   };
 
-  // Rotation Recommendation Engine (4 active queue size)
   const getRecommendation = () => {
     if (totalPacks === 0) return null;
 
-    // Filter out mastered packs from active queue
     const active = flitsenProgress.activePacks.filter(
       (id) => (flitsenProgress.completedRounds[id] || 0) < 7
     );
 
-    // If active queue has less than 4 packs, find first unstarted/incomplete pack not in active queue
     if (active.length < 4) {
       let nextUnstarted = -1;
       for (let i = 0; i < totalPacks; i++) {
@@ -330,7 +393,6 @@ function FlitsenGame() {
       }
     }
 
-    // Otherwise, recommend reviewing the oldest played active pack
     if (active.length > 0) {
       const oldestActive = [...active].sort((a, b) => {
         const timeA = new Date(flitsenProgress.lastPlayed[a] || 0).getTime();
@@ -347,7 +409,6 @@ function FlitsenGame() {
       };
     }
 
-    // Check if there's any active pack at all (if all packs completed)
     return {
       type: "finished",
       packIndex: -1,
@@ -358,8 +419,8 @@ function FlitsenGame() {
 
   if (loading || flatSentences.length === 0) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-[var(--ds-white)]">
-        <p className="text-sm font-bold uppercase tracking-widest opacity-40">Laden…</p>
+      <div className="min-h-screen flex items-center justify-center bg-[var(--bg)]">
+        <p className="text-sm font-bold uppercase tracking-widest opacity-40 animate-pulse">Laden…</p>
       </div>
     );
   }
@@ -373,65 +434,54 @@ function FlitsenGame() {
     );
 
     return (
-      <div className="flex flex-col min-h-screen bg-[var(--ds-white)] select-none pb-24 md:pb-4">
-        {/* Header */}
-        <div className="bg-[var(--ds-black)] px-5 py-4 flex items-center justify-between">
-          <span className="text-sm font-bold text-[var(--ds-white)] lowercase tracking-wide">flitsen</span>
-          <span className="text-xs font-bold text-[var(--ds-yellow)]">
-            +50 pts per ronde
-          </span>
-        </div>
-
-        {/* Info Banner */}
-        <div className="bg-[var(--ds-white)] border-b-[3px] border-[var(--ds-black)] p-5 text-[var(--ds-black)]">
-          <span className="text-[10px] font-black uppercase tracking-widest opacity-60 block mb-1">
-            FLITSEN METHODE
-          </span>
-          <h1 className="text-xl font-black">Dynamic Spaced Repetition</h1>
-          <p className="text-xs opacity-75 mt-1 leading-relaxed">
-            Herhaal elke zin hardop binnen de tijd (korte zinnen 5s, langere zinnen 7-8s). We trainen je hersenen door maximaal 4 pakketten tegelijk aktif tutarak 7 kez tekrar ettiriyoruz.
-          </p>
+      <div className="min-h-screen bg-[var(--bg)] pb-24 pt-6 px-4 md:px-8 max-w-4xl mx-auto flex flex-col gap-6 select-none">
+        {/* Header Title */}
+        <div className="flex justify-between items-center select-none">
+          <div className="flex flex-col gap-1">
+            <h1 className="text-2xl font-bold tracking-tight text-[var(--text)] uppercase">
+              Flitsen
+            </h1>
+            <p className="text-xs text-[var(--text-muted)]">
+              Dynamic Spaced Repetition (⚡ +50 pts per ronde)
+            </p>
+          </div>
         </div>
 
         {/* Smart recommendation block */}
-        {rec && (
-          <div className="p-3 bg-[var(--ds-black)]">
-            <div
-              className={`p-6 flex flex-col md:flex-row md:items-center md:justify-between border-[3px] border-[var(--ds-black)] ${
-                rec.type === "start_new" ? "bg-[var(--ds-yellow)]" : rec.type === "review" ? "bg-[var(--ds-red)] text-white" : "bg-[var(--ds-blue)] text-white"
-              }`}
-            >
-              <div className="mb-4 md:mb-0">
-                <span className="text-[10px] font-black uppercase tracking-widest opacity-70 block mb-1">
-                  AANBEVOLEN ACTIE (SLIMME ROTATIE)
-                </span>
-                <h2 className="text-xl font-black">{rec.label}</h2>
-                <p className="text-xs opacity-80 mt-1 max-w-xl">{rec.desc}</p>
-              </div>
-              {rec.packIndex !== -1 && (
-                <button
-                  onClick={() => startPack(rec.packIndex)}
-                  className={`px-6 py-4 font-black uppercase tracking-widest text-sm border-[3px] border-[var(--ds-black)] hover:opacity-90 active:scale-95 transition-all cursor-pointer ${
-                    rec.type === "start_new" ? "bg-[var(--ds-black)] text-[var(--ds-white)]" : "bg-[var(--ds-white)] text-[var(--ds-black)]"
-                  }`}
-                >
-                  START NU
-                </button>
-              )}
+        {rec && rec.packIndex !== -1 && (
+          <div
+            className={`p-6 rounded-3xl border border-[var(--border)] shadow-md flex flex-col md:flex-row md:items-center justify-between gap-4 ${
+              rec.type === "start_new"
+                ? "bg-[var(--accent-soft)] border-[var(--accent)]/20"
+                : "bg-[var(--danger-soft)] border-[var(--danger)]/20"
+            }`}
+          >
+            <div className="flex-1">
+              <span className="text-[10px] font-black uppercase tracking-widest opacity-70 block mb-1 text-[var(--text)]">
+                AANBEVOLEN ACTIE (SLIMME ROTATIE)
+              </span>
+              <h2 className="text-lg font-black text-[var(--text)]">{rec.label}</h2>
+              <p className="text-xs text-[var(--text-muted)] mt-1 max-w-xl leading-relaxed">{rec.desc}</p>
             </div>
+            <button
+              onClick={() => startPack(rec.packIndex)}
+              className="px-6 py-3.5 font-bold uppercase tracking-widest text-xs rounded-xl bg-[var(--primary)] text-white hover:opacity-95 active:scale-95 transition-all cursor-pointer border-none"
+            >
+              START NU
+            </button>
           </div>
         )}
 
-        {/* Two-Column Layout for Active and All Packs */}
-        <div className="p-3 grid gap-3 grid-cols-1 lg:grid-cols-3">
-          {/* Column 1: Active Packs queue */}
-          <div className="lg:col-span-1 border-[3px] border-[var(--ds-black)] bg-[var(--ds-white)] p-4 flex flex-col">
-            <span className="text-[10px] font-black uppercase tracking-widest text-[var(--ds-black)] opacity-60 mb-4 block">
+        {/* Layout sections */}
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+          {/* Active queue */}
+          <div className="lg:col-span-1 border border-[var(--border)] bg-[var(--surface)] rounded-3xl p-5 flex flex-col shadow-sm">
+            <span className="text-[10px] font-black uppercase tracking-widest text-[var(--text-muted)] mb-4 block">
               ACTIEVE ROTATIE ({active.length} / 4)
             </span>
             {active.length === 0 ? (
-              <p className="text-xs text-[var(--ds-black)] opacity-40 italic py-6 text-center">
-                Geen actieve pakketten. Start hierboven een nieuw pakket!
+              <p className="text-xs text-[var(--text-muted)] opacity-70 italic py-8 text-center bg-[var(--surface-2)] rounded-2xl border border-dashed border-[var(--border)]">
+                Geen actieve pakketten. Start een nieuw pakket!
               </p>
             ) : (
               <div className="flex flex-col gap-3">
@@ -448,34 +498,34 @@ function FlitsenGame() {
                   return (
                     <div
                       key={packId}
-                      className="border-[3px] border-[var(--ds-black)] p-4 bg-[var(--ds-white)] flex flex-col gap-2"
+                      className="border border-[var(--border)] p-4 bg-[var(--surface-2)] rounded-2xl flex flex-col gap-3"
                     >
                       <div className="flex justify-between items-start">
                         <div>
-                          <h3 className="font-black text-sm">Pakket {packId + 1}</h3>
-                          <span className="text-[9px] text-[var(--ds-black)] opacity-50 block mt-0.5">
+                          <h3 className="font-bold text-sm text-[var(--text)]">Pakket {packId + 1}</h3>
+                          <span className="text-[9px] text-[var(--text-muted)] block mt-0.5">
                             Laatst: {timeStr}
                           </span>
                         </div>
                         <button
                           onClick={() => startPack(packId)}
-                          className="bg-[var(--ds-black)] text-[var(--ds-white)] px-3 py-1.5 font-bold uppercase tracking-widest text-[9px] border-none hover:opacity-90 cursor-pointer"
+                          className="bg-[var(--accent)] text-white px-3 py-1.5 font-bold uppercase tracking-widest text-[9px] border-none rounded-lg hover:opacity-90 active:scale-95 transition-all cursor-pointer"
                         >
                           SPELEN
                         </button>
                       </div>
 
-                      {/* Repetition Block indicators */}
+                      {/* Progress dots */}
                       <div>
-                        <span className="text-[9px] font-bold uppercase tracking-widest opacity-60 block mb-1">
+                        <span className="text-[9px] font-bold uppercase tracking-widest opacity-60 block mb-1.5 text-[var(--text-muted)]">
                           Herhalingen: {rounds} / 7
                         </span>
-                        <div className="flex gap-1">
+                        <div className="flex gap-1.5">
                           {Array.from({ length: 7 }).map((_, idx) => (
                             <div
                               key={idx}
-                              className={`h-3 flex-1 border border-[var(--ds-black)] ${
-                                idx < rounds ? "bg-[var(--ds-blue)]" : "bg-transparent"
+                              className={`h-2 flex-1 rounded-full border border-[var(--border)] ${
+                                idx < rounds ? "bg-[var(--accent)]" : "bg-transparent"
                               }`}
                             />
                           ))}
@@ -488,51 +538,51 @@ function FlitsenGame() {
             )}
           </div>
 
-          {/* Column 2 & 3: All packs grid */}
-          <div className="lg:col-span-2 border-[3px] border-[var(--ds-black)] bg-[var(--ds-white)] p-4 flex flex-col">
-            <span className="text-[10px] font-black uppercase tracking-widest text-[var(--ds-black)] opacity-60 mb-4 block">
-              ALLE PAKKETTEN (SPACED REPETITION KAARTEN)
+          {/* All packages list */}
+          <div className="lg:col-span-2 border border-[var(--border)] bg-[var(--surface)] rounded-3xl p-5 flex flex-col shadow-sm">
+            <span className="text-[10px] font-black uppercase tracking-widest text-[var(--text-muted)] mb-4 block">
+              ALLE PAKKETTEN (SPACED REPETITION)
             </span>
-            <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 overflow-y-auto max-h-[500px] pr-1">
+            <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 overflow-y-auto max-h-[420px] pr-1">
               {Array.from({ length: totalPacks }).map((_, idx) => {
                 const rounds = flitsenProgress.completedRounds[idx] || 0;
                 const isActivePack = active.includes(idx);
                 const isMastered = rounds >= 7;
 
-                let cardBg = "bg-[var(--ds-white)]";
-                let textClass = "text-[var(--ds-black)]";
+                let cardBg = "bg-[var(--surface)]";
+                let textClass = "text-[var(--text)] border-[var(--border)]";
                 if (isActivePack) {
-                  cardBg = "bg-[var(--ds-gray)]";
+                  cardBg = "bg-[var(--accent-soft)] border-[var(--accent)]/30";
                 } else if (isMastered) {
-                  cardBg = "bg-[var(--ds-green)] text-white";
+                  cardBg = "bg-[var(--success-soft)] border-[var(--success)]/30";
                 }
 
                 return (
                   <div
                     key={idx}
                     onClick={() => !isMastered && startPack(idx)}
-                    className={`border-[3px] border-[var(--ds-black)] p-3 flex flex-col justify-between h-[110px] cursor-pointer hover:bg-[var(--ds-yellow)] hover:text-black transition-colors ${cardBg} ${textClass}`}
+                    className={`border p-3 flex flex-col justify-between h-[110px] rounded-2xl cursor-pointer hover:border-[var(--accent)] hover:shadow-sm transition-all ${cardBg} ${textClass}`}
                   >
                     <div>
                       <div className="flex justify-between items-start">
-                        <span className="font-black text-xs">Pakket {idx + 1}</span>
+                        <span className="font-bold text-xs">Pakket {idx + 1}</span>
                         {isMastered && (
-                          <span className="text-[8px] bg-white text-[var(--ds-green)] px-1.5 py-0.5 font-bold uppercase">
-                            Voltooid
+                          <span className="text-[8px] bg-[var(--success)] text-white px-1.5 py-0.5 font-bold uppercase rounded">
+                            ✓ Mastered
                           </span>
                         )}
                       </div>
-                      <span className="text-[9px] opacity-60 block mt-1">
+                      <span className="text-[9px] text-[var(--text-muted)] block mt-1">
                         Zinnen: {idx * PACK_SIZE + 1} - {Math.min((idx + 1) * PACK_SIZE, flatSentences.length)}
                       </span>
                     </div>
 
-                    <div className="flex items-center justify-between border-t border-[var(--ds-black)] pt-1.5 mt-2">
-                      <span className="text-[9px] font-bold uppercase tracking-wide">
+                    <div className="flex items-center justify-between border-t border-[var(--border)] pt-1.5 mt-2">
+                      <span className="text-[9px] font-bold uppercase tracking-wide text-[var(--text-muted)]">
                         Ronde: {rounds} / 7
                       </span>
                       {!isMastered && (
-                        <span className="text-[10px] font-black">→</span>
+                        <span className="text-[10px] font-black text-[var(--accent)]">→</span>
                       )}
                     </div>
                   </div>
@@ -553,187 +603,223 @@ function FlitsenGame() {
     );
     const sentence = packSentences[currentSentenceIndex];
 
-    return (
-      <div className="flex flex-col min-h-screen bg-[var(--ds-black)] text-[var(--ds-white)] select-none">
-        {/* Header */}
-        <div className="bg-[var(--ds-black)] border-b-[3px] border-[var(--ds-white)] px-5 py-4 flex items-center justify-between">
-          <span className="text-xs font-black uppercase tracking-widest text-[var(--ds-white)]">
-            Pakket {activePackIndex + 1} — Ronde {(flitsenProgress.completedRounds[activePackIndex] || 0) + 1}/7
-          </span>
-          <button
-            onClick={() => setGameMode("dashboard")}
-            className="bg-transparent border border-white text-white px-3 py-1 font-bold text-xs uppercase tracking-wide hover:bg-white hover:text-black cursor-pointer"
-          >
-            Dashboard
-          </button>
+    const radius = 14;
+    const circumference = 2 * Math.PI * radius;
+    const currentLimit = getSentenceTimeLimit(sentence);
+    const strokeDashoffset = circumference - (timeLeft / currentLimit) * circumference;
+
+    const scoreChip = (
+      <div className="flex items-center gap-3">
+        {/* Countdown Circle */}
+        <div className="relative w-8 h-8 flex items-center justify-center">
+          <svg width="32" height="32" className="transform -rotate-90">
+            <circle cx="16" cy="16" r={radius} stroke="var(--surface-2)" strokeWidth="2.5" fill="none" />
+            <circle
+              cx="16"
+              cy="16"
+              r={radius}
+              stroke="var(--accent)"
+              strokeWidth="2.5"
+              fill="none"
+              strokeDasharray={circumference}
+              strokeDashoffset={strokeDashoffset}
+              className="transition-all duration-1000 ease-linear"
+            />
+          </svg>
+          <span className="absolute text-[10px] font-bold text-[var(--text)]">{timeLeft}</span>
         </div>
+        <span className="text-xs font-bold text-[var(--text-muted)]">
+          {currentSentenceIndex + 1}/{packSentences.length}
+        </span>
+      </div>
+    );
 
-        {/* Main Flashcard Container */}
-        <div className="flex-1 flex flex-col justify-center items-center p-4 max-w-4xl w-full mx-auto">
-          {/* Progress bar info */}
-          <div className="w-full flex justify-between items-center mb-3 max-w-2xl px-1">
-            <span className="text-xs font-bold uppercase tracking-widest opacity-60">
-              Zin {currentSentenceIndex + 1} van {packSentences.length}
-            </span>
-            <span className="text-xs font-bold uppercase tracking-widest opacity-60">
-              {timeLeft} seconden over
-            </span>
-          </div>
+    const actionBar = (
+      <div className="flex justify-between items-center gap-3 w-full">
+        {/* Prev */}
+        <button
+          onClick={handlePrevSentence}
+          disabled={currentSentenceIndex === 0 || isPaused}
+          className="flex-1 py-3 bg-[var(--surface-2)] text-[var(--text)] rounded-xl font-bold uppercase tracking-widest text-xs hover:opacity-90 disabled:opacity-30 transition-all border border-[var(--border)] cursor-pointer"
+        >
+          ← Vorige
+        </button>
 
-          {/* Flashcard Block */}
-          <div className="w-full max-w-2xl bg-[var(--ds-white)] text-[var(--ds-black)] border-[4px] border-[var(--ds-black)] shadow-[8px_8px_0px_rgba(0,0,0,1)] p-8 md:p-12 min-h-[260px] flex flex-col justify-between relative overflow-hidden">
-            {/* Visual timer countdown bar */}
-            <div className="absolute top-0 left-0 right-0 h-2 bg-[var(--ds-gray)]">
-              <motion.div
-                key={currentSentenceIndex}
-                initial={{ width: "100%" }}
-                animate={isPaused ? {} : { width: "0%" }}
-                transition={{ duration: timeLeft, ease: "linear" }}
-                className="h-full bg-[var(--ds-red)]"
-              />
-            </div>
+        {/* Pause / Play */}
+        <button
+          onClick={() => setIsPaused(!isPaused)}
+          className={`flex-1 py-3.5 rounded-xl font-black uppercase tracking-widest text-xs cursor-pointer transition-colors ${
+            isPaused
+              ? "bg-[var(--accent)] text-white border-none"
+              : "bg-[var(--primary)] text-white border-none"
+          }`}
+        >
+          {isPaused ? "▶ Doorgaan" : "⏸ Pauze"}
+        </button>
 
-            {/* Dutch sentence (IMMERSION - BIG) */}
-            <div className="my-auto text-center px-2">
-              <h2 className="text-2xl md:text-4xl font-black leading-tight tracking-wide font-sans">
+        {/* Reset */}
+        <button
+          onClick={handleResetSentenceTimer}
+          disabled={isPaused}
+          className="w-12 h-12 border border-[var(--border)] bg-[var(--surface-2)] rounded-xl text-lg flex items-center justify-center cursor-pointer transition-all hover:bg-[var(--surface-2)]/80 disabled:opacity-30"
+          title="Reset timer"
+        >
+          ⟳
+        </button>
+
+        {/* Sla Over / Next */}
+        <button
+          onClick={handleNextSentence}
+          className="flex-1 py-3 bg-[var(--danger-soft)] text-[var(--danger)] border border-[var(--danger)]/10 rounded-xl font-bold uppercase tracking-widest text-xs hover:opacity-90 transition-all cursor-pointer"
+        >
+          Sla over →
+        </button>
+      </div>
+    );
+
+    return (
+      <GameShell
+        title={bron === "verhaal" ? "Flitsen" : `Pakket ${activePackIndex + 1} — Ronde ${(flitsenProgress.completedRounds[activePackIndex] || 0) + 1}/7`}
+        icon="⚡"
+        scoreChip={scoreChip}
+        onClose={() => {
+          if (bron === "verhaal") {
+            window.location.href = `/lessen/${les}`;
+          } else {
+            setGameMode("dashboard");
+          }
+        }}
+        actionBar={actionBar}
+      >
+        <LesContextChip />
+        <div className="flex-1 flex flex-col justify-center items-center py-6 w-full max-w-md mx-auto">
+          {/* Card */}
+          <div className="w-full bg-[var(--surface)] border border-[var(--border)] rounded-3xl p-8 min-h-[220px] flex flex-col justify-between shadow-sm relative overflow-hidden">
+            {/* Dutch Text */}
+            <div className="my-auto text-center">
+              <h2 className="text-xl md:text-2xl font-bold leading-normal tracking-wide text-[var(--text)] font-sans">
                 {sentence?.nl}
               </h2>
             </div>
 
-            {/* Local translation (NATIVE LANGUAGE - SMALL, MUTED) */}
-            <div className="mt-8 border-t border-[rgba(0,0,0,0.1)] pt-4 text-center">
+            {/* Translation / Hint */}
+            <div className="mt-6 border-t border-[var(--border)] pt-4 text-center">
               {isAdvanced && !hintRevealed ? (
                 <button
                   onClick={() => setHintRevealed(true)}
-                  className="text-xs font-bold text-[var(--ds-blue)] hover:underline border-none bg-none p-0 cursor-pointer inline-block"
-                  style={{ background: 'none', border: 'none', padding: 0 }}
+                  className="text-xs font-bold text-[var(--accent)] hover:underline border-none bg-none p-0 cursor-pointer inline-block bg-transparent"
                 >
                   [toon vertaling]
                 </button>
               ) : (
-                <p className="text-xs md:text-sm font-bold text-[var(--ds-black)] opacity-50 italic">
+                <p className="text-xs font-bold text-[var(--text-muted)] italic">
                   {translate(sentence)}
                 </p>
               )}
             </div>
           </div>
 
-          {/* Audio Wave / Speak Icon Indicator */}
+          {/* Speak Button */}
           <div className="mt-8 flex flex-col items-center gap-2">
-            <motion.div
-              animate={isPaused ? {} : { scale: [1, 1.15, 1] }}
+            <motion.button
+              onClick={() => sentence?.nl && speakDutch(sentence.nl)}
+              animate={isPaused ? {} : { scale: [1, 1.12, 1] }}
               transition={{ repeat: Infinity, duration: 1.5 }}
-              className="w-10 h-10 rounded-full bg-[var(--ds-blue)] border-[3px] border-white flex items-center justify-center text-white"
+              className="w-12 h-12 rounded-full bg-[var(--accent)] text-white flex items-center justify-center cursor-pointer active:scale-95 shadow-sm border-none text-xl"
             >
               🔊
-            </motion.div>
-            <p className="text-[10px] font-black uppercase tracking-widest opacity-50">
+            </motion.button>
+            <p className="text-[10px] font-black uppercase tracking-widest text-[var(--text-muted)]">
               {isPaused ? "Gepauzeerd" : "Spreek hardop na"}
             </p>
           </div>
         </div>
-
-        {/* Bottom Playback Navigation Panel */}
-        <div className="border-t-[3px] border-[var(--ds-white)] bg-[var(--ds-black)] p-4 flex justify-between items-center gap-3">
-          {/* Previous sentence button */}
-          <button
-            onClick={handlePrevSentence}
-            disabled={currentSentenceIndex === 0}
-            className="flex-1 max-w-[120px] bg-transparent border-[3px] border-white text-white py-3 font-bold uppercase tracking-widest text-xs hover:bg-white hover:text-black cursor-pointer disabled:opacity-30 disabled:hover:bg-transparent disabled:hover:text-white"
-          >
-            ← Vorige
-          </button>
-
-          {/* Pause / Play central toggle */}
-          <button
-            onClick={() => setIsPaused(!isPaused)}
-            className={`flex-1 max-w-[160px] py-3.5 border-[3px] border-white font-black uppercase tracking-widest text-xs cursor-pointer transition-colors ${
-              isPaused
-                ? "bg-[var(--ds-yellow)] text-black border-[var(--ds-yellow)]"
-                : "bg-white text-black hover:bg-transparent hover:text-white"
-            }`}
-          >
-            {isPaused ? "▶ Doorgaan" : "❚❚ Pauze"}
-          </button>
-
-          {/* Restart sentence timer */}
-          <button
-            onClick={handleResetSentenceTimer}
-            className="w-12 h-12 border-[3px] border-white text-white hover:bg-white hover:text-black font-bold text-lg flex items-center justify-center cursor-pointer transition-colors"
-            title="Reset timer"
-          >
-            ⟳
-          </button>
-
-          {/* Next sentence button */}
-          <button
-            onClick={handleNextSentence}
-            className="flex-1 max-w-[120px] bg-[var(--ds-red)] border-[3px] border-[var(--ds-red)] text-white py-3 font-bold uppercase tracking-widest text-xs hover:opacity-90 cursor-pointer"
-          >
-            Sla over →
-          </button>
-        </div>
-      </div>
+      </GameShell>
     );
   }
 
-  // Mastered / Completed round screen
+  // Completion round screen
   if (gameMode === "completed" && activePackIndex !== null) {
+    if (bron === "verhaal") {
+      return (
+        <div className="min-h-screen bg-[var(--bg)] py-12 px-4 flex items-center justify-center select-none">
+          <div className="w-full max-w-sm bg-[var(--surface)] border border-[var(--border)] rounded-3xl p-6 shadow-md text-center flex flex-col items-center gap-5">
+            <span className="text-4xl">🎉</span>
+            <div className="flex flex-col gap-1">
+              <h2 className="text-lg font-black text-[var(--text)] uppercase tracking-tight">
+                HİKÂYE CÜMLELERİ TAMAMLANDI!
+              </h2>
+              <p className="text-xs text-[var(--text-muted)] max-w-[280px] leading-relaxed mt-1">
+                Harika! Bu derse ait tüm hikâye cümlelerini başarıyla flitsen yaptınız.
+              </p>
+            </div>
+
+            <div className="flex flex-col gap-2 w-full mt-4">
+              <button
+                onClick={() => {
+                  setCurrentSentenceIndex(0);
+                  const firstSentence = flatSentences[0];
+                  const initialTime = getSentenceTimeLimit(firstSentence);
+                  setTimeLeft(initialTime);
+                  setIsPaused(false);
+                  setGameMode("playing");
+                }}
+                className="w-full bg-[var(--primary)] text-white py-3.5 rounded-xl font-bold uppercase tracking-widest text-xs hover:opacity-95 active:scale-95 transition-all cursor-pointer border-none"
+              >
+                Opnieuw
+              </button>
+              <Link
+                href={`/lessen/${les}`}
+                className="w-full bg-[var(--surface-2)] text-[var(--text)] py-3.5 rounded-xl font-bold uppercase tracking-widest text-xs hover:opacity-90 active:scale-95 transition-all text-center border border-[var(--border)] block"
+              >
+                Terug naar de les
+              </Link>
+            </div>
+          </div>
+        </div>
+      );
+    }
+
     const rounds = flitsenProgress.completedRounds[activePackIndex] || 0;
     const isMastered = rounds >= 7;
 
     return (
-      <div className="min-h-screen flex flex-col bg-[var(--ds-white)] select-none">
-        {/* Header */}
-        <div className="bg-[var(--ds-black)] px-5 py-4">
-          <span className="text-sm font-bold text-[var(--ds-white)] lowercase tracking-wide">ronde voltooid</span>
-        </div>
-
-        {/* Celebration mondrian layout */}
-        <div className="p-[3px] bg-[var(--ds-black)] flex-1 flex flex-col">
-          {/* Top Yellow Panel: points awarded */}
-          <div className="bg-[var(--ds-yellow)] p-8 flex flex-col justify-center items-center flex-1 border-b-[3px] border-[var(--ds-black)]">
-            <span className="text-sm font-black uppercase tracking-widest text-[var(--ds-black)] opacity-60">
-              {isMastered ? "PAKKET VOLLEDIG GEMASTERD!" : "RONDE VOLTOOID!"}
-            </span>
-            <span className="text-7xl font-black mt-2 text-[var(--ds-black)]">+50</span>
-            <span className="text-xs font-black uppercase tracking-widest text-[var(--ds-black)] opacity-60 mt-1">
-              SPRAAKMAKER PUNTEN VERDIEND
-            </span>
+      <div className="min-h-screen bg-[var(--bg)] py-12 px-4 flex items-center justify-center select-none">
+        <div className="w-full max-w-sm bg-[var(--surface)] border border-[var(--border)] rounded-3xl p-6 shadow-md text-center flex flex-col items-center gap-5">
+          <span className="text-4xl">🎉</span>
+          <div className="flex flex-col gap-1">
+            <h2 className="text-lg font-black text-[var(--text)] uppercase tracking-tight">
+              {isMastered ? "PAKKET GEMASTERD!" : "RONDE VOLTOOID!"}
+            </h2>
+            <p className="text-xs text-[var(--text-muted)] max-w-[280px] leading-relaxed mt-1">
+              {isMastered
+                ? "Gefeliciteerd! Dit pakket is nu 7 keer herhaald en permanent opgeslagen."
+                : `Nog ${7 - rounds} herhalingen te gaan voor opslag in het langetermijngeheugen.`}
+            </p>
+          </div>
+          
+          <div className="bg-[var(--success-soft)] text-[var(--success)] px-5 py-3.5 rounded-2xl w-full border border-[var(--success)]/10 flex flex-col items-center">
+            <span className="text-[9px] font-black tracking-wider uppercase opacity-85">VERDIENDE PUNTEN</span>
+            <span className="text-3xl font-extrabold mt-0.5">+50</span>
           </div>
 
-          <div className="grid grid-cols-2 gap-[3px] flex-1">
-            {/* Left Red Panel: pack details */}
-            <div className="bg-[var(--ds-red)] p-6 flex flex-col justify-center items-center">
-              <span className="text-[10px] font-black uppercase tracking-widest text-[var(--ds-white)] opacity-70">PAKKET</span>
-              <span className="text-4xl font-black text-[var(--ds-white)] mt-1">#{activePackIndex + 1}</span>
+          <div className="grid grid-cols-2 gap-2.5 w-full">
+            <div className="bg-[var(--surface-2)] p-3 rounded-xl flex flex-col items-center">
+              <span className="text-[9px] font-bold text-[var(--text-muted)] uppercase">PAKKET</span>
+              <span className="text-base font-black text-[var(--text)] mt-0.5">#{activePackIndex + 1}</span>
             </div>
-
-            {/* Right Blue Panel: rounds completed */}
-            <div className="bg-[var(--ds-blue)] p-6 flex flex-col justify-center items-center">
-              <span className="text-[10px] font-black uppercase tracking-widest text-[var(--ds-white)] opacity-70">HERHALING</span>
-              <span className="text-4xl font-black text-[var(--ds-white)] mt-1">{rounds}/7</span>
+            <div className="bg-[var(--surface-2)] p-3 rounded-xl flex flex-col items-center">
+              <span className="text-[9px] font-bold text-[var(--text-muted)] uppercase">RONDE</span>
+              <span className="text-base font-black text-[var(--text)] mt-0.5">{rounds}/7</span>
             </div>
           </div>
 
-          {/* Bottom CTA to return */}
-          <div className="bg-[var(--ds-white)] p-4 border-t-[3px] border-[var(--ds-black)] flex flex-col gap-2">
-            {isMastered ? (
-              <p className="text-xs font-black text-center text-[var(--ds-green)] uppercase tracking-wider mb-2">
-                ✓ Geweldig! Dit pakket is nu 7 keer herhaald en permanent opgeslagen.
-              </p>
-            ) : (
-              <p className="text-xs font-bold text-center text-[var(--ds-black)] opacity-60 mb-2">
-                Nog {7 - rounds} herhalingen te gaan voor volledige opslag in het langetermijngeheugen.
-              </p>
-            )}
-            <button
-              onClick={() => setGameMode("dashboard")}
-              className="w-full bg-[var(--ds-black)] text-[var(--ds-white)] py-5 font-bold uppercase tracking-widest text-sm hover:opacity-90 transition-opacity border-none cursor-pointer"
-            >
-              TERUG NAAR DASHBOARD
-            </button>
-          </div>
+          <button
+            onClick={() => setGameMode("dashboard")}
+            className="w-full bg-[var(--primary)] text-white py-3.5 rounded-xl font-bold uppercase tracking-widest text-xs hover:opacity-95 active:scale-95 transition-all cursor-pointer border-none"
+          >
+            TERUG NAAR DASHBOARD
+          </button>
         </div>
       </div>
     );
@@ -746,8 +832,8 @@ export default function FlitsenPage() {
   return (
     <Suspense
       fallback={
-        <div className="min-h-screen flex items-center justify-center bg-[var(--ds-white)]">
-          <p className="text-sm font-bold uppercase tracking-widest opacity-40">Laden…</p>
+        <div className="min-h-screen flex items-center justify-center bg-[var(--bg)]">
+          <p className="text-sm font-bold uppercase tracking-widest opacity-40 animate-pulse">Laden…</p>
         </div>
       }
     >

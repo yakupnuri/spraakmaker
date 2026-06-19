@@ -10,14 +10,41 @@ export default function ClientLayout({ children }: { children: React.ReactNode }
   const pathname = usePathname();
   const [checked, setChecked] = useState(false);
   const { progress } = useProgress();
-  const uiStyle = progress.settings.uiStyle ?? "modern";
-  const isModern = uiStyle === "modern";
 
+  // Tema: Custom event dinleyicisi ve mount aşamasında localStorage kontrolü
   useEffect(() => {
-    const root = document.documentElement;
-    root.classList.remove("ui-modern", "ui-destijl");
-    root.classList.add(`ui-${uiStyle}`);
-  }, [uiStyle]);
+    const handleThemeChange = (e: Event) => {
+      const customEvent = e as CustomEvent<"light" | "dark" | "system">;
+      const theme = customEvent.detail;
+      const root = document.documentElement;
+      if (theme === "system") {
+        root.removeAttribute("data-theme");
+      } else {
+        root.setAttribute("data-theme", theme);
+      }
+    };
+
+    window.addEventListener("spraakmaker-theme-change", handleThemeChange);
+
+    // İlk mount aşamasında localStorage'daki temayı uygula
+    try {
+      const stored = localStorage.getItem("spraakmaker-progress");
+      if (stored) {
+        const p = JSON.parse(stored);
+        const t = p.settings?.theme ?? "system";
+        const root = document.documentElement;
+        if (t === "system") {
+          root.removeAttribute("data-theme");
+        } else {
+          root.setAttribute("data-theme", t);
+        }
+      }
+    } catch {}
+
+    return () => {
+      window.removeEventListener("spraakmaker-theme-change", handleThemeChange);
+    };
+  }, []);
 
   useEffect(() => {
     const onboardingDone = localStorage.getItem("spraakmaker-onboarding") === "done";
@@ -31,8 +58,8 @@ export default function ClientLayout({ children }: { children: React.ReactNode }
 
   if (!checked) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-[var(--ds-white)]">
-        <div className="w-8 h-8 border-[3px] border-[var(--ds-black)] animate-spin border-t-transparent" />
+      <div className="min-h-screen flex items-center justify-center bg-[var(--bg)]">
+        <div className="w-8 h-8 border-[2px] border-[var(--text)] animate-spin border-t-transparent rounded-full" />
       </div>
     );
   }
@@ -49,17 +76,12 @@ export default function ClientLayout({ children }: { children: React.ReactNode }
       </div>
 
       {/* Mobile: top nav header with logo */}
-      <div className={isModern
-        ? "md:hidden sticky top-0 z-50 bg-[var(--ds-white)]/80 backdrop-blur-md border-b border-[var(--border-color-modern)] px-4 py-2 flex items-center shadow-[0_2px_8px_rgba(0,0,0,0.01)]"
-        : "md:hidden sticky top-0 z-50 bg-[var(--ds-white)] border-b-[3px] border-[var(--ds-black)] px-4 py-3 flex items-center"
-      }>
+      <div className="md:hidden sticky top-0 z-50 bg-[var(--surface)]/80 backdrop-blur-md border-b border-[var(--border)] px-4 py-2 flex items-center shadow-[0_2px_8px_rgba(15,23,42,0.01)]">
         <Logo />
       </div>
 
       {/* Main content */}
-      <main
-        className="md:min-h-screen pb-16 md:pb-0 md:pt-0"
-      >
+      <main className="md:min-h-screen pb-16 md:pb-0 md:pt-0">
         {children}
       </main>
 

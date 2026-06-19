@@ -3,10 +3,14 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { useProgress } from "@/lib/hooks";
+import { loadEtappes, checkLesUnlocked } from "@/lib/curriculum";
+import type { Etappe } from "@/lib/types";
 
 interface NextLesson {
   id: string;
   title: string;
+  etappeId: string;
+  nr: number;
 }
 
 const ArrowRight = () => (
@@ -15,89 +19,6 @@ const ArrowRight = () => (
     <polyline points="10,4 16,10 10,16" />
   </svg>
 );
-
-// Mondrian tile met optioneel accent-balkje links
-function Tile({
-  href,
-  bg,
-  textColor = "var(--ds-white)",
-  label,
-  value,
-  sub,
-  accent,
-  arrow = false,
-  colSpan = 1,
-  rowSpan = 1,
-  children,
-}: {
-  href?: string;
-  bg: string;
-  textColor?: string;
-  label: string;
-  value?: string | number;
-  sub?: string;
-  accent?: string;
-  arrow?: boolean;
-  colSpan?: number;
-  rowSpan?: number;
-  children?: React.ReactNode;
-}) {
-  const style: React.CSSProperties = {
-    backgroundColor: bg,
-    gridColumn: colSpan > 1 ? `span ${colSpan}` : undefined,
-    gridRow: rowSpan > 1 ? `span ${rowSpan}` : undefined,
-  };
-
-  const inner = (
-    <div className="relative flex flex-col justify-between h-full p-4 overflow-hidden">
-      {/* accent balk links */}
-      {accent && (
-        <div
-          className="absolute left-0 top-0 bottom-0 w-[5px]"
-          style={{ backgroundColor: accent }}
-        />
-      )}
-      <div className={accent ? "pl-3" : ""}>
-        <span
-          className="text-[9px] font-bold uppercase tracking-widest block mb-1"
-          style={{ color: textColor, opacity: 0.65 }}
-        >
-          {label}
-        </span>
-        {value !== undefined && (
-          <span className="text-2xl font-bold leading-none block" style={{ color: textColor }}>
-            {typeof value === "number" ? value.toLocaleString("nl") : value}
-          </span>
-        )}
-        {sub && (
-          <span className="text-xs mt-0.5 block" style={{ color: textColor, opacity: 0.55 }}>
-            {sub}
-          </span>
-        )}
-        {children}
-      </div>
-      {arrow && href && (
-        <div
-          className="absolute right-3 bottom-3 w-7 h-7 flex items-center justify-center"
-          style={{ backgroundColor: textColor === "var(--ds-white)" ? "rgba(255,255,255,0.15)" : "rgba(0,0,0,0.12)" }}
-        >
-          <span style={{ color: textColor }}>
-            <ArrowRight />
-          </span>
-        </div>
-      )}
-    </div>
-  );
-
-  if (href) {
-    return (
-      <Link href={href} className="block hover:opacity-90 transition-opacity" style={style}>
-        {inner}
-      </Link>
-    );
-  }
-  return <div style={style}>{inner}</div>;
-}
 
 export default function Dashboard() {
   const { progress } = useProgress();
@@ -108,645 +29,385 @@ export default function Dashboard() {
 
   const streak = progress.games.streak ?? 0;
   const totalPoints = progress.games.totalPoints ?? 0;
-  const wordenCount = Object.keys(progress.flashcard).length;
+  const wordenCount = Object.keys(progress.flashcard).length + Object.keys(progress.verbs ?? {}).length;
   const zinnenCount = Object.values(progress.lessons).filter((l) => l.completed).length;
 
-  useEffect(() => {
-    fetch("/data/lessen.json")
-      .then((r) => r.json())
-      .then((data: { id: string; title: string; sentences: unknown[] }[]) => {
-        setTotalLessons(data.length);
-        const done = Object.values(progress.lessons).filter((l) => l.completed).length;
-        setCompletedLessons(done);
-        const next = data.find((l) => !progress.lessons[l.id]?.completed);
-        if (next) setNextLesson({ id: next.id, title: next.title });
-      })
-      .catch(() => {});
+  const dailyGoal = progress.settings.dailyGoal ?? 15;
+  const todayStr = new Date().toISOString().slice(0, 10);
+  const dailyCount = progress.games.daily?.date === todayStr ? progress.games.daily.count : 0;
+  const isGoalReached = dailyCount >= dailyGoal;
+  const goalProgressPct = Math.min((dailyCount / dailyGoal) * 100, 100);
 
-    // tel hoeveel werkwoorden geoefend
+  useEffect(() => {
+    loadEtappes().then((etappesList) => {
+      const total = etappesList.reduce((sum, e) => sum + e.lessen.length, 0);
+      setTotalLessons(total);
+
+      let done = 0;
+      if (progress.curriculum) {
+        Object.values(progress.curriculum.etappes).forEach((ep) => {
+          done += ep.lessenDone.length;
+        });
+      }
+      setCompletedLessons(done);
+
+      let foundNext = false;
+      for (const etappe of etappesList) {
+        for (const les of etappe.lessen) {
+          const lesId = les.verhaalId || `${etappe.id}-${les.nr}`;
+          const isCompleted = progress.curriculum?.etappes[etappe.id]?.lessenDone.includes(lesId);
+          if (!isCompleted) {
+            const isUnlocked = checkLesUnlocked(etappe.id, les.nr, progress, etappesList);
+            if (isUnlocked) {
+              setNextLesson({
+                id: lesId,
+                title: les.titel,
+                etappeId: etappe.id,
+                nr: les.nr,
+              });
+              foundNext = true;
+              break;
+            }
+          }
+        }
+        if (foundNext) break;
+      }
+      
+      if (!foundNext) setNextLesson(null);
+    });
+
     setVerbCount(Object.keys(progress.verbs ?? {}).length);
-  }, [progress.lessons, progress.verbs]);
+  }, [progress.curriculum, progress.verbs]);
 
   const lessenPct = totalLessons > 0 ? Math.round((completedLessons / totalLessons) * 100) : 0;
 
-  const uiStyle = progress.settings.uiStyle ?? "modern";
-  const isModern = uiStyle === "modern";
+  return (
+    <div className="min-h-screen bg-[var(--bg)] pb-24 pt-6 px-4 md:px-8 max-w-4xl mx-auto flex flex-col gap-6">
+      {/* Karşılama ve Başlık */}
+      <div className="flex flex-col gap-1 select-none">
+        <h1 className="text-2xl font-bold tracking-tight text-[var(--text)]">
+          Hoi! Laten we vandaag Nederlands leren.
+        </h1>
+        <p className="text-sm opacity-60 text-[var(--text-muted)]">
+          Kies een module of ga door met je volgende les.
+        </p>
+      </div>
 
-  if (isModern) {
-    return (
-      <div className="min-h-screen bg-[var(--ds-white)] pb-24 pt-6 px-4 md:px-8 max-w-4xl mx-auto flex flex-col gap-6">
-        {/* Karşılama ve Başlık */}
-        <div className="flex flex-col gap-1 select-none">
-          <h1 className="text-2xl font-bold tracking-tight text-[var(--ds-black)]">
-            Hoi! Laten we vandaag Nederlands leren.
-          </h1>
-          <p className="text-sm opacity-60">
-            Kies een module of ga door met je volgende les.
-          </p>
-        </div>
-
-        {/* İstatistik Kartları */}
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
-          {/* Streak */}
-          <div className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center gap-3 shadow-[0_2px_8px_rgba(0,0,0,0.02)]">
-            <div className="w-10 h-10 rounded-xl bg-orange-100 flex items-center justify-center text-orange-500 text-lg">🔥</div>
-            <div className="flex flex-col">
-              <span className="text-xl font-bold text-[var(--ds-black)] leading-none">{streak}</span>
-              <span className="text-[10px] text-slate-400 font-bold uppercase tracking-wider mt-1">Dagen</span>
-            </div>
+      {/* Dagelijks Doel (Günlük Hedef) İlerleme Kartı */}
+      <div className="bg-[var(--surface)] border border-[var(--border)] rounded-3xl p-5 shadow-[0_4px_12px_rgba(15,23,42,0.02)] flex flex-col sm:flex-row items-center justify-between gap-4 select-none">
+        <div className="flex items-center gap-4 w-full sm:w-auto">
+          <div className={`relative w-14 h-14 shrink-0 rounded-full flex items-center justify-center border-4 ${isGoalReached ? "border-[var(--success)] bg-[var(--success-soft)]" : "border-[var(--accent)]/20"}`}>
+            {isGoalReached ? (
+              <span className="text-xl">✅</span>
+            ) : (
+              <span className="text-xs font-black text-[var(--accent)]">{Math.round(goalProgressPct)}%</span>
+            )}
+            {!isGoalReached && goalProgressPct > 0 && (
+              <svg className="absolute inset-0 w-full h-full -rotate-90 pointer-events-none" viewBox="0 0 36 36">
+                <path
+                  className="text-[var(--accent)]"
+                  strokeWidth="4"
+                  strokeDasharray={`${goalProgressPct}, 100`}
+                  strokeLinecap="round"
+                  stroke="currentColor"
+                  fill="none"
+                  d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
+                />
+              </svg>
+            )}
           </div>
-          {/* Punten */}
-          <div className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center gap-3 shadow-[0_2px_8px_rgba(0,0,0,0.02)]">
-            <div className="w-10 h-10 rounded-xl bg-teal-100 flex items-center justify-center text-teal-500 text-lg">🏆</div>
-            <div className="flex flex-col">
-              <span className="text-xl font-bold text-[var(--ds-black)] leading-none">{totalPoints.toLocaleString("nl")}</span>
-              <span className="text-[10px] text-slate-400 font-bold uppercase tracking-wider mt-1">Punten</span>
-            </div>
-          </div>
-          {/* Kelimeler */}
-          <div className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center gap-3 shadow-[0_2px_8px_rgba(0,0,0,0.02)]">
-            <div className="w-10 h-10 rounded-xl bg-blue-100 flex items-center justify-center text-blue-500 text-lg">📖</div>
-            <div className="flex flex-col">
-              <span className="text-xl font-bold text-[var(--ds-black)] leading-none">{wordenCount.toLocaleString("nl")}</span>
-              <span className="text-[10px] text-slate-400 font-bold uppercase tracking-wider mt-1">Woorden</span>
-            </div>
-          </div>
-          {/* Cümleler */}
-          <div className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center gap-3 shadow-[0_2px_8px_rgba(0,0,0,0.02)]">
-            <div className="w-10 h-10 rounded-xl bg-purple-100 flex items-center justify-center text-purple-500 text-lg">✓</div>
-            <div className="flex flex-col">
-              <span className="text-xl font-bold text-[var(--ds-black)] leading-none">{zinnenCount.toLocaleString("nl")}</span>
-              <span className="text-[10px] text-slate-400 font-bold uppercase tracking-wider mt-1">Zinnen</span>
-            </div>
-          </div>
-        </div>
-
-        {/* Sıradaki Ders Kartı */}
-        {nextLesson ? (
-          <div className="bg-gradient-to-r from-[var(--ds-blue)] to-[#1d4ed8] text-white rounded-3xl p-6 shadow-md border border-[var(--border-color-modern)] relative overflow-hidden flex flex-col gap-4">
-            <div className="absolute right-[-20px] bottom-[-20px] w-48 h-48 rounded-full bg-white/5 pointer-events-none" />
-            <div className="absolute right-[40px] top-[-30px] w-24 h-24 rounded-full bg-white/5 pointer-events-none" />
-            
-            <div className="flex flex-col gap-1.5 z-10">
-              <span className="text-[9px] font-black uppercase tracking-widest text-[var(--ds-yellow)] bg-white/10 px-2.5 py-1 rounded-full self-start">
-                VOLGENDE LES
-              </span>
-              <h2 className="text-xl md:text-2xl font-black mt-1 leading-snug">
-                {nextLesson.title}
-              </h2>
-              <div className="w-full bg-white/20 h-2 rounded-full mt-3 overflow-hidden">
-                <div className="bg-[var(--ds-yellow)] h-full rounded-full" style={{ width: `${lessenPct}%` }} />
-              </div>
-              <div className="flex justify-between items-center text-xs opacity-75 mt-1">
-                <span>Lesvoortgang: {lessenPct}%</span>
-                <span>Verhaal en woorden gereed</span>
-              </div>
-            </div>
-            
-            <Link
-              href={`/lessen/${nextLesson.id}`}
-              className="bg-[var(--ds-yellow)] text-[var(--ds-blue)] font-bold py-3.5 px-6 rounded-2xl text-center hover:opacity-95 transition-opacity z-10 flex items-center justify-center gap-2 mt-2 shadow-[0_4px_12px_rgba(0,173,181,0.2)]"
-            >
-              <span>Start les</span>
-              <ArrowRight />
-            </Link>
-          </div>
-        ) : (
-          <div className="bg-gradient-to-r from-[var(--ds-blue)] to-[#115e59] text-white rounded-3xl p-6 shadow-md border border-[var(--border-color-modern)] text-center flex flex-col items-center gap-2">
-            <span className="text-3xl">🎉</span>
-            <h2 className="text-xl font-bold">Gefeliciteerd!</h2>
-            <p className="text-sm opacity-80 max-w-xs">
-              Alle lessen voltooid. Blijf oefenen met de spellen en woordkaarten!
+          <div className="flex flex-col gap-0.5">
+            <span className="text-[9px] font-black uppercase tracking-widest text-[var(--text-muted)]">DAGELIJKS DOEL (Günlük Hedef)</span>
+            <h3 className="text-sm font-black text-[var(--text)]">
+              {isGoalReached ? "Gefeliciteerd! Dagelijks doel bereikt! 🎉" : "Goed op weg! Blijf oefenen."}
+            </h3>
+            <p className="text-xs text-[var(--text-muted)] font-semibold">
+              Vandaag: <span className="font-bold text-[var(--text)]">{dailyCount}</span> van de <span className="font-bold text-[var(--text)]">{dailyGoal}</span> oefeningen voltooid
             </p>
           </div>
-        )}
+        </div>
+        <div className="w-full sm:w-32 bg-[var(--surface-2)] h-2 rounded-full overflow-hidden shrink-0">
+          <div className={`h-full rounded-full transition-all duration-500 ${isGoalReached ? "bg-[var(--success)]" : "bg-[var(--accent)]"}`} style={{ width: `${goalProgressPct}%` }} />
+        </div>
+      </div>
 
-        {/* Öğrenme ve Pratik Modülleri (Kategorize) */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-          {/* Leren / Öğrenme */}
-          <div className="flex flex-col gap-3">
-            <h3 className="text-xs font-black uppercase tracking-widest text-slate-400 pl-1">
-              Leren
-            </h3>
-            
-            <div className="flex flex-col gap-2.5">
-              {/* Lessen */}
-              <Link
-                href="/lessen"
-                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
-              >
-                <div className="flex items-center gap-4">
-                  <div className="w-10 h-10 rounded-xl bg-blue-100 text-blue-600 flex items-center justify-center font-bold text-lg">📚</div>
-                  <div className="flex flex-col">
-                    <span className="font-bold text-sm text-[var(--ds-black)]">Lessen</span>
-                    <span className="text-xs text-slate-400 mt-0.5">{completedLessons} / {totalLessons} voltooid</span>
-                  </div>
-                </div>
-                <ArrowRight />
-              </Link>
-
-              {/* Wordcards */}
-              <Link
-                href="/kaarten"
-                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
-              >
-                <div className="flex items-center gap-4">
-                  <div className="w-10 h-10 rounded-xl bg-orange-100 text-orange-600 flex items-center justify-center font-bold text-lg">🎴</div>
-                  <div className="flex flex-col">
-                    <span className="font-bold text-sm text-[var(--ds-black)]">Woordkaarten</span>
-                    <span className="text-xs text-slate-400 mt-0.5">{wordenCount} woorden geleerd</span>
-                  </div>
-                </div>
-                <ArrowRight />
-              </Link>
- 
-              {/* Verbs */}
-              <Link
-                href="/werkwoorden"
-                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
-              >
-                <div className="flex items-center gap-4">
-                  <div className="w-10 h-10 rounded-xl bg-teal-100 text-teal-600 flex items-center justify-center font-bold text-lg">⚙️</div>
-                  <div className="flex flex-col">
-                    <span className="font-bold text-sm text-[var(--ds-black)]">Werkwoorden</span>
-                    <span className="text-xs text-slate-400 mt-0.5">{verbCount} werkwoorden geoefend</span>
-                  </div>
-                </div>
-                <ArrowRight />
-              </Link>
- 
-              {/* Signaalwoorden */}
-              <Link
-                href="/signaalwoorden"
-                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
-              >
-                <div className="flex items-center gap-4">
-                  <div className="w-10 h-10 rounded-xl bg-purple-100 text-purple-600 flex items-center justify-center font-bold text-lg">🔗</div>
-                  <div className="flex flex-col">
-                    <span className="font-bold text-sm text-[var(--ds-black)]">Signaalwoorden</span>
-                    <span className="text-xs text-slate-400 mt-0.5">Verbindingswoorden</span>
-                  </div>
-                </div>
-                <ArrowRight />
-              </Link>
- 
-              {/* Voegwoorden */}
-              <Link
-                href="/voegwoorden"
-                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
-              >
-                <div className="flex items-center gap-4">
-                  <div className="w-10 h-10 rounded-xl bg-emerald-100 text-emerald-600 flex items-center justify-center font-bold text-lg">➕</div>
-                  <div className="flex flex-col">
-                    <span className="font-bold text-sm text-[var(--ds-black)]">Voegwoorden</span>
-                    <span className="text-xs text-slate-400 mt-0.5">Omdat, want, als...</span>
-                  </div>
-                </div>
-                <ArrowRight />
-              </Link>
-            </div>
+      {/* Grid İstatistik Kartları */}
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+        {/* Streak */}
+        <div className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-4 flex items-center gap-3 shadow-[0_4px_12px_rgba(15,23,42,0.02)]">
+          <div className="w-10 h-10 rounded-xl bg-orange-100 dark:bg-orange-950/30 text-orange-500 flex items-center justify-center text-lg">🔥</div>
+          <div className="flex flex-col">
+            <span className="text-[10px] font-bold uppercase tracking-wider text-[var(--text-muted)]">STREAK</span>
+            <span className="text-xl font-bold text-[var(--text)] leading-none">{streak}</span>
           </div>
- 
-          {/* Spellen / Oyunlar */}
-          <div className="flex flex-col gap-3">
-            <h3 className="text-xs font-black uppercase tracking-widest text-slate-400 pl-1">
-              Spellen
-            </h3>
-            
-            <div className="flex flex-col gap-2.5">
-              {/* Zin Motor */}
-              <Link
-                href="/spel/zin-motor"
-                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm border-l-4 border-l-[var(--ds-yellow)]"
-              >
-                <div className="flex items-center gap-4">
-                  <div className="w-10 h-10 rounded-xl bg-yellow-100 text-yellow-600 flex items-center justify-center font-bold text-lg">🎡</div>
-                  <div className="flex flex-col">
-                    <div className="flex items-center gap-1.5">
-                      <span className="font-bold text-sm text-[var(--ds-black)]">Zin Motor</span>
-                      <span className="text-[8px] font-black uppercase bg-teal-100 text-teal-700 px-1.5 py-0.5 rounded">Nieuw</span>
-                    </div>
-                    <span className="text-xs text-slate-400 mt-0.5">Bouw zinnen door te draaien</span>
-                  </div>
-                </div>
-                <ArrowRight />
-              </Link>
- 
-              {/* Flitsen */}
-              <Link
-                href="/spel/flitsen"
-                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
-              >
-                <div className="flex items-center gap-4">
-                  <div className="w-10 h-10 rounded-xl bg-rose-100 text-rose-600 flex items-center justify-center font-bold text-lg">⚡</div>
-                  <div className="flex flex-col">
-                    <span className="font-bold text-sm text-[var(--ds-black)]">Flitsen</span>
-                    <span className="text-xs text-slate-400 mt-0.5">Spaced repetition & uitspraak</span>
-                  </div>
-                </div>
-                <ArrowRight />
-              </Link>
- 
-              {/* Zin Bouwen */}
-              <Link
-                href="/spel/zin-bouwen"
-                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
-              >
-                <div className="flex items-center gap-4">
-                  <div className="w-10 h-10 rounded-xl bg-indigo-100 text-indigo-600 flex items-center justify-center font-bold text-lg">🧩</div>
-                  <div className="flex flex-col">
-                    <span className="font-bold text-sm text-[var(--ds-black)]">Zin Bouwen</span>
-                    <span className="text-xs text-slate-400 mt-0.5">Drag & drop zinnen bouwen</span>
-                  </div>
-                </div>
-                <ArrowRight />
-              </Link>
- 
-              {/* Vul In */}
-              <Link
-                href="/spel/vul-in"
-                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
-              >
-                <div className="flex items-center gap-4">
-                  <div className="w-10 h-10 rounded-xl bg-cyan-100 text-cyan-600 flex items-center justify-center font-bold text-lg">✍️</div>
-                  <div className="flex flex-col">
-                    <span className="font-bold text-sm text-[var(--ds-black)]">Vul In</span>
-                    <span className="text-xs text-slate-400 mt-0.5">Vul het juiste woord in</span>
-                  </div>
-                </div>
-                <ArrowRight />
-              </Link>
- 
-              {/* Vertaal */}
-              <Link
-                href="/spel/vertaal"
-                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
-              >
-                <div className="flex items-center gap-4">
-                  <div className="w-10 h-10 rounded-xl bg-red-100 text-red-600 flex items-center justify-center font-bold text-lg">🇹🇷</div>
-                  <div className="flex flex-col">
-                    <span className="font-bold text-sm text-[var(--ds-black)]">Vertaal</span>
-                    <span className="text-xs text-slate-400 mt-0.5">Vertaal zinnen</span>
-                  </div>
-                </div>
-                <ArrowRight />
-              </Link>
- 
-              {/* Snelronde */}
-              <Link
-                href="/spel/snelronde"
-                className="bg-[var(--ds-gray)] border border-[var(--border-color-modern)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 transition-colors shadow-sm"
-              >
-                <div className="flex items-center gap-4">
-                  <div className="w-10 h-10 rounded-xl bg-amber-100 text-amber-600 flex items-center justify-center font-bold text-lg">⏱️</div>
-                  <div className="flex flex-col">
-                    <span className="font-bold text-sm text-[var(--ds-black)]">Snelronde</span>
-                    <span className="text-xs text-slate-400 mt-0.5">Race tegen de klok (60s)</span>
-                  </div>
-                </div>
-                <ArrowRight />
-              </Link>
-            </div>
+        </div>
+
+        {/* Toplam Puan */}
+        <div className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-4 flex items-center gap-3 shadow-[0_4px_12px_rgba(15,23,42,0.02)]">
+          <div className="w-10 h-10 rounded-xl bg-yellow-100 dark:bg-yellow-950/30 text-yellow-500 flex items-center justify-center text-lg">💎</div>
+          <div className="flex flex-col">
+            <span className="text-[10px] font-bold uppercase tracking-wider text-[var(--text-muted)]">PUNTEN</span>
+            <span className="text-xl font-bold text-[var(--text)] leading-none">{totalPoints.toLocaleString("nl")}</span>
+          </div>
+        </div>
+
+        {/* Öğrenilen Kelimeler */}
+        <div className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-4 flex items-center gap-3 shadow-[0_4px_12px_rgba(15,23,42,0.02)]">
+          <div className="w-10 h-10 rounded-xl bg-emerald-100 dark:bg-emerald-950/30 text-emerald-500 flex items-center justify-center text-lg">📚</div>
+          <div className="flex flex-col">
+            <span className="text-[10px] font-bold uppercase tracking-wider text-[var(--text-muted)]">WOORDEN</span>
+            <span className="text-xl font-bold text-[var(--text)] leading-none">{wordenCount.toLocaleString("nl")}</span>
+          </div>
+        </div>
+
+        {/* Yapılan Cümleler */}
+        <div className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-4 flex items-center gap-3 shadow-[0_4px_12px_rgba(15,23,42,0.02)]">
+          <div className="w-10 h-10 rounded-xl bg-sky-100 dark:bg-sky-950/30 text-sky-500 flex items-center justify-center text-lg">💬</div>
+          <div className="flex flex-col">
+            <span className="text-[10px] font-bold uppercase tracking-wider text-[var(--text-muted)]">ZINNEN</span>
+            <span className="text-xl font-bold text-[var(--text)] leading-none">{zinnenCount.toLocaleString("nl")}</span>
           </div>
         </div>
       </div>
-    );
-  }
 
-  return (
-    <div className="p-[3px] bg-[var(--ds-black)] min-h-screen pb-20 md:pb-3">
-      <div
-        className="grid gap-[3px]"
-        style={{ gridTemplateColumns: "1fr 1fr" }}
-      >
-
-        {/* ── ROW 1: Streak (vol breedte, geel) ─────────────────────── */}
-        <div
-          className="bg-[var(--ds-yellow)] p-5 flex items-end justify-between"
-          style={{ gridColumn: "span 2", minHeight: "90px" }}
-        >
-          <div>
-            <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-65 block mb-1">
-              STREAK
-            </span>
-            <div className="flex items-end gap-2">
-              <span className="text-5xl font-bold leading-none text-[var(--ds-black)]">{streak}</span>
-              <span className="text-xs text-[var(--ds-black)] opacity-55 pb-1">dagen op rij</span>
+      {/* Ana Eylem Kartları (Ders Durumu) */}
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+        {/* Sol 2 Kolon: Sıradaki Ders Kartı */}
+        <div className="md:col-span-2 flex flex-col gap-6">
+          <div className="bg-gradient-to-r from-[var(--primary)] to-[#1d4ed8] text-white rounded-3xl p-6 shadow-md border border-[var(--border)] relative overflow-hidden flex flex-col gap-4">
+            <div className="absolute right-4 top-4 text-white/10 text-9xl font-black pointer-events-none select-none">
+              {completedLessons + 1}
             </div>
-          </div>
-          <div className="text-right">
-            <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-65 block mb-1">
-              PUNTEN
+            <span className="text-[9px] font-black uppercase tracking-widest text-[var(--accent)] bg-white/10 px-2.5 py-1 rounded-full self-start">
+              VOLGENDE STAP (Sıradaki Adım)
             </span>
-            <span className="text-2xl font-bold text-[var(--ds-black)]">{totalPoints.toLocaleString("nl")}</span>
-          </div>
-        </div>
-
-        {/* ── ROW 2: Woorden · Zinnen ────────────────────────────────── */}
-        <div className="bg-[var(--ds-red)] p-4 flex flex-col justify-between" style={{ minHeight: "75px" }}>
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-65">WOORDEN</span>
-          <span className="text-2xl font-bold text-[var(--ds-white)]">{wordenCount.toLocaleString("nl")}</span>
-        </div>
-        <div className="bg-[var(--ds-white)] p-4 flex flex-col justify-between" style={{ minHeight: "75px" }}>
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-55">ZINNEN KLAAR</span>
-          <span className="text-2xl font-bold text-[var(--ds-black)]">{zinnenCount.toLocaleString("nl")}</span>
-        </div>
-
-        {/* ── SECTIE HEADER: Modules ─────────────────────────────────── */}
-        <div
-          className="bg-[var(--ds-black)] px-4 py-2 flex items-center"
-          style={{ gridColumn: "span 2" }}
-        >
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-40">
-            MODULES
-          </span>
-        </div>
-
-        {/* ── Werkwoorden (blauw, vol breedte) ──────────────────────── */}
-        <Link
-          href="/werkwoorden"
-          className="bg-[var(--ds-blue)] p-4 flex items-center justify-between hover:opacity-90 transition-opacity"
-          style={{ gridColumn: "span 2", minHeight: "72px" }}
-        >
-          <div>
-            <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-65 block mb-1">
-              WERKWOORDEN
-            </span>
-            <span className="text-sm font-bold text-[var(--ds-white)]">
-              Tegenw. tijd · Perfectum · Imperfectum · Modaal · Scheidbaar · Bijzinnen
-            </span>
-          </div>
-          <div className="w-8 h-8 bg-[rgba(255,255,255,0.15)] flex items-center justify-center flex-shrink-0 ml-3">
-            <span className="text-[var(--ds-white)]"><ArrowRight /></span>
-          </div>
-        </Link>
-
-        {/* ── Signaalwoorden · Voegwoorden ─────────────────────────── */}
-        <Link
-          href="/signaalwoorden"
-          className="bg-[var(--ds-black)] p-4 flex flex-col justify-between hover:opacity-80 transition-opacity"
-          style={{ minHeight: "80px" }}
-        >
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-65">SIGNAALWOORDEN</span>
-          <div className="flex items-end justify-between">
-            <span className="text-xs text-[var(--ds-white)] opacity-50">515 woorden</span>
-            <span className="text-[var(--ds-white)] opacity-60"><ArrowRight /></span>
-          </div>
-        </Link>
-        <Link
-          href="/voegwoorden"
-          className="bg-[var(--ds-yellow)] p-4 flex flex-col justify-between hover:opacity-90 transition-opacity"
-          style={{ minHeight: "80px" }}
-        >
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-65">VOEGWOORDEN</span>
-          <div className="flex items-end justify-between">
-            <span className="text-xs text-[var(--ds-black)] opacity-50">omdat · want · als…</span>
-            <span className="text-[var(--ds-black)] opacity-60"><ArrowRight /></span>
-          </div>
-        </Link>
-
-        {/* ── Kaarten (flashcards, rood, vol breedte) ───────────────── */}
-        <Link
-          href="/kaarten"
-          className="bg-[var(--ds-red)] p-4 flex items-center justify-between hover:opacity-90 transition-opacity"
-          style={{ gridColumn: "span 2", minHeight: "72px" }}
-        >
-          <div>
-            <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-65 block mb-1">
-              WOORDKAARTEN
-            </span>
-            <span className="text-sm font-bold text-[var(--ds-white)]">
-              {wordenCount > 0 ? `${wordenCount} woorden geoefend` : "Flashcards & spaced repetition"}
-            </span>
-          </div>
-          <div className="w-8 h-8 bg-[rgba(255,255,255,0.15)] flex items-center justify-center flex-shrink-0 ml-3">
-            <span className="text-[var(--ds-white)]"><ArrowRight /></span>
-          </div>
-        </Link>
-
-        {/* ── SECTIE HEADER: Oefenen ────────────────────────────────── */}
-        <div
-          className="bg-[var(--ds-black)] px-4 py-2 flex items-center"
-          style={{ gridColumn: "span 2" }}
-        >
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-40">
-            OEFENEN
-          </span>
-        </div>
-
-        {/* ── Lessen (blauw, row-span-2) + Volgende les ─────────────── */}
-        <Link
-          href="/lessen"
-          className="bg-[var(--ds-blue)] p-4 flex flex-col justify-between hover:opacity-90 transition-opacity"
-          style={{ gridRow: "span 2", minHeight: "140px" }}
-        >
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-65">LESSEN</span>
-          <div className="flex flex-col items-center justify-center flex-1 gap-1 my-2">
-            <span className="text-4xl font-bold text-[var(--ds-white)] leading-none">{completedLessons}</span>
-            <span className="text-xs text-[var(--ds-white)] opacity-50">/{totalLessons} klaar</span>
-          </div>
-          <div className="w-full h-1.5 bg-[rgba(255,255,255,0.2)]">
-            <div className="h-full bg-[var(--ds-yellow)]" style={{ width: `${lessenPct}%` }} />
-          </div>
-        </Link>
-
-        {/* Volgende les */}
-        {nextLesson ? (
-          <Link
-            href={`/lessen/${nextLesson.id}`}
-            className="bg-[var(--ds-white)] p-4 flex flex-col justify-between hover:bg-[var(--ds-gray)] transition-colors"
-            style={{ minHeight: "66px" }}
-          >
-            <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-55">
-              VOLGENDE LES
-            </span>
-            <div className="flex items-end justify-between gap-2">
-              <span className="text-xs font-bold text-[var(--ds-black)] line-clamp-2 leading-tight">
-                {nextLesson.title}
-              </span>
-              <span className="text-[var(--ds-black)] opacity-50 flex-shrink-0"><ArrowRight /></span>
-            </div>
-          </Link>
-        ) : (
-          <div
-            className="bg-[var(--ds-yellow)] p-4 flex flex-col justify-center"
-            style={{ minHeight: "66px" }}
-          >
-            <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-55 block mb-1">KLAAR!</span>
-            <span className="text-xs font-bold text-[var(--ds-black)]">Alle lessen voltooid</span>
-          </div>
-        )}
-
-        {/* Werkwoorden geoefend */}
-        <div className="bg-[var(--ds-gray)] p-4 flex flex-col justify-between" style={{ minHeight: "66px" }}>
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-55">WERKWOORDEN</span>
-          <span className="text-xl font-bold text-[var(--ds-black)]">{verbCount} <span className="text-xs font-normal opacity-50">geoefend</span></span>
-        </div>
-
-        {/* ── Spel sectie ───────────────────────────────────────────── */}
-        <div
-          className="bg-[var(--ds-black)] px-4 py-2 flex items-center justify-between"
-          style={{ gridColumn: "span 2" }}
-        >
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-40">
-            SPELLEN
-          </span>
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-yellow)]">
-            NIEUW SPEL
-          </span>
-        </div>
-
-        {/* Zin Motor Banner */}
-        <Link
-          href="/spel/zin-motor"
-          className="bg-[var(--ds-yellow)] border-[3px] border-[var(--ds-black)] p-5 flex flex-col justify-between hover:bg-[var(--ds-white)] transition-colors group"
-          style={{ gridColumn: "span 2", minHeight: "100px" }}
-        >
-          <div className="flex justify-between items-start">
-            <span className="text-[10px] font-black uppercase tracking-widest text-[var(--ds-black)]">
-              ZIN MOTOR (NIEUW)
-            </span>
-            <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-55">
-              DE ZINNENMACHINE
-            </span>
-          </div>
-          <div className="flex items-end justify-between mt-2">
-            <div>
-              <h2 className="text-lg font-black text-[var(--ds-black)] leading-tight">
-                Draai de wielen en bouw de zin
-              </h2>
-              <p className="text-xs text-[var(--ds-black)] opacity-60 mt-0.5">
-                Match het onderwerp en de persoonsvorm
+            <div className="flex flex-col gap-1 select-none">
+              <h2 className="text-xl font-bold">{nextLesson ? nextLesson.title : "Alle lessen voltooid!"}</h2>
+              <p className="text-xs text-white/70">
+                {nextLesson ? "Begin direct met deze les om je streak te behouden." : "Gefeliciteerd! Je hebt alle lessen afgerond."}
               </p>
             </div>
-            <div className="w-8 h-8 bg-black text-white flex items-center justify-center flex-shrink-0 group-hover:bg-white group-hover:text-black group-hover:border-black border-[3px] border-black transition-colors">
-              <ArrowRight />
+            <div className="w-full bg-white/20 h-1.5 rounded-full overflow-hidden mt-2">
+              <div className="bg-[var(--accent)] h-full rounded-full" style={{ width: `${lessenPct}%` }} />
             </div>
-          </div>
-        </Link>
-
-        {/* ... Rest of Mondriaan buttons unchanged ... */}
-        <Link
-          href="/spel/zin-bouwen"
-          className="bg-[var(--ds-blue)] p-4 flex flex-col justify-between hover:opacity-90 transition-opacity"
-          style={{ minHeight: "75px" }}
-        >
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-65">ZIN BOUWEN</span>
-          <div className="flex items-end justify-between">
-            <span className="text-xs text-[var(--ds-white)] opacity-50">Drag & drop</span>
-            <span className="text-[var(--ds-white)] opacity-60"><ArrowRight /></span>
-          </div>
-        </Link>
-
-        <Link
-          href="/spel/vul-in"
-          className="bg-[var(--ds-white)] p-4 flex flex-col justify-between hover:bg-[var(--ds-gray)] transition-colors"
-          style={{ minHeight: "75px" }}
-        >
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-55">VUL IN</span>
-          <div className="flex items-end justify-between">
-            <span className="text-xs text-[var(--ds-black)] opacity-50">Vul het woord in</span>
-            <span className="text-[var(--ds-black)] opacity-50"><ArrowRight /></span>
-          </div>
-        </Link>
-
-        <Link
-          href="/spel/vertaal"
-          className="bg-[var(--ds-red)] p-4 flex flex-col justify-between hover:opacity-90 transition-opacity"
-          style={{ minHeight: "75px" }}
-        >
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-65">VERTAAL</span>
-          <div className="flex items-end justify-between">
-            <span className="text-xs text-[var(--ds-white)] opacity-50">Vertaal</span>
-            <span className="text-[var(--ds-white)] opacity-60"><ArrowRight /></span>
-          </div>
-        </Link>
-
-        <Link
-          href="/spel/snelronde"
-          className="bg-[var(--ds-yellow)] p-4 flex flex-col justify-between hover:opacity-90 transition-opacity"
-          style={{ minHeight: "75px" }}
-        >
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-65">SNELRONDE</span>
-          <div className="flex items-end justify-between">
-            <span className="text-xs text-[var(--ds-black)] opacity-50">Race tegen de klok</span>
-            <span className="text-[var(--ds-black)] opacity-60"><ArrowRight /></span>
-          </div>
-        </Link>
-
-        <Link
-          href="/spel/flitsen"
-          className="bg-[var(--ds-blue)] border-[3px] border-[var(--ds-black)] p-5 flex flex-col justify-between hover:bg-[var(--ds-white)] transition-colors group"
-          style={{ gridColumn: "span 2", minHeight: "90px" }}
-        >
-          <div className="flex justify-between items-start">
-            <span className="text-[10px] font-black uppercase tracking-widest text-[var(--ds-white)] group-hover:text-[var(--ds-black)]">
-              FLITSEN (NIEUW)
-            </span>
-            <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] group-hover:text-[var(--ds-black)] opacity-50">
-              5s-8s spaced repetition
-            </span>
-          </div>
-          <div className="flex items-end justify-between mt-2">
-            <div>
-              <h2 className="text-sm font-black text-[var(--ds-white)] group-hover:text-[var(--ds-black)] leading-tight">
-                Herhaal en prent de zinnen in
-              </h2>
-              <p className="text-[10px] text-[var(--ds-white)] group-hover:text-[var(--ds-black)] opacity-60 mt-0.5">
-                Spreek de zinnen hardop na binnen de tijd
-              </p>
+            <div className="flex justify-between items-center text-xs text-white/80 font-bold select-none">
+              <span>Voortgang (İlerleme)</span>
+              <span>{lessenPct}%</span>
             </div>
-            <div className="w-8 h-8 bg-white text-black flex items-center justify-center flex-shrink-0 group-hover:bg-black group-hover:text-white group-hover:border-white border-[3px] border-white transition-colors">
-              <ArrowRight />
-            </div>
+            {nextLesson && (
+              <Link
+                href={`/lessen/${nextLesson.id}?etappe=${nextLesson.etappeId}&nr=${nextLesson.nr}`}
+                className="bg-[var(--accent)] text-white font-bold py-3.5 px-6 rounded-2xl text-center hover:opacity-95 transition-opacity z-10 flex items-center justify-center gap-2 mt-2 shadow-[0_4px_12px_rgba(0,173,181,0.2)]"
+              >
+                Start de les (Dersi Başlat) <ArrowRight />
+              </Link>
+            )}
           </div>
-        </Link>
-
-        <div
-          className="bg-[var(--ds-black)] px-4 py-2 flex items-center"
-          style={{ gridColumn: "span 2" }}
-        >
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-40">
-            MEER
-          </span>
         </div>
 
-        <Link
-          href="/meer/voortgang"
-          className="bg-[var(--ds-white)] p-4 flex flex-col justify-between hover:bg-[var(--ds-gray)] transition-colors"
-          style={{ minHeight: "75px" }}
-        >
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-55">VOORTGANG</span>
-          <div className="flex items-end justify-between">
-            <span className="text-xs text-[var(--ds-black)] opacity-50">Statistieken & rapport</span>
-            <span className="text-[var(--ds-black)] opacity-50"><ArrowRight /></span>
-          </div>
-        </Link>
+        {/* Sağ 1 Kolon: Hızlı İstatistik veya Motivasyon */}
+        <div className="bg-gradient-to-r from-[var(--primary)] to-[#115e59] text-white rounded-3xl p-6 shadow-md border border-[var(--border)] text-center flex flex-col items-center gap-2">
+          <div className="text-4xl">🏆</div>
+          <h3 className="font-bold text-lg">Je bent goed bezig!</h3>
+          <p className="text-xs text-white/80 max-w-[200px]">
+            Je hebt al {completedLessons} lessen en {verbCount} werkwoorden geoefend. Blijf zo doorgaan!
+          </p>
+        </div>
+      </div>
 
-        <Link
-          href="/meer"
-          className="bg-[var(--ds-gray)] p-4 flex flex-col justify-between hover:opacity-80 transition-opacity"
-          style={{ minHeight: "75px" }}
-        >
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-black)] opacity-55">INSTELLINGEN</span>
-          <div className="flex items-end justify-between">
-            <span className="text-xs text-[var(--ds-black)] opacity-50">Taal & niveau</span>
-            <span className="text-[var(--ds-black)] opacity-50"><ArrowRight /></span>
-          </div>
-        </Link>
+      {/* Grid: Diğer Modüller */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Temel Çalışmalar */}
+        <div className="flex flex-col gap-3">
+          <span className="text-[10px] font-black uppercase tracking-widest text-[var(--text-muted)]">MODULEN (Modüller)</span>
+          <div className="flex flex-col gap-2.5">
+            {/* Lessen */}
+            <Link
+              href="/lessen"
+              className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors shadow-sm"
+            >
+              <div className="flex items-center gap-4">
+                <div className="w-10 h-10 rounded-xl bg-blue-100 dark:bg-blue-950/30 text-blue-600 flex items-center justify-center font-bold text-lg">📖</div>
+                <div className="flex flex-col">
+                  <span className="font-bold text-sm text-[var(--text)]">Lessen</span>
+                  <span className="text-xs text-slate-400 mt-0.5">Alle lessen en verhalen</span>
+                </div>
+              </div>
+              <ArrowRight />
+            </Link>
 
-        <Link
-          href="/meer/feedback"
-          className="bg-[var(--ds-blue)] p-4 flex flex-col justify-between hover:opacity-90 transition-opacity"
-          style={{ gridColumn: "span 2", minHeight: "75px" }}
-        >
-          <span className="text-[9px] font-bold uppercase tracking-widest text-[var(--ds-white)] opacity-65">FEEDBACK & SUPPORT</span>
-          <div className="flex items-end justify-between">
-            <span className="text-xs text-[var(--ds-white)] opacity-55">Meld een fout of stel een functie voor</span>
-            <span className="text-[var(--ds-white)] opacity-60"><ArrowRight /></span>
-          </div>
-        </Link>
+            {/* Woordkaarten */}
+            <Link
+              href="/kaarten"
+              className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors shadow-sm"
+            >
+              <div className="flex items-center gap-4">
+                <div className="w-10 h-10 rounded-xl bg-emerald-100 dark:bg-emerald-950/30 text-emerald-600 flex items-center justify-center font-bold text-lg">🗂️</div>
+                <div className="flex flex-col">
+                  <span className="font-bold text-sm text-[var(--text)]">Woordkaarten</span>
+                  <span className="text-xs text-slate-400 mt-0.5">Interactief woordjes leren</span>
+                </div>
+              </div>
+              <ArrowRight />
+            </Link>
 
+            {/* Grammatica */}
+            <Link
+              href="/grammatica"
+              className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors shadow-sm"
+            >
+              <div className="flex items-center gap-4">
+                <div className="w-10 h-10 rounded-xl bg-violet-100 dark:bg-violet-950/30 text-violet-600 flex items-center justify-center font-bold text-lg">💡</div>
+                <div className="flex flex-col">
+                  <span className="font-bold text-sm text-[var(--text)]">Grammatica</span>
+                  <span className="text-xs text-slate-400 mt-0.5">Regels en structuur</span>
+                </div>
+              </div>
+              <ArrowRight />
+            </Link>
+
+            {/* Signaalwoorden */}
+            <Link
+              href="/signaalwoorden"
+              className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors shadow-sm"
+            >
+              <div className="flex items-center gap-4">
+                <div className="w-10 h-10 rounded-xl bg-pink-100 dark:bg-pink-950/30 text-pink-600 flex items-center justify-center font-bold text-lg">🔗</div>
+                <div className="flex flex-col">
+                  <span className="font-bold text-sm text-[var(--text)]">Signaalwoorden</span>
+                  <span className="text-xs text-slate-400 mt-0.5">Tekstverbanden begrijpen</span>
+                </div>
+              </div>
+              <ArrowRight />
+            </Link>
+
+            {/* Voegwoorden */}
+            <Link
+              href="/voegwoorden"
+              className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors shadow-sm"
+            >
+              <div className="flex items-center gap-4">
+                <div className="w-10 h-10 rounded-xl bg-teal-100 dark:bg-teal-950/30 text-teal-600 flex items-center justify-center font-bold text-lg">🤝</div>
+                <div className="flex flex-col">
+                  <span className="font-bold text-sm text-[var(--text)]">Voegwoorden</span>
+                  <span className="text-xs text-slate-400 mt-0.5">Zinnen verbinden</span>
+                </div>
+              </div>
+              <ArrowRight />
+            </Link>
+
+            {/* Video Lessen */}
+            <Link
+              href="/videos"
+              className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors shadow-sm"
+            >
+              <div className="flex items-center gap-4">
+                <div className="w-10 h-10 rounded-xl bg-red-100 dark:bg-red-950/30 text-red-600 flex items-center justify-center font-bold text-lg">🎥</div>
+                <div className="flex flex-col">
+                  <span className="font-bold text-sm text-[var(--text)]">Video Lessen</span>
+                  <span className="text-xs text-slate-400 mt-0.5">Videolessen en shadowing</span>
+                </div>
+              </div>
+              <ArrowRight />
+            </Link>
+          </div>
+        </div>
+
+        {/* Oyun Modülleri */}
+        <div className="flex flex-col gap-3">
+          <span className="text-[10px] font-black uppercase tracking-widest text-[var(--text-muted)]">SPELLEN (Oyunlar)</span>
+          <div className="flex flex-col gap-2.5">
+            {/* Zin Motor */}
+            <Link
+              href="/spel/zin-motor"
+              className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors shadow-sm border-l-4 border-l-[var(--accent)]"
+            >
+              <div className="flex items-center gap-4">
+                <div className="w-10 h-10 rounded-xl bg-cyan-100 dark:bg-cyan-950/30 text-cyan-600 flex items-center justify-center font-bold text-lg">🎰</div>
+                <div className="flex flex-col">
+                  <span className="font-bold text-sm text-[var(--text)]">Zin Motor</span>
+                  <span className="text-xs text-slate-400 mt-0.5">Roterende wielen zinsbouw</span>
+                </div>
+              </div>
+              <ArrowRight />
+            </Link>
+
+            {/* Flitsen */}
+            <Link
+              href="/spel/flitsen"
+              className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors shadow-sm"
+            >
+              <div className="flex items-center gap-4">
+                <div className="w-10 h-10 rounded-xl bg-rose-100 dark:bg-rose-950/30 text-rose-600 flex items-center justify-center font-bold text-lg">⚡</div>
+                <div className="flex flex-col">
+                  <span className="font-bold text-sm text-[var(--text)]">Flitsen</span>
+                  <span className="text-xs text-slate-400 mt-0.5">Snelheid flitskaarten</span>
+                </div>
+              </div>
+              <ArrowRight />
+            </Link>
+
+            {/* Zin Bouwen */}
+            <Link
+              href="/spel/zin-bouwen"
+              className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors shadow-sm"
+            >
+              <div className="flex items-center gap-4">
+                <div className="w-10 h-10 rounded-xl bg-orange-100 dark:bg-orange-950/30 text-orange-600 flex items-center justify-center font-bold text-lg">🧩</div>
+                <div className="flex flex-col">
+                  <span className="font-bold text-sm text-[var(--text)]">Zin Bouwen</span>
+                  <span className="text-xs text-slate-400 mt-0.5">Slepende zinsopbouw</span>
+                </div>
+              </div>
+              <ArrowRight />
+            </Link>
+
+            {/* Vul In */}
+            <Link
+              href="/spel/vul-in"
+              className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors shadow-sm"
+            >
+              <div className="flex items-center gap-4">
+                <div className="w-10 h-10 rounded-xl bg-yellow-100 dark:bg-yellow-950/30 text-yellow-600 flex items-center justify-center font-bold text-lg">✏️</div>
+                <div className="flex flex-col">
+                  <span className="font-bold text-sm text-[var(--text)]">Vul In</span>
+                  <span className="text-xs text-slate-400 mt-0.5">Ontbrekende woorden</span>
+                </div>
+              </div>
+              <ArrowRight />
+            </Link>
+
+            {/* Vertaal */}
+            <Link
+              href="/spel/vertaal"
+              className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors shadow-sm"
+            >
+              <div className="flex items-center gap-4">
+                <div className="w-10 h-10 rounded-xl bg-emerald-100 dark:bg-emerald-950/30 text-emerald-600 flex items-center justify-center font-bold text-lg">🗣️</div>
+                <div className="flex flex-col">
+                  <span className="font-bold text-sm text-[var(--text)]">Vertaal</span>
+                  <span className="text-xs text-slate-400 mt-0.5">Vrije vertalingen</span>
+                </div>
+              </div>
+              <ArrowRight />
+            </Link>
+
+            {/* Snelronde */}
+            <Link
+              href="/spel/snelronde"
+              className="bg-[var(--surface)] border border-[var(--border)] rounded-2xl p-4 flex items-center justify-between hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors shadow-sm"
+            >
+              <div className="flex items-center gap-4">
+                <div className="w-10 h-10 rounded-xl bg-amber-100 dark:bg-amber-950/30 text-amber-600 flex items-center justify-center font-bold text-lg">⏱️</div>
+                <div className="flex flex-col">
+                  <span className="font-bold text-sm text-[var(--text)]">Snelronde</span>
+                  <span className="text-xs text-slate-400 mt-0.5">Race tegen de klok (60s)</span>
+                </div>
+              </div>
+              <ArrowRight />
+            </Link>
+          </div>
+        </div>
       </div>
     </div>
   );

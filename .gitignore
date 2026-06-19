@@ -39,3 +39,24 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# prompts, plans and reports
+ANTIGRAVITY-*
+GEMINI-*
+PLAN-*
+*RAPOR*
+*KONTROL*
+HIKAYE-ICERIK-KURALLARI.md
+UI-VE-COZUM-ONERILERI.md
+PART1-*
+PART3-*
+.claude/
+.gemini/
+
+# temporary scripts and backups
+run_slice.js
+slice.py
+public/data/*.json.bak
+public/data/lessen-verhalen-nieuw.json
+public/data/zinnenbank-seviyeli.json
+scripts/
