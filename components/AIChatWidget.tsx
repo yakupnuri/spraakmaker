@@ -356,7 +356,7 @@ export function AIChatWidget() {
 
       {/* SOHBET PENCERESİ WIDGET */}
       {isOpen && (
-        <div className="fixed inset-0 sm:inset-auto sm:bottom-24 sm:right-6 z-50 w-full sm:w-[380px] h-full sm:h-[550px] bg-[var(--surface)] border-0 sm:border border-[var(--border)] rounded-none sm:rounded-3xl shadow-[0_12px_40px_rgba(0,0,0,0.15)] flex flex-col overflow-hidden animate-fadeIn backdrop-blur-xl">
+        <div className="fixed inset-0 sm:inset-auto sm:bottom-24 sm:right-6 z-[100] w-full sm:w-[380px] h-full sm:h-[550px] bg-[var(--surface)] border-0 sm:border border-[var(--border)] rounded-none sm:rounded-3xl shadow-[0_12px_40px_rgba(0,0,0,0.15)] flex flex-col overflow-hidden animate-fadeIn backdrop-blur-xl">
           
           {/* Elmas Puan Animasyonu */}
           {diamondsWon !== null && (
@@ -542,7 +542,7 @@ export function AIChatWidget() {
               </div>
 
               {/* GİRİŞ ALANI */}
-              <form onSubmit={handleSendMessage} className="p-3 border-t border-[var(--border)] bg-[var(--surface-2)] flex items-center gap-2 shrink-0">
+              <form onSubmit={handleSendMessage} className="p-3 pb-[calc(env(safe-area-inset-bottom)+12px)] sm:pb-3 border-t border-[var(--border)] bg-[var(--surface-2)] flex items-center gap-2 shrink-0">
                 <button
                   type="button"
                   onClick={toggleListening}
