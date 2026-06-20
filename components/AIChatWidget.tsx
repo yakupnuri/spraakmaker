@@ -494,28 +494,31 @@ export function AIChatWidget() {
 
                           {/* DİL BİLGİSİ GERİ BİLDİRİMİ */}
                           {!isAI && msg.analysis && (
-                            <div className="mt-0.5 flex flex-col gap-1 w-full">
+                            <div className="mt-1 flex flex-col gap-1.5 w-full">
                               {msg.analysis.hasError ? (
-                                <div className="border border-amber-200 dark:border-amber-950/40 bg-amber-50 dark:bg-amber-950/10 rounded-xl overflow-hidden">
+                                <div className="border border-amber-300/50 dark:border-amber-900/30 bg-amber-50/80 dark:bg-amber-950/20 rounded-2xl overflow-hidden transition-all duration-300">
                                   <button
                                     onClick={() => setOpenAnalysisId(openAnalysisId === msg.id ? null : msg.id)}
-                                    className="w-full flex items-center justify-between px-2 py-1 text-[10px] font-bold text-amber-700 dark:text-amber-400"
+                                    className="w-full flex items-center justify-between px-3 py-2.5 text-xs font-bold text-amber-800 dark:text-amber-400 hover:bg-amber-100/30 transition-colors"
                                   >
-                                    <span>⚠️ Kelime Sırası / Dil Bilgisi İpucu</span>
+                                    <span className="flex items-center gap-1.5">
+                                      ⚠️ Dil Bilgisi & Anlam İpucu
+                                    </span>
                                     <span>{openAnalysisId === msg.id ? "▲" : "▼"}</span>
                                   </button>
                                   {openAnalysisId === msg.id && (
-                                    <div className="px-2 pb-2 pt-0.5 text-[10px] text-amber-800 dark:text-amber-300 border-t border-amber-100 dark:border-amber-950/30 flex flex-col gap-1">
-                                      <p>{msg.analysis.explanation}</p>
-                                      <p className="bg-amber-100/50 dark:bg-amber-950/30 p-1.5 rounded-lg italic font-bold">
-                                        Doğru: {msg.analysis.corrected}
-                                      </p>
+                                    <div className="px-3 pb-3.5 pt-1.5 text-xs text-amber-900 dark:text-amber-200 border-t border-amber-200/50 dark:border-amber-900/20 flex flex-col gap-2.5 leading-relaxed animate-fadeIn font-semibold">
+                                      <p className="whitespace-pre-line">{msg.analysis.explanation}</p>
+                                      <div className="bg-amber-100/80 dark:bg-amber-950/50 p-2.5 rounded-xl border border-amber-200 dark:border-amber-900/40">
+                                        <span className="font-black block text-[9px] text-amber-900 dark:text-amber-400 uppercase tracking-widest mb-0.5">Doğru Sürüm:</span>
+                                        <span className="italic font-extrabold text-[13px] text-amber-950 dark:text-amber-100">{msg.analysis.corrected}</span>
+                                      </div>
                                     </div>
                                   )}
                                 </div>
                               ) : (
-                                <div className="text-[10px] font-bold text-emerald-600 dark:text-emerald-400 self-end">
-                                  ✅ Hatasız Harika Cümle!
+                                <div className="text-xs font-black text-emerald-600 dark:text-emerald-400 self-end flex items-center gap-1 bg-emerald-500/10 border border-emerald-500/20 px-2 py-1 rounded-xl">
+                                  ✅ Harika ve Hatasız Cümle!
                                 </div>
                               )}
                             </div>

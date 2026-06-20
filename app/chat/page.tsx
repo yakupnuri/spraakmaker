@@ -417,33 +417,31 @@ export default function AIChatPage() {
 
                       {/* Analiz & Başarı Durumu Paneli */}
                       {!isAI && msg.analysis && (
-                        <div className="mt-1 flex flex-col gap-1.5 self-end w-full">
+                        <div className="mt-1.5 flex flex-col gap-1.5 self-end w-full">
                           {msg.analysis.hasError ? (
-                            <div className="border border-amber-200 dark:border-amber-950/40 bg-amber-50 dark:bg-amber-950/10 rounded-2xl overflow-hidden transition-all duration-300">
+                            <div className="border border-amber-300/50 dark:border-amber-900/30 bg-amber-50/80 dark:bg-amber-950/20 rounded-2xl overflow-hidden transition-all duration-300">
                               <button
                                 onClick={() => setOpenAnalysisId(openAnalysisId === msg.id ? null : msg.id)}
-                                className="w-full flex items-center justify-between px-3 py-2 text-xs font-bold text-amber-700 dark:text-amber-400 hover:bg-amber-100/30 transition-colors"
+                                className="w-full flex items-center justify-between px-3 py-2.5 text-xs font-bold text-amber-800 dark:text-amber-400 hover:bg-amber-100/30 transition-colors"
                               >
                                 <span className="flex items-center gap-1.5">
-                                  ⚠️ Dil Bilgisi İpucu (İncele)
+                                  ⚠️ Dil Bilgisi & Anlam İpucu
                                 </span>
                                 <span>{openAnalysisId === msg.id ? "▲" : "▼"}</span>
                               </button>
                               
                               {openAnalysisId === msg.id && (
-                                <div className="px-3 pb-3 pt-1 text-xs text-amber-800 dark:text-amber-300 flex flex-col gap-2 border-t border-amber-100 dark:border-amber-950/30 animate-fadeIn">
-                                  <p className="font-semibold leading-relaxed">
-                                    {msg.analysis.explanation}
-                                  </p>
-                                  <div className="bg-amber-100/40 dark:bg-amber-950/30 p-2 rounded-xl border border-amber-200/40">
-                                    <span className="font-bold block text-[10px] text-amber-900 dark:text-amber-200 uppercase tracking-wider mb-0.5">Doğru Sürüm:</span>
-                                    <span className="italic font-bold text-[13px]">{msg.analysis.corrected}</span>
+                                <div className="px-3 pb-3.5 pt-1.5 text-xs text-amber-900 dark:text-amber-200 border-t border-amber-200/50 dark:border-amber-900/20 flex flex-col gap-2.5 leading-relaxed animate-fadeIn font-semibold">
+                                  <p className="whitespace-pre-line">{msg.analysis.explanation}</p>
+                                  <div className="bg-amber-100/80 dark:bg-amber-950/50 p-2.5 rounded-xl border border-amber-200 dark:border-amber-900/40">
+                                    <span className="font-black block text-[9px] text-amber-900 dark:text-amber-400 uppercase tracking-widest mb-0.5">Doğru Sürüm:</span>
+                                    <span className="italic font-extrabold text-[13px] text-amber-950 dark:text-amber-100">{msg.analysis.corrected}</span>
                                   </div>
                                 </div>
                               )}
                             </div>
                           ) : (
-                            <div className="flex items-center gap-1 bg-emerald-50 dark:bg-emerald-950/20 text-emerald-600 dark:text-emerald-400 border border-emerald-100 dark:border-emerald-950/40 px-3 py-1.5 rounded-2xl text-[11px] font-black self-end">
+                            <div className="flex items-center gap-1.5 bg-emerald-500/10 dark:bg-emerald-500/5 text-emerald-600 dark:text-emerald-400 border border-emerald-500/20 px-3 py-1.5 rounded-2xl text-xs font-black self-end">
                               ✅ Hatasız Harika Cümle! (+10💎)
                             </div>
                           )}
