@@ -178,3 +178,14 @@ body {
 .card-back {
   transform: rotateY(180deg);
 }
+
+/* ─── Mobile Accessibility (Okunabilirlik) İyileştirmeleri ─────────────────── */
+@media (max-width: 767px) {
+  /* Piksel tabanlı çok küçük font sınıflarını mobilde okunabilir boyutlara ölçeklendirelim */
+  .text-\[8px\] { font-size: 11px !important; }
+  .text-\[9px\] { font-size: 11.5px !important; }
+  .text-\[10px\] { font-size: 12.5px !important; }
+  .text-\[11px\] { font-size: 13px !important; }
+  .text-\[12px\] { font-size: 14px !important; }
+}
+

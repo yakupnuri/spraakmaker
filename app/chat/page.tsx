@@ -195,7 +195,8 @@ export default function AIChatPage() {
       });
 
       if (!response.ok) {
-        throw new Error("API hatası oluştu.");
+        const errData = await response.json().catch(() => ({}));
+        throw new Error(errData.error || `API hatası (${response.status})`);
       }
 
       const data = await response.json();
@@ -248,14 +249,14 @@ export default function AIChatPage() {
         // Hatalıysa analizi otomatik aç
         setOpenAnalysisId(userMessageId);
       }
-    } catch (error) {
+    } catch (error: any) {
       console.error(error);
       setMessages((prev) => [
         ...prev,
         {
           id: Math.random().toString(36).substring(7),
           role: "assistant",
-          content: "Sorry, er is iets misgegaan. Probeer het opnieuw. (Üzgünüm, bir şeyler ters gitti. Lütfen tekrar deneyin.)",
+          content: `Hata: ${error.message || "Sorry, er is iets misgegaan. Probeer het opnieuw. (Üzgünüm, bir şeyler ters gitti. Lütfen tekrar deneyin.)"}`,
         },
       ]);
     } finally {
@@ -431,11 +432,11 @@ export default function AIChatPage() {
                               </button>
                               
                               {openAnalysisId === msg.id && (
-                                <div className="px-3 pb-3.5 pt-1.5 text-xs text-amber-900 dark:text-amber-200 border-t border-amber-200/50 dark:border-amber-900/20 flex flex-col gap-2.5 leading-relaxed animate-fadeIn font-semibold">
+                                <div className="px-3.5 pb-4 pt-2 text-[13px] text-amber-950 dark:text-amber-100 border-t border-amber-200/50 dark:border-amber-900/20 flex flex-col gap-3 leading-relaxed animate-fadeIn font-medium">
                                   <p className="whitespace-pre-line">{msg.analysis.explanation}</p>
-                                  <div className="bg-amber-100/80 dark:bg-amber-950/50 p-2.5 rounded-xl border border-amber-200 dark:border-amber-900/40">
-                                    <span className="font-black block text-[9px] text-amber-900 dark:text-amber-400 uppercase tracking-widest mb-0.5">Doğru Sürüm:</span>
-                                    <span className="italic font-extrabold text-[13px] text-amber-950 dark:text-amber-100">{msg.analysis.corrected}</span>
+                                  <div className="bg-amber-100/90 dark:bg-amber-950/60 p-3 rounded-xl border border-amber-200 dark:border-amber-900/40">
+                                    <span className="font-bold block text-[10px] text-amber-800 dark:text-amber-400 uppercase tracking-wider mb-1">Doğru Sürüm:</span>
+                                    <span className="font-bold text-[13.5px] text-amber-950 dark:text-amber-50 select-text">{msg.analysis.corrected}</span>
                                   </div>
                                 </div>
                               )}

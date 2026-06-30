@@ -232,7 +232,8 @@ export function AIChatWidget() {
       });
 
       if (!response.ok) {
-        throw new Error("API hatası.");
+        const errData = await response.json().catch(() => ({}));
+        throw new Error(errData.error || `API hatası (${response.status})`);
       }
 
       const data = await response.json();
@@ -304,14 +305,14 @@ export function AIChatWidget() {
         setOpenAnalysisId(userMessageId);
       }
 
-    } catch (error) {
+    } catch (error: any) {
       console.error(error);
       setMessages((prev) => [
         ...prev,
         {
           id: Math.random().toString(36).substring(7),
           role: "assistant",
-          content: "Sorry, er is iets misgegaan. Probeer het opnieuw.",
+          content: `Hata: ${error.message || "Sorry, er is iets misgegaan. Probeer het opnieuw."}`,
         },
       ]);
     } finally {
@@ -325,23 +326,20 @@ export function AIChatWidget() {
       <div className="fixed bottom-20 md:bottom-6 right-4 md:right-6 z-50 flex flex-col items-center">
         <button
           onClick={() => setIsOpen(!isOpen)}
-          className={`w-16 h-16 rounded-full flex flex-col items-center justify-center shadow-[0_8px_32px_rgba(37,99,235,0.4)] border border-blue-500/20 transition-all duration-300 active:scale-95 relative group ${
+          className={`w-16 h-16 rounded-full flex flex-col items-center justify-center transition-all duration-300 active:scale-95 relative group ${
             isOpen 
-              ? "bg-red-500 hover:bg-red-600 rotate-90 text-white" 
-              : "bg-gradient-to-r from-blue-600 to-indigo-600 text-white hover:opacity-95"
+              ? "bg-red-500 hover:bg-red-600 rotate-90 text-white shadow-[0_8px_32px_rgba(239,68,68,0.4)] border border-red-500/20" 
+              : "bg-transparent border-0 shadow-none text-white"
           }`}
         >
           {isOpen ? (
             <span className="text-xl font-bold">✕</span>
           ) : (
-            <div className="flex flex-col items-center justify-center select-none pt-1">
-              <img
-                src="/ai-maskot.png"
-                alt="AI Mascot"
-                className="w-10 h-10 object-contain group-hover:scale-105 transition-transform"
-              />
-              <span className="text-[9px] font-black tracking-widest uppercase text-white/90 -mt-0.5 leading-none">EA</span>
-            </div>
+            <img
+              src="/ai-maskot.png"
+              alt="AI Mascot"
+              className="w-full h-full object-contain group-hover:scale-110 transition-transform select-none"
+            />
           )}
           
           {/* Bildirim Balonu / Pırıltı Efekti */}
@@ -507,11 +505,11 @@ export function AIChatWidget() {
                                     <span>{openAnalysisId === msg.id ? "▲" : "▼"}</span>
                                   </button>
                                   {openAnalysisId === msg.id && (
-                                    <div className="px-3 pb-3.5 pt-1.5 text-xs text-amber-900 dark:text-amber-200 border-t border-amber-200/50 dark:border-amber-900/20 flex flex-col gap-2.5 leading-relaxed animate-fadeIn font-semibold">
+                                    <div className="px-3.5 pb-4 pt-2 text-[13px] text-amber-950 dark:text-amber-100 border-t border-amber-200/50 dark:border-amber-900/20 flex flex-col gap-3 leading-relaxed animate-fadeIn font-medium">
                                       <p className="whitespace-pre-line">{msg.analysis.explanation}</p>
-                                      <div className="bg-amber-100/80 dark:bg-amber-950/50 p-2.5 rounded-xl border border-amber-200 dark:border-amber-900/40">
-                                        <span className="font-black block text-[9px] text-amber-900 dark:text-amber-400 uppercase tracking-widest mb-0.5">Doğru Sürüm:</span>
-                                        <span className="italic font-extrabold text-[13px] text-amber-950 dark:text-amber-100">{msg.analysis.corrected}</span>
+                                      <div className="bg-amber-100/90 dark:bg-amber-950/60 p-3 rounded-xl border border-amber-200 dark:border-amber-900/40">
+                                        <span className="font-bold block text-[10px] text-amber-800 dark:text-amber-400 uppercase tracking-wider mb-1">Doğru Sürüm:</span>
+                                        <span className="font-bold text-[13.5px] text-amber-950 dark:text-amber-50 select-text">{msg.analysis.corrected}</span>
                                       </div>
                                     </div>
                                   )}
